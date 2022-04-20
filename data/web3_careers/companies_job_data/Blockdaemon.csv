@@ -1,0 +1,93 @@
+Company Name,Job Title,Salary Range,Tags,Posted Before
+Blockdaemon,Executive Administrative Assistant,$79k - $200k,executive:remote,21h
+Blockdaemon,Software Engineer,$60k - $155k,dev:javascript:node,7d
+Blockdaemon,Senior Software Engineer,$80k - $200k,dev:senior:javascript:node,7d
+Blockdaemon,Senior Front End Engineer,$70k - $200k,dev:front end:senior:react:javascript,7d
+Blockdaemon,Front End Engineer,$50k - $144k,dev:front end:react:javascript,7d
+Blockdaemon,Business Development Representative,$26k - $140k,sales:non tech,7d
+Blockdaemon,Tendermint Infrastructure Engineer,$65k - $165k,dev:node,28d
+Blockdaemon,Substrate Infrastructure Engineer,$65k - $165k,dev:node,28d
+Blockdaemon,Platform Programs Lead,$60k - $200k,lead,28d
+Blockdaemon,"Director, Enterprise Architecture",$70k - $180k,executive,28d
+Blockdaemon,"Senior Marketing Manager, APAC",$46k - $109k,marketing:non tech:senior,29d
+Blockdaemon,Strategic Finance Manager,$40k - $150k,finance,1mo
+Blockdaemon,"Business Development Representative, APAC",$26k - $140k,sales:non tech,1mo
+Blockdaemon,Web3 Fund Portfolio Manager,$40k - $150k,finance,2mo
+Blockdaemon,Technical Recruiting Lead,$40k - $70k,lead:recruiter:non tech,2mo
+Blockdaemon,Web Designer,$50k - $150k,design:non tech,2mo
+Blockdaemon,Business Operations & Strategy Associate,$60k - $200k,operations,2mo
+Blockdaemon,Contracts & Compliance Attorney,,compliance,2mo
+Blockdaemon,Site Reliability Engineer,,dev:sys admin:solidity:golang:rust,2mo
+Blockdaemon,Enterprise Architect,$80k - $180k,architecture:node,2mo
+Blockdaemon,Content Specialist,$25k - $96k,marketing:non tech:copywriting,2mo
+Blockdaemon,PMO Associate,,,3mo
+Blockdaemon,JIRA Administrator,,,3mo
+Blockdaemon,Delivery Manager,$70k - $300k,dev:executive,3mo
+Blockdaemon,Group Product Manager,$69k - $160k,product manager:non tech,3mo
+Blockdaemon,Customer Support Manager,$40k - $80k,customer support,3mo
+Blockdaemon,"Director, International Accounting",$120k - $150k,accounting:executive,3mo
+Blockdaemon,Chief Compliance Officer (CCO),,compliance:executive,3mo
+Blockdaemon,G&A Compliance Analyst,,compliance:analyst,3mo
+Blockdaemon,Compliance Manager,,compliance,3mo
+Blockdaemon,"Product Manager, Cloud",,cloud:product manager:non tech,3mo
+Blockdaemon,Project Manager (UK),$50k - $150k,project manager:non tech,4mo
+Blockdaemon,Full Stack Developer,$65k - $180k,dev:full stack:react:javascript:golang,4mo
+Blockdaemon,"Product Manager, Monitoring and Logging",$69k - $160k,product manager:non tech,4mo
+Blockdaemon,QA Engineer,$40k - $150k,dev:quality assurance:javascript,4mo
+Blockdaemon,Technical Business Analyst,,analyst:node,4mo
+Blockdaemon,Learning & Development Program Manager,$70k - $180k,executive,4mo
+Blockdaemon,Communications Lead,$60k - $200k,lead,4mo
+Blockdaemon,Corporate Development Associate,,,4mo
+Blockdaemon,Accounting Manager,$25k - $150k,accounting,5mo
+Blockdaemon,UX Researcher,$50k - $135k,design:non tech:remote,5mo
+Blockdaemon,Project Manager,$50k - $150k,project manager:non tech,5mo
+Blockdaemon,Sales Director (Ireland),$40k - $150k,executive:sales:non tech,5mo
+Blockdaemon,Relationship Manager (UK),$45k - $130k,marketing:non tech,5mo
+Blockdaemon,Relationship Manager (Singapore),$45k - $130k,marketing:non tech,5mo
+Blockdaemon,Relationship Manager (Ireland),$45k - $130k,marketing:non tech,5mo
+Blockdaemon,Inside Sales Development Representative (UK),$29k - $43k,sales:non tech:ethereum,5mo
+Blockdaemon,Inside Sales Development Representative (Singapore),$29k - $43k,sales:non tech:ethereum,5mo
+Blockdaemon,Product Designer,$50k - $150k,design:non tech,5mo
+Blockdaemon,Marketing Designer,,design:non tech:marketing,5mo
+Blockdaemon,"Senior Product Manager, DeFi",$80k - $150k,product manager:non tech:senior:defi,5mo
+Blockdaemon,"Senior Product Manager, Data",$80k - $150k,product manager:non tech:senior,5mo
+Blockdaemon,"Product Manager, Staking Workflows",$69k - $160k,product manager:non tech,5mo
+Blockdaemon,"Product Manager, Protocols and Monitoring",$69k - $160k,product manager:non tech,5mo
+Blockdaemon,"Product Manager, Infrastructure",,product manager:non tech:node,5mo
+Blockdaemon,"Product Manager, Data & Reporting",$69k - $160k,product manager:non tech,5mo
+Blockdaemon,Treasurer,,,5mo
+Blockdaemon,Recruiting Lead,$40k - $70k,lead:recruiter:non tech,5mo
+Blockdaemon,Protocol Specialist,$60k - $160k,node,5mo
+Blockdaemon,General Manager (Singapore),$70k - $180k,executive,5mo
+Blockdaemon,General Manager (Ireland),$70k - $180k,executive,5mo
+Blockdaemon,Administrative Assistant (UK),,,5mo
+Blockdaemon,Technical Documentation Writer,$40k - $120k,analyst,5mo
+Blockdaemon,Social Media Manager,$33k - $85k,social media:non tech,5mo
+Blockdaemon,"Product Marketing Manager, Protocol Access",$45k - $130k,marketing:non tech,5mo
+Blockdaemon,"Product Marketing Manager, Crypto Finance",$50k - $100k,finance:marketing:non tech:crypto,5mo
+Blockdaemon,Growth Marketing Manager (Tendermint),$45k - $130k,marketing:non tech,5mo
+Blockdaemon,Growth Marketing Manager (Substrate),$45k - $130k,marketing:non tech,5mo
+Blockdaemon,Growth Marketing Manager (Solana),$80k - $180k,marketing:non tech:solana,5mo
+Blockdaemon,Growth Marketing Manager (Ethereum),$48k - $120k,marketing:non tech:ethereum,5mo
+Blockdaemon,Web Service Engineer,$22k - $124k,dev:react:golang,5mo
+Blockdaemon,"Technical Lead, Web Application & Frontend Engineer",$56k - $79k,dev:front end:lead:tech lead:react,5mo
+Blockdaemon,Site Reliability Engineer,$150k - $200k,dev:sys admin,5mo
+Blockdaemon,Senior Developer,$70k - $200k,dev:senior:node:golang,5mo
+Blockdaemon,Platform/Ops Engineer,$60k - $180k,dev,5mo
+Blockdaemon,JIRA Administrator,,,5mo
+Blockdaemon,Golang Engineer / Golang Developer,$22k - $124k,dev:golang:react:javascript,5mo
+Blockdaemon,Ethereum Infrastructure Engineer,$78k - $155k,dev:ethereum:node:remote,5mo
+Blockdaemon,ELK Prometheus Engineer,$22k - $150k,dev:golang:remote,5mo
+Blockdaemon,Data Engineer,$130k - $160k,data science:dev:scala:java:remote,5mo
+Blockdaemon,Blockchain R&D Engineer,$52k - $160k,dev:blockchain:solidity:ethereum:golang,5mo
+Blockdaemon,Corporate Recruiter,$40k - $70k,recruiter:non tech,6mo
+Blockdaemon,Events Manager,,events manager:non tech,6mo
+Blockdaemon,QA Automation Engineer,$50k - $150k,dev:quality assurance,6mo
+Blockdaemon,Head of Recruiting,,executive:recruiter:non tech,6mo
+Blockdaemon,"Senior Product Manager, Blockchain API",,api:product manager:non tech:senior:blockchain,6mo
+Blockdaemon,"Sales Director, UK",$40k - $150k,executive:sales:non tech,6mo
+Blockdaemon,"Sales Director, Singapore",$40k - $150k,executive:sales:non tech,6mo
+Blockdaemon,"Sales Director, Germany",$40k - $150k,executive:sales:non tech:remote,6mo
+Blockdaemon,General Manager (UK),$70k - $180k,executive,6mo
+Blockdaemon,"Business Intelligence Analyst, Revenue",$40k - $120k,analyst,6mo
+Blockdaemon,"Senior Developer, Ethereum Specialist",$80k - $200k,dev:senior,6mo

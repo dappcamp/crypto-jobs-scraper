@@ -1,0 +1,659 @@
+Company Name,Job Title,Salary Range,Tags,Posted Before
+Crypto.Com,Research Analyst (Editor) - Global Fintech Startup,,analyst:finance,11h
+Crypto.Com,Product Manager - Global Fintech Startup,,finance:product manager:non tech,11h
+Crypto.Com,"Regulatory Compliance Manager, Turkey",,compliance:legal,6d
+Crypto.Com,Accounts Payable (AP) Accountant,$120k - $150k,accounting:finance,6d
+Crypto.Com,HR Business Partner - Global Fintech Start-up,,finance:hr:non tech,6d
+Crypto.Com,Product Manager - Global Fintech Startup,,finance:product manager:non tech,6d
+Crypto.Com,Data Privacy Manager (KR),$55k - $150k,nft,6d
+Crypto.Com,Compliance Law Enforcement Requests (LER) Liaison Analyst,,compliance:analyst,6d
+Crypto.Com,APAC Paid Strategy Lead - Global Fintech Startup,$35k - $150k,finance:lead,6d
+Crypto.Com,Data Project Coordinator - Global Fintech Startup,$40k - $150k,finance,6d
+Crypto.Com,Regulatory Compliance Assurance and Risk Management - Manager (APAC),,compliance:legal,7d
+Crypto.Com,Growth Analytics Lead - Global Fintech Startup,,stats:finance:marketing:non tech:lead,7d
+Crypto.Com,Senior/ Backend Developer - Global Fintech Startup,$170k - $250k,backend:dev:finance:senior:nft,8d
+Crypto.Com,APAC Growth Marketing Lead - Global Fintech Startup,$50k - $100k,finance:marketing:non tech:lead,11d
+Crypto.Com,IT Support Engineer (TW),,dev:customer support:nft,11d
+Crypto.Com,Information Security Governance Manager (HK),$95k - $200k,security,11d
+Crypto.Com,Security Engineer / Penetration Tester (HK),,dev:security:nft,11d
+Crypto.Com,Offensive Security Engineer (SG),,dev:security:nft:ruby:java,11d
+Crypto.Com,Sales Operation Manager - APAC,$26k - $140k,sales:non tech,12d
+Crypto.Com,"Director, Corporate Development - Global Fintech Startup",$90k - $200k,executive:finance,12d
+Crypto.Com,Data Security Architect (SG),,architecture:security:nft,12d
+Crypto.Com,Junior Account Manager - LATAM - Seeking Graduates or Entry level Applicant,,account manager:junior:entry level,12d
+Crypto.Com,Talent Acquisition Specialist - FinTech Start-Up,,finance:recruiter:non tech,13d
+Crypto.Com,Compliance Monitoring Analyst,,compliance:analyst:nft,13d
+Crypto.Com,Onboarding Coordinator,,,13d
+Crypto.Com,LATAM Tax Senior Manager - Global Fintech Startup,,finance:senior:accounting,18d
+Crypto.Com,Information Security Compliance Manager,,compliance:security,18d
+Crypto.Com,Onboarding Coordinator,,,18d
+Crypto.Com,"Associate, Security Technical Project Management (Sec Risk & Compliance)",,compliance:security,18d
+Crypto.Com,"Associate, Security Technical Project Management (InfraSec & IT)",$95k - $200k,security,18d
+Crypto.Com,Security Operations Center (SOC) Analyst (Tier 2),,analyst:operations:security,18d
+Crypto.Com,"Associate Creative Director, NFT Creative",$45k - $120k,executive:nft:react,18d
+Crypto.Com,"Regulation Specialist (Derivatives Exchange), Global",$55k - $150k,nft,18d
+Crypto.Com,Open Source Analyst,$36k - $120k,analyst:nft,18d
+Crypto.Com,"Business Analyst, Data Product - Global Fintech Startup",,analyst:finance,19d
+Crypto.Com,"Senior Officer, Contract Administration - Legal Operations (SG)",,legal:operations:senior:nft,19d
+Crypto.Com,"Senior Officer, Contract Administration - Legal Operations (HK)",,legal:operations:senior:nft,19d
+Crypto.Com,Crypto Trading Product Controller (AVP) - Quant Trading Team,$24k - $140k,legal:crypto,19d
+Crypto.Com,Assistant Manager - Legal Operations and Knowledge Retention (HK),,marketing:non tech:product manager:legal:operations,19d
+Crypto.Com,Global Talent Acquisition Manager (UAE) - Fintech Start-up,,finance:recruiter:non tech,19d
+Crypto.Com,Compliance Manager / Director - Malaysia (KL),,compliance:executive,19d
+Crypto.Com,Data Engineer - Backend Team,$70k - $150k,backend:data science:dev:scala:java,19d
+Crypto.Com,"Assistant Officer, Company Secretary (SG) - Global Fintech Startup",$40k - $150k,finance,19d
+Crypto.Com,Compliance Officer,,compliance,19d
+Crypto.Com,"Senior Business Analyst, Data Product - Global Fintech Startup",,analyst:finance:senior,19d
+Crypto.Com,"Data Scientist, Growth Analytics - Global Fintech startup",,stats:data science:finance:marketing:non tech,19d
+Crypto.Com,Strategy Director (Operational Excellence & Business Process Improvement),$150k - $230k,executive:operations,19d
+Crypto.Com,UX Researcher - Global Fintech Startup,,finance:design:non tech,19d
+Crypto.Com,Information Security Compliance Manager,,compliance:security:remote,19d
+Crypto.Com,Assistant Manager - Legal Operations and Knowledge Retention (SG),,marketing:non tech:product manager:legal:operations,19d
+Crypto.Com,Global Markets Compliance Officer (Singapore/UAE),,compliance,19d
+Crypto.Com,Fraud Operations Manager,,security:operations,19d
+Crypto.Com,Executive Recruiting Coordinator,,executive:recruiter:non tech,19d
+Crypto.Com,Office Manager - Turkey,,,19d
+Crypto.Com,"Data Privacy Manager, United Arab Emirates (UAE)",,,19d
+Crypto.Com,"Consumer Protection Officer, U.S. & Canada",,,19d
+Crypto.Com,"Assistant Manager, System Administrator-Legal Operations (SG)",,legal:operations:sys admin:nft,19d
+Crypto.Com,"Regulatory Compliance Manager, Australia",,compliance:legal:nft,19d
+Crypto.Com,"Data Privacy Associate, APAC",$55k - $150k,nft,19d
+Crypto.Com,Compliance Director - U.S. and Canadian Exchanges,,compliance:executive,19d
+Crypto.Com,Backend Developer (ROR/Golang/Elixir) - Fresh Graduate Welcome,,backend:dev:intern:entry level:golang,19d
+Crypto.Com,Institutional Sales Manager - EMEA,$29k - $108k,sales:non tech:remote,19d
+Crypto.Com,Card Program Manager,$70k - $180k,executive,19d
+Crypto.Com,"Business Development Manager (NFT, Japan/ Korea)",$100k - $180k,sales:non tech:nft,19d
+Crypto.Com,Account Manager - EMEA,,account manager,19d
+Crypto.Com,"Growth Partnerships Director, North America",$40k - $150k,sales:non tech:executive:marketing,19d
+Crypto.Com,"Analyst, Global Customer Monitoring Program",$36k - $120k,analyst:nft,19d
+Crypto.Com,"NFT- PFP Loaded Lions Community Manager, APAC",$35k - $101k,community manager:non tech:nft,19d
+Crypto.Com,"Growth Campaigns Director, North America",$70k - $158k,executive:marketing:non tech:nft,19d
+Crypto.Com,Junior Account Manager - LATAM - Seeking Graduates or Entry level Applicants,,account manager:junior:entry level,19d
+Crypto.Com,Security Engineer (SG),,dev:security:react:ethereum:nft,19d
+Crypto.Com,Director of Engineering - Cronos,$63k - $180k,executive:nft,19d
+Crypto.Com,Security Data Architect (UK),,architecture:security:nft:ruby,2mo
+Crypto.Com,"Associate, Security Technical PM(Security Operations & Engineering)",,operations:security:nft,2mo
+Crypto.Com,Bilingual Recruiter (English and Spanish speaking),$40k - $70k,recruiter:non tech,2mo
+Crypto.Com,"Manager, Security Technical Project Management (Security Operations & Engineer)",,dev:operations:security:nft,2mo
+Crypto.Com,Recruiter - Marketing and Creative team,,marketing:non tech:recruiter,2mo
+Crypto.Com,"Associate, Security Technical Project Management (Infrastructure Sec, & IT) USA",$150k - $185k,security:nft,2mo
+Crypto.Com,Information Security Governance Manager (EU) UK,$95k - $200k,security,2mo
+Crypto.Com,"Assistant Manager, Security Technical PM (Infrastructure Security & IT) USA",$150k - $185k,security:nft,2mo
+Crypto.Com,Recruiter - Fintech and Exchange Sales Team,,finance:recruiter:non tech:sales,2mo
+Crypto.Com,Product Manager - Exchange App,$69k - $160k,product manager:non tech,2mo
+Crypto.Com,Front-end developer (ReactJS),$50k - $140k,dev:front end:javascript:react:nft,2mo
+Crypto.Com,DevOps Engineer,$70k - $180k,devops:dev,2mo
+Crypto.Com,Account Manager - NFT,,account manager:nft,2mo
+Crypto.Com,"Compliance Analyst, Korea",,compliance:analyst:remote,2mo
+Crypto.Com,"KYC B2B Analyst, Ireland",,kyc:analyst:nft,2mo
+Crypto.Com,Compliance Data & Tools Analyst,,compliance:analyst,2mo
+Crypto.Com,Product Designer - Global Fintech Startup,,design:non tech:finance,2mo
+Crypto.Com,Institutional Onboarding Analyst (US),$36k - $120k,analyst:nft,2mo
+Crypto.Com,"Senior Project Manager (Cards/ Payments) , UK & Europe",,project manager:non tech:senior,2mo
+Crypto.Com,"Engineer, Security Assurance and Resilience - Global Fintech Start-up",,dev:finance:security:nft:java,2mo
+Crypto.Com,IT Support Manager (US),$40k - $80k,customer support,2mo
+Crypto.Com,"Manager, Information Security Compliance (US - Chicago, IL)",,compliance:security,2mo
+Crypto.Com,"(Senior) Security Analyst, IT Service Management",$150k - $185k,analyst:security:senior,2mo
+Crypto.Com,Brand Content Manager / Producer,$25k - $96k,marketing:non tech:copywriting:nft,2mo
+Crypto.Com,"Enhanced Due Diligence Investigator, Ireland",$55k - $150k,nft,2mo
+Crypto.Com,Brand Content Strategist / Sr Content Strategist,$55k - $140k,marketing:non tech:nft,2mo
+Crypto.Com,Brand Content Designer (UK/ Remote),$25k - $120k,remote:marketing:non tech:design:nft,2mo
+Crypto.Com,Investment Research Associate - Global Fintech Startup,$40k - $100k,finance:remote,2mo
+Crypto.Com,Risk Systems Manager,,,2mo
+Crypto.Com,Portfolio Analytics & Investment Operations Associate - Global Fintech Startup,,finance:stats:operations:remote,2mo
+Crypto.Com,Junior CRM Product Manager,,crm:junior:entry level:product manager:non tech,2mo
+Crypto.Com,"Operations Manager, Global Business Solutions (Korea)",$80k - $110k,operations:remote,2mo
+Crypto.Com,Talent Acquisition Manager - Call Centers,$40k - $70k,recruiter:non tech,2mo
+Crypto.Com,Quant Developer - Derivative Trading Team,$60k - $180k,dev,2mo
+Crypto.Com,Product Manager,$69k - $160k,product manager:non tech,2mo
+Crypto.Com,Campaign Analyst/Manager - Global Fintech Startup,,marketing:non tech:analyst:finance,2mo
+Crypto.Com,General Manager (Turkey) - Global Fintech Startup,$90k - $200k,executive:finance,2mo
+Crypto.Com,Head of Operations (Japan) - Global Fintech Startup,$175k - $200k,executive:finance:operations,2mo
+Crypto.Com,Talent Acquisition Specialist - Global Fintech Startup,,finance:recruiter:non tech:nft,2mo
+Crypto.Com,Content Writer,,copywriting:react,2mo
+Crypto.Com,"Ass. Manager, Security Technical Project Management - App Development & Product",,security:nft:remote,2mo
+Crypto.Com,"Blockchain Security Researcher, Confidential Computing (SG)",$150k - $185k,security:blockchain:nft:rust,2mo
+Crypto.Com,Product Manager,$69k - $160k,product manager:non tech,2mo
+Crypto.Com,"Android Lead, Main App - Global Fintech Startup",,android:mobile:finance:lead:nft,2mo
+Crypto.Com,Golang Developer (DeFi Wallet) - Australia / Taiwan,$90k - $150k,dev:golang:defi:remote,2mo
+Crypto.Com,Project Manager - Crypto.com Mobile App,,mobile:project manager:non tech:crypto,2mo
+Crypto.Com,(Senior) Security Infra - Network & Security Engineer (JP),$95k - $250k,dev:security:senior:nft,2mo
+Crypto.Com,"Project Manager, Derivative Trading - Global Fintech Startup",,finance:project manager:non tech:remote,2mo
+Crypto.Com,"Financial Crime Analyst, UK",,analyst:finance:nft,2mo
+Crypto.Com,"Content Marketing Manager , Crypto.com Capital",$46k - $140k,marketing:non tech:crypto,2mo
+Crypto.Com,Assistant Finance Manager- Global Fintech Startup,$120k - $225k,finance:nft,2mo
+Crypto.Com,Senior Product Manager / Product Manager - Web3 / Blockchain / DeFi,$80k - $150k,product manager:non tech:senior:blockchain:defi,2mo
+Crypto.Com,Product Manager,$69k - $160k,product manager:non tech,2mo
+Crypto.Com,Project Manager - Crypto.com Mobile App,,mobile:project manager:non tech:crypto,2mo
+Crypto.Com,"Talent Acquisition Specialist, Malaysia",$40k - $70k,recruiter:non tech,2mo
+Crypto.Com,NFT- Ambassador Program Coordinator,$55k - $150k,nft,2mo
+Crypto.Com,Frontend Developer (Price Page /Pay) - TW,$60k - $144k,dev:front end:nft:javascript:nextjs,2mo
+Crypto.Com,SOC Deputy Manager (HK),,,2mo
+Crypto.Com,Full Stack Developer,$65k - $180k,dev:full stack:react:javascript:vue,2mo
+Crypto.Com,Senior Product Manager / Product Manager - Price,$80k - $150k,product manager:non tech:senior:nft,2mo
+Crypto.Com,"Art Director, UK - Global Fintech Startup",$120k - $225k,executive:finance:nft,2mo
+Crypto.Com,Office Admin,,,2mo
+Crypto.Com,Trading Business Analyst (Analyst - Associate) - Global Fintech Startup,,analyst:finance:remote,2mo
+Crypto.Com,Art Director - Global Fintech Startup,$120k - $225k,executive:finance:nft,2mo
+Crypto.Com,Talent Acquisition Coordinator - Global Fintech Startup (Taiwan Based),,finance:recruiter:non tech,2mo
+Crypto.Com,Product Manager,$69k - $160k,product manager:non tech,2mo
+Crypto.Com,"Trading Business Development Manager, Quant Trading Team - Global Fintech Startu",$40k - $140k,sales:non tech:finance:remote,2mo
+Crypto.Com,"Java Developer (Derivatives Valuation Platform), United Kingdom",$33k - $140k,dev:java,2mo
+Crypto.Com,Global Talent Acquisition Specialist - Fintech Start-up,,finance:recruiter:non tech,2mo
+Crypto.Com,Blockchain Security Analyst (Ireland) - Global Fintech Startup,,analyst:finance:security:blockchain:nft,2mo
+Crypto.Com,KYC QA Team Lead,,kyc:lead:quality assurance,2mo
+Crypto.Com,Senior Product Manager - Credit,$80k - $150k,product manager:non tech:senior,2mo
+Crypto.Com,Product Manager - Global Fintech startup,,finance:product manager:non tech,2mo
+Crypto.Com,"Options Trader, Derivative Trading - Global Fintech Startup",,finance:trader:remote,2mo
+Crypto.Com,Office Manager - London,,,2mo
+Crypto.Com,Information Security & Compliance Manager (US) - M&A,,compliance:security,2mo
+Crypto.Com,"Trading Product Control Analyst, Quant Trading Team",$45k - $120k,analyst:remote,2mo
+Crypto.Com,"Mobile Developer, iOS (AUS) - Global Fintech Startup",,dev:finance:ios:mobile,2mo
+Crypto.Com,Senior C++/Java Trading Algo Developer (Asso - VP) - Quant Trading Team,$100k - $150k,c:c plus plus:dev:java:senior,2mo
+Crypto.Com,Security Compliance Analyst (Chicago) - Global Fintech Start-up,,compliance:analyst:finance:security,2mo
+Crypto.Com,"Complaints Officer, Malta",$56k - $165k,nft:remote,2mo
+Crypto.Com,"Manager, Compliance Risk Assessment & Modeling",,compliance:nft,2mo
+Crypto.Com,Talent Acquisition/HR Project Manager (HRBP),,hr:non tech:project manager:recruiter,2mo
+Crypto.Com,"Director, Compliance Systems Automation & Redundancy, Hong Kong",,compliance:executive,2mo
+Crypto.Com,KYC Training Team Lead,,kyc:lead:education,2mo
+Crypto.Com,Growth Creative Lead - Global Fintech Startup,$50k - $100k,finance:marketing:non tech:lead,2mo
+Crypto.Com,Social Content Coordinator (US),$55k - $150k,nft,2mo
+Crypto.Com,Blockchain Security Engineer (Backend) - Javascript (Malta),$65k - $150k,backend:dev:javascript:security:blockchain,2mo
+Crypto.Com,KYC Trainer,,kyc:education,2mo
+Crypto.Com,Human Resources Associate,,,2mo
+Crypto.Com,NFT- PFP Loaded Lions Community Manager (Based in US),$35k - $101k,community manager:non tech:nft,2mo
+Crypto.Com,Talent Acquisition Manager - Exchanges and Fintech,,finance:recruiter:non tech,2mo
+Crypto.Com,Senior C++/Java Core Trading Platform Developer (Asso - VP),$100k - $150k,c:c plus plus:dev:java:senior,2mo
+Crypto.Com,"Flow Trading Team Lead, Derivative Trading - Global Fintech Startup",,finance:lead:remote,2mo
+Crypto.Com,"Trading Business Manager (VP), Quant Trading - Global Fintech Startup",,project manager:non tech:finance:executive:remote,2mo
+Crypto.Com,Senior UX Researcher,$60k - $120k,senior:design:non tech,2mo
+Crypto.Com,Global Talent Acquisition Specialist - Fintech Start-up,,finance:recruiter:non tech,2mo
+Crypto.Com,Strategy & New Ventures Manager (portfolio management focused),$40k - $150k,finance,2mo
+Crypto.Com,Creative Producer (APAC),$55k - $150k,nft,2mo
+Crypto.Com,Senior / 3D Artist (NFT),,vfx:senior:nft,2mo
+Crypto.Com,Affiliate Executive - Global Fintech Startup (HK/SG),$70k - $158k,marketing:non tech:executive:finance,2mo
+Crypto.Com,Customer Experience Quality Assurance Analyst with Russian,$15k - $95k,analyst:customer support,2mo
+Crypto.Com,"Manager, Security Technical Project Management (Infrastructure Security & IT)",$150k - $185k,security:nft,2mo
+Crypto.Com,Cyber Security Incident Responder (SG),$95k - $200k,security,2mo
+Crypto.Com,"Associate, Security Technical Project Management (Infrastructure Security & IT)",$150k - $185k,security:nft,2mo
+Crypto.Com,"Assistant Manager, Security Technical PM (Infrastructure Security & IT)",$150k - $185k,security:nft,2mo
+Crypto.Com,Data Analytics Specialist - Global Fintech Start-up,,stats:finance,2mo
+Crypto.Com,Security DevOps Engineer,$95k - $250k,devops:dev:security,2mo
+Crypto.Com,(Senior) Security Infrastructure - Network & Security Engineer,$95k - $250k,dev:security:senior:nft,2mo
+Crypto.Com,Growth Project Manager- Global Fintech Startup,$50k - $100k,finance:marketing:non tech:project manager:remote,2mo
+Crypto.Com,"Talent Acquisition Specialist, Operation",$40k - $70k,recruiter:non tech,2mo
+Crypto.Com,Senior UX Researcher - Global Fintech Firm,,finance:senior:design:non tech,2mo
+Crypto.Com,"Blockchain Security Researcher, Confidential Computing (HK)",$150k - $185k,security:blockchain:nft:rust,2mo
+Crypto.Com,Trading System Analytic Developer/Support (Asso. - VP) - Global Fintech,,dev:finance:customer support:executive:remote,2mo
+Crypto.Com,Product Manager - Global Fintech Startup,,finance:product manager:non tech,2mo
+Crypto.Com,Senior Technical Project Manager,,project manager:non tech:senior,2mo
+Crypto.Com,Risk QA and Process Analyst,,analyst:quality assurance,2mo
+Crypto.Com,Software Engineer (Business Automation) - Global Fintech Startup,$40k - $120k,dev:finance:react:javascript:node,2mo
+Crypto.Com,Senior Product Manager / Product Manager - Price,$80k - $150k,product manager:non tech:senior:nft,2mo
+Crypto.Com,HR Admin,$60k - $150k,hr:non tech,2mo
+Crypto.Com,Junior KYC Analyst (Late or Night shifts),,kyc:analyst:junior:entry level,2mo
+Crypto.Com,Software Engineering (Blockchain indexing service),$32k - $67k,dev:blockchain:ruby:node:java,2mo
+Crypto.Com,Digital Designer (Brazil) - Global Fintech Company,,design:non tech:finance:nft,2mo
+Crypto.Com,Senior Support Developer - Main App,,dev:senior:customer support:javascript:ruby,2mo
+Crypto.Com,Regulatory Counsel (Canada),$24k - $140k,legal,2mo
+Crypto.Com,Senior / Motion Graphics Artist (NFT) - Global Fintech Startup,,finance:vfx:senior:nft,2mo
+Crypto.Com,UI Developer - Global Fintech Startup,,dev:finance:design:non tech:react,2mo
+Crypto.Com,VIP Loyalty Marketing Program Manager (Based in HK),$70k - $158k,marketing:non tech:executive:nft,2mo
+Crypto.Com,Social Content Manager / Senior Manager (Based in EU/UK),$25k - $96k,marketing:non tech:copywriting:senior:nft,2mo
+Crypto.Com,Site Reliability Engineer,$150k - $200k,dev:sys admin,2mo
+Crypto.Com,Customer Experience Quality Assurance Analyst with Turkish,$15k - $95k,analyst:customer support,2mo
+Crypto.Com,Product Manager - Earn,$69k - $160k,product manager:non tech,2mo
+Crypto.Com,"Systematic Trading Team Lead, Derivative Trading - Global Fintech Startup",,finance:lead:remote,2mo
+Crypto.Com,Company Secretarial Officer (SG) - Global Fintech Startup,$40k - $150k,finance,2mo
+Crypto.Com,Security DevOps Engineer,$95k - $250k,devops:dev:security,2mo
+Crypto.Com,Senior / iOS Developer (EU) - Global Fintech Startup,,dev:finance:ios:mobile:senior,2mo
+Crypto.Com,Brand Sound Designer (Based in APAC),,marketing:non tech:design:nft,2mo
+Crypto.Com,Talent Acquisition Coordinator (fresh graduates are welcome),,recruiter:non tech:junior:intern,2mo
+Crypto.Com,"HR Associate, Ireland",$51k - $120k,hr:non tech:nft,2mo
+Crypto.Com,Security Operations Center (SOC) - Incident Responder,,operations:security,2mo
+Crypto.Com,"Developer , Finance Digital Transformation - Global Fintech startup",$40k - $250k,dev:finance,2mo
+Crypto.Com,KYC Analyst (Late or Night shifts),,kyc:analyst,2mo
+Crypto.Com,Production Support Service Manager / Engineer (ITSM),,dev:customer support:java,2mo
+Crypto.Com,"Manager, Security Technical Project Manager, Application Development and Product",,project manager:non tech:security:nft:remote,2mo
+Crypto.Com,Senior Motion Graphics Designer (Core Team) - Global Fintech Startup,,design:non tech:finance:vfx:senior,2mo
+Crypto.Com,Release Manager/Coordinator,,,2mo
+Crypto.Com,DevOps Engineer,$150k - $200k,devops:dev:javascript:node,2mo
+Crypto.Com,Quality Assurance Engineer - Global Fintech startup,,dev:finance:java:remote,2mo
+Crypto.Com,Research Analyst (Community Management) - Global Fintech Startup,,analyst:community manager:non tech:finance:nft,2mo
+Crypto.Com,Blockchain Security Engineer - Mobile (AU),,dev:mobile:security:blockchain:react,2mo
+Crypto.Com,"Head of Partnership & Ecosystem Development, South Korea",$40k - $150k,executive:sales:non tech:remote,2mo
+Crypto.Com,Americas Tax Lead - Global Fintech Startup,,finance:lead:accounting,2mo
+Crypto.Com,Global Talent Acquisition Manager (KR) - Fintech Start-up,,finance:recruiter:non tech:remote,2mo
+Crypto.Com,"Engineer, Security Devops - Global Fintech Start-up",,devops:dev:finance:security:golang,2mo
+Crypto.Com,"Data Engineer, Quant Trading Team - Global Fintech Startup",,data science:dev:finance:remote,2mo
+Crypto.Com,Social Content Manager / Senior Manager,$25k - $96k,marketing:non tech:copywriting:senior:nft,2mo
+Crypto.Com,Product Manager - Cards,$69k - $160k,product manager:non tech,2mo
+Crypto.Com,Product Operations Associate,$60k - $200k,operations,2mo
+Crypto.Com,Talent Acquisition Coordinator,$51k - $70k,recruiter:non tech:nft,2mo
+Crypto.Com,Senior HR Business Partner,,hr:non tech:senior,2mo
+Crypto.Com,Account Manager (Merchant Partnerships) - Global Fintech Startup,,sales:non tech:account manager:finance:nft,2mo
+Crypto.Com,Onboarding Talent Acquisition Lead - Global Fintech Start-up,,finance:lead:recruiter:non tech,2mo
+Crypto.Com,"Director, Financial Crime Center (Bulgaria)",$90k - $200k,executive:finance,2mo
+Crypto.Com,Junior Prop Trader - Global Fintech Startup,$40k - $67k,finance:junior:entry level:trader:javascript,2mo
+Crypto.Com,(Senior) Security Infra - Network & Security Engineer (SG),$95k - $250k,dev:security:senior:nft,2mo
+Crypto.Com,Senior Security Compliance Analyst (HK),,compliance:analyst:security:senior,2mo
+Crypto.Com,"Listing Operation Manager, Quant Trading Team - Global Fintech Startup",$40k - $100k,finance:remote,2mo
+Crypto.Com,"Blockchain Security Researcher, Confidential Computing (Ireland)",$150k - $185k,security:blockchain:nft:rust,2mo
+Crypto.Com,Release Manager/Coordinator,,,2mo
+Crypto.Com,Data Engineer (Platform),$70k - $150k,data science:dev:nft:scala:java,2mo
+Crypto.Com,Risk Operation Analyst (APAC),$36k - $120k,analyst:nft,2mo
+Crypto.Com,Research Analyst (Investment Strategy - Sellside),,analyst:finance,2mo
+Crypto.Com,Frontend Developer (New Venture) - Global Fintech Startup,,dev:finance:front end:react,2mo
+Crypto.Com,Performance Marketing Analyst / Growth Analyst (LATAM Based),,analyst:marketing:non tech,2mo
+Crypto.Com,Community Manager (Based in Canada),$35k - $101k,community manager:non tech:nft,2mo
+Crypto.Com,Application Support Engineer (SG) - Global Fintech Startup,,dev:finance:customer support:nft,2mo
+Crypto.Com,SOC Deputy Manager (HK),,,2mo
+Crypto.Com,Data Privacy Program Manager (US),$70k - $180k,executive,2mo
+Crypto.Com,"General Manager (Payment, Fintech), UK",$90k - $200k,executive:finance,2mo
+Crypto.Com,Technical Project Manager,$50k - $150k,project manager:non tech,2mo
+Crypto.Com,Account Manager / Senior Account Manager - North America - Crypto Exchange,,account manager:senior:crypto,2mo
+Crypto.Com,Full Stack Developer (New Venture) - Global Fintech Startup,,dev:finance:full stack:react:node,2mo
+Crypto.Com,User Community Manager - DeFi / DApp (Singapore),,community manager:non tech:dapp:defi:nft,2mo
+Crypto.Com,"Business Solutions Manager, Hong Kong",,,2mo
+Crypto.Com,Site Reliability Engineer,$150k - $200k,dev:sys admin,2mo
+Crypto.Com,(Senior) Security Infra - Network & Security Engineer (AU),$95k - $250k,dev:security:senior:nft,2mo
+Crypto.Com,IOS Developer,$51k - $109k,dev:ios:mobile,2mo
+Crypto.Com,Sales Trader - OTC Desk - LATAM,,sales:non tech:trader,2mo
+Crypto.Com,"Art Director, North America - Global Fintech Startup",$120k - $225k,executive:finance:nft,2mo
+Crypto.Com,HR Manager (C&B focus),,c:c plus plus:hr:non tech:nft,2mo
+Crypto.Com,"Legal Counsel, Litigation (EU)",$24k - $140k,legal,2mo
+Crypto.Com,Site Reliability Engineer - Global Fintech Startup,,dev:finance:sys admin:java,2mo
+Crypto.Com,"Legal Counsel, Litigation (EU)",$24k - $140k,legal,2mo
+Crypto.Com,Global Senior Recruiter/ Recruiter- Fintech Start-up,,finance:recruiter:non tech:senior,2mo
+Crypto.Com,Frontend Developer (Price Page /Pay) - SG,$60k - $144k,dev:front end:nft:javascript:nextjs,2mo
+Crypto.Com,Talent Acquisition Specialist - Turkey,$40k - $70k,recruiter:non tech,2mo
+Crypto.Com,IT Operations Manager (US),$60k - $200k,operations,2mo
+Crypto.Com,Complaints Handling Officer with English and Portuguese,,,2mo
+Crypto.Com,"Financial Crime Analyst, UK",,analyst:finance:nft,2mo
+Crypto.Com,New Ventures Tax Specialist,$25k - $150k,accounting,2mo
+Crypto.Com,Customer Experience Associate with English and Italian/Russian/Turkish/Polish,$40k - $80k,customer support,2mo
+Crypto.Com,"Head of Talent Acquisition, EMEA",,executive:recruiter:non tech,2mo
+Crypto.Com,WFM Specialist,,,2mo
+Crypto.Com,Complaints Handling Officer,,,2mo
+Crypto.Com,Customer Experience Team Leader with English and Spanish,$25k - $35k,customer support:lead,2mo
+Crypto.Com,Product Operations Associate,,operations:nft,2mo
+Crypto.Com,Customer Experience Associate with English and French,$40k - $80k,customer support,2mo
+Crypto.Com,Product Operations Associate,,operations:nft,2mo
+Crypto.Com,Information Security Governance Manager (US),$95k - $200k,security,2mo
+Crypto.Com,"Head of Finance, Korea",$40k - $225k,executive:finance:remote,2mo
+Crypto.Com,Senior Customer Experience Trainer,,customer support:senior:education,2mo
+Crypto.Com,QA Engineer (Derivatives Trading Platform),$65k - $110k,dev:quality assurance:nft:java,2mo
+Crypto.Com,Regulatory Counsel (US),$24k - $140k,legal,2mo
+Crypto.Com,DevOps Engineer (New Venture Team),$30k - $60k,devops:dev:java,2mo
+Crypto.Com,Customer Experience Real-Time Analyst (Night Shifts),$15k - $95k,analyst:customer support,2mo
+Crypto.Com,Senior Support Developer - Main App,,dev:senior:customer support:javascript:ruby,2mo
+Crypto.Com,Full Stack Localization Engineer- Global Fintech startup,,dev:finance:full stack:javascript:ruby,2mo
+Crypto.Com,(Senior) Security Infra - Cloud & System Engineer (SG),,cloud:dev:security:senior:sys admin,2mo
+Crypto.Com,KYC Quality Assurance Analyst,,kyc:analyst,2mo
+Crypto.Com,Site Reliability Engineer - New Venture Team,$150k - $180k,dev:sys admin:nft:java,2mo
+Crypto.Com,"Associate, Security Technical Project Management - App Development and Product",,security:nft:remote,2mo
+Crypto.Com,Global Talent Acquisition Specialist (KR)- Fintech Start-up,,finance:recruiter:non tech:remote,2mo
+Crypto.Com,Bilingual Recruiter (English and Spanish speaking),$40k - $70k,recruiter:non tech,2mo
+Crypto.Com,CRM Product Manager,,crm:product manager:non tech,2mo
+Crypto.Com,Senior / Android Developer (EU) - Global Fintech Startup,,android:mobile:dev:finance:senior,2mo
+Crypto.Com,Product Manager,$115k - $175k,product manager:non tech:remote,2mo
+Crypto.Com,C# / Java Trading Platform Developer (Asso - VP) - Global Fintech Startup,,c:c sharp:c plus plus:dev:finance,2mo
+Crypto.Com,"Risk Analyst (Derivatives Exchange team), Singapore",$36k - $120k,analyst:nft,2mo
+Crypto.Com,Talent Acquisition Sourcing Specialist - Global Fintech Start-up,,finance:recruiter:non tech,2mo
+Crypto.Com,Legal Counsel - Global Fintech Startup,,legal:finance,2mo
+Crypto.Com,Global Talent Acquisition Specialist - Fintech Start-up,,finance:recruiter:non tech,2mo
+Crypto.Com,Company Secretarial Officer (US),,,2mo
+Crypto.Com,Investment Associate (Venture capital) - Global Fintech Startup,$40k - $150k,finance,2mo
+Crypto.Com,Product Operations Associate,,operations:nft,2mo
+Crypto.Com,"Head of Office, South Korea",$70k - $180k,executive,2mo
+Crypto.Com,Frontend Developer (Exchange) - AUS,$60k - $144k,dev:front end:nft:javascript,2mo
+Crypto.Com,Technology Risk Manager,$55k - $150k,nft,2mo
+Crypto.Com,Frontend Developer (Price Page /Pay) - AUS,$60k - $144k,dev:front end:nft:javascript:nextjs,2mo
+Crypto.Com,Security Data Architect (SG),,architecture:security:nft:ruby,2mo
+Crypto.Com,Legal Counsel - Global Fintech Startup,,legal:finance:nft,2mo
+Crypto.Com,Product Manager - DeFi,$130k - $175k,product manager:non tech:defi,2mo
+Crypto.Com,Product Manager - DeFi,$130k - $175k,product manager:non tech:defi,2mo
+Crypto.Com,Talent Acquisition/HR Project Manager (HRBP),,hr:non tech:project manager:recruiter,2mo
+Crypto.Com,Cyber Security Talent Acquisition Manager,,security:recruiter:non tech,2mo
+Crypto.Com,"Manager, Compliance Systems Implementation, Singapore",,compliance,2mo
+Crypto.Com,CRM Specialist - Global Fintech Startup (LATAM based),,crm:finance,2mo
+Crypto.Com,Money Laundering Reporting Officer - MLRO,$56k - $165k,nft:remote,2mo
+Crypto.Com,"Director, Compliance Systems Automation & Redundancy, Singapore",,compliance:executive,2mo
+Crypto.Com,"Director, Compliance Systems Automation & Redundancy, Hong Kong",,compliance:executive,2mo
+Crypto.Com,"Manager, Compliance Systems Implementation, Hong Kong",,compliance,2mo
+Crypto.Com,"Director, Compliance Systems Automation & Redundancy, Singapore",,compliance:executive,2mo
+Crypto.Com,Product Manager - NFT Marketplace,$69k - $160k,product manager:non tech:nft,2mo
+Crypto.Com,Legal Counsel - Global Fintech Startup,,legal:finance:nft:remote,2mo
+Crypto.Com,Software Test Engineer/Lead (Price Page team) (Taiwan),$30k - $180k,dev:lead:java,2mo
+Crypto.Com,Financial Networks Analyst (US),,analyst:finance,2mo
+Crypto.Com,Product Manager - NFT Marketplace,$69k - $160k,product manager:non tech:nft,2mo
+Crypto.Com,Vice President of North America - Crypto Exchange,$39k - $140k,crypto,2mo
+Crypto.Com,Performance Test QA Engineer (all levels) - Global Fintech Startup,,dev:finance:quality assurance:javascript:node,2mo
+Crypto.Com,AP Accountant - Global Fintech Startup,$120k - $150k,accounting:finance,2mo
+Crypto.Com,Business Solutions Manager (SG/HK),$56k - $160k,remote,2mo
+Crypto.Com,AP Specialist - Global Fintech Startup,$40k - $150k,finance,2mo
+Crypto.Com,Talent Acquisition Coordinator,$51k - $70k,recruiter:non tech:nft,2mo
+Crypto.Com,Trading Business Assistant - Quant Trading Team,$56k - $160k,remote,2mo
+Crypto.Com,Security and Privacy Innovation Center - Business Analyst,$60k - $185k,analyst:security,2mo
+Crypto.Com,Sales Trader - OTC Desk - APAC,,sales:non tech:trader,2mo
+Crypto.Com,Account Manager / Senior Account Manager - EMEA- Crypto Exchange,,account manager:senior:crypto,2mo
+Crypto.Com,(Senior) Security Infrastructure - Cloud & Systems Engineer,,cloud:dev:security:senior:sys admin,2mo
+Crypto.Com,Security Compliance Analyst (Chicago) - Global Fintech Start-up,,compliance:analyst:finance:security,2mo
+Crypto.Com,Data Privacy Assistant/Analyst (SG),$36k - $120k,analyst:nft,2mo
+Crypto.Com,"Director, Institutional Sales - APAC - Crypto Exchange",$40k - $150k,executive:sales:non tech:crypto,2mo
+Crypto.Com,Exec TA LEAD - Global Fintech Startup,$35k - $150k,finance:lead,2mo
+Crypto.Com,"Blockchain Security Researcher, Confidential Computing (UK)",$150k - $185k,security:blockchain:nft:rust,2mo
+Crypto.Com,"Blockchain Security Researcher, Confidential Computing (UK)",$150k - $185k,security:blockchain:nft:rust,2mo
+Crypto.Com,Blockchain Security Engineer - Backend (Rust) (EU),$50k - $140k,backend:dev:rust:security:blockchain,2mo
+Crypto.Com,Product Operations Associate - Global Fintech Startup,$55k - $200k,finance:operations,2mo
+Crypto.Com,Account Manager / Senior Account Manager - APAC - Crypto Exchange,,account manager:senior:crypto,2mo
+Crypto.Com,Systems and tools TA,,,2mo
+Crypto.Com,"Senior Recruiter, Miami",$40k - $70k,recruiter:non tech:senior,2mo
+Crypto.Com,Director of Compliance & MLRO (Germany),,compliance:executive:remote,2mo
+Crypto.Com,"Associate, Security PMO",$150k - $185k,security:nft,2mo
+Crypto.Com,Blockchain Security Analyst (SG) - Global Fintech Startup,,analyst:finance:security:blockchain:nft,2mo
+Crypto.Com,Talent Acquisition Lead (Operations and PMO),,lead:operations:recruiter:non tech,2mo
+Crypto.Com,"Talent Acquisition Specialist, Miami",$40k - $70k,recruiter:non tech,2mo
+Crypto.Com,Blockchain Security Engineer (Frontend) - Javascript (HK),$50k - $140k,dev:front end:javascript:security:blockchain,2mo
+Crypto.Com,"Senior Recruiter, Miami",$40k - $70k,recruiter:non tech:senior,2mo
+Crypto.Com,Customer Experience Team Leader (Social Media),,customer support:lead:social media:non tech,2mo
+Crypto.Com,Blockchain Security Engineer (Backend) - Javascript (JP),$65k - $150k,backend:dev:javascript:security:blockchain,2mo
+Crypto.Com,Blockchain Security Engineer (Backend) - Javascript (AU),$65k - $150k,backend:dev:javascript:security:blockchain,2mo
+Crypto.Com,"General Manager, EU - Global Fintech Startup",$90k - $200k,executive:finance,2mo
+Crypto.Com,Platform Engineer (New Venture) - Global Fintech Startup,$40k - $120k,dev:finance:react:javascript:java,2mo
+Crypto.Com,Blockchain Security Engineer - Mobile (UK),,dev:mobile:security:blockchain:react,2mo
+Crypto.Com,"Legal Counsel, EU",,legal:remote,2mo
+Crypto.Com,Talent Acquisition Coordinator - Global Fintech Startup,,finance:recruiter:non tech,2mo
+Crypto.Com,"Assistant Manager, Security PMO (HK)",$150k - $185k,security:nft,2mo
+Crypto.Com,(Senior) HR Associate (C&B Focus) - Global Fintech Startup,,c:c plus plus:finance:hr:non tech,2mo
+Crypto.Com,Site Reliability Engineer - New Venture Team,$150k - $180k,dev:sys admin:nft:java,2mo
+Crypto.Com,"Assistant Manager, Security PMO (SG)",$150k - $185k,security:nft,2mo
+Crypto.Com,Tech Recruiter - Global Fintech Startup,,finance:recruiter:non tech,3mo
+Crypto.Com,Junior Payments and Reconciliation Specialist,$12k - $120k,junior:entry level,3mo
+Crypto.Com,KYC B2B Analyst,,kyc:analyst,3mo
+Crypto.Com,Head of NFT Creative Studio - Global Fintech Startup,$120k - $225k,executive:finance:nft,3mo
+Crypto.Com,(Senior) HR Associate (C&B Focus) - Global Fintech Startup,,c:c plus plus:finance:hr:non tech,3mo
+Crypto.Com,"Assistant Manager, Security Assurance and Resilience",$150k - $185k,security:nft:java,3mo
+Crypto.Com,"(Senior) System & Cloud Engineer, Security Infrastructure",,cloud:dev:security:senior:nft,3mo
+Crypto.Com,"Associate, Security PMO",$150k - $185k,security:nft,3mo
+Crypto.Com,"Assistant Manager, Security PMO (HK)",$150k - $185k,security:nft,3mo
+Crypto.Com,Senior Project Manager - Global Fintech Startup,,finance:project manager:non tech:senior:nft,3mo
+Crypto.Com,"Site Reliability Engineer, Main App Back",$150k - $200k,dev:sys admin,3mo
+Crypto.Com,Site Reliability Engineer - New Venture Team,$150k - $180k,dev:sys admin:nft:java,3mo
+Crypto.Com,Account Manager - Insitutional Sales - LATAM - Crypto Exchange,,account manager:sales:non tech:crypto,3mo
+Crypto.Com,"Director, Institutional Sales -LATAM - Crypto Exchange",$40k - $150k,executive:sales:non tech:crypto,3mo
+Crypto.Com,"Quantitative Researcher, Derivative Trading - Global Fintech startup",,finance:javascript:remote,3mo
+Crypto.Com,Database Administrator - Global Fintech Startup,,finance:nft:java,3mo
+Crypto.Com,Security Data Architect,,architecture:security:nft:ruby,3mo
+Crypto.Com,Trading Desk Quant (Asso - VP) - Quant Trading Team,,executive:java:rust:remote,3mo
+Crypto.Com,Finance System Analyst,,analyst:finance:remote,3mo
+Crypto.Com,(Senior) Security Infra - Network & Security Engineer (HK),$95k - $250k,dev:security:senior:nft,3mo
+Crypto.Com,UI/UX Engineer (Business Automation) - Global Fintech Startup,,dev:finance:design:non tech:react,3mo
+Crypto.Com,Senior Officer/ Assistant Manager - Company Secretary (HK),$78k - $200k,senior,3mo
+Crypto.Com,Execution Trader (Analyst - VP) - Quant Trading Team,,analyst:trader:executive,3mo
+Crypto.Com,QA - Automation Engineer,$50k - $150k,dev:quality assurance,3mo
+Crypto.Com,Security Data Architect (UK),,architecture:security:nft:ruby,3mo
+Crypto.Com,"Director, HR Business Partner - Global Fintech Start-up",,executive:finance:hr:non tech,3mo
+Crypto.Com,"(Senior) Network & Security Engineer, Security Infrastructure",$95k - $250k,dev:security:senior:nft,3mo
+Crypto.Com,"Frontend Software Engineer, Ops Panel",$50k - $144k,dev:front end:react:nft:javascript,3mo
+Crypto.Com,Application Support Engineer (New Venture) - Global Fintech Startup,,dev:finance:customer support:remote,3mo
+Crypto.Com,Security Data Architect,,architecture:security:nft:ruby,3mo
+Crypto.Com,Senior Officer/ Assistant Manager - Company Secretary (HK),$78k - $200k,senior,3mo
+Crypto.Com,"(Senior) System & Cloud Engineer, Security Infrastructure",,cloud:dev:security:senior:nft,3mo
+Crypto.Com,"(Senior) Network & Security Engineer, Security Infrastructure",$95k - $250k,dev:security:senior:nft,3mo
+Crypto.Com,Security Data Architect (US),,architecture:security:nft:ruby,3mo
+Crypto.Com,Senior Brand Marketing Manager (based in HK/SG),$46k - $109k,marketing:non tech:senior:nft,3mo
+Crypto.Com,(Senior) Security Infrastructure - Manager,$150k - $185k,security:senior:nft,3mo
+Crypto.Com,"Head of Risk, Turkey",$63k - $180k,executive:nft,3mo
+Crypto.Com,Front-end developer (React JS) - Global Fintech startup,$15k - $26k,javascript:dev:finance:front end:react,3mo
+Crypto.Com,Company Secretarial Officer (HK) - Global Fintech Startup,$40k - $150k,finance,3mo
+Crypto.Com,User Community Manager - DeFi/DApp (USA),,community manager:non tech:dapp:defi:nft,3mo
+Crypto.Com,Senior Project Manager - Global Fintech Startup,,finance:project manager:non tech:senior:nft,3mo
+Crypto.Com,"Developer Community Manager, DeFi (UK/Ireland)",,community manager:non tech:dev:defi:nft,3mo
+Crypto.Com,"Automation QA Engineer, Blockchain Team - Global Fintech Startup",,dev:finance:quality assurance:blockchain:solidity,4mo
+Crypto.Com,Blockchain Security Engineer - Mobile (Ireland),,dev:mobile:security:blockchain:react,4mo
+Crypto.Com,"Data Analyst, Strategy & New Ventures - Global Fintech Startup",,analyst:data science:finance,4mo
+Crypto.Com,Accountant - Global Fintech Startup,$120k - $150k,accounting:finance,4mo
+Crypto.Com,Compliance Manager,,compliance,4mo
+Crypto.Com,Blockchain Architect & Evangelis,$80k,architecture:blockchain:ethereum,4mo
+Crypto.Com,Blockchain Security Project Manager (KR),,project manager:non tech:security:blockchain:nft,4mo
+Crypto.Com,"Developer Community Manager, DeFi (UK/Ireland)",,community manager:non tech:dev:defi:nft,4mo
+Crypto.Com,"Content writer, DeFi",,copywriting:defi:nft,4mo
+Crypto.Com,Public Relations Director (NFT),$70k - $158k,marketing:non tech:executive:nft,4mo
+Crypto.Com,"Developer Community Manager, DeFi (USA)",,community manager:non tech:dev:defi:nft,4mo
+Crypto.Com,"Content writer, DeFi",,copywriting:defi:nft,4mo
+Crypto.Com,Blockchain Security DevOps Engineer,$95k - $250k,devops:dev:security:blockchain:nft,4mo
+Crypto.Com,Reconciliation Analyst - Global Fintech Startup,,analyst:finance,4mo
+Crypto.Com,"Prop Trader, Quant Trading Team - Global Fintech Startup",,finance:trader:remote,4mo
+Crypto.Com,"Option Warrant Trader, Derivative Trading - Global Fintech Startup",,finance:trader:remote,4mo
+Crypto.Com,"Blockchain Security DevOps Engineer, SG",$95k - $250k,devops:dev:security:blockchain:nft,4mo
+Crypto.Com,Junior Recruiter / Sourcer- Global Fintech startup,,recruiter:non tech:finance:junior:entry level,4mo
+Crypto.Com,Product Operations Associate,,operations:nft,4mo
+Crypto.Com,Junior Recruiter,,junior:entry level:recruiter:non tech,4mo
+Crypto.Com,EU Legal Counsel - Global Fintech Startup,,legal:finance,4mo
+Crypto.Com,QA Manager - Global Fintech startup,,finance:quality assurance:nft,4mo
+Crypto.Com,Accountant,$25k - $150k,accounting,4mo
+Crypto.Com,Blockchain Security Engineer (Backend) - Javascript (SG),$65k - $150k,backend:dev:javascript:security:blockchain,4mo
+Crypto.Com,Customer Experience Associate with English and Portuguese (SoMe),$40k - $80k,customer support,4mo
+Crypto.Com,"Security Compliance Analyst, Turkey",,compliance:analyst:security,4mo
+Crypto.Com,Blockchain Security Engineeer - Backend (Rust) (KR),,backend:rust:security:blockchain:ethereum,4mo
+Crypto.Com,Account / Business Development Manager (LATAM) - Crypto Exchange,$30k - $140k,sales:non tech:crypto,4mo
+Crypto.Com,"QA Engineer, Blockchain Team - Global Fintech Startup",,dev:finance:quality assurance:blockchain:nft,4mo
+Crypto.Com,Customer Experience Associate with English and Spanish,$40k - $80k,customer support,4mo
+Crypto.Com,Site Reliability Engineer,$150k - $200k,dev:sys admin,4mo
+Crypto.Com,Product Operations Associate - Fresh grads are welcome,,operations:junior:interm,4mo
+Crypto.Com,Paralegal - Global Fintech Startup,$120k - $225k,finance:nft,4mo
+Crypto.Com,Global Talent Acquisition Manager - Fintech Start-up,,finance:recruiter:non tech,4mo
+Crypto.Com,Financial Crimes Manager,$150k - $225k,finance:nft:remote,4mo
+Crypto.Com,KYC Team Lead (Late Shifts),,kyc:lead,4mo
+Crypto.Com,Blockchain Security Engineeer - Backend (Rust) (EU),,backend:rust:security:blockchain:ethereum,4mo
+Crypto.Com,Customer Experience Team Leader (Social Media) (Night shifts),,customer support:lead:social media:non tech,4mo
+Crypto.Com,Blockchain Security Engineer (Backend) - Javascript (HK),$65k - $150k,backend:dev:javascript:security:blockchain,4mo
+Crypto.Com,Customer Experience Associate with English and French/Spanish/Portuguese,$40k - $80k,customer support,4mo
+Crypto.Com,Blockchain Security Engineer (Backend) - Javascript (UK),$65k - $150k,backend:dev:javascript:security:blockchain,4mo
+Crypto.Com,Blockchain Security Engineer - Mobile (HK),,dev:mobile:security:blockchain:react,4mo
+Crypto.Com,Senior Accounting Associate - Global Fintech Startup,,accounting:finance:senior:nft,4mo
+Crypto.Com,Blockchain Security Engineer - Mobile (SG),,dev:mobile:security:blockchain:react,4mo
+Crypto.Com,Blockchain Security Engineer (Backend) - Javascript (HK),$65k - $150k,backend:dev:javascript:security:blockchain,4mo
+Crypto.Com,Risk Operation Analyst,$36k - $120k,analyst:nft,4mo
+Crypto.Com,QA Automation Engineer (Derivatives Trading Platform),$65k - $110k,dev:quality assurance:nft:java,4mo
+Crypto.Com,Human Resources Generalist - Global Fintech Startup,$120k - $225k,finance:nft,4mo
+Crypto.Com,Employment Counsel (US),,legal:nft,4mo
+Crypto.Com,"Senior Influencer Marketing Manager, North America",$46k - $109k,marketing:non tech:senior:nft,4mo
+Crypto.Com,Employment Counsel (US),,legal:nft,4mo
+Crypto.Com,Human Resources Generalist - Global Fintech Startup,$120k - $225k,finance:nft,4mo
+Crypto.Com,Golang Developer (DeFi Wallet) - UK,$90k - $150k,dev:golang:defi:nft,4mo
+Crypto.Com,Payroll Specialist,$25k - $150k,accounting,4mo
+Crypto.Com,Financial Crimes Manager French Speaker,$40k - $150k,finance,4mo
+Crypto.Com,Crypto Content Writer (EU/UK),$62k - $45k,copywriting:crypto,4mo
+Crypto.Com,Android Developer (DeFi Wallet) - UK,,android:mobile:dev:defi:nft,4mo
+Crypto.Com,Application Security Support - Singapore,,security:customer support,4mo
+Crypto.Com,"Trading Data Analyst, Quant Trading - Global Fintech Startup",,analyst:data science:finance:remote,4mo
+Crypto.Com,IT Support Engineer (SG),$90k - $140k,dev:customer support,4mo
+Crypto.Com,"Senior / iOS Developer, Main App (UK) - Global Fintech Startup",,dev:finance:ios:mobile:senior,4mo
+Crypto.Com,Risk Systems Analyst (Night Shifts),$40k - $120k,analyst,4mo
+Crypto.Com,Blockchain Security Engineeer - Backend (Rust) (SG),,backend:rust:security:blockchain:ethereum,4mo
+Crypto.Com,Blockchain Security Engineeer - Backend (Rust) (HK),,backend:rust:security:blockchain:ethereum,4mo
+Crypto.Com,Blockchain Security Engineeer - Backend (Rust) (SG),,backend:rust:security:blockchain:ethereum,4mo
+Crypto.Com,Data Privacy Analyst,$40k - $120k,analyst,4mo
+Crypto.Com,Blockchain Security Project Manager (JP),,project manager:non tech:security:blockchain:nft,4mo
+Crypto.Com,Blockchain Security Engineeer - Backend (Rust) (JP),,backend:rust:security:blockchain:ethereum,4mo
+Crypto.Com,Blockchain Security Engineeer - Backend (Rust) (HK),,backend:rust:security:blockchain:ethereum,4mo
+Crypto.Com,Blockchain Security Engineeer - Backend (Rust) (UK),,backend:rust:security:blockchain:ethereum,4mo
+Crypto.Com,NFT Sales Development Representative,$100k - $180k,sales:non tech:nft:remote,4mo
+Crypto.Com,Social Content Manager / Senior Manager (Based in US),$25k - $96k,marketing:non tech:copywriting:senior:nft,4mo
+Crypto.Com,Digital Designer (North America) - Global Fintech Company,,design:non tech:finance:nft,4mo
+Crypto.Com,Operations Manager ( Cards/Payments) - Brazil,$60k - $200k,operations,4mo
+Crypto.Com,"Graduate Quant Trader, Quant Trading Team - Global Fintech Startup",,intern:entry level:finance:trader:java,4mo
+Crypto.Com,Blockchain Security Engineer (Backend) - Javascript (Ireland),$65k - $150k,backend:dev:javascript:security:blockchain,4mo
+Crypto.Com,"Associate, Strategy & New Ventures (SG) - Global Fintech Startup",$40k - $150k,finance,4mo
+Crypto.Com,Java Developer (Exchange Spot) - Global Fintech Startup,,dev:finance:java,4mo
+Crypto.Com,Blockchain Security Engineer (Backend) - Javascript (Ireland),$65k - $150k,backend:dev:javascript:security:blockchain,4mo
+Crypto.Com,IT Support Engineer (KR),$90k - $140k,dev:customer support,4mo
+Crypto.Com,Product Designer - Global Fintech Startup,,design:non tech:finance,4mo
+Crypto.Com,Smart Contract Auditor,$72k - $190k,smart contract:solidity:ethereum:javascript:rust,4mo
+Crypto.Com,Senior UX Researcher,$60k - $120k,senior:design:non tech,4mo
+Crypto.Com,IT Support Engineer (KR),$90k - $140k,dev:customer support,4mo
+Crypto.Com,Technical Analyst,$40k - $120k,analyst,4mo
+Crypto.Com,Customer Experience Associate with English and Spanish (Night Shifts),$40k - $80k,customer support,5mo
+Crypto.Com,Strategy & New Ventures Associate (portfolio management focus),$40k - $150k,finance,5mo
+Crypto.Com,Security Operations Center - Tier 1 Analyst (HK),,analyst:operations:security,5mo
+Crypto.Com,UI Developer - Global Fintech Startup,,dev:finance:design:non tech:react,5mo
+Crypto.Com,"Product Marketing Manager, Crypto Exchange",$46k - $140k,marketing:non tech:crypto:nft,5mo
+Crypto.Com,Risk Systems Manager,,,5mo
+Crypto.Com,"Director, Risk Fraud Prevention",$95k - $250k,executive:security,5mo
+Crypto.Com,"iOS Developer, DeFi Wallet - Global Fintech Startup",,dev:finance:ios:mobile:defi,5mo
+Crypto.Com,"Director Global Payment Partnerships, New Markets",$40k - $150k,sales:non tech:executive,5mo
+Crypto.Com,Data Engineer - Global Fintech startup,,data science:dev:finance:scala:java,5mo
+Crypto.Com,"Delta-1 Market Making Trader (Analyst - VP), Quant Trading Team",,analyst:trader:executive:java:remote,5mo
+Crypto.Com,OTC Trader for Flow Business (Analyst - VP) - Global Fintech startup,,analyst:finance:trader:executive:remote,5mo
+Crypto.Com,"Technical Project Management, Associate",,,5mo
+Crypto.Com,Product Data Analyst,$36k - $120k,analyst:data science:nft,5mo
+Crypto.Com,"Mobile Developer, Android (SG) - Global Fintech Startup",,android:mobile:dev:finance:java,5mo
+Crypto.Com,Employment Counsel,,legal:nft,5mo
+Crypto.Com,Process Manager,,,5mo
+Crypto.Com,"Team Lead, RTA (Day or Night shift)",$60k - $200k,lead,5mo
+Crypto.Com,"Technical Project Management, Associate",,,5mo
+Crypto.Com,Customer Experience Quality Assurance Analyst with French,$15k - $95k,analyst:customer support,5mo
+Crypto.Com,Customer Experience Quality Assurance Analyst with Italian,$15k - $95k,analyst:customer support,5mo
+Crypto.Com,Customer Experience Quality Assurance Analyst with Polish,$15k - $95k,analyst:customer support,5mo
+Crypto.Com,Finance Operations Associate - Weekend Shift,$55k - $200k,finance:operations,5mo
+Crypto.Com,Software Testing Engineer-SG,$33k - $140k,dev:java,5mo
+Crypto.Com,Customer Experience Training Team Lead,,customer support:lead:education,5mo
+Crypto.Com,Customer Experience Team Leader with English and Russian,$25k - $35k,customer support:lead,5mo
+Crypto.Com,Customer Experience Team Leader with English and Turkish,$25k - $35k,customer support:lead,5mo
+Crypto.Com,Customer Experience Team Leader with English and Italian,$25k - $35k,customer support:lead,5mo
+Crypto.Com,Customer Experience Quality Assurance Analyst with Spanish,$15k - $95k,analyst:customer support,5mo
+Crypto.Com,Customer Experience Team Leader with English and French,$25k - $35k,customer support:lead,5mo
+Crypto.Com,Compliance Advisory Director,,compliance:executive,5mo
+Crypto.Com,(Senior) Java Developer (Price Page) - Singapore,$50k - $200k,dev:java:senior,5mo
+Crypto.Com,Manager of Customer Experience Quality Assurance,$40k - $80k,customer support,5mo
+Crypto.Com,Cards Portfolio Manager,$120k - $225k,finance:nft,5mo
+Crypto.Com,DevOps Engineer - Global Fintech Startup,,devops:dev:finance:javascript:node,5mo
+Crypto.Com,Cards Portfolio Manager,$120k - $225k,finance:nft,5mo
+Crypto.Com,Global Payment Partnerships - Head of Europe,$40k - $150k,executive:sales:non tech,5mo
+Crypto.Com,Head of Compliance & MLRO - UK,,compliance:executive,5mo
+Crypto.Com,IT Support Engineer (Ireland),$90k - $140k,dev:customer support,5mo
+Crypto.Com,Software Testing Engineer-TW,$33k - $140k,dev:java,5mo
+Crypto.Com,"Mobile Developer, Android (AUS) - Global Fintech Startup",,android:mobile:dev:finance:java,5mo
+Crypto.Com,"Associate, Strategy & New Ventures (CN) - Global Fintech Startup",$40k - $150k,finance,5mo
+Crypto.Com,Penetration Tester,,,5mo
+Crypto.Com,"Head of Operations, Ireland - Global Fintech Startup",$175k - $200k,executive:finance:operations:nft,5mo
+Crypto.Com,"Java Developer, Tax",,dev:java:accounting,5mo
+Crypto.Com,"Compliance Officer and MLRO, Ireland",,compliance,5mo
+Crypto.Com,Senior Operation Director / GM (EMI) - Global Fintech Startup,,executive:finance:senior,5mo
+Crypto.Com,"Application Support Engineer (Derivatives Trading Platform), US",,dev:customer support:nft,5mo
+Crypto.Com,"VP, Marketing - NFT Marketplace",$70k - $158k,marketing:non tech:executive:nft,5mo
+Crypto.Com,Data Architect - Global Fintech Startup,$120k - $250k,architecture:finance,5mo
+Crypto.Com,"Trading Assistant (Analyst - AVP), Quant Trading Team",,analyst:java:remote,5mo
+Crypto.Com,Freelance Translator (Remote) - Global Fintech Startup,,remote:finance:translator,5mo
+Crypto.Com,Blockchain Engineer (Fullstack) - Global Fintech Startup,,dev:finance:full stack:blockchain:react,5mo
+Crypto.Com,(Senior) Java Developer (Price Page) - UK,$50k - $200k,dev:java:senior,5mo
+Crypto.Com,Investment Associate (Venture capital) - Global Fintech Startup,$40k - $150k,finance,5mo
+Crypto.Com,Frontend Developer (Exchange) - CA,$50k - $140k,dev:front end:javascript,5mo
+Crypto.Com,"Head of Payment Products and Development, South Korea",$79k - $200k,executive:remote,5mo
+Crypto.Com,IT Support Engineer,$90k - $140k,dev:customer support,5mo
+Crypto.Com,"Elixir Golang, Main App Back",$22k - $124k,golang:react:javascript:vue,5mo
+Crypto.Com,Blockchain Developer Evangelist,$50k - $170k,dev:blockchain,5mo
+Crypto.Com,Application Security Engineer (DevSecOps)- Global Fintech Startup,,dev:finance:security,5mo
+Crypto.Com,Blockchain Innovation Engineer,$50k - $170k,dev:blockchain,5mo
+Crypto.Com,"Global - Java Developer (Exchange,Trading system)",$33k - $140k,dev:java,5mo
+Crypto.Com,Application Support Engineer (UK / Ireland) - Global Fintech Startup,,dev:finance:customer support,5mo
+Crypto.Com,Software Engineer - Java Developer,$11k - $130k,dev:java:javascript,5mo
+Crypto.Com,Senior Motion Graphic Designer,$60k - $120k,design:non tech:senior:nft,5mo
+Crypto.Com,Legal Administrator,$24k - $140k,legal,5mo
+Crypto.Com,(Senior) Java Developer (Main App) - UK,$50k - $200k,dev:java:senior,5mo
+Crypto.Com,Financial Crimes Monitoring Director - Americas,$120k - $225k,executive:finance:nft,5mo
+Crypto.Com,Strategy & New Ventures Manager (Management Consulting) - Global Fintech Startup,,consulting:finance,5mo
+Crypto.Com,CRM Specialist,,crm,5mo
+Crypto.Com,Trading Business Analyst - Global Fintech Startup,,analyst:finance:remote,5mo
+Crypto.Com,Business Development Manager (NFT),$100k - $180k,sales:non tech:nft,5mo
+Crypto.Com,Language Quality Specialists (EMEA) - Global Fintech startup,$40k - $100k,finance:remote,5mo
+Crypto.Com,Enhanced Due Diligence Analyst,$40k - $120k,analyst,5mo
+Crypto.Com,"Director, NFT Community",$45k - $150k,community manager:non tech:executive:nft,5mo
+Crypto.Com,Blockchain Protocol Engineer (Golang / Rust),$40k - $160k,dev:golang:rust:blockchain:java,5mo
+Crypto.Com,Application Support Engineer (HK) - Global Fintech Startup,,dev:finance:customer support,5mo
+Crypto.Com,"Head of Blockchain Security, US",,executive:security:blockchain:ethereum:nft,5mo
+Crypto.Com,Blockchain Innovation Analyst,$60k - $104k,analyst:blockchain,5mo
+Crypto.Com,Blockchain Security Analyst (US) - Global Fintech Startup,,analyst:finance:security:blockchain:nft,5mo
+Crypto.Com,Full Stack Developer (React / Vue/ Node.js) - Global Fintech Startup,$15k - $26k,javascript:dev:finance:full stack:node,5mo
+Crypto.Com,Blockchain Backend Engineer (Golang),$33k - $160k,backend:dev:golang:blockchain:ruby,5mo
+Crypto.Com,Sponsorship Activations Manager (Based in Australia),$55k - $150k,nft,5mo
+Crypto.Com,SOC Deputy Manager (SG),,,5mo
+Crypto.Com,Market Risk Analyst for Crypto Trading,$20k - $120k,analyst:crypto,5mo
+Crypto.Com,Frontend Developer (Exchange) - SG,$50k - $140k,dev:front end:javascript,5mo
+Crypto.Com,"Backend Developer (Elixir/Erlang/Clojure/Haskell/Lisp) (Main App), Australia",,clojure:erlang:haskell:lisp:backend,5mo
+Crypto.Com,Customer Experience Real-Time Analyst,$15k - $95k,analyst:customer support,5mo
+Crypto.Com,Head of Procurement - Global Fintech Startup,$90k - $200k,executive:finance,5mo
+Crypto.Com,Growth & Product Content/Copywriter,$25k - $96k,copywriting:marketing:non tech:nft,5mo
+Crypto.Com,Vulnerability & Configuration Management Lead (US),,security:lead,5mo
+Crypto.Com,Blockchain Security Engineer (Frontend) - Javascript (SG),$50k - $140k,dev:front end:javascript:security:blockchain,5mo
+Crypto.Com,Vulnerability & Configuration Management Lead (HK),,security:lead,5mo
+Crypto.Com,IT Support Engineer (US),$90k - $140k,dev:customer support,5mo
+Crypto.Com,(Senior) Java Developer (Main App) - Singapore,$50k - $200k,dev:java:senior,5mo
+Crypto.Com,Security Engineering Technical Lead (HK),,lead:security:tech lead,5mo
+Crypto.Com,Compliance Advisory Director,,compliance:executive,5mo
+Crypto.Com,QA Automation Engineer (Exchange or Trading Platform),$30k - $50k,dev:quality assurance:java,5mo
+Crypto.Com,Product Operations Associate - Global Fintech Startup,$55k - $200k,finance:operations,5mo
+Crypto.Com,"Legal Counsel, Litigation (US)",$24k - $140k,legal,5mo
+Crypto.Com,"Country Manager, Brazil - Global Fintech Startup",$120k - $225k,finance:nft,5mo
+Crypto.Com,Finance Manager - Global Fintech Startup,$40k - $150k,finance,5mo
+Crypto.Com,Solution Engineer,$60k - $180k,dev,5mo
+Crypto.Com,Cyber Security Incident Response Lead (UK),,lead:security,5mo
+Crypto.Com,Senior Finance Manager - Global Fintech Startup,$50k - $150k,finance:senior,5mo
+Crypto.Com,"Backend Developer (Ruby on Rails/ Golang) (Main App), Australia",$33k - $160k,backend:dev:golang:ruby:node,5mo
+Crypto.Com,Smart Contract Auditor (SG),$72k - $190k,smart contract:solidity:ethereum:javascript:rust,5mo
+Crypto.Com,Smart Contract Auditor (UK),$72k - $190k,smart contract:solidity:ethereum:javascript:rust,5mo
+Crypto.Com,Senior Economist,$78k - $200k,senior,5mo
+Crypto.Com,"Legal Counsel, Litigation (US)",$24k - $140k,legal,5mo
+Crypto.Com,Vulnerability Management Analyst (US),$60k - $185k,security:analyst,5mo
+Crypto.Com,Consumer Compliance Analyst,,compliance:analyst:nft,5mo
+Crypto.Com,Security Engineering Technical Lead (US),,lead:security:tech lead,5mo
+Crypto.Com,IT Support Engineer (US),$90k - $140k,dev:customer support,5mo
+Crypto.Com,"Head of Engineering, UK - Global Fintech Startup",$90k - $200k,executive:finance,5mo
+Crypto.Com,"Senior Manager, Sponsorships Activation North America",$90k - $200k,senior:nft,5mo
+Crypto.Com,Affiliate Program Manager,$70k - $158k,marketing:non tech:executive:nft,5mo
+Crypto.Com,Product Manager / Associate Product Manager,$69k - $160k,product manager:non tech:nft,5mo
+Crypto.Com,"Security Technical Project Management, Associate",$95k - $200k,security,5mo
+Crypto.Com,Associate Product Manager,$69k - $160k,product manager:non tech,5mo
+Crypto.Com,Security Engineering Technical Lead (HK),,lead:security:tech lead,5mo
+Crypto.Com,Security Technical Project Manager (IT Service),,project manager:non tech:security,5mo
+Crypto.Com,IT Support Engineer (SG),$90k - $140k,dev:customer support,5mo
+Crypto.Com,Cyber Security Incident Response Lead (US),,lead:security:nft,5mo
+Crypto.Com,Vulnerability & Configuration Management Lead (HK),,security:lead,5mo
+Crypto.Com,Security PMO Assistant Manager,$95k - $200k,security,5mo
+Crypto.Com,"Quantitative Researcher, Derivative Trading - Global Fintech startup",,finance:javascript:remote,5mo
+Crypto.Com,New Venture - Product Manager (Global Fintech Startup),,finance:product manager:non tech,5mo
+Crypto.Com,"Director Global Payment Partnerships, New Markets",$40k - $150k,sales:non tech:executive,5mo
+Crypto.Com,DevOps Engineer,$150k - $200k,devops:dev:javascript:node,5mo
+Crypto.Com,Senior Finanace Associate - Gloabl FinTech Startup,$50k - $150k,finance:senior,5mo
+Crypto.Com,Cyber Security Incident Response Lead (UK),,lead:security,5mo
+Crypto.Com,Vulnerability Management Analyst (SG),$60k - $185k,security:analyst,5mo
+Crypto.Com,Trader (Analyst - VP) for Crypto Option Market Making - Quant Trading Team,,analyst:trader:executive:crypto:java,5mo
+Crypto.Com,Site Reliability Engineer - Global Fintech Startup,,dev:finance:sys admin:remote,5mo
+Crypto.Com,Cyber Security Incident Response Lead,,lead:security,5mo
+Crypto.Com,Security Engineering Technical Lead (SG),,lead:security:tech lead,5mo
+Crypto.Com,Vulnerability Management Analyst (UK),$60k - $185k,security:analyst,5mo
+Crypto.Com,KYC Analyst (Late Shifts),,kyc:analyst,5mo
+Crypto.Com,DevOps Engineer,$70k - $180k,devops:dev,5mo
+Crypto.Com,Senior C++ Trading Platform Developer - Global Fintech Startup,$100k - $150k,c:c plus plus:dev:finance:senior,5mo
+Crypto.Com,NodeJS Trading Platform Developer - Global Fintech startup,$15k - $26k,dev:finance:javascript:node:web3js,5mo
+Crypto.Com,IT Support Engineer (AU),$90k - $140k,dev:customer support,5mo
+Crypto.Com,Senior QA Engineer/ QA Lead - Global Fintech startup,,dev:finance:lead:quality assurance:senior,5mo
+Crypto.Com,Head of WFM,$70k - $180k,executive,5mo
+Crypto.Com,VP Customer Success,,customer support:executive,5mo
+Crypto.Com,Senior Finance Manager - Global Fintech Startup,$50k - $150k,finance:senior,5mo
+Crypto.Com,IT Support Engineer,$90k - $140k,dev:customer support,5mo
+Crypto.Com,Product Manager,$69k - $160k,product manager:non tech,5mo
+Crypto.Com,Market Risk Analyst for Crypto Trading,$20k - $120k,analyst:crypto,5mo
+Crypto.Com,Security Engineering Technical Lead (UK),,lead:security:tech lead,5mo
+Crypto.Com,Product Designer (Internal Tools) - Global Fintech Startup,,design:non tech:finance:remote,5mo
+Crypto.Com,Site Reliability Engineer,$150k - $200k,dev:sys admin,5mo
+Crypto.Com,Security Compliance Analyst,,compliance:analyst:security,5mo
+Crypto.Com,Smart Contract Auditor - Americas - (Will consider Rust / GoLang Developers),$70k - $150k,golang:rust:smart contract:solidity:ethereum,5mo
+Crypto.Com,Digital Asset Compliance Analyst,,compliance:analyst:nft,5mo
+Crypto.Com,"Legal Counsel, Litigation (US)",$24k - $140k,legal,5mo
+Crypto.Com,Monitoring and Investigation Analyst,$40k - $120k,analyst,5mo
+Crypto.Com,Junior DeFi Developer,$45k - $180k,dev:junior:entry level:defi:react,5mo
+Crypto.Com,DeFi Engineer,$80k - $160k,dev:defi:react:solidity:ethereum,5mo
+Crypto.Com,Product Marketing Director - DeFi/Chain,$70k - $158k,executive:marketing:non tech:defi:nft,5mo

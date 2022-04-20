@@ -1,0 +1,85 @@
+Company Name,Job Title,Salary Range,Tags,Posted Before
+Coin Flip,Customer Support Agent,$40k - $80k,customer support,22h
+Coin Flip,QA Engineer,$50k - $150k,dev:quality assurance,2d
+Coin Flip,Legal and Compliance Coordinator,,compliance:legal,5d
+Coin Flip,"Director, Knowledge Management",$70k - $180k,executive,8d
+Coin Flip,Security Analyst,$60k - $185k,analyst:security,13d
+Coin Flip,"Director, PMO",$70k - $180k,executive,14d
+Coin Flip,Service Desk Technician,$40k - $80k,customer support,16d
+Coin Flip,Data Analytics and Reporting Intern,$124k - $2k,stats:intern:entry level,16d
+Coin Flip,Software Engineering Manager,$70k - $300k,executive:dev,18d
+Coin Flip,iOS Developer,$51k - $109k,dev:ios:mobile,18d
+Coin Flip,Android Engineer,,android:mobile:dev,18d
+Coin Flip,Sales Intern,$29k - $43k,intern:entry level:sales:non tech,18d
+Coin Flip,Talent Acquisition Coordinator,$40k - $70k,recruiter:non tech,18d
+Coin Flip,Human Resources Intern,,intern:entry level,18d
+Coin Flip,HR Generalist,$60k - $150k,hr:non tech,18d
+Coin Flip,Executive and Personal Assistant,$70k - $180k,executive,18d
+Coin Flip,Procurement Manager,,,18d
+Coin Flip,Marketing Intern,$24k - $48k,intern:entry level:marketing:non tech,18d
+Coin Flip,Marketing Coordinator,$45k - $130k,marketing:non tech,18d
+Coin Flip,"Director, Treasury",$70k - $180k,executive,18d
+Coin Flip,Technical Support Specialist,$40k - $80k,customer support,18d
+Coin Flip,Experience Center Representative,,,18d
+Coin Flip,Anti Money Laundering Associate,,,18d
+Coin Flip,Senior Data Analyst,,analyst:data science:senior,18d
+Coin Flip,Senior Systems Administrator,$150k - $200k,senior:sys admin,2mo
+Coin Flip,Operations Intern,,intern:entry level:operations,2mo
+Coin Flip,Security Architect,,architecture:security,3mo
+Coin Flip,"Project Manager, Legal",,legal:project manager:non tech,3mo
+Coin Flip,Information Governance Manager,,,3mo
+Coin Flip,Senior QA Manager,$30k - $50k,quality assurance:senior,3mo
+Coin Flip,QA Engineer,$50k - $150k,dev:quality assurance,3mo
+Coin Flip,Jira Administrator,$56k - $160k,remote,3mo
+Coin Flip,"Senior Product Manager, Crypto Spending and Payments",$80k - $150k,product manager:non tech:senior:crypto:remote,3mo
+Coin Flip,Manager/Director of DEVOPS,$95k - $250k,devops:executive:remote,3mo
+Coin Flip,Full Stack React Developer,$65k - $180k,dev:full stack:javascript:react:remote,3mo
+Coin Flip,Personal Assistant,,,3mo
+Coin Flip,"Sr. Vice President, Data Science",$130k - $160k,data science:senior,3mo
+Coin Flip,"VP, International Development",$70k - $180k,executive,3mo
+Coin Flip,Treasury Accountant,$25k - $150k,accounting,3mo
+Coin Flip,GL Accountant (Payroll),$25k - $150k,accounting,3mo
+Coin Flip,Lead Account Manager,,account manager:lead,3mo
+Coin Flip,Account Manager - Trade Desk,,account manager,3mo
+Coin Flip,Trading Analyst,$40k - $120k,analyst,3mo
+Coin Flip,Front Desk/Office Assistant,,,3mo
+Coin Flip,Project Manager,$50k - $150k,project manager:non tech,4mo
+Coin Flip,Senior Network Security Engineer,$95k - $250k,dev:security:senior,4mo
+Coin Flip,Senior Systems Engineer,$150k - $200k,dev:senior:sys admin,4mo
+Coin Flip,Security Analyst,$60k - $185k,analyst:security,4mo
+Coin Flip,"Director, Corporate Development",$70k - $180k,executive,4mo
+Coin Flip,"VP, Finance",$90k - $200k,finance:executive,4mo
+Coin Flip,Senior Product Manager - Reporting and Analytics,,stats:product manager:non tech:senior,4mo
+Coin Flip,People Operations Manager,$60k - $200k,operations,4mo
+Coin Flip,Marketing Operations Manager,,marketing:non tech:operations,4mo
+Coin Flip,Event Coordinator,,events manager:non tech,4mo
+Coin Flip,Social Media & Digital Community Manager,$45k - $100k,community manager:non tech:social media,4mo
+Coin Flip,HR Director,,executive:hr:non tech,5mo
+Coin Flip,"Vp, People",$70k - $180k,executive,5mo
+Coin Flip,NetSuite Administrator,,,5mo
+Coin Flip,Technical Recruiter,$40k - $70k,recruiter:non tech,5mo
+Coin Flip,Mobile Software Engineer - Android,,android:mobile:dev,5mo
+Coin Flip,IT Service Desk Manager,$40k - $80k,customer support,5mo
+Coin Flip,"Director, FP&A",$70k - $180k,executive,5mo
+Coin Flip,QA Manager - Platform and Kiosk,$62k - $150k,quality assurance,5mo
+Coin Flip,"Sr. Product Manager, Web Platform and Technology",$80k - $150k,product manager:non tech:senior,5mo
+Coin Flip,"Sr. Product Manager, Mobile Platform and Technology",,mobile:product manager:non tech:senior,5mo
+Coin Flip,Software Engineer - Java,$33k - $140k,dev:java,5mo
+Coin Flip,Senior Product Manager - Master Data Management,$80k - $150k,product manager:non tech:senior,5mo
+Coin Flip,Mobile Software Engineer - IOS,$51k - $109k,dev:ios:mobile,5mo
+Coin Flip,AWS DevOps Architect,,architecture:devops,5mo
+Coin Flip,AWS Customer Data and Identity Management Architect,$67k - $180k,architecture,5mo
+Coin Flip,Recruiting Coordinator,$40k - $70k,recruiter:non tech,5mo
+Coin Flip,Paid Media Manager,,,5mo
+Coin Flip,"Manager, Product Marketing",$45k - $130k,marketing:non tech,5mo
+Coin Flip,"Manager, Graphic Design",$50k - $150k,design:non tech,5mo
+Coin Flip,"Director, Communications and Content",$70k - $180k,executive,5mo
+Coin Flip,Customer Support Agent,$40k - $80k,customer support,5mo
+Coin Flip,Anti Money Laundering Associate,,,5mo
+Coin Flip,Senior Technical Product Manager – Kiosks and ATM’s,$80k - $150k,product manager:non tech:senior,6mo
+Coin Flip,Senior Java Architect,,architecture:java:senior,6mo
+Coin Flip,"Manager, Content Marketing",$45k - $130k,marketing:non tech,6mo
+Coin Flip,"Corporate Social Responsibility, Diversity, Equity, & Inclusion Manager",$45k - $130k,marketing:non tech,6mo
+Coin Flip,"Specialist, Accounts Payable",$120k - $150k,finance:accounting,6mo
+Coin Flip,Senior IT Project Manager,,project manager:non tech:senior,6mo
+Coin Flip,Senior Blockchain Engineer,$80k - $200k,dev:senior:blockchain,7mo

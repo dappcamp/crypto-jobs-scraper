@@ -1,0 +1,141 @@
+Company Name,Job Title,Salary Range,Tags,Posted Before
+Figure,"Lead Product Designer, Figure Pay",$40k - $190k,design:non tech:lead,22d
+Figure,"Lead Product Designer, Figure Lending",$40k - $190k,design:non tech:lead,22d
+Figure,Payments and Blockchain Compliance Director,,compliance:executive:blockchain,26d
+Figure,Office Coordinator,,,27d
+Figure,"Lead Product Designer, Figure Marketplace",$40k - $190k,design:non tech:lead,28d
+Figure,"Senior Product Manager, Marketplace Onboarding Experience",$80k - $150k,product manager:non tech:senior,30d
+Figure,Marketplace Operations Analyst,,analyst:operations,30d
+Figure,Digital Funds Services Operations Analyst,,analyst:operations,30d
+Figure,Principal Machine Learning Engineer,,dev:machine learning:executive,1mo
+Figure,Principal Data Analyst,,analyst:data science:executive,1mo
+Figure,Principal Data Scientist,,data science:executive,1mo
+Figure,Data Engineer,$130k - $160k,data science:dev:scala,1mo
+Figure,"Senior Software Engineer, Anti-Fraud (Remote)",$95k - $250k,remote:dev:security:senior,1mo
+Figure,"Staff Software Engineer, Anti-Fraud (remote)",$95k - $250k,remote:dev:security,1mo
+Figure,Investor Relations Analyst,,analyst:finance,1mo
+Figure,Data Engineer,$130k - $160k,data science:dev:scala,2mo
+Figure,People Operations Internship,,intern:entry level:operations,2mo
+Figure,"Director, Data Analytics - Marketing",,stats:executive:marketing:non tech,2mo
+Figure,"Senior Director, FP&A",$46k - $110k,executive:senior,2mo
+Figure,Senior Data Analyst,,analyst:data science:senior,2mo
+Figure,Senior Accountant,$80k - $110k,accounting:senior,2mo
+Figure,"Senior Software Engineer, Anti-Fraud (Remote)",$95k - $250k,remote:dev:security:senior,2mo
+Figure,Senior Back End Software Engineer - Provenance Blockchain Banking,$170k - $250k,backend:finance:dev:senior:blockchain,3mo
+Figure,Staff Data Analyst (REMOTE),$45k - $120k,remote:analyst:data science,3mo
+Figure,Sr. Data Analyst,,analyst:data science:senior,3mo
+Figure,Machine Learning Engineer,$140k - $180k,dev:machine learning,3mo
+Figure,"Partnership Manager (Associate), Startups",$26k - $140k,sales:non tech,3mo
+Figure,"Senior Front End Software Engineer, Figure Lending",$70k - $190k,dev:front end:senior:javascript,3mo
+Figure,"Software Engineer, Figure Lending",$43k - $140k,dev:react:java,4mo
+Figure,Office Coordinator,,,4mo
+Figure,"Managing Director, Figure Ventures",$70k - $180k,executive,4mo
+Figure,"Credit Risk Manager, Pricing Strategy",,,4mo
+Figure,"Credit Risk Manager, Machine Learning",$140k - $180k,machine learning,4mo
+Figure,"Credit Risk Manager, Forecasting & Analytics",$50k - $150k,stats,4mo
+Figure,"Director, People Operations",$150k - $230k,executive:operations,4mo
+Figure,"Front-End Software Engineer, Portfolio Management",,finance:dev:front end:react:javascript,4mo
+Figure,"Senior Front-End Software Engineer, Core UI / Accessibility",$70k - $190k,dev:front end:senior:design:non tech,4mo
+Figure,Omnichannel Contact Center Manager,,,4mo
+Figure,Figure Pay Support Specialist,$40k - $80k,customer support,4mo
+Figure,"Product Counsel - Blockchain, Payments and Lending",,legal:blockchain,4mo
+Figure,Call Center Quality Management Supervisor,,,4mo
+Figure,"Senior Front-End Software Engineer, Digital Funds Services",$70k - $190k,dev:front end:senior:react,5mo
+Figure,Head of Investor Relations,$90k - $200k,executive:finance,5mo
+Figure,"Senior Software Engineer, Servicing",$50k - $200k,dev:senior:java,5mo
+Figure,"Staff Front-End Engineer, Growth Tech",,dev:front end:marketing:non tech:react,5mo
+Figure,"Senior Product Designer, Figure Tech",$60k - $120k,design:non tech:senior,5mo
+Figure,Lead Product Designer,$40k - $190k,design:non tech:lead,5mo
+Figure,"Product Manager, Figure Marketplace",$69k - $160k,product manager:non tech,5mo
+Figure,Investor Relations Analyst,,analyst:finance,5mo
+Figure,Capital Markets Analyst,$40k - $120k,analyst,5mo
+Figure,Customer Success Supervisor NC,$40k - $80k,customer support,5mo
+Figure,"Business Operations Analyst, Marketplace",,analyst:operations,5mo
+Figure,"Senior Product Manager, HELOC",$80k - $150k,product manager:non tech:senior,5mo
+Figure,"Product Manager, Figure Equity Solutions",$69k - $160k,product manager:non tech,5mo
+Figure,Director of Talent Acquisition,,executive:recruiter:non tech,5mo
+Figure,"Senior Software Engineer, Figure Equity Solutions",$80k - $200k,dev:senior:javascript,5mo
+Figure,Head of Risk,$70k - $180k,executive,5mo
+Figure,"Senior Product Manager, Customer Success Portal",,customer support:product manager:non tech:senior,5mo
+Figure,"Principal Product Manager, Mortgage",$135k - $170k,executive:product manager:non tech,5mo
+Figure,Marketplace Operations Associate,$60k - $200k,operations,5mo
+Figure,Vice President of Corporate Communications,,,5mo
+Figure,"Senior Manager, Marketplace Compliance",,compliance:senior,5mo
+Figure,"Senior Analyst, FP&A",$150k - $185k,analyst:senior,5mo
+Figure,Accounting Intern,,accounting:intern:entry level,5mo
+Figure,"Staff Software Engineer, Anti-Fraud",$95k - $250k,dev:security,5mo
+Figure,"Senior Software Engineer, Mobile , Figure Equity Solutions",$120k - $200k,dev:mobile:senior:java,5mo
+Figure,"Senior Software Engineer, Figure Lending",$50k - $200k,dev:senior:java,5mo
+Figure,Workforce Management Analyst,$40k - $120k,analyst,5mo
+Figure,Servicing Operations Associate,$60k - $200k,operations,5mo
+Figure,Quality Assurance Specialist,,,5mo
+Figure,Operations Training Specialist II NV,,operations:education,5mo
+Figure,Operations Training Specialist I,,operations:education,5mo
+Figure,"Senior Director, Operations - Broker Dealer / ATS",,executive:operations:senior,5mo
+Figure,Office Coordinator,,,5mo
+Figure,Executive Assistant,$70k - $180k,executive,5mo
+Figure,"Senior Software Engineer, Provenance Blockchain",$80k - $200k,dev:senior:blockchain:java:golang,5mo
+Figure,"Senior Software Engineer, Provenance Blockchain Banking",,finance:dev:senior:blockchain:react,5mo
+Figure,"Senior Marketing Manager, Marketplace",$46k - $109k,marketing:non tech:senior,5mo
+Figure,Staff Software Development Engineer in Test,$50k - $150k,quality assurance:dev:react:java,5mo
+Figure,"Business Operations Analyst, DFS",,analyst:operations,5mo
+Figure,"Operations Analyst, Figure Equity Solutions",,analyst:operations,5mo
+Figure,Director of Data Analytics,,stats:executive:data science,6mo
+Figure,Operations Training Specialist II,,operations:education,6mo
+Figure,"Operations Manager, Originations",$60k - $200k,operations,6mo
+Figure,Production Designer,$50k - $150k,design:non tech,6mo
+Figure,Financial Crimes Associate,$40k - $150k,finance,6mo
+Figure,"Staff Software Engineer, Provenance Blockchain",$50k - $130k,dev:blockchain:react:rust,6mo
+Figure,Staff Front-End Engineer - Growth Tech,,dev:front end:marketing:non tech:react,6mo
+Figure,Business Development Associate,$26k - $140k,sales:non tech,6mo
+Figure,Technical Support Specialist,$40k - $80k,customer support,6mo
+Figure,Staff Data Scientist,$50k - $150k,data science,6mo
+Figure,"Staff Software Engineer, Customer Success Portal",,customer support:dev:java,6mo
+Figure,"Operations Manager, Originations",$60k - $200k,operations,6mo
+Figure,"Senior Mobile Software Engineer, Provenance Blockchain",$120k - $200k,dev:mobile:senior:blockchain,6mo
+Figure,Visual Designer,$50k - $150k,design:non tech,7mo
+Figure,"Senior Product Designer, Figure Pay",$60k - $120k,design:non tech:senior,7mo
+Figure,Senior Product Designer,$60k - $120k,design:non tech:senior,7mo
+Figure,Principal Servicing Product Manager,$135k - $170k,executive:product manager:non tech,7mo
+Figure,"Pricing Analyst, Mortgage",$40k - $120k,analyst,7mo
+Figure,Figure Pay Support Specialist,$40k - $80k,customer support,7mo
+Figure,Technical Talent Partner,$40k - $70k,recruiter:non tech,7mo
+Figure,Talent Acquisition Partner,$40k - $70k,recruiter:non tech,7mo
+Figure,"Senior Marketing Manager, Figure Pay",$46k - $109k,marketing:non tech:senior,7mo
+Figure,Head of Compliance,,compliance:executive,7mo
+Figure,Figure Securities BSA/AML Officer,,,7mo
+Figure,Staff Accountant,$25k - $150k,accounting,7mo
+Figure,Post-Close Specialist,,,7mo
+Figure,Bank Partnership Manager,$40k - $140k,sales:non tech:finance,7mo
+Figure,"Staff Software Engineer, Mortgage",$33k - $140k,dev:java,7mo
+Figure,"Staff Software Engineer, Digital Funds",$43k - $140k,dev:react:java,7mo
+Figure,"Staff Software Engineer, Alternative Trading System",$43k - $140k,dev:react:java,7mo
+Figure,"Software Engineer, Servicing",$43k - $140k,dev:react:java,7mo
+Figure,"Software Engineer, Mortgage",$43k - $140k,dev:react:java,7mo
+Figure,"Software Engineer, Lending",$43k - $140k,dev:react:java,7mo
+Figure,"Software Engineer, Cash Management Engine",$43k - $140k,dev:react:java,7mo
+Figure,"Software Engineer, Alternative Trading System",$43k - $140k,dev:react:java,7mo
+Figure,Software Development Engineer in Test,$50k - $150k,quality assurance:dev:react:java,7mo
+Figure,"Senior Software Engineer, Provenance",$50k - $200k,dev:senior:java:golang:rust,7mo
+Figure,"Senior Software Engineer, Figure Pay",$70k - $180k,dev:senior:react:java,7mo
+Figure,"Senior Software Engineer, Digital Funds",$70k - $180k,dev:senior:react:java,7mo
+Figure,"Senior Software Engineer, Customer Success Portal",,customer support:dev:senior:javascript,7mo
+Figure,Senior Software Development Engineer in Test,$30k - $50k,quality assurance:dev:senior:react:java,7mo
+Figure,Principal Application Security Engineer,$95k - $250k,dev:executive:security,7mo
+Figure,DevOps Engineer,$60k - $100k,devops:dev:golang,7mo
+Figure,Business Operations Analyst,,analyst:operations,7mo
+Figure,Principal Data Scientist,,data science:executive,7mo
+Figure,Servicing Operations Supervisor,$60k - $200k,operations,7mo
+Figure,Servicing Operations Associate,$60k - $200k,operations,7mo
+Figure,Quality Assurance Analyst,$40k - $120k,analyst,7mo
+Figure,"Customer Success Associate, Originations",$40k - $80k,customer support,7mo
+Figure,"Customer Success Associate, Originations",$40k - $80k,customer support,7mo
+Figure,"Customer Success Associate, Originations",$40k - $80k,customer support,7mo
+Figure,"Staff Software Engineer, Ethereum Integration",$63k - $160k,dev:solidity:ethereum:javascript:java,7mo
+Figure,Compliance Analyst,,compliance:analyst,7mo
+Figure,FP&A Manager,,,7mo
+Figure,"Marketing Manager, Marketplace",$45k - $130k,marketing:non tech,7mo
+Figure,"Operations Director, Figure Pay",$150k - $230k,executive:operations,7mo
+Figure,Strategic Partnership Marketing Manager,$100k - $200k,sales:non tech:marketing,7mo
+Figure,Senior Accountant,$80k - $110k,accounting:senior,7mo
+Figure,"Software Engineer, Portfolio Management",$40k - $120k,finance:dev:react:java,7mo

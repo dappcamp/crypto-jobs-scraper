@@ -1,0 +1,287 @@
+Company Name,Job Title,Salary Range,Tags,Posted Before
+Candy,Lead Business Operations Associate - Analytics,,stats:lead:operations,1d
+Candy,VFX Producer,$11k - $80k,vfx:non tech,2d
+Candy,Creative Director,$70k - $180k,executive,2d
+Candy,"3D Generalist (Lighting, Texturing and Compositing)",$11k - $80k,vfx:non tech,2d
+Candy,"Manager, Engineering",$67k - $175k,react:nextjs,5d
+Candy,Infrastructure Security Engineer,$95k - $250k,dev:security,5d
+Candy,Application Security Engineer,$95k - $250k,dev:security,5d
+Candy,Senior Product Manager,$80k - $150k,product manager:non tech:senior:nft,5d
+Candy,Director of Data Science,,data science:executive:nft,5d
+Candy,Senior Unity Engineer,$90k - $200k,dev:senior:nft,5d
+Candy,Senior Producer (Gaming Products),$80k - $150k,game dev:senior:nft,5d
+Candy,Senior Design Operations Associate,,design:non tech:operations:senior,5d
+Candy,Design Director (Gaming Products),,design:non tech:executive:game dev:nft,5d
+Candy,Staff Software Engineer - DevOps,$80k - $145k,devops:dev:node:java:rust,5d
+Candy,Staff Experience Engineer (R&D),$50k - $150k,dev:golang,5d
+Candy,Senior Frontend Engineer,$70k - $200k,dev:front end:senior:react:javascript,5d
+Candy,Senior Blockchain Engineer (Smart Contracts),$80k - $200k,dev:senior:blockchain:smart contract:solidity,5d
+Candy,Senior Backend Engineer,$70k - $200k,backend:dev:senior:java,5d
+Candy,Data Scientist,$50k - $150k,data science:nft,5d
+Candy,User Experience Researcher,$60k - $150k,design:non tech:nft,5d
+Candy,Recruitment Brand Marketing Manager,,marketing:non tech:recruiter,5d
+Candy,Recruitment Brand Marketing Manager,,marketing:non tech:recruiter,5d
+Candy,Junior Technical Recruiter,,junior:entry level:recruiter:non tech,5d
+Candy,HR Business Partner (Learning and Development),$60k - $150k,hr:non tech,5d
+Candy,Executive Assistant,$70k - $180k,executive,5d
+Candy,eCommerce Site Ops Associate,$220k - $400k,ecommerce:react:javascript,5d
+Candy,eCommerce Business Analyst,,analyst:ecommerce:react:javascript,5d
+Candy,Senior Marketing Copywriter,$25k - $105k,copywriting:non tech:marketing:senior,5d
+Candy,Marketing Art Director,$70k - $158k,executive:marketing:non tech,5d
+Candy,Senior Paralegal,$79k - $200k,senior,5d
+Candy,Senior Legal Counsel,,legal:senior,5d
+Candy,Controller,,legal:nft,5d
+Candy,Staff AR Engineer,$60k - $180k,dev,5d
+Candy,Senior User Experience Designer,$60k - $120k,design:non tech:senior:nft:javascript,5d
+Candy,Backend Engineer (Python),,backend:dev:python,5d
+Candy,Fraud Analyst,$150k - $185k,analyst:security:nft,5d
+Candy,Customer Experience Quality Assurance Specialist,,customer support:quality assurance,5d
+Candy,Customer Experience Associate,$40k - $45k,customer support:nft,5d
+Candy,Senior Motion Graphic Designer,$60k - $120k,design:non tech:senior:nft,5d
+Candy,IT Support Associate,$40k - $80k,customer support,5d
+Candy,"Manager, Engineering",$67k - $175k,react:nextjs,6d
+Candy,IT Support Associate,$40k - $80k,customer support,20d
+Candy,Director of Data Science,,data science:executive:nft,23d
+Candy,Engineering Internship (Summer 2022),$18k - $28k,intern:entry level:react:nft,25d
+Candy,HR Business Partner (Learning and Development),$60k - $150k,hr:non tech,27d
+Candy,Controller,,legal:nft,29d
+Candy,Backend Engineer (Python),,backend:dev:python,1mo
+Candy,Senior Business Operations Associate - Sports,,operations:senior,1mo
+Candy,Market Intelligence Associate,$55k - $150k,nft,1mo
+Candy,eCommerce Site Ops Associate,$220k - $400k,ecommerce:react:javascript,1mo
+Candy,Marketing Art Director,$70k - $158k,executive:marketing:non tech,1mo
+Candy,Graphic Designer,$50k - $150k,design:non tech,1mo
+Candy,Copywriter,$13k - $45k,copywriting,1mo
+Candy,Paralegal,,,1mo
+Candy,Media Producer,,,1mo
+Candy,Graphic Designer,$60k - $150k,design:non tech:nft,1mo
+Candy,Creative Director,$70k - $180k,executive,1mo
+Candy,3D Generalist,$13k - $50k,vfx,1mo
+Candy,Account Manager - Brand Partnerships (Sports),,sales:non tech:account manager:marketing,1mo
+Candy,Senior Legal Counsel,,legal:senior,1mo
+Candy,Senior Legal Counsel,,legal:senior,2mo
+Candy,Infrastructure Security Engineer,$95k - $250k,dev:security,2mo
+Candy,Application Security Engineer,$95k - $250k,dev:security,2mo
+Candy,Senior Producer (Gaming Products),$80k - $150k,game dev:senior:nft,2mo
+Candy,Staff Software Engineer - DevOps,$95k - $160k,devops:dev:node:java:rust,2mo
+Candy,Staff Experience Engineer (R&D),$48k - $150k,dev:golang,2mo
+Candy,Senior Full-Stack Developer,$70k - $180k,dev:full stack:senior:nft:javascript,2mo
+Candy,Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:javascript,2mo
+Candy,Senior Blockchain Engineer (Smart Contracts),$80k - $200k,dev:senior:blockchain:smart contract:solidity,2mo
+Candy,Senior Backend Engineer,$70k - $200k,backend:dev:senior:java,2mo
+Candy,Data Scientist,$50k - $150k,data science:nft,2mo
+Candy,User Experience Researcher,$60k - $150k,design:non tech:nft,2mo
+Candy,Technical Recruiter,$40k - $70k,recruiter:non tech,2mo
+Candy,Senior Technical Sourcer,$40k - $70k,recruiter:non tech:senior,2mo
+Candy,Senior Technical Recruiter,$40k - $70k,recruiter:non tech:senior,2mo
+Candy,Recruitment Brand Marketing Manager,,marketing:non tech:recruiter,2mo
+Candy,Recruitment Brand Marketing Manager,,marketing:non tech:recruiter,2mo
+Candy,"Manager, People and Culture (HRBP)",,,2mo
+Candy,Junior Technical Recruiter,,junior:entry level:recruiter:non tech,2mo
+Candy,Executive Assistant,$70k - $180k,executive,2mo
+Candy,Senior Business Operations Associate - Sports,,operations:senior,2mo
+Candy,eCommerce Site Ops Associate,$220k - $400k,ecommerce:react:javascript,2mo
+Candy,eCommerce Business Analyst,,analyst:ecommerce:react:javascript,2mo
+Candy,"Sr. Manager, PR & Communications",$46k - $109k,marketing:non tech:senior,2mo
+Candy,Senior Marketing Manager (Social Platforms),$46k - $109k,marketing:non tech:senior,2mo
+Candy,Senior Marketing Manager (Forums and Communities),$46k - $109k,marketing:non tech:senior,2mo
+Candy,Senior Marketing Copywriter,$25k - $96k,copywriting:marketing:non tech:senior,2mo
+Candy,Marketing Creative Director,$70k - $158k,executive:marketing:non tech,2mo
+Candy,Marketing Art Director,$70k - $158k,executive:marketing:non tech,2mo
+Candy,Content Marketing Associate (Motorsports),$45k - $130k,marketing:non tech,2mo
+Candy,Content Marketing Associate (Motorsports),$45k - $130k,marketing:non tech,2mo
+Candy,Content Marketing Associate (Motorsports),$45k - $130k,marketing:non tech,2mo
+Candy,Content Marketing Associate,$45k - $130k,marketing:non tech,2mo
+Candy,Senior Paralegal,$78k - $200k,senior,2mo
+Candy,Operations Internship (Full Time),,full time:intern:entry level:operations,2mo
+Candy,HR Internship (Full-Time),,full time:hr:non tech:intern:entry level,2mo
+Candy,Engineering Internship (Full-Year),$18k - $28k,intern:entry level:react:nft,2mo
+Candy,Staff AR Engineer,$60k - $180k,dev,2mo
+Candy,Senior User Experience Designer,$60k - $120k,design:non tech:senior:nft:javascript,2mo
+Candy,Senior Unity Engineer,$90k - $200k,dev:senior:nft,2mo
+Candy,Senior Design Operations Associate,,design:non tech:operations:senior,2mo
+Candy,Executive Producer (Gaming Products),$135k - $160k,executive:game dev:nft,2mo
+Candy,Design Director (Gaming Products),,design:non tech:executive:game dev:nft,2mo
+Candy,"VP, People",$70k - $180k,executive,2mo
+Candy,Chief of Staff,,executive:recruiter:non tech,2mo
+Candy,Fraud Analyst,$150k - $185k,analyst:security:nft,2mo
+Candy,Customer Experience Quality Assurance Specialist,$40k - $80k,customer support,2mo
+Candy,Customer Experience Associate,,customer support:nft,2mo
+Candy,VFX Producer,$13k - $50k,vfx,2mo
+Candy,"3D Generalist (Lighting, Texturing and Compositing)",$13k - $50k,vfx,2mo
+Candy,"3D Generalist (Lighting, Texturing and Compositing)",$13k - $50k,vfx,2mo
+Candy,Account Manager - Brand Partnerships (Sports),,sales:non tech:account manager:marketing,2mo
+Candy,Account Director - Brand Partnerships (Sports),$100k - $200k,sales:non tech:marketing:executive,2mo
+Candy,Account Associate - Brand Partnerships (Sports),$100k - $200k,sales:non tech:marketing,2mo
+Candy,Marketing Internship (Summer 2022),$24k - $48k,intern:entry level:marketing:non tech:nft,2mo
+Candy,"3D Generalist (Lighting, Texturing and Compositing)",$13k - $50k,vfx,2mo
+Candy,"3D Generalist (Lighting, Texturing and Compositing)",$13k - $50k,vfx,2mo
+Candy,Marketing Highlight Assistant Producer- Baseball (Part Time- Seasonal),,marketing:non tech:part time,2mo
+Candy,Marketing Highlight Assistant Producer- Baseball (Part Time- Seasonal),,marketing:non tech:part time,2mo
+Candy,Executive Producer (Gaming Products),$135k - $160k,executive:game dev:nft,2mo
+Candy,Design Director (Gaming Products),,design:non tech:executive:game dev:nft,2mo
+Candy,Senior Technical Sourcer,$40k - $70k,recruiter:non tech:senior,2mo
+Candy,Senior Technical Recruiter,$40k - $70k,recruiter:non tech:senior,2mo
+Candy,Staff AR Engineer,$60k - $180k,dev,2mo
+Candy,Senior Design Operations Associate,,design:non tech:operations:senior,2mo
+Candy,Operations Internship (Full Time),,full time:intern:entry level:operations:remote,2mo
+Candy,Account Director - Brand Partnerships (Sports),$100k - $200k,sales:non tech:marketing:executive,2mo
+Candy,Account Associate - Brand Partnerships (Sports),$100k - $200k,sales:non tech:marketing,2mo
+Candy,Staff Software Engineer - DevOps,$95k - $160k,devops:dev:node:java:rust,3mo
+Candy,Senior Full-Stack Developer,$70k - $180k,dev:full stack:senior:nft:javascript,3mo
+Candy,User Experience Researcher,$60k - $150k,design:non tech:nft,3mo
+Candy,Senior User Experience Designer,$60k - $120k,design:non tech:senior:nft:javascript,3mo
+Candy,"VP, People",$70k - $180k,executive,3mo
+Candy,Strategic Account Manager (Sports Partnerships),,sales:non tech:account manager,3mo
+Candy,Strategic Account Director (Sports Partnerships),$40k - $150k,sales:non tech:executive,3mo
+Candy,Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:javascript,3mo
+Candy,Senior Blockchain Engineer (Smart Contracts),$80k - $200k,dev:senior:blockchain:smart contract:solidity,3mo
+Candy,Senior Backend Engineer,$70k - $200k,backend:dev:senior:java,3mo
+Candy,Data Scientist,$50k - $150k,data science:nft,3mo
+Candy,Technical Recruiter,$40k - $70k,recruiter:non tech,3mo
+Candy,Recruitment Brand Marketing Manager,,marketing:non tech:recruiter,3mo
+Candy,Recruitment Brand Marketing Manager,,marketing:non tech:recruiter,3mo
+Candy,"Manager, People and Culture (HRBP)",,,3mo
+Candy,Junior Technical Recruiter,,junior:entry level:recruiter:non tech,3mo
+Candy,Executive Assistant,$70k - $180k,executive,3mo
+Candy,eCommerce Site Ops Associate,$220k - $400k,ecommerce:react:javascript,3mo
+Candy,eCommerce Business Analyst,,analyst:ecommerce:react:javascript,3mo
+Candy,"Sr. Manager, PR & Communications",$46k - $109k,marketing:non tech:senior,3mo
+Candy,Senior Marketing Manager (Social Platforms),$46k - $109k,marketing:non tech:senior,3mo
+Candy,Senior Marketing Manager - Retention,,marketing:non tech:product manager:senior,3mo
+Candy,Senior Marketing Manager (Forums and Communities),$46k - $109k,marketing:non tech:senior,3mo
+Candy,Senior Marketing Copywriter,$25k - $96k,copywriting:marketing:non tech:senior,3mo
+Candy,Marketing Creative Director,$70k - $158k,executive:marketing:non tech,3mo
+Candy,Marketing Art Director,$70k - $158k,executive:marketing:non tech,3mo
+Candy,Growth Marketing Manager,$45k - $130k,marketing:non tech,3mo
+Candy,HR Internship (Full-Time),,full time:hr:non tech:intern:entry level,3mo
+Candy,Engineering Internship (Full-Year),$18k - $28k,intern:entry level:react:nft,3mo
+Candy,Fraud Risk Analyst,$150k - $185k,analyst:security:nft,3mo
+Candy,Fraud Analyst,$150k - $185k,analyst:security:nft,3mo
+Candy,VFX Producer,$13k - $50k,vfx,3mo
+Candy,Senior Motion Graphic Designer,$60k - $120k,design:non tech:senior:nft,3mo
+Candy,Customer Experience Quality Assurance Specialist,$40k - $80k,customer support,3mo
+Candy,Director of Marketing Insights,$70k - $158k,executive:marketing:non tech,3mo
+Candy,Customer Experience Associate,,customer support:nft,3mo
+Candy,Business Operations Associate,$60k - $200k,operations,3mo
+Candy,Content Marketing Associate (Motorsports),$45k - $130k,marketing:non tech,3mo
+Candy,Content Marketing Associate (Motorsports),$45k - $130k,marketing:non tech,3mo
+Candy,Content Marketing Associate (Motorsports),$45k - $130k,marketing:non tech,3mo
+Candy,Content Marketing Associate,$45k - $130k,marketing:non tech,3mo
+Candy,Chief of Staff,,executive:recruiter:non tech,3mo
+Candy,3D Modeler,$13k - $50k,vfx,3mo
+Candy,3D Animator,,vfx:video,3mo
+Candy,Senior Unity Engineer,$90k - $200k,dev:senior:nft,3mo
+Candy,Strategic Account Associate,,,3mo
+Candy,Senior Paralegal,$78k - $200k,senior,3mo
+Candy,Marketing Art Director,$70k - $158k,executive:marketing:non tech,3mo
+Candy,Chief of Staff,,executive:recruiter:non tech,3mo
+Candy,Recruitment Brand Marketing Manager,,marketing:non tech:recruiter,3mo
+Candy,Executive Assistant,$70k - $180k,executive,3mo
+Candy,Content Marketing Associate (Motorsports),$45k - $130k,marketing:non tech,3mo
+Candy,Content Marketing Associate (Motorsports),$45k - $130k,marketing:non tech,3mo
+Candy,Content Marketing Associate (Motorsports),$45k - $130k,marketing:non tech,3mo
+Candy,Staff Software Engineer - DevOps,$95k - $160k,devops:dev:node:java:rust,3mo
+Candy,Recruitment Brand Marketing Manager,,marketing:non tech:recruiter,3mo
+Candy,Content Marketing Associate (Motorsports),$45k - $130k,marketing:non tech,3mo
+Candy,Marketing Creative Director,$70k - $158k,executive:marketing:non tech,3mo
+Candy,Technical Recruiter,$40k - $70k,recruiter:non tech,3mo
+Candy,eCommerce Site Ops Associate,$220k - $400k,ecommerce:react:javascript,3mo
+Candy,eCommerce Business Analyst,,analyst:ecommerce:react:javascript,3mo
+Candy,Quality Assurance Specialist,,,3mo
+Candy,Growth Marketing Manager,$45k - $130k,marketing:non tech,3mo
+Candy,R&D Engineer,$48k - $150k,dev:golang,4mo
+Candy,Fraud Risk Analyst,$150k - $185k,analyst:security:nft:remote,4mo
+Candy,Senior Marketing Copywriter,$25k - $96k,copywriting:marketing:non tech:senior,4mo
+Candy,Fraud Analyst,$150k - $185k,analyst:security:nft,4mo
+Candy,Engineering Internship (Full-Year),$18k - $28k,intern:entry level:react:nft,4mo
+Candy,Senior Full-Stack Developer,$70k - $180k,dev:full stack:senior:nft:javascript,4mo
+Candy,Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:javascript,4mo
+Candy,Senior Blockchain Engineer (Smart Contracts),$80k - $200k,dev:senior:blockchain:smart contract:solidity,4mo
+Candy,Senior Backend Engineer,$70k - $200k,backend:dev:senior:java,4mo
+Candy,Data Scientist,$50k - $150k,data science:nft,4mo
+Candy,"VP, Product",$63k - $180k,executive:nft,4mo
+Candy,User Experience Researcher,$60k - $150k,design:non tech:nft,4mo
+Candy,Senior Product Manager,$80k - $150k,product manager:non tech:senior,4mo
+Candy,Technical Recruiter (Entry-Level),$40k - $70k,recruiter:non tech,4mo
+Candy,Business Operations Associate,$60k - $200k,operations,4mo
+Candy,Senior User Experience Designer,$60k - $120k,design:non tech:senior:nft:javascript,4mo
+Candy,Customer Experience Associate,,customer support:nft,4mo
+Candy,Senior Video Editor,,senior:video,4mo
+Candy,Senior Sound Designer,$60k - $120k,design:non tech:senior,4mo
+Candy,Senior Motion Graphic Designer,$60k - $120k,design:non tech:senior:nft,4mo
+Candy,3D Modeler,$13k - $50k,vfx,4mo
+Candy,3D Animator,,vfx:video,4mo
+Candy,Strategic Account Manager (Sports),,account manager,4mo
+Candy,Strategic Account Director (Sports),$70k - $180k,executive,4mo
+Candy,HR Internship (Full-Time),,full time:hr:non tech:intern:entry level,4mo
+Candy,Senior Full-Stack Developer,$70k - $180k,dev:full stack:senior:nft:javascript,5mo
+Candy,Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:javascript,5mo
+Candy,Senior Blockchain Engineer (Smart Contracts),$80k - $200k,dev:senior:blockchain:smart contract:solidity,5mo
+Candy,Senior Backend Engineer,$70k - $200k,backend:dev:senior:java,5mo
+Candy,Data Scientist,$50k - $150k,data science:nft,5mo
+Candy,"VP, Product",$63k - $180k,executive:nft,5mo
+Candy,User Experience Researcher,$60k - $150k,design:non tech:nft,5mo
+Candy,Senior Product Manager,$80k - $150k,product manager:non tech:senior,5mo
+Candy,"VP, People",$70k - $180k,executive,5mo
+Candy,People Operations Coordinator,$60k - $200k,operations,5mo
+Candy,Business Operations Associate,$60k - $200k,operations,5mo
+Candy,"Associate, Market Intelligence (Motorsports)",$55k - $150k,nft,5mo
+Candy,"Sr. Manager, PR & Communications",$46k - $109k,marketing:non tech:senior,5mo
+Candy,Senior Marketing Manager (Social Platforms),$46k - $109k,marketing:non tech:senior,5mo
+Candy,Senior Marketing Manager - Retention,,marketing:non tech:product manager:senior,5mo
+Candy,Senior Marketing Manager (Forums and Communities),$46k - $109k,marketing:non tech:senior,5mo
+Candy,Content Marketing Associate,$45k - $130k,marketing:non tech,5mo
+Candy,Senior User Experience Designer,$60k - $120k,design:non tech:senior:nft:javascript,5mo
+Candy,Senior Video Editor,,senior:video,5mo
+Candy,Senior Sound Designer,$60k - $120k,design:non tech:senior,5mo
+Candy,Senior Graphic Designer (Motion),$60k - $120k,design:non tech:senior,5mo
+Candy,3D Modeler,$13k - $50k,vfx,5mo
+Candy,3D Animator,,vfx:video,5mo
+Candy,Strategic Account Manager (Sports),,account manager,5mo
+Candy,Strategic Account Director (Sports),$70k - $180k,executive,5mo
+Candy,Technical Recruiter (Entry-Level),$40k - $70k,recruiter:non tech,5mo
+Candy,"Manager, People and Culture (HRBP)",,,5mo
+Candy,People Operations Coordinator,$60k - $200k,operations,5mo
+Candy,Junior Technical Recruiter,,junior:entry level:recruiter:non tech,5mo
+Candy,"Sr. Manager, PR & Communications",$46k - $109k,marketing:non tech:senior,5mo
+Candy,Sr. Full-Stack Developer,$70k - $180k,dev:full stack:senior:nft:javascript,5mo
+Candy,Senior Video Editor,,senior:video,5mo
+Candy,User Experience Researcher,$60k - $150k,design:non tech:nft,5mo
+Candy,Senior Data Scientist,,data science:senior:nft,5mo
+Candy,Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:javascript,5mo
+Candy,Senior Backend Engineer,$70k - $200k,backend:dev:senior:java,5mo
+Candy,"VP, Product",$63k - $180k,executive:nft,5mo
+Candy,Senior Product Manager,$80k - $150k,product manager:non tech:senior,5mo
+Candy,"VP, People",$70k - $180k,executive,5mo
+Candy,Senior Technical Recruiter,$40k - $70k,recruiter:non tech:senior,5mo
+Candy,Business Operations Associate,$60k - $200k,operations,5mo
+Candy,"Associate, Market Intelligence (Motorsports)",$55k - $150k,nft,5mo
+Candy,"Social Media Manager, Marketing (Forums and Communities)",$28k - $100k,marketing:non tech:social media,5mo
+Candy,Senior Marketing Manager (Social Platforms),$46k - $109k,marketing:non tech:senior,5mo
+Candy,Content Marketing Associate,$45k - $130k,marketing:non tech,5mo
+Candy,"VP, Legal",,legal:executive,5mo
+Candy,Internship (Summer 2022),,intern:entry level,5mo
+Candy,Internship (Part-Time),,intern:entry level:part time,5mo
+Candy,Internship (Full-Time),,full time:intern:entry level,5mo
+Candy,Head of Finance,$90k - $200k,executive:finance,5mo
+Candy,User Experience Designer,$60k - $150k,design:non tech:nft:javascript,5mo
+Candy,Senior Sound Designer,$60k - $120k,design:non tech:senior,5mo
+Candy,Senior Sound Designer,$60k - $120k,design:non tech:senior,5mo
+Candy,Senior Art Director,$46k - $110k,executive:senior,5mo
+Candy,Media Producer,,,5mo
+Candy,Design Director,,design:non tech:executive,5mo
+Candy,Creative Studio Manager,,,5mo
+Candy,3D Modeler,$13k - $50k,vfx,5mo
+Candy,3D Animator,,vfx:video,5mo
+Candy,Strategic Account Director (Sports),$70k - $180k,executive,5mo
+Candy,Head of eCommerce,$56k - $400k,executive:ecommerce,5mo
+Candy,"Associate, Market Intelligence (Motorsports)",,,6mo
+Candy,"VP, eCommerce",$56k - $400k,ecommerce:executive,6mo
+Candy,Senior Blockchain Engineer (Smart Contracts),$80k - $200k,dev:senior:blockchain:smart contract:solidity,6mo
+Candy,Head of Legal,,executive:legal,6mo
+Candy,Senior Graphic Designer (Motion),$60k - $120k,design:non tech:senior,6mo
+Candy,Senior Product Manager,$80k - $150k,product manager:non tech:senior,6mo
+Candy,3D Animator,,vfx:video,6mo
+Candy,Senior Blockchain Engineer (Smart Contracts),$80k - $200k,dev:senior:blockchain:smart contract:solidity,6mo
+Candy,Customer Experience Associate,,customer support:nft,6mo

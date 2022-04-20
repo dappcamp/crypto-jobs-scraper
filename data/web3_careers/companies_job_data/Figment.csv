@@ -1,0 +1,90 @@
+Company Name,Job Title,Salary Range,Tags,Posted Before
+Figment,"Senior Product Manager, Trading Experience",$80k - $150k,product manager:non tech:senior,18h
+Figment,Senior Product Manager,$80k - $150k,product manager:non tech:senior,18h
+Figment,Product Manager,$67k - $160k,product manager:non tech,18h
+Figment,"Product Lead, Growth",$50k - $120k,marketing:non tech:lead,18h
+Figment,Principal Product Designer,,design:non tech:executive,18h
+Figment,Senior Product Designer,$60k - $120k,design:non tech:senior,19h
+Figment,Revenue Accountant,$25k - $150k,accounting,5d
+Figment,Analytics and Research Lead,,stats:lead,6d
+Figment,Senior Product Analyst,$150k - $185k,analyst:senior,6d
+Figment,Channel Reporting Analyst,$150k - $185k,analyst:javascript,13d
+Figment,"Director of Sales, DataHub",$40k - $150k,executive:sales:non tech,14d
+Figment,Security Operations Analyst,,analyst:operations:security:ruby,15d
+Figment,Security Engineer,,dev:security:ruby:java,15d
+Figment,Customer Success Lead,$25k - $35k,customer support:lead,28d
+Figment,Web Developer,$56k - $160k,dev:react:javascript:nextjs,1mo
+Figment,"Principal TypeScript & React Software Engineer, Product Engineering",$200k - $400k,dev:executive:javascript:react,1mo
+Figment,"Principal Ruby on Rails Software Engineer, Product Engineering",,dev:executive:ruby,1mo
+Figment,"Lead TypeScript & React Software Engineer, Product Engineering",$100k - $200k,dev:lead:javascript:react,1mo
+Figment,Sr. Security Engineer,$95k - $250k,dev:security:senior:ruby,1mo
+Figment,HR Director,,executive:hr:non tech,1mo
+Figment,Tech Support Lead - DataHub,,lead:customer support:solidity:javascript:golang,1mo
+Figment,Jr. Accountant (AP & AR Administrator),$25k - $150k,accounting,2mo
+Figment,"Account Executive, DataHub",$63k - $180k,executive:nft,2mo
+Figment,Platform Team Manager,,,2mo
+Figment,Protocol Specialist - EVM,$60k - $145k,ethereum:node,2mo
+Figment,Protocol Growth Lead,$50k - $120k,marketing:non tech:lead,2mo
+Figment,Content Specialist - Developer Marketing,$25k - $96k,marketing:non tech:copywriting:dev,2mo
+Figment,Tax Manager,$25k - $150k,accounting,2mo
+Figment,Business Development Manager,$26k - $140k,sales:non tech,2mo
+Figment,Sales Operations Manager,,operations:sales:non tech,2mo
+Figment,Creative Designer,$50k - $150k,design:non tech,2mo
+Figment,"Web App Developer, DataHub",$56k - $160k,dev:react:javascript:ruby,2mo
+Figment,Account Manager,,account manager,2mo
+Figment,Social Media Strategist,$33k - $85k,social media:non tech,2mo
+Figment,Marketing Data Analyst,,analyst:data science:marketing:non tech,2mo
+Figment,Sr. Events Manager,,events manager:non tech:senior,2mo
+Figment,"Developer Relations - Americas, Marketing",,customer support:dev:marketing:non tech,3mo
+Figment,Digital Marketing Manager,$45k - $130k,marketing:non tech,3mo
+Figment,Growth & Product Marketing Specialist - Partnerships,$100k - $200k,sales:non tech:marketing,3mo
+Figment,Growth & Product Marketing Specialist - Crypto Finance,$50k - $100k,finance:marketing:non tech:crypto,3mo
+Figment,Growth Marketing Specialist - Market Research,$45k - $130k,marketing:non tech,3mo
+Figment,Backend Golang Software Engineer,$33k - $160k,backend:dev:golang:rust,3mo
+Figment,Customer Success Senior Relationship Manager,,customer support:marketing:non tech:senior,3mo
+Figment,Customer Success Relationship Manager,,customer support:marketing:non tech,3mo
+Figment,Customer Success Associate,$40k - $80k,customer support,3mo
+Figment,Automation Senior DevOps Engineer,$120k - $200k,devops:dev:senior,3mo
+Figment,Automation Devops Engineer,$70k - $180k,devops:dev,3mo
+Figment,Protocol Specialist,$60k - $165k,solana:ethereum,3mo
+Figment,Principal Red Team Operator,,executive:ruby:java,3mo
+Figment,"FP&A Analyst, Sales",,analyst:sales:non tech,4mo
+Figment,"Vice President of Sales, Staking",$26k - $140k,sales:non tech,4mo
+Figment,"Software Engineer, DataHub",$33k - $67k,dev:ruby:node,4mo
+Figment,Customer Success Analyst,$15k - $95k,analyst:customer support,4mo
+Figment,Software Engineer - Protocol Development,$48k - $120k,dev:nft:golang:rust,4mo
+Figment,Software Engineering Manager - Protocol Development,$80k - $180k,executive:dev:nft:golang:rust,4mo
+Figment,Graphic Designer,$50k - $150k,design:non tech,4mo
+Figment,Technical Project Manager,$50k - $150k,project manager:non tech,4mo
+Figment,Proof of Stake Revenue Analyst,$40k - $120k,analyst,5mo
+Figment,Assistant Controller,,finance:legal,5mo
+Figment,Marketing Assistant,$45k - $130k,marketing:non tech,5mo
+Figment,FP&A Manager,,,5mo
+Figment,Event Coordinator,,events manager:non tech,5mo
+Figment,Sales Development Representative,$26k - $140k,sales:non tech,5mo
+Figment,Staking Product Technical Analyst,$40k - $120k,analyst,5mo
+Figment,Legal Associate,$24k - $140k,legal,5mo
+Figment,Revenue Accountant,$25k - $150k,accounting,5mo
+Figment,FP&A Analyst,$40k - $120k,analyst,5mo
+Figment,Senior Data Engineer,$130k - $160k,data science:dev:senior:ruby,5mo
+Figment,Intermediate Accountant,$25k - $150k,accounting,5mo
+Figment,Content Creator and Marketing Specialist,$45k - $130k,marketing:non tech,5mo
+Figment,Communications & Social Media Manager,$33k - $85k,social media:non tech,5mo
+Figment,"Technical Support Engineer, DataHub",,dev:customer support:solidity:javascript:golang,5mo
+Figment,"Data Scientist, DataHub",$50k - $150k,data science,5mo
+Figment,"Product Manager, DataHub",$69k - $160k,product manager:non tech,5mo
+Figment,Developer Relations Lead,,customer support:dev:lead,5mo
+Figment,Accountant,$25k - $150k,accounting,5mo
+Figment,"Protocol Engineer, DataHub",$54k - $150k,dev:solidity:javascript:golang:rust,6mo
+Figment,"Full Stack Engineer, DataHub",$60k - $250k,dev:full stack:ruby:golang,6mo
+Figment,"Customer Success Associate, DataHub",$40k - $80k,customer support,6mo
+Figment,Security Engineer,$95k - $250k,dev:security,7mo
+Figment,DevOps Engineer,$70k - $180k,devops:dev,7mo
+Figment,Sales Associate,$26k - $140k,sales:non tech,7mo
+Figment,Account Executive,$120k - $200k,executive:solana:ethereum,7mo
+Figment,Systems Developer (Full Stack),$65k - $180k,dev:full stack:javascript:php,7mo
+Figment,Blockchain Research Analyst,$150k - $185k,analyst:blockchain:solana:ethereum,7mo
+Figment,Ruby / Rails Developer,$32k - $87k,dev:ruby:react:ethereum:javascript,7mo
+Figment,Fullstack Software Engineer,$60k - $250k,dev:full stack:ruby,7mo
+Figment,Backend Golang Software Engineer,$33k - $160k,backend:dev:golang,7mo
+Figment,Rewards Analyst,$40k - $120k,analyst,7mo
