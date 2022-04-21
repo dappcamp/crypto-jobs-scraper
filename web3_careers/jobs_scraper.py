@@ -86,6 +86,7 @@ class JobScraper:
         while True:
             company_job_data = []
             link = base_link.rstrip("/") + f"?page={requested_page_num}"
+            print(link)
 
             resp = requests.get(link)
             soup = BeautifulSoup(resp.content, 'html5lib')
@@ -103,7 +104,7 @@ class JobScraper:
             for job_row in job_rows:
                 try:
                     data_points = job_row.find_all("td")
-                    job_details = data_points[0].find("div").find_all("div")[1]
+                    job_details = data_points[0].find("div").find_all("div", attrs={"class": "d-flex"})[0]
                     job_title = self.clean_text(job_details.find_all("div")[0].text)
                     job_link = "https://web3.career" + job_details.find_all("div")[0].find("a").attrs["href"]
                     company_name = self.clean_text(job_details.find_all("div")[1].text)
