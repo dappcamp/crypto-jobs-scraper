@@ -61,7 +61,6 @@
   "translator",
   "non-tech",
   "flutter",
-  "frontend",
   "crm",
   "react-native",
   "c-plus-plus",
@@ -95,5 +94,7 @@
   "human-resources",
   "non technical",
   "data viz",
-  "amazon"
+  "amazon",
+  "api",
+  "backend"
 ]
