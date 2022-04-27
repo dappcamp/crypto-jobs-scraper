@@ -1,36 +1,61 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Q.xyz,https://web3.career/defi-content-creator-marketer-q-xyz/23258,DeFi Content Creator / Marketer,$0k,marketing:non tech:defi:ethereum,1mo
-Squads,https://web3.career/head-of-product-squads/23256,Head of Product,$140k - $170k,executive:product manager:non tech:remote,1mo
-GOGO Protocol,https://web3.career/qa-engineer-cryptogogos/23257,QA Engineer,$62k - $10k,dev:quality assurance:crypto:remote:node,1mo
-Solend,https://web3.career/recruiter-solend/23255,Recruiter,,recruiter:non tech:remote:solana,1mo
-Ripple,https://web3.career/senior-software-engineer-ripple/23254,Senior Software Engineer,$70k - $180k,dev:senior:react:javascript:node,1mo
-Okcoin,https://web3.career/l-d-and-qa-manager-okcoin/23253,L&D and QA Manager,$62k - $150k,quality assurance,1mo
-Braintrust,https://web3.career/sr-backend-engineer-braintrust/23251,Sr Backend Engineer,$33k - $160k,backend:dev:golang,1mo
-Chainalysis,https://web3.career/head-of-sales-japan-chainalysis/23250,"Head of Sales, Japan",$40k - $150k,executive:sales:non tech,1mo
-DeRisk Services,https://web3.career/network-l2-data-centre-engineer-deriskservices5/23248,Network L2/ Data Centre Engineer,$2k - $2k,dev,1mo
-Castle Labs,https://web3.career/smart-contract-engineer-castle-labs/23246,Smart Contract Engineer,$80k - $200k,dev:smart contract:remote:solana:rust,1mo
-Castle Labs,https://web3.career/senior-smart-contract-engineer-castle-labs/23245,Senior Smart Contract Engineer,$120k - $250k,dev:senior:smart contract:remote:solana,1mo
-Castle Labs,https://web3.career/full-stack-engineer-castle-labs/23244,Full Stack Engineer,$70k - $200k,dev:full stack:remote:react:solana,1mo
-BlockFi,https://web3.career/associate-corporate-development-strategy-blockfi/23243,Associate - Corporate Development & Strategy,,,1mo
-TokenForge GmbH,https://web3.career/hr-businesspartner-m-w-d-tokenforge/23242,HR Businesspartner (M/W/D),$51k - $120k,hr:non tech:nft:remote,1mo
-micobo GmbH,https://web3.career/technical-sales-consultant-all-genders-micobo/23241,Technical Sales Consultant (all genders),,consulting:sales:non tech:remote,1mo
-P021 Clothing,https://web3.career/co-founder-managing-director-_-nft-based-fashion-brand-m-f-d-patuclothing/23240,Co-Founder / Managing Director _ NFT based fashion brand (m/f/d),$70k - $158k,marketing:non tech:executive:nft:remote,1mo
-Ethereum Foundation,https://web3.career/marketing-ops-manager-privacy-and-scaling-explorations-ethereumfoundation/23239,"Marketing Ops Manager, Privacy and Scaling Explorations",$25k - $120k,marketing:non tech:remote:ethereum,1mo
-Consensys,https://web3.career/hris-analyst-consensys/23238,HRIS Analyst,$45k - $55k,analyst:remote:ethereum,1mo
-Consensys,https://web3.career/director-of-product-management-consensys/23237,Director of Product Management,$135k - $170k,executive:product manager:non tech:remote:ethereum,1mo
-Enapter,https://web3.career/sustainability-manager-m-f-d-enapter/23235,Sustainability Manager (m/f/d),$56k - $160k,remote,1mo
-Banger Games,https://web3.career/lead-game-economy-designer-banger-games/23230,Lead Game Economy Designer,$50k - $120k,analyst:game dev:data science:non tech:lead,1mo
-Ripple,https://web3.career/business-development-director-ripplenet-emea-ripple/23234,Business Development Director - RippleNet EMEA,$40k - $150k,sales:non tech:executive,1mo
-Gnosis,https://web3.career/product-manager-m-w-d-gnosis/23233,Product Manager (m/w/d),$115k - $175k,product manager:non tech:remote:ethereum:node,1mo
-Genies,https://web3.career/software-engineer-new-grad-backend-genies/23229,Software Engineer (New Grad) - Backend,$65k - $180k,backend:dev:nft,1mo
-Bitfinex,https://web3.career/blockchain-integration-specialist-remote-bitfinex/23228,Blockchain Integration Specialist (Remote),$60k - $120k,remote:blockchain:solidity:ethereum:javascript,1mo
-Chainalysis,https://web3.career/solutions-architect-singapore-chainalysis/23227,"Solutions Architect, Singapore",$67k - $180k,architecture,1mo
-Chainlink Labs,https://web3.career/blockchain-research-engineer-chainlink-labs/23226,Blockchain Research Engineer,$52k - $160k,dev:blockchain:solidity:java:golang,1mo
-Finoa GmbH,https://web3.career/senior-staking-engineer-berlin-porto-m-f-d-finoa/23225,Senior Staking Engineer - Berlin / Porto (m/f/d),$85k - $200k,dev:senior:remote:node,1mo
-Genies,https://web3.career/lead-animation-engineer-genies/23224,Lead Animation Engineer,,video:dev:lead:nft,1mo
-Injective Labs,https://web3.career/marketing-associate-injectivelabs/23223,Marketing Associate,$45k - $130k,marketing:non tech,1mo
-Mighty Bear Games,https://web3.career/web3-analyst-intern-mighty-bear-games/23222,Web3 Analyst Intern,,analyst:intern:entry level:remote,1mo
-Mighty Bear Games,https://web3.career/web3-community-manager-mighty-bear-games/23221,Web3 Community Manager,,community manager:non tech:social media:marketing:remote,1mo
-Sygnum Bank AG,https://web3.career/vp-credit-lending-sygnum/23220,VP Credit & Lending,$79k - $158k,executive:ethereum,1mo
-Genies,https://web3.career/software-engineer-new-grad-full-stack-genies/23219,Software Engineer (New Grad) - Full Stack,$65k - $180k,dev:full stack:react:nft:javascript,1mo
-Ethereum Foundation,https://web3.career/technical-project-coordinator-ethereumfoundation/23218,Technical Project Coordinator,$60k - $145k,remote:ethereum,1mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Brave,https://web3.career/data-engineer-brave/23866,"San Francisco,
+United States",Data Engineer,,data science:dev:javascript,1mo
+Brave,https://web3.career/anti-fraud-engineer-red-team-brave/23865,"San Francisco,
+United States",Anti-Fraud Engineer - Red Team,$130k - $200k,dev:security:javascript:golang,1mo
+BitGo,https://web3.career/ux-and-content-strategist-bitgo/23864,"Palo Alto,
+United States",UX and Content Strategist,$50k - $150k,design:non tech,1mo
+BCGDV,https://web3.career/senior-back-end-engineer-bcgdv/23863,"London,
+United Kingdom",Senior Back End Engineer,$70k - $200k,backend:dev:senior:javascript:ruby,1mo
+BCGDV,https://web3.career/senior-front-end-engineer-bcgdv/23862,"London,
+United Kingdom",Senior Front End Engineer,$70k - $190k,dev:front end:senior:react,1mo
+Brave,https://web3.career/backend-engineer-brave/23861,"San Francisco,
+United States",Backend Engineer,$65k - $150k,backend:dev:javascript,1mo
+Brave,https://web3.career/anti-fraud-engineer-brave/23860,"San Francisco,
+United States",Anti-Fraud Engineer,,dev:security:ethereum:javascript:ruby,1mo
+Cake DeFi,https://web3.career/information-technology-support-specialist-cake-defi-1/23859,"Singapore,
+Singapore",Information Technology Support Specialist,$40k - $80k,customer support,1mo
+SOUTHWORKS,https://web3.career/senior-software-engineer-net-react-southworks/23858,Colombia,Senior Software Engineer (.NET/React),,dot net:dev:javascript:react:senior,1mo
+peaq,https://web3.career/rust-developer-m-w-d-peaq/23857,,Rust Developer (m/w/d),$70k - $160k,dev:rust:ethereum,1mo
+Acria UG (haftungsbeschränkt),https://web3.career/business-development-intern-acria/23856,München Deutschland,Business Development Intern,$3k,sales:non tech:intern:entry level:ethereum,1mo
+Concept Art House,https://web3.career/art-director-conceptarthouse/23855,,Art Director,$63k - $180k,executive:nft,1mo
+Ultra,https://web3.career/nft-project-manager-tallinn-or-remote-in-europe-ultra/23854,"Tallinn,
+Estonia",NFT Project Manager - Tallinn or Remote in Europe -,$56k - $150k,remote:project manager:non tech:nft,1mo
+Chainalysis,https://web3.career/investigations-manager-law-enforcement-chainalysis/23853,"New York,
+United States","Investigations Manager, Law Enforcement",,,1mo
+BitGo,https://web3.career/recruiting-coordinator-bitgo/23852,"New York,
+United States",Recruiting Coordinator,$40k - $70k,recruiter:non tech,1mo
+BlockFi,https://web3.career/loan-servicing-analyst-blockfi/23849,"London,
+United Kingdom",Loan Servicing Analyst,$40k - $120k,analyst,1mo
+Domain Money,https://web3.career/director-search-engine-optimization-domainmoney/23848,"New York,
+United States",Director - Search Engine Optimization,,executive:seo:non tech,1mo
+Next Big Thing AG,https://web3.career/senior-sales-manager-european-market-nextbigthing/23847,"Berlin,
+Germany",(Senior) Sales Manager - European market,$50k - $150k,sales:non tech:senior:remote,1mo
+Elwood Technologies,https://web3.career/crypto-trading-support-elwoodtechnologies/23846,Remote,Crypto Trading Support,$25k - $35k,customer support:crypto:remote,1mo
+CleanSpark,https://web3.career/senior-facilities-manager-cleanspark/23845,"Atlanta,
+United States",Senior Facilities Manager,$78k - $200k,senior,1mo
+Concept Art House,https://web3.career/technical-artist-conceptarthouse/23844,"San Francisco,
+United States",Technical Artist,$55k - $150k,nft,1mo
+Parity Technologies,https://web3.career/hr-people-operations-analytics-specialist-parity/23843,"Berlin,
+Germany",HR/People Operations Analytics Specialist,,stats:hr:non tech:operations:remote,1mo
+BlockFi,https://web3.career/staff-software-engineer-ios-retail-trading-blockfi/23842,"London,
+United Kingdom","Staff Software Engineer (iOS), Retail Trading",$51k - $109k,dev:ios:mobile,1mo
+Blockdaemon,https://web3.career/senior-marketing-manager-apac-blockdaemon/23841,"Singapore,
+Singapore","Senior Marketing Manager, APAC",$46k - $109k,marketing:non tech:senior,1mo
+SADA,https://web3.career/staff-site-reliability-engineer-sada/23840,"Seattle,
+United States",Staff Site Reliability Engineer,$150k - $200k,dev:sys admin:java,1mo
+Concept Art House,https://web3.career/corporate-paralegal-conceptarthouse/23839,"San Francisco,
+United States",Corporate Paralegal,$55k - $150k,nft,1mo
+OKX,https://web3.career/software-quality-assurance-engineer-okx/23838,"Hong Kong,
+Hong Kong",Software Quality Assurance Engineer,$11k - $130k,dev:javascript:java,1mo
+OKX,https://web3.career/talent-acquisition-intern-okx/23837,"Singapore,
+Singapore",Talent Acquisition Intern,,intern:entry level:recruiter:non tech,1mo
+Konfid.io GmbH,https://web3.career/blockchain-developer-remote-part-time-full-time-konfidio/23836,Remote,Blockchain developer (Remote: Part-time/ Full-time),$65k - $142k,remote:dev:full time:part time:blockchain,1mo
+Immunefi,https://web3.career/fullstack-engineer-immunefi/23835,Remote,Fullstack Engineer,$80k - $130k,dev:full stack:web3js:react:solidity,1mo
+Concept Art House,https://web3.career/community-lead-nft-conceptarthouse/23834,Remote,Community Lead-NFT,$40k - $65k,community manager:non tech:lead:nft:remote,1mo
+Stardust Cards Corporation,https://web3.career/senior-database-backend-stardust/23833,Remote,Senior Database-Backend,$70k - $150k,backend:senior:remote,1mo
+Stardust Cards Corporation,https://web3.career/site-reliability-engineer-stardust/23832,Remote,Site Reliability Engineer,$150k - $200k,dev:sys admin:remote,1mo
+Parity Technologies,https://web3.career/senior-program-manager-people-operations-parity/23831,"Berlin,
+Germany",Senior Program Manager - People Operations,,operations:executive:senior:remote,1mo
+Gnosis,https://web3.career/senior-backend-engineer-rust-or-python-m-w-d-gnosis/23830,"Berlin,
+Germany",Senior Backend Engineer - Rust or Python (m/w/d),,backend:dev:python:rust:senior,1mo

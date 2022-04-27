@@ -1,36 +1,54 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Burnt Finance,https://web3.career/engineering-manager-burnt/24693,Engineering Manager,$70k - $180k,executive,20d
-Binance,https://web3.career/strategy-intern-ceo-office-binance/24691,"Strategy Intern, CEO Office",,executive:intern:entry level,20d
-Samba TV,https://web3.career/senior-backend-software-engineer-sambatv/24690,Senior Backend Software Engineer,$70k - $200k,backend:dev:senior:remote,20d
-Parity Technologies,https://web3.career/recruiting-program-manager-parity/24688,Recruiting Program Manager,,executive:recruiter:non tech:remote,20d
-Ripple,https://web3.career/manager-hr-business-partner-ripple/24687,"Manager, HR Business Partner",$60k - $150k,hr:non tech,20d
-Ripple,https://web3.career/corporate-controller-director-singapore-ripple/24686,Corporate Controller (Director) - Singapore,,legal:executive,20d
-Ripple,https://web3.career/growth-marketing-manager-ripplex-ripple/24685,"Growth Marketing Manager, RippleX",$45k - $130k,marketing:non tech,20d
-bloXroute Labs,https://web3.career/chief-project-evangelist-blockchain-subject-matter-expert-blox-route/24681,Chief Project Evangelist | Blockchain Subject Matter Expert,$36k - $108k,executive:blockchain:ethereum,20d
-Opera,https://web3.career/product-designer-for-crypto-opera/24679,Product Designer for Crypto,$30k - $40k,design:non tech:crypto:remote,20d
-Mythical Games,https://web3.career/technical-director-mythicalgames/24678,Technical Director,$70k - $180k,executive,20d
-BitGo,https://web3.career/events-associate-intern-bitgo/24677,Events Associate (Intern),,intern:entry level,20d
-Galaxy Digital Services,https://web3.career/executive-assistant-to-chief-marketing-officer-cmo-galaxydigitalservices/24676,Executive Assistant to Chief Marketing Officer (CMO),$70k - $158k,executive:marketing:non tech,20d
-Ledger,https://web3.career/director-of-audience-and-awareness-ledger/24675,Director of Audience and Awareness,$70k - $180k,executive,20d
-Mycelium,https://web3.career/product-designer-myc-xyz/24674,Product Designer,$80k - $150k,design:non tech:ethereum,20d
-Web3 Labs,https://web3.career/rust-developer-web3labs/24673,Rust Developer,$65k - $100k,dev:rust:solidity:ethereum:java,20d
-Blockchain.com,https://web3.career/trading-system-support-engineer-blockchain/24672,Trading System Support Engineer,,dev:customer support:react:javascript,20d
-"Palm NFT Studio, Inc.",https://web3.career/engineering-manager-palmnftstudioinc/24671,Engineering Manager,$85k - $300k,executive:web3js:solidity:ethereum:nft,20d
-CANDY,https://web3.career/it-support-associate-candy/24670,IT Support Associate,$40k - $80k,customer support,20d
-Binance,https://web3.career/government-affairs-portugal-binance/24668,Government Affairs - Portugal,,,20d
-Binance,https://web3.career/business-analyst-intern-binance/24667,Business Analyst Intern,$20k - $30k,analyst:intern:entry level,20d
-Binance,https://web3.career/marketing-analyst-latam-binance/24666,Marketing Analyst - Latam,,analyst:marketing:non tech,20d
-Binance,https://web3.career/product-management-intern-binance/24665,Product Management Intern,,intern:entry level,20d
-Binance,https://web3.career/data-analytics-manager-marketing-latam-binance/24663,Data Analytics Manager (Marketing) - Latam,,stats:marketing:non tech,20d
-Stellar Development Foundation,https://web3.career/head-of-investments-stellar/24661,Head of Investments,$70k - $180k,executive,20d
-Stellar Development Foundation,https://web3.career/head-of-investments-stellar/24660,Head of Investments,$70k - $180k,executive,20d
-Stellar Development Foundation,https://web3.career/product-counsel-stellar/24659,Product Counsel,$24k - $140k,legal,20d
-Stellar Development Foundation,https://web3.career/product-counsel-stellar/24658,Product Counsel,$24k - $140k,legal,20d
-Funders USA,https://web3.career/president-vice-president-blockchain-space-startup-funders-usa-1/24657,President/Vice President Blockchain / Space Startup,$250k,blockchain,20d
-Chain,https://web3.career/videographer-chain/24656,Videographer,$56k - $160k,remote,20d
-Binance,https://web3.career/security-auditor-mobile-binance/24655,Security Auditor (Mobile),,mobile:security,20d
-Crystal Blockchain Analytics,https://web3.career/senior-lead-python-developer-crystal-remote-crystal/24654,Senior/Lead Python Developer - Crystal (Remote),$100k - $200k,remote:dev:lead:python:senior,20d
-Brave,https://web3.career/security-researcher-brave/24653,Security Researcher,$150k - $185k,security:javascript:rust,20d
-Binance,https://web3.career/it-support-engineer-binance/24652,IT Support Engineer,$90k - $140k,dev:customer support,21d
-BlockFi,https://web3.career/strategic-finance-associate-blockfi/24651,Strategic Finance Associate,$40k - $150k,finance,21d
-Coin Homes,https://web3.career/defi-research-associate-coinhomes/24650,DeFi Research Associate,$100k - $140k,defi,21d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Terraform Labs,https://web3.career/smart-contract-engineer-nebula-terra/25261,Remote,Smart Contract Engineer (Nebula),$80k - $200k,dev:smart contract:remote:ethereum:rust,22d
+Binance,https://web3.career/customer-service-representative-english-binance/25260,"Salvador,
+Brazil",Customer Service Representative (English),$40k - $80k,customer support,22d
+Uniswap Labs,https://web3.career/product-designer-uniswaplabs/25259,"New York,
+United States",Product Designer,$80k - $150k,design:non tech:ethereum,22d
+Voodoo,https://web3.career/senior-back-end-software-engineer-wizz-voodoo/25258,"Paris,
+France",Senior Back-end Software Engineer - Wizz,$70k - $200k,backend:dev:senior,22d
+Ledger,https://web3.career/sales-operations-intern-ledger/25257,"Paris,
+France",Sales Operations Intern,,intern:entry level:operations:sales:non tech,22d
+Kriptomat OU,https://web3.career/marketing-partnerships-associate-kriptomat/25256,00 Europe RS,Marketing Partnerships Associate,$100k - $200k,sales:non tech:marketing,22d
+Ledger,https://web3.career/junior-financial-analyst-infrastructure-operations-ledger/25255,"Paris,
+France",Junior Financial Analyst (Infrastructure & Operations),,analyst:finance:junior:entry level:operations,22d
+Galaxy Digital Services,https://web3.career/vp-corporate-security-galaxydigitalservices/25254,,"VP, Corporate Security",$95k - $250k,security:executive,22d
+Mythical Games,https://web3.career/director-product-management-platform-mythicalgames/25252,"Los Angeles,
+United States",Director Product Management - Platform,$70k - $180k,executive,22d
+Polygon,https://web3.career/senior-protocol-engineer-polygon/25250,Any,Senior Protocol Engineer,$85k - $200k,dev:senior:remote:ethereum,22d
+Consensys,https://web3.career/senior-people-partner-uk-remote-consensys/25249,Remote,Senior People Partner - UK Remote,$80k - $160k,remote:senior:ethereum,22d
+Consensys,https://web3.career/people-partner-united-kingdom-remote-consensys/25248,England,People Partner - United Kingdom Remote,$60k - $145k,remote:ethereum,22d
+Harmony,https://web3.career/senior-test-infrastructure-engineer-harmony/25247,Remote,Senior Test Infrastructure Engineer,$85k - $200k,dev:senior:remote:ethereum:nft,22d
+Digitrade Fintech Pte Ltd,https://web3.career/web-designer-6-months-contract-digitrade-fintech-pte-ltd/25246,Remote,Web Designer (6 months Contract),,crypto:finance:design:finance:contracting,22d
+Digitrade Fintech Pte Ltd,https://web3.career/growth-marketing-intern-program-digitrade-fintech-pte-ltd/25245,Remote,Growth Marketing Intern Program,,marketing:crypto:finance:intern:contracting,22d
+Digitrade Fintech Pte Ltd,https://web3.career/content-marketing-manager-6-months-contract-digitrade-fintech-pte-ltd/25244,Remote,Content Marketing Manager (6 months contract),,marketing:crypto:finance:contracting,22d
+Digitrade Fintech Pte Ltd,https://web3.career/associate-product-marketing-manager-digitrade-fintech-pte-ltd/25243,Remote,Associate Product Marketing Manager,,marketing:non tech:remote:product manager:crypto,22d
+Nifty's Inc.,https://web3.career/junior-graphic-designer-niftysinc/25241,"Miami,
+United States",Junior Graphic Designer,,design:non tech:junior:entry level:nft,22d
+Consensys,https://web3.career/senior-people-partner-gtm-east-coast-usa-consensys/25240,Remote,"Senior People Partner - GTM (East Coast, USA)",$80k - $160k,senior:remote:ethereum,22d
+Consensys,https://web3.career/senior-hr-business-partner-united-states-pacific-time-zone-consensys/25239,Remote,Senior HR Business Partner - United States Pacific Time Zone,,hr:non tech:senior:remote:ethereum,22d
+Consensys,https://web3.career/people-operations-payroll-coordinator-uk-ire-consensys/25238,England,People Operations & Payroll Coordinator UK/IRE,,operations:accounting:ethereum,22d
+Fair.xyz,https://web3.career/senior-full-stack-engineer-fairxyz/25237,"London,
+United Kingdom",Senior Full-Stack Engineer,$70k - $180k,dev:full stack:senior:nft,22d
+Energi Core Limited,https://web3.career/community-moderator-energicorelimited/25236,"Frankfurt,
+Germany",Community Moderator,$40k - $101k,community manager:non tech:remote:ethereum,22d
+BitGo,https://web3.career/director-of-design-bitgo/25235,"Palo Alto,
+United States",Director of Design,,design:non tech:executive,22d
+Chain,https://web3.career/it-support-specialist-chain/25234,Remote,IT Support Specialist,$40k - $80k,customer support:remote,23d
+Chain,https://web3.career/chain-core-marketing-lead-chain/25233,Remote,Chain Core Marketing Lead,$50k - $120k,lead:marketing:non tech:remote,23d
+Newton,https://web3.career/security-developer-canada-wide-remote-newton/25232,"Toronto,
+Canada",Security Developer - Canada Wide - Remote,$95k - $250k,remote:dev:security,23d
+CoinFlip,https://web3.career/service-desk-technician-coinflip/25231,"Chicago,
+United States",Service Desk Technician,$40k - $80k,customer support,23d
+CoinFlip,https://web3.career/data-analytics-and-reporting-intern-coinflip/25230,"Chicago,
+United States",Data Analytics and Reporting Intern,$124k - $2k,stats:intern:entry level,23d
+Worldcoin,https://web3.career/data-scientist-worldcoinorg/25229,"Berlin,
+Germany",Data Scientist,$50k - $135k,data science:remote,23d
+BlockFi,https://web3.career/senior-associate-financial-reporting-strategy-transformation-blockfi/25227,"New York,
+United States","Senior Associate, Financial Reporting & Strategy Transformation",$50k - $150k,finance:senior,23d
+BlockFi,https://web3.career/client-support-team-lead-blockfi/25226,"New York,
+United States",Client Support Team Lead,$25k - $35k,lead:customer support,23d
+Blockchain.com,https://web3.career/latin-america-product-manager-blockchain/25225,"Buenos Aires,
+Argentina",Latin America - Product Manager,$69k - $160k,product manager:non tech,23d
+BitGo,https://web3.career/firmware-engineer-bitgo/25224,"Palo Alto,
+United States",Firmware Engineer,$56k - $150k,dev:javascript,23d
+Chain,https://web3.career/seo-manager-chain/25223,Remote,SEO Manager,,seo:non tech:remote,23d

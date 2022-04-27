@@ -1,36 +1,46 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-LATOKEN,https://web3.career/dapps-dex-developer-latoken/8697,dApps/DEX Developer,$80k - $170k,dev:solidity:remote,6mo
-Emurgo,https://web3.career/head-of-engineering-cardano-emurgo/8696,Head of Engineering - Cardano,$79k - $180k,executive:nft:remote,6mo
-Emurgo,https://web3.career/full-stack-mobile-developer-emurgo/8695,Full Stack Mobile Developer,,dev:full stack:mobile:react:react native,6mo
-Emurgo,https://web3.career/business-development-manager-emurgo/8694,Business Development Manager,$29k - $108k,sales:non tech:remote,6mo
-LATOKEN,https://web3.career/social-media-manager-and-designer-latoken/8693,Social Media Manager and Designer,,design:non tech:social media,6mo
-Adoc Talent Management,https://web3.career/researcher-crypto-compliance-officer-m-f-adoc-tm/8692,Researcher/Crypto Compliance Officer M/F,,compliance:crypto,6mo
-LATOKEN,https://web3.career/head-of-growth-operations-latoken/8691,Head of Growth Operations,$70k - $158k,executive:marketing:non tech:operations,6mo
-Immunefi,https://web3.career/hacker-evangelist-immunefi/8690,Hacker Evangelist,$60k - $160k,solidity:rust:remote,6mo
-DreamView,https://web3.career/suku-product-marketing-specialist-growth-hacker-recruitable/8689,SUKU - Product Marketing Specialist / Growth Hacker,$48k - $120k,marketing:non tech:ethereum,6mo
-Transak,https://web3.career/devops-engineer-transak-inc/8688,DevOps Engineer,$70k - $180k,devops:dev,6mo
-LATOKEN,https://web3.career/sales-executive-latoken/8687,Sales Executive,$40k - $150k,executive:sales:non tech,6mo
-Flipside Crypto,https://web3.career/director-data-science-flipsidecrypto/8686,"Director, Data Science",,data science:executive,6mo
-LATOKEN,https://web3.career/sales-manager-latoken/8685,Sales Manager,$29k - $108k,sales:non tech:remote,6mo
-super studios,https://web3.career/director-manager-social-media-content-super-studios/8684,"Director/Manager, Social Media & Content",$45k - $150k,executive:social media:non tech:nft,6mo
-World Mobile,https://web3.career/world-mobile-copywriter-marketing-world-mobile/8683,"World Mobile Copywriter, Marketing",$25k - $96k,copywriting:marketing:non tech:mobile,6mo
-Centrifuge,https://web3.career/security-dev-ops-engineer-centrifuge/8682,Security & Dev Ops Engineer,$95k - $250k,dev:devops:security:ruby,6mo
-Flipside Crypto,https://web3.career/head-of-finance-flipsidecrypto/8681,Head of Finance,$90k - $200k,executive:finance,6mo
-Nexo,https://web3.career/country-ambassador-nexo/8680,Country Ambassador,$56k - $160k,remote,6mo
-Zero Hash,https://web3.career/security-engineer-zero-hash/8679,Security Engineer,$95k - $250k,dev:security,6mo
-Immunefi,https://web3.career/defi-security-analyst-immunefi/8678,DeFi Security Analyst,,analyst:security:defi:solidity:rust,6mo
-Infinite Capital,https://web3.career/senior-solidity-engineer-infinite-capital/8677,Senior Solidity Engineer,$80k - $200k,dev:senior:solidity:ethereum,6mo
-Emurgo,https://web3.career/head-of-engineering-enterprise-emurgo/8676,Head of Engineering Enterprise,$79k - $200k,executive:remote,6mo
-Bitwave,https://web3.career/senior-enterprise-sales-account-executive-bitwave/8675,Senior Enterprise Sales Account Executive,$40k - $150k,executive:sales:non tech:senior,6mo
-Opera,https://web3.career/product-marketing-manager-crypto-products-opera/8674,"Product Marketing Manager, Crypto Products",$46k - $140k,marketing:non tech:crypto,6mo
-Floating Point Group,https://web3.career/business-development-representative-floating-point-group/8673,Business Development Representative,$26k - $140k,sales:non tech,6mo
-XREX,https://web3.career/crypto-analyst-xrex/8672,Crypto Analyst,$20k - $120k,analyst:crypto,6mo
-Flipside Crypto,https://web3.career/operations-manager-bounty-programs-flipsidecrypto/8671,"Operations Manager, Bounty Programs",$60k - $200k,operations,6mo
-Terraform Labs,https://web3.career/product-manager-terra/8670,Product Manager,$115k - $175k,product manager:non tech:remote,6mo
-Jambb,https://web3.career/platform-infrastructure-lead-jambb/8669,Platform Infrastructure Lead,$100k - $200k,lead:solidity:nft:node,6mo
-Symbridge,https://web3.career/institutional-sales-symbridge/8668,Institutional Sales,$26k - $140k,sales:non tech,6mo
-Symbridge,https://web3.career/head-of-research-symbridge/8667,Head of Research,$70k - $180k,executive,6mo
-Reesby IT,https://web3.career/blockchain-engineering-graduate-program-reesby/8666,Blockchain Engineering Graduate Program,$18k - $46k,intern:entry level:blockchain:react:java,6mo
-Jambb,https://web3.career/lead-frontend-engineer-jambb/8665,Lead Frontend Engineer,$56k - $79k,dev:front end:lead:react:solidity,6mo
-Transak,https://web3.career/full-stack-developer-transak-inc/8664,Full Stack Developer,$65k - $180k,dev:full stack:react:javascript:node,6mo
-Coin98 Finance,https://web3.career/news-editor-marginatm-coin98/8663,News Editor - MarginATM,,,6mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Polygon,https://web3.career/japanese-community-manager-polygon/8942,"Tokyo,
+Japan",Japanese Community Manager,$15k - $30k,community manager:non tech:ethereum,6mo
+Polygon,https://web3.career/influencer-management-lead-polygon/8941,"Singapore,
+Singapore",Influencer Management Lead,$96k - $220k,lead:ethereum,6mo
+Polygon,https://web3.career/head-of-japan-polygon/8940,"Tokyo,
+Japan",Head of Japan,$50k - $158k,executive:ethereum:nft,6mo
+Polygon,https://web3.career/events-manager-polygon/8939,"Singapore,
+Singapore",Events Manager,,events manager:non tech:ethereum,6mo
+Polygon,https://web3.career/partnerships-business-development-polygon/8938,"Singapore,
+Singapore",Partnerships & Business Development,$29k - $43k,sales:non tech:ethereum:nft,6mo
+Polygon,https://web3.career/head-of-enterprise-business-development-polygon/8937,"Belgrade,
+Serbia",Head of Enterprise Business Development,$40k - $150k,executive:sales:non tech:ethereum,6mo
+Solana Labs,https://web3.career/product-counsel-crypto-solana/8936,,Product Counsel (Crypto),,legal:crypto:solana,6mo
+Solana Labs,https://web3.career/systems-engineer-solana/8935,,Systems Engineer,,dev:sys admin:solana:ethereum,6mo
+Solana Labs,https://web3.career/investment-analyst-associate-solana/8934,,Investment Analyst/Associate,,analyst:finance:solana,6mo
+Optimism PBC,https://web3.career/sr-technical-product-manager-optimism/8933,Remote,Sr. Technical Product Manager,$80k - $150k,product manager:non tech:senior:ethereum:remote,6mo
+Optimism PBC,https://web3.career/integrations-engineer-optimism/8932,Remote,Integrations Engineer,$60k - $150k,dev:ethereum:remote,6mo
+Optimism PBC,https://web3.career/community-manager-optimism/8931,Remote,Community Manager,$15k - $30k,community manager:non tech:ethereum:remote,6mo
+Optimism PBC,https://web3.career/senior-software-engineer-protocol-solidity-optimism/8930,Remote,"Senior Software Engineer, Protocol (Solidity)",$80k - $200k,dev:senior:solidity:ethereum:remote,6mo
+Optimism PBC,https://web3.career/senior-software-engineer-distributed-systems-go-geth-optimism/8929,Remote,"Senior Software Engineer, Distributed Systems (Go/Geth)",$65k - $150k,dev:golang:senior:ethereum:remote,6mo
+Optimism PBC,https://web3.career/senior-infrastructure-engineer-devops-optimism/8928,Remote,"Senior Infrastructure Engineer, DevOps",$120k - $200k,devops:dev:senior:ethereum:remote,6mo
+Optimism PBC,https://web3.career/senior-front-end-engineer-optimism/8927,Remote,Senior Front End Engineer,$70k - $190k,dev:front end:senior:ethereum:remote,6mo
+Showtime,https://web3.career/senior-smart-contract-engineer-showtime/8926,"San Francisco,
+United States",Senior Smart Contract Engineer,$120k - $250k,dev:senior:smart contract:nft,6mo
+Showtime,https://web3.career/senior-mobile-engineer-react-native-showtime/8925,"San Francisco,
+United States",Senior Mobile Engineer (React Native),$65k - $200k,dev:mobile:react native:javascript:react,6mo
+Showtime,https://web3.career/senior-frontend-engineer-react-showtime/8924,"San Francisco,
+United States",Senior Frontend Engineer (React),$50k - $140k,dev:front end:javascript:react:senior,6mo
+Showtime,https://web3.career/senior-backend-engineer-showtime/8923,"San Francisco,
+United States",Senior Backend Engineer,$70k - $200k,backend:dev:senior:nft,6mo
+Coinsquare,https://web3.career/client-support-representative-coinsquare/8915,Remote,Client Support Representative,,customer support:ethereum:remote,6mo
+Binance,https://web3.career/trading-support-specialist-binance/8914,Asia,Trading Support Specialist,$40k - $80k,customer support,6mo
+Kraken Digital Asset Exchange,https://web3.career/business-onboarding-associate-kraken/8913,Remote,Business Onboarding Associate,$56k - $160k,remote,6mo
+Stripe,https://web3.career/product-finance-strategy-crypto-stripe/8910,Remote,"Product Finance & Strategy, Crypto",,finance:crypto:remote,6mo
+Stripe,https://web3.career/us-crypto-and-financial-regulatory-policy-lead-stripe/8909,Remote,US Crypto and Financial Regulatory Policy Lead,,legal:finance:lead:crypto:remote,6mo
+Stripe,https://web3.career/product-finance-strategy-crypto-stripe/8908,Remote,"Product Finance & Strategy, Crypto",,finance:crypto:remote,6mo
+Uphold,https://web3.career/senior-privacy-program-manager-uphold/8904,United States,Senior Privacy Program Manager,$46k - $110k,executive:senior,6mo
+PowerTrade,https://web3.career/senior-growth-marketer-powertrade/8902,Remote,Senior Growth Marketer,$46k - $109k,marketing:non tech:senior:remote,6mo
+Galaxy Digital Services,https://web3.career/mifi-associate-galaxydigitalservices/8901,,MiFi Associate,,,6mo
+PowerTrade,https://web3.career/influencer-marketing-manager-powertrade/8900,Remote,Influencer Marketing Manager,$25k - $120k,marketing:non tech:remote,6mo
+PowerTrade,https://web3.career/trading-content-creator-powertrade/8899,Remote,Trading Content Creator,$56k - $160k,remote,6mo
+PowerTrade,https://web3.career/product-marketing-powertrade/8898,Remote,Product Marketing,$25k - $120k,marketing:non tech:remote,6mo
+PowerTrade,https://web3.career/product-designer-web-powertrade/8897,Remote,Product Designer (web),$50k - $135k,design:non tech:remote,6mo
+Bolero Music,https://web3.career/lead-developer-js-web3-bolero-music/8895,Remote,Lead Developer (JS & Web3),,javascript:dev:lead:web3js:react,6mo
+Radix DLT,https://web3.career/systems-software-engineer-compiler-virtual-machines-radixdlt/2462,Remote,Systems Software Engineer Compiler Virtual Machines,$60k - $150k,dev:rust:remote,6mo

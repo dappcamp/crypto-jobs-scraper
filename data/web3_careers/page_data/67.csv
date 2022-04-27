@@ -1,36 +1,65 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Tangany,https://web3.career/cloud-and-software-security-engineer-tangany/23881,Cloud and Software Security Engineer,,cloud:dev:security:ethereum,30d
-Braintrust,https://web3.career/senior-software-engineer-braintrust/23880,Senior Software Engineer,$80k - $200k,dev:senior:ethereum,30d
-Ripple,https://web3.career/senior-database-engineer-london-ripple/23879,Senior Database Engineer London,$32k - $113k,dev:senior:ruby,30d
-Tron,https://web3.career/quality-assurance-engineer-rainberry/23877,Quality Assurance Engineer,$62k - $150k,quality assurance,30d
-Chainalysis,https://web3.career/associate-account-executive-india-chainalysis/23876,"Associate Account Executive, India",$70k - $180k,executive,30d
-Brave,https://web3.career/product-marketing-manager-ads-rewards-brave/23875,"Product Marketing Manager, Ads & Rewards",,marketing:non tech:javascript,30d
-BitGo,https://web3.career/operations-specialist-bitgo-gmbh-bitgo/23874,Operations Specialist (BitGo GmbH),$80k - $110k,operations:remote,30d
-Flooz,https://web3.career/senior-qa-automation-engineer-f-m-d-remote-flooz/23873,Senior QA Automation Engineer (f/m/d) - Remote,,remote:dev:quality assurance:senior:react,30d
-RECUR,https://web3.career/creative-director-recur/23870,Creative Director,$50k - $158k,executive:ethereum:nft,30d
-Okcoin,https://web3.career/business-development-manager-okcoin/23869,Business Development Manager,$26k - $140k,sales:non tech,30d
-DFINITY,https://web3.career/data-center-systems-technician-dfinity/23868,Data Center Systems Technician,,,30d
-Brave,https://web3.career/product-marketing-manager-wallet-brave/23867,"Product Marketing Manager, Wallet",$55k - $140k,marketing:non tech:nft:javascript,30d
-Brave,https://web3.career/data-engineer-brave/23866,Data Engineer,,data science:dev:javascript,30d
-Brave,https://web3.career/anti-fraud-engineer-red-team-brave/23865,Anti-Fraud Engineer - Red Team,$130k - $200k,dev:security:javascript:golang,30d
-BitGo,https://web3.career/ux-and-content-strategist-bitgo/23864,UX and Content Strategist,$50k - $150k,design:non tech,30d
-BCGDV,https://web3.career/senior-back-end-engineer-bcgdv/23863,Senior Back End Engineer,$70k - $200k,backend:dev:senior:javascript:ruby,30d
-BCGDV,https://web3.career/senior-front-end-engineer-bcgdv/23862,Senior Front End Engineer,$70k - $190k,dev:front end:senior:react,30d
-Brave,https://web3.career/backend-engineer-brave/23861,Backend Engineer,$65k - $150k,backend:dev:javascript,30d
-Brave,https://web3.career/anti-fraud-engineer-brave/23860,Anti-Fraud Engineer,,dev:security:ethereum:javascript:ruby,30d
-Cake DeFi,https://web3.career/information-technology-support-specialist-cake-defi-1/23859,Information Technology Support Specialist,$40k - $80k,customer support,30d
-SOUTHWORKS,https://web3.career/senior-software-engineer-net-react-southworks/23858,Senior Software Engineer (.NET/React),,dot net:dev:javascript:react:senior,30d
-peaq,https://web3.career/rust-developer-m-w-d-peaq/23857,Rust Developer (m/w/d),$70k - $160k,dev:rust:ethereum,30d
-Acria UG (haftungsbeschränkt),https://web3.career/business-development-intern-acria/23856,Business Development Intern,$3k,sales:non tech:intern:entry level:ethereum,30d
-Concept Art House,https://web3.career/art-director-conceptarthouse/23855,Art Director,$63k - $180k,executive:nft,30d
-Ultra,https://web3.career/nft-project-manager-tallinn-or-remote-in-europe-ultra/23854,NFT Project Manager - Tallinn or Remote in Europe -,$56k - $150k,remote:project manager:non tech:nft,30d
-Chainalysis,https://web3.career/investigations-manager-law-enforcement-chainalysis/23853,"Investigations Manager, Law Enforcement",,,30d
-BitGo,https://web3.career/recruiting-coordinator-bitgo/23852,Recruiting Coordinator,$40k - $70k,recruiter:non tech,30d
-BlockFi,https://web3.career/loan-servicing-analyst-blockfi/23849,Loan Servicing Analyst,$40k - $120k,analyst,30d
-Domain Money,https://web3.career/director-search-engine-optimization-domainmoney/23848,Director - Search Engine Optimization,,executive:seo:non tech,30d
-Next Big Thing AG,https://web3.career/senior-sales-manager-european-market-nextbigthing/23847,(Senior) Sales Manager - European market,$50k - $150k,sales:non tech:senior:remote,30d
-Elwood Technologies,https://web3.career/crypto-trading-support-elwoodtechnologies/23846,Crypto Trading Support,$25k - $35k,customer support:crypto:remote,30d
-CleanSpark,https://web3.career/senior-facilities-manager-cleanspark/23845,Senior Facilities Manager,$78k - $200k,senior,30d
-Concept Art House,https://web3.career/technical-artist-conceptarthouse/23844,Technical Artist,$55k - $150k,nft,30d
-Parity Technologies,https://web3.career/hr-people-operations-analytics-specialist-parity/23843,HR/People Operations Analytics Specialist,,stats:hr:non tech:operations:remote,30d
-BlockFi,https://web3.career/staff-software-engineer-ios-retail-trading-blockfi/23842,"Staff Software Engineer (iOS), Retail Trading",$51k - $109k,dev:ios:mobile,30d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Okcoin,https://web3.career/spanish-customer-service-representative-okcoin/24478,"Dublin,
+Ireland",Spanish Customer Service Representative,$40k - $80k,customer support,28d
+Okcoin,https://web3.career/portuguese-customer-service-representative-okcoin/24477,"Dublin,
+Ireland",Portuguese Customer Service Representative,$40k - $80k,customer support,28d
+Okcoin,https://web3.career/kurdish-customer-service-representative-okcoin/24476,"Dublin,
+Ireland",Kurdish Customer Service Representative,$40k - $80k,customer support,28d
+Okcoin,https://web3.career/german-customer-service-representative-okcoin/24475,"Dublin,
+Ireland",German Customer Service Representative,$40k - $80k,customer support,28d
+NFT Grails,https://web3.career/nft-editor-head-of-content-creation-nft-grails/24474,"Miami,
+United States",NFT Editor / Head of Content Creation,$50k - $75k,executive:nft,28d
+Protocol Labs,https://web3.career/social-media-manager-network-goods-protocollabs/24473,Remote,Social Media Manager - Network Goods,$35k - $110k,social media:non tech:remote,28d
+Okcoin,https://web3.career/turkish-customer-service-representative-okcoin/24472,"Dublin,
+Ireland",Turkish Customer Service Representative,$40k - $80k,customer support,28d
+Okcoin,https://web3.career/russian-customer-service-representative-okcoin/24471,"Dublin,
+Ireland",Russian Customer Service Representative,$40k - $80k,customer support,28d
+Okcoin,https://web3.career/arabic-customer-service-representative-okcoin/24470,"Dublin,
+Ireland",Arabic Customer Service Representative,$40k - $80k,customer support,28d
+Subspace Labs,https://web3.career/director-of-product-engineering-subspacelabs/24469,Remote,Director of Product Engineering,$135k - $170k,executive:product manager:non tech:remote,28d
+RECUR,https://web3.career/copy-of-copy-of-community-manager-policy-apac-recur/24468,"Tokyo,
+Japan",Copy of Copy of Community Manager - Policy (APAC),$15k - $30k,community manager:non tech:ethereum:nft,28d
+RECUR,https://web3.career/copy-of-community-operations-team-lead-apac-recur/24467,"Singapore,
+Singapore",Copy of Community Operations Team Lead (APAC),$40k - $65k,community manager:non tech:lead:operations:ethereum,28d
+RECUR,https://web3.career/copy-of-community-operations-team-lead-apac-recur/24466,"Seoul,
+South Korea",Copy of Community Operations Team Lead (APAC),$40k - $65k,community manager:non tech:lead:operations:ethereum,28d
+RECUR,https://web3.career/copy-of-community-operations-team-lead-apac-recur/24465,Philippines,Copy of Community Operations Team Lead (APAC),$40k - $65k,community manager:non tech:lead:operations:ethereum,28d
+RECUR,https://web3.career/copy-of-community-operations-team-lead-apac-recur/24464,"Tokyo,
+Japan",Copy of Community Operations Team Lead (APAC),$40k - $65k,community manager:non tech:lead:operations:ethereum,28d
+RECUR,https://web3.career/copy-of-community-manager-policy-apac-recur/24463,"Seoul,
+South Korea",Copy of Community Manager - Policy (APAC),$15k - $30k,community manager:non tech:ethereum:nft,28d
+RECUR,https://web3.career/copy-of-community-manager-policy-apac-recur/24462,"Singapore,
+Singapore",Copy of Community Manager - Policy (APAC),$15k - $30k,community manager:non tech:ethereum:nft,28d
+RECUR,https://web3.career/copy-of-community-manager-policy-apac-recur/24461,"Hong Kong,
+Hong Kong",Copy of Community Manager - Policy (APAC),$15k - $30k,community manager:non tech:ethereum:nft,28d
+Parity Technologies,https://web3.career/public-relations-manager-parity/24460,"Berlin,
+Germany",Public Relations Manager,$25k - $120k,marketing:non tech:remote,28d
+Parity Technologies,https://web3.career/director-of-public-relations-parity/24459,"Berlin,
+Germany",Director of Public Relations,$70k - $158k,marketing:non tech:executive:remote,28d
+Crossmint.io | Making NFT's Accessible to Everyone,https://web3.career/junior-full-stack-developer-crossmint/24458,"Miami,
+United States",Junior Full Stack Developer,$39k - $180k,dev:full stack:junior:entry level:web3js,28d
+Ripple,https://web3.career/senior-blockchain-researcher-ripple/24457,"London,
+United Kingdom",Senior Blockchain Researcher,$80k - $190k,senior:blockchain,28d
+GSR,https://web3.career/product-control-vice-president-cryptocurrency-trading-london-gsr/24456,"London,
+United Kingdom",Product Control - Vice President - Cryptocurrency Trading - London,$39k - $140k,crypto,28d
+GSR,https://web3.career/product-control-vice-president-cryptocurrency-trading-new-york-gsr/24452,"New York,
+United States",Product Control - Vice President - Cryptocurrency Trading - New York,$39k - $140k,crypto,28d
+GSR,https://web3.career/product-control-senior-associate-cryptocurrency-trading-singapore-gsr/24451,"Singapore,
+Singapore",Product Control - Senior Associate - Cryptocurrency Trading - Singapore,$50k - $150k,senior:crypto,28d
+GSR,https://web3.career/product-control-senior-associate-cryptocurrency-trading-london-gsr/24450,"London,
+United Kingdom",Product Control - Senior Associate - Cryptocurrency Trading - London,$50k - $150k,senior:crypto,28d
+Rogers & Cowan PMK,https://web3.career/account-manager-gaming-digital-entertainment-pr-rcpmk/24448,"Los Angeles,
+United States","Account Manager, Gaming & Digital Entertainment PR",,marketing:non tech:account manager:game dev,28d
+RECUR,https://web3.career/copy-of-community-manager-engagement-apac-recur/24447,Philippines,Copy of Community Manager - Engagement (APAC),$15k - $30k,community manager:non tech:ethereum:nft,28d
+Circa - IPG DXTRA,https://web3.career/account-manager-gaming-digital-entertainment-pr-dxacirca/24446,,"Account Manager, Gaming & Digital Entertainment PR",,marketing:non tech:account manager:game dev,28d
+Bitwise Asset Management,https://web3.career/executive-assistant-special-projects-bitwiseinvestments/24445,"San Francisco,
+United States",Executive Assistant & Special Projects,$70k - $180k,executive,28d
+Mythical Games,https://web3.career/development-director-platform-mythicalgames/24444,"Los Angeles,
+United States",Development Director - Platform,$140k - $180k,executive:java,28d
+Binance,https://web3.career/it-support-specialist-brazil-binance/24442,"Sao Paulo,
+Brazil",IT Support Specialist - Brazil,$40k - $80k,customer support,28d
+Ledger,https://web3.career/project-manager-customer-success-ledger/24441,"Paris,
+France",Project Manager - Customer Success,,customer support:project manager:non tech,28d
+Ledger,https://web3.career/operations-manager-customer-success-ledger/24440,"Paris,
+France",Operations Manager - Customer Success,$60k - $80k,customer support:operations,28d
+Binance,https://web3.career/senior-product-manager-wallet-defi-binance/24439,Remote,Senior Product Manager (Wallet & DeFi),$80k - $150k,product manager:non tech:senior:defi:remote,28d

@@ -1,36 +1,49 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Parcl,https://web3.career/engineer-journalist-parcl/24282,Engineer Journalist,$60k - $180k,dev:remote:javascript,25d
-Parcl,https://web3.career/data-scientist-senior-data-scientist-parcl/24281,Data Scientist/Senior Data Scientist,,data science:senior:ethereum,25d
-Gemini,https://web3.career/senior-end-user-support-engineer-gemini/24280,Senior End User Support Engineer,,dev:senior:customer support,25d
-PureStake,https://web3.career/blockchain-developer-relations-engineer-purestake/24279,Blockchain Developer Relations Engineer,$0k,customer support:dev:blockchain:solidity:ethereum,25d
-Oasis Protocol Foundation,https://web3.career/webflow-developer-designer-oasisnetwork/24278,Webflow Developer / Designer,$80k - $150k,design:non tech:dev:javascript,25d
-Paradigm,https://web3.career/product-paradigm-portfolio-paradigm-xyz/24277,Product - Paradigm Portfolio,$40k - $100k,finance:remote,25d
-Crystal Blockchain Analytics,https://web3.career/product-marketing-manager-crystal-blockchain-crystal/24276,Product Marketing Manager (Crystal Blockchain),$13k - $100k,marketing:non tech:blockchain,25d
-Webstacks,https://web3.career/sr-technical-project-manager-webstacks/24275,Sr. Technical Project Manager,,project manager:non tech:senior:react,25d
-CANDY,https://web3.career/engineering-internship-summer-2022-candy/24274,Engineering Internship (Summer 2022),$18k - $28k,intern:entry level:react:nft,25d
-Paradigm,https://web3.career/people-ops-paradigm-portfolio-paradigm-xyz/24273,People Ops - Paradigm Portfolio,$40k - $100k,finance:remote,26d
-Roxe,https://web3.career/controller-roxe/24268,Controller,$24k - $140k,legal,26d
-nft now,https://web3.career/head-of-marketing-nft-now/24267,Head of Marketing,$70k - $158k,executive:marketing:non tech:nft,26d
-Hydraswap,https://web3.career/crypto-researcher-cum-content-writer-hydraswap/24266,Crypto Researcher cum Content Writer,$0k,copywriting:crypto:nft,26d
-SADA,https://web3.career/staff-security-engineer-sre-sada/24264,Staff Security Engineer (SRE),$95k - $250k,dev:security:senior:java,26d
-DeSo Foundation,https://web3.career/growth-marketing-lead-deso/24263,Growth Marketing Lead,$50k - $120k,marketing:non tech:lead:ethereum:nft,26d
-"Palm NFT Studio, Inc.",https://web3.career/general-application-palmnftstudioinc/24262,General Application,$56k - $165k,remote:nft,26d
-"Islands XYZ, Inc.",https://web3.career/senior-product-designer-mobile-islandsxyzinc/24261,Senior Product Designer – Mobile,,design:non tech:mobile:senior:ethereum,26d
-Paradigm,https://web3.career/legal-paradigm-portfolio-paradigm-xyz/24260,Legal - Paradigm Portfolio,,finance:legal:remote,26d
-"SundaeSwap Labs, Inc.",https://web3.career/lead-frontend-engineer-sundaeswap/24259,Lead Frontend Engineer,$56k - $79k,dev:front end:lead:remote,26d
-Tribal Credit,https://web3.career/crypto-content-writer-tribalcredit/24258,Crypto Content Writer,$62k - $45k,copywriting:crypto,26d
-Crossmint.io,https://web3.career/sales-lead-crossmint/24257,Sales Lead,,lead:sales:non tech:nft,26d
-Immunefi,https://web3.career/smart-contract-engineer-immunefi/24256,Smart Contract Engineer,$72k - $200k,dev:smart contract:solidity:ethereum,26d
-Ledger,https://web3.career/sales-lead-asia-ledger/24255,Sales Lead Asia,,lead:sales:non tech,26d
-C3,https://web3.career/smart-contract-engineer-c3/24254,Smart Contract Engineer,$72k - $200k,dev:smart contract:solidity,26d
-Rally,https://web3.career/blockchain-developer-ecommerce-getrallyon/24252,Blockchain Developer (Ecommerce),$0k,dev:ecommerce:blockchain:remote:solidity,26d
-ModSquad,https://web3.career/engagement-moderation-content-moderation-discord-nft-company-modsquad/24250,"Engagement Moderation, Content Moderation (Discord) - NFT Company",$56k - $165k,nft:remote,26d
-JPG Store,https://web3.career/video-editor-mograph-artist-jpgstore/24248,Video Editor / Mograph Artist,,video:nft,26d
-Floating Point Group (FPG Inc.),https://web3.career/summer-product-manager-internship-floatingpointgroup/24247,Summer Product Manager Internship,,intern:entry level:product manager:non tech,26d
-Floating Point Group (FPG Inc.),https://web3.career/summer-software-engineer-internship-floatingpointgroup/24246,Summer Software Engineer Internship,$12k - $33k,dev:intern:entry level,26d
-Ripple,https://web3.career/senior-technical-program-manager-database-platform-ripple/24245,"Senior Technical Program Manager, Database Platform",$46k - $110k,executive:senior,26d
-Tron,https://web3.career/content-marketing-associate-rainberry/24244,Content Marketing Associate,$45k - $130k,marketing:non tech,26d
-Chainstack,https://web3.career/talent-acquisition-specialist-remote-chainstack/24243,Talent Acquisition Specialist (remote),,remote:recruiter:non tech:solana:ethereum,26d
-Ledger,https://web3.career/sales-lead-asia-ledger/24241,Sales Lead Asia,,lead:sales:non tech,26d
-USDF Consortium,https://web3.career/ceo-usdf-consortium-usdf/24240,"CEO, USDF Consortium",$70k - $180k,executive,26d
-Binance,https://web3.career/recruiting-lead-product-binance/24239,Recruiting Lead (Product),$40k - $70k,lead:recruiter:non tech:remote,26d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+OpenSea,https://web3.career/people-operations-specialist-opensea/24907,Remote,People Operations Specialist,$80k - $110k,operations:remote,25d
+OpenSea,https://web3.career/web3-community-data-scientist-opensea/24906,Remote,Web3 Community Data Scientist,,community manager:non tech:data science:remote,25d
+OpenSea,https://web3.career/office-manager-opensea/24905,Bay Area,Office Manager,,,25d
+OpenSea,https://web3.career/office-manager-opensea/24904,"New York,
+United States",Office Manager,,,25d
+OpenSea,https://web3.career/blockchain-data-scientist-opensea/24903,Remote,Blockchain Data Scientist,,data science:blockchain:remote,25d
+OpenSea,https://web3.career/email-marketing-lead-opensea/24902,Remote,Email Marketing Lead,$50k - $120k,lead:marketing:non tech:remote,25d
+OpenSea,https://web3.career/associate-general-counsel-or-director-law-enforcement-compliance-opensea/24901,Remote,Associate General Counsel or Director (Law Enforcement & Compliance),,compliance:legal:executive:remote,25d
+OpenSea,https://web3.career/head-of-payroll-equity-admin-opensea/24900,Remote,Head of Payroll & Equity Admin,,executive:accounting:remote,25d
+OpenSea,https://web3.career/director-of-strategic-finance-opensea/24899,Remote,Director of Strategic Finance,$40k - $225k,executive:finance:remote,25d
+OpenSea,https://web3.career/senior-site-reliability-engineer-opensea/24898,Remote,Senior Site Reliability Engineer,$150k - $200k,dev:sys admin:senior:remote,25d
+OpenSea,https://web3.career/marketing-analyst-opensea/24897,Remote,Marketing Analyst,,analyst:marketing:non tech:remote,25d
+OpenSea,https://web3.career/engineering-manager-product-opensea/24896,Remote,"Engineering Manager, Product",$90k - $150k,executive:remote:react,25d
+OpenSea,https://web3.career/engineering-manager-backend-opensea/24895,Remote,"Engineering Manager, Backend",$140k - $180k,executive:backend:remote,25d
+OpenSea,https://web3.career/quality-assurance-lead-customer-experience-opensea/24894,Remote,"Quality Assurance Lead, Customer Experience",$25k - $35k,customer support:lead:remote,25d
+OpenSea,https://web3.career/data-and-ops-analyst-customer-happiness-opensea/24893,Remote,"Data and Ops Analyst, Customer Happiness",$40k - $95k,analyst:customer support:remote,25d
+OpenSea,https://web3.career/customer-experience-manager-bpo-opensea/24892,Remote,"Customer Experience Manager, BPO",$40k - $80k,customer support:remote,25d
+OpenSea,https://web3.career/customer-experience-manager-opensea/24891,Remote,Customer Experience Manager,$40k - $80k,customer support:remote,25d
+OpenSea,https://web3.career/experiential-production-manager-opensea/24890,Remote,Experiential Production Manager,$56k - $165k,remote:nft,25d
+OpenSea,https://web3.career/community-grants-manager-opensea/24889,Remote,Community Grants Manager,$40k - $101k,community manager:non tech:remote:ethereum,25d
+OpenSea,https://web3.career/community-events-coordinator-opensea/24888,Remote,Community Events Coordinator,$40k - $101k,community manager:non tech:remote:nft,25d
+OpenSea,https://web3.career/technical-partner-manager-opensea/24887,Remote,Technical Partner Manager,$56k - $165k,remote:nft,25d
+OpenSea,https://web3.career/senior-manager-payments-partnerships-opensea/24886,"New York,
+United States","Senior Manager, Payments Partnerships",$50k - $150k,sales:non tech:senior:nft,25d
+OpenSea,https://web3.career/senior-associate-web3-product-partnerships-opensea/24885,Remote,"Senior Associate, Web3 Product Partnerships",$50k - $150k,sales:non tech:senior:remote,25d
+OnJuno,https://web3.career/software-developer-in-test-onjuno/24884,"Bengaluru,
+India",Software Developer in Test,$50k - $150k,quality assurance:dev,25d
+OnJuno,https://web3.career/frontend-developer-onjuno/24883,"Bengaluru,
+India",Frontend Developer,$50k - $150k,dev:front end,25d
+OnJuno,https://web3.career/data-engineer-onjuno/24882,"Bengaluru,
+India",Data Engineer,$70k - $160k,data science:dev,25d
+OnJuno,https://web3.career/android-developer-onjuno/24881,"Bengaluru,
+India",Android Developer,,android:mobile:dev,25d
+OnJuno,https://web3.career/head-of-growth-marketing-onjuno/24880,"San Francisco,
+United States",Head of Growth Marketing,$70k - $158k,executive:marketing:non tech,25d
+OnJuno,https://web3.career/senior-accountant-onjuno/24879,"Bengaluru,
+India",Senior Accountant,$80k - $110k,accounting:senior,25d
+OnJuno,https://web3.career/head-of-finance-onjuno/24878,"Bengaluru,
+India",Head of Finance,$90k - $200k,executive:finance,25d
+Notabene,https://web3.career/product-operations-associate-notabene/24877,"New York,
+United States",Product Operations Associate,$60k - $200k,operations,25d
+Ex Populus,https://web3.career/art-director-video-games-expopulus/24876,"San Francisco,
+United States",Art Director - Video Games,,executive:video,25d
+CoinFlip,https://web3.career/software-engineering-manager-coinflip/24875,"Tampa, FL",Software Engineering Manager,$70k - $300k,executive:dev,25d
+CoinFlip,https://web3.career/ios-developer-coinflip/24874,"Chicago,
+United States",iOS Developer,$51k - $109k,dev:ios:mobile,25d
+CoinFlip,https://web3.career/android-engineer-coinflip/24873,"Chicago,
+United States",Android Engineer,,android:mobile:dev,25d

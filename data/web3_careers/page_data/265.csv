@@ -1,36 +1,50 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-MetaMask,https://web3.career/academy-operations-lead-metamask/15311,Academy Operations Lead,,lead:operations:ethereum,4mo
-MetaMask,https://web3.career/senior-systems-administrator-metamask/15310,Senior Systems Administrator,,senior:sys admin:ethereum,4mo
-MetaMask,https://web3.career/security-auditor-white-hat-hacker-metamask/15309,Security Auditor / White Hat Hacker,$150k - $185k,security:solidity:ethereum:javascript:node,4mo
-MetaMask,https://web3.career/sre-infura-metamask/15308,SRE (Infura),$24k - $180k,senior:react:ethereum,4mo
-MetaMask,https://web3.career/protocol-debugging-engineer-truffle-metamask/15307,Protocol & Debugging Engineer (Truffle),$63k - $160k,dev:solidity:ethereum:javascript:node,4mo
-MetaMask,https://web3.career/program-manager-consensys-nft-metamask/15306,Program Manager (ConsenSys NFT),$50k - $158k,executive:nft:ethereum,4mo
-MetaMask,https://web3.career/mid-scrum-dev-project-manager-metamask/15305,Mid Scrum / Dev Project Manager,,dev:project manager:non tech:scrum:ethereum,4mo
-MetaMask,https://web3.career/golang-engineer-infura-metamask/15304,Golang Engineer (Infura),$40k - $134k,dev:golang:ethereum,4mo
-MetaMask,https://web3.career/ecosystem-engagement-program-manager-metamask/15303,Ecosystem Engagement Program Manager,$79k - $158k,executive:ethereum,4mo
-MetaMask,https://web3.career/distributed-systems-formal-verification-applied-researcher-protocol-metamask/15302,Distributed Systems/Formal Verification Applied Researcher (Protocol),,data science:ethereum:java:rust,4mo
-MetaMask,https://web3.career/design-systems-designer-metamask/15301,Design Systems Designer,$80k - $135k,design:non tech:react:ethereum,4mo
-MetaMask,https://web3.career/defi-and-dao-token-engineer-metamask/15300,DeFi and DAO Token Engineer,$90k - $220k,dev:defi:ethereum,4mo
-MetaMask,https://web3.career/data-analyst-metamask/15299,Data Analyst,,analyst:data science:ethereum,4mo
-MetaMask,https://web3.career/dao-strategist-metamask/15298,DAO Strategist,$70k - $158k,ethereum:nft,4mo
-MetaMask,https://web3.career/dao-governance-strategist-metamask/15297,DAO Governance Strategist,$70k - $158k,ethereum:nft,4mo
-MetaMask,https://web3.career/community-builder-consensys-nft-metamask/15296,Community Builder (ConsenSys NFT),$35k - $101k,community manager:non tech:nft:ethereum,4mo
-MetaMask,https://web3.career/bootcamp-security-auditors-metamask/15295,Bootcamp Security Auditors,$150k - $185k,security:solidity:ethereum:javascript:node,4mo
-MetaMask,https://web3.career/applied-researcher-cryptography-metamask/15294,Applied Researcher - Cryptography,,data science:ethereum:rust,4mo
-MetaMask,https://web3.career/applied-researcher-txrx-advanced-research-team-metamask/15293,Applied Researcher (TxRx Advanced Research Team),,data science:ethereum:java,4mo
-MetaMask,https://web3.career/product-analyst-nfts-metamask/15292,Product Analyst - NFTs,$50k - $185k,analyst:nft:ethereum,4mo
-MetaMask,https://web3.career/technical-support-manager-usa-metamask/15291,Technical Support Manager USA,,customer support:ethereum,4mo
-MetaMask,https://web3.career/technical-support-manager-emea-metamask/15290,Technical Support Manager EMEA,,customer support:remote:ethereum,4mo
-MetaMask,https://web3.career/sr-accounting-manager-metamask/15289,Sr. Accounting Manager,,accounting:senior:ethereum,4mo
-MetaMask,https://web3.career/sales-enablement-manager-metamask/15288,Sales Enablement Manager,$29k - $43k,sales:non tech:ethereum,4mo
-MetaMask,https://web3.career/sdr-us-metamask/15287,SDR (US),$60k - $150k,ethereum,4mo
-MetaMask,https://web3.career/revenue-manager-metamask/15286,Revenue Manager,$60k - $150k,ethereum,4mo
-MetaMask,https://web3.career/help-desk-team-lead-metamask/15285,Help Desk Team lead,,customer support:lead:ethereum,4mo
-MetaMask,https://web3.career/help-desk-agent-metamask/15284,Help Desk Agent,,customer support:ethereum,4mo
-MetaMask,https://web3.career/global-help-desk-vp-metamask/15283,"Global Help-Desk, VP",$79k - $158k,executive:ethereum,4mo
-MetaMask,https://web3.career/developer-relations-evangelist-truffle-metamask/15282,Developer Relations Evangelist (Truffle),,customer support:dev:react:solidity:ethereum,4mo
-MetaMask,https://web3.career/developer-relations-evangelist-metamask-metamask/15281,Developer Relations Evangelist (MetaMask),,customer support:dev:ethereum:javascript,4mo
-MetaMask,https://web3.career/customer-success-manager-americas-metamask/15280,Customer Success Manager (Americas),,sales:non tech:customer support:ethereum,4mo
-MetaMask,https://web3.career/customer-success-lead-metamask/15279,Customer Success Lead,,customer support:lead:ethereum,4mo
-MetaMask,https://web3.career/corporate-development-associate-metamask/15278,Corporate Development - Associate,$60k - $150k,ethereum,4mo
-MetaMask,https://web3.career/community-support-manager-metamask/15277,Community Support Manager,,community manager:non tech:customer support:ethereum,4mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Sygnum Bank AG,https://web3.career/associate-ceo-office-sygnum/16008,"Singapore,
+Singapore","Associate, CEO Office",$79k - $158k,executive:ethereum,4mo
+Joint NFT,https://web3.career/growth-marketing-joint-nft/16007,"Bengaluru,
+India",Growth & Marketing,$74k - $124k,marketing:non tech:nft,4mo
+Joint NFT,https://web3.career/nft-analytics-intern-joint-nft/16006,India,NFT Analytics Intern,$124k - $2k,stats:intern:entry level:nft:javascript,4mo
+Crypto.com,https://web3.career/content-writer-defi-crypto-com/16005,United Kingdom,"Content writer, DeFi",,copywriting:defi:nft,4mo
+Binance,https://web3.career/devops-engineer-c2c-binance/16003,Vietnam,DevOps Engineer (C2C),,c:c plus plus:devops:dev,4mo
+Bitaccess,https://web3.career/software-engineer-bitcoin-crypto-blockchain-bitaccess/16001,"Toronto,
+Canada","Software Engineer - Bitcoin, Crypto & Blockchain",,dev:btc:blockchain:crypto:ethereum,4mo
+W3BCLOUD,https://web3.career/finance-manager-blockchain-crypto-usa-remote-based-location-w3bcloud/16000,"Chicago,
+United States",Finance Manager - Blockchain/Crypto (USA/Remote Based Location),$50k - $225k,remote:finance:blockchain:crypto,4mo
+Crypto Finance AG,https://web3.career/java-software-engineer-crypto-finance-infrastructure-services-cryptofinanceag/15999,"Zurich,
+Switzerland","Java Software Engineer, Crypto Finance (Infrastructure Services)",,dev:finance:java:crypto,4mo
+Binance,https://web3.career/senior-product-designer-ui-ux-bundle-africa-binance/15996,Remote,Senior Product Designer (UI/UX) – Bundle Africa,$60k - $120k,design:non tech:senior:remote,4mo
+Altoros,https://web3.career/144-project-manager-blockchain-altoros/15995,"Buenos Aires,
+Argentina",[144] Project Manager | Blockchain,$56k - $160k,project manager:non tech:blockchain,4mo
+Binance,https://web3.career/ux-designer-binance-gift-card-binance/15993,Remote,UX Designer (Binance Gift Card),$50k - $135k,design:non tech:remote,4mo
+Credix,https://web3.career/token-design-dao-credix/15990,"Antwerp,
+Belgium",Token design & DAO,$75k - $150k,design:non tech,4mo
+Crypto.com,https://web3.career/blockchain-security-devops-engineer-crypto-com/15989,"Hong Kong,
+Hong Kong",Blockchain Security DevOps Engineer,$95k - $250k,devops:dev:security:blockchain:nft,4mo
+✤ Syntropy,https://web3.career/senior-front-end-developer-syntropy-net/15987,Lithuania,Senior Front-end Developer,$70k - $190k,dev:front end:senior,4mo
+Chainlink Labs,https://web3.career/vp-of-growth-marketing-chainlink/15985,Remote,VP of Growth Marketing,$70k - $158k,marketing:non tech:executive:remote,4mo
+Binance,https://web3.career/nft-metaverse-gaming-marketing-manager-binance/15982,Remote,NFT/Metaverse/Gaming Marketing Manager,$40k - $100k,game dev:marketing:non tech:metaverse:nft,4mo
+IOTA Foundation,https://web3.career/senior-devops-engineer-iota/15981,Remote,(Senior) DevOps Engineer,$120k - $200k,devops:dev:senior:golang:remote,4mo
+Binance,https://web3.career/research-analyst-intern-nft-metaverse-binance/15978,Remote,Research Analyst Intern (NFT/Metaverse),$20k - $30k,analyst:intern:entry level:metaverse:nft,4mo
+Joint NFT,https://web3.career/content-creator-joint-nft/15977,"Bengaluru,
+India",Content Creator,$124k - $2k,nft,4mo
+Anchorage Digital,https://web3.career/member-of-technical-staff-backend-engineering-cryptoassets-anchorage-digital/15976,Remote,"Member of Technical Staff, Backend Engineering (Cryptoassets)",$150k - $200k,backend:full stack:golang:solidity:javascript,4mo
+Joint NFT,https://web3.career/fullstack-web3-engineer-joint-nft/15975,India,Fullstack Web3 Engineer,$0k - $2k,dev:full stack:solidity:nft:javascript,4mo
+Finoa GmbH,https://web3.career/senior-partnerships-and-ecosystem-manager-m-f-div-finoa/15973,"Berlin,
+Germany",(Senior) Partnerships and Ecosystem Manager (m/f/div),$50k - $150k,sales:non tech:senior:remote,4mo
+MonarchGaming,https://web3.career/marketing-graphic-designer-monarchgaming/15972,"Los Angeles,
+United States",Marketing Graphic Designer,,design:non tech:marketing:solana:nft,4mo
+Gemini,https://web3.career/associate-financial-planning-analysis-gemini/15969,United States,"Associate, Financial Planning & Analysis",$40k - $150k,finance,4mo
+Gemini,https://web3.career/program-manager-compliance-gemini/15968,United States,"Program Manager, Compliance",,compliance:executive,4mo
+Ently,https://web3.career/blockchain-developer-ently/15967,"Baltimore,
+United States",Blockchain Developer,$0k,dev:blockchain:react:ethereum,4mo
+Immutable,https://web3.career/software-engineering-manager-gods-unchained-immutable/15965,Remote,Software Engineering Manager (Gods Unchained),$95k - $300k,executive:dev:remote,4mo
+Immutable,https://web3.career/head-of-security-engineering-gods-unchained-immutable/15964,Remote,Head of Security Engineering (Gods Unchained),$95k - $250k,executive:security:remote,4mo
+Figure,https://web3.career/office-coordinator-figure/15963,United States,Office Coordinator,,,4mo
+Joint NFT,https://web3.career/design-intern-ui-ux-joint-nft/15962,"Bengaluru,
+India",Design Intern - UI/UX,$124k - $2k,design:non tech:intern:entry level:nft,4mo
+Fashion XR,https://web3.career/senior-blockchain-architect-cyberwear-nft/15961,United Kingdom,Senior Blockchain Architect,$80k,architecture:senior:blockchain:solidity:ethereum,4mo
+WOO Network,https://web3.career/defi-blockchain-engineer-woo-network/15960,"Taipei,
+Taiwan",DeFi Blockchain Engineer,$70k - $200k,dev:blockchain:defi:solidity:ethereum,4mo
+Sygnum Bank AG,https://web3.career/defi-engineer-sygnum/15956,Switzerland,DeFi Engineer,$80k - $160k,dev:defi:react:solidity:ethereum,4mo
+✤ Syntropy,https://web3.career/senior-front-end-developer-dapp-syntropy-net/15951,Remote,Senior Front-end Developer (DApp),$70k - $190k,dev:front end:senior:dapp:remote,4mo
+MRGN Labs,https://web3.career/senior-blockchain-engineer-mrgn-labs/15950,Remote,Senior Blockchain Engineer,$80k - $200k,dev:senior:blockchain:remote:solana,4mo

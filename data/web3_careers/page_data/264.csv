@@ -1,36 +1,55 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Gemini,https://web3.career/background-check-program-manager-gemini/15346,Background Check Program Manager,$70k - $180k,executive,4mo
-Gemini,https://web3.career/associate-treasury-operations-gemini/15345,"Associate, Treasury Operations",$60k - $200k,operations,4mo
-Gemini,https://web3.career/associate-producer-nifty-gateway-gemini/15344,"Associate, Producer - Nifty Gateway",$55k - $150k,nft,4mo
-Gemini,https://web3.career/associate-producer-marketplace-nifty-gateway-gemini/15343,"Associate, Producer - Marketplace, Nifty Gateway",$70k - $158k,solidity:nft,4mo
-Gemini,https://web3.career/associate-producer-marketplace-gemini/15342,"Associate, Producer - Marketplace",$70k - $158k,solidity:nft,4mo
-Gemini,https://web3.career/associate-operational-risk-gemini/15341,"Associate, Operational Risk",$60k - $80k,operations:ethereum,4mo
-Gemini,https://web3.career/senior-principal-business-development-gemini/15340,"Senior Principal, Business Development",$40k - $150k,sales:non tech:executive:senior,4mo
-Gemini,https://web3.career/senior-business-development-associate-gemini-fund-solutions-gemini/15339,"Senior Business Development Associate, Gemini Fund Solutions",$50k - $150k,sales:non tech:senior,4mo
-Gemini,https://web3.career/head-of-research-gemini/15338,Head of Research,$70k - $180k,executive,4mo
-Gemini,https://web3.career/head-of-marketplace-gemini/15337,Head of Marketplace,$70k - $180k,executive,4mo
-Gemini,https://web3.career/director-derivatives-gemini/15336,"Director, Derivatives",$70k - $180k,executive,4mo
-Gemini,https://web3.career/associate-director-technical-accounting-gemini/15335,"Associate Director, Technical Accounting",$120k - $150k,accounting:executive,4mo
-Gemini,https://web3.career/accounting-manager-gemini/15334,Accounting Manager,$25k - $150k,accounting,4mo
-Gemini,https://web3.career/senior-product-manager-trust-security-gemini/15333,"Senior Product Manager, Trust & Security",,product manager:non tech:security:senior,4mo
-Gemini,https://web3.career/senior-product-manager-nifty-gateway-gemini/15332,"Senior Product Manager, Nifty Gateway",$80k - $150k,product manager:non tech:senior:ethereum:nft,4mo
-Gemini,https://web3.career/product-manager-retail-gemini/15331,"Product Manager, Retail",$69k - $160k,product manager:non tech,4mo
-Gemini,https://web3.career/product-manager-payments-gemini/15330,"Product Manager, Payments",$69k - $160k,product manager:non tech,4mo
-Gemini,https://web3.career/product-manager-nifty-gateway-gemini/15329,"Product Manager, Nifty Gateway",$80k - $150k,product manager:non tech:ethereum:nft,4mo
-Gemini,https://web3.career/product-manager-debit-card-gemini/15328,"Product Manager, Debit Card",$80k - $150k,product manager:non tech:ethereum,4mo
-Gemini,https://web3.career/product-manager-eu-and-uk-gemini/15327,Product Manager (EU and UK),$80k - $150k,product manager:non tech:ethereum,4mo
-Gemini,https://web3.career/lead-product-manager-signing-gemini/15326,"Lead Product Manager, Signing",,lead:product manager:non tech,4mo
-Gemini,https://web3.career/lead-product-manager-earn-gemini/15325,"Lead Product Manager, Earn",,lead:product manager:non tech,4mo
-Gemini,https://web3.career/director-head-of-apac-listed-derivatives-gemini/15324,"Director, Head of APAC Listed Derivatives",$70k - $180k,executive,4mo
-Gemini,https://web3.career/senior-product-manager-retail-eu-and-uk-gemini/15323,"Senior Product Manager, Retail (EU and UK)",$80k - $150k,product manager:non tech:senior:ethereum,4mo
-Gemini,https://web3.career/senior-associate-nft-lifecycle-marketing-gemini/15322,"Senior Associate, NFT Lifecycle Marketing",$46k - $109k,marketing:non tech:senior:nft,4mo
-Gemini,https://web3.career/lead-product-marketing-nft-s-gemini/15321,"Lead, Product Marketing - NFT's",$50k - $120k,lead:marketing:non tech:nft,4mo
-Gemini,https://web3.career/director-investor-relations-gemini/15320,"Director, Investor Relations",$90k - $200k,executive:finance,4mo
-Gemini,https://web3.career/associate-director-ux-research-manager-gemini/15319,"Associate Director, UX Research Manager",,executive:design:non tech,4mo
-Gemini,https://web3.career/trading-systems-engineer-early-career-gemini/15318,Trading Systems Engineer (Early Career),$150k - $200k,dev:sys admin:java:rust,4mo
-MetaMask,https://web3.career/senior-revenue-analyst-metamask/15317,Senior Revenue Analyst,$150k - $185k,analyst:senior:ethereum,4mo
-MetaMask,https://web3.career/senior-hr-business-partner-metamask-metamask/15316,Senior HR Business Partner (MetaMask),,hr:non tech:senior:ethereum,4mo
-MetaMask,https://web3.career/senior-accountant-metamask/15315,Senior Accountant,,accounting:senior:ethereum,4mo
-MetaMask,https://web3.career/learning-and-development-specialist-metamask/15314,Learning and Development Specialist,,,4mo
-MetaMask,https://web3.career/equity-administrator-metamask/15313,Equity Administrator,$60k - $150k,ethereum,4mo
-MetaMask,https://web3.career/community-advocate-metamask/15312,Community Advocate,$15k - $30k,community manager:non tech:ethereum,4mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+OKEx,https://web3.career/talent-acquisition-manager-okex/16057,"Singapore,
+Singapore",Talent Acquisition Manager,$40k - $70k,recruiter:non tech,4mo
+NUTS Finance,https://web3.career/product-manager-web3-defi-nutsfinance/16056,"Hong Kong,
+Hong Kong",Product Manager (Web3 & DeFi),$100k - $150k,product manager:non tech:defi,4mo
+Braintrust,https://web3.career/braintrust-growth-marketing-manager-part-time-braintrust/16055,"San Francisco,
+United States",Braintrust | Growth Marketing Manager (Part-time),,marketing:non tech:part time,4mo
+Crystal Blockchain Analytics,https://web3.career/sales-executive-nam-remote-crystal/16054,"Austin,
+United States",Sales Executive (NAM) - Remote,$40k - $150k,remote:executive:sales:non tech,4mo
+Aver,https://web3.career/marketing-brand-lead-aver/16053,Remote,Marketing & Brand Lead,$50k - $120k,marketing:non tech:lead:remote:solana,4mo
+Elwood Technologies,https://web3.career/sales-director-elwoodtechnologies/16052,Remote,Sales Director,$40k - $150k,executive:sales:non tech:remote,4mo
+LATOKEN,https://web3.career/analyst-remote-latoken/16051,Remote,Analyst (remote),$50k - $120k,remote:analyst:nft,4mo
+Crystal Blockchain Analytics,https://web3.career/frontend-developer-wordpress-crystal/16050,"Kiev,
+Ukraine",Frontend Developer (WordPress),,dev:front end:wordpress,4mo
+BytePitch - Software Labs,https://web3.career/blockchain-software-engineer-full-time-contractor-bytepitch-softwarelabs/16049,Brazil,Blockchain Software Engineer - Full Time Contractor,$89k - $142k,dev:full time:blockchain:solidity:ethereum,4mo
+Elwood Technologies,https://web3.career/technical-account-manager-elwoodtechnologies/16048,"London,
+United Kingdom",Technical Account Manager,,account manager,4mo
+Kraken Digital Asset Exchange,https://web3.career/seo-manager-kraken/16047,Remote,SEO Manager,,seo:non tech:remote,4mo
+Crystal Blockchain Analytics,https://web3.career/devops-linux-system-administrator-crystal/16042,"Kiev,
+Ukraine",DevOps/Linux System Administrator,,devops:linux:sys admin:golang,4mo
+Crystal Blockchain Analytics,https://web3.career/customer-success-representative-remote-crystal/16041,"Amsterdam,
+Netherlands",Customer Success Representative (Remote),$40k - $80k,remote:customer support,4mo
+Crystal Blockchain Analytics,https://web3.career/sales-executive-remote-crystal/16040,"Amsterdam,
+Netherlands",Sales Executive (Remote),$40k - $150k,remote:executive:sales:non tech,4mo
+Binance,https://web3.career/nft-analyst-intern-nft-gamefi-binance/16039,Remote,NFT Analyst Intern (NFT/GameFi),$20k - $30k,analyst:intern:entry level:nft:remote,4mo
+W3BCLOUD,https://web3.career/finance-manager-blockchain-crypto-usa-remote-based-location-w3bcloud/16038,"Los Angeles,
+United States",Finance Manager - Blockchain/Crypto (USA/Remote Based Location),$50k - $225k,remote:finance:blockchain:crypto,4mo
+Elwood Technologies,https://web3.career/technical-implementation-engineer-elwoodtechnologies/16037,"London,
+United Kingdom",Technical Implementation Engineer,$60k - $180k,dev,4mo
+Elwood Technologies,https://web3.career/technical-account-manager-elwoodtechnologies/16036,"Singapore,
+Singapore",Technical Account Manager,,account manager,4mo
+Kraken Digital Asset Exchange,https://web3.career/international-seo-manager-kraken/16034,Remote,International SEO Manager,,seo:non tech:remote,4mo
+Kraken Digital Asset Exchange,https://web3.career/technical-seo-associate-kraken/16031,Remote,Technical SEO Associate,,seo:non tech:remote:javascript,4mo
+Staking Rewards,https://web3.career/remote-freelance-arabic-language-translator-staking-rewards/16029,Remote,Remote Freelance Arabic Language Translator,,remote:translator,4mo
+River Financial,https://web3.career/associate-relationship-manager-riverfinancial/16028,Remote,Associate Relationship Manager,$25k - $120k,marketing:non tech:remote,4mo
+Anchorage Digital,https://web3.career/member-of-technical-staff-backend-engineering-platform-anchorage-digital/16027,Remote,"Member of Technical Staff, Backend Engineering (Platform)",$150k - $200k,remote:backend:dev:smart contract,4mo
+Anchorage Digital,https://web3.career/member-of-technical-staff-trading-lending-platform-anchorage-digital/16026,Remote,"Member of Technical Staff, Trading & Lending Platform",$150k - $200k,remote:backend:dev:smart contract:golang,4mo
+Okcoin,https://web3.career/recruiting-coordinator-okcoin/16025,"San Francisco,
+United States",Recruiting Coordinator,$40k - $70k,recruiter:non tech,4mo
+Rezolute,https://web3.career/blockchain-content-manager-rock-star-rezolute/16024,"Sofia,
+Bulgaria",BLOCKCHAIN CONTENT MANAGER Rock Star,$13k - $27k,marketing:non tech:copywriting:blockchain,4mo
+Fieonix,https://web3.career/full-stack-blockchain-developer-fieonix/16023,United Kingdom,Full Stack Blockchain Developer,$40k - $65k,dev:full stack:blockchain,4mo
+Crystal Blockchain Analytics,https://web3.career/chief-revenue-officer-cro-crystal/16022,"Amsterdam,
+Netherlands",Chief Revenue Officer (CRO),$70k - $180k,executive,4mo
+Energi Core Limited,https://web3.career/digital-artist-recruiter-energicorelimited/16021,"San Francisco,
+United States",Digital Artist Recruiter,,recruiter:non tech:ethereum:nft,4mo
+Hike,https://web3.career/crypto-economist-hike/16018,"San Francisco,
+United States",Crypto Economist,$32k - $65k,crypto,4mo
+Newton,https://web3.career/corporate-accountant-canada-wide-remote-newton/16017,"Toronto,
+Canada",Corporate Accountant - Canada Wide - Remote,$11k - $25k,remote:accounting,4mo
+Joint NFT,https://web3.career/fullstack-web3-intern-joint-nft/16015,India,Fullstack Web3 Intern,$124k - $2k,full stack:intern:entry level:solidity:nft,4mo
+InBillo,https://web3.career/blockchain-solidity-engineer-remote-inbillo/16014,"Warsaw,
+Poland",Blockchain/Solidity Engineer / Remote,$20k - $35k,remote:dev:blockchain:solidity:node,4mo
+Amun 21Shares,https://web3.career/chief-of-staff-to-the-president-amun/16013,Remote,Chief of Staff to the President,,executive:recruiter:non tech:remote,4mo
+Okcoin,https://web3.career/russian-customer-service-representative-okcoin/16010,Remote,Russian Customer Service Representative,$40k - $80k,customer support:remote,4mo

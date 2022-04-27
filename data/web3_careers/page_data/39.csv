@@ -1,36 +1,53 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-GSR,https://web3.career/devops-infrastructure-support-engineer-associate-senior-associate-new-york-gsr/25035,DevOps Infrastructure Support Engineer - Associate/Senior Associate - New York,$120k - $200k,devops:dev:senior:customer support,19d
-GSR,https://web3.career/executive-recruitment-coordinator-cryptocurrency-trading-new-york-gsr/25034,Executive Recruitment Coordinator - Cryptocurrency Trading - New York,,executive:recruiter:non tech:crypto,19d
-GSR,https://web3.career/paralegal-legal-and-compliance-gsr/25033,"Paralegal, Legal and Compliance",,compliance:legal,19d
-GSR,https://web3.career/legal-counsel-associate-gsr/25032,"Legal Counsel, Associate",$24k - $140k,legal,19d
-GSR,https://web3.career/surveillance-lead-compliance-gsr/25031,"Surveillance Lead, Compliance",,compliance:lead,19d
-GSR,https://web3.career/money-transmission-compliance-officer-gsr/25030,Money Transmission Compliance Officer,,compliance,19d
-GSR,https://web3.career/kyc-compliance-analyst-gsr/25029,KYC & Compliance Analyst,,compliance:kyc:analyst,19d
-GSR,https://web3.career/compliance-advisory-associate-gsr/25028,"Compliance Advisory, Associate",,compliance,19d
-GSR,https://web3.career/chief-compliance-officer-apac-singapore-gsr/25027,"Chief Compliance Officer APAC, Singapore",,compliance:executive,19d
-GSR,https://web3.career/executive-assistant-gsr/25026,Executive Assistant,$70k - $180k,executive,19d
-Gauntlet Networks,https://web3.career/devops-infrastructure-engineer-gauntlet/25025,DevOps / Infrastructure Engineer,$95k - $180k,devops:dev:remote,19d
-Fuel Labs,https://web3.career/senior-full-stack-software-engineer-typescript-fuellabs/25016,Senior Full-stack Software Engineer [TypeScript],$70k - $180k,dev:full stack:senior:remote,19d
-Fuel Labs,https://web3.career/senior-frontend-engineer-fuellabs/25015,Senior Frontend Engineer,$70k - $190k,dev:front end:senior:remote,19d
-Findora,https://web3.career/crypto-ecosystem-growth-manager-findora/25014,Crypto Ecosystem Growth Manager,$46k - $140k,marketing:non tech:crypto:remote,19d
-Findora,https://web3.career/crypto-chief-marketing-officer-findora/25013,Crypto Chief Marketing Officer,$70k - $158k,executive:marketing:non tech:crypto:remote,19d
-DeSo Foundation,https://web3.career/app-ecosystem-lead-deso/25012,App Ecosystem Lead,$56k - $118k,lead:remote:ethereum,19d
-DeSo Foundation,https://web3.career/business-development-lead-deso/25011,Business Development Lead,,sales:non tech:lead:remote:ethereum,19d
-"DeFi Technologies, Inc.",https://web3.career/exchange-traded-product-manager-defi-tech/25010,Exchange Traded Product Manager,$69k - $160k,product manager:non tech,19d
-Constellation Network,https://web3.career/ui-ux-designer-constellationnetwork/25009,UI/UX Designer,$50k - $135k,design:non tech:remote,19d
-Coinsquare,https://web3.career/mobile-software-developer-iii-ios-coinsquare/25008,Mobile Software Developer III - iOS,$51k - $109k,dev:ios:mobile:node,19d
-Coinsquare,https://web3.career/mobile-software-developer-iii-android-coinsquare/25007,Mobile Software Developer III - Android,,android:mobile:dev:node:java,19d
-Coinsquare,https://web3.career/frontend-software-developer-iii-web-coinsquare/25006,Frontend Software Developer III - Web,$50k - $144k,dev:front end:react:javascript,19d
-Coinsquare,https://web3.career/backend-software-developer-iii-exchange-coinsquare/25005,"Backend Software Developer III, Exchange",$70k - $200k,backend:dev:node:java,19d
-Coinsquare,https://web3.career/human-resources-business-partner-coinsquare/25004,Human Resources Business Partner,$60k - $150k,ethereum,19d
-Coinsquare,https://web3.career/legal-counsel-coinsquare/25003,Legal Counsel,,legal:ethereum,19d
-Coinsquare,https://web3.career/sr-manager-anti-money-laundering-hybrid-coinsquare/25002,Sr. Manager Anti Money Laundering (Hybrid),$80k - $200k,senior:ethereum,19d
-cLabs,https://web3.career/senior-financial-software-engineer-clabs/25001,Senior Financial Software Engineer,,dev:finance:senior,19d
-cLabs,https://web3.career/it-helpdesk-engineer-berlin-germany-clabs/25000,"IT Helpdesk Engineer - Berlin, Germany",$60k - $180k,dev,19d
-cLabs,https://web3.career/tell-us-how-you-would-like-to-contribute-clabs/24999,Tell us how you would like to contribute!,$56k - $160k,remote,19d
-cLabs,https://web3.career/recruiting-coordinator-clabs/24998,Recruiting Coordinator,,recruiter:non tech:remote,19d
-cLabs,https://web3.career/commerce-business-development-lead-clabs/24997,Commerce Business Development Lead,,sales:non tech:lead:remote,19d
-cLabs,https://web3.career/working-student-recruiting-f-m-x-clabs/24996,Working student Recruiting (f/m/x),$40k - $70k,recruiter:non tech,19d
-Change,https://web3.career/chief-technology-officer-cto-changeinvest/24995,Chief Technology Officer (CTO),$56k - $200k,cto:executive,19d
-Change,https://web3.career/senior-product-designer-changeinvest/24994,Senior Product Designer,$60k - $120k,design:non tech:senior,19d
-Change,https://web3.career/lord-ess-of-the-memes-changeinvest/24993,LORD(ESS) OF THE MEMES,,,19d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+MetaMundo,https://web3.career/senior-user-interface-designer-metamundo/25610,"Amsterdam,
+Netherlands",Senior User Interface Designer,$60k - $120k,design:non tech:senior,17d
+Voodoo,https://web3.career/ua-associate-voodoo/25609,"Berlin,
+Germany",UA Associate,$50k - $158k,,17d
+FluidNFT Labs,https://web3.career/web3-senior-full-stack-engineer-fluidnft/25608,Remote,Web3 Senior Full-Stack Engineer,$120k - $200k,dev:full stack:senior:remote:solidity,18d
+QuickNode,https://web3.career/cloud-architect-quicknode/25606,Remote,Cloud Architect,,architecture:cloud:remote,18d
+Uniswap Labs,https://web3.career/engineering-manager-protocol-uniswaplabs/25605,"New York,
+United States","Engineering Manager, Protocol",$70k - $158k,executive:solidity,18d
+Snowfork,https://web3.career/head-of-blockchain-snowfork/25604,Remote,Head of Blockchain,$100k - $300k,executive:blockchain:remote:nft,18d
+Binance,https://web3.career/accountant-binance/25602,"London,
+United Kingdom",Accountant,$25k - $150k,accounting,18d
+Big Time Studios,https://web3.career/jr-growth-analyst-bigtime/25600,Remote,Jr. Growth Analyst,,analyst:marketing:non tech:remote,18d
+Voodoo,https://web3.career/senior-backend-engineer-blitz-voodoo/25599,"Paris,
+France",Senior Backend Engineer - Blitz,$70k - $200k,backend:dev:senior,18d
+DecenHealth DAO,https://web3.career/online-community-manager-decenhealth-dao/25598,Remote,Online Community Manager,$75k - $85k,community manager:non tech:remote:dao:social media,18d
+Zilliqa,https://web3.career/senior-devops-engineer-zilliqa/25597,"London,
+United Kingdom",Senior DevOps Engineer,$120k - $200k,devops:dev:senior:solidity:scala,18d
+Uniswap Labs,https://web3.career/developer-advocate-engineer-uniswaplabs/25596,"New York,
+United States",Developer Advocate Engineer,$67k - $200k,dev:react:solidity:ethereum,18d
+Techteams,https://web3.career/lead-product-designer-techteams/25595,"Warsaw,
+Poland",Lead Product Designer,$40k - $190k,design:non tech:lead,18d
+Grayscale Investments,https://web3.career/director-government-relations-grayscaleinvestments/25594,United States,"Director, Government Relations",$70k - $180k,executive,18d
+Ethereum Foundation,https://web3.career/administrative-assistant-ethereumfoundation/25593,Remote,Administrative Assistant,$60k - $145k,remote:ethereum,18d
+Blocknative,https://web3.career/social-media-manager-blocknative/25592,Remote,Social Media Manager,$35k - $110k,social media:non tech:remote:ethereum,18d
+Glow,https://web3.career/digital-marketing-specialist-glow/25591,Remote,Digital Marketing Specialist,$70k - $110k,marketing:non tech:remote:defi,18d
+Ledger,https://web3.career/qa-automation-engineer-ledger/25589,"London,
+United Kingdom",QA Automation Engineer,$50k - $150k,dev:quality assurance,18d
+Binance,https://web3.career/qa-engineer-automation-binance/25588,South East Asia,QA Engineer (Automation),$50k - $150k,dev:quality assurance,18d
+Ethereum Foundation,https://web3.career/communications-and-outreach-ethereumfoundation/25587,Remote,Communications and Outreach,$60k - $145k,remote:ethereum,18d
+The Foundation for Art & Blockchain,https://web3.career/director-the-foundation-for-art-blockchain/25586,"New York,
+United States",Director,$70k - $120k,executive:nft,18d
+Coolman's Universe,https://web3.career/lead-solidity-developer-coolmans-universe/25585,"Los Angeles,
+United States",Lead Solidity Developer,$170k - $200k,dev:lead:solidity:web3js:react,18d
+Binance,https://web3.career/devops-engineer-binance/25584,"London,
+United Kingdom",DevOps Engineer,$70k - $180k,devops:dev,18d
+Voodoo,https://web3.career/senior-ua-associate-voodoo/25583,"Barcelona,
+Spain",Senior UA Associate,$78k - $200k,senior,18d
+Binance,https://web3.career/java-engineer-binance/25582,Europe,Java Engineer,$33k - $140k,dev:java,18d
+Binance,https://web3.career/bnb-chain-operations-manager-binance/25581,Remote,BNB Chain Operations Manager,$80k - $110k,operations:remote,18d
+Pole To Win International,https://web3.career/3d-environment-prop-artist-mobile-games-and-nft-art-poletowininternational/25580,Brazil,3D Environment & Prop Artist | Mobile Games and NFT Art,,vfx:mobile:nft,18d
+Crypto.com,https://web3.career/apac-growth-marketing-lead-global-fintech-startup-crypto-com/25579,,APAC Growth Marketing Lead - Global Fintech Startup,$50k - $100k,finance:marketing:non tech:lead,18d
+Crypto.com,https://web3.career/it-support-engineer-tw-crypto-com/25578,Taiwan,IT Support Engineer (TW),,dev:customer support:nft,18d
+ClayStack,https://web3.career/growth-marketing-manager-defi-startup-claystack/25577,,Growth Marketing Manager - DeFi Startup,$60k - $140k,marketing:non tech:defi,18d
+Crypto.com,https://web3.career/information-security-governance-manager-hk-crypto-com/25576,"Hong Kong,
+Hong Kong",Information Security Governance Manager (HK),$95k - $200k,security,18d
+Crypto.com,https://web3.career/security-engineer-penetration-tester-hk-crypto-com/25575,"Hong Kong,
+Hong Kong",Security Engineer / Penetration Tester (HK),,dev:security:nft,18d
+ClayStack,https://web3.career/community-manager-for-defi-crypto-project-claystack/25574,,Community Manager for DeFi - Crypto Project,$35k - $100k,community manager:non tech:crypto:defi,18d
+Paro.io,https://web3.career/crypto-controller-remote-projects-paro-io/25573,"Seattle,
+United States",Crypto Controller- Remote Projects,,remote:legal:crypto,18d
+Crypto.com,https://web3.career/offensive-security-engineer-sg-crypto-com/25572,"Singapore,
+Singapore",Offensive Security Engineer (SG),,dev:security:nft:ruby:java,18d

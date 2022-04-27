@@ -1,36 +1,53 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-CANDY,https://web3.career/senior-video-editor-candy/11297,Senior Video Editor,,senior:video,5mo
-CoinFlip,https://web3.career/qa-manager-platform-and-kiosk-coinflip/11296,QA Manager - Platform and Kiosk,$62k - $150k,quality assurance,5mo
-Marinade,https://web3.career/blockchain-engineer-solana-marinade/11294,Blockchain Engineer - Solana,,dev:blockchain:solana:rust:remote,5mo
-Marinade,https://web3.career/frontend-engineer-react-web3-marinade/11293,"Frontend Engineer - React, Web3",,dev:front end:javascript:react:solana,5mo
-Status.im,https://web3.career/technical-recruiter-status-im/11292,Technical Recruiter,,recruiter:non tech:ethereum:remote,5mo
-Status.im,https://web3.career/software-engineer-decentralized-communication-for-dapps-dappconnect-status-im/11291,Software Engineer: Decentralized Communication for dApps (DappConnect),$63k - $160k,dev:solidity:ethereum:nft:javascript,5mo
-Status.im,https://web3.career/smart-contracts-engineer-fullstack-status-im/11290,Smart Contracts Engineer (FullStack),$85k - $300k,dev:full stack:smart contract:ethereum:java,5mo
-Status.im,https://web3.career/senior-react-native-ui-developer-status-im/11289,Senior React Native UI Developer,$65k - $200k,dev:react native:mobile:javascript:react,5mo
-Status.im,https://web3.career/senior-c-qt-qml-developer-for-blockchain-app-status-im/11288,Senior C++ Qt/QML developer for blockchain app,$100k - $150k,c:c plus plus:dev:senior:blockchain,5mo
-Status.im,https://web3.career/protocol-integration-engineer-vac-team-status-im/11287,Protocol Integration Engineer (Vac Team),$26k - $120k,dev:ethereum:java:rust:remote,5mo
-Status.im,https://web3.career/protocol-engineer-vac-team-status-im/11286,Protocol Engineer (Vac Team),$26k - $120k,dev:ethereum:java:rust:remote,5mo
-Status.im,https://web3.career/protocol-engineer-distributed-systems-blockchain-smart-contracts-status-im/11285,Protocol Engineer (Distributed systems|Blockchain|Smart Contracts),$50k - $150k,dev:blockchain:smart contract:ethereum:java,5mo
-Status.im,https://web3.career/mobile-product-design-lead-status-im/11284,Mobile Product Design Lead,$40k - $190k,design:non tech:lead:mobile:react,5mo
-Status.im,https://web3.career/libp2p-networking-engineer-status-im/11283,Libp2p Networking Engineer,$26k - $120k,dev:ethereum:java:rust:remote,5mo
-Status.im,https://web3.career/head-of-marketing-status-network-technical-status-im/11282,"Head of Marketing (Status Network, Technical)",$70k - $158k,executive:marketing:non tech:ethereum:remote,5mo
-Status.im,https://web3.career/head-of-marketing-status-app-status-im/11281,Head of Marketing (Status App),$70k - $158k,executive:marketing:non tech:ethereum:remote,5mo
-Status.im,https://web3.career/distributed-systems-researcher-blockchain-infrastructure-team-status-im/11280,Distributed Systems Researcher (Blockchain Infrastructure Team),$15k - $60k,blockchain:ethereum:java:rust:remote,5mo
-Status.im,https://web3.career/distributed-systems-engineer-vac-team-status-im/11279,Distributed Systems Engineer (Vac Team),,dev:sys admin:ethereum:java:rust,5mo
-Status.im,https://web3.career/desktop-design-system-lead-status-im/11278,Desktop Design System Lead,$40k - $190k,design:non tech:lead:ethereum:remote,5mo
-Status.im,https://web3.career/creative-technologist-status-im/11277,Creative Technologist,$67k - $140k,react:ethereum:nft:javascript:php,5mo
-Blockchain.com,https://web3.career/head-of-product-consumer-blockchain/11276,"Head of Product, Consumer",$135k - $170k,executive:product manager:non tech,5mo
-Chronicled.com,https://web3.career/senior-software-engineer-backend-chronicled-2/11275,"Senior Software Engineer, Backend",$70k - $200k,backend:dev:senior:remote,5mo
-Polygon,https://web3.career/hr-business-partner-polygon/11274,HR Business Partner,,hr:non tech:ethereum,5mo
-Bitfury,https://web3.career/rtl-verification-engineer-bitfury/11273,RTL Verification Engineer,$60k - $180k,dev,5mo
-Bitfury,https://web3.career/rtl-verification-engineer-bitfury/11272,RTL Verification Engineer,$60k - $180k,dev,5mo
-Bitfury,https://web3.career/rtl-verification-engineer-bitfury/11271,RTL Verification Engineer,$60k - $180k,dev,5mo
-SuperRare Labs,https://web3.career/brand-and-marketing-copywriter-superrarelabs/11270,Brand and Marketing Copywriter,$25k - $96k,marketing:non tech:copywriting:ethereum:nft,5mo
-Ripple,https://web3.career/senior-devops-engineer-ripple/11269,Senior DevOps Engineer,$120k - $200k,devops:dev:senior,5mo
-Ripple,https://web3.career/director-infosec-governance-risk-and-compliance-ripple/11268,Director Infosec Governance Risk and Compliance,,compliance:executive:security,5mo
-MoonPay,https://web3.career/senior-growth-data-analyst-moonpay/11267,Senior Growth Data Analyst,,analyst:data science:marketing:non tech:senior,5mo
-MoonPay,https://web3.career/senior-finance-data-analyst-moonpay/11266,Senior Finance Data Analyst,,analyst:data science:finance:senior,5mo
-BlockFi,https://web3.career/accounting-manager-blockfi/11265,Accounting Manager,$25k - $150k,accounting,5mo
-Bitfury,https://web3.career/physical-design-engineer-ic-backend-bitfury/11264,Physical Design Engineer (IC Backend),,backend:design:non tech:dev,5mo
-Bitfury,https://web3.career/physical-design-engineer-ic-backend-bitfury/11263,Physical Design Engineer (IC Backend),,backend:design:non tech:dev,5mo
-Bitfury,https://web3.career/physical-design-engineer-ic-backend-bitfury/11262,Physical Design Engineer (IC Backend),,backend:design:non tech:dev,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Binance,https://web3.career/junior-devops-engineer-intern-binance/12365,"Singapore,
+Singapore",Junior DevOps Engineer (Intern),,devops:dev:intern:entry level:junior,5mo
+QuickNode,https://web3.career/product-manager-quicknode/12364,Remote,Product Manager,$115k - $175k,product manager:non tech:remote,5mo
+Kraken Digital Asset Exchange,https://web3.career/executive-assistant-people-experience-and-recruiting-kraken/12363,"London,
+United Kingdom",Executive Assistant - People Experience and Recruiting,,executive:recruiter:non tech,5mo
+Kraken Digital Asset Exchange,https://web3.career/program-manager-kraken/12362,United States,Program Manager,$70k - $180k,executive,5mo
+Binance,https://web3.career/junior-code-review-engineer-front-end-binance/12361,"Singapore,
+Singapore",Junior Code Review Engineer (Front-end),,dev:front end:junior:entry level,5mo
+Binance,https://web3.career/junior-data-analyst-intern-binance/12360,"Singapore,
+Singapore",Junior Data Analyst (Intern),,analyst:data science:intern:entry level:junior,5mo
+Kraken Digital Asset Exchange,https://web3.career/product-marketing-manager-institutional-clients-kraken/12359,Remote,"Product Marketing Manager, Institutional Clients",$25k - $120k,marketing:non tech:remote,5mo
+Kraken Digital Asset Exchange,https://web3.career/chief-of-staff-to-the-chief-people-officer-kraken/12357,United States,Chief of Staff to the Chief People Officer,,executive:recruiter:non tech,5mo
+Blocknative,https://web3.career/product-marketing-director-blocknative/12356,Remote,Product Marketing Director,$70k - $158k,executive:marketing:non tech:nft:remote,5mo
+Binance,https://web3.career/associate-director-launchpad-and-launchpool-binance/12355,South America or North America,Associate Director - LaunchPad and LaunchPool,$70k - $180k,executive,5mo
+Web3 Foundation,https://web3.career/technical-grants-evaluator-web3-foundation/12352,"Zug,
+Switzerland",Technical Grants Evaluator,$60k - $147k,javascript:rust,5mo
+Binance,https://web3.career/junior-blockchain-security-engineer-binance/12351,"Singapore,
+Singapore",Junior Blockchain Security Engineer,$45k - $180k,dev:junior:entry level:security:blockchain,5mo
+AE Studio,https://web3.career/blockchain-developer-aestudio/12350,Brazil,Blockchain Developer,$50k - $130k,dev:blockchain:react:react native:solidity,5mo
+Ledger,https://web3.career/crypto-talent-acquisition-manager-ledger/12349,"Paris,
+France",Crypto* Talent Acquisition Manager,$30k - $50k,recruiter:non tech:crypto,5mo
+QuickNode,https://web3.career/technical-writer-solana-quicknode/12347,Remote,Technical Writer: Solana,,analyst:solana:remote,5mo
+Remote,https://web3.career/senior-manager-alternative-payments-remotecom/12344,"London,
+United Kingdom","Senior Manager, Alternative Payments",$78k - $200k,senior,5mo
+Sygnum Bank AG,https://web3.career/head-of-tokenization-sygnum/12343,Switzerland,Head of Tokenization,$70k - $180k,executive,5mo
+MoneyClip.io,https://web3.career/graphic-designer-moneyclip-io/12341,"Toronto,
+Canada",Graphic Designer,$50k - $150k,design:non tech,5mo
+AccelOne,https://web3.career/full-stack-java-react-developer-accelone/12336,AR,Full Stack (Java + React) Developer,$48k - $145k,dev:full stack:java:javascript:react,5mo
+Sygnum Bank AG,https://web3.career/site-reliability-engineering-lead-sygnum/12333,Switzerland,Site Reliability Engineering Lead,,lead:sys admin:ethereum:java,5mo
+Infinite Capital,https://web3.career/growth-analyst-infinite-capital/12332,NY US,Growth Analyst,,analyst:marketing:non tech:ethereum:nft,5mo
+Zilliqa,https://web3.career/head-of-investor-relations-zilliqa/12331,,Head of Investor Relations,$90k - $200k,executive:finance,5mo
+Binance,https://web3.career/qa-manager-lead-binance/12330,New Zealand,QA Manager/ Lead,$100k - $180k,lead:quality assurance,5mo
+Immunefi,https://web3.career/engineering-manager-immunefi/12329,"San Francisco,
+United States",Engineering Manager,$70k - $180k,executive,5mo
+Binance,https://web3.career/growth-product-manager-crm-cms-binance/12328,Asia,Growth Product Manager (CRM/CMS),,crm:marketing:non tech:product manager,5mo
+Binance,https://web3.career/front-end-web-developer-intern-binance/12327,"Singapore,
+Singapore",Front-end Web Developer Intern,$115k - $120k,dev:front end:intern:entry level,5mo
+Zilliqa,https://web3.career/senior-compiler-engineer-zilliqa/12325,,Senior Compiler Engineer,$80k - $200k,dev:senior:solidity:scala,5mo
+Dept,https://web3.career/crypto-fullstack-engineer-us-remote-dept/12324,,Crypto Fullstack Engineer - US Remote,$70k - $200k,remote:dev:full stack:crypto:react,5mo
+Sygnum Bank AG,https://web3.career/blockchain-engineer-sygnum/12323,Switzerland,Blockchain Engineer,$52k - $160k,dev:blockchain:solidity:ethereum:node,5mo
+Founders Factory,https://web3.career/founding-blockchain-engineer-temple-foundersfactory/12322,"London,
+United Kingdom",Founding Blockchain Engineer - Temple,$40k - $125k,dev:blockchain:nft,5mo
+OKEx,https://web3.career/graduate-hire-software-engineer-trading-service-okex/12321,"Hong Kong,
+Hong Kong",(Graduate Hire) Software Engineer - Trading Service,$12k - $33k,dev:intern:entry level,5mo
+OKEx,https://web3.career/graduate-hire-software-engineer-mobile-okex/12320,"Hong Kong,
+Hong Kong",(Graduate Hire) Software Engineer - Mobile,$12k - $33k,dev:intern:entry level:mobile:java,5mo
+OKEx,https://web3.career/graduate-hire-software-engineer-financial-product-okex/12319,"Hong Kong,
+Hong Kong",(Graduate Hire) Software Engineer - Financial Product,$12k - $33k,dev:intern:entry level:finance:java,5mo
+OKEx,https://web3.career/graduate-hire-product-associate-trading-product-okex/12318,"Hong Kong,
+Hong Kong",(Graduate Hire) Product Associate - Trading Product,,intern:entry level,5mo
+OKEx,https://web3.career/graduate-hire-product-associate-finance-okex/12317,"Hong Kong,
+Hong Kong",(Graduate Hire) Product Associate - Finance,,intern:entry level:finance,5mo

@@ -1,36 +1,58 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Binance,https://web3.career/office-manager-administrator-binance/24000,Office Manager/Administrator,,,29d
-Binance,https://web3.career/lead-graphic-designer-north-america-binance/23999,Lead Graphic Designer - North America,$40k - $190k,design:non tech:lead,29d
-Binance,https://web3.career/senior-product-designer-defi-binance/23998,Senior Product Designer - Defi,$60k - $120k,design:non tech:senior:defi,29d
-Ankr Network,https://web3.career/blockchain-engineer-ankrnetwork/23997,Blockchain Engineer,$52k - $160k,dev:blockchain:solidity:golang:rust,29d
-Figment,https://web3.career/customer-success-lead-figment/23996,Customer Success Lead,$25k - $35k,customer support:lead,29d
-Ledger,https://web3.career/learning-development-manager-ledger/23995,Learning & Development Manager,,,29d
-Reddit,https://web3.career/senior-backend-engineer-nft-platform-reddit/23994,"Senior Backend Engineer, NFT Platform",$70k - $200k,backend:dev:senior:nft,29d
-DFINITY,https://web3.career/observability-engineer-dfinity/23992,Observability Engineer,$60k - $180k,dev,29d
-5ire,https://web3.career/crypto-lawyer-5ire/23991,Crypto Lawyer,$0k,legal:crypto,29d
-ZAUBAR,https://web3.career/internship-software-tester-qa-berlin-germany-zaubar/23990,"Internship: Software Tester (QA) - Berlin, Germany",,intern:entry level:quality assurance:dev,29d
-Bitquery,https://web3.career/support-engineer-in-blockchain-data-analitics-company-bitquery/23989,Support Engineer in Blockchain Data Analitics Company,$0k,dev:customer support:blockchain:javascript,29d
-FPT Deutschland GmbH,https://web3.career/senior-full-stack-developer-m-f-d-fger/23988,Senior Full-Stack Developer (m/f/d),$70k - $180k,dev:full stack:senior,29d
-Virtually Human Studio,https://web3.career/senior-game-economist-remote-vhslab/23987,Senior Game Economist (Remote),$70k - $150k,remote:game dev:senior:nft,29d
-Binance,https://web3.career/senior-ui-ux-product-designer-binance/23986,Senior UI/UX Product Designer,$60k - $120k,design:non tech:senior:remote:solana,29d
-Qubit9 GmbH,https://web3.career/lead-developer-blockchain-m-f-d-qubit9/23985,Lead Developer - Blockchain (m/f/d),$30k - $160k,dev:lead:blockchain:react:solidity,29d
-Technische Hochschule Nürnberg,https://web3.career/professur-fur-das-lehrgebiet-it-sicherheit-technische-hochschule-nurnberg/23984,Professur für das Lehrgebiet IT-Sicherheit,,,29d
-Flow Traders,https://web3.career/digital-assets-trading-operations-engineer-flowtraders/23983,Digital Assets Trading Operations Engineer,,finance:dev:operations:javascript,29d
-Amun 21Shares,https://web3.career/paralegal-amun/23979,Paralegal,,,29d
-Bolide Finance,https://web3.career/digital-marketing-manager-bolide/23469,Digital Marketing Manager,$50k - $100k,marketing:non tech:defi:finance:social media,29d
-BlockX,https://web3.career/golang-blockchain-protocol-developer-blockx-3/23978,Golang Blockchain protocol Developer,$50k - $120k,dev:golang:blockchain,29d
-AE Studio,https://web3.career/growth-marketing-aestudio/23977,Growth Marketing,$55k - $140k,marketing:non tech:nft,29d
-Sygnum Bank AG,https://web3.career/junior-compliance-officer-80-100-sygnum/23976,(Junior) Compliance Officer 80-100%,,compliance:junior:entry level:ethereum,29d
-Obol Technologies Inc,https://web3.career/technical-project-manager-obol-tech/23975,Technical Project Manager,$56k - $150k,project manager:non tech:remote:solidity:ethereum,29d
-Blockdaemon,https://web3.career/tendermint-infrastructure-engineer-blockdaemon/23974,Tendermint Infrastructure Engineer,$65k - $165k,dev:node,29d
-Blockdaemon,https://web3.career/substrate-infrastructure-engineer-blockdaemon/23973,Substrate Infrastructure Engineer,$65k - $165k,dev:node,29d
-Blockdaemon,https://web3.career/platform-programs-lead-blockdaemon/23972,Platform Programs Lead,$60k - $200k,lead,29d
-Blockdaemon,https://web3.career/director-enterprise-architecture-blockdaemon/23971,"Director, Enterprise Architecture",$70k - $180k,executive,29d
-BitGo,https://web3.career/vendor-management-analyst-bitgo/23970,Vendor Management Analyst,$40k - $120k,analyst,29d
-UBIRCH,https://web3.career/senior-sales-business-development-manager-healthcare-f-x-m-germany-ubirch/23969,"Senior Sales & Business Development Manager Healthcare (f/x/m), Germany",$50k - $150k,sales:non tech:senior,29d
-Consensys,https://web3.career/lead-project-manager-consensys/23968,Lead Project Manager,,lead:project manager:non tech:remote:ethereum,29d
-Consensys,https://web3.career/blockchain-systems-engineer-consensys/23967,Blockchain Systems Engineer,,dev:sys admin:blockchain:remote:ethereum,29d
-RECUR,https://web3.career/staff-software-engineer-platform-engineering-recur/23966,Staff Software Engineer - Platform Engineering,$56k - $180k,dev:nft:javascript:node:java,29d
-Blockchain.com,https://web3.career/executive-assistant-blockchain/23965,Executive Assistant,$70k - $180k,executive,29d
-VerticalCrypto Art,https://web3.career/web-content-editor-verticalcrypto-art/23963,Web Content Editor,$25k - $30k,copywriting:remote:non tech:marketing,29d
-FPT Deutschland GmbH,https://web3.career/senior-full-stack-developer-m-f-d-fger/23962,Senior Full-Stack Developer (m/f/d),$70k - $180k,dev:full stack:senior,29d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Consensys,https://web3.career/executive-assistant-consensys/24634,United States,Executive Assistant,$79k - $158k,executive:ethereum,27d
+Wirex Limited,https://web3.career/automation-engineer-wirexlimited/24633,"Lviv,
+Ukraine",Automation Engineer,$60k - $180k,dev,27d
+Okcoin,https://web3.career/sr-product-marketing-manager-okcoin/24632,"San Francisco,
+United States",Sr. Product Marketing Manager,$46k - $109k,marketing:non tech:senior,27d
+BitGo,https://web3.career/associate-counsel-bitgo/24631,"New York,
+United States",Associate Counsel,$24k - $140k,legal,27d
+Samsung Research America Internship,https://web3.career/metaverse-ux-research-design-intern-2022-samsungresearchamericainternship/24630,"Mountain View,
+United States",Metaverse UX Research & Design Intern 2022,$18k - $28k,design:non tech:intern:entry level:metaverse,27d
+Kraken Digital Asset Exchange,https://web3.career/senior-devops-engineer-staked-kraken/24623,Remote,Senior DevOps Engineer - Staked,$120k - $200k,devops:dev:senior:remote:node,27d
+BitSight,https://web3.career/senior-front-end-engineer-bitsight/24622,"Lisbon,
+Portugal",Senior Front End Engineer,$70k - $190k,dev:front end:senior:react:solidity,27d
+Binance,https://web3.career/junior-marketing-analyst-latam-binance/24621,Latin America,Junior Marketing Analyst - Latam,$10k - $13k,analyst:junior:entry level:marketing:non tech,27d
+Braintrust,https://web3.career/senior-web3-blockchain-developer-braintrust/24620,"San Francisco,
+United States",Senior Web3 / Blockchain Developer,$80k - $200k,dev:senior:blockchain:solidity:ethereum,27d
+Parity Technologies,https://web3.career/community-manager-north-america-parity/24618,"New York,
+United States",Community Manager North America,$40k - $100k,community manager:non tech,27d
+Blockchain.com,https://web3.career/senior-counsel-institutional-markets-blockchain/24616,"London,
+United Kingdom",Senior Counsel (Institutional Markets),,legal:senior,27d
+Blockchain.com,https://web3.career/front-end-engineer-blockchain/24615,"Buenos Aires,
+Argentina",Front End Engineer,$50k - $144k,dev:front end:react:javascript:node,27d
+LATOKEN,https://web3.career/head-of-operations-latoken/24614,"London,
+United Kingdom",Head of Operations,$150k - $230k,executive:operations,27d
+Chainalysis,https://web3.career/solutions-architect-presales-chainalysis/24610,"London,
+United Kingdom",Solutions Architect - Presales,$67k - $180k,architecture,27d
+Neeva,https://web3.career/social-media-marketing-and-community-manager-web3-neeva/24608,"Austin,
+United States","Social Media Marketing and Community Manager, web3",$45k - $150k,community manager:non tech:marketing:social media:nft,27d
+KoinBasket,https://web3.career/content-writer-crypto-koinbasket/24607,"Bengaluru,
+India",Content Writer (Crypto),$78k - $13k,copywriting:crypto,27d
+Stardust Cards Corporation,https://web3.career/partnerships-lead-stardust/24606,Remote,Partnerships Lead,,sales:non tech:lead:remote:nft,27d
+IOVLABS,https://web3.career/technical-lead-blockchain-iovlabs/24605,,Technical Lead Blockchain,$96k - $118k,remote:lead:tech lead:blockchain,27d
+Exodus.io,https://web3.career/engineering-manager-application-security-exodus-io/24604,,Engineering Manager (Application Security),$95k - $250k,executive:remote:security,27d
+IOVLABS,https://web3.career/blockchain-developer-iovlabs/24603,,Blockchain Developer,$70k - $190k,remote:dev:blockchain,27d
+Braintrust,https://web3.career/senior-blockchain-engineer-rust-remote-braintrust/24600,"San Francisco,
+United States",Senior Blockchain Engineer (Rust) [Remote],$70k - $180k,remote:dev:rust:senior:blockchain,27d
+"Reach Platform, Inc.",https://web3.career/principal-product-manager-gaming-reachplatforminc/24589,"Boston,
+United States",Principal Product Manager - Gaming,$135k - $160k,game dev:executive:product manager:non tech:nft,27d
+CENNZnet,https://web3.career/backend-developer-cennznet/24548,Remote,Backend Developer,$90k - $170k,backend:dev:remote:blockchain:dapp,27d
+Immutable,https://web3.career/global-head-of-community-immutable/24586,Remote,Global Head of Community,,executive:community manager:non tech:remote:marketing,27d
+Prime Protocol,https://web3.career/senior-solidity-engineer-prime-protocol/24583,"New York,
+United States",Senior Solidity Engineer,$200k - $250k,dev:senior:solidity:ethereum,27d
+Dreo,https://web3.career/blockchain-developer-dreo/24582,"Chicago,
+United States",Blockchain Developer,$70k - $110k,dev:blockchain:solidity:javascript,27d
+"Palm NFT Studio, Inc.",https://web3.career/senior-backend-engineer-palmnftstudioinc/24581,"New York,
+United States",Senior Backend Engineer,$70k - $200k,backend:dev:senior:ethereum:nft,27d
+Consensys,https://web3.career/product-manager-cnft-consensys/24579,Brooklyn,Product Manager (CNFT),$80k - $150k,product manager:non tech:ethereum:nft,27d
+WOO Network,https://web3.career/motion-designer-woonetwork/24578,"Taipei,
+Taiwan",Motion Designer,$50k - $150k,design:non tech,27d
+R3,https://web3.career/market-intelligence-cbdc-intern-r3-com/24577,"London,
+United Kingdom",Market Intelligence (CBDC) Intern,,intern:entry level,27d
+Voodoo,https://web3.career/studios-strategic-operation-manager-hyper-casual-games-voodoo/24576,"Paris,
+France",Studios Strategic Operation Manager - Hyper Casual Games,,,27d
+Ripple,https://web3.career/senior-software-engineer-mlops-ripple/24570,"Toronto,
+Canada","Senior Software Engineer, MLOps",$80k - $200k,dev:senior,27d
+Binance,https://web3.career/fraud-risk-operation-binance/24569,Canada,Fraud & Risk Operation,$95k - $200k,security,27d
+SupraOracles,https://web3.career/content-creator-academic-research-supraoracles/24568,Remote,Content Creator (Academic / Research),$56k - $160k,remote,27d
+Gemini,https://web3.career/senior-data-engineer-gemini/24567,United States,Senior Data Engineer,$130k - $160k,data science:dev:senior:javascript,27d

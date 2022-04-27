@@ -1,36 +1,62 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Vauld,https://web3.career/company-secretary-vauld/9221,Company Secretary,,,5mo
-Vauld,https://web3.career/executive-assistant-to-the-ceo-vauld/9220,Executive Assistant to the CEO,$70k - $180k,executive,5mo
-Vauld,https://web3.career/director-of-banking-partnerships-vauld/9219,Director of Banking Partnerships,$40k - $140k,sales:non tech:finance:executive,5mo
-Vauld,https://web3.career/sdet-ui-app-automation-and-manual-testing-vauld/9218,SDET - (UI/App Automation and Manual Testing),$50k - $150k,design:non tech,5mo
-Vauld,https://web3.career/sdet-backend-automation-and-manual-testing-vauld/9217,SDET - (Backend Automation and Manual Testing),$65k - $180k,backend,5mo
-Vauld,https://web3.career/mobile-developer-vauld/9216,Mobile Developer,$65k - $200k,dev:mobile,5mo
-Vauld,https://web3.career/lead-frontend-engineer-vauld/9215,Lead Frontend Engineer,$56k - $79k,dev:front end:lead:react:javascript,5mo
-Vauld,https://web3.career/frontend-engineer-vauld/9214,Frontend Engineer,$50k - $144k,dev:front end:react:javascript,5mo
-Vauld,https://web3.career/senior-backend-engineer-vauld/9213,Senior Backend Engineer,$70k - $200k,backend:dev:senior:node:golang,5mo
-Vauld,https://web3.career/lead-backend-engineer-vauld/9212,Lead Backend Engineer,$100k - $180k,backend:dev:lead:node:golang,5mo
-Vauld,https://web3.career/lead-ux-designer-vauld/9211,Lead UX Designer,$40k - $190k,design:non tech:lead,5mo
-Vauld,https://web3.career/senior-data-engineer-vauld/9210,Senior Data Engineer,$130k - $160k,data science:dev:senior,5mo
-Vauld,https://web3.career/customer-support-shift-lead-vauld/9209,Customer Support Shift Lead,$25k - $35k,customer support:lead,5mo
-Vauld,https://web3.career/customer-support-quality-analyst-vauld/9208,Customer Support Quality Analyst,$15k - $95k,analyst:customer support,5mo
-Vauld,https://web3.career/customer-support-associate-vauld/9207,Customer Support Associate,$40k - $80k,customer support,5mo
-Torus Labs,https://web3.career/ux-designer-toruslabs/9185,UX Designer,$50k - $150k,design:non tech,5mo
-Torus Labs,https://web3.career/software-development-engineer-in-test-sdet-62k-130k-toruslabs/9184,Software Development Engineer in Test (SDET) - $62k - $130k,$50k - $150k,quality assurance:dev:react:javascript:vue,5mo
-Torus Labs,https://web3.career/full-stack-web-developer-javascript-typescript-golang-92k-160k-toruslabs/9183,Full Stack Web Developer (Javascript/Typescript/Golang) - $92k - $160k,$65k - $134k,dev:full stack:golang:javascript:react,5mo
-Torus Labs,https://web3.career/technical-content-writer-toruslabs/9182,Technical Content Writer,,copywriting:ethereum,5mo
-Torus Labs,https://web3.career/marketing-lead-toruslabs/9181,Marketing Lead,$50k - $120k,lead:marketing:non tech:ethereum,5mo
-Torus Labs,https://web3.career/developer-relations-92k-160k-toruslabs/9180,Developer Relations - $92k - $160k,,customer support:dev:ethereum,5mo
-Torus Labs,https://web3.career/business-development-toruslabs/9179,Business Development,$29k - $43k,sales:non tech:ethereum,5mo
-Rarible,https://web3.career/product-manager-protocol-rarible/9178,Product Manager (Protocol),$69k - $160k,product manager:non tech:nft:remote,5mo
-Rarible,https://web3.career/product-manager-rarible/9177,Product Manager,$69k - $160k,product manager:non tech:nft:remote,5mo
-Rarible,https://web3.career/senior-product-marketing-manager-rarible/9176,Senior Product Marketing Manager,$46k - $109k,marketing:non tech:senior:nft:remote,5mo
-Rarible,https://web3.career/senior-marketing-insights-data-analyst-rarible/9175,Senior Marketing Insights & Data Analyst,,analyst:data science:marketing:non tech:senior,5mo
-Rarible,https://web3.career/partner-marketing-manager-rarible/9174,Partner Marketing Manager,$55k - $140k,marketing:non tech:nft:remote,5mo
-Rarible,https://web3.career/marketing-program-manager-rarible/9173,Marketing Program Manager,$70k - $158k,marketing:non tech:executive:nft:remote,5mo
-Rarible,https://web3.career/integrated-marketing-manager-rarible/9172,Integrated Marketing Manager,$55k - $140k,marketing:non tech:nft:remote,5mo
-Rarible,https://web3.career/event-marketing-manager-rarible/9171,Event Marketing Manager,,events manager:non tech:marketing:nft:remote,5mo
-Rarible,https://web3.career/developer-marketing-manager-rarible/9170,Developer Marketing Manager,$85k - $120k,dev:marketing:non tech:nft:remote,5mo
-Rarible,https://web3.career/senior-machine-learning-engineer-rarible/9169,Senior Machine Learning Engineer,,dev:machine learning:senior:nft,5mo
-Rarible,https://web3.career/devops-rarible/9168,DevOps,$95k - $180k,devops:nft,5mo
-Rarible,https://web3.career/technical-lead-backend-java-kotlin-rarible/9167,Technical Lead Backend (Java/Kotlin),$140k - $180k,backend:java:lead:tech lead:nft,5mo
-Rarible,https://web3.career/senior-qa-engineer-marketplace-rarible/9166,Senior QA Engineer (Marketplace),$30k - $50k,dev:quality assurance:senior:nft:remote,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Paradigm,https://web3.career/office-manager-paradigm-xyz/9696,"San Francisco,
+United States",Office Manager,,,6mo
+Paradigm,https://web3.career/managing-editor-paradigm-xyz/9695,"San Francisco,
+United States",Managing Editor,,,6mo
+Paradigm,https://web3.career/legal-associate-paradigm-xyz/9694,"San Francisco,
+United States",Legal Associate,$24k - $140k,legal,6mo
+Paradigm,https://web3.career/engineering-director-paradigm-xyz/9693,"San Francisco,
+United States",Engineering Director,$70k - $180k,executive,6mo
+Paradigm,https://web3.career/deputy-chief-compliance-officer-paradigm-xyz/9692,"San Francisco,
+United States",Deputy Chief Compliance Officer,,compliance:executive,6mo
+Paradigm,https://web3.career/communications-manager-paradigm-xyz/9691,"San Francisco,
+United States",Communications Manager,$45k - $130k,marketing:non tech,6mo
+Paradigm,https://web3.career/business-operations-associate-paradigm-xyz/9690,"San Francisco,
+United States",Business Operations Associate,$60k - $200k,operations,6mo
+Paradigm,https://web3.career/administrative-assistant-paradigm-xyz/9689,"San Francisco,
+United States",Administrative Assistant,,,6mo
+Paradigm,https://web3.career/investment-associate-paradigm-xyz/9688,"San Francisco,
+United States",Investment Associate,$40k - $150k,finance,6mo
+Offchain Labs,https://web3.career/executive-assistant-offchainlabs/9677,Remote,Executive Assistant,$79k - $158k,executive:ethereum:remote,6mo
+Offchain Labs,https://web3.career/solutions-engineer-offchainlabs/9676,Remote,Solutions Engineer,$60k - $150k,dev:ethereum:remote,6mo
+Offchain Labs,https://web3.career/senior-software-engineer-offchainlabs/9675,Remote,Senior Software Engineer,$80k - $200k,dev:senior:ethereum:remote,6mo
+Offchain Labs,https://web3.career/security-engineer-offchainlabs/9674,Remote,Security Engineer,,dev:security:ethereum:remote,6mo
+Offchain Labs,https://web3.career/qa-engineer-offchainlabs/9673,Remote,QA Engineer,$65k - $150k,dev:quality assurance:ethereum:remote,6mo
+Offchain Labs,https://web3.career/full-stack-engineer-offchainlabs/9672,Remote,Full Stack Engineer,$70k - $140k,dev:full stack:ethereum:remote,6mo
+Offchain Labs,https://web3.career/don-t-see-the-right-role-for-you-apply-here-offchainlabs/9671,Remote,Don't see the right role for you? Apply here!,$60k - $145k,ethereum:remote,6mo
+Offchain Labs,https://web3.career/devops-engineer-offchainlabs/9670,Remote,DevOps Engineer,$95k - $145k,devops:dev:ethereum:remote,6mo
+Nuvalence,https://web3.career/lead-blockchain-engineer-nuvalence/9669,Remote,Lead Blockchain Engineer,$30k - $160k,dev:lead:blockchain:remote,6mo
+Newton,https://web3.career/technical-recruiter-newton/9668,"Toronto,
+Canada",Technical Recruiter,$40k - $70k,recruiter:non tech,6mo
+Newton,https://web3.career/director-marketing-newton/9667,"Toronto,
+Canada","Director, Marketing",$70k - $158k,executive:marketing:non tech,6mo
+Newton,https://web3.career/test-engineer-newton/9666,"Toronto,
+Canada",Test Engineer,$60k - $180k,dev,6mo
+Newton,https://web3.career/site-reliability-engineer-newton/9665,"Vancouver,
+Canada",Site Reliability Engineer,$150k - $200k,dev:sys admin,6mo
+Newton,https://web3.career/senior-software-developer-platform-newton/9664,"Toronto,
+Canada",Senior Software Developer - Platform,$80k - $200k,dev:senior,6mo
+Newton,https://web3.career/senior-backend-developer-newton/9663,"Toronto,
+Canada",Senior Backend Developer,$70k - $200k,backend:dev:senior:node:java,6mo
+Newton,https://web3.career/senior-backend-developer-newton/9662,"Montreal,
+Canada",Senior Backend Developer,$70k - $200k,backend:dev:senior:node:java,6mo
+Newton,https://web3.career/it-technical-support-specialist-newton/9661,"Toronto,
+Canada",IT Technical Support Specialist,$40k - $80k,customer support,6mo
+Newton,https://web3.career/front-end-react-native-engineer-newton/9660,"Vancouver,
+Canada",Front End React Native Engineer,$115k - $120k,dev:front end:react native:mobile:javascript,6mo
+Newton,https://web3.career/front-end-react-native-engineer-newton/9659,"Toronto,
+Canada",Front End React Native Engineer,$115k - $120k,dev:front end:react native:mobile:javascript,6mo
+Newton,https://web3.career/front-end-react-native-engineer-newton/9658,"Montreal,
+Canada",Front End React Native Engineer,$115k - $120k,dev:front end:react native:mobile:javascript,6mo
+Newton,https://web3.career/director-engineering-newton/9657,"Montreal,
+Canada","Director, Engineering",,executive:node:java,6mo
+Newton,https://web3.career/director-engineering-newton/9656,"Toronto,
+Canada","Director, Engineering",,executive:node:java,6mo
+Newton,https://web3.career/data-engineer-newton/9655,"Toronto,
+Canada",Data Engineer,$70k - $160k,data science:dev,6mo
+Newton,https://web3.career/marketing-designer-newton/9654,"Toronto,
+Canada",Marketing Designer,,design:non tech:marketing,6mo
+Newton,https://web3.career/technical-customer-success-specialist-newton/9653,"Toronto,
+Canada",Technical Customer Success Specialist,,customer support:javascript,6mo
+Newton,https://web3.career/onboarding-specialist-newton/9652,"Vancouver,
+Canada",Onboarding Specialist,,,6mo

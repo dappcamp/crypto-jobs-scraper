@@ -1,36 +1,59 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Gemini,https://web3.career/program-manager-compliance-gemini/11069,"Program Manager, Compliance",,compliance:executive,5mo
-Gemini,https://web3.career/lead-program-manager-international-expansion-gemini/11068,"Lead Program Manager, International Expansion",$140k - $200k,lead:executive,5mo
-Gemini,https://web3.career/trading-systems-engineer-gemini/11067,Trading Systems Engineer,,dev:sys admin:scala:java,5mo
-Gemini,https://web3.career/software-development-engineer-in-test-gemini/11066,Software Development Engineer in Test,$50k - $150k,quality assurance:dev,5mo
-Gemini,https://web3.career/senior-software-engineer-retention-gemini/11065,"Senior Software Engineer, Retention",,marketing:non tech:product manager:dev:senior,5mo
-Gemini,https://web3.career/senior-software-engineer-marketing-tech-gemini/11064,Senior Software Engineer: Marketing Tech,$85k - $120k,dev:marketing:non tech:senior:scala,5mo
-Gemini,https://web3.career/senior-software-engineer-compliance-gemini/11063,Senior Software Engineer - Compliance,,compliance:dev:senior:ethereum:scala,5mo
-Gemini,https://web3.career/senior-software-engineer-advanced-trading-gemini/11062,"Senior Software Engineer, Advanced Trading",$80k - $200k,dev:senior:ethereum:scala,5mo
-Gemini,https://web3.career/senior-software-engineer-gemini/11061,Senior Software Engineer,$80k - $200k,dev:senior:ethereum:scala,5mo
-Gemini,https://web3.career/senior-mobile-quality-assurance-engineer-gemini/11060,Senior Mobile Quality Assurance Engineer,$120k - $200k,dev:mobile:senior:ethereum:scala,5mo
-Gemini,https://web3.career/senior-mobile-engineer-react-native-gemini/11059,Senior Mobile Engineer (React Native),$65k - $200k,dev:mobile:react native:javascript:react,5mo
-Gemini,https://web3.career/senior-frontend-engineer-gemini/11058,Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:ethereum,5mo
-Gemini,https://web3.career/manager-software-engineering-gemini/11057,"Manager, Software Engineering",,dev:scala,5mo
-Gemini,https://web3.career/frontend-qa-engineer-gemini/11056,Frontend QA Engineer,,dev:front end:quality assurance:ethereum:scala,5mo
-Gemini,https://web3.career/frontend-engineer-gemini/11055,Frontend Engineer,$50k - $144k,dev:front end:react:ethereum:scala,5mo
-Gemini,https://web3.career/engineering-manager-for-wallet-gemini/11054,Engineering Manager for Wallet,$150k - $180k,executive:scala:java,5mo
-Gemini,https://web3.career/backend-qa-engineer-gemini/11053,Backend QA Engineer,,backend:dev:quality assurance:ethereum:scala,5mo
-Gemini,https://web3.career/technical-lead-trust-security-gemini/11052,"Technical Lead, Trust & Security",,lead:security:tech lead:scala:java,5mo
-Gemini,https://web3.career/staff-cloud-security-engineer-gemini/11051,Staff Cloud Security Engineer,,cloud:dev:security,5mo
-Gemini,https://web3.career/senior-software-engineer-trust-security-gemini/11050,"Senior Software Engineer, Trust & Security",$95k - $250k,dev:security:senior:scala:java,5mo
-Gemini,https://web3.career/senior-frontend-engineer-gemini/11049,Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:ethereum,5mo
-Gemini,https://web3.career/principal-policy-program-strategy-gemini/11048,"Principal, Policy & Program Strategy",$70k - $180k,executive,5mo
-Gemini,https://web3.career/principal-global-real-estate-and-office-services-gemini/11047,"Principal, Global Real Estate and Office Services",$70k - $180k,executive,5mo
-Gemini,https://web3.career/principal-data-engineer-trust-security-gemini/11046,"Principal Data Engineer, Trust & Security",,data science:dev:executive:security:scala,5mo
-Gemini,https://web3.career/head-of-research-gemini/11045,Head of Research,$70k - $180k,executive,5mo
-Gemini,https://web3.career/director-exchange-gemini/11044,"Director, Exchange",$70k - $180k,executive,5mo
-Gemini,https://web3.career/director-derivatives-gemini/11043,"Director, Derivatives",$70k - $180k,executive,5mo
-Gemini,https://web3.career/senior-product-manager-trust-security-gemini/11042,"Senior Product Manager, Trust & Security",,product manager:non tech:security:senior,5mo
-Gemini,https://web3.career/senior-lead-product-manager-earn-gemini/11041,"Senior / Lead Product Manager, Earn",,lead:product manager:non tech:senior,5mo
-Gemini,https://web3.career/product-manager-retail-gemini/11040,"Product Manager, Retail",$69k - $160k,product manager:non tech,5mo
-Gemini,https://web3.career/product-manager-fiat-strategies-accounting-gemini/11039,"Product Manager, Fiat Strategies, Accounting",,accounting:product manager:non tech,5mo
-Gemini,https://web3.career/product-manager-debit-card-gemini/11038,"Product Manager, Debit Card",$80k - $150k,product manager:non tech:ethereum,5mo
-Gemini,https://web3.career/senior-technical-sourcer-gemini/11037,Senior Technical Sourcer,$40k - $70k,recruiter:non tech:senior,5mo
-Gemini,https://web3.career/senior-associate-talent-acquisition-technology-gemini/11036,"Senior Associate, Talent Acquisition (Technology)",$40k - $70k,senior:recruiter:non tech,5mo
-Gemini,https://web3.career/principal-technical-recruiter-gemini/11035,Principal Technical Recruiter,,executive:recruiter:non tech,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Enya.ai,https://web3.career/senior-smart-contract-engineer-enyaai/12130,United States,Senior Smart Contract Engineer,$0k,dev:senior:smart contract:web3js:solidity,5mo
+Monax,https://web3.career/smart-contract-engineer-monaxhq/12129,"New York,
+United States",Smart Contract Engineer,$80k - $140k,dev:smart contract:react:solidity:solana,5mo
+Gemini,https://web3.career/software-engineer-nifty-gateway-smart-contracts-gemini/12128,United States,"Software Engineer, Nifty Gateway - Smart Contracts",$72k - $200k,dev:smart contract:solidity:ethereum,5mo
+PUNDI X LABS,https://web3.career/blockchain-smart-contract-lead-developer-pundi-x-labs-2/12127,"Singapore,
+Singapore",Blockchain/Smart Contract Lead Developer,$30k - $70k,dev:lead:blockchain:smart contract:solana,5mo
+ViewFin Canada,https://web3.career/smart-contract-developer-viewfin-canada/12126,"Toronto,
+Canada",Smart Contract Developer,$75k,dev:smart contract:solidity:ethereum,5mo
+Monax,https://web3.career/smart-contract-engineer-monaxhq/12125,United Kingdom,Smart Contract Engineer,$80k - $134k,dev:smart contract:react:solidity:solana,5mo
+Rubicon,https://web3.career/smart-contract-engineer-rubicon-defi/12124,Remote,Smart Contract Engineer,$0k,dev:smart contract:web3js:ethereum:remote,5mo
+Boom.tv,https://web3.career/nft-smart-contract-engineer-boomtv/12123,"San Francisco,
+United States",NFT Smart Contract Engineer,$150k - $200k,dev:nft:smart contract,5mo
+Steel Perlot,https://web3.career/smart-contract-tech-lead-nft-marketplace-starx-steel-perlot/12122,"Los Angeles,
+United States",Smart Contract Tech Lead — NFT Marketplace (StarX),$180k - $240k,lead:tech lead:nft:smart contract:react,5mo
+ClayStack,https://web3.career/solidity-audit-on-smart-contract-claystack/12121,"Singapore,
+Singapore",Solidity Audit on Smart Contract,$0k,smart contract:solidity,5mo
+Tamago Finance,https://web3.career/smart-contract-engineer-tamago-finance/12120,"Bangkok,
+Thailand",Smart Contract Engineer,$0k,dev:smart contract:solidity:ethereum,5mo
+Snowball Money,https://web3.career/solidity-smart-contracts-developer-snowballmoney/12119,"San Francisco,
+United States",Solidity Smart Contracts Developer,$100k - $180k,dev:smart contract:solidity:solana:ethereum,5mo
+QuillHash Technologies,https://web3.career/blockchain-smart-contract-auditor-quillaudits-solidity-quillhash/12118,"Singapore,
+Singapore",Blockchain Smart Contract Auditor | QuillAudits | Solidity,$26k - $39k,blockchain:smart contract:solidity:nft:javascript,5mo
+dOrg,https://web3.career/smart-contract-engineer-100-remote-dorg-1/12117,United States,Smart Contract Engineer (100% Remote),$80k - $160k,remote:dev:smart contract:solidity,5mo
+Ren Labs,https://web3.career/solidity-smart-contract-developer-ren-labs/12116,India,Solidity/Smart Contract Developer,$15k - $41k,dev:smart contract:solidity:ethereum:javascript,5mo
+PUNDI X LABS,https://web3.career/smart-contract-developer-pundi-x-labs-2/12115,"Singapore,
+Singapore",Smart Contract Developer,$30k - $70k,dev:smart contract:solidity:solana:ethereum,5mo
+Digital Culture Works,https://web3.career/senior-blockchain-smart-contracts-engineer-digital-culture-works/12114,United States,Senior Blockchain Smart Contracts Engineer,$0k,dev:senior:blockchain:smart contract:react,5mo
+Steel Perlot,https://web3.career/smart-contract-tech-lead-digital-fiat-knox-networks-steel-perlot/12113,"Los Angeles,
+United States",Smart Contract Tech Lead — Digital Fiat (Knox Networks),$170k - $220k,lead:tech lead:smart contract:react:solidity,5mo
+Script3,https://web3.career/smart-contract-engineer-script3/12112,United States,Smart Contract Engineer,$100k - $160k,dev:smart contract,5mo
+dApp Auditing & Consulting,https://web3.career/smart-contract-auditing-expert-wanted-exciting-opportunity-dapp-auditing-consulting/12111,Remote,Smart Contract Auditing expert wanted > exciting opportunity!,$12k - $80k,smart contract:solidity:ethereum:remote,5mo
+Fractional.art,https://web3.career/lead-smart-contract-engineer-fractional-art/12110,"New York,
+United States",Lead Smart Contract Engineer,$100k - $145k,dev:lead:smart contract:solidity:solana,5mo
+Tacen,https://web3.career/smart-contracts-engineer-tacen/12109,"Fukuoka,
+Japan",Smart Contracts Engineer,$66k - $96k,dev:smart contract:solidity,5mo
+Maxos,https://web3.career/blockchain-smart-contract-developer-solidity-or-rust-maxos-1/12108,"Boston,
+United States",Blockchain smart contract developer: Solidity or Rust,$70k - $130k,dev:rust:blockchain:smart contract:solidity,5mo
+Geo Web,https://web3.career/smart-contract-or-full-stack-engineer-geo-web/12107,"Denver,
+United States",Smart Contract or Full-Stack Engineer,$0k,dev:full stack:smart contract,5mo
+Fantom Foundation,https://web3.career/smart-contract-developer-fantom-foundation-1/12106,Cayman Islands,Smart Contract Developer,$100k - $150k,dev:smart contract:solidity:ethereum:nft,5mo
+Grayblock Power,https://web3.career/decentralized-finance-smart-contract-developer-grayblock-inc/12105,"Singapore,
+Singapore",Decentralized Finance Smart Contract Developer,$40k - $120k,dev:finance:smart contract:react:solidity,5mo
+Sperax,https://web3.career/smart-contracts-engineer-remote-sperax-1/12104,"New York,
+United States",Smart Contracts Engineer (Remote),$90k - $150k,remote:dev:smart contract:solidity:ethereum,5mo
+KoinsPay,https://web3.career/staff-blockchain-engineer-smart-contract-koinspay/12103,"Kochi,
+India",Staff Blockchain Engineer - Smart Contract,$24k - $36k,dev:blockchain:smart contract:solidity:ethereum,5mo
+Forging Technologies,https://web3.career/blockchain-developper-smart-contract-developper-forging-technologies/12102,"Palo Alto,
+United States",Blockchain Developper/ Smart Contract Developper,$10k - $15k,blockchain:smart contract:ethereum,5mo
+Element Finance,https://web3.career/senior-smart-contract-engineer-element-finance/12101,"New York,
+United States",Senior Smart Contract Engineer,$120k - $180k,dev:senior:smart contract:solidity:ethereum,5mo
+Chainlink Labs,https://web3.career/smart-contract-auditor-chainlink-labs/12100,"Berlin,
+Germany",Smart Contract Auditor,$60k - $110k,smart contract:solidity:golang:remote,5mo
+Cook Protocol,https://web3.career/smart-contract-engineer-cook-protocol-1/12099,United States,Smart Contract Engineer,$90k - $140k,dev:smart contract:react:solidity:ethereum,5mo
+Alchemy,https://web3.career/solidity-smart-contract-engineer-alchemy/12098,"San Francisco,
+United States",Solidity Smart Contract Engineer,$72k - $200k,dev:smart contract:solidity,5mo
+Aave,https://web3.career/smart-contract-auditor-aave/12097,United Kingdom,Smart Contract Auditor,$70k - $200k,smart contract:solidity,5mo
+Polygon(Previously Matic Network),https://web3.career/blockchain-lead-smart-contracts-matic-network/12096,"Bengaluru,
+India",Blockchain Lead (Smart Contracts),$30k - $70k,lead:blockchain:smart contract:solidity:ethereum,5mo

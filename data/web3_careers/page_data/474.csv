@@ -1,36 +1,58 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Cake Pte Ltd,https://web3.career/product-designer-cakedefi/260,Product Designer,$50k - $150k,design:non tech,7mo
-Cake Pte Ltd,https://web3.career/software-engineer-js-cakedefi/259,Software Engineer (JS),$60k - $150k,javascript:dev:web3js:react:ethereum,7mo
-Cake Pte Ltd,https://web3.career/senior-rust-engineer-cakedefi/258,Senior Rust Engineer,$120k - $210k,dev:rust:senior:javascript,7mo
-Cake Pte Ltd,https://web3.career/qa-automation-engineer-cakedefi/257,QA Automation Engineer,$40k - $150k,dev:quality assurance:javascript:node,7mo
-Cake Pte Ltd,https://web3.career/mobile-lead-engineer-cakedefi/256,Mobile Lead Engineer,$140k - $180k,dev:lead:mobile:react:react native,7mo
-Cake Pte Ltd,https://web3.career/information-technology-specialist-cakedefi/255,Information Technology Specialist,$40k - $80k,customer support,7mo
-Cake Pte Ltd,https://web3.career/fullstack-javascript-engineer-cakedefi/254,Fullstack Javascript Engineer,$65k - $180k,dev:full stack:javascript:web3js:react,7mo
-Cake Pte Ltd,https://web3.career/business-intelligence-data-lead-cakedefi/253,Business Intelligence Data Lead,$78k - $180k,lead:javascript,7mo
-Cake Pte Ltd,https://web3.career/head-of-customer-success-cakedefi/252,Head of Customer Success,,executive:customer support,7mo
-Cake Pte Ltd,https://web3.career/senior-manager-affiliate-marketing-cakedefi/251,Senior Manager - Affiliate Marketing,$46k - $109k,marketing:non tech:senior,7mo
-Cake Pte Ltd,https://web3.career/head-of-social-media-community-cakedefi/250,Head of Social Media & Community,$45k - $150k,executive:community manager:non tech:social media,7mo
-Cake Pte Ltd,https://web3.career/head-of-brand-comms-cakedefi/249,Head of Brand & Comms,$70k - $158k,executive:marketing:non tech,7mo
-Cake Pte Ltd,https://web3.career/technical-recruiter-sourcer-cakedefi/248,Technical Recruiter / Sourcer,$40k - $70k,recruiter:non tech,7mo
-Cake Pte Ltd,https://web3.career/finance-accounting-specialist-cakedefi/247,Finance & Accounting Specialist,$120k - $150k,accounting:finance,7mo
-Cake Pte Ltd,https://web3.career/accountant-cakedefi/246,Accountant,$25k - $150k,accounting,7mo
-Blockchain.com,https://web3.career/software-engineer-quality-product-blockchain/245,Software Engineer - Quality (Product),$60k - $155k,dev:javascript:node:java,7mo
-Blockchain.com,https://web3.career/software-engineer-quality-developer-experience-blockchain/244,Software Engineer - Quality (Developer Experience),$60k - $155k,dev:javascript:node:java,7mo
-Blockchain.com,https://web3.career/product-operations-manager-blockchain/243,Product Operations Manager,$60k - $200k,operations,7mo
-Blockchain.com,https://web3.career/talent-acquisition-associate-finance-blockchain/242,Talent Acquisition Associate - Finance,,finance:recruiter:non tech,7mo
-Blockchain.com,https://web3.career/senior-hr-business-partner-blockchain/241,Senior HR Business Partner,,hr:non tech:senior,7mo
-Blockchain.com,https://web3.career/executive-assistant-office-manager-miami-blockchain/240,Executive Assistant / Office Manager (Miami),$70k - $180k,executive,7mo
-Blockchain.com,https://web3.career/executive-assistant-blockchain/239,Executive Assistant,$70k - $180k,executive,7mo
-Blockchain.com,https://web3.career/senior-it-support-engineer-blockchain/238,Senior IT Support Engineer,,dev:senior:customer support,7mo
-Blockchain.com,https://web3.career/trading-operations-us-blockchain/237,Trading Operations (US),$60k - $200k,operations,7mo
-Blockchain.com,https://web3.career/sales-manager-asset-management-blockchain/236,"Sales Manager, Asset Management",$26k - $140k,sales:non tech,7mo
-Blockchain.com,https://web3.career/quantitative-developer-blockchain/235,Quantitative Developer,$60k - $180k,dev,7mo
-Blockchain.com,https://web3.career/quantitative-developer-blockchain/234,Quantitative Developer,$60k - $180k,dev,7mo
-Blockchain.com,https://web3.career/portfolio-analyst-blockchain/233,Portfolio Analyst,,finance:analyst,7mo
-Blockchain.com,https://web3.career/head-of-sales-asset-management-blockchain/232,"Head of Sales, Asset Management",$40k - $150k,executive:sales:non tech,7mo
-Blockchain.com,https://web3.career/institutional-marketing-sales-enablement-blockchain/231,Institutional Marketing & Sales Enablement,$100k - $200k,marketing:non tech:sales,7mo
-Blockchain.com,https://web3.career/senior-counsel-regulatory-blockchain/230,"Senior Counsel, Regulatory",,legal:senior,7mo
-Blockchain.com,https://web3.career/senior-counsel-corporate-blockchain/229,"Senior Counsel, Corporate",,legal:senior,7mo
-Blockchain.com,https://web3.career/product-counsel-blockchain-com-wallet-blockchain/228,Product Counsel (Blockchain.com Wallet),,legal:blockchain,7mo
-Blockchain.com,https://web3.career/director-corporate-m-a-blockchain/227,"Director, Corporate & M&A",$70k - $180k,executive,7mo
-Blockchain.com,https://web3.career/m-a-integration-manager-blockchain/226,M&A Integration Manager,,,7mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+OpenSea,https://web3.career/head-of-security-opensea/923,Remote,Head of Security,$95k - $250k,executive:security:remote,7mo
+OpenSea,https://web3.career/full-stack-engineer-opensea/922,Remote,Full Stack Engineer,$65k - $180k,dev:full stack:react:remote,7mo
+OpenSea,https://web3.career/frontend-engineer-opensea/921,Remote,Frontend Engineer,$50k - $144k,dev:front end:react:remote,7mo
+OpenSea,https://web3.career/engineering-manager-opensea/920,Remote,Engineering Manager,$79k - $200k,executive:remote,7mo
+OpenSea,https://web3.career/backend-engineer-opensea/919,Remote,Backend Engineer,$60k - $180k,backend:dev:remote,7mo
+OpenSea,https://web3.career/developer-community-lead-opensea/918,Remote,Developer Community Lead,,community manager:non tech:dev:lead:remote,7mo
+OpenSea,https://web3.career/community-manager-opensea/917,Remote,Community Manager,$35k - $101k,community manager:non tech:nft:remote,7mo
+OpenSea,https://web3.career/music-partnerships-manager-opensea/916,Remote,Music Partnerships Manager,,sales:non tech:music:nft:remote,7mo
+OpenSea,https://web3.career/director-of-developer-relations-opensea/915,Remote,Director of Developer Relations,,customer support:dev:executive:nft:remote,7mo
+CANDY,https://web3.career/3d-animator-candy/913,"New York,
+United States",3D Animator,,vfx:video,7mo
+Blue Cube Services,https://web3.career/kyc-analyst-contractor-cryptocurrency-bluecubeservices/912,"Hyderabad,
+India",KYC Analyst (Contractor) - Cryptocurrency,,kyc:analyst:crypto,7mo
+Chainalysis,https://web3.career/account-executive-military-intel-chainalysis/911,"Washington,
+United States","Account Executive, Military Intel",$70k - $180k,executive,7mo
+Amun 21Shares,https://web3.career/marketing-manager-amun/909,"Zurich,
+Switzerland",Marketing Manager,$45k - $130k,marketing:non tech,7mo
+Ripple,https://web3.career/technical-community-lead-ripplex-ripple/907,"San Francisco,
+United States","Technical Community Lead, RippleX",$40k - $65k,community manager:non tech:lead,7mo
+Telcoin,https://web3.career/frontend-web-developer-telcoin/901,"Los Angeles,
+United States",Frontend Web Developer,$50k - $144k,dev:front end:react:ethereum:javascript,7mo
+BitMEX,https://web3.career/site-reliability-engineer-monitoring-observability-bitmex/897,"Vancouver,
+Canada",Site Reliability Engineer: Monitoring & Observability,$150k - $200k,dev:sys admin,7mo
+Localcoin,https://web3.career/regional-sales-executive-orlando-fl-localcoin/896,United States,"Regional Sales Executive (Orlando, FL)",$40k - $150k,executive:sales:non tech,7mo
+Polychain Capital,https://web3.career/research-analyst-polychaincapital/894,"San Francisco,
+United States",Research Analyst,$40k - $120k,analyst,7mo
+Chainalysis,https://web3.career/senior-account-executive-west-chainalysis/888,"New York,
+United States","Senior Account Executive, West",$46k - $110k,executive:senior,7mo
+Worldcoin.org,https://web3.career/blockchain-developer-crypto-worldcoinorg/887,,Blockchain Developer (Crypto),$65k - $160k,dev:blockchain:crypto:solidity:ethereum,7mo
+Chainalysis,https://web3.career/senior-engineer-devops-chainalysis/885,"Copenhagen,
+Denmark","Senior Engineer, DevOps",$120k - $200k,devops:dev:senior:ethereum:node,7mo
+Parity Technologies,https://web3.career/head-of-application-security-appsec-parity/884,"Berlin,
+Germany",Head of Application Security (AppSec),,executive:security:javascript:rust:remote,7mo
+Chainalysis,https://web3.career/lead-product-manager-chainalysis/882,"London,
+United Kingdom",Lead Product Manager,,lead:product manager:non tech,7mo
+Ava Labs,https://web3.career/communications-manager-avalabs/880,"New York,
+United States",Communications Manager,$45k - $130k,marketing:non tech,7mo
+Bittrex,https://web3.career/training-and-quality-assurance-specialist-bittrex/879,"Washington,
+United States",Training and Quality Assurance Specialist,,education,7mo
+Bitfury,https://web3.career/chief-revenue-officer-cro-crystal-blockchain-bitfury/874,"London,
+United Kingdom",Chief Revenue Officer (CRO) - Crystal Blockchain,$46k - $200k,executive:blockchain,7mo
+NEAR,https://web3.career/developer-marketing-manager-near/871,"San Francisco,
+United States",Developer Marketing Manager,$85k - $120k,dev:marketing:non tech,7mo
+Okcoin,https://web3.career/internationalization-program-manager-okcoin/866,"San Francisco,
+United States",Internationalization Program Manager,$70k - $180k,executive,7mo
+Mythical Games,https://web3.career/front-end-engineer-mythicalgames/865,"Kansas City,
+United States",Front End Engineer,$50k - $144k,dev:front end:react:javascript:node,7mo
+Galaxy Digital Services,https://web3.career/trading-systems-developer-c-galaxydigitalservices/864,,Trading Systems Developer (C++),$100k - $150k,c:c plus plus:dev,7mo
+Thesis*,https://web3.career/business-development-lead-keep-tbtc-thesis/863,,Business Development Lead - Keep & tBTC,,sales:non tech:lead,7mo
+Bittrex,https://web3.career/account-manager-bittrex/862,"Washington,
+United States",Account Manager,,account manager,7mo
+CoinDesk & TradeBlock Opportunities,https://web3.career/crypto-markets-reporter-coindesk/861,"New York,
+United States",Crypto Markets Reporter,$39k - $140k,crypto,7mo
+0x,https://web3.career/general-counsel-0x/860,"San Francisco,
+United States",General Counsel,,legal:ethereum,7mo
+Parity Technologies,https://web3.career/technical-project-manager-parity/859,"Berlin,
+Germany",Technical Project Manager,$56k - $150k,project manager:non tech:remote,7mo

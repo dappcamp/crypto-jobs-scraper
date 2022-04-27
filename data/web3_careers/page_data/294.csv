@@ -1,36 +1,54 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-GSR,https://web3.career/software-engineer-core-platform-associate-vp-london-gsr/13946,Software Engineer Core Platform - Associate/VP - London,$70k - $300k,dev:executive,4mo
-Bitfury,https://web3.career/construction-engineer-for-bitfury-data-centers-nam-remote-bitfury/13939,"Construction engineer for Bitfury Data Centers (NAM, Remote)",$65k - $180k,remote:dev,4mo
-Bitfury,https://web3.career/construction-engineer-for-bitfury-data-centers-nam-remote-bitfury/13938,"Construction engineer for Bitfury Data Centers (NAM, Remote)",$65k - $180k,remote:dev,4mo
-Crypto.com,https://web3.career/graduate-quant-trader-quant-trading-team-global-fintech-startup-crypto-com/13937,"Graduate Quant Trader, Quant Trading Team - Global Fintech Startup",,intern:entry level:finance:trader:java,4mo
-IO Global,https://web3.career/software-engineer-solidity-python-ioglobal/13936,Software Engineer (Solidity + Python),,dev:python:solidity:ethereum:javascript,4mo
-SwissBorg,https://web3.career/social-media-specialist-cryptonitestv-remote-swissborg/13935,Social Media Specialist (CryptonitesTV) - Remote,$35k - $110k,remote:social media:non tech,4mo
-OnJuno,https://web3.career/backend-developer-onjuno/13933,Backend Developer,$60k - $180k,backend:dev,4mo
-Ramp,https://web3.career/lead-product-designer-rampnetwork/13929,Lead Product Designer,$40k - $190k,design:non tech:lead,4mo
-Ledger,https://web3.career/nft-studio-director-integration-program-lead-ledger/13928,NFT Studio Director & Integration Program Lead,$140k - $200k,executive:lead:nft,4mo
-Vauld,https://web3.career/content-editors-vauld/13926,Content Editors,,,4mo
-Next Big Thing AG,https://web3.career/mobile-developer-nextbigthing/13921,Mobile Developer,$65k - $200k,dev:mobile:javascript:java:remote,4mo
-Ramp,https://web3.career/sales-executive-rampnetwork/13919,Sales Executive,$40k - $150k,executive:sales:non tech,4mo
-Polygon,https://web3.career/head-of-event-polygon/13918,Head of Event,,events manager:non tech:executive:ethereum:remote,4mo
-Ripple,https://web3.career/staff-database-engineer-ripple/13916,Staff Database Engineer,$33k - $113k,dev:ruby,4mo
-Consensys,https://web3.career/womenhack-nyc-consensys/13913,WomenHack NYC,$60k - $145k,ethereum:remote,4mo
-Consensys,https://web3.career/product-marketing-manager-consensys/13912,Product Marketing Manager,$48k - $120k,marketing:non tech:ethereum:remote,4mo
-Consensys,https://web3.career/digital-marketing-associate-consensys/13911,Digital Marketing Associate,$48k - $120k,marketing:non tech:ethereum:remote,4mo
-Consensys,https://web3.career/community-engineer-consensys-protocols-consensys/13910,Community Engineer (ConsenSys Protocols),,community manager:non tech:dev:ethereum:javascript,4mo
-Consensys,https://web3.career/bootcamp-security-auditors-consensys/13909,Bootcamp Security Auditors,$150k - $185k,security:solidity:ethereum:javascript:node,4mo
-Consensys,https://web3.career/academy-operations-lead-consensys/13908,Academy Operations Lead,,lead:operations:ethereum:remote,4mo
-Gnosis,https://web3.career/community-support-manager-m-w-d-gnosis/13907,Community Support Manager (m/w/d),,community manager:non tech:customer support:ethereum:node,4mo
-SwissBorg,https://web3.career/french-customer-service-agent-swissborg/13904,French Customer Service Agent,$40k - $80k,customer support,4mo
-Maple,https://web3.career/operations-manager-maple-finance/13903,Operations Manager,$80k - $110k,operations:remote,4mo
-OKEx,https://web3.career/senior-it-officer-assistant-manager-in-house-okex/13902,Senior IT Officer/ Assistant Manager (in-house),$78k - $200k,senior,4mo
-Bitfury,https://web3.career/senior-backend-developer-go-solidity-bitfury/13901,"Senior Backend Developer (Go, Solidity)",$33k - $160k,backend:dev:golang:senior:solidity,4mo
-Bitcoin.com,https://web3.career/defi-full-stack-engineer-financial-services-bitcoin-com/13900,"DeFi Full Stack Engineer, Financial Services",,dev:finance:full stack:defi:solidity,4mo
-WOO Network,https://web3.career/investment-analyst-woonetwork/13898,Investment Analyst,,analyst:finance,4mo
-Vezgo,https://web3.career/cto-vezgo/13897,CTO,$115k - $150k,remote:executive:crypto:react:react native,4mo
-Crypto.com,https://web3.career/blockchain-security-engineer-backend-javascript-ireland-crypto-com/13896,Blockchain Security Engineer (Backend) - Javascript (Ireland),$65k - $150k,backend:dev:javascript:security:blockchain,4mo
-Homberger Personalberatung für Kommunikation,https://web3.career/content-specialist-80-100-3443293-content-specialist-80-100/13895,Content Specialist (80%-100%),$25k - $96k,marketing:non tech:copywriting:remote,4mo
-Nuri,https://web3.career/customer-support-agent-nuri/13892,Customer Support Agent,$40k - $80k,customer support:remote,4mo
-Binance,https://web3.career/senior-qa-engineer-binance/13891,Senior QA Engineer,$30k - $50k,dev:quality assurance:senior:remote,4mo
-Blockchain.com,https://web3.career/accounting-manager-corporate-accounting-blockchain/13890,Accounting Manager - Corporate Accounting,$25k - $150k,accounting,4mo
-Next Big Thing AG,https://web3.career/cto-and-co-founder-f-m-x-for-zero-defects-our-saas-startup-in-the-field-of-industrial-quality-management-nextbigthing/13889,"CTO and co-founder (f/m/x) for ZERO defects, our SaaS startup in the field of industrial quality management",,executive:saas:remote:cto,4mo
-Stacked,https://web3.career/principal-software-engineer-mobile-stacked-invest/13887,Principal Software Engineer - Mobile,,dev:mobile:executive:remote,4mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Gnosis,https://web3.career/office-manager-m-w-d-gnosis/14668,"Berlin,
+Germany",Office Manager (m/w/d),$60k - $145k,ethereum:remote,4mo
+Energi Core Limited,https://web3.career/business-development-specialist-energicorelimited/14667,"New York,
+United States",Business Development Specialist,$29k - $43k,sales:non tech:ethereum,4mo
+Energi Core Limited,https://web3.career/business-development-generalist-energicorelimited/14666,"New York,
+United States",Business Development Generalist,$29k - $43k,sales:non tech:ethereum:nft,4mo
+Kronos Research,https://web3.career/software-engineer-c-kronosresearch/14664,"Taipei,
+Taiwan","Software Engineer, C++",$100k - $150k,c:c plus plus:dev,4mo
+Consensys,https://web3.career/technical-support-engineer-metamask-consensys/14663,Remote,Technical Support Engineer (MetaMask),,dev:customer support:ethereum:remote,4mo
+Consensys,https://web3.career/senior-mobile-engineer-web3-consensys/14662,Remote,Senior Mobile Engineer - Web3,$120k - $200k,dev:mobile:senior:react:react native,4mo
+Consensys,https://web3.career/product-marketing-manager-consensys/14661,Remote,Product Marketing Manager,$48k - $120k,marketing:non tech:ethereum:node:java,4mo
+Consensys,https://web3.career/help-desk-agent-consensys/14660,Romania,Help Desk Agent,,customer support:ethereum,4mo
+Consensys,https://web3.career/developer-community-manager-consensys/14659,Remote,Developer community manager,,community manager:non tech:dev:ethereum:remote,4mo
+Consensys,https://web3.career/data-analyst-consensys/14658,Remote,Data Analyst,,analyst:data science:ethereum:remote,4mo
+Consensys,https://web3.career/customer-success-manager-americas-consensys/14657,Remote,Customer Success Manager (Americas),,sales:non tech:customer support:ethereum:remote,4mo
+Consensys,https://web3.career/community-support-manager-consensys/14656,Remote,Community Support Manager,,community manager:non tech:customer support:ethereum:remote,4mo
+Consensys,https://web3.career/community-moderator-consensys/14655,"Hong Kong,
+Hong Kong",Community Moderator,$15k - $30k,community manager:non tech:ethereum,4mo
+Consensys,https://web3.career/applied-researcher-cryptography-consensys/14654,Remote,Applied Researcher - Cryptography,,data science:ethereum:rust:remote,4mo
+Crypto.com,https://web3.career/senior-influencer-marketing-manager-north-america-crypto-com/14653,United States,"Senior Influencer Marketing Manager, North America",$46k - $109k,marketing:non tech:senior:nft,4mo
+Immutable,https://web3.career/expression-of-interest-product-manager-immutable/14651,Remote,Expression of Interest - Product Manager,$80k - $150k,product manager:non tech:ethereum:remote,4mo
+Ripple,https://web3.career/staff-software-engineer-data-services-ripple/14650,"San Francisco,
+United States","Staff Software Engineer, Data Services",$33k - $145k,dev:node:java,4mo
+Ripple,https://web3.career/senior-software-engineering-manager-data-services-ripple/14649,"San Francisco,
+United States","Senior Software Engineering Manager, Data Services",$60k - $250k,executive:senior:dev,4mo
+Tron,https://web3.career/senior-frontend-webrtc-engineer-rainberry/14645,"San Francisco,
+United States",Senior Frontend & WebRTC Engineer,$70k - $190k,dev:front end:senior:react:javascript,4mo
+Tron,https://web3.career/blockchain-engineer-rainberry/14644,"San Francisco,
+United States",Blockchain Engineer,$52k - $160k,dev:blockchain:solidity:golang,4mo
+Binance,https://web3.career/transaction-monitoring-team-lead-binance/14643,"Singapore,
+Singapore",Transaction Monitoring Team Lead,$60k - $200k,lead,4mo
+Binance,https://web3.career/strategy-data-analyst-binance/14642,Remote,Strategy Data Analyst,$45k - $120k,analyst:data science:remote,4mo
+Binance,https://web3.career/community-manager-francophone-africa-binance/14641,Remote,Community Manager (Francophone Africa),$40k - $101k,community manager:non tech:remote,4mo
+SORAMITSU,https://web3.career/head-of-ecosystem-growth-remote-soramitsu/14640,"Tokyo,
+Japan",Head of Ecosystem Growth (Remote),$45k - $158k,executive:remote:marketing:non tech:rust,4mo
+Okcoin,https://web3.career/content-design-manager-okcoin/14639,"San Francisco,
+United States",Content Design Manager,,executive:design:non tech,4mo
+Stockbit,https://web3.career/product-manager-crypto-stockbit/14638,"Jakarta,
+Indonesia",Product Manager - Crypto,$60k - $160k,product manager:non tech:crypto,4mo
+Crypto.com,https://web3.career/employment-counsel-us-crypto-com/14637,"Miami,
+United States",Employment Counsel (US),,legal:nft,4mo
+Crypto.com,https://web3.career/human-resources-generalist-global-fintech-startup-crypto-com/14636,"Miami,
+United States",Human Resources Generalist - Global Fintech Startup,$120k - $225k,finance:nft,4mo
+IOTA Foundation,https://web3.career/site-reliability-engineer-iota/14635,Remote,Site Reliability Engineer,$150k - $200k,dev:sys admin:golang:remote,4mo
+IOTA Foundation,https://web3.career/mobile-app-developer-android-and-or-ios-firefly-iota/14634,Remote,Mobile App Developer (Android and/or iOS) - Firefly,,android:mobile:dev:ios:react,4mo
+Immutable,https://web3.career/product-designer-immutable/14633,"Sydney,
+Australia",Product Designer,$80k - $150k,design:non tech:ethereum:nft,4mo
+Crypto.com,https://web3.career/golang-developer-defi-wallet-uk-crypto-com/14632,United Kingdom,Golang Developer (DeFi Wallet) - UK,$90k - $150k,dev:golang:defi:nft,4mo
+FinTech Collective,https://web3.career/summer-venture-associate-fintech/14630,"New York,
+United States",Summer Venture Associate,,,4mo
+Mojito,https://web3.career/technical-writer-mojito/14628,United States,Technical Writer,$36k - $120k,analyst:nft,4mo
+BitGo,https://web3.career/technical-support-engineer-bitgo/14627,"Singapore,
+Singapore",Technical Support Engineer,$90k - $140k,dev:customer support,4mo

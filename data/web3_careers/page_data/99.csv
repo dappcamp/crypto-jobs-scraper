@@ -1,36 +1,54 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Caiz Development GmbH,https://web3.career/chief-financial-officer-caiz-development/22593,Chief Financial Officer,$40k - $225k,executive:finance:remote,1mo
-Crystal Blockchain Analytics,https://web3.career/intelligence-trends-and-analysis-manager-crystal-remote-crystal/22592,Intelligence Trends and Analysis Manager - Crystal (Remote),$56k - $160k,remote,1mo
-Chain,https://web3.career/data-scientist-chain/22591,Data Scientist,$50k - $135k,data science:remote,1mo
-bloXroute Labs,https://web3.career/marketing-associate-remote-blox-route/22590,Marketing Associate (remote),$25k - $120k,remote:marketing:non tech:ethereum,1mo
-Qubit9 GmbH,https://web3.career/lead-developer-blockchain-m-f-d-qubit9/22589,Lead Developer - Blockchain (m/f/d),$30k - $160k,dev:lead:blockchain:react:solidity,1mo
-Upside,https://web3.career/devops-engineer-upside/22588,DevOps Engineer,$120k - $200k,devops:dev:solana:ethereum:ruby,1mo
-Stellar Development Foundation,https://web3.career/legal-counsel-stellar/22587,Legal Counsel,$24k - $140k,legal,1mo
-Stellar Development Foundation,https://web3.career/legal-counsel-stellar/22586,Legal Counsel,$24k - $140k,legal,1mo
-BlockFi,https://web3.career/operations-analyst-blockfi/22585,Operations Analyst,,analyst:operations,1mo
-Nuri,https://web3.career/working-student-affiliate-marketing-nuri/22584,Working Student Affiliate Marketing,$25k - $120k,marketing:non tech:remote,1mo
-UBIRCH,https://web3.career/scala-backend-developer-m-f-d-ubirch/22583,SCALA BACKEND DEVELOPER (M/F/D),,backend:dev:scala:remote,1mo
-RECUR,https://web3.career/senior-motion-designer-recur/22582,Senior Motion Designer,$60k - $120k,design:non tech:senior:ethereum:nft,1mo
-IOTA Foundation,https://web3.career/product-designer-iota/22581,Product Designer,$50k - $135k,design:non tech:remote,1mo
-Realto Group,https://web3.career/blockchain-engineer-silicon-valley-usa-fintech-and-metaverse-startup-bangalore-india-realto-group-1/22579,"Blockchain Engineer - Silicon Valley, USA - Fintech and Metaverse Startup - Bangalore, India",$15k - $26k,dev:finance:metaverse:blockchain:solidity,1mo
-qiibee,https://web3.career/junior-sales-rock-star-qiibee/22578,Junior Sales Rock-star,$78k - $93k,junior:entry level:sales:non tech:remote,1mo
-Ripple,https://web3.career/tax-manager-transfer-pricing-ripple/22577,"Tax Manager, Transfer Pricing",$25k - $150k,accounting,1mo
-Ripple,https://web3.career/director-of-international-reporting-and-consolidations-ripple/22576,Director of International Reporting and Consolidations,$70k - $180k,executive,1mo
-Ripple,https://web3.career/senior-software-engineer-ripplenet-platform-services-ripple/22575,"Senior Software Engineer, RippleNet Platform Services",$50k - $200k,dev:senior:java,1mo
-Idoru Capital Management,https://web3.career/market-and-financial-analyst-in-crypto-and-finance-idoru-capital-management/22574,Market and Financial Analyst in Crypto and Finance,$0k,analyst:finance:crypto,1mo
-Hiro,https://web3.career/frontend-engineer-user-experience-hiro/22572,"Frontend Engineer, User Experience",,dev:front end:design:non tech:remote,1mo
-Okcoin,https://web3.career/accounting-analyst-okcoin/22571,Accounting Analyst,$50k - $70k,accounting:analyst,1mo
-BlockFi,https://web3.career/fraud-data-scientist-blockfi/22569,Fraud Data Scientist,,data science:security,1mo
-Timeswap Labs,https://web3.career/chief-marketing-officer-defi-full-time-timeswap-labs/22568,Chief Marketing Officer - DeFi (Full Time),$0k,executive:full time:marketing:non tech:defi,1mo
-FPT Deutschland GmbH,https://web3.career/service-delivery-manager-m-f-d-fger/22567,Service Delivery Manager (m/f/d),$95k - $300k,dev:executive:remote,1mo
-Valora Inc,https://web3.career/director-of-business-development-valorainc/22566,Director of Business Development,$40k - $150k,sales:non tech:executive,1mo
-Ripple,https://web3.career/senior-accountant-compensation-equity-ripple/22565,"Senior Accountant, Compensation & Equity",$80k - $110k,accounting:senior,1mo
-Protocol Labs,https://web3.career/community-operations-manager-orbit-program-protocollabs/22564,Community Operations Manager (Orbit Program),,community manager:non tech:operations:remote,1mo
-Bitcoin Depot,https://web3.career/software-development-manager-bitcoindepot/22563,Software Development Manager,$57k - $140k,dev:react:ethereum:node,1mo
-Clarity Protocol,https://web3.career/senior-fullstack-developer-solidity-clarity-protocol/22562,"Senior Fullstack Developer , Solidity",$60k - $100k,dev:full stack:senior:solidity:react,1mo
-Vegavid Technology,https://web3.career/blockchain-content-writer-vegavid-technology/22561,Blockchain Content Writer,$4k - $6k,copywriting:blockchain,1mo
-Parity Technologies,https://web3.career/copywriter-parity/22560,Copywriter,$25k - $30k,copywriting:remote,1mo
-bloXmove,https://web3.career/softwaretester-m-f-d-bloxmove/22558,Softwaretester (m/f/d),$56k - $160k,remote,1mo
-Parity Technologies,https://web3.career/social-media-manager-parity/22557,Social Media Manager,$35k - $110k,social media:non tech:remote,1mo
-peaq,https://web3.career/product-designer-m-w-d-peaq/22556,Product Designer (m/w/d),$50k - $135k,design:non tech:remote,1mo
-Symbridge,https://web3.career/technical-support-engineer-symbridge/22555,Technical Support Engineer,,dev:customer support:remote,1mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+"Reach Platform, Inc.",https://web3.career/partnerships-sales-manager-reachplatforminc/23168,"Boston,
+United States",Partnerships & Sales Manager,$26k - $140k,sales:non tech,1mo
+Consensys,https://web3.career/technical-content-writer-consensys/23167,Remote,Technical Content Writer,,copywriting:remote:ethereum,1mo
+Consensys,https://web3.career/service-delivery-manager-consensys/23166,Remote,Service Delivery Manager,$95k - $300k,dev:executive:remote:ethereum,1mo
+Consensys,https://web3.career/node-js-backend-engineer-consensys/23165,Remote,Node.js Backend Engineer,$65k - $150k,javascript:backend:dev:node:remote,1mo
+Consensys,https://web3.career/fullstack-engineer-consensys/23164,Remote,Fullstack engineer,$70k - $200k,dev:full stack:remote:web3js:react,1mo
+Consensys,https://web3.career/front-end-engineer-consensys/23163,Remote,Front-end Engineer,$22k - $120k,dev:front end:remote:react:react native,1mo
+Consensys,https://web3.career/business-analyst-consensys/23162,Remote,Business Analyst,$45k - $55k,analyst:remote:ethereum,1mo
+Okcoin,https://web3.career/listings-operations-okcoin/23161,"San Francisco,
+United States",Listings Operations,$60k - $200k,operations,1mo
+Dark Matter Ventures,https://web3.career/blockchain-developer-dark-matter-ventures/23159,United Kingdom,Blockchain developer,$150k - $200k,dev:blockchain:solidity:java:rust,1mo
+AMUZED,https://web3.career/entrepreneur-in-residence-crypto-m-f-d-amuzed/23158,"Berlin,
+Germany",Entrepreneur in Residence - Crypto (m/f/d),$45k - $158k,crypto:remote:nft,1mo
+Silo Finance,https://web3.career/senior-front-end-engineer-280k-year-silo-finance/23154,Remote,Senior Front-End Engineer ($280K / Year),$140k - $180k,dev:front end:react:javascript:senior,1mo
+CoinDesk & TradeBlock Opportunities,https://web3.career/photo-editor-coindesk/23157,"New York,
+United States",Photo Editor,,,1mo
+AMUZED,https://web3.career/business-development-intern-crypto-m-f-d-amuzed/23153,"Berlin,
+Germany",Business Development Intern - Crypto (m/f/d),$29k - $43k,sales:non tech:intern:entry level:crypto,1mo
+Voice,https://web3.career/senior-project-manager-voice/23150,"New York,
+United States",Senior Project Manager,,project manager:non tech:senior:nft,1mo
+Ultra,https://web3.career/senior-data-analyst-tallinn-or-remote-in-europe-ultra/23149,"Tallinn,
+Estonia",Senior Data Analyst - Tallinn or Remote in Europe -,$45k - $120k,remote:analyst:data science:senior,1mo
+BlockFi,https://web3.career/senior-associate-retail-strategy-blockfi/23146,"New York,
+United States","Senior Associate, Retail Strategy",$78k - $200k,senior,1mo
+Binance,https://web3.career/internal-audit-team-leader-customer-service-binance/23145,Remote,Internal Audit Team Leader (Customer Service),$25k - $35k,customer support:lead:remote,1mo
+Terraform Labs,https://web3.career/developer-relations-engineer-terra/23144,Remote,Developer Relations Engineer,,customer support:dev:remote:react:rust,1mo
+Concept Art House,https://web3.career/director-of-finance-and-accounting-conceptarthouse/23143,"San Francisco,
+United States",Director of Finance and Accounting,$120k - $150k,accounting:executive:finance,1mo
+Voodoo,https://web3.career/data-product-manager-voodoo/23142,"Paris,
+France",Data Product Manager,$69k - $160k,product manager:non tech,1mo
+Terraform Labs,https://web3.career/developer-documentation-writer-terra/23141,Remote,Developer Documentation Writer,,dev:analyst:remote,1mo
+Ethereum Foundation,https://web3.career/l2-security-engineer-remote-full-or-part-time-ethereumfoundation/23140,Remote,L2 Security Engineer | Remote | Full or Part time,,remote:dev:part time:security:ethereum,1mo
+Sygnum Bank AG,https://web3.career/senior-product-manager-tokenization-sygnum/23139,Switzerland,Senior Product Manager - Tokenization,$80k - $150k,product manager:non tech:senior:ethereum,1mo
+Ethereum Foundation,https://web3.career/zkp-security-engineer-remote-full-or-part-time-ethereumfoundation/23138,Remote,ZKP Security Engineer | Remote | Full or Part time,,remote:dev:part time:security:ethereum,1mo
+Binance,https://web3.career/training-coordinator-binance/23137,"Singapore,
+Singapore",Training Coordinator,,education,1mo
+Terraform Labs,https://web3.career/front-end-engineer-anchor-terra/23136,Remote,Front End Engineer (Anchor),$22k - $120k,dev:front end:remote,1mo
+Concept Art House,https://web3.career/sales-operations-manager-conceptarthouse/23135,"San Francisco,
+United States",Sales Operations Manager,,operations:sales:non tech,1mo
+XBTO,https://web3.career/associate-full-stack-engineer-xbto/23134,"Paris,
+France",Associate Full Stack Engineer,$65k - $180k,dev:full stack,1mo
+DFINITY,https://web3.career/engineering-manager-testing-verification-dfinity/23133,"Zurich,
+Switzerland",Engineering Manager - Testing & Verification,$70k - $180k,executive,1mo
+Immutable,https://web3.career/test-automation-lead-immutable/23130,"Sydney,
+Australia",Test Automation Lead,$60k - $200k,lead,1mo
+XBTO,https://web3.career/it-manager-xbto/23129,Remote,IT Manager,$79k - $200k,executive:remote,1mo
+Terraform Labs,https://web3.career/ecosystem-growth-terra/23128,Remote,Ecosystem Growth,$25k - $120k,marketing:non tech:remote,1mo
+XBTO,https://web3.career/quantitative-research-analyst-intern-xbto/23126,"New York,
+United States",Quantitative Research Analyst - Intern,$20k - $30k,analyst:intern:entry level,1mo
+GOGO Protocol,https://web3.career/product-manager-cryptogogos/23124,"Berlin,
+Germany",Product Manager,$60k - $160k,product manager:non tech:crypto:remote:nft,1mo
+Injective Labs,https://web3.career/graphic-designer-injectivelabs/23123,"New York,
+United States",Graphic Designer,$50k - $150k,design:non tech,1mo

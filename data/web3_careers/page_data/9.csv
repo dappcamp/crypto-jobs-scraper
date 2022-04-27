@@ -1,36 +1,60 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Mem Protocol,https://web3.career/senior-frontend-engineer-mem/26240,Senior Frontend Engineer,$70k - $200k,dev:front end:senior:react:react native,3d
-Coinbase,https://web3.career/group-product-manager-nft-coinbase/26239,"Group Product Manager, NFT",$67k - $160k,product manager:non tech:nft:remote,3d
-AUGUST,https://web3.career/web3-smart-contract-developer-august/26238,Web3/Smart Contract Developer,$80k - $100k,dev:smart contract:remote:solidity:node,3d
-August,https://web3.career/fullstack-solana-engineer-august/26237,FullStack Solana Engineer,$80k - $100k,dev:full stack:remote:rust:nft,3d
-Polygon,https://web3.career/hr-manager-edao-polygon/26235,"HR Manager, eDAO",$60k - $120k,hr:non tech:remote:ethereum:nft,3d
-Messari,https://web3.career/crypto-research-analyst-messari/26234,Crypto Research Analyst,$20k - $120k,analyst:crypto,3d
-"Palm NFT Studio, Inc.",https://web3.career/product-owner-palmnftstudioinc/26233,Product Owner,$80k - $150k,product manager:non tech:ethereum:nft,3d
-XAEGIR,https://web3.career/blockchain-engineer-xaegir/26231,Blockchain Engineer,$10k - $13k,dev:blockchain:solidity:ethereum:nft,4d
-Binance,https://web3.career/policy-officer-eu-binance/26230,Policy Officer EU,$50k - $150k,,4d
-XAEGIR,https://web3.career/blockchain-product-manager-xaegir/26229,Blockchain Product Manager,$10k - $13k,product manager:non tech:blockchain:nft,4d
-Crossmint.io | Making NFT's Accessible to Everyone,https://web3.career/senior-backend-developer-crossmint/26228,Senior Backend Developer,$70k - $200k,backend:dev:senior:web3js:solana,4d
-CRASTONIC,https://web3.career/sr-blockchain-nodejs-solidity-engineer-team-lead-crastonic/26227,"Sr. Blockchain (nodeJS / Solidity) Engineer, Team Lead",$13k - $69k,dev:lead:javascript:node:senior,4d
-capital.com,https://web3.career/system-devops-engineer-capital/26226,System/DevOps Engineer,$60k - $180k,devops:dev,4d
-PDAX,https://web3.career/full-stack-engineer-business-automation-remote-pdax/26225,Full-Stack Engineer — Business Automation (Remote),$70k - $200k,remote:dev:full stack:react,4d
-Nexo,https://web3.career/technical-recruiter-nexo/26224,Technical Recruiter,$40k - $70k,recruiter:non tech,4d
-Binance,https://web3.career/finance-manager-reporting-binance/26223,Finance Manager (Reporting),$40k - $150k,finance,4d
-Ripple,https://web3.career/senior-manager-software-engineering-ripplex-ripple/26221,"Senior Manager, Software Engineering, RippleX",$80k - $200k,senior:dev:javascript:java,4d
-Ripple,https://web3.career/technical-writer-ripplex-ripple/26220,"Technical Writer, RippleX",,analyst:node:java,4d
-AIDENTITY,https://web3.career/team-of-full-stack-developers-with-blockchain-experience-not-mandatory-aidentity-2/26219,Team of Full Stack Developers with Blockchain experience (not mandatory),$0k,full stack:blockchain,4d
-capital.com,https://web3.career/java-blockchain-developer-capital/26218,Java Blockchain Developer,$26k - $87k,dev:java:blockchain,4d
-Terraform Labs,https://web3.career/crypto-prop-operations-trader-terra/26217,Crypto Prop/Operations Trader,,operations:trader:crypto:remote:ethereum,4d
-Ripple,https://web3.career/senior-technical-writer-ripplex-ripple/26216,"Senior Technical Writer, RippleX",,senior:analyst:node:java,4d
-NodeReal,https://web3.career/business-development-manager-nodereal/26215,Business Development Manager,$29k - $108k,sales:non tech:remote,4d
-capital.com,https://web3.career/chief-compliance-officer-capital/26214,Chief Compliance Officer,,compliance:executive,4d
-Salad Technologies,https://web3.career/rewards-manager-saladtechnologies/26213,Rewards Manager,$60k - $146k,remote:ethereum,4d
-SOUTHWORKS,https://web3.career/staff-software-engineer-net-azure-react-js-southworks/26212,Staff Software Engineer (.NET/Azure/React.js),,javascript:dot net:dev:react:solidity,4d
-Decent,https://web3.career/front-end-engineer-decent/26209,Front-End Engineer,$30k - $140k,dev:front end:remote:nft,4d
-NodeReal,https://web3.career/junior-senior-blockchain-developer-nodereal/26208,Junior/Senior Blockchain Developer,$45k - $180k,dev:junior:entry level:senior:blockchain,4d
-NodeReal,https://web3.career/junior-senior-blockchain-infrastructure-backend-developer-nodereal/26207,Junior/Senior Blockchain Infrastructure Backend Developer,$28k - $39k,backend:dev:junior:entry level:senior,4d
-Finoa GmbH,https://web3.career/backend-engineer-berlin-porto-m-f-d-finoagmbh/26206,Backend Engineer - Berlin/Porto (m/f/d),$55k - $180k,backend:dev,4d
-Voodoo,https://web3.career/lead-influence-marketing-manager-voodoo/26205,Lead Influence Marketing Manager,$50k - $120k,lead:marketing:non tech,4d
-SupraOracles,https://web3.career/illustrator-technical-infographics-remote-supraoracles/26203,"Illustrator - Technical, Infographics (Remote)",,remote:illustrator,4d
-Campground,https://web3.career/web3-community-manager-joincampground/26200,Web3 Community Manager,$95k - $105k,community manager:non tech:nft,4d
-Otter PR,https://web3.career/tech-finance-crypto-defi-writer-otter-pr-remote-option-otter-pr/26199,"Tech, Finance, Crypto, DeFi Writer - Otter PR - Remote Option",$25k - $120k,marketing:non tech:remote:finance:crypto,4d
-Spruce,https://web3.career/software-engineer-full-stack-sprucesystems/26197,"Software Engineer, Full Stack",$65k - $200k,dev:full stack,4d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+SoundMint,https://web3.career/graphic-designer-soundmint-soundmint/26811,Remote,"Graphic Designer, SoundMint",$40k - $60k,design:non tech:remote:after effects:art direction,4d
+Polygon,https://web3.career/business-development-manager-eu-polygon/26810,Europe,Business Development Manager – EU,$29k - $43k,sales:non tech:ethereum,4d
+Crypto.com,https://web3.career/blockchain-engineer-external-tools-crypto/26808,"Hong Kong,
+Hong Kong",Blockchain Engineer (External Tools),$50k - $160k,dev:blockchain,4d
+Crypto.com,https://web3.career/art-director-nft-global-fintech-startup-crypto/26807,"Tokyo,
+Japan",Art Director (NFT) - Global Fintech Startup,$120k - $225k,executive:finance:nft,4d
+Figure,https://web3.career/institutional-client-relationship-manager-figure/26806,"San Francisco,
+United States",Institutional Client Relationship Manager,$45k - $125k,marketing:non tech,4d
+HydraNet,https://web3.career/solidity-engineer-evm-hydranet/26805,Antarctica,Solidity Engineer (EVM),$0k,dev:solidity,4d
+CLV,https://web3.career/web3-researcher-defi-gamefi-socialfi-clv-2/26804,"Singapore,
+Singapore",Web3 Researcher (Defi/Gamefi/Socialfi),$48k - $60k,defi,4d
+TipTop,https://web3.career/blockchain-engineer-tiptop/26803,Remote,Blockchain Engineer,$160k - $260k,dev:blockchain:remote:smart contract:backend,4d
+ATTN,https://web3.career/infrastructure-software-engineering-lead-attn/26802,"Jakarta,
+Indonesia",Infrastructure Software Engineering Lead,$90k - $200k,lead:dev,4d
+Crypto.com,https://web3.career/strategy-new-ventures-manager-management-consulting-global-fintech-startup-crypto/26801,"Hong Kong,
+Hong Kong",Strategy & New Ventures Manager (Management Consulting) - Global Fintech Startup,,consulting:finance,4d
+Crypto.com,https://web3.career/research-analyst-investment-strategy-sellside-global-fintech-startup-crypto/26800,"Hong Kong,
+Hong Kong",Research Analyst (Investment Strategy - Sellside) - Global Fintech Startup,,analyst:finance,4d
+Crypto.com,https://web3.career/head-of-finance-turkey-global-fintech-startup-crypto/26799,"Istanbul,
+Turkey","Head of Finance, Turkey - Global Fintech Startup",$90k - $180k,executive:finance,4d
+Crypto.com,https://web3.career/seo-aso-specialist-global-fintech-startup-crypto/26798,"Hong Kong,
+Hong Kong",SEO & ASO Specialist - Global Fintech Startup,,finance:seo:non tech,4d
+Crypto.com,https://web3.career/legal-counsel-global-fintech-startup-jp-crypto/26797,"Tokyo,
+Japan",Legal Counsel - Global Fintech Startup (JP),,legal:finance,4d
+Crypto.com,https://web3.career/site-reliability-engineer-crypto/26796,"Hong Kong,
+Hong Kong",Site Reliability Engineer,$150k - $200k,dev:sys admin,4d
+Crypto.com,https://web3.career/senior-frontend-developer-chrome-extension-tw-crypto/26795,Taiwan,Senior Frontend Developer (Chrome Extension) - TW,$70k - $200k,dev:front end:senior,4d
+Crypto.com,https://web3.career/frontend-developer-price-page-pay-sg-crypto/26794,"Singapore,
+Singapore",Frontend Developer (Price Page /Pay) - SG,$50k - $150k,dev:front end,4d
+Crypto.com,https://web3.career/data-project-coordinator-global-fintech-startup-crypto/26793,"Hong Kong,
+Hong Kong",Data Project Coordinator - Global Fintech Startup,$40k - $175k,finance,4d
+Crypto.com,https://web3.career/frontend-developer-exchange-tw-crypto/26792,Taiwan,Frontend Developer (Exchange) - TW,$50k - $150k,dev:front end,4d
+Crypto.com,https://web3.career/trading-risk-manager-quant-trading-global-fintech-startup-crypto/26791,"Hong Kong,
+Hong Kong","Trading Risk Manager, Quant Trading - Global Fintech startup",$40k - $175k,finance,4d
+Crypto.com,https://web3.career/product-designer-design-ops-uxui-global-fintech-startup-crypto/26790,"Hong Kong,
+Hong Kong",Product Designer - Design Ops (UXUI) - Global Fintech Startup,,design:non tech:finance,4d
+Crypto.com,https://web3.career/lead-developer-full-stack-new-ventures-global-fintech-startup-crypto/26789,Taiwan,"Lead Developer (Full-Stack), New Ventures - Global Fintech startup",,dev:finance:full stack:lead,4d
+Crypto.com,https://web3.career/senior-infosec-assurance-manager-us-crypto/26788,United States,Senior InfoSec Assurance Manager (US),$95k - $250k,security:senior,4d
+SupraOracles,https://web3.career/ux-researcher-supraoracles/26787,Remote,UX Researcher,$50k - $150k,design:non tech:remote,4d
+OpenSea,https://web3.career/sr-manager-corporate-development-opensea/26786,Remote,"Sr. Manager, Corporate Development",$85k - $200k,senior:remote,4d
+OpenSea,https://web3.career/staff-fe-engineer-opensea/26785,Remote,Staff FE Engineer,$67k - $180k,dev:remote,4d
+Tron,https://web3.career/tech-content-marketing-manager-rainberry/26784,"San Francisco,
+United States",Tech Content Marketing Manager,$45k - $125k,marketing:non tech,4d
+Tron,https://web3.career/senior-content-marketing-manager-rainberry/26783,"San Francisco,
+United States",Senior Content Marketing Manager,$46k - $109k,marketing:non tech:senior,4d
+Tron,https://web3.career/media-buy-marketing-manager-rainberry/26782,"San Francisco,
+United States",Media Buy Marketing Manager,$50k - $135k,marketing:non tech:nft,4d
+Tron,https://web3.career/marketing-operation-manager-rainberry/26781,"San Francisco,
+United States",Marketing Operation Manager,$45k - $125k,marketing:non tech,4d
+Tron,https://web3.career/influencer-relationship-manager-rainberry/26780,"San Francisco,
+United States",Influencer Relationship Manager,$45k - $125k,marketing:non tech,4d
+Tron,https://web3.career/developer-relationship-manager-rainberry/26779,"San Francisco,
+United States",Developer Relationship Manager,$85k - $120k,dev:marketing:non tech,4d
+Tron,https://web3.career/community-relationship-manager-rainberry/26778,"San Francisco,
+United States",Community Relationship Manager,$45k - $150k,community manager:non tech:marketing,4d
+Tron,https://web3.career/associate-director-of-community-marketing-rainberry/26777,"San Francisco,
+United States",Associate Director of Community Marketing,$45k - $150k,community manager:non tech:executive:marketing,4d
+Amun 21Shares,https://web3.career/global-director-of-admin-amun/26776,"New York,
+United States",Global Director of Admin,$70k - $180k,executive,4d

@@ -1,36 +1,57 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Sperax,https://web3.career/customer-support-specialist-remote-sperax/16257,Customer Support Specialist (Remote),$40k - $80k,remote:customer support,4mo
-Qubit9 GmbH,https://web3.career/product-market-researcher-m-f-d-qubit9/16256,Product / Market Researcher m/f/d,,,4mo
-3Box Labs,https://web3.career/solidity-engineer-3box/16255,Solidity Engineer,$80k - $170k,dev:solidity:remote,4mo
-THIS IS! Digital Media Group,https://web3.career/r-d-innovation-lab-embedded-systems-and-iot-engineer-thisisdmg/16254,R&D (Innovation Lab) - Embedded Systems and IoT Engineer,,embedded:dev:remote,4mo
-Sygnum Bank AG,https://web3.career/product-manager-onboarding-and-crypto-compliance-sygnum/16252,Product Manager - Onboarding and Crypto-Compliance,,compliance:product manager:non tech:crypto:ethereum,4mo
-Reddit,https://web3.career/senior-ios-engineer-nft-platform-reddit/16251,"Senior IOS Engineer, NFT Platform",$51k - $109k,dev:ios:mobile:senior:nft,4mo
-Studio6,https://web3.career/solidity-smart-contract-engineer-senior-software-engineer-level-studio6/16248,Solidity / Smart Contract Engineer (Senior Software Engineer Level),$140k - $190k,dev:senior:smart contract:solidity:ethereum,4mo
-Binance,https://web3.career/data-privacy-legal-counsel-latam-binance/16247,Data Privacy Legal Counsel - LatAm,,legal:remote,4mo
-Binance,https://web3.career/senior-employment-legal-counsel-binance/16246,Senior Employment Legal Counsel,,legal:senior:remote,4mo
-Binance,https://web3.career/associate-corporate-development-operations-binance/16245,Associate - Corporate Development Operations,$80k - $110k,operations:remote,4mo
-Snowflake Network,https://web3.career/blockchain-software-engineer-solana-snowflake-network-1/16244,Blockchain Software Engineer - Solana,$100k - $120k,dev:blockchain:react:solana:node,4mo
-Crystal Blockchain Analytics,https://web3.career/product-lead-crystal/16242,Product Lead,$60k - $200k,lead,4mo
-3Box Labs,https://web3.career/developer-advocate-3box/16241,Developer Advocate,$65k - $180k,dev:remote,4mo
-Crypto.com,https://web3.career/compliance-manager-crypto-com/16240,Compliance Manager,,compliance,4mo
-cLabs,https://web3.career/product-manager-blockchain-clabs/16239,"Product Manager, Blockchain",$35k - $120k,product manager:non tech:blockchain:remote,4mo
-Snickerdoodle Labs,https://web3.career/back-end-blockchain-engineer-snickerdoodlelabs/16238,Back End Blockchain Engineer,$60k - $180k,backend:dev:blockchain:solana:ethereum,4mo
-Okcoin,https://web3.career/recruiting-operations-specialist-okcoin/16237,Recruiting Operations Specialist,,operations:recruiter:non tech,4mo
-Next Big Thing AG,https://web3.career/cto-and-co-founder-f-m-x-for-zero-defects-our-saas-startup-in-the-field-of-industrial-quality-management-nextbigthing/16235,"CTO and co-founder (f/m/x) for ZERO defects, our SaaS startup in the field of industrial quality management",,executive:saas:remote:cto,4mo
-UBIRCH,https://web3.career/embedded-developer-f-x-m-berlin-germany-3624945-embedded-developer-f-x-m-berlin-germany-utm_source-google_jobs_apply-pid-bce1fbd2f366390046fc/16234,Embedded Developer (F/X/M) (Berlin/Germany),,dev:embedded:remote:golang:rust,4mo
-Maple,https://web3.career/credit-analyst-maple-finance/16233,Credit Analyst,$45k - $120k,analyst:remote,4mo
-Reddit,https://web3.career/senior-ios-engineer-nft-platform-reddit/16232,"Senior IOS Engineer, NFT Platform",$51k - $109k,dev:ios:mobile:senior:nft,4mo
-Drift Protocol,https://web3.career/frontend-engineer-mobile-drift-protocol/16231,Frontend Engineer (Mobile),,dev:front end:mobile:remote:web3js,4mo
-Chainalysis,https://web3.career/enterprise-account-executive-latam-spanish-speaking-chainalysis/16230,"Enterprise Account Executive, LATAM (Spanish-speaking)",$70k - $180k,executive,4mo
-Chainalysis,https://web3.career/enterprise-account-executive-canada-chainalysis/16229,"Enterprise Account Executive, Canada",$70k - $180k,executive,4mo
-Autograph,https://web3.career/technical-project-manager-scrum-master-autograph/16228,Technical Project Manager/ Scrum Master,,project manager:non tech:scrum:nft,4mo
-Autograph,https://web3.career/api-backend-engineer-junior-mid-autograph/16227,API/ Backend Engineer (Junior/ Mid),$60k - $170k,api:backend:dev:junior:entry level,4mo
-Next Big Thing AG,https://web3.career/co-founder-and-cpo-f-m-x-nextbigthing/16226,Co-Founder and CPO (f/m/x),$79k - $200k,executive:remote,4mo
-Reddit,https://web3.career/senior-ios-engineer-nft-platform-reddit/16225,"Senior IOS Engineer, NFT Platform",$51k - $109k,dev:ios:mobile:senior:nft,4mo
-Chronicled.com,https://web3.career/head-of-marketing-chronicled-2/16224,Head of Marketing,$70k - $158k,executive:marketing:non tech:remote,4mo
-Bittrex,https://web3.career/sr-product-manager-api-core-platform-services-bittrex/16223,Sr. Product Manager - API / Core Platform Services,,api:product manager:non tech:senior:javascript,4mo
-Nuri,https://web3.career/senior-performance-marketing-manager-nuri/16222,(Senior) Performance Marketing Manager,$46k - $109k,marketing:non tech:senior:remote,4mo
-Reddit,https://web3.career/senior-ios-engineer-nft-platform-reddit/16218,"Senior IOS Engineer, NFT Platform",$51k - $109k,dev:ios:mobile:senior:nft,4mo
-AGGer,https://web3.career/crypto-trading-software-engineer-agger/16217,Crypto Trading Software Engineer,$15k - $35k,dev:crypto:javascript,4mo
-Foundry,https://web3.career/marketing-coordinator-foundrydigital/16216,Marketing Coordinator,$45k - $130k,marketing:non tech,4mo
-Blockdaemon,https://web3.career/project-manager-uk-blockdaemon/16215,Project Manager (UK),$50k - $150k,project manager:non tech,4mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Okcoin,https://web3.career/fraud-investigator-okcoin/16931,Remote,Fraud Investigator,$95k - $250k,security:remote,4mo
+Chainalysis,https://web3.career/associate-account-executive-emea-german-speaking-chainalysis/16930,"London,
+United Kingdom","Associate Account Executive, EMEA (German-speaking)",$70k - $180k,executive,4mo
+NFTGo,https://web3.career/nft-researcher-data-analyst-nftgo/16929,"Los Angeles,
+United States",NFT Researcher/Data Analyst,$36k - $72k,analyst:data science:nft,4mo
+IOTA Foundation,https://web3.career/project-manager-remote-iota/16928,Remote,Project Manager (Remote),$56k - $150k,remote:project manager:non tech,4mo
+Newton,https://web3.career/senior-react-native-engineer-austin-tx-remote-newton/16927,"Austin,
+United States","Senior React Native Engineer Austin,TX (Remote)",$65k - $120k,remote:dev:react native:mobile:javascript,4mo
+Newton,https://web3.career/senior-backend-developer-austin-tx-remote-newton/16926,"Austin,
+United States","Senior Backend Developer - Austin, TX (Remote)",$60k - $180k,remote:backend:dev:senior,4mo
+Newton,https://web3.career/director-engineering-austin-tx-remote-newton/16925,"Austin,
+United States","Director, Engineering - Austin,TX (Remote)",$90k - $150k,remote:executive:node:java,4mo
+Newton,https://web3.career/blockchain-engineer-austin-tx-remote-newton/16924,"Austin,
+United States","Blockchain Engineer - Austin,TX (Remote)",$70k - $190k,remote:dev:blockchain,4mo
+NEAR,https://web3.career/senior-writer-near/16923,"Zug,
+Switzerland",Senior Writer,$78k - $200k,senior,4mo
+Foundry,https://web3.career/infrastructure-systems-engineer-foundrydigital/16922,"New York,
+United States",Infrastructure Systems Engineer,,dev:sys admin:node,4mo
+Timeswap Labs,https://web3.career/smart-contract-developer-timeswap-labs-3/16921,Remote,Smart Contract Developer,$0k,dev:smart contract:web3js:solidity:ethereum,4mo
+Tangany,https://web3.career/working-student-marketing-and-research-w-m-d-en-de-3648002-working-student-marketing-and-research-w-m-d-en-de/16920,"Munich,
+Germany",Working Student Marketing and Research (w/m/d) [EN/DE],$25k - $120k,marketing:non tech:remote,4mo
+Wintermute,https://web3.career/graduate-defi-devops-admin-wintermute-trading/16919,"London,
+United Kingdom",Graduate DeFi DevOps Admin,,devops:intern:entry level:defi,4mo
+Immutable,https://web3.career/senior-technical-talent-acquisition-partner-immutable-games-studio-immutable/16918,"Sydney,
+Australia",Senior Technical Talent Acquisition Partner (Immutable Games Studio),$40k - $70k,senior:recruiter:non tech:ethereum,4mo
+Wirex Limited,https://web3.career/research-analyst-wirexlimited/16916,"Lviv,
+Ukraine",Research Analyst,$40k - $120k,analyst,4mo
+Blockchain.com,https://web3.career/financial-operations-reconciliation-blockchain/16915,"London,
+United Kingdom",Financial Operations Reconciliation,$55k - $200k,finance:operations,4mo
+HeyHey Global,https://web3.career/sr-software-engineer-ror-blockchain-heyhey-global/16914,"Bengaluru,
+India",Sr. Software Engineer - ROR & Blockchain,$32k - $52k,dev:senior:blockchain:react:solidity,4mo
+Immutable,https://web3.career/head-of-partnerships-gog-immutable/16912,Remote,Head of Partnerships (GOG),$40k - $150k,executive:sales:non tech:remote:nft,4mo
+Open Earth Foundation,https://web3.career/sr-full-stack-engineer-open-earth-foundation/16911,Remote,Sr Full Stack Engineer,$90k - $100k,dev:senior:full stack:remote,4mo
+Binance,https://web3.career/senior-counsel-regulatory-asia-pacific-binance/16910,Remote,Senior Counsel - Regulatory (Asia Pacific),,legal:senior:remote,4mo
+Binance,https://web3.career/growth-marketing-manager-north-africa-binance/16909,Remote,Growth Marketing Manager - North Africa,$25k - $120k,marketing:non tech:remote,4mo
+KaFe Rocks,https://web3.career/content-manager-italian-crypto-kaferocks/16908,"Rome,
+Italy",Content Manager - Italian (Crypto),$25k - $96k,marketing:non tech:copywriting:crypto,4mo
+Binance,https://web3.career/mobile-security-engineer-binance/16907,Remote,Mobile Security Engineer,,dev:mobile:security:remote,4mo
+Polygon,https://web3.career/data-engineer-polygon/16905,Remote,Data Engineer,,data science:dev:remote:ethereum,4mo
+Nexo,https://web3.career/front-end-web3-developer-nexo/16904,"Sofia,
+Bulgaria",Front-End Web3 Developer,$50k - $144k,dev:front end:react:javascript,4mo
+Vauld,https://web3.career/product-manager-vauld/16903,"Bengaluru,
+India",Product Manager,$69k - $160k,product manager:non tech,4mo
+Polygon,https://web3.career/technical-writer-polygon/16902,Remote,Technical Writer,$45k - $55k,analyst:remote:ethereum,4mo
+Polygon,https://web3.career/developer-evangelist-polygon/16901,Remote,Developer Evangelist,$60k - $150k,dev:remote:ethereum,4mo
+Kryptomon,https://web3.career/fullstack-blockchain-developer-kryptomon/16899,Remote,Fullstack Blockchain Developer,$0k,dev:full stack:blockchain:remote:react,4mo
+Nuri,https://web3.career/working-student-crm-manager-nuri/16898,"Berlin,
+Germany",Working Student CRM Manager,,crm:remote,4mo
+Binance,https://web3.career/product-marketing-manager-binance/16896,Remote,Product Marketing Manager,$25k - $120k,marketing:non tech:remote,4mo
+Binance,https://web3.career/intern-marketing-south-asia-binance/16895,"Delhi,
+India","Intern - Marketing, South Asia",$24k - $48k,intern:entry level:marketing:non tech,4mo
+Ripple,https://web3.career/senior-research-engineer-cryptography-ripple/16894,"San Francisco,
+United States",Senior Research Engineer (Cryptography),$80k - $200k,dev:senior,4mo
+Ripple,https://web3.career/senior-research-engineer-ripple/16893,"San Francisco,
+United States",Senior Research Engineer,$80k - $200k,dev:senior,4mo
+HoHoPro,https://web3.career/software-engineer-remote-piano-guru-app/16892,India,Software Engineer (Remote),$6k - $10k,remote:dev:javascript,4mo

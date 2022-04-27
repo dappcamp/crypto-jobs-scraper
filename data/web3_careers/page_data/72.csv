@@ -1,36 +1,54 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Protocol Labs,https://web3.career/investment-analyst-protocollabs/23684,Investment Analyst,,analyst:finance:remote,1mo
-100X Space,https://web3.career/content-writer-fintech-blockchain-markets-100x-space/23683,Content Writer - Fintech/Blockchain/Markets,$9k - $15k,copywriting:finance:blockchain,1mo
-Morningstar Ventures,https://web3.career/head-of-content-remote-morningstarventures/23681,Head Of Content - Remote,$79k - $200k,executive:remote,1mo
-QuickNode,https://web3.career/general-counsel-quicknode/23680,General Counsel,,legal:remote,1mo
-Binance,https://web3.career/channel-lead-fiat-mea-binance/23679,Channel Lead (Fiat) - MEA,$95k - $200k,lead:remote,1mo
-straiqr.ai GmbH,https://web3.career/working-student-as-a-marketing-analyst-straiqr-ai/23678,Working Student as a Marketing Analyst,,analyst:marketing:non tech:remote,1mo
-R3,https://web3.career/market-analysis-intern-r3-com/23677,Market Analysis Intern,,intern:entry level,1mo
-Sygnum Bank AG,https://web3.career/application-security-and-cybersecurity-incident-manager-sygnum/23676,Application Security and Cybersecurity Incident Manager,$95k - $200k,security,1mo
-Tangany,https://web3.career/key-account-manager-m-f-d-munich-remote-tangany/23675,Key Account Manager m/f/d Munich/Remote,,remote:account manager,1mo
-Sygnum Bank AG,https://web3.career/intern-site-reliability-engineering-sygnum/23674,Intern - Site Reliability Engineering,,intern:entry level:sys admin:java,1mo
-Tangany,https://web3.career/head-of-crypto-cloud-and-devops-operations-tangany/23672,Head Of (Crypto) Cloud and DevOps Operations,,executive:cloud:devops:operations:crypto,1mo
-Finoa GmbH,https://web3.career/inside-sales-associate-m-f-d-finoa/23670,Inside Sales Associate (m/f/d),$29k - $108k,sales:non tech:remote,1mo
-Ledger,https://web3.career/channel-marketing-manager-ledger/23669,Channel Marketing manager,$45k - $130k,marketing:non tech,1mo
-SADA,https://web3.career/senior-staff-solutions-architect-sre-sada/23668,Senior Staff Solutions Architect (SRE),$80k,architecture:senior,1mo
-FPT Deutschland GmbH,https://web3.career/service-delivery-manager-m-f-d-fger/23667,Service Delivery Manager (m/f/d),$95k - $300k,dev:executive:remote,1mo
-Sygnum Bank AG,https://web3.career/site-reliability-engineer-sygnum/23666,Site Reliability Engineer,$150k - $200k,dev:sys admin:java,1mo
-GSR,https://web3.career/business-development-analyst-associate-gsr/23665,"Business Development, Analyst/Associate",,analyst:sales:non tech,1mo
-Genies,https://web3.career/senior-accountant-genies/23664,Senior Accountant,,accounting:senior:nft,1mo
-UBIRCH,https://web3.career/product-marketing-manager-f-x-m-ubirch/23663,Product Marketing Manager (F/X/M),$25k - $120k,marketing:non tech:remote,1mo
-Next Big Thing AG,https://web3.career/entrepreneur-co-founder-f-m-x-blockchain-nextbigthing/23662,Entrepreneur | Co-Founder (f/m/x) Blockchain,$100k - $300k,executive:blockchain:remote,1mo
-Sygnum Bank AG,https://web3.career/defi-engineer-sygnum/23661,DeFi Engineer,$80k - $160k,dev:defi:react:solidity:ethereum,1mo
-Ripple,https://web3.career/principal-technical-program-manager-liquidity-ripple/23660,Principal Technical Program Manager - Liquidity,$40k - $150k,sales:non tech:executive,1mo
-IOTA Foundation,https://web3.career/senior-software-engineer-iota/23658,Senior Software Engineer,$70k - $180k,dev:senior:react:javascript:rust,1mo
-GSR,https://web3.career/analyst-associate-business-development-zug-gsr/23657,Analyst/Associate Business Development - Zug,,analyst:sales:non tech,1mo
-Burnt Finance,https://web3.career/product-design-lead-burnt-finance-1/23656,Product Design Lead,$40k - $190k,design:non tech:lead,1mo
-FreshCut,https://web3.career/social-media-associate-part-time-freshcut/23655,Social Media Associate (Part-Time),,part time:social media:non tech,1mo
-IOTA Foundation,https://web3.career/mobile-app-developer-hybrid-iota/23654,Mobile App Developer (Hybrid),$120k - $200k,dev:mobile:react:react native:javascript,1mo
-LemmaTree,https://web3.career/corporate-communications-manager-lemmatree/23653,Corporate Communications Manager,$45k - $130k,marketing:non tech,1mo
-VaynerMedia LLC,https://web3.career/vaynernft-group-creative-director-vaynermedia/23652,"VaynerNFT, Group Creative Director",$63k - $180k,executive:nft,1mo
-ZAUBAR,https://web3.career/3d-web-entwickler-3d-web-developer-ar-xr-webgl-zaubar/23651,"3D Web Entwickler // 3D Web Developer (AR, XR, WebGL)",,vfx:dev:javascript:remote,1mo
-cLabs,https://web3.career/grc-incident-response-manager-clabs/23650,GRC/Incident Response Manager,$56k - $160k,remote,1mo
-Ankr Network,https://web3.career/marketing-lead-ankrnetwork/23649,Marketing Lead,$50k - $120k,lead:marketing:non tech,1mo
-Binance,https://web3.career/business-development-manager-nft-fine-art-generative-art-collectibles-binance/23648,"Business Development Manager (NFT) - Fine Art, Generative Art & Collectibles",$100k - $180k,sales:non tech:nft:remote,1mo
-Aurory,https://web3.career/backend-software-engineer-aurory/23647,Backend Software Engineer,$120k - $180k,backend:dev:remote:solana:nft,1mo
-Aurory,https://web3.career/infrastructure-devops-engineer-aurory/23646,Infrastructure / DevOps Engineer,$120k - $180k,devops:dev:remote:solana:nft,1mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Hydraswap,https://web3.career/crypto-researcher-cum-content-writer-hydraswap/24266,"Singapore,
+Singapore",Crypto Researcher cum Content Writer,$0k,copywriting:crypto:nft,1mo
+SADA,https://web3.career/staff-security-engineer-sre-sada/24264,"Chicago,
+United States",Staff Security Engineer (SRE),$95k - $250k,dev:security:senior:java,1mo
+DeSo Foundation,https://web3.career/growth-marketing-lead-deso/24263,United States,Growth Marketing Lead,$50k - $120k,marketing:non tech:lead:ethereum:nft,1mo
+"Palm NFT Studio, Inc.",https://web3.career/general-application-palmnftstudioinc/24262,Remote,General Application,$56k - $165k,remote:nft,1mo
+"Islands XYZ, Inc.",https://web3.career/senior-product-designer-mobile-islandsxyzinc/24261,,Senior Product Designer – Mobile,,design:non tech:mobile:senior:ethereum,1mo
+Paradigm,https://web3.career/legal-paradigm-portfolio-paradigm-xyz/24260,Remote,Legal - Paradigm Portfolio,,finance:legal:remote,1mo
+"SundaeSwap Labs, Inc.",https://web3.career/lead-frontend-engineer-sundaeswap/24259,Remote,Lead Frontend Engineer,$56k - $79k,dev:front end:lead:remote,1mo
+Tribal Credit,https://web3.career/crypto-content-writer-tribalcredit/24258,United States,Crypto Content Writer,$62k - $45k,copywriting:crypto,1mo
+Crossmint.io,https://web3.career/sales-lead-crossmint/24257,"Miami,
+United States",Sales Lead,,lead:sales:non tech:nft,1mo
+Immunefi,https://web3.career/smart-contract-engineer-immunefi/24256,"San Francisco,
+United States",Smart Contract Engineer,$72k - $200k,dev:smart contract:solidity:ethereum,1mo
+Ledger,https://web3.career/sales-lead-asia-ledger/24255,"Tokyo,
+Japan",Sales Lead Asia,,lead:sales:non tech,1mo
+C3,https://web3.career/smart-contract-engineer-c3/24254,,Smart Contract Engineer,$72k - $200k,dev:smart contract:solidity,1mo
+Rally,https://web3.career/blockchain-developer-ecommerce-getrallyon/24252,Remote,Blockchain Developer (Ecommerce),$0k,dev:ecommerce:blockchain:remote:solidity,1mo
+ModSquad,https://web3.career/engagement-moderation-content-moderation-discord-nft-company-modsquad/24250,Remote,"Engagement Moderation, Content Moderation (Discord) - NFT Company",$56k - $165k,nft:remote,1mo
+JPG Store,https://web3.career/video-editor-mograph-artist-jpgstore/24248,,Video Editor / Mograph Artist,,video:nft,1mo
+Floating Point Group (FPG Inc.),https://web3.career/summer-product-manager-internship-floatingpointgroup/24247,,Summer Product Manager Internship,,intern:entry level:product manager:non tech,1mo
+Floating Point Group (FPG Inc.),https://web3.career/summer-software-engineer-internship-floatingpointgroup/24246,United States,Summer Software Engineer Internship,$12k - $33k,dev:intern:entry level,1mo
+Ripple,https://web3.career/senior-technical-program-manager-database-platform-ripple/24245,"San Francisco,
+United States","Senior Technical Program Manager, Database Platform",$46k - $110k,executive:senior,1mo
+Tron,https://web3.career/content-marketing-associate-rainberry/24244,"San Francisco,
+United States",Content Marketing Associate,$45k - $130k,marketing:non tech,1mo
+Chainstack,https://web3.career/talent-acquisition-specialist-remote-chainstack/24243,Remote,Talent Acquisition Specialist (remote),,remote:recruiter:non tech:solana:ethereum,1mo
+Ledger,https://web3.career/sales-lead-asia-ledger/24241,"Seoul,
+South Korea",Sales Lead Asia,,lead:sales:non tech,1mo
+USDF Consortium,https://web3.career/ceo-usdf-consortium-usdf/24240,"San Francisco,
+United States","CEO, USDF Consortium",$70k - $180k,executive,1mo
+Binance,https://web3.career/recruiting-lead-product-binance/24239,Remote,Recruiting Lead (Product),$40k - $70k,lead:recruiter:non tech:remote,1mo
+Binance,https://web3.career/chief-information-security-officer-fiat-binance/24238,Europe,"Chief Information Security Officer, Fiat",$95k - $250k,executive:security,1mo
+Konstellation Korea,https://web3.career/cosmos-smart-contract-engineer-konstellation-1/24237,"New York,
+United States",Cosmos Smart Contract Engineer,$33k - $83k,dev:smart contract:web3js:ethereum:rust,1mo
+Ledger,https://web3.career/sales-lead-asia-ledger/24236,"Singapore,
+Singapore",Sales Lead Asia,,lead:sales:non tech,1mo
+NFT.Kred,https://web3.career/sales-engineer-nft-kred/24235,"New York,
+United States",Sales Engineer,,sales:marketing:non tech:nft,1mo
+Ripple,https://web3.career/senior-staff-platform-engineer-ripple/24233,"New York,
+United States",Senior Staff Platform Engineer,$50k - $200k,dev:senior:java,1mo
+RECUR,https://web3.career/manager-payroll-recur/24231,"Miami,
+United States","Manager, Payroll",$120k - $150k,accounting:nft,1mo
+nft42,https://web3.career/ui-ux-designer-nft42/24230,"San Francisco,
+United States",UI/UX Designer,$60k - $150k,design:non tech:nft,1mo
+Blockchain.com,https://web3.career/portfolio-development-lead-investments-blockchain/24229,"Miami,
+United States","Portfolio Development Lead, Investments",$35k - $150k,finance:lead,1mo
+Blockchain.com,https://web3.career/investment-analyst-intern-principal-investments-blockchain/24228,"Miami,
+United States","Investment Analyst Intern, Principal Investments",$20k - $30k,analyst:intern:entry level:finance:executive,1mo
+MELON,https://web3.career/design-lead-nft-crypto-daos-melon-ooo/24227,United Kingdom,Design Lead (NFT / Crypto / DAOs),$30k - $40k,design:non tech:lead:crypto:nft,1mo
+RDX Works,https://web3.career/sdet-rdx-works/24225,Remote,SDET,$80k - $110k,,1mo
+Ripple,https://web3.career/observability-engineer-ripple/24224,"San Francisco,
+United States",Observability Engineer,$33k - $145k,dev:node:java,1mo

@@ -1,36 +1,58 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Kraken Digital Asset Exchange,https://web3.career/international-seo-manager-kraken/16034,International SEO Manager,,seo:non tech:remote,4mo
-Kraken Digital Asset Exchange,https://web3.career/technical-seo-associate-kraken/16031,Technical SEO Associate,,seo:non tech:remote:javascript,4mo
-Staking Rewards,https://web3.career/remote-freelance-arabic-language-translator-staking-rewards/16029,Remote Freelance Arabic Language Translator,,remote:translator,4mo
-River Financial,https://web3.career/associate-relationship-manager-riverfinancial/16028,Associate Relationship Manager,$25k - $120k,marketing:non tech:remote,4mo
-Anchorage Digital,https://web3.career/member-of-technical-staff-backend-engineering-platform-anchorage-digital/16027,"Member of Technical Staff, Backend Engineering (Platform)",$150k - $200k,remote:backend:dev:smart contract,4mo
-Anchorage Digital,https://web3.career/member-of-technical-staff-trading-lending-platform-anchorage-digital/16026,"Member of Technical Staff, Trading & Lending Platform",$150k - $200k,remote:backend:dev:smart contract:golang,4mo
-Okcoin,https://web3.career/recruiting-coordinator-okcoin/16025,Recruiting Coordinator,$40k - $70k,recruiter:non tech,4mo
-Rezolute,https://web3.career/blockchain-content-manager-rock-star-rezolute/16024,BLOCKCHAIN CONTENT MANAGER Rock Star,$13k - $27k,marketing:non tech:copywriting:blockchain,4mo
-Fieonix,https://web3.career/full-stack-blockchain-developer-fieonix/16023,Full Stack Blockchain Developer,$40k - $65k,dev:full stack:blockchain,4mo
-Crystal Blockchain Analytics,https://web3.career/chief-revenue-officer-cro-crystal/16022,Chief Revenue Officer (CRO),$70k - $180k,executive,4mo
-Energi Core Limited,https://web3.career/digital-artist-recruiter-energicorelimited/16021,Digital Artist Recruiter,,recruiter:non tech:ethereum:nft,4mo
-Hike,https://web3.career/crypto-economist-hike/16018,Crypto Economist,$32k - $65k,crypto,4mo
-Newton,https://web3.career/corporate-accountant-canada-wide-remote-newton/16017,Corporate Accountant - Canada Wide - Remote,$11k - $25k,remote:accounting,4mo
-Joint NFT,https://web3.career/fullstack-web3-intern-joint-nft/16015,Fullstack Web3 Intern,$124k - $2k,full stack:intern:entry level:solidity:nft,4mo
-InBillo,https://web3.career/blockchain-solidity-engineer-remote-inbillo/16014,Blockchain/Solidity Engineer / Remote,$20k - $35k,remote:dev:blockchain:solidity:node,4mo
-Amun 21Shares,https://web3.career/chief-of-staff-to-the-president-amun/16013,Chief of Staff to the President,,executive:recruiter:non tech:remote,4mo
-Okcoin,https://web3.career/russian-customer-service-representative-okcoin/16010,Russian Customer Service Representative,$40k - $80k,customer support:remote,4mo
-Sygnum Bank AG,https://web3.career/associate-ceo-office-sygnum/16008,"Associate, CEO Office",$79k - $158k,executive:ethereum,4mo
-Joint NFT,https://web3.career/growth-marketing-joint-nft/16007,Growth & Marketing,$74k - $124k,marketing:non tech:nft,4mo
-Joint NFT,https://web3.career/nft-analytics-intern-joint-nft/16006,NFT Analytics Intern,$124k - $2k,stats:intern:entry level:nft:javascript,4mo
-Crypto.com,https://web3.career/content-writer-defi-crypto-com/16005,"Content writer, DeFi",,copywriting:defi:nft,4mo
-Binance,https://web3.career/devops-engineer-c2c-binance/16003,DevOps Engineer (C2C),,c:c plus plus:devops:dev,4mo
-Bitaccess,https://web3.career/software-engineer-bitcoin-crypto-blockchain-bitaccess/16001,"Software Engineer - Bitcoin, Crypto & Blockchain",,dev:btc:blockchain:crypto:ethereum,4mo
-W3BCLOUD,https://web3.career/finance-manager-blockchain-crypto-usa-remote-based-location-w3bcloud/16000,Finance Manager - Blockchain/Crypto (USA/Remote Based Location),$50k - $225k,remote:finance:blockchain:crypto,4mo
-Crypto Finance AG,https://web3.career/java-software-engineer-crypto-finance-infrastructure-services-cryptofinanceag/15999,"Java Software Engineer, Crypto Finance (Infrastructure Services)",,dev:finance:java:crypto,4mo
-Binance,https://web3.career/senior-product-designer-ui-ux-bundle-africa-binance/15996,Senior Product Designer (UI/UX) – Bundle Africa,$60k - $120k,design:non tech:senior:remote,4mo
-Altoros,https://web3.career/144-project-manager-blockchain-altoros/15995,[144] Project Manager | Blockchain,$56k - $160k,project manager:non tech:blockchain,4mo
-Binance,https://web3.career/ux-designer-binance-gift-card-binance/15993,UX Designer (Binance Gift Card),$50k - $135k,design:non tech:remote,4mo
-Credix,https://web3.career/token-design-dao-credix/15990,Token design & DAO,$75k - $150k,design:non tech,4mo
-Crypto.com,https://web3.career/blockchain-security-devops-engineer-crypto-com/15989,Blockchain Security DevOps Engineer,$95k - $250k,devops:dev:security:blockchain:nft,4mo
-✤ Syntropy,https://web3.career/senior-front-end-developer-syntropy-net/15987,Senior Front-end Developer,$70k - $190k,dev:front end:senior,4mo
-Chainlink Labs,https://web3.career/vp-of-growth-marketing-chainlink/15985,VP of Growth Marketing,$70k - $158k,marketing:non tech:executive:remote,4mo
-Binance,https://web3.career/nft-metaverse-gaming-marketing-manager-binance/15982,NFT/Metaverse/Gaming Marketing Manager,$40k - $100k,game dev:marketing:non tech:metaverse:nft,4mo
-IOTA Foundation,https://web3.career/senior-devops-engineer-iota/15981,(Senior) DevOps Engineer,$120k - $200k,devops:dev:senior:golang:remote,4mo
-Binance,https://web3.career/research-analyst-intern-nft-metaverse-binance/15978,Research Analyst Intern (NFT/Metaverse),$20k - $30k,analyst:intern:entry level:metaverse:nft,4mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Ideamarket.io,https://web3.career/full-stack-developer-with-blockchain-web3-js-node-js-experience-ideamarket_io/16709,"Los Angeles,
+United States",Full Stack Developer with Blockchain Web3.js / Node.js experience,$90k - $100k,web3js:javascript:dev:full stack:node,4mo
+MakerDAO,https://web3.career/devops-engineer-100-remote-makerdao/16707,"Miami,
+United States",DevOps Engineer (100% remote).,$95k - $180k,remote:devops:dev:ethereum:dao,4mo
+Exodus,https://web3.career/react-front-end-engineer-exodus/16706,Remote,React Front-End Engineer,,dev:front end:javascript:react:remote,4mo
+Exodus,https://web3.career/react-native-react-front-end-engineer-exodus/16705,Remote,React Native/React Front-End Engineer,,dev:front end:react native:mobile:javascript,4mo
+Tally,https://web3.career/web3-frontend-engineer-tally-governance/16703,United States,Web3 frontend engineer,$75k - $125k,dev:front end:react:ethereum:javascript,4mo
+Reach,https://web3.career/business-development-and-partnerships-manager-defi-crypto-reach-sh/16702,"Boston,
+United States",Business Development and Partnerships Manager - DeFi/Crypto,$90k - $140k,sales:non tech:crypto:defi,4mo
+Next Big Thing AG,https://web3.career/venture-developer-company-builder-f-m-x-nextbigthing/16701,"Berlin,
+Germany",Venture Developer / Company Builder (f/m/x),$65k - $180k,dev:remote,4mo
+Sygnum Bank AG,https://web3.career/junior-legal-counsel-sygnum/16700,Switzerland,Junior Legal Counsel,,legal:junior:entry level:ethereum,4mo
+OpenSea,https://web3.career/head-of-fp-a-opensea/16698,Remote,Head of FP&A,$79k - $200k,executive:remote,4mo
+Mysten Labs,https://web3.career/technical-writer-remote-north-america-mystenlabs/16697,Remote,"Technical Writer (Remote, North America)",$45k - $120k,remote:analyst,4mo
+Hype Partners,https://web3.career/junior-user-acquisition-specialist-gaming-hypepartners/16696,"Berlin,
+Germany",Junior User Acquisition Specialist (Gaming),,game dev:junior:entry level:marketing:non tech,4mo
+OpenSea,https://web3.career/product-operations-director-opensea/16694,Remote,Product Operations Director,,executive:operations:remote,4mo
+Nuri,https://web3.career/people-operations-manager-nuri/16692,"Berlin,
+Germany",People Operations Manager,$80k - $110k,operations:remote,4mo
+BlockFi,https://web3.career/fraud-operations-analyst-blockfi/16690,"New York,
+United States",Fraud Operations Analyst,,analyst:security:operations,4mo
+Shakepay,https://web3.career/agent-of-change-remote-canada-shakepay/16689,"Montreal,
+Canada",Agent of Change (Remote - Canada),$56k - $160k,remote,4mo
+Poloniex Crypto Exchange,https://web3.career/staff-software-engineer-tools-poloniex-crypto-exchange/16688,"Boston,
+United States","Staff Software Engineer, Tools",$110k - $160k,dev:react:javascript:node:php,4mo
+Latino Wall Street,https://web3.career/junior-coach-crypto-latino-wall-street/16687,"San Juan,
+Puerto Rico",Junior Coach (Crypto),$12k,junior:entry level:crypto,4mo
+Reach,https://web3.career/principal-product-manager-defi-crypto-reach-sh/16686,"Boston,
+United States",Principal Product Manager - DeFi/Crypto,$140k - $160k,executive:product manager:non tech:crypto:defi,4mo
+Loft Orbital Solutions,https://web3.career/spacecraft-operations-coordination-engineer-loftorbital/16684,Remote,Spacecraft Operations Coordination Engineer,,dev:operations:remote,4mo
+BitGo,https://web3.career/executive-assistant-to-the-ceo-bitgo/16682,"Palo Alto,
+United States",Executive Assistant to the CEO,$70k - $180k,executive,4mo
+Next Big Thing,https://web3.career/founder-entrepreneur-machine-learning-f-m-x-nextbigthingag2/16680,"Berlin,
+Germany",Founder / Entrepreneur - Machine Learning (f/m/x),,executive:machine learning,4mo
+MoneyClip.io,https://web3.career/financial-accountant-moneyclip-io/16679,"Toronto,
+Canada",Financial Accountant,$120k - $150k,accounting:finance,4mo
+Hype Partners,https://web3.career/head-of-influencer-marketing-hypepartners/16678,"Berlin,
+Germany",Head of Influencer Marketing,$70k - $158k,executive:marketing:non tech,4mo
+Next Big Thing,https://web3.career/entrepreneur-co-founder-f-m-x-blockchain-nextbigthingag2/16677,"Berlin,
+Germany",Entrepreneur | Co-Founder (f/m/x) Blockchain,$46k - $200k,executive:blockchain,4mo
+Chainalysis,https://web3.career/people-operations-coordinator-chainalysis/16675,"New York,
+United States",People Operations Coordinator,$60k - $200k,operations,4mo
+BlockFi,https://web3.career/software-architect-blockfi/16673,"New York,
+United States",Software Architect,$120k - $300k,architecture:dev,4mo
+BlockFi,https://web3.career/software-architect-blockfi/16672,"London,
+United Kingdom",Software Architect,$120k - $300k,architecture:dev,4mo
+Human Protocol,https://web3.career/performance-marketing-manager-crypto-human-protocol-1/16671,United Kingdom,Performance Marketing Manager (Crypto),$46k - $140k,marketing:non tech:crypto,4mo
+Antier Solutions,https://web3.career/blockchain-solutions-architect-antier-solutions-18/16670,"Chandigarh,
+India",Blockchain Solutions Architect,$15k - $45k,architecture:blockchain:solidity:ethereum:java,4mo
+Ideamarket.io,https://web3.career/full-stack-developer-with-blockchain-web3-js-node-js-experience-ideamarket_io/16669,"Los Angeles,
+United States",Full Stack Developer with Blockchain Web3.js / Node.js experience,$90k - $100k,web3js:javascript:dev:full stack:node,4mo
+Anchorage Digital,https://web3.career/group-product-manager-custody-anchorage/16668,Remote,"Group Product Manager, Custody",$115k - $175k,product manager:non tech:remote,4mo
+cLabs,https://web3.career/events-partner-celo-foundation-clabs/16665,Remote,"Events Partner, Celo Foundation",$56k - $160k,remote,4mo
+Bitfinex,https://web3.career/kyc-analyst-remote-vietnam-bitfinex/16664,Remote,KYC Analyst [Remote] - Vietnam,,kyc:remote:analyst,4mo
+Binance,https://web3.career/hr-specialist-turkey-binance/16663,"Istanbul,
+Turkey",HR Specialist - Turkey,$60k - $150k,hr:non tech,4mo
+Blocksize Capital GmbH,https://web3.career/frontend-developer-react-partially-or-fully-remote-3654257-frontend-developer-react-partially-or-fully-remote-pid-ddb0f7f50cdf3fec0579-utm_source-xingbasicxml-utm_medium-free-utm_campaign-xing-utm_content-frontend-2bdeveloper-2breact-2bpartially-2bor-2bfully-2bremote/16662,Remote,Frontend Developer React (partially or fully remote),$22k - $73k,remote:dev:front end:javascript:react,4mo

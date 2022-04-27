@@ -1,36 +1,50 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Decentral Games,https://web3.career/qa-automation-engineer-decentralgames/25463,QA Automation Engineer,$65k - $150k,dev:quality assurance:ethereum:nft:javascript,13d
-Decentral Games,https://web3.career/product-manager-decentralgames/25462,Product Manager,$69k - $160k,product manager:non tech:nft,13d
-Decentral Games,https://web3.career/product-designer-decentralgames/25461,Product Designer,$60k - $150k,design:non tech:nft,13d
-Decentral Games,https://web3.career/senior-backend-developer-decentralgames/25460,Senior Backend Developer,$70k - $200k,backend:dev:senior:react:solidity,13d
-Alchemy,https://web3.career/business-development-nfts-alchemy/25459,Business Development: NFTs,$100k - $180k,sales:non tech:nft,13d
-Decentral Games,https://web3.career/executive-assistant-decentralgames/25458,Executive Assistant,$63k - $180k,executive:nft,13d
-Decentral Games,https://web3.career/head-of-growth-decentralgames/25457,Head of Growth,$70k - $158k,executive:marketing:non tech:nft,13d
-Decentral Games,https://web3.career/head-of-people-decentralgames/25456,Head of People,$63k - $180k,executive:nft,13d
-Decentral Games,https://web3.career/technical-content-writer-decentralgames/25455,Technical Content Writer,,copywriting:solidity:ethereum:nft,13d
-Polysynth,https://web3.career/software-engineer-nodejs-3-years-polysynth/25454,Software Engineer - Nodejs (3+ years),$23k - $39k,dev:javascript:node,13d
-Polysynth,https://web3.career/community-manager-polysynth/25453,Community Manager,$78k - $13k,community manager:non tech,13d
-Polysynth,https://web3.career/senior-brand-specialist-polysynth/25452,Senior Brand Specialist,$78k - $13k,marketing:non tech:senior,13d
-Polysynth,https://web3.career/senior-seo-specialist-polysynth/25451,Senior SEO Specialist,$78k - $13k,senior:seo:non tech,13d
-Braintrust,https://web3.career/qa-analyst-remote-braintrust/25450,QA Analyst [Remote],,remote:analyst:quality assurance,13d
-Solend,https://web3.career/product-designer-solend/25449,Product Designer,$50k - $135k,design:non tech:remote:solana,13d
-Cerebellum Network,https://web3.career/payroll-hr-coordinator-cere-network/25447,Payroll HR Coordinator,,hr:non tech:accounting:remote:nft,14d
-Findora,https://web3.career/ui-ux-designer-findora/25446,UI/UX Designer,$50k - $150k,design:non tech,14d
-Stellar Development Foundation,https://web3.career/security-engineering-manager-stellar/25445,Security Engineering Manager,,executive:security:ruby,14d
-Snickerdoodle Labs,https://web3.career/bd-partnerships-lead-snickerdoodlelabs/25444,BD & Partnerships Lead,,sales:non tech:lead:nft,14d
-UniJoin.io,https://web3.career/searching-crypto-specialized-marketing-experts-for-lead-generation-unijoin-io/25443,Searching Crypto specialized Marketing Experts For Lead Generation,$0k - $20k,lead:marketing:non tech:crypto:remote,14d
-LayerZero Labs,https://web3.career/frontend-engineer-layerzerolabs/25442,Frontend Engineer,$50k - $144k,dev:front end:react:rust,14d
-Bitcoin Depot,https://web3.career/enhanced-due-diligence-manager-bitcoindepot/25439,Enhanced Due Diligence Manager,,,14d
-Stellar Development Foundation,https://web3.career/head-of-product-stellar/25438,Head of Product,$135k - $170k,executive:product manager:non tech,14d
-Stellar Development Foundation,https://web3.career/head-of-product-stellar/25437,Head of Product,$135k - $170k,executive:product manager:non tech,14d
-Blocknative,https://web3.career/director-of-product-marketing-blocknative/25436,Director of Product Marketing,$70k - $158k,executive:marketing:non tech:product manager:remote,14d
-Chainlink Labs,https://web3.career/technical-program-manager-node-operations-chainlink/25434,"Technical Program Manager, Node Operations",,javascript:node:operations:executive:remote,14d
-Chainlink Labs,https://web3.career/data-scientist-simulation-chainlink/25433,"Data Scientist, Simulation",$50k - $135k,data science:remote,14d
-CoinFlip,https://web3.career/security-analyst-coinflip/25432,Security Analyst,$60k - $185k,analyst:security,14d
-Chainalysis,https://web3.career/regional-channel-manager-emea-chainalysis/25430,"Regional Channel Manager, EMEA",,,14d
-Bittrex,https://web3.career/accounting-manager-bittrex/25429,Accounting Manager,$25k - $150k,accounting,14d
-BitGo,https://web3.career/data-quality-analyst-bitgo/25428,Data Quality Analyst,$40k - $120k,analyst,14d
-SuperRare Labs,https://web3.career/lead-brand-designer-superrarelabs/25427,Lead Brand Designer,,marketing:non tech:design:lead:nft,14d
-Figment,https://web3.career/channel-reporting-analyst-figment/25426,Channel Reporting Analyst,$150k - $185k,analyst:javascript,14d
-Bittrex,https://web3.career/senior-accounting-manager-bittrex/25425,Senior Accounting Manager,$80k - $110k,accounting:senior,14d
-Cerebellum Network,https://web3.career/product-designer-cere-network/25424,Product Designer,$50k - $135k,design:non tech:remote:nft,14d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+CI&T,https://web3.career/blockchain-and-nodejs-developer-sr-ciandt/26079,Portugal,Blockchain and NodeJS Developer Sr,$56k - $155k,dev:javascript:node:blockchain:solidity,12d
+Bento Box Entertainment,https://web3.career/nft-senior-producer-bento-box-entertainment/26078,"Los Angeles,
+United States",NFT Senior Producer,$90k - $200k,senior:nft,12d
+Parity Technologies,https://web3.career/devsecops-lead-parity/26077,"Berlin,
+Germany",DevSecOps Lead,$95k - $200k,lead:remote,12d
+Consensys,https://web3.career/social-media-associate-metamask-consensys/26076,Remote,Social Media Associate (MetaMask),$35k - $110k,social media:non tech:remote:ethereum,12d
+Paradigm,https://web3.career/systems-administrator-paradigm-xyz/26075,"San Francisco,
+United States",Systems Administrator,$150k - $200k,sys admin,12d
+Improbable,https://web3.career/finance-business-partner-improbable/26074,"London,
+United Kingdom",Finance Business Partner,$40k - $150k,finance,12d
+Foxit Software,https://web3.career/devops-engineer-foxitsoftware/26073,"Alpharetta, GA",DevOps Engineer,$95k - $145k,devops:dev:solidity,12d
+Braintrust,https://web3.career/senior-ux-writer-content-designer-remote-braintrust/26072,"San Francisco,
+United States",Senior UX Writer/Content Designer [REMOTE],$50k - $150k,remote:design:non tech:senior,12d
+Ethereum Push Notification Service,https://web3.career/business-development-specialist-ethereum-push-notification-service/26071,United States,Business Development Specialist,$0k,sales:non tech:ethereum,12d
+Ethereum Push Notification Service,https://web3.career/marketing-manager-ethereum-push-notification-service/26070,United States,Marketing Manager,$0k,marketing:non tech:ethereum,12d
+Ethereum Foundation,https://web3.career/web3-engineer-ethereum-foundation/26069,Remote,Web3 Engineer,$0k,dev:remote:react:solidity:ethereum,12d
+CANDY,https://web3.career/manager-engineering-candy/26068,"New York,
+United States","Manager, Engineering",$67k - $175k,react:nextjs,12d
+Polygon,https://web3.career/senior-technical-recruiter-polygon/26067,"San Francisco,
+United States",Senior Technical Recruiter,$40k - $70k,recruiter:non tech:senior:ethereum,12d
+Polygon,https://web3.career/recruiting-manager-polygon/26066,United States,Recruiting Manager,,recruiter:non tech:ethereum,12d
+Chainstack,https://web3.career/technical-operations-manager-remote-chainstack/26065,Remote,Technical Operations Manager (remote),$80k - $110k,remote:operations,12d
+Syndica,https://web3.career/senior-fullstack-engineer-syndica/26064,Remote,Senior Fullstack Engineer,$90k - $200k,dev:full stack:senior:remote:react,12d
+Syndica,https://web3.career/senior-go-rust-engineer-syndica/26063,Remote,Senior Go/Rust Engineer,$40k - $160k,dev:golang:rust:senior:remote,12d
+Solana Foundation,https://web3.career/general-manager-growth-vietnam-solanafoundation/26062,,"General Manager Growth, Vietnam",$70k - $158k,executive:marketing:non tech:solana,12d
+Solana Foundation,https://web3.career/general-manager-growth-indonesia-solanafoundation/26061,,"General Manager Growth, Indonesia",$70k - $158k,executive:marketing:non tech:solana,12d
+Solana Foundation,https://web3.career/general-manager-growth-india-solanafoundation/26060,,"General Manager Growth, India",$70k - $158k,executive:marketing:non tech:solana,12d
+Fizol,https://web3.career/web3-developer-fizol/26059,United States,Web3 Developer,$0k,dev:react:react native:solidity:ethereum,12d
+NAHC Limited,https://web3.career/product-uxui-designer-nahc/26058,"Hong Kong,
+Hong Kong",Product UXUI Designer,$60k - $150k,design:non tech:nft,12d
+NAHC Limited,https://web3.career/data-scientist-nahc/26056,"Hong Kong,
+Hong Kong",Data Scientist,$50k - $150k,data science:nft,12d
+Binance,https://web3.career/incident-manager-binance/26055,South America or North America,Incident Manager,$50k - $150k,,12d
+NAHC Limited,https://web3.career/marketing-analyst-user-acquisition-nahc/26054,"Hong Kong,
+Hong Kong",Marketing Analyst (User Acquisition),,analyst:marketing:non tech,12d
+NAHC Limited,https://web3.career/account-manager-metaverse-nft-gamefi-nahc/26053,"Hong Kong,
+Hong Kong",Account Manager (Metaverse / NFT / GameFi),,account manager:metaverse:nft,12d
+Okcoin,https://web3.career/manager-business-recruiting-okcoin/26052,"San Francisco,
+United States","Manager, Business Recruiting",$40k - $70k,recruiter:non tech,12d
+Nova,https://web3.career/nova-global-ambassador-program-nova/26051,Remote,Nova Global Ambassador Program,$80k - $180k,remote:solana,13d
+TreasureDAO,https://web3.career/front-end-developer-treasuredao/26050,Remote,Front-End Developer,,dev:front end:remote:node:nextjs,13d
+Aptos,https://web3.career/strategy-associate-aptoslabs/26048,"New York,
+United States",Strategy Associate,$50k - $150k,,13d
+Chainlink Labs,https://web3.career/product-manager-engineering-operations-chainlink/26047,Remote,Product Manager - Engineering Operations,,operations:product manager:non tech:remote,13d
+Nova,https://web3.career/content-community-manager-nova-nova/26046,Remote,Content & Community Manager - NOVA,$40k - $105k,community manager:non tech:remote:solana,13d
+Nova,https://web3.career/senior-marketing-manager-nova-nova/26045,Remote,Senior Marketing Manager - NOVA,$46k - $109k,marketing:non tech:senior:remote:ethereum,13d
+Ripple,https://web3.career/senior-director-of-product-marketing-ripplenet-ripple/26044,"San Francisco,
+United States","Senior Director of Product Marketing, RippleNet",$70k - $158k,executive:marketing:non tech:product manager:senior,13d
+Electron Labs,https://web3.career/blockchain-engineer-atomlabs/26042,India,Blockchain Engineer,$50k - $100k,dev:blockchain,13d

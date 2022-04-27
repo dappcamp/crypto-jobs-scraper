@@ -1,36 +1,57 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Bitcoin Depot,https://web3.career/assistant-general-counsel-boston-bitcoindepot/9932,Assistant General Counsel - Boston,,legal:ethereum,5mo
-Bitcoin Depot,https://web3.career/assistant-general-counsel-austin-bitcoindepot/9931,Assistant General Counsel - Austin,,legal:ethereum,5mo
-Bitcoin Depot,https://web3.career/assistant-general-counsel-bitcoindepot/9930,Assistant General Counsel,,legal:ethereum,5mo
-Bitcoin Depot,https://web3.career/otc-trading-analyst-bitcoindepot/9929,OTC Trading Analyst,$45k - $185k,analyst:ethereum,5mo
-Bitcoin Depot,https://web3.career/technical-project-manager-austin-bitcoindepot/9928,Technical Project Manager - Austin,$80k - $150k,project manager:non tech:ethereum,5mo
-Bitcoin Depot,https://web3.career/system-administrator-bitcoindepot/9927,System Administrator,,sys admin:ethereum,5mo
-Bitcoin Depot,https://web3.career/quality-assurance-automation-sdet-bitcoindepot/9926,Quality Assurance / Automation SDET,$60k - $125k,ethereum:javascript,5mo
-Bitcoin Depot,https://web3.career/network-engineer-bitcoindepot/9925,Network Engineer,$60k - $158k,dev:ethereum,5mo
-Bitcoin Depot,https://web3.career/it-systems-analyst-bitcoindepot/9924,IT Systems Analyst,$150k - $185k,analyst:ethereum:javascript,5mo
-Bitcoin Depot,https://web3.career/full-stack-engineer-bitcoindepot/9923,Full Stack Engineer,$65k - $180k,dev:full stack:react:ethereum:node,5mo
-Bitcoin Depot,https://web3.career/regulatory-liaison-bitcoindepot/9922,Regulatory Liaison,,legal:ethereum,5mo
-Bitcoin Depot,https://web3.career/enterprise-risk-management-manager-bitcoindepot/9921,Enterprise Risk Management Manager,,,5mo
-Bitcoin Depot,https://web3.career/aml-team-lead-bitcoindepot/9920,AML Team Lead,$96k - $220k,lead:ethereum,5mo
-Autograph,https://web3.career/mobile-software-engineer-ios-autograph/9919,"Mobile Software Engineer, iOS",$51k - $109k,dev:ios:mobile:nft,5mo
-Autograph,https://web3.career/devops-engineer-autograph/9918,DevOps Engineer,$95k - $145k,devops:dev:ethereum:nft,5mo
-Autograph,https://web3.career/blockchain-engineer-autograph/9917,Blockchain Engineer,$52k - $160k,dev:blockchain:solidity:nft,5mo
-Autograph,https://web3.career/assistant-autograph/9916,Assistant,,,5mo
-Autograph,https://web3.career/marketing-director-autograph/9915,Marketing Director,$70k - $158k,executive:marketing:non tech:nft,5mo
-Autograph,https://web3.career/copywriter-autograph/9914,Copywriter,,copywriting:nft,5mo
-Autograph,https://web3.career/community-moderator-discord-autograph/9913,Community Moderator (Discord),$35k - $101k,community manager:non tech:nft,5mo
-Autograph,https://web3.career/counsel-autograph/9912,Counsel,,legal:nft,5mo
-Autograph,https://web3.career/senior-recruiter-autograph/9911,Senior Recruiter,$40k - $70k,recruiter:non tech:senior:nft,5mo
-Autograph,https://web3.career/controller-autograph/9910,Controller,,legal:nft,5mo
-Autograph,https://web3.career/creative-director-autograph/9909,Creative Director,$63k - $180k,executive:nft,5mo
-Autograph,https://web3.career/art-director-3d-autograph/9908,Art Director (3D),,vfx:executive:nft,5mo
-Amun 21Shares,https://web3.career/index-methodologist-amun/9907,Index Methodologist,,,5mo
-Amun 21Shares,https://web3.career/data-engineer-amun/9906,Data Engineer,,data science:dev:react:node:scala,5mo
-0x,https://web3.career/engineering-manager-matcha-0x/9905,Engineering Manager — Matcha,$79k - $158k,executive:ethereum,5mo
-0x,https://web3.career/data-engineer-0x/9904,Data Engineer,,data science:dev:ethereum:node:rust,5mo
-Fuel Labs,https://web3.career/junior-software-engineer-rust-sdk-fuellabs/9902,Junior Software Engineer [Rust - SDK],$45k - $180k,dev:junior:entry level:rust:remote,5mo
-Gemini,https://web3.career/data-science-leader-gemini/9901,Data Science Leader,$50k - $120k,data science:lead:remote,5mo
-Fuel Labs,https://web3.career/compiler-language-engineer-rust-fuellabs/9900,Compiler/Language Engineer [Rust],$80k - $200k,dev:rust:solidity:golang:remote,5mo
-Reddit,https://web3.career/senior-android-engineer-nft-platform-reddit/9899,"Senior Android Engineer, NFT Platform",,android:mobile:dev:senior:nft,5mo
-GSR,https://web3.career/information-security-risk-and-compliance-specialist-london-gsr/9898,Information Security Risk and Compliance Specialist - London,,compliance:security,5mo
-PowerTrade,https://web3.career/head-of-compliance-powertrade/9897,Head of Compliance,,compliance:executive:remote,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Figure,https://web3.career/office-coordinator-figure/10442,"San Francisco,
+United States",Office Coordinator,,,6mo
+Figure,https://web3.career/executive-assistant-figure/10441,"New York,
+United States",Executive Assistant,$70k - $180k,executive,6mo
+Figment,https://web3.career/technical-support-engineer-datahub-figment/10440,"Toronto,
+Canada","Technical Support Engineer, DataHub",,dev:customer support:solidity:javascript:golang,6mo
+Figment,https://web3.career/data-scientist-datahub-figment/10439,"Toronto,
+Canada","Data Scientist, DataHub",$50k - $150k,data science,6mo
+Figment,https://web3.career/product-manager-datahub-figment/10438,"Toronto,
+Canada","Product Manager, DataHub",$69k - $160k,product manager:non tech,6mo
+Figment,https://web3.career/developer-relations-lead-figment/10437,"Toronto,
+Canada",Developer Relations Lead,,customer support:dev:lead,6mo
+Figment,https://web3.career/accountant-figment/10436,"Toronto,
+Canada",Accountant,$25k - $150k,accounting,6mo
+Energi Core Limited,https://web3.career/senior-blockchain-developer-c-go-energicorelimited/10435,"New York,
+United States",Senior Blockchain Developer (C++/ Go),$100k - $150k,c:c plus plus:dev:golang:senior,6mo
+Energi Core Limited,https://web3.career/qa-engineer-part-time-energicorelimited/10434,"New York,
+United States",QA Engineer (part-time),,dev:part time:quality assurance:ethereum,6mo
+Energi Core Limited,https://web3.career/product-designer-part-time-energicorelimited/10433,"New York,
+United States",Product Designer (part-time),,design:non tech:part time:ethereum,6mo
+Energi Core Limited,https://web3.career/mobile-developer-ios-android-energicorelimited/10432,"New York,
+United States",Mobile Developer (ios/Android),,android:mobile:dev:ios:ethereum,6mo
+Energi Core Limited,https://web3.career/senior-recruiter-energicorelimited/10431,"New York,
+United States",Senior Recruiter,$40k - $70k,recruiter:non tech:senior:ethereum,6mo
+Energi Core Limited,https://web3.career/quantitative-macroeconomic-analyst-part-time-energicorelimited/10430,"New York,
+United States",Quantitative Macroeconomic Analyst (part-time),,analyst:part time:ethereum,6mo
+Energi Core Limited,https://web3.career/nft-artist-energicorelimited/10429,"New York,
+United States",NFT Artist,$70k - $158k,nft:ethereum,6mo
+Energi Core Limited,https://web3.career/financial-statistician-part-time-energicorelimited/10428,"New York,
+United States",Financial Statistician (part-time),,finance:part time:ethereum,6mo
+Energi Core Limited,https://web3.career/energi-proposal-analyst-part-time-energicorelimited/10427,"New York,
+United States",Energi Proposal Analyst (part-time),,analyst:part time:ethereum,6mo
+Energi Core Limited,https://web3.career/blockchain-auditor-part-time-energicorelimited/10426,"New York,
+United States",Blockchain Auditor (part-time),,part time:blockchain:ethereum,6mo
+Energi Core Limited,https://web3.career/marketing-generalist-part-time-energicorelimited/10425,"New York,
+United States",Marketing Generalist (part-time),,marketing:non tech:part time:ethereum,6mo
+Energi Core Limited,https://web3.career/graphic-and-visual-designer-part-time-energicorelimited/10424,"New York,
+United States",Graphic and Visual Designer (part-time),,design:non tech:part time:ethereum,6mo
+Energi Core Limited,https://web3.career/energi-impact-team-lead-part-time-energicorelimited/10423,"New York,
+United States",Energi Impact Team Lead (part-time),,lead:part time:ethereum,6mo
+Energi Core Limited,https://web3.career/community-moderator-energicorelimited/10422,"New York,
+United States",Community Moderator,$15k - $30k,community manager:non tech:ethereum,6mo
+Eco,https://web3.career/something-else-econetwork/10421,,(Something Else),,,6mo
+Eco,https://web3.career/senior-administrative-assistant-econetwork/10420,,Senior Administrative Assistant,$78k - $200k,senior,6mo
+Eco,https://web3.career/recruiting-lead-econetwork/10419,,Recruiting Lead,$40k - $70k,lead:recruiter:non tech,6mo
+Eco,https://web3.career/payment-operations-associate-econetwork/10418,,Payment Operations Associate,$60k - $200k,operations,6mo
+Eco,https://web3.career/head-of-people-econetwork/10417,,Head of People,$70k - $180k,executive,6mo
+Eco,https://web3.career/customer-operations-specialist-econetwork/10416,,Customer Operations Specialist,$60k - $200k,operations,6mo
+Eco,https://web3.career/compliance-manager-econetwork/10415,,Compliance Manager,,compliance,6mo
+Eco,https://web3.career/chargeback-disputes-specialist-econetwork/10414,,Chargeback & Disputes Specialist,,,6mo
+Eco,https://web3.career/senior-editor-econetwork/10413,,Senior Editor,$78k - $200k,senior,6mo
+Eco,https://web3.career/onboarding-specialist-econetwork/10412,,Onboarding Specialist,,,6mo
+Eco,https://web3.career/technical-product-manager-econetwork/10411,,Technical Product Manager,$69k - $160k,product manager:non tech,6mo
+Eco,https://web3.career/staff-backend-engineer-econetwork/10410,,Staff Backend Engineer,$65k - $150k,backend:dev:javascript,6mo
+Eco,https://web3.career/smart-contract-engineer-ethereum-econetwork/10409,,Smart Contract Engineer (Ethereum),$65k - $180k,dev:smart contract:ethereum,6mo
+Eco,https://web3.career/senior-product-designer-econetwork/10408,,Senior Product Designer,$60k - $120k,design:non tech:senior,6mo

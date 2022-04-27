@@ -1,36 +1,59 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-DFINITY,https://web3.career/software-engineer-sdk-dfinity/8841,"Software Engineer, SDK",$69k - $160k,dev:javascript:rust,6mo
-Blockdaemon,https://web3.career/qa-automation-engineer-blockdaemon/8834,QA Automation Engineer,$50k - $150k,dev:quality assurance,6mo
-CANDY,https://web3.career/associate-market-intelligence-motorsports-candy/8833,"Associate, Market Intelligence (Motorsports)",,,6mo
-Liquid,https://web3.career/data-engineer-liquid/8832,Data Engineer,$70k - $160k,data science:dev,6mo
-SwissBorg,https://web3.career/site-reliability-engineer-sre-remote-swissborg/8831,Site Reliability Engineer (SRE) - Remote,$150k - $200k,remote:dev:sys admin:senior,6mo
-Careers at Paxful,https://web3.career/account-manager-paxful/8829,Account Manager,,account manager,6mo
-Figure,https://web3.career/director-of-data-analytics-figure/8828,Director of Data Analytics,,stats:executive:data science,6mo
-Ripple,https://web3.career/vp-design-ripple/8827,"VP, Design",,design:non tech:executive,6mo
-Stacked,https://web3.career/lead-devops-engineer-remote-us-stacked-invest/8826,Lead DevOps Engineer (Remote - US),$95k - $180k,remote:devops:dev:lead,6mo
-WOO Network,https://web3.career/jr-investment-analyst-full-time-internship-acceptable-woonetwork/8824,Jr. Investment Analyst (Full-time Internship acceptable),,analyst:full time:intern:entry level:finance,6mo
-Sperax,https://web3.career/software-development-engineer-in-test-remote-sperax/8823,Software Development Engineer in Test (Remote),,quality assurance:remote:dev,6mo
-SwissBorg,https://web3.career/senior-product-manager-remote-swissborg/8822,Senior Product Manager (Remote),$115k - $175k,remote:product manager:non tech:senior,6mo
-Sperax,https://web3.career/human-resource-manager-sperax/8821,Human Resource Manager,$60k - $150k,hr:non tech,6mo
-Sperax,https://web3.career/software-engineer-remote-sperax/8820,Software Engineer (Remote),$65k - $180k,remote:dev,6mo
-ConsenSys Inc,https://web3.career/corporate-counsel-consensysinc/8819,Corporate Counsel,,legal:ethereum,6mo
-Bitcoin Depot,https://web3.career/assistant-general-counsel-charlotte-bitcoindepot/8818,Assistant General Counsel - Charlotte,,legal:ethereum,6mo
-Kraken Digital Asset Exchange,https://web3.career/international-senior-tax-accountant-kraken/8817,International Senior Tax Accountant,,accounting:senior:remote,6mo
-Binance,https://web3.career/content-and-marketing-specialist-binance/8816,Content and Marketing Specialist,$45k - $130k,marketing:non tech,6mo
-Kraken Digital Asset Exchange,https://web3.career/product-designer-creative-team-kraken/8815,Product Designer - Creative Team,$50k - $135k,design:non tech:remote,6mo
-Kraken Digital Asset Exchange,https://web3.career/ux-researcher-kraken/8813,UX Researcher,$50k - $135k,design:non tech:remote,6mo
-Kraken Digital Asset Exchange,https://web3.career/marketing-operations-coordinator-kraken/8812,Marketing Operations Coordinator,,marketing:non tech:operations,6mo
-Ripple,https://web3.career/product-manager-applied-science-crypto-automation-ripple/8811,"Product Manager, Applied Science & Crypto Automation",$60k - $160k,product manager:non tech:crypto,6mo
-Sperax,https://web3.career/smart-contracts-engineer-remote-sperax/8810,Smart Contracts Engineer (Remote),$80k - $200k,remote:dev:smart contract,6mo
-Singapore Innovate Pte. Ltd,https://web3.career/principal-developer-singapore-innovate-pte-ltd/8809,Principal Developer,$70k - $300k,dev:executive,6mo
-Chorus One,https://web3.career/software-engineer-rust-chorus-one/8808,Software Engineer (Rust),$90k - $150k,remote:dev:rust:solidity:solana,6mo
-Gnosis,https://web3.career/junior-hr-manager-m-w-d-gnosis/8807,(Junior) HR Manager (m/w/d),,hr:non tech:junior:entry level:node,6mo
-Immutable,https://web3.career/community-manager-immutable/8803,Community Manager,$40k - $101k,community manager:non tech:remote,6mo
-Wirex Limited,https://web3.career/people-business-operations-manager-wirexlimited/8802,People & Business Operations Manager,$60k - $200k,operations,6mo
-Figure,https://web3.career/operations-training-specialist-ii-figure/8801,Operations Training Specialist II,,operations:education,6mo
-Binance,https://web3.career/binance-card-and-pay-operation-specialist-manager-binance/8799,Binance Card and Pay Operation Specialist/ Manager,,,6mo
-Chainalysis,https://web3.career/senior-engineer-frontend-chainalysis/8798,"Senior Engineer, Frontend",$70k - $190k,dev:front end:senior:react:java,6mo
-OKEx,https://web3.career/senior-product-manager-trading-experience-okex/8797,(Senior) Product Manager - Trading Experience,$80k - $150k,product manager:non tech:senior,6mo
-Kraken Digital Asset Exchange,https://web3.career/senior-compliance-associate-fiu-investigator-australia-kraken/8796,Senior Compliance Associate - FIU investigator Australia,,compliance:senior,6mo
-Bitcoin Depot,https://web3.career/sales-enablement-manager-charlotte-bitcoindepot/8795,Sales Enablement Manager - Charlotte,$29k - $43k,sales:non tech:ethereum,6mo
-Ledger,https://web3.career/crypto-specialist-ledger/8794,Crypto Specialist,$39k - $140k,crypto,6mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Bitski,https://web3.career/senior-backend-engineer-bitski/9070,"San Francisco,
+United States",👾 Senior Backend Engineer,$70k - $200k,backend:dev:senior:nft,6mo
+Bitski,https://web3.career/senior-mobile-engineer-android-bitski/9069,"San Francisco,
+United States",👾 📱 Senior Mobile Engineer - Android,,android:mobile:dev:senior:nft,6mo
+Bitski,https://web3.career/senior-site-reliability-engineer-bitski/9068,"San Francisco,
+United States",👾 📟 Senior Site Reliability Engineer,$150k - $200k,dev:sys admin:senior:nft,6mo
+Bitski,https://web3.career/lead-site-reliability-engineer-bitski/9067,"San Francisco,
+United States",👾 📟 Lead Site Reliability Engineer,,dev:lead:sys admin:nft,6mo
+Bitski,https://web3.career/open-application-bitski/9066,"San Francisco,
+United States",💯 Open Application,$55k - $150k,nft,6mo
+Async Art,https://web3.career/product-manager-asyncart/9065,Remote,Product Manager,$69k - $160k,product manager:non tech:nft:remote,6mo
+Async Art,https://web3.career/social-media-marketing-intern-asyncart/9064,Remote,Social Media Marketing Intern,$24k - $48k,intern:entry level:marketing:non tech:social media,6mo
+Async Art,https://web3.career/backend-developer-node-js-asyncart/9063,Remote,Backend Developer (Node.js),$65k - $150k,javascript:backend:dev:node:nft,6mo
+3Box Labs,https://web3.career/product-manager-developer-experience-3box/9062,Remote,Product Manager: Developer Experience,$135k - $175k,dev:product manager:non tech:remote,6mo
+3Box Labs,https://web3.career/talent-lead-3box/9061,Remote,Talent Lead,$40k - $70k,lead:recruiter:non tech:remote,6mo
+3Box Labs,https://web3.career/finance-and-operations-lead-3box/9060,Remote,Finance and Operations Lead,,finance:lead:operations:remote,6mo
+3Box Labs,https://web3.career/partner-engineer-3box/9059,Remote,Partner Engineer,$65k - $180k,dev:remote,6mo
+3Box Labs,https://web3.career/marketing-lead-3box/9058,Remote,Marketing Lead,$50k - $120k,lead:marketing:non tech:remote,6mo
+3Box Labs,https://web3.career/community-lead-3box/9057,Remote,Community Lead,$40k - $65k,community manager:non tech:lead:remote,6mo
+3Box Labs,https://web3.career/general-application-3box/9056,Remote,General Application,$56k - $160k,remote,6mo
+3Box Labs,https://web3.career/cloud-engineer-3box/9055,Remote,Cloud Engineer,,cloud:dev:remote,6mo
+11:FS,https://web3.career/senior-sales-exec-pulse-11fs/9054,"London,
+United Kingdom",Senior Sales Exec - Pulse,$50k - $150k,sales:non tech:senior,6mo
+11:FS,https://web3.career/sales-manager-pulse-11fs/9053,"London,
+United Kingdom",Sales Manager - Pulse,$26k - $140k,sales:non tech,6mo
+11:FS,https://web3.career/lead-product-designer-pulse-11fs/9052,"London,
+United Kingdom",Lead Product Designer (Pulse),$40k - $190k,design:non tech:lead,6mo
+11:FS,https://web3.career/associate-ux-research-analyst-11fs/9051,"London,
+United Kingdom",Associate UX Research Analyst,,analyst:design:non tech,6mo
+11:FS,https://web3.career/senior-talent-partner-product-and-design-11fs/9050,"London,
+United Kingdom",Senior Talent Partner (Product and Design),$60k - $120k,design:non tech:senior:recruiter,6mo
+11:FS,https://web3.career/senior-talent-partner-consulting-and-fintech-11fs/9049,"London,
+United Kingdom",Senior Talent Partner - Consulting and FinTech,,consulting:finance:senior:recruiter:non tech,6mo
+11:FS,https://web3.career/product-manager-11fs/9048,"London,
+United Kingdom",Product Manager,$69k - $160k,product manager:non tech,6mo
+11:FS,https://web3.career/strategy-director-data-analytics-11fs/9047,"London,
+United Kingdom","Strategy Director, Data & Analytics",$50k - $130k,stats:executive,6mo
+11:FS,https://web3.career/strategy-director-corporate-ventures-11fs/9046,"London,
+United Kingdom","Strategy Director, Corporate Ventures",$70k - $180k,executive,6mo
+11:FS,https://web3.career/strategy-director-business-design-11fs/9045,"London,
+United Kingdom","Strategy Director, Business Design",,design:non tech:executive,6mo
+11:FS,https://web3.career/strategy-director-integration-architecture-11fs/9044,"London,
+United Kingdom",Strategy Director - Integration Architecture,$70k - $180k,executive,6mo
+11:FS,https://web3.career/strategy-director-embedded-finance-and-baas-11fs/9043,"London,
+United Kingdom",Strategy Director - Embedded Finance and BaaS,,executive:embedded:finance,6mo
+11:FS,https://web3.career/senior-product-designer-11fs/9042,"London,
+United Kingdom",Senior Product Designer,$60k - $120k,design:non tech:senior,6mo
+11:FS,https://web3.career/senior-platform-engineer-11fs/9041,Remote,Senior Platform Engineer,$85k - $200k,dev:senior:remote,6mo
+11:FS,https://web3.career/senior-manager-consulting-11fs/9040,"London,
+United Kingdom","Senior Manager, Consulting",,consulting:senior,6mo
+11:FS,https://web3.career/senior-competitor-strategist-11fs/9039,"London,
+United Kingdom",Senior Competitor Strategist,$78k - $200k,senior,6mo
+11:FS,https://web3.career/product-manager-11fs/9038,"London,
+United Kingdom",Product Manager,$69k - $160k,product manager:non tech,6mo
+11:FS,https://web3.career/product-director-11fs/9037,"London,
+United Kingdom",Product Director,$70k - $180k,executive,6mo
+11:FS,https://web3.career/frontend-engineer-react-react-native-11fs/9036,"London,
+United Kingdom",Frontend Engineer (React/React Native),$115k - $120k,dev:front end:react native:mobile:javascript,6mo

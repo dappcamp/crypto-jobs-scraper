@@ -1,36 +1,63 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Crystal Blockchain Analytics,https://web3.career/training-and-certification-program-lead-remote-crystal/26191,Training and Certification Program Lead (Remote),,remote:lead:education,5d
-"Palm NFT Studio, Inc.",https://web3.career/fp-a-director-palmnftstudioinc/26190,FP&A Director,$63k - $180k,executive:nft,5d
-Lever Implementation Training Environment,https://web3.career/senior-manager-design-ops-ui-ux-global-fintech-startup-leverdemo-8/26189,Senior/Manager - Design Ops (UI/UX) - Global Fintech Startup,,design:non tech:finance:senior,5d
-Replit,https://web3.career/sr-counsel-agc-head-of-product-privacy-ip-legal-replit/26188,"Sr Counsel/AGC - Head of Product, Privacy & IP Legal",,legal:executive:product manager:non tech:remote,5d
-OKX,https://web3.career/designops-manager-okx/26187,DesignOps Manager,$50k - $155k,,5d
-Xsolla,https://web3.career/unreal-engine-5-developer-xsolla/26186,Unreal Engine 5 Developer,$70k - $200k,dev:game dev,5d
-Plaid,https://web3.career/experienced-software-engineer-crypto-plaid/26185,Experienced Software Engineer - Crypto,$90k - $250k,dev:crypto:remote,5d
-Bento Box Entertainment,https://web3.career/nft-senior-producer-bentoboxent/26184,NFT Senior Producer,$90k - $200k,senior:nft,5d
-Ecosapiens,https://web3.career/community-manager-ecoverse-ecosapiens/26183,"Community Manager, EcoVerse",$125k,community manager:non tech:blockchain:events manager:nft,5d
-CANVAS,https://web3.career/lead-engineer-canvas/26179,Lead Engineer,$100k - $200k,dev:lead:remote:react,5d
-Tao,https://web3.career/hedge-fund-web3-python-software-engineer-tao/26178,Hedge Fund Web3 Python Software Engineer,$100k - $400k,dev:python:remote:blockchain:dataops,5d
-Timeswap Labs,https://web3.career/intern-smart-contract-developer-timeswap-labs/26177,Intern Smart Contract Developer,$0k,dev:intern:entry level:smart contract:remote,5d
-Timeswap Labs,https://web3.career/intern-front-end-developer-defi-timeswap-labs/26176,Intern - Front End Developer (DeFi),$0k,dev:front end:intern:entry level:defi,5d
-Polygon,https://web3.career/hr-operation-intern-polygon/26175,HR Operation Intern,,hr:non tech:intern:entry level,5d
-OpenSea,https://web3.career/web3-community-data-scientist-opensea/26174,Web3 Community Data Scientist,,community manager:non tech:data science,5d
-Rarible,https://web3.career/solana-community-manager-rarible/26173,Solana Community Manager,,community manager:non tech,5d
-,https://web3.career/community-manager-travala/26172,Community Manager,$40k - $101k,community manager:non tech,5d
-Binance,https://web3.career/regulatory-reporting-officer-binance/26171,Regulatory Reporting Officer,$24k - $140k,legal,5d
-QuickNode,https://web3.career/senior-golang-engineer-quicknode/26170,Senior GoLang Engineer,$65k - $150k,dev:golang:senior:remote,5d
-CreatorMachine,https://web3.career/blockchain-engineer-solana-near-creatormachine/26169,Blockchain Engineer (Solana/NEAR),$80k - $120k,dev:blockchain:solidity:solana:nft,5d
-Binance,https://web3.career/senior-hr-business-partner-europe-binance/26168,Senior HR Business Partner (Europe),,hr:non tech:senior,5d
-Genies,https://web3.career/technical-recruiter-genies/26167,Technical Recruiter,$51k - $70k,recruiter:non tech:nft,5d
-Kraken Digital Asset Exchange,https://web3.career/mev-engineer-staked-kraken/26166,MEV Engineer - Staked,$60k - $165k,dev:remote:node,5d
-Ethereum Foundation,https://web3.career/web3-engineer-ethereumfoundation/26165,Web3 Engineer,$65k - $150k,dev:remote:ethereum,5d
-Dark Matter Ventures,https://web3.career/blockchain-full-stack-developer-dark-matter-ventures-2/26164,Blockchain full-stack developer,$100k - $120k,dev:full stack:blockchain:solidity:java,5d
-Libertex Group,https://web3.career/junior-crypto-research-analyst-libertexgroup/26163,Junior Crypto Research Analyst,$10k - $13k,analyst:junior:entry level:crypto,5d
-"Exodus Movement, Inc",https://web3.career/blockchain-engineer-assets-exodusmovement-inc/26162,Blockchain Engineer - Assets,$50k - $120k,dev:blockchain:react:javascript:node,5d
-Brinc,https://web3.career/nft-digital-art-collectibles-accelerator-program-manager-brinc/26161,NFT & Digital Art Collectibles Accelerator Program Manager,$63k - $180k,executive:nft,5d
-Brinc,https://web3.career/program-manager-crypto-gaming-guild-p2e-blockchain-nft-gaming-brinc/26160,Program Manager - Crypto Gaming Guild (P2E/Blockchain/NFT Gaming),$50k - $160k,game dev:executive:blockchain:crypto:nft,5d
-Libertex Group,https://web3.career/solidity-developer-relocation-to-montenegro-libertexgroup/26159,Solidity Developer (relocation to Montenegro),$63k - $165k,dev:solidity:ethereum,5d
-Coinbase,https://web3.career/senior-product-manager-devrel-coinbase/26158,Senior Product Manager - DevRel,$80k - $150k,product manager:non tech:senior:remote:ethereum,5d
-Coinbase,https://web3.career/senior-engineer-blockchain-security-asset-review-coinbase/26157,"Senior Engineer, Blockchain Security - Asset Review",$95k - $250k,dev:security:senior:blockchain:remote,5d
-Ledger,https://web3.career/senior-sre-system-engineer-ledger/26156,Senior SRE - System Engineer,$150k - $200k,dev:senior:sys admin,5d
-Ripple,https://web3.career/software-engineer-ripplenet-payments-ripple/26155,"Software Engineer, RippleNet Payments",$60k - $180k,dev,5d
-,https://web3.career/vp-of-sales-remote-ote-300k-year-ionicpartners/26154,VP of Sales (Remote) - OTE $300k/year,$29k - $108k,remote:sales:non tech:executive:nft,5d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Amun 21Shares,https://web3.career/global-director-of-admin-amun/26775,"Zurich,
+Switzerland",Global Director of Admin,$70k - $180k,executive,4d
+Decentrabanc,https://web3.career/blockchain-engineer-decentrabanc-1/26774,"New York,
+United States",Blockchain Engineer,$50k - $100k,dev:blockchain,5d
+Space and Time,https://web3.career/sr-smart-contract-engineer-blockchain-web3-development-400k-full-time-remote-southern-california-a-strong-p-space-and-time-1/26773,"Los Angeles,
+United States","SR. SMART CONTRACT ENGINEER (Blockchain/Web3 Development) $400k+ - Full-time, Remote (Southern California a strong p",$400k - $470k,remote:dev:full time:senior:blockchain,5d
+Crypto.com,https://web3.career/compliance-advisory-manager-hk-crypto/26772,"Hong Kong,
+Hong Kong",Compliance Advisory Manager - HK,,compliance,5d
+GIANT Protocol,https://web3.career/lead-product-manager-identity-and-privacy-giantconnect/26771,Remote,"Lead Product Manager, Identity and Privacy",,lead:product manager:non tech:remote,5d
+Binance,https://web3.career/head-of-customer-relations-thailand-binance/26770,"Bangkok,
+Thailand",Head of Customer Relations - Thailand,$70k - $180k,executive,5d
+Figment,https://web3.career/director-of-product-customer-experience-figment/26769,"Toronto,
+Canada","Director of Product, Customer Experience",,customer support:executive:product manager:non tech,5d
+LATOKEN,https://web3.career/senior-qa-automation-engineer-latoken/26768,"Moscow,
+Russia",Senior QA Automation Engineer,$30k - $50k,dev:quality assurance:senior,5d
+Terraform Labs,https://web3.career/gaming-partnerships-lead-terra/26767,Remote,Gaming Partnerships Lead,$135k - $150k,sales:non tech:game dev:lead:remote,5d
+Crypto.com,https://web3.career/dapp-engineer-crypto/26766,Netherlands,Dapp Engineer,$90k - $170k,dev:dapp,5d
+Public,https://web3.career/senior-frontend-engineer-react-typescript-public/26763,"New York,
+United States",Senior Frontend Engineer - React/Typescript,$50k - $150k,dev:front end:javascript:react:senior,5d
+BitGo,https://web3.career/product-manager-bitgo-gmbh-bitgo/26761,"Frankfurt,
+Germany",Product Manager (BitGo GmbH),$110k - $175k,product manager:non tech:remote,5d
+Crypto.com,https://web3.career/crypto-content-writer-financial-reporting-journalism-experience-is-essential-crypto/26760,"Hong Kong,
+Hong Kong",Crypto Content Writer (Financial reporting / Journalism experience is essential),$62k - $96k,copywriting:non tech:finance:crypto,5d
+Bittrex,https://web3.career/senior-backend-software-engineer-wallet-team-bittrex/26758,"Washington,
+United States",Senior Backend Software Engineer - Wallet Team,$70k - $200k,backend:dev:senior:javascript:java,5d
+Aptos,https://web3.career/product-manager-gaming-aptoslabs/26756,"Los Angeles,
+United States","Product Manager, Gaming",$110k - $160k,game dev:product manager:non tech,5d
+Crypto.com,https://web3.career/qa-engineer-blockchain-team-global-fintech-startup-crypto/26755,"Hong Kong,
+Hong Kong","QA Engineer, Blockchain Team - Global Fintech startup",,dev:finance:quality assurance:blockchain,5d
+Crypto.com,https://web3.career/concept-designer-visual-development-artist-nft-global-fintech-startup-crypto/26754,"Singapore,
+Singapore",Concept Designer / Visual Development Artist (NFT) - Global Fintech Startup,,design:non tech:finance:nft,5d
+Crypto.com,https://web3.career/art-director-nft-global-fintech-startup-crypto/26753,"Singapore,
+Singapore",Art Director (NFT) - Global Fintech Startup,$120k - $225k,executive:finance:nft,5d
+Crypto.com,https://web3.career/dapp-engineer-crypto/26752,"London,
+United Kingdom",Dapp Engineer,$90k - $170k,dev:dapp,5d
+Figure,https://web3.career/senior-designer-equity-solutions-marketplace-figure/26751,United States,"Senior Designer, Equity Solutions & Marketplace",$60k - $120k,design:non tech:senior,5d
+Amun 21Shares,https://web3.career/director-of-product-platform-amun/26749,"New York,
+United States","Director of Product, Platform",$135k - $170k,executive:product manager:non tech,5d
+Amun 21Shares,https://web3.career/director-of-product-growth-amun/26748,"New York,
+United States","Director of Product, Growth",$70k - $158k,executive:marketing:non tech:product manager,5d
+cheqd,https://web3.career/full-stack-blockchain-engineer-typescript-cheqd/26747,United Kingdom,Full Stack Blockchain Engineer (Typescript),$80k - $100k,dev:full stack:blockchain:web3js:react,5d
+Crypto.com,https://web3.career/senior-engineer-business-automation-global-fintech-startup-crypto/26746,"Singapore,
+Singapore",Senior Engineer (Business Automation) - Global Fintech Startup,,dev:finance:senior,5d
+Crypto.com,https://web3.career/information-security-certification-analyst-hk-crypto/26745,"Hong Kong,
+Hong Kong",Information Security Certification Analyst (HK),$60k - $185k,analyst:security,5d
+Crypto.com,https://web3.career/creative-copywriter-crypto/26744,"Singapore,
+Singapore",Creative Copywriter,,copywriting:non tech:nft,5d
+Crypto.com,https://web3.career/blockchain-security-engineer-backend-rust-au-crypto/26743,"Sydney,
+Australia",Blockchain Security Engineer - Backend (Rust) (AU),$45k - $140k,backend:dev:rust:security:blockchain,5d
+Crypto.com,https://web3.career/android-developer-defi-wallet-australia-taiwan-crypto/26742,"Sydney,
+Australia",Android Developer (DeFi Wallet) - Australia / Taiwan,,android:mobile:dev:defi,5d
+Crypto.com,https://web3.career/blockchain-engineer-node-js-typescript-crypto/26741,"Hong Kong,
+Hong Kong",Blockchain Engineer (Node.js / Typescript),$56k - $155k,javascript:dev:node:blockchain,5d
+Crypto.com,https://web3.career/blockchain-security-engineer-backend-javascript-jp-crypto/26740,"Tokyo,
+Japan",Blockchain Security Engineer (Backend) - Javascript (JP),$60k - $140k,backend:dev:javascript:security:blockchain,5d
+Crypto.com,https://web3.career/dapp-engineer-crypto/26739,"Hong Kong,
+Hong Kong",Dapp Engineer,$90k - $170k,dev:dapp,5d
+Crypto.com,https://web3.career/financial-crimes-manager-malta-crypto/26738,Malta,Financial Crimes Manager. Malta,$40k - $175k,finance,5d
+Crypto.com,https://web3.career/product-designer-global-fintech-startup-crypto/26737,"Singapore,
+Singapore",Product Designer - Global Fintech Startup,,design:non tech:finance,5d
+Binance,https://web3.career/senior-ui-ux-designer-big-data-binance/26736,Asia,Senior UI/UX Designer - Big Data,,big data:design:non tech:senior,5d
+"PicoLink, LLC",https://web3.career/director-of-tech-defi-wallet-picolink-llc/26735,Remote,Director Of Tech (DeFi Wallet),$50k - $130k,executive:cto:defi:remote:blockchain,5d

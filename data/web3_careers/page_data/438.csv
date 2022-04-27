@@ -1,36 +1,58 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Bitwise Asset Management,https://web3.career/senior-recruiter-ny-or-sf-area-bitwiseinvestments/7956,Senior Recruiter (NY or SF Area),$40k - $70k,recruiter:non tech:senior,6mo
-Ledger,https://web3.career/technical-community-manager-ledger/7955,Technical Community Manager,$40k - $100k,community manager:non tech,6mo
-Binance,https://web3.career/product-manager-finance-trading-binance/7954,Product Manager (Finance Trading),,finance:product manager:non tech,6mo
-Paradigm,https://web3.career/executive-assistant-paradigm-xyz/7953,Executive Assistant,$70k - $180k,executive,6mo
-CoinFlip,https://web3.career/senior-technical-product-manager-kiosks-and-atm-s-coinflip/7952,Senior Technical Product Manager – Kiosks and ATM’s,$80k - $150k,product manager:non tech:senior,6mo
-3Box Labs,https://web3.career/blockchain-engineering-lead-3box/7951,Blockchain Engineering Lead,,lead:blockchain:remote,6mo
-Lossless,https://web3.career/software-engineer-lossless/7950,Software Engineer,,dev:solidity:ethereum:javascript:node,6mo
-Foundry,https://web3.career/senior-ai_ml-software-engineer-foundrydigital/7946,Senior AI_ML Software Engineer,$120k - $210k,dev:senior:rust,6mo
-Binance,https://web3.career/executive-administrative-assistant-binance/7945,Executive Administrative Assistant,$70k - $180k,executive,6mo
-Paradigm,https://web3.career/community-lead-paradigm-xyz/7944,Community Lead,$40k - $65k,community manager:non tech:lead,6mo
-Ethereum,https://web3.career/front-end-web-developer-ethereum/7943,Front-end web developer,$50k - $144k,dev:front end:react:ethereum:vue,6mo
-Connext,https://web3.career/developer-relations-connext-network/7942,Developer Relations,,customer support:dev:ethereum:remote,6mo
-IOVLabs,https://web3.career/customer-service-iovlabs/7941,Customer Service,$40k - $80k,customer support:remote,6mo
-Blockchain.com,https://web3.career/customer-onboarding-manager-retail-blockchain/7940,Customer Onboarding Manager (Retail),,,6mo
-Anchorage Digital,https://web3.career/engineering-manager-anchorage/7939,Engineering Manager,$70k - $180k,executive,6mo
-Foundry,https://web3.career/ai_ml-software-engineer-foundrydigital/7938,AI_ML Software Engineer,$75k - $190k,dev:rust,6mo
-GSR,https://web3.career/smart-contract-engineer-solidity-singapore-gsr/7937,Smart Contract Engineer (Solidity) - Singapore,$72k - $200k,dev:smart contract:solidity,6mo
-Blockchain.com,https://web3.career/revenue-accounting-manager-blockchain/7936,Revenue Accounting Manager,$25k - $150k,accounting,6mo
-Lossless,https://web3.career/front-end-developer-lossless/7935,Front-End Developer,,dev:front end:react:remote,6mo
-Reddit,https://web3.career/senior-backend-engineer-nft-platform-reddit/7934,"Senior Backend Engineer, NFT Platform",$70k - $200k,backend:dev:senior:nft,6mo
-Voice,https://web3.career/frontend-engineer-voice/7931,Frontend Engineer,$50k - $144k,dev:front end:react:nft:javascript,6mo
-Binance,https://web3.career/spanish-cs-shift-leader-binance/7930,Spanish CS Shift Leader,$95k - $200k,lead:remote,6mo
-MoonPay,https://web3.career/senior-corporate-security-engineer-moonpay/7929,Senior Corporate Security Engineer,$95k - $250k,dev:security:senior,6mo
-Binance,https://web3.career/business-development-manager-brazil-binance/7928,Business Development Manager - Brazil,$26k - $140k,sales:non tech,6mo
-Amun 21Shares,https://web3.career/head-of-marketing-tokens-amun/7927,"Head of Marketing, Tokens",$70k - $158k,executive:marketing:non tech,6mo
-Metadrop,https://web3.career/sr-frontend-engineer-react-next-js-metadrop/7926,Sr. Frontend Engineer (React/Next.js),,javascript:dev:front end:nextjs:react,6mo
-Metadrop,https://web3.career/sr-solidity-engineer-metadrop/7925,Sr. Solidity Engineer,$80k - $200k,dev:senior:solidity:web3js:nft,6mo
-Metadrop,https://web3.career/sr-frontend-engineer-react-next-js-unknown/7924,Sr. Frontend Engineer (React/Next.js),$50k - $140k,javascript:dev:front end:nextjs:react,6mo
-Ripple,https://web3.career/senior-database-engineer-ripple/7923,Senior Database Engineer,$32k - $113k,dev:senior:ruby,6mo
-Ripple,https://web3.career/senior-recruiter-ripple/7922,Senior Recruiter,$40k - $70k,recruiter:non tech:senior,6mo
-Ripple,https://web3.career/legal-counsel-ripple/7921,Legal Counsel,$24k - $140k,legal,6mo
-Ripple,https://web3.career/institutional-markets-manager-ripple/7920,Institutional Markets Manager,,,6mo
-Ripple,https://web3.career/institutional-markets-manager-ripple/7919,Institutional Markets Manager,,,6mo
-Ripple,https://web3.career/it-support-specialist-ripple/7918,IT Support Specialist,$40k - $80k,customer support,6mo
-Ripple,https://web3.career/technical-services-engineer-ripple/7917,Technical Services Engineer,$18k - $52k,dev:javascript:ruby,6mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Ava Labs,https://web3.career/technical-recruiter-avalabs/8577,"San Francisco,
+United States",Technical Recruiter,$40k - $70k,recruiter:non tech,6mo
+Ava Labs,https://web3.career/recruitment-coordinator-avalabs/8576,,Recruitment Coordinator,$40k - $70k,recruiter:non tech,6mo
+Ava Labs,https://web3.career/office-manager-avalabs/8575,,Office Manager,,,6mo
+Ava Labs,https://web3.career/executive-assistant-to-the-ceo-avalabs/8574,,Executive Assistant to the CEO,$70k - $180k,executive,6mo
+Ava Labs,https://web3.career/social-media-manager-avalabs/8573,"New York,
+United States",Social Media Manager,$33k - $85k,social media:non tech,6mo
+Ava Labs,https://web3.career/product-marketing-director-avalabs/8572,"New York,
+United States",Product Marketing Director,$70k - $158k,executive:marketing:non tech,6mo
+Ava Labs,https://web3.career/marketing-operations-manager-avalabs/8571,,Marketing Operations Manager,,marketing:non tech:operations,6mo
+Ava Labs,https://web3.career/marketing-designer-avalabs/8570,,Marketing Designer,,design:non tech:marketing,6mo
+Ava Labs,https://web3.career/director-performance-marketing-avalabs/8569,"New York,
+United States","Director, Performance Marketing",$70k - $158k,executive:marketing:non tech,6mo
+Ava Labs,https://web3.career/community-growth-director-avalabs/8568,"New York,
+United States",Community Growth Director,$45k - $150k,community manager:non tech:executive:marketing,6mo
+Ava Labs,https://web3.career/deputy-general-counsel-avalabs/8567,"New York,
+United States",Deputy General Counsel,$24k - $140k,legal,6mo
+Ava Labs,https://web3.career/head-of-finance-avalabs/8566,"New York,
+United States",Head of Finance,$90k - $200k,executive:finance,6mo
+Ava Labs,https://web3.career/smart-contracts-engineer-avalabs/8565,"San Francisco,
+United States",Smart Contracts Engineer,$80k - $180k,dev:smart contract:react:solidity:javascript,6mo
+Ava Labs,https://web3.career/senior-software-engineer-bridge-avalabs/8564,"San Francisco,
+United States",Senior Software Engineer (Bridge),$80k - $200k,dev:senior:solidity:ethereum:golang,6mo
+Ava Labs,https://web3.career/senior-smart-contracts-engineer-avalabs/8563,"San Francisco,
+United States",Senior Smart Contracts Engineer,$120k - $250k,dev:senior:smart contract:react:solidity,6mo
+Ava Labs,https://web3.career/senior-react-native-engineer-avalabs/8562,,Senior React Native Engineer,$65k - $200k,dev:react native:mobile:javascript:react,6mo
+Ava Labs,https://web3.career/senior-node-js-engineer-avalabs/8561,"San Francisco,
+United States",Senior Node.JS Engineer,$60k - $155k,javascript:dev:node:senior:react,6mo
+Ava Labs,https://web3.career/senior-fullstack-engineer-avalabs/8560,"San Francisco,
+United States",Senior Fullstack Engineer,$70k - $180k,dev:full stack:senior:react:javascript,6mo
+Ava Labs,https://web3.career/senior-front-end-engineer-avalabs/8559,,Senior Front End Engineer,$70k - $190k,dev:front end:senior:react:javascript,6mo
+Ava Labs,https://web3.career/senior-c-engineer-bridge-avalabs/8558,"New York,
+United States",Senior C++ Engineer (Bridge),$100k - $150k,c:c plus plus:dev:senior:ethereum,6mo
+Ava Labs,https://web3.career/senior-backend-engineer-core-blockchain-avalabs/8557,"San Francisco,
+United States",Senior Backend Engineer (Core Blockchain),$70k - $200k,backend:dev:senior:blockchain:java,6mo
+Ava Labs,https://web3.career/fullstack-engineer-avalabs/8556,"San Francisco,
+United States",Fullstack Engineer,$65k - $180k,dev:full stack:react:javascript:node,6mo
+Ava Labs,https://web3.career/front-end-engineer-avalabs/8555,,Front End Engineer,$50k - $144k,dev:front end:react:javascript,6mo
+Ava Labs,https://web3.career/backend-engineer-avalabs/8554,"San Francisco,
+United States",Backend Engineer,$60k - $160k,backend:dev:java:golang:rust,6mo
+Ava Labs,https://web3.career/director-of-business-development-enterprise-institutional-avalabs/8553,"New York,
+United States","Director of Business Development, Enterprise & Institutional",$40k - $150k,sales:non tech:executive,6mo
+OnJuno,https://web3.career/program-manager-tech-onjuno/8547,"Bengaluru,
+India",Program Manager (Tech),$70k - $180k,executive,6mo
+OnJuno,https://web3.career/social-media-manager-onjuno/8546,"Bengaluru,
+India",Social Media Manager,$33k - $85k,social media:non tech,6mo
+Anchorage Digital,https://web3.career/member-of-technical-staff-backend-engineering-cryptoassets-anchorage/8545,Portugal,"Member of Technical Staff, Backend Engineering (Cryptoassets)",$65k - $180k,backend,6mo
+Thesis*,https://web3.career/growth-marketer-keep-thesis/8544,,Growth Marketer - Keep,$45k - $130k,marketing:non tech,6mo
+Ava Labs,https://web3.career/devops-engineer-avalabs/8543,"New York,
+United States",DevOps Engineer,$70k - $180k,devops:dev,6mo
+BitMEX,https://web3.career/senior-devops-engineer-bitmex/8542,"Zurich,
+Switzerland",Senior DevOps Engineer,$120k - $200k,devops:dev:senior:java,6mo
+BitMEX,https://web3.career/senior-software-engineer-mobile-bitmex/8541,"Zurich,
+Switzerland",Senior Software Engineer - Mobile,$120k - $200k,dev:mobile:senior:react:react native,6mo
+BitMEX,https://web3.career/project-manager-bitmex/8539,,Project Manager,$50k - $150k,project manager:non tech,6mo
+Kraken Digital Asset Exchange,https://web3.career/senior-treasury-analyst-north-america-kraken/8538,United States,Senior Treasury Analyst - North America,$150k - $185k,analyst:senior,6mo
+BitMEX,https://web3.career/product-manager-trading-platform-web-mobile-bitmex/8537,,Product Manager - Trading Platform (Web/Mobile),,mobile:product manager:non tech,6mo

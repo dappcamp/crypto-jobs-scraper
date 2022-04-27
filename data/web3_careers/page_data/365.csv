@@ -1,36 +1,63 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Localcoin,https://web3.career/atm-field-technician-localcoin/10537,ATM Field Technician,,,5mo
-Localcoin,https://web3.career/staff-accountant-localcoin/10536,Staff Accountant,$25k - $150k,accounting,5mo
-Localcoin,https://web3.career/corporate-accountant-localcoin/10535,Corporate Accountant,$25k - $150k,accounting,5mo
-Localcoin,https://web3.career/software-developer-integrations-localcoin/10534,"Software Developer, Integrations",$65k - $160k,dev:php,5mo
-Localcoin,https://web3.career/analytics-engineering-manager-localcoin/10533,Analytics Engineering Manager,$50k - $130k,executive:stats,5mo
-Localcoin,https://web3.career/bilingual-customer-service-representative-full-time-localcoin/10532,Bilingual Customer Service Representative (Full-Time),,customer support:full time,5mo
-Localcoin,https://web3.career/executive-assistant-localcoin/10531,Executive Assistant,$70k - $180k,executive,5mo
-Liquid,https://web3.career/trading-technology-engineer-c-liquid/10530,Trading Technology Engineer (C++),$100k - $150k,c:c plus plus:dev:ruby:java,5mo
-Liquid,https://web3.career/ruby-developer-liquid/10529,Ruby Developer,$33k - $113k,dev:ruby,5mo
-Liquid,https://web3.career/qa-be-liquid/10528,QA BE,$62k - $150k,quality assurance,5mo
-Liquid,https://web3.career/nodejs-developer-liquid/10527,NodeJS Developer,$60k - $155k,dev:javascript:node:ruby,5mo
-Liquid,https://web3.career/full-stack-js-engineer-liquid/10526,Full Stack JS Engineer,$65k - $180k,javascript:dev:full stack:ruby:remote,5mo
-Liquid,https://web3.career/backend-engineer-blockchain-labs-liquid/10525,Backend Engineer - Blockchain Labs,$60k - $180k,backend:dev:blockchain:ethereum:golang,5mo
-Liquid,https://web3.career/backend-developer-liquid/10524,Backend Developer,$65k - $250k,backend:dev:ruby:java,5mo
-Liquid,https://web3.career/ui-ux-creative-designer-liquid/10523,UI/UX Creative Designer,$50k - $150k,design:non tech,5mo
-Liquid,https://web3.career/people-culture-coordinator-liquid/10522,People & Culture Coordinator,,,5mo
-Liquid,https://web3.career/head-of-treasury-and-cash-management-liquid/10521,Head of Treasury and Cash Management,$70k - $180k,executive,5mo
-Liquid,https://web3.career/digital-marketer-in-japan-liquid/10520,Digital Marketer in Japan,$45k - $130k,marketing:non tech,5mo
-Liquid,https://web3.career/digital-customer-lifecycle-manager-liquid/10519,Digital & Customer Lifecycle Manager,,,5mo
-Liquid,https://web3.career/business-intern-liquid/10518,Business Intern,,intern:entry level,5mo
-Liquid,https://web3.career/security-engineer-liquid/10517,Security Engineer,$95k - $250k,dev:security,5mo
-Liquid,https://web3.career/chief-information-security-officer-ciso-liquid/10516,Chief Information Security Officer (CISO),$95k - $250k,executive:security,5mo
-Liquid,https://web3.career/senior-accountant-liquid/10515,Senior Accountant,$80k - $110k,accounting:senior,5mo
-Liquid,https://web3.career/accountant-liquid/10514,Accountant,$25k - $150k,accounting,5mo
-Liquid,https://web3.career/customer-support-liquid/10513,Customer Support,$40k - $80k,customer support,5mo
-Liquid,https://web3.career/customer-champions-liquid/10512,Customer champions,,,5mo
-Liquid,https://web3.career/head-of-business-development-and-sales-japan-liquid/10511,"Head of Business Development and Sales, Japan",$40k - $150k,executive:sales:non tech,5mo
-Liquid,https://web3.career/business-development-and-sales-specialist-liquid/10510,Business Development and Sales Specialist,$26k - $140k,sales:non tech,5mo
-Liquid,https://web3.career/business-development-and-sales-specialist-liquid/10509,Business Development and Sales Specialist,$26k - $140k,sales:non tech,5mo
-Kronos Research,https://web3.career/quantitative-researcher-trader-kronosresearch/10508,Quantitative Researcher / Trader,$31k - $37k,trader,5mo
-Kronos Research,https://web3.career/quantitative-researcher-trader-kronosresearch/10507,Quantitative Researcher / Trader,$31k - $37k,trader,5mo
-Kronos Research,https://web3.career/cta-trader-kronosresearch/10506,CTA Trader,$31k - $37k,trader,5mo
-Kronos Research,https://web3.career/alpha-researcher-kronosresearch/10505,Alpha Researcher,,,5mo
-Kronos Research,https://web3.career/staff-software-engineer-data-kronosresearch/10504,"Staff Software Engineer, Data",$33k - $140k,dev:java,5mo
-Kronos Research,https://web3.career/staff-software-engineer-c-kronosresearch/10503,"Staff Software Engineer, C++",$100k - $150k,c:c plus plus:dev,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+OpenSea,https://web3.career/trust-and-safety-operations-specialist-opensea/11081,Remote,"Trust and Safety Operations, Specialist",$80k - $110k,operations:remote,6mo
+MoonPay,https://web3.career/customer-support-analyst-emea-moonpay/11080,"London,
+United Kingdom",Customer Support Analyst (EMEA),$15k - $95k,analyst:customer support,6mo
+MoonPay,https://web3.career/customer-operations-analyst-latam-moonpay/11079,Colombia,Customer Operations Analyst (LATAM),,analyst:operations,6mo
+MoonPay,https://web3.career/customer-operations-analyst-apac-moonpay/11078,"Manila,
+Philippines",Customer Operations Analyst (APAC),,analyst:operations,6mo
+Blockdaemon,https://web3.career/project-manager-blockdaemon/11077,"San Francisco,
+United States",Project Manager,$50k - $150k,project manager:non tech,6mo
+11:FS,https://web3.career/graduate-financial-analyst-11fs/11076,"London,
+United Kingdom",Graduate Financial Analyst,$20k - $30k,analyst:intern:entry level:finance,6mo
+Public,https://web3.career/android-engineer-public/11075,"New York,
+United States",Android Engineer,,android:mobile:dev,6mo
+Aave,https://web3.career/security-smart-contract-auditor-aave/11074,Remote,Security Smart Contract Auditor,,security:smart contract:solidity:remote,6mo
+Aave,https://web3.career/product-manager-aave/11073,Remote,Product Manager,,product manager:non tech:remote,6mo
+Aave,https://web3.career/senior-product-designer-aave/11072,Remote,Senior Product Designer,,design:non tech:senior:remote,6mo
+Gemini,https://web3.career/technical-project-manager-gemini/11071,"New York,
+United States",Technical Project Manager,$50k - $150k,project manager:non tech,6mo
+Gemini,https://web3.career/program-manager-prime-services-gemini/11070,,"Program Manager, Prime Services",$120k - $150k,accounting:executive,6mo
+Gemini,https://web3.career/program-manager-compliance-gemini/11069,,"Program Manager, Compliance",,compliance:executive,6mo
+Gemini,https://web3.career/lead-program-manager-international-expansion-gemini/11068,"New York,
+United States","Lead Program Manager, International Expansion",$140k - $200k,lead:executive,6mo
+Gemini,https://web3.career/trading-systems-engineer-gemini/11067,"New York,
+United States",Trading Systems Engineer,,dev:sys admin:scala:java,6mo
+Gemini,https://web3.career/software-development-engineer-in-test-gemini/11066,"New York,
+United States",Software Development Engineer in Test,$50k - $150k,quality assurance:dev,6mo
+Gemini,https://web3.career/senior-software-engineer-retention-gemini/11065,"Los Angeles,
+United States","Senior Software Engineer, Retention",,marketing:non tech:product manager:dev:senior,6mo
+Gemini,https://web3.career/senior-software-engineer-marketing-tech-gemini/11064,"New York,
+United States",Senior Software Engineer: Marketing Tech,$85k - $120k,dev:marketing:non tech:senior:scala,6mo
+Gemini,https://web3.career/senior-software-engineer-compliance-gemini/11063,"Portland,
+United States",Senior Software Engineer - Compliance,,compliance:dev:senior:ethereum:scala,6mo
+Gemini,https://web3.career/senior-software-engineer-advanced-trading-gemini/11062,,"Senior Software Engineer, Advanced Trading",$80k - $200k,dev:senior:ethereum:scala,6mo
+Gemini,https://web3.career/senior-software-engineer-gemini/11061,"New York,
+United States",Senior Software Engineer,$80k - $200k,dev:senior:ethereum:scala,6mo
+Gemini,https://web3.career/senior-mobile-quality-assurance-engineer-gemini/11060,"New York,
+United States",Senior Mobile Quality Assurance Engineer,$120k - $200k,dev:mobile:senior:ethereum:scala,6mo
+Gemini,https://web3.career/senior-mobile-engineer-react-native-gemini/11059,"New York,
+United States",Senior Mobile Engineer (React Native),$65k - $200k,dev:mobile:react native:javascript:react,6mo
+Gemini,https://web3.career/senior-frontend-engineer-gemini/11058,"New York,
+United States",Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:ethereum,6mo
+Gemini,https://web3.career/manager-software-engineering-gemini/11057,"New York,
+United States","Manager, Software Engineering",,dev:scala,6mo
+Gemini,https://web3.career/frontend-qa-engineer-gemini/11056,"New York,
+United States",Frontend QA Engineer,,dev:front end:quality assurance:ethereum:scala,6mo
+Gemini,https://web3.career/frontend-engineer-gemini/11055,"New York,
+United States",Frontend Engineer,$50k - $144k,dev:front end:react:ethereum:scala,6mo
+Gemini,https://web3.career/engineering-manager-for-wallet-gemini/11054,"New York,
+United States",Engineering Manager for Wallet,$150k - $180k,executive:scala:java,6mo
+Gemini,https://web3.career/backend-qa-engineer-gemini/11053,"New York,
+United States",Backend QA Engineer,,backend:dev:quality assurance:ethereum:scala,6mo
+Gemini,https://web3.career/technical-lead-trust-security-gemini/11052,"Atlanta,
+United States","Technical Lead, Trust & Security",,lead:security:tech lead:scala:java,6mo
+Gemini,https://web3.career/staff-cloud-security-engineer-gemini/11051,"Austin,
+United States",Staff Cloud Security Engineer,,cloud:dev:security,6mo
+Gemini,https://web3.career/senior-software-engineer-trust-security-gemini/11050,"Austin,
+United States","Senior Software Engineer, Trust & Security",$95k - $250k,dev:security:senior:scala:java,6mo
+Gemini,https://web3.career/senior-frontend-engineer-gemini/11049,"New York,
+United States",Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:ethereum,6mo
+Gemini,https://web3.career/principal-policy-program-strategy-gemini/11048,"New York,
+United States","Principal, Policy & Program Strategy",$70k - $180k,executive,6mo
+Gemini,https://web3.career/principal-global-real-estate-and-office-services-gemini/11047,"New York,
+United States","Principal, Global Real Estate and Office Services",$70k - $180k,executive,6mo

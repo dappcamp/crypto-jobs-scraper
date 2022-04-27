@@ -1,36 +1,48 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-OnJuno,https://web3.career/seo-writer-onjuno/9130,SEO Writer,$13k - $20k,seo:non tech,5mo
-OnJuno,https://web3.career/head-of-legal-compliance-onjuno/9129,Head of Legal & Compliance,,compliance:executive:legal,5mo
-OnJuno,https://web3.career/visual-designer-onjuno/9128,Visual Designer,$50k - $150k,design:non tech,5mo
-OnJuno,https://web3.career/customer-success-specialist-onjuno/9127,Customer Success Specialist,$40k - $80k,customer support,5mo
-Notabene,https://web3.career/full-stack-developer-notabene/9126,Full Stack Developer,$65k - $180k,dev:full stack,5mo
-Notabene,https://web3.career/visual-designer-notabene/9125,Visual Designer,$50k - $150k,design:non tech,5mo
-Notabene,https://web3.career/solutions-engineer-notabene/9124,Solutions Engineer,$60k - $180k,dev,5mo
-Notabene,https://web3.career/business-development-representative-notabene/9123,Business Development Representative,$26k - $140k,sales:non tech,5mo
-Notabene,https://web3.career/business-development-lead-us-notabene/9122,Business Development Lead (US),,sales:non tech:lead,5mo
-Notabene,https://web3.career/senior-product-designer-remote-notabene/9121,Senior Product Designer (remote),$50k - $135k,remote:design:non tech:senior,5mo
-Notabene,https://web3.career/strategy-operations-manager-notabene/9120,Strategy & Operations Manager,$60k - $200k,operations,5mo
-Notabene,https://web3.career/people-operations-lead-notabene/9119,People Operations Lead,,lead:operations,5mo
-Notabene,https://web3.career/customer-support-specialist-notabene/9118,Customer Support Specialist,$40k - $80k,customer support,5mo
-Notabene,https://web3.career/customer-success-lead-notabene/9117,Customer Success Lead,$25k - $35k,customer support:lead,5mo
-FTX US,https://web3.career/future-openings-ftxus/9116,Future Openings,,,5mo
-FTX US,https://web3.career/fiat-settlement-associate-ftxus/9115,Fiat Settlement Associate,,,5mo
-FTX US,https://web3.career/nft-specialist-ftxus/9114,NFT Specialist,$55k - $150k,nft,5mo
-FTX US,https://web3.career/platform-full-stack-developer-ftxus/9113,Platform/Full Stack Developer,$108k - $220k,dev:full stack:rust,5mo
-FTX US,https://web3.career/frontend-developer-ftxus/9112,Frontend Developer,$50k - $144k,dev:front end:react:react native,5mo
-FTX US,https://web3.career/customer-support-specialist-ftxus/9111,Customer Support Specialist,$40k - $80k,customer support,5mo
-FTX US,https://web3.career/kyc-aml-compliance-analyst-ftxus/9110,KYC/AML Compliance Analyst,,compliance:kyc:analyst,5mo
-FTX US,https://web3.career/marketing-associate-ftxus/9109,Marketing Associate,$25k - $120k,marketing:non tech:remote,5mo
-FTX US,https://web3.career/office-manager-ftxus/9108,Office Manager,,,5mo
-FTX US,https://web3.career/office-manager-ftxus/9107,Office Manager,,,5mo
-ExPopulus,https://web3.career/producer-film-television-expopulus/9106,Producer (Film & Television),,,5mo
-ExPopulus,https://web3.career/pr-manager-games-marketplace-expopulus/9105,PR Manager - Games & Marketplace,$45k - $130k,marketing:non tech,5mo
-ExPopulus,https://web3.career/marketing-operations-manager-expopulus/9104,Marketing Operations Manager,,marketing:non tech:operations,5mo
-ExPopulus,https://web3.career/marketing-analyst-games-marketplace-expopulus/9103,Marketing Analyst - Games & Marketplace,,analyst:marketing:non tech,5mo
-ExPopulus,https://web3.career/influencer-manager-expopulus/9102,Influencer Manager,,,5mo
-ExPopulus,https://web3.career/unity-game-developer-expopulus/9101,Unity Game Developer,$70k - $150k,dev:game dev,5mo
-ExPopulus,https://web3.career/typescript-developer-expopulus/9100,Typescript Developer,$60k - $180k,dev,5mo
-ExPopulus,https://web3.career/solana-blockchain-developer-expopulus/9099,Solana Blockchain Developer,$50k - $170k,dev:blockchain,5mo
-ExPopulus,https://web3.career/technical-video-game-designer-expopulus/9098,Technical Video Game Designer,$26k - $150k,design:non tech:game dev:video,5mo
-ExPopulus,https://web3.career/lead-ux-ui-designer-expopulus/9097,Lead UX/UI Designer,$40k - $190k,design:non tech:lead,5mo
-ExPopulus,https://web3.career/graphic-designer-expopulus/9096,Graphic Designer,$50k - $150k,design:non tech,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+IOVLabs,https://web3.career/data-analyst-iovlabs/9616,Remote,Data Analyst,$45k - $120k,analyst:data science:remote,6mo
+IOVLabs,https://web3.career/product-manager-user-services-wallets-iovlabs/9615,Remote,Product Manager (User Services & Wallets),$115k - $175k,product manager:non tech:remote,6mo
+IOVLabs,https://web3.career/product-manager-protocols-marketplace-iovlabs/9614,Remote,Product Manager (Protocols & Marketplace),$115k - $175k,product manager:non tech:remote,6mo
+IOVLabs,https://web3.career/senior-account-executive-iovlabs/9613,Remote,Senior Account Executive,$95k - $250k,executive:senior:remote,6mo
+IOVLabs,https://web3.career/account-executive-iovlabs/9612,Remote,Account Executive,$79k - $200k,executive:remote,6mo
+IOVLabs,https://web3.career/account-manager-government-partnerships-iovlabs/9611,Remote,Account Manager - Government Partnerships,,sales:non tech:account manager:remote,6mo
+IOVLabs,https://web3.career/public-relations-manager-iovlabs/9610,Remote,Public Relations Manager,$25k - $120k,marketing:non tech:remote,6mo
+IOVLabs,https://web3.career/content-writer-iovlabs/9609,Remote,Content writer,$25k - $30k,copywriting:remote,6mo
+IOVLabs,https://web3.career/community-manager-iovlabs/9608,Remote,Community Manager,$40k - $101k,community manager:non tech:remote,6mo
+IOVLabs,https://web3.career/brand-manager-iovlabs/9607,Remote,Brand Manager,$25k - $120k,marketing:non tech:remote,6mo
+IOVLabs,https://web3.career/tech-recruiter-iovlabs/9606,Remote,Tech Recruiter,,recruiter:non tech:remote,6mo
+IOVLabs,https://web3.career/application-security-engineer-iovlabs/9605,Remote,Application Security Engineer,$95k - $250k,dev:security:remote,6mo
+IOVLabs,https://web3.career/team-leader-core-iovlabs/9604,Remote,Team Leader - Core,$56k - $118k,lead:ethereum:remote,6mo
+IOVLabs,https://web3.career/c-software-engineer-iovlabs/9603,Remote,C Software Engineer,$100k - $150k,c:c plus plus:dev:ethereum:remote,6mo
+IOVLabs,https://web3.career/backend-software-engineer-powpeg-iovlabs/9602,Remote,Backend Software Engineer - Powpeg,$65k - $125k,backend:dev:ethereum:remote,6mo
+IOVLabs,https://web3.career/backend-software-engineer-mining-iovlabs/9601,Remote,Backend Software Engineer - Mining,$65k - $125k,backend:dev:ethereum:remote,6mo
+IOVLabs,https://web3.career/tech-lead-apps-services-iovlabs/9600,Remote,Tech Lead - Apps & Services,$96k - $118k,lead:tech lead:remote,6mo
+IOVLabs,https://web3.career/team-leader-interoperability-iovlabs/9599,Remote,Team Leader - Interoperability,$56k - $118k,lead:ethereum:remote,6mo
+IOVLabs,https://web3.career/senior-full-stack-developer-iovlabs/9598,Remote,Senior Full Stack Developer,$70k - $180k,dev:full stack:senior:remote,6mo
+IOVLabs,https://web3.career/full-stack-engineer-interoperability-iovlabs/9597,Remote,Full Stack Engineer - Interoperability,$70k - $140k,dev:full stack:ethereum:remote,6mo
+IOVLabs,https://web3.career/dev-ops-engineer-iovlabs/9596,Remote,Dev Ops Engineer,$95k - $180k,dev:devops:remote,6mo
+IOVLabs,https://web3.career/integration-engineer-iovlabs/9595,Remote,Integration Engineer,$65k - $180k,dev:remote,6mo
+IOVLabs,https://web3.career/project-manager-iovlabs/9594,Remote,Project Manager,$56k - $150k,project manager:non tech:remote,6mo
+Immutable,https://web3.career/test-automation-engineer-intern-immutable/9593,"Sydney,
+Australia",Test Automation Engineer (Intern),$12k - $33k,dev:intern:entry level,6mo
+Immutable,https://web3.career/test-automation-engineer-immutable/9592,"Sydney,
+Australia",Test Automation Engineer,$60k - $180k,dev,6mo
+Immutable,https://web3.career/software-engineer-immutable/9591,"Sydney,
+Australia",Software Engineer,$60k - $180k,dev:react:node:golang,6mo
+Immutable,https://web3.career/senior-software-engineer-immutable/9590,"Sydney,
+Australia",Senior Software Engineer,$80k - $200k,dev:senior:ethereum:nft,6mo
+Immutable,https://web3.career/senior-engineering-manager-immutable/9589,"Sydney,
+Australia",Senior Engineering Manager,,executive:senior:ethereum:nft,6mo
+Immutable,https://web3.career/principal-engineer-immutable/9588,"Sydney,
+Australia",Principal Engineer,,dev:executive:ethereum:nft,6mo
+Immutable,https://web3.career/head-of-ethereum-research-immutable/9587,"Sydney,
+Australia",Head of Ethereum Research,$50k - $158k,executive:ethereum:nft,6mo
+Immutable,https://web3.career/senior-software-engineer-gods-unchained-immutable/9586,"Sydney,
+Australia",Senior Software Engineer (Gods Unchained),$80k - $200k,dev:senior:ethereum,6mo
+Immutable,https://web3.career/senior-frontend-engineer-immutable/9585,"Sydney,
+Australia",Senior Frontend Engineer,$70k - $190k,dev:front end:senior,6mo
+Immutable,https://web3.career/principal-engineer-immutable/9584,"Sydney,
+Australia",Principal Engineer,$70k - $300k,dev:executive,6mo
+Immutable,https://web3.career/lead-site-reliability-engineer-immutable/9583,"Sydney,
+Australia",Lead Site Reliability Engineer,,dev:lead:sys admin,6mo
+Immutable,https://web3.career/senior-product-manager-immutable/9582,"Sydney,
+Australia",Senior Product Manager,$80k - $150k,product manager:non tech:senior:ethereum:nft,6mo

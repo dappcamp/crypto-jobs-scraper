@@ -1,36 +1,47 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Everledger,https://web3.career/senior-blockchain-engineer-nft-specialist-uk-everledger/14602,Senior Blockchain Engineer (NFT specialist)- UK,$80k - $200k,dev:senior:blockchain:nft:solidity,4mo
-Protocol Labs,https://web3.career/smart-contract-engineer-protocol/14600,Smart Contract Engineer,$90k - $180k,dev:smart contract:nft:remote,4mo
-Protocol Labs,https://web3.career/senior-engineer-ecosystem-projects-protocol/14599,Senior Engineer- Ecosystem Projects,$90k - $200k,dev:senior:nft:remote,4mo
-Chainlink Labs,https://web3.career/marketing-coordinator-chainlink/14598,Marketing Coordinator,$25k - $120k,marketing:non tech:remote,4mo
-SuperRare Labs,https://web3.career/sr-digital-marketing-manager-superrarelabs/14597,Sr. Digital Marketing Manager,$46k - $109k,marketing:non tech:senior:ethereum:nft,4mo
-Crypto.com,https://web3.career/payroll-specialist-crypto-com/14594,Payroll Specialist,$25k - $150k,accounting,4mo
-Galaxy Digital Services,https://web3.career/talent-acquisition-sourcer-galaxydigitalservices/14591,Talent Acquisition Sourcer,,recruiter:non tech:remote,4mo
-Offchain Labs,https://web3.career/software-engineer-offchainlabs/14590,Software Engineer,$60k - $150k,dev:ethereum:remote,4mo
-Boson Protocol,https://web3.career/crypto-financial-director-bosonprotocol/14589,Crypto Financial Director,$90k - $140k,executive:finance:crypto,4mo
-Blockchain.com,https://web3.career/senior-regulatory-counsel-us-blockchain/14588,Senior Regulatory Counsel (US),,legal:senior,4mo
-Blockchain.com,https://web3.career/defi-engineer-blockchain/14587,DeFi Engineer,$18k - $90k,dev:defi:web3js:solidity:ethereum,4mo
-RECUR,https://web3.career/compliance-associate-remote-philippines-recur/14584,Compliance Associate (Remote - Philippines),,compliance:remote:ethereum:nft,4mo
-RECUR,https://web3.career/compliance-analyst-remote-philippines-recur/14583,Compliance Analyst (Remote - Philippines),,compliance:remote:analyst:ethereum:nft,4mo
-Alumni Ventures Group,https://web3.career/senior-associate-blockchain-fund-alumni-ventures-group-1/14581,"Senior Associate, Blockchain Fund",$80k - $190k,senior:blockchain,4mo
-3Box Labs,https://web3.career/devops-engineer-3box/14580,DevOps Engineer,$95k - $180k,devops:dev:remote,4mo
-Market,https://web3.career/smart-contract-developer-solidity-marketxyz/14579,Smart Contract Developer (Solidity),$120k - $200k,dev:smart contract:solidity,4mo
-TokenMinds,https://web3.career/crypto-marketing-manager-tokenminds/14578,Crypto Marketing Manager,$0k,marketing:non tech:crypto:nft,4mo
-TokenMinds,https://web3.career/crypto-campaign-marketing-manager-remote-tokenminds/14577,Crypto Campaign Marketing Manager - Remote,$0k,marketing:non tech:remote:crypto,4mo
-Crypto.com,https://web3.career/financial-crimes-manager-french-speaker-crypto-com/14576,Financial Crimes Manager French Speaker,$40k - $150k,finance,4mo
-Finoa GmbH,https://web3.career/senior-partnerships-and-ecosystem-manager-m-f-div-finoa/14575,(Senior) Partnerships and Ecosystem Manager (m/f/div),$50k - $150k,sales:non tech:senior:remote,4mo
-Sygnum Bank AG,https://web3.career/tech-lead-blockchain-protocol-staking-sygnum/14574,Tech Lead - Blockchain Protocol & Staking,$78k - $118k,lead:tech lead:blockchain:react:javascript,4mo
-Blockchain.com,https://web3.career/qa-qc-semi-senior-blockchain/14573,QA/QC Semi senior,$30k - $50k,quality assurance:senior,4mo
-Ankr,https://web3.career/defi-partnerships-manager-ankr/14572,DeFi Partnerships Manager,$79k - $140k,sales:non tech:defi,4mo
-Securrency,https://web3.career/solidity-engineer-securrency/14571,Solidity Engineer,$63k - $160k,dev:solidity:ethereum,4mo
-Binance,https://web3.career/global-affiliate-manager-binance/14569,Global Affiliate Manager,$25k - $120k,marketing:non tech:remote,4mo
-Sygnum Bank AG,https://web3.career/blockchain-protocol-staking-tech-lead-sygnum/14568,Blockchain Protocol & Staking Tech Lead,$78k - $118k,lead:tech lead:blockchain:react:javascript,4mo
-FTX TR,https://web3.career/senior-product-manager-ftxtr/14564,Senior Product Manager,$80k - $150k,product manager:non tech:senior,4mo
-IOVLabs,https://web3.career/marketing-lead-iovlabs/14562,Marketing Lead,$50k - $120k,lead:marketing:non tech:remote,4mo
-Crypto.com,https://web3.career/crypto-content-writer-eu-uk-crypto-com/14561,Crypto Content Writer (EU/UK),$62k - $45k,copywriting:crypto,4mo
-Mycelium,https://web3.career/smart-contract-developer-tracer-dao-mycelium-eth/14559,Smart Contract Developer - Tracer DAO,$170k - $250k,dev:smart contract:solidity:ethereum,4mo
-Sygnum Bank AG,https://web3.career/tech-lead-engineering-custody-sygnum/14558,Tech Lead Engineering - Custody,$100k - $220k,lead:tech lead:react:javascript:node,4mo
-Star Atlas,https://web3.career/principal-site-reliability-engineer-remote-staratlas/14556,Principal Site Reliability Engineer (Remote),$95k - $300k,remote:dev:executive:sys admin,4mo
-Crypto.com,https://web3.career/android-developer-defi-wallet-uk-crypto-com/14555,Android Developer (DeFi Wallet) - UK,,android:mobile:dev:defi:nft,4mo
-Iron Fish,https://web3.career/engineering-manager-ironfish/14552,Engineering Manager,$70k - $180k,executive,4mo
-PDAX,https://web3.career/business-development-associate-capital-markets-pdax/14551,Business Development Associate — Capital Markets,$26k - $140k,sales:non tech,4mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+MetaMask,https://web3.career/blockchain-solidity-developer-codefi-metamask/15259,United States,Blockchain/Solidity Developer (Codefi),$52k - $160k,dev:blockchain:solidity:web3js:react,4mo
+MetaMask,https://web3.career/blockchain-protocol-engineer-emea-metamask/15258,"San Francisco,
+United States",Blockchain Protocol Engineer (EMEA),$33k - $120k,dev:blockchain:ethereum:java,4mo
+MetaMask,https://web3.career/blockchain-protocol-engineer-australia-metamask/15257,"Melbourne,
+Australia",Blockchain Protocol Engineer (Australia),$33k - $120k,dev:blockchain:ethereum:java,4mo
+Zeta Markets,https://web3.career/graphic-designer-animator-zeta-markets/15255,Remote,Graphic Designer/Animator,,video:design:non tech:remote:solana,4mo
+Gemini,https://web3.career/senior-mobile-quality-assurance-engineer-gemini/15254,United States,Senior Mobile Quality Assurance Engineer,$120k - $200k,dev:mobile:senior:ethereum:scala,4mo
+Gemini,https://web3.career/senior-mobile-engineer-react-native-nifty-gateway-gemini/15253,United States,"Senior Mobile Engineer (React Native), Nifty Gateway",$65k - $200k,dev:mobile:react native:javascript:react,4mo
+Gemini,https://web3.career/senior-mobile-engineer-react-native-gemini/15252,United States,Senior Mobile Engineer (React Native),$65k - $200k,dev:mobile:react native:javascript:react,4mo
+Gemini,https://web3.career/senior-machine-learning-engineer-python-gemini/15251,United States,Senior Machine Learning Engineer (Python),$140k - $180k,dev:machine learning:python:senior:java,4mo
+Gemini,https://web3.career/senior-data-analytics-engineer-gemini/15250,"Singapore,
+Singapore",Senior Data Analytics Engineer,$360k - $500k,stats:dev:senior,4mo
+Gemini,https://web3.career/senior-data-analytics-engineer-gemini/15249,United States,Senior Data Analytics Engineer,$360k - $500k,stats:dev:senior,4mo
+Gemini,https://web3.career/principal-data-engineer-trust-security-gemini/15248,United States,"Principal Data Engineer, Trust & Security",,data science:dev:executive:security:scala,4mo
+Gemini,https://web3.career/manager-software-engineering-nifty-gateway-gemini/15247,United States,"Manager, Software Engineering, Nifty Gateway",$63k - $160k,dev:solidity:ethereum:javascript,4mo
+Gemini,https://web3.career/manager-software-engineering-gemini/15246,United States,"Manager, Software Engineering",,dev:scala:java,4mo
+Gemini,https://web3.career/lead-software-engineer-trust-security-gemini/15245,United States,"Lead Software Engineer, Trust & Security",,dev:lead:security:scala:java,4mo
+Gemini,https://web3.career/head-of-security-nifty-gateway-gemini/15244,United States,"Head of Security, Nifty Gateway",,executive:security:javascript,4mo
+Gemini,https://web3.career/frontend-qa-engineer-gemini/15243,United States,Frontend QA Engineer,,dev:front end:quality assurance:ethereum:scala,4mo
+Gemini,https://web3.career/frontend-engineer-gemini/15242,United States,Frontend Engineer,$50k - $144k,dev:front end:react:ethereum:scala,4mo
+Gemini,https://web3.career/engineering-manager-client-foundations-gemini/15241,United States,"Engineering Manager, Client Foundations",$115k - $150k,executive:react:react native,4mo
+Gemini,https://web3.career/engineering-manager-for-wallet-gemini/15240,United States,Engineering Manager for Wallet,$150k - $180k,executive:scala:java,4mo
+Gemini,https://web3.career/director-cloud-infrastructure-engineering-gemini/15239,United States,"Director, Cloud Infrastructure Engineering",,cloud:executive,4mo
+Gemini,https://web3.career/cloud-infrastructure-engineer-storage-gemini/15238,United States,"Cloud Infrastructure Engineer, Storage",,cloud:dev:java:golang,4mo
+Gemini,https://web3.career/backend-qa-engineer-gemini/15237,United States,Backend QA Engineer,,backend:dev:quality assurance:ethereum:scala,4mo
+Gemini,https://web3.career/senior-visual-designer-product-gemini/15236,United States,"Senior Visual Designer, Product",$60k - $120k,design:non tech:senior:javascript,4mo
+Gemini,https://web3.career/senior-visual-designer-gemini/15235,United States,Senior Visual Designer,$60k - $120k,design:non tech:senior,4mo
+Gemini,https://web3.career/product-designer-nifty-gateway-gemini/15234,United States,"Product Designer, Nifty Gateway",$80k - $150k,design:non tech:ethereum:nft,4mo
+Gemini,https://web3.career/lead-ux-writer-gemini/15233,United States,"Lead, UX Writer",$40k - $190k,lead:design:non tech,4mo
+Gemini,https://web3.career/lead-ux-research-gemini/15232,United States,"Lead, UX Research",$40k - $190k,lead:design:non tech,4mo
+Alchemy,https://web3.career/research-scientist-protocol-design-alchemy/15231,"San Francisco,
+United States",Research Scientist (Protocol Design),$80k - $150k,design:non tech:ethereum,4mo
+Alchemy,https://web3.career/frontend-engineer-general-alchemy/15230,"San Francisco,
+United States",Frontend Engineer (General),$50k - $144k,dev:front end:react,4mo
+Alchemy,https://web3.career/frontend-engineer-experiments-alchemy/15229,"San Francisco,
+United States",Frontend Engineer (Experiments),$50k - $144k,dev:front end:react,4mo
+Alchemy,https://web3.career/frontend-engineer-alchemy-dashboard-alchemy/15228,"San Francisco,
+United States",Frontend Engineer (Alchemy Dashboard),$50k - $144k,dev:front end:react,4mo
+Alchemy,https://web3.career/engineering-manager-alchemy/15227,"San Francisco,
+United States",Engineering Manager,$70k - $180k,executive,4mo
+Alchemy,https://web3.career/engineering-internship-summer-2022-alchemy/15226,"San Francisco,
+United States","Engineering Internship, Summer 2022",$124k - $2k,intern:entry level:java,4mo
+Alchemy,https://web3.career/evm-engineer-alchemy/15225,"San Francisco,
+United States",EVM Engineer,$70k - $160k,dev:ethereum:rust,4mo
+Alchemy,https://web3.career/devops-engineer-infrastructure-alchemy/15224,"San Francisco,
+United States",DevOps Engineer (Infrastructure),$70k - $180k,devops:dev,4mo

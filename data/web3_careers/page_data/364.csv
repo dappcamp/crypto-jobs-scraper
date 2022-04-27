@@ -1,36 +1,60 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-NEAR,https://web3.career/developer-relations-near/10572,Developer Relations,$90k - $140k,customer support:dev,5mo
-MoonPay,https://web3.career/senior-vulnerability-engineer-moonpay/10571,Senior Vulnerability Engineer,$95k - $250k,security:dev:senior:remote,5mo
-MoonPay,https://web3.career/senior-techops-engineer-moonpay/10570,Senior TechOps Engineer,$80k - $200k,dev:senior,5mo
-MoonPay,https://web3.career/senior-product-security-engineer-mobile-moonpay/10569,Senior Product Security Engineer - Mobile,,dev:mobile:security:senior:react,5mo
-MoonPay,https://web3.career/senior-incident-response-engineer-moonpay/10568,Senior Incident Response Engineer,$80k - $200k,dev:senior,5mo
-MoonPay,https://web3.career/senior-partnerships-marketing-manager-moonpay/10567,Senior Partnerships Marketing Manager,$100k - $200k,sales:non tech:marketing:senior,5mo
-MoonPay,https://web3.career/senior-business-development-manager-moonpay/10566,Senior Business Development Manager,$50k - $150k,sales:non tech:senior:remote,5mo
-MoonPay,https://web3.career/growth-associate-moonpay/10565,Growth Associate,$45k - $130k,marketing:non tech,5mo
-Mojito,https://web3.career/talent-recruiter-mojito/10564,Talent Recruiter,$51k - $70k,recruiter:non tech:nft,5mo
-Mojito,https://web3.career/software-engineer-site-reliability-devops-mojito/10563,Software Engineer - Site Reliability / DevOps,$150k - $180k,devops:dev:sys admin:ethereum:nft,5mo
-Mojito,https://web3.career/senior-software-engineer-fullstack-mojito/10562,Senior Software Engineer - Fullstack,$70k - $180k,dev:full stack:senior:web3js:react,5mo
-Mojito,https://web3.career/project-manager-mojito/10561,Project Manager,$55k - $75k,project manager:non tech:nft,5mo
-Mojito,https://web3.career/engineering-manager-mojito/10560,Engineering Manager,$45k - $120k,executive:react:nft,5mo
-MobileCoin,https://web3.career/controller-mobilecoin/10559,Controller,$24k - $140k,legal,5mo
-MobileCoin,https://web3.career/site-reliability-engineer-mobilecoin/10558,Site Reliability Engineer,,dev:sys admin:node:rust,5mo
-MobileCoin,https://web3.career/senior-software-engineer-consensus-mobilecoin/10557,"Senior Software Engineer, Consensus",$120k - $210k,dev:senior:rust,5mo
-MobileCoin,https://web3.career/manager-engineering-mobilecoin/10556,"Manager, Engineering",,,5mo
-MobileCoin,https://web3.career/ios-engineer-mobilecoin/10555,iOS Engineer,$51k - $109k,dev:ios:mobile,5mo
-MobileCoin,https://web3.career/full-stack-engineer-mobilecoin/10554,Full-stack Engineer,$65k - $180k,dev:full stack:react:java:rust,5mo
-MobileCoin,https://web3.career/flutter-engineer-mobilecoin/10553,Flutter Engineer,$18k - $28k,dev:flutter,5mo
-MobileCoin,https://web3.career/director-engineering-mobilecoin/10552,"Director, Engineering",,executive:rust,5mo
-MobileCoin,https://web3.career/cryptographer-mobilecoin/10551,Cryptographer,$70k - $180k,rust,5mo
-MobileCoin,https://web3.career/android-engineer-mobilecoin/10550,Android Engineer,,android:mobile:dev:java,5mo
-MobileCoin,https://web3.career/customer-success-associate-mobilecoin/10549,Customer Success Associate,$40k - $80k,customer support,5mo
-MobileCoin,https://web3.career/developer-relations-ambassador-mobilecoin/10548,Developer Relations Ambassador,$90k - $140k,customer support:dev,5mo
-Localcoin,https://web3.career/senior-sales-executive-localcoin/10547,Senior Sales Executive,$40k - $150k,executive:sales:non tech:senior,5mo
-Localcoin,https://web3.career/regional-sales-executive-vancouver-bc-localcoin/10546,"Regional Sales Executive (Vancouver, BC)",$40k - $150k,executive:sales:non tech,5mo
-Localcoin,https://web3.career/regional-sales-executive-toronto-on-localcoin/10545,"Regional Sales Executive (Toronto, ON)",$40k - $150k,executive:sales:non tech,5mo
-Localcoin,https://web3.career/regional-sales-executive-montreal-qc-localcoin/10544,"Regional Sales Executive (Montreal, QC)",$40k - $150k,executive:sales:non tech:vue,5mo
-Localcoin,https://web3.career/regional-sales-executive-los-angeles-ca-localcoin/10543,"Regional Sales Executive (Los Angeles, CA)",$40k - $150k,executive:sales:non tech,5mo
-Localcoin,https://web3.career/regional-sales-executive-houston-tx-localcoin/10542,"Regional Sales Executive (Houston, TX)",$40k - $150k,executive:sales:non tech,5mo
-Localcoin,https://web3.career/regional-sales-executive-chicago-il-localcoin/10541,"Regional Sales Executive (Chicago, IL)",$40k - $150k,executive:sales:non tech,5mo
-Localcoin,https://web3.career/director-people-talent-localcoin/10540,"Director, People & Talent",,executive:recruiter:non tech,5mo
-Localcoin,https://web3.career/warehouse-specialist-localcoin/10539,Warehouse Specialist,,,5mo
-Localcoin,https://web3.career/installation-coordinator-localcoin/10538,Installation Coordinator,,,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Binance,https://web3.career/backend-architect-risk-management-binance/11121,Europe,Backend Architect - Risk Management,$120k - $250k,architecture:backend,6mo
+Binance,https://web3.career/qa-manager-binance/11120,"Paris,
+France",QA Manager,$62k - $150k,quality assurance,6mo
+Binance,https://web3.career/quality-assurance-qa-engineer-binance/11119,"Tel Aviv,
+Israel",Quality Assurance (QA) Engineer,$50k - $150k,dev:quality assurance,6mo
+Binance,https://web3.career/senior-qa-engineer-binance/11118,"Hong Kong,
+Hong Kong",Senior QA Engineer,$30k - $50k,dev:quality assurance:senior,6mo
+Binance,https://web3.career/java-backend-developer-binance/11117,"Kiev,
+Ukraine",Java Backend Developer,$60k - $160k,backend:dev:java,6mo
+Binance,https://web3.career/senior-back-end-java-developer-binance/11115,"Taipei,
+Taiwan",Senior Back-End / Java Developer,$60k - $160k,backend:dev:java:senior,6mo
+Binance,https://web3.career/institutional-sales-relationship-manager-vietnamese-speaking-binance/11114,Vietnam,Institutional Sales & Relationship Manager (Vietnamese Speaking),$100k - $200k,marketing:non tech:sales,6mo
+Kraken Digital Asset Exchange,https://web3.career/director-internal-communications-kraken/11113,Remote,"Director, Internal Communications",$79k - $200k,executive:remote,6mo
+Clearmatics,https://web3.career/validator-node-leader-proof-of-stake-bft-blockchain-clearmatics/11112,"London,
+United Kingdom",Validator Node Leader - Proof-of-Stake/ BFT Blockchain,$78k - $200k,lead:javascript:node:blockchain:ethereum,6mo
+Alchemy,https://web3.career/biz-ops-strategic-finance-associate-alchemy/11111,"New York,
+United States",Biz Ops / Strategic Finance Associate,$40k - $150k,finance,6mo
+Ripple,https://web3.career/senior-product-manager-liquidity-hub-ripple/11110,"San Francisco,
+United States","Senior Product Manager, Liquidity Hub",,sales:non tech:product manager:senior,6mo
+Figment,https://web3.career/senior-data-engineer-figment/11105,"Toronto,
+Canada",Senior Data Engineer,$130k - $160k,data science:dev:senior:ruby,6mo
+CoinList,https://web3.career/onboarding-associate-individual-accounts-coinlist/11104,"San Francisco,
+United States",Onboarding Associate (Individual Accounts),$78k - $180k,solana,6mo
+CoinList,https://web3.career/onboarding-associate-business-accounts-coinlist/11103,"San Francisco,
+United States",Onboarding Associate (Business Accounts),$78k - $180k,solana,6mo
+Stardust Cards Corporation,https://web3.career/product-manager-services-stardust/11102,Remote,Product Manager (Services),$115k - $175k,product manager:non tech:remote,6mo
+Stardust Cards Corporation,https://web3.career/lead-data-scientist-stardust/11101,Remote,Lead Data Scientist,$50k - $120k,data science:lead:remote,6mo
+Stardust Cards Corporation,https://web3.career/executive-producer-stardust/11100,Remote,Executive Producer,$79k - $180k,executive:nft:remote,6mo
+Tron,https://web3.career/social-media-manager-rainberry/11099,"San Francisco,
+United States",Social Media Manager,$33k - $85k,social media:non tech,6mo
+Tron,https://web3.career/seo-specialist-rainberry/11098,"San Francisco,
+United States",SEO Specialist,$13k - $20k,seo:non tech,6mo
+Tron,https://web3.career/partnership-marketing-associate-rainberry/11097,"San Francisco,
+United States",Partnership Marketing Associate,$100k - $200k,sales:non tech:marketing,6mo
+Tron,https://web3.career/multimedia-video-designer-rainberry/11096,"San Francisco,
+United States",Multimedia/Video Designer,,design:non tech:video,6mo
+Tron,https://web3.career/influencer-relations-social-media-specialist-rainberry/11095,"San Francisco,
+United States",Influencer Relations & Social Media Specialist,$33k - $85k,social media:non tech,6mo
+Tron,https://web3.career/events-specialist-rainberry/11094,"San Francisco,
+United States",Events Specialist,,,6mo
+Tron,https://web3.career/director-of-blockchain-strategy-rainberry/11093,"San Francisco,
+United States",Director of Blockchain Strategy,$46k - $200k,executive:blockchain,6mo
+NEAR,https://web3.career/product-designer-near/11092,"San Francisco,
+United States",Product Designer,$50k - $150k,design:non tech,6mo
+CANDY,https://web3.career/senior-data-scientist-candy/11091,"New York,
+United States",Senior Data Scientist,,data science:senior:nft,6mo
+Tron,https://web3.career/marketing-specialist-rainberry/11090,"San Francisco,
+United States",Marketing Specialist,$45k - $130k,marketing:non tech,6mo
+Tron,https://web3.career/content-marketing-associate-rainberry/11089,"San Francisco,
+United States",Content Marketing Associate,$45k - $130k,marketing:non tech,6mo
+Web3 Labs,https://web3.career/senior-blockchain-engineer-web3-labs/11088,Remote,Senior Blockchain Engineer,$60k - $70k,dev:senior:blockchain:solidity:java,6mo
+Web3 Labs,https://web3.career/blockchain-developer-web3-labs/11087,Remote,Blockchain Developer,$50k - $60k,dev:blockchain:solidity:java:golang,6mo
+Gauntlet Networks,https://web3.career/protocol-program-manager-gauntlet/11086,Remote,Protocol Program Manager,$79k - $200k,executive:remote,6mo
+Tron,https://web3.career/senior-full-stack-web-developer-rainberry/11085,"San Francisco,
+United States",Senior Full Stack Web Developer,$70k - $180k,dev:full stack:senior:react:javascript,6mo
+GSR,https://web3.career/site-reliability-engineer-associate-senior-associate-india-gsr/11084,Remote,"Site Reliability Engineer, Associate/Senior Associate - India",$150k - $200k,dev:sys admin:senior:remote,6mo
+GSR,https://web3.career/head-of-infrastructure-vp-director-london-gsr/11083,"London,
+United Kingdom",Head of Infrastructure - VP/Director - London,$70k - $180k,executive,6mo
+Async Art,https://web3.career/social-media-marketing-specialist-asyncart/11082,Remote,Social Media Marketing Specialist,$28k - $100k,marketing:non tech:social media:nft:remote,6mo

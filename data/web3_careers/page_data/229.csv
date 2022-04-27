@@ -1,36 +1,69 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Sygnum Bank AG,https://web3.career/digital-assets-operations-team-leader-singapore-sygnum/16999,"Digital Assets Operations Team Leader, Singapore",,finance:lead:operations:ethereum,3mo
-REposit,https://web3.career/senior-software-engineer-blockchain-reposit/16998,Senior Software Engineer - Blockchain,$80k - $200k,dev:senior:blockchain:remote,3mo
-Sygnum Bank AG,https://web3.career/blockchain-engineer-sygnum/16997,Blockchain Engineer,$52k - $160k,dev:blockchain:solidity:node,3mo
-Sense Finance,https://web3.career/designer-sensefinance/16996,Designer,$50k - $135k,design:non tech:remote:react,3mo
-Polymer Labs,https://web3.career/senior-distributed-systems-engineer-polymer-labs/16995,Senior Distributed Systems Engineer,$150k - $200k,dev:senior:sys admin:remote:golang,3mo
-Wildlife Studios,https://web3.career/blockchain-game-engineer-wildlife-studios/16994,Blockchain Game Engineer,$100k - $130k,dev:game dev:blockchain,3mo
-UBIRCH,https://web3.career/embedded-developer-f-x-m-berlin-germany-3624945-embedded-developer-f-x-m-berlin-germany/16990,Embedded Developer (F/X/M) (Berlin/Germany),,dev:embedded:remote:golang:rust,3mo
-OpenSea,https://web3.career/counsel-corporate-opensea/16988,"Counsel, Corporate",,legal:remote,3mo
-MRGN Labs,https://web3.career/senior-software-engineer-backend-mrgn-labs/16987,Senior Software Engineer - Backend,$70k - $200k,backend:dev:senior:remote:solana,3mo
-MRGN Labs,https://web3.career/senior-blockchain-engineer-mrgn-labs/16986,Senior Blockchain Engineer,$80k - $200k,dev:senior:blockchain:remote:solana,3mo
-Tattd,https://web3.career/operations-nft-intern-tattd/16985,Operations / NFT Intern,$0k,intern:entry level:operations:nft,3mo
-WebTree,https://web3.career/cto-co-founder-decentralization-and-blockchain-rockstar-web-tree/16984,"CTO, Co-Founder. Decentralization and Blockchain Rockstar",$0k,executive:blockchain:cto,3mo
-DevsData,https://web3.career/product-owner-crypto-remote-devsdata/16983,Product Owner - Crypto (REMOTE),$85k - $100k,product manager:non tech:remote:crypto,3mo
-Kraken Digital Asset Exchange,https://web3.career/content-writer-kraken-learn-kraken/16981,Content Writer - Kraken Learn,$25k - $30k,copywriting:remote,3mo
-Wachsman,https://web3.career/office-coordinator-wachsman/16980,Office Coordinator,,,3mo
-Immutable,https://web3.career/software-engineer-guild-of-guardians-immutable/16979,Software Engineer (Guild of Guardians),$60k - $180k,dev,3mo
-Immutable,https://web3.career/senior-software-engineer-guild-of-guardians-immutable/16978,Senior Software Engineer (Guild of Guardians),$80k - $200k,dev:senior,3mo
-Immutable,https://web3.career/software-engineer-gods-unchained-immutable/16977,Software Engineer (Gods Unchained),$60k - $180k,dev,3mo
-Immutable,https://web3.career/senior-software-engineer-gods-unchained-immutable/16976,Senior Software Engineer (Gods Unchained),$80k - $200k,dev:senior,3mo
-Valora Inc,https://web3.career/head-of-business-development-valorainc/16975,Head of Business Development,$40k - $150k,executive:sales:non tech,3mo
-Binance,https://web3.career/java-engineer-gamefi-binance/16974,Java Engineer - Gamefi,$33k - $140k,dev:java,3mo
-Stardust Cards Corporation,https://web3.career/content-marketing-manager-stardust/16973,Content Marketing Manager,$25k - $120k,marketing:non tech:remote:nft,3mo
-Stardust Cards Corporation,https://web3.career/accounts-based-marketing-associate-stardust/16972,Accounts Based Marketing Associate,$25k - $120k,marketing:non tech:remote:nft,3mo
-Immutable,https://web3.career/principal-engineer-guild-of-guardians-immutable/16971,Principal Engineer (Guild of Guardians),$70k - $300k,dev:executive,3mo
-Valora Inc,https://web3.career/sr-ux-ui-designer-valorainc/16970,Sr. UX/UI Designer,$60k - $120k,design:non tech:senior,3mo
-Stellar Development Foundation,https://web3.career/senior-software-engineer-stellar/16969,Senior Software Engineer,$70k - $180k,dev:senior:react:react native:java,3mo
-Stellar Development Foundation,https://web3.career/senior-software-engineer-stellar/16968,Senior Software Engineer,$70k - $180k,dev:senior:react:react native:java,3mo
-Blockstream,https://web3.career/senior-product-marketing-mining-blockstream/16967,"Senior Product Marketing, Mining",$46k - $109k,marketing:non tech:senior,3mo
-HoHoPro,https://web3.career/frontend-developer-remote-piano-guru-app/16966,Frontend Developer (Remote),$6k - $10k,remote:dev:front end:javascript,3mo
-Kraken Digital Asset Exchange,https://web3.career/content-marketing-lead-kraken/16963,Content Marketing Lead,$50k - $120k,lead:marketing:non tech:remote,3mo
-Caiz Holding AG,https://web3.career/backend-developer-3686105-backend-developer/16960,Backend Developer,$60k - $180k,backend:dev:remote:javascript:ruby,3mo
-questW,https://web3.career/principal-software-engineer-3684941-principal-software-engineer/16959,Principal Software Engineer,$200k - $400k,dev:executive:react,3mo
-Binance,https://web3.career/product-manager-binance/16958,Product Manager,$115k - $175k,product manager:non tech:remote,3mo
-Binance,https://web3.career/qa-engineer-binance/16957,QA Engineer,,dev:quality assurance:remote,3mo
-Snickerdoodle Labs,https://web3.career/technical-program-manager-snickerdoodlelabs/16956,Technical Program Manager,$70k - $180k,executive,3mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Wirex Limited,https://web3.career/illustrator-wirexlimited/17646,"Kiev,
+Ukraine",Illustrator,$25k - $75k,illustrator,3mo
+Wirex Limited,https://web3.career/graphic-designer-wirexlimited/17645,"Kiev,
+Ukraine",Graphic Designer,$50k - $150k,design:non tech,3mo
+Telcoin,https://web3.career/director-kyc-aml-mlro-telcoin/17644,"Los Angeles,
+United States",Director KYC/AML - MLRO,,kyc:executive,3mo
+SuperRare Labs,https://web3.career/crm-marketing-automation-specialist-superrarelabs/17643,"New York,
+United States",CRM & Marketing Automation Specialist,,crm:marketing:non tech:ethereum:nft,3mo
+Ripple,https://web3.career/ireland-country-director-ripplenet-ripple/17642,"Dublin,
+Ireland","Ireland Country Director, RippleNet",$70k - $180k,executive,3mo
+RECUR,https://web3.career/gaming-producer-sports-remote-recur/17641,"Los Angeles,
+United States",Gaming Producer - Sports (Remote),,remote:game dev:ethereum:nft,3mo
+RECUR,https://web3.career/senior-motion-designer-characters-recur/17640,"Los Angeles,
+United States",Senior Motion Designer - Characters,$60k - $120k,design:non tech:senior:ethereum:nft,3mo
+Public,https://web3.career/qa-engineer-cph-public/17639,"Copenhagen,
+Denmark",QA Engineer CPH,$50k - $150k,dev:quality assurance,3mo
+Careers at Paxful,https://web3.career/marketing-associate-paxful/17638,Philippines,Marketing Associate,$45k - $130k,marketing:non tech,3mo
+Okcoin,https://web3.career/design-sourcer-okcoin/17637,"San Francisco,
+United States",Design Sourcer,,recruiter:non tech:design,3mo
+Okcoin,https://web3.career/design-recruiter-okcoin/17636,"San Francisco,
+United States",Design Recruiter,,design:non tech:recruiter,3mo
+Okcoin,https://web3.career/content-design-manager-okcoin/17635,"San Francisco,
+United States",Content Design Manager,,executive:design:non tech,3mo
+Okcoin,https://web3.career/content-designer-okcoin/17634,"San Francisco,
+United States",Content Designer,$50k - $150k,design:non tech,3mo
+Okcoin,https://web3.career/manager-data-science-modeling-okcoin/17633,"San Francisco,
+United States","Manager, Data Science & Modeling",$50k - $150k,data science,3mo
+Okcoin,https://web3.career/data-scientist-okcoin/17632,"San Francisco,
+United States",Data Scientist,$50k - $150k,data science,3mo
+NEAR,https://web3.career/head-of-finance-near/17631,"Zug,
+Switzerland",Head of Finance,$90k - $200k,executive:finance,3mo
+NEAR,https://web3.career/head-of-advisory-group-near/17630,"Zug,
+Switzerland",Head of Advisory Group,$70k - $180k,executive,3mo
+Mojito,https://web3.career/qa-manager-mojito/17629,"Boston,
+United States",QA Manager,$65k - $180k,quality assurance:solidity:nft,3mo
+Gnosis,https://web3.career/business-and-ecosystem-development-m-w-d-gnosis/17628,"Berlin,
+Germany",Business and Ecosystem Development (m/w/d),$60k - $145k,remote:ethereum,3mo
+Gluwa,https://web3.career/quality-assurance-analyst-mobile-gluwa/17627,"Vancouver,
+Canada",Quality Assurance Analyst (Mobile),,analyst:mobile:react:react native:ethereum,3mo
+Gluwa,https://web3.career/quality-assurance-analyst-general-gluwa/17626,"Vancouver,
+Canada",Quality Assurance Analyst (General),$45k - $185k,analyst:ethereum,3mo
+Figment,https://web3.career/customer-success-senior-relationship-manager-figment/17625,"New York,
+United States",Customer Success Senior Relationship Manager,,customer support:marketing:non tech:senior,3mo
+Figment,https://web3.career/customer-success-relationship-manager-figment/17624,"New York,
+United States",Customer Success Relationship Manager,,customer support:marketing:non tech,3mo
+CANDY,https://web3.career/staff-software-engineer-devops-candy/17623,"New York,
+United States",Staff Software Engineer - DevOps,$95k - $160k,devops:dev:node:java:rust,3mo
+CANDY,https://web3.career/recruitment-brand-marketing-manager-candy/17622,"New York,
+United States",Recruitment Brand Marketing Manager,,marketing:non tech:recruiter,3mo
+CANDY,https://web3.career/content-marketing-associate-motorsports-candy/17621,United States,Content Marketing Associate (Motorsports),$45k - $130k,marketing:non tech,3mo
+Cake Pte Ltd,https://web3.career/loyalty-crm-manager-cakedefi/17620,"Singapore,
+Singapore",Loyalty & CRM Manager,,crm,3mo
+Boson Protocol,https://web3.career/senior-blockchain-engineer-bosonprotocol/17619,"London,
+United Kingdom",Senior Blockchain Engineer,$80k - $200k,dev:senior:blockchain:web3js:solidity,3mo
+Boson Protocol,https://web3.career/senior-backend-engineer-bosonprotocol/17618,"London,
+United Kingdom",Senior Backend Engineer,$70k - $200k,backend:dev:senior:web3js:react,3mo
+Boson Protocol,https://web3.career/infrastructure-engineer-bosonprotocol/17617,"London,
+United Kingdom",Infrastructure Engineer,$60k - $135k,dev:web3js:solidity:ethereum:javascript,3mo
+Boson Protocol,https://web3.career/full-stack-engineer-bosonprotocol/17616,"London,
+United Kingdom",Full Stack Engineer,$80k - $130k,dev:full stack:web3js:react:solidity,3mo
+BlockFi,https://web3.career/recruiting-coordinator-blockfi/17615,"New York,
+United States",Recruiting Coordinator,$40k - $70k,recruiter:non tech,3mo
+BlockFi,https://web3.career/electronic-trading-developer-blockfi/17614,"New York,
+United States",Electronic Trading Developer,$75k - $190k,dev:rust,3mo
+BlockFi,https://web3.career/general-manager-head-of-institutions-blockfi/17613,"New York,
+United States","General Manager, Head of Institutions",$70k - $180k,executive,3mo
+Blockchain.com,https://web3.career/us-domestic-payroll-manager-blockchain/17612,"London,
+United Kingdom",US Domestic Payroll Manager,$25k - $150k,accounting,3mo

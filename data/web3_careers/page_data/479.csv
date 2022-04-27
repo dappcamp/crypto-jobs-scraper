@@ -1,36 +1,62 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-BitGo,https://web3.career/senior-software-engineer-backend-bitcoin-bitgo/85,"Senior Software Engineer (Backend), Bitcoin",$70k - $200k,backend:dev:senior:btc:javascript,7mo
-BitGo,https://web3.career/senior-software-engineer-applications-bitgo/84,"Senior Software Engineer, Applications",$70k - $180k,dev:senior:react:node:java,7mo
-BitGo,https://web3.career/senior-infrastructure-engineer-bitgo/83,Senior Infrastructure Engineer,$65k - $150k,dev:senior:golang,7mo
-BitGo,https://web3.career/principal-security-engineer-bitgo/82,Principal Security Engineer,$95k - $250k,dev:executive:security:ruby,7mo
-BitGo,https://web3.career/infrastructure-security-engineer-bitgo/81,Infrastructure Security Engineer,,dev:security:golang:remote,7mo
-BitGo,https://web3.career/infrastructure-engineer-bitgo/80,Infrastructure Engineer,$48k - $150k,dev:golang,7mo
-BitGo,https://web3.career/full-stack-software-engineer-bitgo/79,Full Stack Software Engineer,$65k - $180k,dev:full stack:react:javascript:node,7mo
-BitGo,https://web3.career/frontend-software-engineer-mobile-bitgo/78,Frontend Software Engineer (Mobile),,dev:front end:mobile:react:react native,7mo
-BitGo,https://web3.career/frontend-software-engineer-mobile-bitgo/77,Frontend Software Engineer (Mobile),,dev:front end:mobile:react:react native,7mo
-BitGo,https://web3.career/frontend-software-engineer-mobile-bitgo/76,Frontend Software Engineer (Mobile),,dev:front end:mobile:react:react native,7mo
-BitGo,https://web3.career/frontend-software-engineer-mobile-bitgo/75,Frontend Software Engineer (Mobile),,dev:front end:mobile:react:react native,7mo
-BitGo,https://web3.career/firmware-engineer-bitgo/74,Firmware Engineer,$60k - $180k,dev,7mo
-BitGo,https://web3.career/engineering-team-lead-blockchain-integration-bitgo/73,"Engineering Team Lead, Blockchain Integration",$78k - $15k,lead:blockchain:react:node,7mo
-BitGo,https://web3.career/engineering-manager-wallet-services-bitgo/72,"Engineering Manager, Wallet Services",$56k - $150k,executive:react,7mo
-BitGo,https://web3.career/engineering-manager-hsm-bitgo/71,"Engineering Manager, HSM",$70k - $180k,executive,7mo
-BitGo,https://web3.career/engineering-manager-ethereum-bitgo/70,"Engineering Manager, Ethereum",$50k - $158k,executive:solidity:ethereum,7mo
-BitGo,https://web3.career/engineering-manager-compliance-bitgo/69,"Engineering Manager, Compliance",,compliance:executive:react,7mo
-BitGo,https://web3.career/engineering-manager-blockchain-support-operations-bitgo/68,"Engineering Manager, Blockchain Support Operations",,executive:operations:customer support:blockchain,7mo
-BitGo,https://web3.career/blockchain-engineer-customer-excellence-bitgo/67,Blockchain Engineer - Customer Excellence,$33k - $120k,dev:blockchain:ethereum:javascript:java,7mo
-BitGo,https://web3.career/application-security-engineer-bitgo/66,Application Security Engineer,$95k - $250k,dev:security,7mo
-BitGo,https://web3.career/customer-success-manager-bitgo/65,Customer Success Manager,,sales:non tech:customer support,7mo
-Bitcoin Depot,https://web3.career/vp-of-sales-bitcoindepot/64,VP of Sales,$40k - $150k,sales:non tech:executive:ethereum,7mo
-Bitcoin Depot,https://web3.career/telesales-representative-bitcoindepot/63,Telesales Representative,$60k - $150k,ethereum,7mo
-Bitcoin Depot,https://web3.career/sales-operations-specialist-bitcoindepot/62,Sales Operations Specialist,,operations:sales:non tech:ethereum,7mo
-Bitcoin Depot,https://web3.career/sales-development-representative-bitcoindepot/61,Sales Development Representative,$29k - $43k,sales:non tech:ethereum,7mo
-Bitcoin Depot,https://web3.career/regional-sales-executive-bitcoindepot/60,Regional Sales Executive,$40k - $150k,executive:sales:non tech:ethereum,7mo
-Bitcoin Depot,https://web3.career/regional-sales-executive-bitcoindepot/59,Regional Sales Executive,$40k - $150k,executive:sales:non tech:ethereum,7mo
-Bitcoin Depot,https://web3.career/business-development-representative-bitcoindepot/58,Business Development Representative,$29k - $43k,sales:non tech:ethereum,7mo
-Bitcoin Depot,https://web3.career/account-manager-bitcoindepot/57,Account Manager,,account manager:ethereum,7mo
-Bitcoin Depot,https://web3.career/account-manager-bitcoindepot/56,Account Manager,,account manager:ethereum,7mo
-Bitcoin Depot,https://web3.career/account-manager-bitcoindepot/55,Account Manager,,account manager:ethereum,7mo
-Bitcoin Depot,https://web3.career/account-manager-bitcoindepot/54,Account Manager,,account manager:ethereum,7mo
-Bitcoin Depot,https://web3.career/account-manager-bitcoindepot/53,Account Manager,,account manager:ethereum,7mo
-Bitcoin Depot,https://web3.career/account-manager-bitcoindepot/52,Account Manager,,account manager:ethereum,7mo
-Bitcoin Depot,https://web3.career/technical-project-manager-bitcoindepot/51,Technical Project Manager,$80k - $150k,project manager:non tech:ethereum,7mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Tron,https://web3.career/business-development-manager-rainberry/690,"Hong Kong,
+Hong Kong",Business Development Manager,$26k - $140k,sales:non tech,7mo
+Tron,https://web3.career/business-development-manager-rainberry/689,"San Francisco,
+United States",Business Development Manager,$26k - $140k,sales:non tech,7mo
+Tron,https://web3.career/business-development-associate-rainberry/688,"San Francisco,
+United States",Business Development Associate,$26k - $140k,sales:non tech,7mo
+Tron,https://web3.career/software-engineer-rainberry/687,"Singapore,
+Singapore",Software Engineer,$50k - $200k,dev:java:rust,7mo
+Tron,https://web3.career/senior-software-engineer-dlive-rainberry/686,"San Francisco,
+United States","Senior Software Engineer, DLive",$80k - $200k,dev:senior,7mo
+Tron,https://web3.career/senior-software-engineer-android-rainberry/685,"San Francisco,
+United States","Senior Software Engineer, Android",,android:mobile:dev:senior:java,7mo
+Tron,https://web3.career/senior-frontend-webrtc-engineer-rainberry/684,"San Francisco,
+United States",Senior Frontend & WebRTC Engineer,$70k - $190k,dev:front end:senior:react:javascript,7mo
+Tron,https://web3.career/senior-devops-engineer-site-reliability-engineer-sre-rainberry/683,"San Francisco,
+United States",Senior DevOps Engineer / Site Reliability Engineer (SRE),$150k - $180k,devops:dev:sys admin:senior,7mo
+Tron,https://web3.career/c-developer-rainberry/682,"San Francisco,
+United States",C++ Developer,$100k - $150k,c:c plus plus:dev:javascript:node,7mo
+Tron,https://web3.career/android-developer-dlive-rainberry/681,"San Francisco,
+United States",Android Developer (Dlive),,android:mobile:dev,7mo
+Tron,https://web3.career/web-wallet-web-developer-rainberry/680,United States,Web Wallet Web Developer,$56k - $160k,dev:react:javascript:node,7mo
+Careers at Paxful,https://web3.career/technical-product-manager-paxoffice-paxful/679,"Moscow,
+Russia",Technical Product Manager - PaxOffice,,product manager:non tech:react:php,7mo
+Careers at Paxful,https://web3.career/senior-ux-designer-mobile-paxful/678,"London,
+United Kingdom",Senior UX Designer - Mobile,,design:non tech:mobile:senior,7mo
+Careers at Paxful,https://web3.career/senior-ui-interaction-designer-mobile-paxful/677,"London,
+United Kingdom",Senior UI & Interaction Designer - Mobile,,design:non tech:mobile:senior,7mo
+Careers at Paxful,https://web3.career/senior-product-manager-compliance-anti-fraud-paxful/676,"New York,
+United States",Senior Product Manager - Compliance & Anti-Fraud,,compliance:security:product manager:non tech:senior,7mo
+Careers at Paxful,https://web3.career/senior-product-manager-compliance-paxful/675,"London,
+United Kingdom",Senior Product Manager - Compliance,,compliance:product manager:non tech:senior,7mo
+Careers at Paxful,https://web3.career/senior-product-designer-paxful/674,"London,
+United Kingdom",Senior Product Designer,$60k - $120k,design:non tech:senior,7mo
+Careers at Paxful,https://web3.career/product-manager-south-america-paxful/673,,Product Manager - South America,$69k - $160k,product manager:non tech,7mo
+Careers at Paxful,https://web3.career/product-manager-russia-paxful/672,"Saint Petersburg,
+Russia",Product Manager - Russia,$69k - $160k,product manager:non tech,7mo
+Careers at Paxful,https://web3.career/product-manager-paxful-pay-paxful/671,"Moscow,
+Russia",Product Manager - Paxful Pay,$69k - $160k,product manager:non tech,7mo
+Careers at Paxful,https://web3.career/product-manager-marketplace-paxful/670,"New York,
+United States",Product Manager - Marketplace,$69k - $160k,product manager:non tech,7mo
+Careers at Paxful,https://web3.career/product-manager-marketplace-paxful/669,"London,
+United Kingdom",Product Manager - Marketplace,$69k - $160k,product manager:non tech,7mo
+Careers at Paxful,https://web3.career/product-manager-marketplace-paxful/668,"Hong Kong,
+Hong Kong",Product Manager - Marketplace,$69k - $160k,product manager:non tech,7mo
+Careers at Paxful,https://web3.career/product-manager-marketplace-paxful/667,,Product Manager - Marketplace,$69k - $160k,product manager:non tech,7mo
+Careers at Paxful,https://web3.career/product-manager-anti-fraud-paxful/666,,"Product Manager, Anti-Fraud",,security:product manager:non tech,7mo
+Careers at Paxful,https://web3.career/product-manager-africa-paxful/665,,Product Manager - Africa,$69k - $160k,product manager:non tech,7mo
+Careers at Paxful,https://web3.career/director-marketplace-operations-paxful/664,"London,
+United Kingdom","Director, Marketplace Operations",$150k - $230k,executive:operations,7mo
+Careers at Paxful,https://web3.career/director-marketplace-operations-paxful/663,,"Director, Marketplace Operations",$150k - $230k,executive:operations,7mo
+Careers at Paxful,https://web3.career/director-marketplace-operations-paxful/662,"London,
+United Kingdom","Director, Marketplace Operations",$150k - $230k,executive:operations,7mo
+Careers at Paxful,https://web3.career/senior-motion-designer-creative-paxful/661,Philippines,Senior Motion Designer-Creative,$60k - $120k,design:non tech:senior,7mo
+Careers at Paxful,https://web3.career/junior-copywriter-paxful/660,Philippines,Junior Copywriter,,copywriting:junior:entry level,7mo
+Careers at Paxful,https://web3.career/communications-manager-public-relations-paxful/659,"New York,
+United States","Communications Manager, Public Relations",$45k - $130k,marketing:non tech,7mo
+Careers at Paxful,https://web3.career/legal-counsel-paxful/658,"Tallinn,
+Estonia",Legal Counsel,$24k - $140k,legal,7mo
+Careers at Paxful,https://web3.career/deputy-general-counsel-paxful/657,"New York,
+United States",Deputy General Counsel,$24k - $140k,legal,7mo
+Careers at Paxful,https://web3.career/wordpress-developer-marketing-paxful/656,,WordPress developer - Marketing,$85k - $120k,dev:marketing:non tech:wordpress:react,7mo

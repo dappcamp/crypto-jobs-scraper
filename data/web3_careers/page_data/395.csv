@@ -1,36 +1,66 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-DeSo Foundation,https://web3.career/executive-assistant-deso/9466,Executive Assistant,$79k - $158k,executive:ethereum,5mo
-DeSo Foundation,https://web3.career/community-manager-deso/9465,Community Manager,$15k - $30k,community manager:non tech:ethereum,5mo
-DeFi Alliance,https://web3.career/community-and-marketing-lead-remote-defialliance/9464,Community and Marketing Lead (Remote),$40k - $101k,remote:community manager:non tech:lead:marketing,5mo
-DeFi Alliance,https://web3.career/business-development-lead-remote-defialliance/9463,Business Development Lead (Remote),$29k - $108k,remote:sales:non tech:lead:ethereum,5mo
-DeFi Alliance,https://web3.career/batch-director-remote-defialliance/9462,Batch Director (Remote),$79k - $158k,remote:executive:ethereum,5mo
-"DeFi Technologies, Inc.",https://web3.career/senior-c-trading-system-developer-defi-tech/9461,Senior C++ Trading System Developer,$100k - $150k,c:c plus plus:dev:senior,5mo
-"DeFi Technologies, Inc.",https://web3.career/operations-associate-middle-office-defi-tech/9460,Operations Associate - Middle Office,$60k - $200k,operations,5mo
-Constellation Network,https://web3.career/full-stack-defi-developer-constellationnetwork/9459,Full Stack DeFi Developer,$93k - $150k,dev:full stack:defi:react:remote,5mo
-Connext,https://web3.career/executive-assistant-connext-network/9458,Executive Assistant,$79k - $158k,executive:ethereum:remote,5mo
-Connext,https://web3.career/don-t-see-what-you-re-looking-for-connext-network/9457,Don't See What You're Looking For?,$60k - $145k,ethereum:remote,5mo
-Connext,https://web3.career/ecosystem-developer-connext-network/9456,Ecosystem Developer,$60k - $150k,dev:ethereum:remote,5mo
-Connext,https://web3.career/senior-backend-engineer-platform-connext-network/9455,Senior Backend Engineer (Platform),$70k - $200k,backend:dev:senior:ethereum:node,5mo
-Connext,https://web3.career/researcher-connext-network/9454,Researcher,$60k - $145k,ethereum:remote,5mo
-Connext,https://web3.career/integrations-engineer-connext-network/9453,Integrations Engineer,$60k - $150k,dev:ethereum:remote,5mo
-Compound,https://web3.career/product-designer-compound-2/9452,Product Designer,$80k - $150k,design:non tech:ethereum:remote,5mo
-Compound,https://web3.career/senior-engineer-compound-2/9451,Senior Engineer,$80k - $200k,dev:senior:solidity:ethereum:rust,5mo
-Compound,https://web3.career/engineering-manager-compound-2/9450,Engineering Manager,$79k - $158k,executive:ethereum:remote,5mo
-Coinsquare,https://web3.career/account-manager-coinsquare/9449,Account Manager,,account manager:ethereum,5mo
-Coinsquare,https://web3.career/senior-qa-coinsquare/9448,Senior QA,,quality assurance:senior:ethereum,5mo
-Coinsquare,https://web3.career/director-product-coinsquare/9447,"Director, Product",$79k - $158k,executive:ethereum,5mo
-Coinsquare,https://web3.career/marketing-developer-coinsquare/9446,Marketing Developer,$85k - $120k,dev:marketing:non tech:ethereum,5mo
-Coinsquare,https://web3.career/senior-manager-regulatory-compliance-coinsquare/9445,"Senior Manager, Regulatory Compliance",,compliance:legal:senior:ethereum,5mo
-Coinsquare,https://web3.career/aml-analyst-compliance-coinsquare/9444,"AML Analyst, Compliance",,compliance:analyst:ethereum,5mo
-CoinGecko,https://web3.career/product-manager-coin-gecko/9443,Product Manager,$69k - $160k,product manager:non tech,5mo
-CoinGecko,https://web3.career/associate-product-manager-coin-gecko/9442,Associate Product Manager,$69k - $160k,product manager:non tech,5mo
-CoinGecko,https://web3.career/internship-human-resources-coin-gecko/9441,Internship (Human Resources),,intern:entry level,5mo
-CoinGecko,https://web3.career/internship-digital-marketing-coin-gecko/9440,Internship (Digital Marketing),$24k - $48k,intern:entry level:marketing:non tech,5mo
-CoinGecko,https://web3.career/qa-engineer-coin-gecko/9439,QA Engineer,$50k - $150k,dev:quality assurance:react:javascript:ruby,5mo
-cLabs,https://web3.career/developer-relations-engineer-clabs/9438,Developer Relations Engineer,,customer support:dev:remote,5mo
-cLabs,https://web3.career/software-engineer-applications-clabs/9437,"Software Engineer, Applications",$65k - $180k,dev:remote,5mo
-cLabs,https://web3.career/smart-contracts-engineer-clabs/9436,Smart Contracts Engineer,$80k - $200k,dev:smart contract:remote,5mo
-cLabs,https://web3.career/senior-rust-engineer-clabs/9435,Senior Rust Engineer,$120k - $210k,dev:rust:senior:remote,5mo
-cLabs,https://web3.career/senior-distributed-systems-engineer-clabs/9434,Senior Distributed Systems Engineer,$150k - $200k,dev:senior:sys admin:ethereum:node,5mo
-cLabs,https://web3.career/full-stack-engineer-clabs/9433,Full-Stack Engineer,$70k - $200k,dev:full stack:remote,5mo
-cLabs,https://web3.career/data-engineer-clabs/9432,Data Engineer,,data science:dev:remote,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Bitfury,https://web3.career/power-energy-manager-remote-bitfury/9977,"New York,
+United States",Power / Energy Manager (Remote),$56k - $160k,remote,6mo
+Bitfury,https://web3.career/power-energy-manager-remote-bitfury/9976,"Toronto,
+Canada",Power / Energy Manager (Remote),$56k - $160k,remote,6mo
+Bitfury,https://web3.career/power-energy-manager-remote-bitfury/9975,"London,
+United Kingdom",Power / Energy Manager (Remote),$56k - $160k,remote,6mo
+Bitfury,https://web3.career/project-manager-for-bitfury-data-centers-remote-bitfury/9974,"Toronto,
+Canada",Project Manager for Bitfury Data Centers (Remote),$56k - $150k,remote:project manager:non tech,6mo
+Bitfury,https://web3.career/project-manager-for-bitfury-data-centers-remote-bitfury/9973,"Boston,
+United States",Project Manager for Bitfury Data Centers (Remote),$56k - $150k,remote:project manager:non tech,6mo
+Bitfury,https://web3.career/project-manager-for-bitfury-data-centers-remote-bitfury/9972,"Austin,
+United States",Project Manager for Bitfury Data Centers (Remote),$56k - $150k,remote:project manager:non tech,6mo
+Bitfury,https://web3.career/project-manager-for-bitfury-data-centers-remote-bitfury/9971,"New York,
+United States",Project Manager for Bitfury Data Centers (Remote),$56k - $150k,remote:project manager:non tech,6mo
+Bitfury,https://web3.career/project-manager-for-bitfury-data-centers-remote-bitfury/9970,"Calgary,
+Canada",Project Manager for Bitfury Data Centers (Remote),$56k - $150k,remote:project manager:non tech,6mo
+Bitfury,https://web3.career/project-manager-for-bitfury-data-centers-remote-bitfury/9969,"Kiev,
+Ukraine",Project Manager for Bitfury Data Centers (Remote),$56k - $150k,remote:project manager:non tech,6mo
+Bitfury,https://web3.career/project-manager-for-bitfury-data-centers-remote-bitfury/9968,"Moscow,
+Russia",Project Manager for Bitfury Data Centers (Remote),$56k - $150k,remote:project manager:non tech,6mo
+Bitfury,https://web3.career/design-engineer-catia-v5-bitfury/9967,"Moscow,
+Russia",Design Engineer (Catia V5),$80k - $150k,design:non tech:dev,6mo
+Bitfury,https://web3.career/design-engineer-catia-v5-bitfury/9966,"Tallinn,
+Estonia",Design Engineer (Catia V5),$80k - $150k,design:non tech:dev,6mo
+Bitfury,https://web3.career/design-engineer-catia-v5-bitfury/9965,"Riga,
+Latvia",Design Engineer (Catia V5),$80k - $150k,design:non tech:dev,6mo
+Bitfury,https://web3.career/design-engineer-catia-v5-bitfury/9964,"Kiev,
+Ukraine",Design Engineer (Catia V5),$80k - $150k,design:non tech:dev,6mo
+Bitfury,https://web3.career/rtl-verification-engineer-bitfury/9963,"Aba,
+Nigeria",RTL Verification Engineer,$60k - $180k,dev,6mo
+Bitfury,https://web3.career/rtl-verification-engineer-bitfury/9962,Germany,RTL Verification Engineer,$65k - $180k,dev:remote,6mo
+Bitfury,https://web3.career/rtl-verification-engineer-bitfury/9961,"Aba,
+Nigeria",RTL Verification Engineer,$60k - $180k,dev,6mo
+Bitfury,https://web3.career/ic-backend-engineer-bitfury/9960,Germany,IC Backend Engineer,$60k - $180k,backend:dev:remote,6mo
+Bitfury,https://web3.career/ic-backend-engineer-bitfury/9959,"Aba,
+Nigeria",IC Backend Engineer,$60k - $180k,backend:dev,6mo
+Bitfury,https://web3.career/ic-backend-engineer-bitfury/9958,"Aba,
+Nigeria",IC Backend Engineer,$60k - $180k,backend:dev,6mo
+Bitcoin Depot,https://web3.career/sales-operations-specialist-minneapolis-bitcoindepot/9957,United States,Sales Operations Specialist - Minneapolis,,operations:sales:non tech:ethereum,6mo
+Bitcoin Depot,https://web3.career/sales-operations-specialist-charlotte-bitcoindepot/9956,"Charlotte,
+United States",Sales Operations Specialist - Charlotte,,operations:sales:non tech:ethereum,6mo
+Bitcoin Depot,https://web3.career/sales-operations-specialist-austin-bitcoindepot/9955,"Austin,
+United States",Sales Operations Specialist - Austin,,operations:sales:non tech:ethereum,6mo
+Bitcoin Depot,https://web3.career/sales-enablement-manager-denver-bitcoindepot/9954,"Denver,
+United States",Sales Enablement Manager - Denver,$29k - $43k,sales:non tech:ethereum,6mo
+Bitcoin Depot,https://web3.career/sales-enablement-manager-chicago-bitcoindepot/9953,"Chicago,
+United States",Sales Enablement Manager - Chicago,$29k - $43k,sales:non tech:ethereum,6mo
+Bitcoin Depot,https://web3.career/sales-enablement-manager-austin-bitcoindepot/9952,"Austin,
+United States",Sales Enablement Manager - Austin,$29k - $43k,sales:non tech:ethereum,6mo
+Bitcoin Depot,https://web3.career/regional-sales-executive-minneapolis-bitcoindepot/9951,United States,Regional Sales Executive - Minneapolis,$40k - $150k,executive:sales:non tech:ethereum,6mo
+Bitcoin Depot,https://web3.career/regional-sales-executive-kansas-city-bitcoindepot/9950,"Kansas City,
+United States",Regional Sales Executive - Kansas City,$40k - $150k,executive:sales:non tech:ethereum,6mo
+Bitcoin Depot,https://web3.career/business-development-manager-minneapolis-bitcoindepot/9949,United States,Business Development Manager - Minneapolis,$29k - $43k,sales:non tech:ethereum,6mo
+Bitcoin Depot,https://web3.career/business-development-manager-denver-bitcoindepot/9948,"Denver,
+United States",Business Development Manager - Denver,$29k - $43k,sales:non tech:ethereum,6mo
+Bitcoin Depot,https://web3.career/business-development-manager-charlotte-bitcoindepot/9947,"Charlotte,
+United States",Business Development Manager - Charlotte,$29k - $43k,sales:non tech:ethereum,6mo
+Bitcoin Depot,https://web3.career/business-development-manager-austin-bitcoindepot/9946,"Austin,
+United States",Business Development Manager - Austin,$29k - $43k,sales:non tech:ethereum,6mo
+Bitcoin Depot,https://web3.career/business-development-manager-bitcoindepot/9945,"Atlanta,
+United States",Business Development Manager,$29k - $43k,sales:non tech:ethereum,6mo
+Bitcoin Depot,https://web3.career/deployment-specialist-bitcoindepot/9944,"Atlanta,
+United States",Deployment Specialist,$60k - $150k,ethereum,6mo
+Bitcoin Depot,https://web3.career/atm-service-manager-bitcoindepot/9943,"Atlanta,
+United States",ATM Service Manager,$60k - $150k,ethereum,6mo

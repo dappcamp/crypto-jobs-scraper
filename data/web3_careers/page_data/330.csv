@@ -1,36 +1,60 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Consensys,https://web3.career/director-of-business-operations-consensys/12421,Director of Business Operations,,executive:operations:ethereum,5mo
-Consensys,https://web3.career/devops-software-engineer-consensys/12420,DevOps Software Engineer,,devops:dev:react:ethereum:java,5mo
-Consensys,https://web3.career/developer-relations-manager-metamask-infura-truffle-quorum-consensys/12419,Developer Relations Manager (MetaMask / Infura / Truffle / Quorum),,customer support:dev:solidity:ethereum:node,5mo
-Consensys,https://web3.career/developer-relations-manager-consensys/12418,Developer Relations Manager,,customer support:dev:ethereum:javascript,5mo
-Consensys,https://web3.career/developer-relations-evangelist-consensys/12417,Developer Relations Evangelist,,customer support:dev:react:solidity:ethereum,5mo
-Consensys,https://web3.career/developer-relations-evangelist-consensys/12416,Developer Relations Evangelist,,customer support:dev:ethereum:javascript,5mo
-Consensys,https://web3.career/developer-evangelist-consensys/12415,Developer Evangelist,$60k - $158k,dev:ethereum,5mo
-Consensys,https://web3.career/developer-community-manager-consensys/12414,Developer community manager,,community manager:non tech:dev:ethereum:remote,5mo
-Consensys,https://web3.career/design-systems-designer-consensys/12413,Design Systems Designer,$80k - $135k,design:non tech:react:ethereum:remote,5mo
-Consensys,https://web3.career/defi-and-dao-token-engineer-consensys/12412,DeFi and DAO Token Engineer,$90k - $220k,dev:defi:ethereum:remote,5mo
-Consensys,https://web3.career/data-scientist-vertical-applications-consensys/12411,Data Scientist (Vertical Applications),,data science:ethereum:scala:remote,5mo
-Consensys,https://web3.career/data-engineer-consensys/12410,Data Engineer,,data science:dev:ethereum:scala:java,5mo
-Consensys,https://web3.career/data-analyst-consensys/12409,Data Analyst,,analyst:data science:ethereum:remote,5mo
-Consensys,https://web3.career/customer-success-manager-consensys/12408,Customer Success Manager,,sales:non tech:customer support:ethereum:remote,5mo
-Consensys,https://web3.career/creative-director-consensys-nft-consensys/12407,Creative Director (ConsenSys NFT),$50k - $158k,executive:nft:ethereum,5mo
-Consensys,https://web3.career/consensys-academy-technical-trainer-consensys/12406,ConsenSys Academy Technical Trainer,,education:ethereum:remote,5mo
-Consensys,https://web3.career/compliance-operational-risk-manager-consensys/12405,Compliance & Operational Risk Manager,,compliance:operations:ethereum,5mo
-Consensys,https://web3.career/community-support-manager-consensys/12404,Community Support Manager,,community manager:non tech:customer support:ethereum:remote,5mo
-Consensys,https://web3.career/community-moderator-consensys/12403,Community Moderator,$15k - $30k,community manager:non tech:ethereum,5mo
-Consensys,https://web3.career/community-builder-consensys-nft-consensys/12402,Community Builder (ConsenSys NFT),$35k - $101k,community manager:non tech:nft:ethereum,5mo
-Consensys,https://web3.career/chief-marketing-officer-consensys/12401,Chief Marketing Officer,$70k - $158k,executive:marketing:non tech:ethereum:remote,5mo
-Consensys,https://web3.career/chief-financial-officer-consensys/12400,Chief Financial Officer,$120k - $150k,executive:finance:ethereum,5mo
-Consensys,https://web3.career/business-analyst-consensys-nft-consensys/12399,Business Analyst (ConsenSys NFT),$50k - $185k,analyst:nft:ethereum,5mo
-Consensys,https://web3.career/blockchain-solidity-developer-professional-services-usa-consensys/12398,"Blockchain/Solidity Developer (Professional Services, USA)",$52k - $160k,dev:blockchain:solidity:web3js:react,5mo
-Consensys,https://web3.career/blockchain-solidity-developer-professional-services-uk-ireland-europe-consensys/12397,"Blockchain/Solidity Developer (Professional Services, UK/Ireland & Europe)",$52k - $160k,dev:blockchain:solidity:web3js:react,5mo
-Consensys,https://web3.career/blockchain-solidity-developer-professional-services-hong-kong-consensys/12396,"Blockchain/Solidity Developer (Professional Services, Hong Kong)",$52k - $160k,dev:blockchain:solidity:web3js:react,5mo
-Consensys,https://web3.career/blockchain-solidity-developer-consensys-nft-consensys/12395,Blockchain / Solidity Developer (ConsenSys NFT),$40k - $125k,dev:blockchain:nft:solidity:web3js,5mo
-Consensys,https://web3.career/blockchain-solidity-developer-consensys/12394,Blockchain/Solidity Developer,$52k - $160k,dev:blockchain:solidity:web3js:react,5mo
-Consensys,https://web3.career/blockchain-protocol-engineer-emea-consensys/12393,Blockchain Protocol Engineer (EMEA),$33k - $120k,dev:blockchain:ethereum:java:remote,5mo
-Consensys,https://web3.career/blockchain-protocol-engineer-australia-consensys/12392,Blockchain Protocol Engineer (Australia),$33k - $120k,dev:blockchain:ethereum:java:remote,5mo
-Consensys,https://web3.career/blockchain-ecosystem-advisor-consensys/12391,Blockchain Ecosystem Advisor,$46k - $120k,blockchain:ethereum,5mo
-Consensys,https://web3.career/blockchain-ecosystem-advisor-consensys/12390,Blockchain Ecosystem Advisor,$46k - $120k,blockchain:ethereum,5mo
-Consensys,https://web3.career/backend-engineer-consensys/12389,Backend Engineer,$65k - $125k,backend:dev:ethereum:golang:remote,5mo
-Consensys,https://web3.career/associate-backend-engineer-consensys/12388,Associate Backend Engineer,$65k - $125k,backend:dev:ethereum:golang,5mo
-Consensys,https://web3.career/applied-researcher-txrx-advanced-research-team-consensys/12387,Applied Researcher (TxRx Advanced Research Team),,data science:ethereum:java:remote,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Clara,https://web3.career/blockchain-developer-for-influencer-crypto-clarafinds/13002,United Kingdom,BlockChain developer for Influencer Crypto,$12k,dev:blockchain:crypto:react:javascript,5mo
+Umee,https://web3.career/golang-developer-cross-chain-defi-protocol-umee-1/13001,"New York,
+United States",Golang Developer - Cross Chain DeFi Protocol,$90k - $160k,dev:golang:defi:react:ethereum,5mo
+Dapper Labs,https://web3.career/senior-staff-software-engineer-dapper-wallet-ethereum-dapper-labs/13000,Remote,Senior / Staff Software Engineer – Dapper Wallet (Ethereum),$118k - $146k,dev:senior:ethereum:javascript:node,5mo
+KoinsPay,https://web3.career/business-development-director-nft-koinspay/12999,"Dubai,
+United Arab Emirates",Business Development Director (NFT),$24k - $48k,sales:non tech:executive:nft,5mo
+Pandora Finance,https://web3.career/blockchain-developer-intern-pandoraprotocol/12998,India,Blockchain developer Intern,$18k - $33k,dev:intern:entry level:blockchain:solidity,5mo
+McKinley & Rice,https://web3.career/blockchain-developer-hyperledger-or-ethereum-mckinley-rice-1/12997,"Pune,
+India",Blockchain Developer (Hyperledger or Ethereum),$11k - $32k,dev:blockchain:solidity:ethereum:javascript,5mo
+LoanSnap,https://web3.career/blockchain-engineer-loansnap/12996,"New York,
+United States",Blockchain Engineer,$150k - $200k,dev:blockchain,5mo
+The NFT Rage Forum,https://web3.career/blockchain-dapp-developer-the-nft-rage-forum/12995,"Delhi,
+India",Blockchain & DAPP Developer,$0k,dev:blockchain:dapp:nft,5mo
+XinFin[XDC] Network,https://web3.career/distributed-systems-blockchain-engineer-xinfin-network/12994,"Singapore,
+Singapore",Distributed Systems/Blockchain Engineer,$15k - $16k,dev:blockchain:ethereum:nft,5mo
+Alchemy,https://web3.career/blockchain-client-engineer-alchemy/12993,"San Francisco,
+United States",Blockchain Client Engineer,$33k - $120k,dev:blockchain:ethereum:rust,5mo
+KoinsPay,https://web3.career/senior-software-engineer-solidity-developer-koinspay/12992,"Dubai,
+United Arab Emirates",Senior Software Engineer: Solidity Developer,$18k - $36k,dev:senior:solidity:ethereum,5mo
+Hex Capital,https://web3.career/blockchain-engineer-hex-capital/12991,Canada,Blockchain Engineer,$130k - $150k,dev:blockchain:ethereum:node:rust,5mo
+Akropolis,https://web3.career/defi-research-analyst-akropolisio/12990,Remote,DeFi research analyst,$50k - $120k,analyst:defi:remote,5mo
+Cyclic Media,https://web3.career/content-writer-for-cryptocurrency-defi-projects-cyclic-media/12989,"Panama City,
+Panama",Content Writer for Cryptocurrency & DeFi Projects,$12k - $45k,copywriting:crypto:defi,5mo
+Advanced Blockchain,https://web3.career/content-writer-defi-advanced-blockchain-2/12988,United Kingdom,Content Writer - DeFi,$0k,copywriting:defi,5mo
+Polygon(Previously Matic Network),https://web3.career/blockchain-strategy-analyst-matic-network/12987,"Bengaluru,
+India",Blockchain Strategy Analyst,$60k - $104k,analyst:blockchain,5mo
+Somish Blockchain Labs,https://web3.career/blockchain-developer-ethereum-somish/12986,"Delhi,
+India",Blockchain Developer (Ethereum),$40k - $107k,dev:blockchain:web3js:solidity:ethereum,5mo
+QuillHash Technologies,https://web3.career/blockchain-business-development-sales-quillhash/12985,India,Blockchain Business Development & Sales,$78k - $10k,sales:non tech:blockchain,5mo
+Biconomy,https://web3.career/lead-blockchain-engineer-biconomy/12984,India,Lead Blockchain Engineer,$30k - $160k,dev:lead:blockchain:solidity:ethereum,5mo
+LoanSnap,https://web3.career/blockchain-engineer-loansnap/12983,"San Francisco,
+United States",Blockchain Engineer,$150k - $200k,dev:blockchain,5mo
+Fidelity Investments,https://web3.career/crypto-analyst-fidelity-investments/12982,"Boston,
+United States",Crypto Analyst,$450k - $530k,analyst:crypto,5mo
+McKinley & Rice,https://web3.career/blockchain-developer-ipfs-or-ethereum-mckinley-rice-1/12981,"Pune,
+India",Blockchain Developer (IPFS or Ethereum),$11k - $32k,dev:blockchain:ethereum:javascript:java,5mo
+Notional Finance,https://web3.career/core-blockchain-developer-notional-finance/12979,"Denver,
+United States",Core Blockchain Developer,$150k - $175k,dev:blockchain:solidity:ethereum,5mo
+Enso Labs,https://web3.career/content-communications-lead-defi-blockchain-enso-labs/12978,Switzerland,Content Communications Lead - DeFi/Blockchain,$30k - $70k,lead:blockchain:defi,5mo
+Synesis One,https://web3.career/blockchain-engineer-rust-solana-synesis-one/12977,"San Francisco,
+United States",Blockchain Engineer (Rust/Solana),$100k,dev:rust:blockchain:solana:nft,5mo
+Altonomy,https://web3.career/blockchain-developer-altonomy/12976,"New York,
+United States",Blockchain Developer,$80k - $120k,dev:blockchain:solidity:ethereum:javascript,5mo
+BirthVenue,https://web3.career/blockchain-intern-birthvenue/12975,"San Francisco,
+United States",Blockchain Intern,$0k,intern:entry level:blockchain:ethereum:node,5mo
+150 Bond,https://web3.career/crypto-comms-specialist-account-exec-manager-and-director-roles-150-bond/12974,"New York,
+United States",Crypto Comms Specialist (Account Exec/ Manager and Director roles),$40k - $120k,executive:crypto,5mo
+Enso Labs,https://web3.career/senior-react-js-front-end-engineer-defi-blockchain-enso-labs/12973,"Zurich,
+Switzerland",Senior React.js Front End Engineer - DeFi/Blockchain,$90k - $150k,javascript:dev:front end:react:senior,5mo
+Yup,https://web3.career/blockchain-engineer-yupteam/12972,"Austin,
+United States",Blockchain Engineer,$180k - $260k,dev:blockchain,5mo
+Commonwealth Labs,https://web3.career/blockchain-engineer-solidity-commonwealth-labs-commonwealth-labs/12971,"New York,
+United States",Blockchain Engineer (Solidity) - Commonwealth Labs,$130k - $200k,dev:blockchain:solidity:golang:rust,5mo
+QuillHash Technologies,https://web3.career/ethereum-defi-blockchain-developer-solidity-quillhash/12970,India,Ethereum/DeFI Blockchain Developer | Solidity,$13k - $28k,dev:blockchain:defi:solidity:ethereum,5mo
+Coinbase,https://web3.career/community-manager-crypto-intelligence-coinbase/12969,United States,"Community Manager, Crypto Intelligence",$35k - $100k,community manager:non tech:crypto,5mo
+Chainlink Labs,https://web3.career/solidity-engineer-chainlink-labs/12968,"New York,
+United States",Solidity Engineer,$54k - $150k,dev:solidity:javascript,5mo
+Parallel Finance,https://web3.career/senior-solidity-engineer-parallel-finance/12967,"Palo Alto,
+United States",Senior Solidity Engineer,$120k - $200k,dev:senior:solidity:ethereum,5mo

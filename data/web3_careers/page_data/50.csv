@@ -1,36 +1,62 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Immutable,https://web3.career/global-head-of-community-immutable/24586,Global Head of Community,,executive:community manager:non tech:remote:marketing,21d
-Prime Protocol,https://web3.career/senior-solidity-engineer-prime-protocol/24583,Senior Solidity Engineer,$200k - $250k,dev:senior:solidity:ethereum,21d
-Dreo,https://web3.career/blockchain-developer-dreo/24582,Blockchain Developer,$70k - $110k,dev:blockchain:solidity:javascript,21d
-"Palm NFT Studio, Inc.",https://web3.career/senior-backend-engineer-palmnftstudioinc/24581,Senior Backend Engineer,$70k - $200k,backend:dev:senior:ethereum:nft,21d
-Consensys,https://web3.career/product-manager-cnft-consensys/24579,Product Manager (CNFT),$80k - $150k,product manager:non tech:ethereum:nft,21d
-WOO Network,https://web3.career/motion-designer-woonetwork/24578,Motion Designer,$50k - $150k,design:non tech,21d
-R3,https://web3.career/market-intelligence-cbdc-intern-r3-com/24577,Market Intelligence (CBDC) Intern,,intern:entry level,21d
-Voodoo,https://web3.career/studios-strategic-operation-manager-hyper-casual-games-voodoo/24576,Studios Strategic Operation Manager - Hyper Casual Games,,,21d
-Ripple,https://web3.career/senior-software-engineer-mlops-ripple/24570,"Senior Software Engineer, MLOps",$80k - $200k,dev:senior,21d
-Binance,https://web3.career/fraud-risk-operation-binance/24569,Fraud & Risk Operation,$95k - $200k,security,21d
-SupraOracles,https://web3.career/content-creator-academic-research-supraoracles/24568,Content Creator (Academic / Research),$56k - $160k,remote,21d
-Gemini,https://web3.career/senior-data-engineer-gemini/24567,Senior Data Engineer,$130k - $160k,data science:dev:senior:javascript,21d
-Gemini,https://web3.career/data-engineer-gemini/24566,Data Engineer,$70k - $160k,data science:dev,21d
-Mycelium,https://web3.career/ux-ui-product-designer-myc-xyz/24564,UX/UI Product Designer,$50k - $150k,design:non tech,21d
-Mycelium,https://web3.career/product-designer-myc-xyz/24563,Product Designer,$50k - $135k,design:non tech:remote,21d
-Mycelium,https://web3.career/product-designer-myc-xyz/24562,Product Designer,$50k - $150k,design:non tech,21d
-Mycelium,https://web3.career/product-designer-myc-xyz/24561,Product Designer,$50k - $150k,design:non tech,21d
-Mycelium,https://web3.career/product-designer-myc-xyz/24560,Product Designer,$50k - $150k,design:non tech,21d
-Binance,https://web3.career/fraud-risk-operation-binance/24559,Fraud & Risk Operation,$95k - $200k,security,21d
-Parcl,https://web3.career/growth-marketing-manager-parcl/24558,Growth Marketing Manager,$80k - $180k,marketing:non tech:solana:ethereum:nft,21d
-HealthVerity,https://web3.career/software-engineer-healthverity/24557,Software Engineer,$35k - $180k,dev:remote:java,21d
-Binance,https://web3.career/head-of-marketing-brazil-binance/24556,Head of Marketing - Brazil,$70k - $158k,executive:marketing:non tech,21d
-Parallel Studios,https://web3.career/ar-vr-prototyper-parallelstudios/24555,AR/VR Prototyper,$80k - $180k,nft:rust,21d
-RECUR,https://web3.career/senior-art-director-marketing-recur/24553,"Senior Art Director, Marketing",$70k - $158k,executive:marketing:non tech:senior:remote,21d
-BlockFi,https://web3.career/senior-software-engineer-android-credit-card-blockfi/24552,"Senior Software Engineer (Android), Credit Card",,android:mobile:dev:senior,21d
-BlockFi,https://web3.career/senior-software-engineer-android-credit-card-blockfi/24551,"Senior Software Engineer (Android), Credit Card",,android:mobile:dev:senior,21d
-Monax,https://web3.career/graphic-designer-remote-monax/24550,Graphic Designer - Remote,$50k - $135k,remote:design:non tech:nft:javascript,21d
-Horizon Blockchain Games,https://web3.career/unity-game-developer-horizon-blockchain-games/24549,Unity Game Developer,,dev:game dev:ethereum:nft,21d
-Tradeblock,https://web3.career/senior-software-engineer-tradeblock/24547,Senior Software Engineer,$80k - $200k,dev:senior:javascript,21d
-Binance,https://web3.career/staking-project-manager-binance-earn-binance/24546,Staking Project manager (Binance Earn),$56k - $150k,project manager:non tech:remote,21d
-Ferrum Network,https://web3.career/senior-front-end-developer-reactjs-experience-based-ferrumnetwork/24545,Senior Front-End Developer (ReactJs experience based),$50k - $140k,dev:front end:javascript:react:senior,21d
-Ferrum Network,https://web3.career/crypto-market-research-analyst-content-writer-ferrumnetwork/24544,Crypto Market Research Analyst & Content Writer,,analyst:copywriting:marketing:non tech:crypto,21d
-Ferrum Network,https://web3.career/rust-developer-substrate-ferrumnetwork/24543,RUST Developer (Substrate),$70k - $160k,dev:rust:ethereum,21d
-Ferrum Network,https://web3.career/technical-coordinator-incubation-global-hiring-ferrumnetwork/24542,Technical Coordinator (Incubation) (Global Hiring),,,21d
-Ferrum Network,https://web3.career/qa-automation-engineer-for-blockchain-company-ferrumnetwork/24541,QA Automation Engineer for Blockchain Company,$62k - $10k,dev:quality assurance:blockchain:solidity,21d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+METALABS,https://web3.career/videographer-dubai-uae-metalabs/25183,"Dubai,
+United Arab Emirates","Videographer - Dubai, UAE",$45k - $60k,art direction:design:metaverse:virtual reality:architecture,23d
+METALABS,https://web3.career/creative-copywriter-dubai-uae-metalabs/25182,"Dubai,
+United Arab Emirates","Creative Copywriter - Dubai, UAE",$30k - $40k,copywriting:art direction:blockchain:crypto:illustrator,23d
+METALABS,https://web3.career/graphic-designer-dubai-uae-metalabs/25181,"Dubai,
+United Arab Emirates","Graphic Designer - Dubai, UAE",$45k - $55k,design:non tech,23d
+GoodWorker,https://web3.career/software-developer-iii-iv-backend-goodworker/25180,"Bengaluru,
+India",Software Developer - III/IV- Backend,$60k - $180k,backend:dev,23d
+METALABS,https://web3.career/3d-designer-dubai-uae-metalabs/25179,"Dubai,
+United Arab Emirates","3D Designer - Dubai, UAE",$65k - $80k,vfx:design:non tech:art direction:illustrator,23d
+METALABS,https://web3.career/illustrator-dubai-uae-metalabs/25178,"Dubai,
+United Arab Emirates","Illustrator - Dubai, UAE",$45k - $75k,illustrator:art direction:design:metaverse:virtual reality,23d
+METALABS,https://web3.career/project-manager-metaverse-dubai-uae-metalabs/25177,"Dubai,
+United Arab Emirates","Project Manager (Metaverse) - Dubai, UAE",$100k - $120k,metaverse:project manager:non tech:blockchain:crypto,23d
+METALABS,https://web3.career/gamification-strategist-dubai-uae-metalabs/25176,"Dubai,
+United Arab Emirates","Gamification Strategist - Dubai, UAE",$80k - $115k,game dev:esports:art direction:metaverse:consulting,23d
+Phantom,https://web3.career/freelance-content-strategist-and-writer-phantom45/25175,"San Francisco,
+United States",Freelance Content Strategist and Writer,$80k - $165k,solana:ethereum:nft,23d
+Uniswap Labs,https://web3.career/product-manager-uniswaplabs/25173,"New York,
+United States",Product Manager,$69k - $160k,product manager:non tech,23d
+Avantgarde Finance,https://web3.career/operations-analyst-defi-avantgardefinance/25172,"London,
+United Kingdom",Operations Analyst - DeFi,,analyst:operations:defi,23d
+Uniswap Labs,https://web3.career/smart-contract-engineer-uniswaplabs/25170,"New York,
+United States",Smart Contract Engineer,$80k - $180k,dev:smart contract:react:solidity:ethereum,23d
+Gatesweb,https://web3.career/technical-co-founder-for-52-blockchain-development-projects-gatesweb/25169,United Kingdom,Technical Co-Founder for 52+ Blockchain Development Projects,$0k,executive:blockchain,23d
+V3 Talent Partners Inc.,https://web3.career/superrare-senior-data-engineer-v3talentpartners/25168,Remote,SuperRare - Senior Data Engineer,$130k - $160k,data science:dev:senior:remote:ethereum,23d
+Tradeblock,https://web3.career/software-engineer-tradeblock/25164,United States,Software Engineer,$56k - $150k,dev:javascript,24d
+Binance,https://web3.career/operations-manager-latam-binance/25162,Latin America,Operations Manager - Latam,$60k - $200k,operations,24d
+Binance,https://web3.career/senior-product-manager-prime-services-trading-binance/25161,Remote,Senior Product Manager (Prime Services - Trading),,accounting:product manager:non tech:senior:remote,24d
+Tribal Credit,https://web3.career/crypto-sr-counsel-tribalcredit/25160,"San Francisco,
+United States",Crypto Sr. Counsel,,legal:senior:crypto,24d
+Pole To Win International,https://web3.career/3d-environment-artist-mobile-games-and-nft-art-poletowininternational/25159,"Mexico City,
+Mexico",3D Environment Artist | Mobile Games and NFT Art,,vfx:mobile:nft,24d
+Pole To Win International,https://web3.career/2d-3d-concept-artist-generalist-mobile-games-and-nft-art-poletowininternational/25158,"Mexico City,
+Mexico",2D/3D Concept Artist - Generalist | Mobile Games and NFT Art,,vfx:mobile:nft,24d
+Pole To Win International,https://web3.career/2d-concept-artist-character-design-mobile-games-and-nft-art-poletowininternational/25157,"Barcelona,
+Spain",2D Concept Artist - Character Design | Mobile Games and NFT Art,,design:non tech:mobile:nft,24d
+BreederDAO,https://web3.career/solidity-developer-fully-remote-breederdao/25156,"Manila,
+Philippines",Solidity Developer (Fully Remote),$80k - $170k,remote:dev:solidity:ethereum,24d
+Parallel Finance,https://web3.career/product-marketing-manager-parallel/25155,Remote,Product Marketing Manager,$25k - $120k,marketing:non tech:remote,24d
+Alchemy,https://web3.career/frontend-react-engineer-general-alchemy/25154,"San Francisco,
+United States",Frontend / React Engineer (General),$50k - $140k,dev:front end:javascript:react,24d
+Alchemy,https://web3.career/frontend-react-engineer-experiments-alchemy/25153,"San Francisco,
+United States",Frontend / React Engineer (Experiments),$50k - $140k,dev:front end:javascript:react,24d
+Alchemy,https://web3.career/frontend-react-engineer-alchemy-dashboard-alchemy/25152,"San Francisco,
+United States",Frontend / React Engineer (Alchemy Dashboard),$50k - $140k,dev:front end:javascript:react,24d
+Loft Orbital Solutions,https://web3.career/ux-ui-designer-loftorbital/25151,Multiple,UX/UI Designer,$50k - $150k,design:non tech,24d
+Fortunafi,https://web3.career/executive-assistant-fortunafi/25145,"Miami,
+United States",Executive Assistant,$56k - $150k,executive:react,25d
+MetaMundo,https://web3.career/senior-interface-designer-metamundo/25141,"Amsterdam,
+Netherlands",Senior Interface Designer,$60k - $120k,design:non tech:senior,25d
+Gate.io,https://web3.career/p2p-operation-manager-gate-io/25138,Remote,P2P operation manager,$56k - $160k,remote,25d
+Ripple,https://web3.career/senior-accountant-ripple/25134,"Dublin,
+Ireland",Senior Accountant,$80k - $110k,accounting:senior,25d
+Ripple,https://web3.career/software-engineer-engineering-productivity-new-grad-ripple/25132,"San Francisco,
+United States","Software Engineer, Engineering Productivity (New Grad)",$12k - $33k,dev:intern:entry level:java:golang,25d
+Wintermute,https://web3.career/middle-office-specialist-wintermute-trading/25131,"London,
+United Kingdom",Middle Office Specialist,,,25d
+Wintermute,https://web3.career/head-of-risk-wintermute-trading/25130,"London,
+United Kingdom",Head of Risk,$70k - $180k,executive,25d
+The Block,https://web3.career/strategic-account-executive-enterprise-named-accounts-theblockcrypto/25129,Remote,"Strategic Account Executive, Enterprise Named Accounts",$79k - $200k,executive:remote,25d

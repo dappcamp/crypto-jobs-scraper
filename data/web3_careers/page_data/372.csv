@@ -1,36 +1,58 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Chainalysis,https://web3.career/alliance-director-chainalysis/10282,Alliance Director,$70k - $180k,executive,5mo
-Chainalysis,https://web3.career/account-executive-uk-public-sector-chainalysis/10281,"Account Executive, UK Public Sector",$70k - $180k,executive,5mo
-Chainalysis,https://web3.career/account-executive-state-local-west-coast-chainalysis/10280,"Account Executive, State & Local - West Coast",$70k - $180k,executive,5mo
-Chainalysis,https://web3.career/account-executive-national-security-chainalysis/10279,"Account Executive, National Security",$95k - $250k,executive:security,5mo
-Chainalysis,https://web3.career/account-executive-israel-law-enforcement-central-government-chainalysis/10278,"Account Executive, Israel (Law Enforcement / Central Government)",$70k - $180k,executive,5mo
-Chainalysis,https://web3.career/account-executive-federal-law-enforcement-chainalysis/10277,"Account Executive, Federal Law Enforcement",$70k - $180k,executive,5mo
-Chainalysis,https://web3.career/account-executive-commercial-dach-chainalysis/10276,"Account Executive, Commercial (DACH)",$79k - $200k,executive:remote,5mo
-Chainalysis,https://web3.career/account-executive-army-chainalysis/10275,"Account Executive, Army",$70k - $180k,executive,5mo
-Chainalysis,https://web3.career/senior-product-manager-data-chainalysis/10274,"Senior Product Manager, Data",$80k - $150k,product manager:non tech:senior,5mo
-Chainalysis,https://web3.career/senior-product-designer-chainalysis/10273,Senior Product Designer,$60k - $120k,design:non tech:senior,5mo
-Chainalysis,https://web3.career/research-analyst-cyber-threats-chainalysis/10272,"Research Analyst, Cyber Threats",$40k - $120k,analyst,5mo
-Chainalysis,https://web3.career/product-manager-investigations-chainalysis/10271,"Product Manager, Investigations",$69k - $160k,product manager:non tech,5mo
-Chainalysis,https://web3.career/lead-ux-researcher-chainalysis/10270,Lead UX Researcher,$40k - $190k,lead:design:non tech,5mo
-Chainalysis,https://web3.career/director-of-product-management-chainalysis/10269,Director of Product Management,$135k - $170k,executive:product manager:non tech,5mo
-Chainalysis,https://web3.career/senior-commercial-counsel-chainalysis/10268,Senior Commercial Counsel,,legal:senior,5mo
-Chainalysis,https://web3.career/senior-brand-designer-chainalysis/10267,Senior Brand Designer,,marketing:non tech:design:senior,5mo
-Chainalysis,https://web3.career/internal-communications-global-employer-branding-lead-chainalysis/10266,Internal Communications & Global Employer Branding Lead,$60k - $200k,lead,5mo
-Chainalysis,https://web3.career/global-product-marketing-lead-chainalysis/10265,Global Product Marketing Lead,$50k - $120k,lead:marketing:non tech,5mo
-Chainalysis,https://web3.career/field-marketing-manager-japan-chainalysis/10264,"Field Marketing Manager, Japan",$45k - $130k,marketing:non tech,5mo
-Chainalysis,https://web3.career/director-technical-marketing-chainalysis/10263,"Director, Technical Marketing",$70k - $158k,executive:marketing:non tech:javascript:java,5mo
-Chainalysis,https://web3.career/associate-staff-engineer-detection-response-chainalysis/10262,"Associate Staff Engineer, Detection & Response",$60k - $180k,dev,5mo
-Chainalysis,https://web3.career/senior-cybercrimes-investigator-chainalysis/10261,Senior Cybercrimes Investigator,$78k - $200k,senior,5mo
-Chainalysis,https://web3.career/doj-operations-manager-chainalysis/10260,DOJ Operations Manager,$60k - $200k,operations,5mo
-Chainalysis,https://web3.career/associate-investigator-chainalysis/10259,Associate Investigator,,,5mo
-Chainalysis,https://web3.career/staff-engineer-backend-chainalysis/10258,"Staff Engineer, Backend",$60k - $160k,backend:dev:java,5mo
-Chainalysis,https://web3.career/software-engineer-summer-2022-internship-chainalysis/10257,"Software Engineer, Summer 2022 Internship",$12k - $33k,dev:intern:entry level,5mo
-Chainalysis,https://web3.career/senior-program-manager-chainalysis/10256,Senior Program Manager,$46k - $110k,executive:senior,5mo
-Chainalysis,https://web3.career/senior-engineer-infrastructure-chainalysis/10255,"Senior Engineer, Infrastructure",$50k - $200k,dev:senior:java,5mo
-Chainalysis,https://web3.career/senior-engineer-fullstack-chainalysis/10254,"Senior Engineer, Fullstack",$70k - $180k,dev:full stack:senior:react:java,5mo
-Chainalysis,https://web3.career/senior-engineer-fullstack-chainalysis/10253,"Senior Engineer, Fullstack",$70k - $180k,dev:full stack:senior:react:javascript,5mo
-Chainalysis,https://web3.career/senior-engineer-cloud-chainalysis/10252,"Senior Engineer, Cloud",,cloud:dev:senior:java,5mo
-Chainalysis,https://web3.career/senior-engineer-backend-chainalysis/10251,"Senior Engineer, Backend",$70k - $200k,backend:dev:senior:ethereum:java,5mo
-Chainalysis,https://web3.career/senior-engineer-backend-chainalysis/10250,"Senior Engineer, Backend",$70k - $200k,backend:dev:senior:java,5mo
-Chainalysis,https://web3.career/engineering-manager-product-access-configuration-chainalysis/10249,"Engineering Manager, Product Access & Configuration",$70k - $180k,executive,5mo
-Chainalysis,https://web3.career/engineering-manager-developer-productivity-chainalysis/10248,"Engineering Manager, Developer Productivity",$70k - $300k,executive:dev,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Stellar Development Foundation,https://web3.career/enterprise-account-manager-stellar/10792,"San Francisco,
+United States",Enterprise Account Manager,,account manager,6mo
+Stellar Development Foundation,https://web3.career/enterprise-account-manager-stellar/10791,"New York,
+United States",Enterprise Account Manager,,account manager,6mo
+Set Labs,https://web3.career/technical-recruiter-setlabs/10790,"San Francisco,
+United States",Technical Recruiter,$40k - $70k,recruiter:non tech,6mo
+Set Labs,https://web3.career/software-engineer-setlabs/10789,"San Francisco,
+United States",Software Engineer,$67k - $200k,dev:react:solidity:javascript:ruby,6mo
+Ripple,https://web3.career/platform-engineer-ripple/10788,"New York,
+United States",Platform Engineer,$33k - $140k,dev:java,6mo
+Ripple,https://web3.career/platform-engineer-ripple/10787,"San Francisco,
+United States",Platform Engineer,$33k - $140k,dev:java,6mo
+Ripple,https://web3.career/developer-advocate-ripplex-developer-platform-ripple/10786,"San Francisco,
+United States",Developer Advocate (RippleX Developer Platform),$11k - $130k,dev:javascript:java,6mo
+Ripple,https://web3.career/staff-software-engineer-liquidity-finance-trading-ripple/10785,"New York,
+United States","Staff Software Engineer, Liquidity (Finance/Trading)",,dev:finance:sales:non tech:java,6mo
+Ripple,https://web3.career/staff-software-engineer-liquidity-finance-trading-ripple/10784,"San Francisco,
+United States","Staff Software Engineer, Liquidity (Finance/Trading)",,dev:finance:sales:non tech:java,6mo
+Ripple,https://web3.career/software-engineer-ripplenet-payments-ripple/10783,"San Francisco,
+United States","Software Engineer, RippleNet Payments",$33k - $140k,dev:java,6mo
+Ripple,https://web3.career/software-engineer-machine-learning-ripple/10782,"San Francisco,
+United States","Software Engineer, Machine Learning",,dev:machine learning:java,6mo
+Ripple,https://web3.career/senior-software-engineer-liquidity-ripple/10781,"New York,
+United States","Senior Software Engineer, Liquidity",,dev:sales:non tech:senior:java,6mo
+Ripple,https://web3.career/senior-software-engineer-liquidity-ripple/10780,"San Francisco,
+United States","Senior Software Engineer, Liquidity",,dev:sales:non tech:senior:java,6mo
+Ripple,https://web3.career/business-development-manager-ripple/10779,Brazil,Business Development Manager,$26k - $140k,sales:non tech,6mo
+RECUR,https://web3.career/ui-designer-remote-recur/10778,Remote,UI Designer (Remote),$50k - $135k,remote:design:non tech:ethereum:nft,6mo
+RECUR,https://web3.career/senior-product-designer-remote-recur/10777,Remote,Senior Product Designer (Remote),$50k - $135k,remote:design:non tech:senior:ethereum,6mo
+RECUR,https://web3.career/technical-recruiter-remote-recur/10776,"Miami,
+United States",Technical Recruiter (Remote),,remote:recruiter:non tech:ethereum:nft,6mo
+RECUR,https://web3.career/senior-technical-recruiter-remote-recur/10775,Remote,Senior Technical Recruiter (Remote),,remote:recruiter:non tech:senior:ethereum,6mo
+RECUR,https://web3.career/people-operations-specialist-remote-recur/10774,,People Operations Specialist (Remote),,remote:operations:ethereum,6mo
+RECUR,https://web3.career/contract-recruiter-remote-recur/10773,,Contract Recruiter (Remote),,remote:recruiter:non tech:ethereum,6mo
+RECUR,https://web3.career/business-recruiter-remote-recur/10772,"Miami,
+United States",Business Recruiter (Remote),,remote:recruiter:non tech:ethereum,6mo
+RECUR,https://web3.career/sr-manager-email-marketing-remote-recur/10771,,"Sr. Manager, Email Marketing (Remote)",$25k - $120k,remote:marketing:non tech:senior:ethereum,6mo
+RECUR,https://web3.career/sr-designer-marketing-remote-recur/10770,,"Sr. Designer, Marketing (Remote)",$50k - $135k,remote:design:non tech:marketing:senior,6mo
+RECUR,https://web3.career/sr-copywriter-remote-recur/10769,,Sr. Copywriter (Remote),,remote:copywriting:senior:ethereum,6mo
+RECUR,https://web3.career/marketing-program-manager-toys-and-collectibles-remote-recur/10768,,"Marketing Program Manager, Toys and Collectibles (Remote)",$25k - $120k,remote:marketing:non tech:executive:ethereum,6mo
+RECUR,https://web3.career/marketing-program-manager-sports-remote-recur/10767,,"Marketing Program Manager, Sports (Remote)",$25k - $120k,remote:marketing:non tech:executive:ethereum,6mo
+RECUR,https://web3.career/director-of-social-media-remote-recur/10766,,Director of Social Media (Remote),$45k - $150k,remote:executive:social media:non tech:ethereum,6mo
+RECUR,https://web3.career/director-influencer-marketing-remote-recur/10765,,"Director, Influencer Marketing (Remote)",$45k - $158k,remote:executive:marketing:non tech:ethereum,6mo
+RECUR,https://web3.career/senior-product-manager-games-engagement-remote-recur/10764,"Los Angeles,
+United States","Senior Product Manager, Games & Engagement (Remote)",$115k - $175k,remote:product manager:non tech:senior:ethereum,6mo
+RECUR,https://web3.career/product-manager-games-engagement-remote-recur/10763,"Los Angeles,
+United States","Product Manager, Games & Engagement (Remote)",$115k - $175k,remote:product manager:non tech:ethereum:nft,6mo
+RECUR,https://web3.career/producer-sports-remote-recur/10762,"Miami,
+United States","Producer, Sports (Remote)",$79k - $158k,remote:ethereum:nft,6mo
+RECUR,https://web3.career/producer-film-remote-recur/10761,"Los Angeles,
+United States","Producer, Film (Remote)",$79k - $158k,remote:ethereum:nft,6mo
+RECUR,https://web3.career/director-of-product-games-engagement-remote-recur/10760,"Los Angeles,
+United States","Director of Product, Games & Engagement (Remote)",$140k - $180k,remote:executive:product manager:non tech:ethereum,6mo
+RECUR,https://web3.career/associate-producer-sports-remote-recur/10759,"Los Angeles,
+United States","Associate Producer, Sports (Remote)",$79k - $158k,remote:ethereum:nft,6mo
+RECUR,https://web3.career/senior-full-stack-engineer-business-applications-remote-recur/10758,"Boston,
+United States",Senior Full Stack Engineer - Business Applications (Remote),$70k - $200k,remote:dev:full stack:senior:nft,6mo

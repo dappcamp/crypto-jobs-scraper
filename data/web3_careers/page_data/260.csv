@@ -1,36 +1,63 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-CANDY,https://web3.career/strategic-account-manager-sports-candy/15549,Strategic Account Manager (Sports),,account manager,4mo
-CANDY,https://web3.career/strategic-account-director-sports-candy/15548,Strategic Account Director (Sports),$70k - $180k,executive,4mo
-Maple,https://web3.career/senior-rust-engineer-maple-finance/15546,Senior Rust Engineer,$120k - $210k,dev:rust:senior:remote:solidity,4mo
-Maple,https://web3.career/marketing-executive-maple-finance/15545,Marketing Executive,$70k - $158k,executive:marketing:non tech:remote,4mo
-Blockswap,https://web3.career/community-lead-blockswap/15544,Community Lead,$40k - $65k,community manager:non tech:lead:remote:nft,4mo
-Localcoin,https://web3.career/web-developer-localcoin/15543,Web Developer,$56k - $160k,dev:react:javascript,4mo
-Localcoin,https://web3.career/social-paid-media-specialist-localcoin/15542,Social & Paid Media Specialist,,,4mo
-Sygnum Bank AG,https://web3.career/business-intelligence-analyst-sygnum/15541,Business Intelligence Analyst,$45k - $185k,analyst:ethereum,4mo
-Set Labs,https://web3.career/senior-product-designer-setlabs/15540,Senior Product Designer,$60k - $120k,design:non tech:senior:ethereum,4mo
-Foundry,https://web3.career/hr-manager-foundrydigital/15539,HR Manager,$60k - $150k,hr:non tech,4mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/senior-index-research-analyst-coindesk/15538,Senior Index Research Analyst,,analyst:senior:remote,4mo
-Bitcoin Depot,https://web3.career/software-development-manager-bitcoindepot/15536,Software Development Manager,$57k - $140k,dev:react:ethereum:node,4mo
-SwissBorg,https://web3.career/web-developer-remote-swissborg/15535,Web Developer (Remote),$65k - $180k,remote:dev,4mo
-SwissBorg,https://web3.career/web-developer-remote-swissborg/15534,Web Developer (Remote),$65k - $180k,remote:dev,4mo
-SwissBorg,https://web3.career/web-developer-remote-swissborg/15533,Web Developer (Remote),$65k - $180k,remote:dev,4mo
-0x,https://web3.career/senior-software-engineer-head-of-defi-0x/15532,Senior Software Engineer // Head of DeFi,$60k - $250k,executive:dev:senior:defi:ethereum,4mo
-bloXmove,https://web3.career/lead-architect-3472475-lead-architect-utm_source-google_jobs_apply-pid-bce1fbd2f366390046fc/15531,Lead Architect,,architecture:lead:remote,4mo
-AcumenCog,https://web3.career/business-developer-it-sales-3511770-business-developer-it-sales/15526,Business developer / IT sales,,dev:sales:non tech:remote,4mo
-Hiro,https://web3.career/frontend-engineer-user-experience-hiro/15525,"Frontend Engineer, User Experience",,dev:front end:design:non tech:remote,4mo
-SwissBorg,https://web3.career/web-developer-remote-swissborg/15524,Web Developer (Remote),$65k - $180k,remote:dev,4mo
-SwissBorg,https://web3.career/content-marketing-specialist-remote-swissborg/15523,Content Marketing Specialist (Remote),$25k - $120k,remote:marketing:non tech,4mo
-Polygon,https://web3.career/business-strategy-analyst-polygon/15522,Business Strategy Analyst,$45k - $55k,analyst:remote:ethereum,4mo
-Ripple,https://web3.career/sr-product-marketing-manager-strategy-research-ripple/15521,Sr. Product Marketing Manager - Strategy + Research,$46k - $109k,marketing:non tech:senior,4mo
-Ripple,https://web3.career/sr-product-marketing-manager-strategy-research-ripple/15520,Sr. Product Marketing Manager - Strategy + Research,$46k - $109k,marketing:non tech:senior,4mo
-Hivemapper,https://web3.career/senior-fullstack-engineer-hivemapper/15519,Senior Fullstack Engineer,$140k - $180k,dev:full stack:senior:react:javascript,4mo
-Hivemapper,https://web3.career/senior-backend-engineer-hivemapper/15518,Senior Backend Engineer,$145k - $200k,backend:dev:senior:node,4mo
-Hivemapper,https://web3.career/don-t-see-a-fit-apply-here-hivemapper/15517,Don't see a fit? Apply here!,,,4mo
-Parity Technologies,https://web3.career/technical-writer-parity/15485,Technical Writer,$45k - $120k,analyst:remote,4mo
-Boson Protocol,https://web3.career/community-customer-support-manager-bosonprotocol/15484,Community & Customer Support Manager,,community manager:non tech:customer support:nft,4mo
-Ripple,https://web3.career/senior-policy-manager-emea-ripple/15483,Senior Policy Manager (EMEA),$78k - $200k,senior,4mo
-Parity Technologies,https://web3.career/technical-documentation-lead-m-f-d-parity/15482,Technical Documentation Lead (m/f/d),$96k - $118k,lead:remote:rust,4mo
-Consensys,https://web3.career/research-engineer-cryptography-and-zero-knowledge-protocols-consensys/15481,Research Engineer - Cryptography and Zero-Knowledge Protocols,$60k - $150k,dev:remote:ethereum:rust,4mo
-Chain,https://web3.career/chief-marketing-officer-chain/15480,Chief Marketing Officer,$70k - $158k,executive:marketing:non tech:remote,4mo
-Crypto.com,https://web3.career/blockchain-security-engineeer-backend-rust-kr-crypto-com/15479,Blockchain Security Engineeer - Backend (Rust) (KR),,backend:rust:security:blockchain:ethereum,4mo
-Ankr,https://web3.career/defi-junior-analyst-ankr/15477,DeFi Junior Analyst,$10k - $13k,analyst:junior:entry level:defi,4mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Next Big Thing AG,https://web3.career/cto-and-co-founder-f-m-x-for-zero-defects-our-saas-startup-in-the-field-of-industrial-quality-management-nextbigthing/16235,"Berlin,
+Germany","CTO and co-founder (f/m/x) for ZERO defects, our SaaS startup in the field of industrial quality management",,executive:saas:remote:cto,4mo
+UBIRCH,https://web3.career/embedded-developer-f-x-m-berlin-germany-3624945-embedded-developer-f-x-m-berlin-germany-utm_source-google_jobs_apply-pid-bce1fbd2f366390046fc/16234,"Berlin,
+Germany",Embedded Developer (F/X/M) (Berlin/Germany),,dev:embedded:remote:golang:rust,4mo
+Maple,https://web3.career/credit-analyst-maple-finance/16233,Remote,Credit Analyst,$45k - $120k,analyst:remote,4mo
+Reddit,https://web3.career/senior-ios-engineer-nft-platform-reddit/16232,"London,
+United Kingdom","Senior IOS Engineer, NFT Platform",$51k - $109k,dev:ios:mobile:senior:nft,4mo
+Drift Protocol,https://web3.career/frontend-engineer-mobile-drift-protocol/16231,Remote,Frontend Engineer (Mobile),,dev:front end:mobile:remote:web3js,4mo
+Chainalysis,https://web3.career/enterprise-account-executive-latam-spanish-speaking-chainalysis/16230,"New York,
+United States","Enterprise Account Executive, LATAM (Spanish-speaking)",$70k - $180k,executive,4mo
+Chainalysis,https://web3.career/enterprise-account-executive-canada-chainalysis/16229,"Montreal,
+Canada","Enterprise Account Executive, Canada",$70k - $180k,executive,4mo
+Autograph,https://web3.career/technical-project-manager-scrum-master-autograph/16228,"Santa Monica,
+United States",Technical Project Manager/ Scrum Master,,project manager:non tech:scrum:nft,4mo
+Autograph,https://web3.career/api-backend-engineer-junior-mid-autograph/16227,"Santa Monica,
+United States",API/ Backend Engineer (Junior/ Mid),$60k - $170k,api:backend:dev:junior:entry level,4mo
+Next Big Thing AG,https://web3.career/co-founder-and-cpo-f-m-x-nextbigthing/16226,"Berlin,
+Germany",Co-Founder and CPO (f/m/x),$79k - $200k,executive:remote,4mo
+Reddit,https://web3.career/senior-ios-engineer-nft-platform-reddit/16225,"Chicago,
+United States","Senior IOS Engineer, NFT Platform",$51k - $109k,dev:ios:mobile:senior:nft,4mo
+Chronicled.com,https://web3.career/head-of-marketing-chronicled-2/16224,Remote,Head of Marketing,$70k - $158k,executive:marketing:non tech:remote,4mo
+Bittrex,https://web3.career/sr-product-manager-api-core-platform-services-bittrex/16223,"Washington,
+United States",Sr. Product Manager - API / Core Platform Services,,api:product manager:non tech:senior:javascript,4mo
+Nuri,https://web3.career/senior-performance-marketing-manager-nuri/16222,"Berlin,
+Germany",(Senior) Performance Marketing Manager,$46k - $109k,marketing:non tech:senior:remote,4mo
+Reddit,https://web3.career/senior-ios-engineer-nft-platform-reddit/16218,"Dublin,
+Ireland","Senior IOS Engineer, NFT Platform",$51k - $109k,dev:ios:mobile:senior:nft,4mo
+AGGer,https://web3.career/crypto-trading-software-engineer-agger/16217,"Hong Kong,
+Hong Kong",Crypto Trading Software Engineer,$15k - $35k,dev:crypto:javascript,4mo
+Foundry,https://web3.career/marketing-coordinator-foundrydigital/16216,"New York,
+United States",Marketing Coordinator,$45k - $130k,marketing:non tech,4mo
+Blockdaemon,https://web3.career/project-manager-uk-blockdaemon/16215,"London,
+United Kingdom",Project Manager (UK),$50k - $150k,project manager:non tech,4mo
+Chainlink Labs,https://web3.career/growth-marketer-chainlink/16214,Remote,Growth Marketer,$25k - $120k,marketing:non tech:remote,4mo
+Cake Pte Ltd,https://web3.career/senior-manager-people-ops-cakedefi/16211,"Singapore,
+Singapore",Senior Manager - People Ops,$78k - $200k,senior,4mo
+Localcoin,https://web3.career/graphic-designer-localcoin/16210,"Toronto,
+Canada",Graphic Designer,$50k - $150k,design:non tech,4mo
+Localcoin,https://web3.career/content-marketing-digital-specialist-localcoin/16209,"Toronto,
+Canada",Content Marketing & Digital Specialist,$45k - $130k,marketing:non tech,4mo
+Chainalysis,https://web3.career/field-marketing-manager-chainalysis/16208,"Seoul,
+South Korea",Field Marketing Manager,$45k - $130k,marketing:non tech,4mo
+Coinomi,https://web3.career/blockchain-integration-engineer-remote-coinomi/16207,"Warsaw,
+Poland",Blockchain Integration Engineer (Remote),$70k - $190k,remote:dev:blockchain,4mo
+Sygnum Bank AG,https://web3.career/vp-asset-management-sales-sygnum/16206,"Singapore,
+Singapore","VP, Asset Management Sales",$40k - $150k,sales:non tech:executive:ethereum,4mo
+SwissBorg,https://web3.career/payments-officer-remote-in-portugal-swissborg/16205,"Porto,
+Portugal",Payments Officer (Remote in Portugal),,finance:legal:remote,4mo
+SwissBorg,https://web3.career/payments-officer-remote-in-estonia-swissborg/16204,Remote,Payments Officer (Remote in Estonia),,finance:legal:remote,4mo
+SwissBorg,https://web3.career/french-customer-service-agent-remote-in-portugal-swissborg/16203,"Porto,
+Portugal",French Customer Service Agent (Remote in Portugal),$40k - $80k,remote:customer support,4mo
+Messari,https://web3.career/communications-marketing-messari/16202,Remote,"Communications, Marketing",$25k - $120k,marketing:non tech:remote,4mo
+SwissBorg,https://web3.career/payments-officer-swissborg/16200,"Lisbon,
+Portugal",Payments Officer,,finance:legal,4mo
+SwissBorg,https://web3.career/french-customer-service-agent-swissborg/16199,"Lisbon,
+Portugal",French Customer Service Agent,$40k - $80k,customer support,4mo
+Parity Technologies,https://web3.career/javascript-engineer-integrations-parity/16197,"Berlin,
+Germany",JavaScript Engineer - Integrations,$60k - $180k,dev:javascript:remote:rust,4mo
+Caiz Holding AG,https://web3.career/blockchain-developer-3628488-blockchain-developer/16196,"Frankfurt,
+Germany",Blockchain Developer,$70k - $190k,dev:blockchain:remote:javascript:java,4mo
+SwissBorg,https://web3.career/risk-and-control-specialist-remote-swissborg/16195,Remote,Risk and Control Specialist (Remote),$56k - $160k,remote,4mo
+Maple,https://web3.career/credit-analyst-maple-finance/16194,Remote,Credit Analyst,$45k - $120k,analyst:remote,4mo

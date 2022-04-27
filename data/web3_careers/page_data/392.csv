@@ -1,36 +1,70 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Immutable,https://web3.career/junior-game-developer-unity-immutable/9571,Junior Game Developer (Unity),,dev:game dev:junior:entry level,5mo
-Immutable,https://web3.career/lead-game-designer-immutable/9570,Lead Game Designer,$26k - $150k,design:non tech:game dev:lead:remote,5mo
-Immutable,https://web3.career/junior-game-designer-immutable/9569,Junior Game Designer,$26k - $150k,design:non tech:game dev:junior:entry level,5mo
-Immutable,https://web3.career/talent-sourcer-immutable/9568,Talent Sourcer,,recruiter:non tech:ethereum,5mo
-Immutable,https://web3.career/talent-acquisition-lead-gtm-immutable/9567,Talent Acquisition Lead (GTM),$40k - $70k,lead:recruiter:non tech:ethereum,5mo
-Holaplex,https://web3.career/senior-fullstack-software-engineer-holaplex/9566,Senior Fullstack Software Engineer,$70k - $180k,dev:full stack:senior:react:solana,5mo
-Holaplex,https://web3.career/support-liaison-holaplex/9565,Support Liaison,,customer support:nft:remote,5mo
-Holaplex,https://web3.career/manager-of-technical-support-holaplex/9564,Manager of Technical Support,,customer support:nft:remote,5mo
-Holaplex,https://web3.career/community-manager-holaplex/9563,Community Manager,$35k - $101k,community manager:non tech:nft:remote,5mo
-Holaplex,https://web3.career/business-development-executive-holaplex/9562,Business Development Executive,$40k - $150k,sales:non tech:executive:nft:remote,5mo
-Hinata Foundation,https://web3.career/blockchain-engineer-hinata/9561,Blockchain Engineer,$33k - $120k,dev:blockchain:ethereum:nft:remote,5mo
-Hinata Foundation,https://web3.career/social-media-strategist-hinata/9560,Social Media Strategist,$35k - $110k,social media:non tech:remote,5mo
-Harmony,https://web3.career/sr-software-engineer-cloud-amer-timezones-harmony/9559,Sr. Software Engineer - Cloud (AMER Timezones),,cloud:dev:senior:remote,5mo
-Harmony,https://web3.career/software-engineer-harmony/9558,Software Engineer,$63k - $160k,dev:solidity:ethereum:javascript:rust,5mo
-Harmony,https://web3.career/fintech-engineer-for-cross-border-finance-applications-fiat-integrations-harmony/9557,Fintech Engineer for Cross-Border Finance Applications & Fiat Integrations,$40k - $120k,dev:finance:react:solidity:ethereum,5mo
-Harmony,https://web3.career/developer-relations-engineer-remote-harmony/9556,Developer Relations Engineer (Remote),,remote:customer support:dev:ethereum,5mo
-Harmony,https://web3.career/cryptography-engineer-for-zero-knowledge-proofs-and-privacy-applications-harmony/9555,Cryptography Engineer for Zero-Knowledge Proofs and Privacy Applications,$63k - $160k,dev:solidity:ethereum:javascript:golang,5mo
-Harmony,https://web3.career/compiler-engineer-harmony/9554,Compiler Engineer,$63k - $160k,dev:solidity:ethereum:remote,5mo
-Harmony,https://web3.career/blockchain-protocol-researcher-harmony/9553,Blockchain Protocol Researcher,$60k - $120k,blockchain:solidity:ethereum:remote,5mo
-Harmony,https://web3.career/social-media-manager-harmony/9552,Social Media Manager,$35k - $110k,social media:non tech:remote,5mo
-Harmony,https://web3.career/operations-associate-part-time-harmony/9551,Operations Associate (Part Time),,operations:part time:ethereum:nft:remote,5mo
-Harmony,https://web3.career/content-strategist-harmony/9550,Content Strategist,$56k - $160k,remote,5mo
-Harmony,https://web3.career/asia-lead-harmony/9549,Asia Lead,$95k - $200k,lead:remote,5mo
-GSR,https://web3.career/trading-operations-gsr/9548,Trading Operations,$60k - $200k,operations,5mo
-GSR,https://web3.career/quantitative-trader-associate-gsr/9547,"Quantitative Trader, Associate",$31k - $37k,trader,5mo
-GSR,https://web3.career/quantitative-trader-new-york-sgp-or-london-gsr/9546,Quantitative Trader - New York/SGP or London,$31k - $37k,trader,5mo
-GSR,https://web3.career/quantitative-trader-london-thursday-to-sunday-gsr/9545,Quantitative Trader - London (Thursday to Sunday),$31k - $37k,trader,5mo
-GSR,https://web3.career/front-office-quantitative-analyst-derivatives-associate-gsr/9544,"Front Office Quantitative Analyst (Derivatives), Associate",$40k - $120k,analyst,5mo
-GSR,https://web3.career/product-lead-defi-gsr/9543,"Product Lead, DeFi",$80k - $160k,lead:defi,5mo
-GSR,https://web3.career/venture-capital-analyst-gsr/9542,Venture Capital Analyst,,analyst:finance:remote,5mo
-GSR,https://web3.career/venture-capital-analyst-gsr/9541,Venture Capital Analyst,,analyst:finance,5mo
-GSR,https://web3.career/venture-capital-analyst-gsr/9540,Venture Capital Analyst,,analyst:finance,5mo
-GSR,https://web3.career/m-a-and-investment-analyst-gsr/9539,M&A and Investment Analyst,,analyst:finance,5mo
-GSR,https://web3.career/software-engineering-manager-blockchain-us-gsr/9538,Software Engineering Manager - Blockchain (US),$50k - $300k,executive:dev:blockchain:remote,5mo
-GSR,https://web3.career/software-engineering-manager-blockchain-us-gsr/9537,Software Engineering Manager - Blockchain (US),$50k - $300k,executive:dev:blockchain,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Blockdaemon,https://web3.career/blockchain-r-d-engineer-blockdaemon/10082,Remote,Blockchain R&D Engineer,$52k - $160k,dev:blockchain:solidity:ethereum:golang,6mo
+Blockchain.com,https://web3.career/technical-sourcer-blockchain/10081,"London,
+United Kingdom",Technical Sourcer,$40k - $70k,recruiter:non tech,6mo
+Blockchain.com,https://web3.career/senior-counsel-finance-lending-blockchain/10080,"London,
+United Kingdom","Senior Counsel, Finance (Lending)",,legal:finance:senior,6mo
+Blockchain.com,https://web3.career/revenue-accounting-manager-blockchain/10079,"Miami,
+United States",Revenue Accounting Manager,$25k - $150k,accounting,6mo
+Blockchain.com,https://web3.career/head-of-fp-a-blockchain/10078,"London,
+United Kingdom",Head of FP&A,$70k - $180k,executive,6mo
+Blockchain.com,https://web3.career/finance-transformation-special-projects-blockchain/10077,"Miami,
+United States",Finance Transformation Special Projects,$40k - $150k,finance,6mo
+Blockchain.com,https://web3.career/corporate-treasurer-blockchain/10076,"Miami,
+United States",Corporate Treasurer,,,6mo
+Blockchain.com,https://web3.career/assistant-controller-blockchain/10075,"Miami,
+United States",Assistant Controller,,finance:legal,6mo
+Blockchain.com,https://web3.career/senior-ios-engineer-blockchain/10074,"London,
+United Kingdom",Senior iOS Engineer,$51k - $109k,dev:ios:mobile:senior,6mo
+Blockchain.com,https://web3.career/senior-android-engineer-blockchain/10073,"London,
+United Kingdom",Senior Android Engineer,,android:mobile:dev:senior:java,6mo
+Blockchain.com,https://web3.career/ios-engineer-blockchain/10072,"London,
+United Kingdom",iOS Engineer,$51k - $109k,dev:ios:mobile,6mo
+Blockchain.com,https://web3.career/android-engineer-blockchain/10071,"London,
+United Kingdom",Android Engineer,,android:mobile:dev:java,6mo
+Blockchain.com,https://web3.career/latin-american-compliance-and-kyc-specialist-blockchain/10070,"Buenos Aires,
+Argentina",Latin American Compliance and KYC Specialist,,compliance:kyc,6mo
+Blockchain.com,https://web3.career/kyc-specialist-americas-blockchain/10069,"Miami,
+United States","KYC Specialist, Americas",,kyc,6mo
+Blockchain.com,https://web3.career/head-of-compliance-mlro-uk-emea-blockchain/10068,"London,
+United Kingdom","Head of Compliance & MLRO, UK & EMEA",,compliance:executive,6mo
+Blockchain.com,https://web3.career/head-of-compliance-americas-blockchain/10067,"Miami,
+United States","Head of Compliance, Americas",,compliance:executive,6mo
+Bittrex,https://web3.career/senior-product-manager-trading-bittrex/10066,"Washington,
+United States",Senior Product Manager - Trading,$80k - $150k,product manager:non tech:senior:javascript,6mo
+Bittrex,https://web3.career/senior-product-manager-platform-bittrex/10065,"Washington,
+United States",Senior Product Manager - Platform,$80k - $150k,product manager:non tech:senior,6mo
+Bittrex,https://web3.career/product-owner-internal-tools-bittrex/10064,"Washington,
+United States",Product Owner - Internal Tools,,product manager:non tech:javascript,6mo
+Bittrex,https://web3.career/solutions-engineer-bittrex/10063,"Washington,
+United States",Solutions Engineer,$56k - $150k,dev:javascript,6mo
+Bittrex,https://web3.career/senior-customer-support-analyst-social-media-bittrex/10062,"Washington,
+United States",Senior Customer Support Analyst - Social Media,,analyst:customer support:senior:social media:non tech,6mo
+Bittrex,https://web3.career/operations-program-manager-bittrex/10061,"Washington,
+United States",Operations Program Manager,$150k - $230k,operations:executive,6mo
+Bittrex,https://web3.career/customer-support-compliance-analyst-bittrex/10060,"Seattle,
+United States",Customer Support Compliance Analyst,,compliance:analyst:customer support,6mo
+Bittrex,https://web3.career/customer-support-analyst-bittrex/10059,"Washington,
+United States",Customer Support Analyst,$15k - $95k,analyst:customer support,6mo
+Bittrex,https://web3.career/contract-recruiter-bittrex/10058,"Seattle,
+United States",Contract Recruiter,$40k - $70k,recruiter:non tech,6mo
+Bittrex,https://web3.career/wallet-devops-engineer-bittrex/10057,"Washington,
+United States",Wallet DevOps Engineer,$150k - $200k,devops:dev:javascript:java,6mo
+Bittrex,https://web3.career/solution-integration-engineer-bittrex/10056,"Washington,
+United States",Solution Integration Engineer,$67k - $180k,dev:solidity,6mo
+Bittrex,https://web3.career/software-engineer-wallets-sde2-bittrex/10055,"Washington,
+United States",Software Engineer - Wallets SDE2,$33k - $140k,dev:java,6mo
+Bittrex,https://web3.career/software-engineer-wallets-bittrex/10054,"Washington,
+United States",Software Engineer - Wallets,$11k - $130k,dev:javascript:java,6mo
+Bittrex,https://web3.career/software-engineer-iv-backend-bittrex/10053,"Washington,
+United States",Software Engineer IV - Backend,$60k - $160k,backend:dev:java,6mo
+Bittrex,https://web3.career/software-engineer-iii-backend-bittrex/10052,"Washington,
+United States",Software Engineer III - Backend,$60k - $160k,backend:dev:java,6mo
+Bittrex,https://web3.career/software-engineer-ii-backend-bittrex/10051,"Washington,
+United States",Software Engineer II - Backend,$60k - $160k,backend:dev:java,6mo
+Bittrex,https://web3.career/software-engineer-frontend-bittrex/10050,"Washington,
+United States",Software Engineer - Frontend,$50k - $140k,dev:front end:javascript,6mo
+Bittrex,https://web3.career/senior-software-engineer-mobile-sde3-bittrex/10049,"Washington,
+United States",Senior Software Engineer - Mobile (SDE3),$120k - $200k,dev:mobile:senior:react:react native,6mo
+Bittrex,https://web3.career/senior-software-engineer-internal-tools-bittrex/10048,"Washington,
+United States",Senior Software Engineer - (Internal Tools),$80k - $200k,dev:senior:javascript,6mo

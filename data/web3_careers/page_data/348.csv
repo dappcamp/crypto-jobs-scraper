@@ -1,36 +1,55 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-SuperRare Labs,https://web3.career/sr-product-manager-superrarelabs/11202,Sr. Product Manager,$80k - $150k,product manager:non tech:senior:ethereum:nft,5mo
-CoinList,https://web3.career/technical-recruiter-coinlist/11201,Technical Recruiter,,recruiter:non tech:solana,5mo
-MetaStreet Labs,https://web3.career/senior-front-end-engineer-metastreet-labs/11200,Senior Front End Engineer,$70k - $100k,dev:front end:senior:react:nft,5mo
-Figure,https://web3.career/head-of-risk-figure/11199,Head of Risk,$70k - $180k,executive,5mo
-Figment,https://web3.career/revenue-accountant-figment/11198,Revenue Accountant,$25k - $150k,accounting,5mo
-Stellar Development Foundation,https://web3.career/technical-program-manager-stellar/11196,Technical Program Manager,$70k - $180k,executive,5mo
-Stellar Development Foundation,https://web3.career/technical-program-manager-stellar/11195,Technical Program Manager,$70k - $180k,executive,5mo
-Stellar Development Foundation,https://web3.career/technical-program-manager-stellar/11194,Technical Program Manager,$70k - $180k,executive,5mo
-Alchemy,https://web3.career/devops-engineer-infrastructure-alchemy/11193,DevOps Engineer (Infrastructure),$95k - $180k,devops:dev:remote,5mo
-Alchemy,https://web3.career/devops-engineer-developer-tooling-alchemy/11192,DevOps Engineer (Developer Tooling),$95k - $180k,dev:devops:remote,5mo
-BitGo,https://web3.career/applied-scientist-cryptography-bitgo/11191,Applied Scientist - Cryptography,$50k - $200k,java:rust,5mo
-Ripple,https://web3.career/director-technical-services-ripple/11190,"Director, Technical Services",$70k - $180k,executive,5mo
-Figure,https://web3.career/senior-product-manager-customer-success-portal-figure/11189,"Senior Product Manager, Customer Success Portal",,customer support:product manager:non tech:senior,5mo
-Chainalysis,https://web3.career/senior-solutions-architect-semea-chainalysis/11188,"Senior Solutions Architect, SEMEA",$80k,architecture:senior,5mo
-Chainalysis,https://web3.career/sales-development-representative-chainalysis/11187,Sales Development Representative,$26k - $140k,sales:non tech,5mo
-Chainalysis,https://web3.career/sales-development-representative-chainalysis/11186,Sales Development Representative,$26k - $140k,sales:non tech,5mo
-Parity Technologies,https://web3.career/operations-lead-m-f-d-parity/11185,Operations Lead (m/f/d),,lead:operations,5mo
-Parity Technologies,https://web3.career/office-manager-m-f-d-parity/11184,Office Manager (m/f/d),,,5mo
-CANDY,https://web3.career/user-experience-researcher-candy/11183,User Experience Researcher,$60k - $150k,design:non tech:nft,5mo
-Bittrex,https://web3.career/senior-devops-engineer-bittrex/11182,Senior DevOps Engineer,$120k - $200k,devops:dev:senior,5mo
-Wintermute,https://web3.career/business-development-director-london-singapore-usa-remote-wintermute-trading/11181,Business Development Director - London/Singapore/USA/Remote,$29k - $108k,remote:sales:non tech:executive,5mo
-Valora Inc,https://web3.career/react-native-engineer-valorainc/11180,React Native Engineer,$65k - $200k,dev:react native:mobile:javascript:react,5mo
-BitGo,https://web3.career/senior-software-engineer-custody-platform-bitgo/11179,"Senior Software Engineer, Custody Platform",$70k - $200k,dev:senior:node:golang:remote,5mo
-Symbiont,https://web3.career/security-engineer-symbiont/11178,Security Engineer,$95k - $250k,dev:security,5mo
-Figment,https://web3.career/fp-a-analyst-figment/11177,FP&A Analyst,$40k - $120k,analyst,5mo
-Bitcoin Depot,https://web3.career/product-ops-specialist-bitcoindepot/11176,Product Ops Specialist,$60k - $150k,ethereum,5mo
-Bitcoin Depot,https://web3.career/project-manager-bitcoindepot/11175,Project Manager,$80k - $150k,project manager:non tech:ethereum,5mo
-DeFi Alliance,https://web3.career/cto-remote-defialliance/11174,CTO (Remote),$79k - $158k,remote:executive:ethereum:cto,5mo
-DeFi Alliance,https://web3.career/open-application-remote-defialliance/11173,Open Application (Remote),$60k - $145k,remote:ethereum,5mo
-Chainlink Labs,https://web3.career/event-manager-chainlink/11172,Event Manager,,events manager:non tech:remote,5mo
-OKEx,https://web3.career/regional-hr-manager-sr-manager-remote-okex/11170,Regional HR Manager/Sr. Manager - Remote,$60k - $120k,remote:hr:non tech:senior,5mo
-OKEx,https://web3.career/affiliate-business-development-manager-arabic-eng-remote-okex/11169,Affiliate Business Development Manager (Arabic/Eng) - Remote,$25k - $120k,remote:marketing:non tech:sales,5mo
-Okcoin,https://web3.career/ux-researcher-learn-okcoin/11166,"UX Researcher, Learn",$50k - $150k,design:non tech,5mo
-Okcoin,https://web3.career/product-designer-design-systems-okcoin/11165,"Product Designer, Design Systems",$80k - $135k,design:non tech:react:javascript,5mo
-Okcoin,https://web3.career/product-designer-design-systems-okcoin/11164,"Product Designer, Design Systems",$80k - $135k,design:non tech:react:javascript,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+CoinList,https://web3.career/data-analyst-coinlist/12276,"San Francisco,
+United States",Data Analyst,,analyst:data science:solana,5mo
+Chainalysis,https://web3.career/senior-solutions-architect-aus-chainalysis/12275,Australia,"Senior Solutions Architect, AUS",$80k,architecture:senior,5mo
+Maple,https://web3.career/head-of-engineering-maple-finance/12274,Remote,Head of Engineering,$79k - $200k,executive:remote,5mo
+Beyond Seek Technologies,https://web3.career/qa-engineer-blockchain-defi-cryptocurrencies-beyond-seek/12271,India,QA Engineer - Blockchain/DeFi/Cryptocurrencies,$62k - $10k,dev:quality assurance:blockchain:crypto:defi,5mo
+Figure,https://web3.career/senior-product-manager-heloc-figure/12270,"San Francisco,
+United States","Senior Product Manager, HELOC",$80k - $150k,product manager:non tech:senior,5mo
+Figure,https://web3.career/product-manager-figure-equity-solutions-figure/12269,"San Francisco,
+United States","Product Manager, Figure Equity Solutions",$69k - $160k,product manager:non tech,5mo
+CoinList,https://web3.career/business-development-associate-coinlist/12268,"San Francisco,
+United States",Business Development Associate,$100k - $180k,sales:non tech:solana,5mo
+Chainlink Labs,https://web3.career/senior-technical-documentation-writer-chainlink/12267,Remote,Senior Technical Documentation Writer,,analyst:senior:remote,5mo
+Chainlink Labs,https://web3.career/developer-marketing-program-manager-chainlink/12266,Remote,Developer Marketing Program Manager,$85k - $120k,dev:marketing:non tech:executive:remote,5mo
+RECUR,https://web3.career/senior-manager-accounting-remote-recur/12265,,"Senior Manager, Accounting (Remote)",,remote:accounting:senior:ethereum:nft,5mo
+RECUR,https://web3.career/staff-performance-engineer-remote-recur/12264,"Boston,
+United States",Staff Performance Engineer (Remote),$60k - $180k,remote:dev:javascript:java,5mo
+Public,https://web3.career/weekend-customer-experience-manager-public/12263,United States,Weekend Customer Experience Manager,$40k - $80k,customer support,5mo
+MoonPay,https://web3.career/relationship-operations-analyst-eu-moonpay/12261,"London,
+United Kingdom",Relationship Operations Analyst (EU),,analyst:operations,5mo
+CoinDesk & TradeBlock Opportunities,https://web3.career/manager-group-registration-sales-consensus-festival-and-coindesk-events-coindesk/12260,Remote,"Manager, Group Registration Sales - Consensus Festival and CoinDesk Events",$29k - $108k,sales:non tech:remote,5mo
+Chainlink Labs,https://web3.career/technical-marketer-chainlink/12259,Remote,Technical Marketer,$25k - $120k,marketing:non tech:remote,5mo
+Public,https://web3.career/evening-customer-experience-representative-public/12258,United States,Evening Customer Experience Representative,$40k - $80k,customer support,5mo
+Chainalysis,https://web3.career/director-strategic-finance-chainalysis/12257,"New York,
+United States","Director, Strategic Finance",$90k - $200k,executive:finance,5mo
+Chainalysis,https://web3.career/customer-success-manager-us-department-of-defense-chainalysis/12256,"Washington,
+United States","Customer Success Manager, US Department of Defense",,sales:non tech:customer support,5mo
+BlockFi,https://web3.career/senior-backend-engineer-blockfi/12255,"New York,
+United States",Senior Backend Engineer,$70k - $200k,backend:dev:senior,5mo
+BlockFi,https://web3.career/senior-backend-engineer-blockfi/12254,Poland,Senior Backend Engineer,$70k - $200k,backend:dev:senior,5mo
+BlockFi,https://web3.career/backend-engineer-blockfi/12253,"New York,
+United States",Backend Engineer,$60k - $180k,backend:dev,5mo
+BlockFi,https://web3.career/backend-engineer-blockfi/12252,Poland,Backend Engineer,$60k - $180k,backend:dev,5mo
+Bittrex,https://web3.career/executive-business-administrator-bittrex/12251,"Washington,
+United States",Executive Business Administrator,$70k - $180k,executive,5mo
+Bittrex,https://web3.career/compliance-quality-control-manager-bittrex/12250,"Washington,
+United States",Compliance-Quality Control Manager,,compliance,5mo
+Okcoin,https://web3.career/senior-product-data-analyst-okcoin/12249,"San Francisco,
+United States",Senior Product Data Analyst,,analyst:data science:senior,5mo
+Findora,https://web3.career/vp-of-people-findora/12248,Remote,VP of People,$79k - $200k,executive:remote,5mo
+Stellar Development Foundation,https://web3.career/data-engineer-stellar/12247,"San Francisco,
+United States",Data Engineer,,data science:dev:golang,5mo
+Chainalysis,https://web3.career/social-media-manager-chainalysis/12246,"New York,
+United States",Social Media Manager,$33k - $85k,social media:non tech,5mo
+Chainlink Labs,https://web3.career/community-manager-turkey-chainlink/12245,Remote,"Community Manager, Turkey",$40k - $101k,community manager:non tech:remote,5mo
+OnJuno,https://web3.career/talent-acquisition-specialist-onjuno/12244,"Bengaluru,
+India",Talent Acquisition Specialist,$40k - $70k,recruiter:non tech,5mo
+RECUR,https://web3.career/treasurer-remote-recur/12243,,Treasurer (Remote),$56k - $165k,remote:nft,5mo
+CoinDesk & TradeBlock Opportunities,https://web3.career/coindesk-tv-on-air-talent-producer-coindesk/12242,"New York,
+United States",CoinDesk TV On-Air Talent/Producer,$40k - $70k,recruiter:non tech,5mo
+Figment,https://web3.career/sales-development-representative-figment/12240,"Toronto,
+Canada",Sales Development Representative,$26k - $140k,sales:non tech,5mo
+OnJuno,https://web3.career/fraud-analyst-onjuno/12238,"Bengaluru,
+India",Fraud Analyst,$60k - $185k,analyst:security,5mo
+RECUR,https://web3.career/manager-risk-compliance-remote-recur/12237,,"Manager, Risk & Compliance (Remote)",,compliance:remote:ethereum:nft,5mo

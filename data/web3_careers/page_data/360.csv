@@ -1,36 +1,47 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Parity Technologies,https://web3.career/rust-core-developer-parachains-protocol-parity/10712,Rust Core Developer - Parachains Protocol,$70k - $160k,dev:rust:ethereum:node:remote,5mo
-Parity Technologies,https://web3.career/rust-core-developer-parity/10711,Rust/Core Developer,$70k - $160k,dev:rust:ethereum:remote,5mo
-Parity Technologies,https://web3.career/rust-blockchain-developer-consensus-parity/10710,Rust Blockchain Developer - Consensus,$79k - $190k,dev:rust:blockchain:remote,5mo
-Parity Technologies,https://web3.career/parachains-engineer-common-good-parity/10709,Parachains Engineer - Common Good,$56k - $160k,dev:react:javascript:rust:remote,5mo
-Parity Technologies,https://web3.career/devops-engineer-m-f-d-parity/10708,DevOps Engineer (m/f/d),,devops:dev:rust:remote,5mo
-Parity Technologies,https://web3.career/ci-cd-engineer-m-f-d-parity/10707,CI/CD Engineer (m/f/d),$70k - $180k,dev:rust:remote,5mo
-Parity Technologies,https://web3.career/solution-engineer-substrate-parity/10706,Solution Engineer (Substrate),$70k - $180k,dev:rust:remote,5mo
-Parity Technologies,https://web3.career/polkadot-support-engineer-parity/10705,Polkadot Support Engineer,,dev:customer support:remote,5mo
-Parity Technologies,https://web3.career/polkadot-integrations-engineer-parity/10704,Polkadot Integrations Engineer,$60k - $180k,dev,5mo
-Parity Technologies,https://web3.career/technical-recruiter-blockchain-parity/10703,Technical Recruiter (Blockchain),,recruiter:non tech:blockchain:rust:remote,5mo
-Parity Technologies,https://web3.career/recruiter-marketing-business-g-a-parity/10702,Recruiter (Marketing / Business / G&A ),,marketing:non tech:recruiter:rust:remote,5mo
-Parity Technologies,https://web3.career/people-operations-manager-m-f-d-parity/10701,People Operations Manager (m/f/d),$80k - $110k,operations:remote,5mo
-Parity Technologies,https://web3.career/junior-it-admin-workplace-m-f-d-parity/10700,Junior IT Admin - Workplace (m/f/d),$39k - $56k,junior:entry level:remote,5mo
-Parity Technologies,https://web3.career/visual-designer-m-f-d-parity/10699,Visual Designer (m/f/d),$50k - $135k,design:non tech:remote,5mo
-Parity Technologies,https://web3.career/ui-web-designer-m-f-d-parity/10698,UI Web Designer (m/f/d),$50k - $135k,design:non tech:remote,5mo
-Parity Technologies,https://web3.career/technical-content-marketer-m-f-d-parity/10697,Technical Content Marketer (m/f/d),$25k - $120k,marketing:non tech:remote,5mo
-Parity Technologies,https://web3.career/social-media-manager-m-f-d-parity/10696,Social Media Manager (m/f/d),$35k - $110k,social media:non tech:remote,5mo
-Parity Technologies,https://web3.career/senior-web-developer-m-f-d-parity/10695,Senior Web Developer (m/f/d),$70k - $180k,dev:senior:react:javascript:node,5mo
-Parity Technologies,https://web3.career/project-manager-m-f-d-parity/10694,Project Manager (m/f/d),$56k - $150k,project manager:non tech:remote,5mo
-Parity Technologies,https://web3.career/product-marketing-lead-m-f-d-parity/10693,Product Marketing Lead (m/f/d),$50k - $120k,lead:marketing:non tech:remote,5mo
-Parity Technologies,https://web3.career/junior-event-manager-m-f-d-parity/10692,Junior Event Manager (m/f/d),,events manager:non tech:junior:entry level:remote,5mo
-Parity Technologies,https://web3.career/event-manager-m-f-d-parity/10691,Event Manager (m/f/d),,events manager:non tech:remote,5mo
-Parity Technologies,https://web3.career/copywriter-m-f-d-parity/10690,Copywriter (m/f/d),$25k - $30k,copywriting:remote,5mo
-Parity Technologies,https://web3.career/senior-security-analyst-parity/10689,Senior Security Analyst,$150k - $185k,analyst:security:senior:rust:remote,5mo
-Parity Technologies,https://web3.career/nodejs-security-application-engineer-m-f-d-parity/10688,NodeJS Security Application Engineer (m/f/d),$60k - $155k,dev:javascript:node:security:remote,5mo
-Parity Technologies,https://web3.career/devsecops-cloud-security-engineer-m-f-d-parity/10687,DevSecOps / Cloud Security Engineer (m/f/d),,cloud:dev:security:rust:remote,5mo
-Parity Technologies,https://web3.career/senior-financial-accountant-m-f-d-parity/10686,Senior Financial Accountant (m/f/d),,accounting:finance:senior:rust,5mo
-Parity Technologies,https://web3.career/jr-finance-assistant-m-f-d-parity/10685,Jr. Finance Assistant (m/f/d),$40k - $100k,finance:remote,5mo
-Parity Technologies,https://web3.career/financial-controller-m-f-d-parity/10684,Financial Controller (m/f/d),,legal:finance:rust,5mo
-Parity Technologies,https://web3.career/marketing-lead-m-f-d-parity/10683,Marketing Lead (m/f/d) 营销主管（中国）,$50k - $120k,lead:marketing:non tech,5mo
-Parity Technologies,https://web3.career/vp-of-ecosystem-development-parity/10682,VP of Ecosystem Development,$79k - $200k,executive:remote,5mo
-Parity Technologies,https://web3.career/ecosystem-relations-director-or-lead-m-f-d-parity/10681,Ecosystem Relations - Director or Lead (m/f/d),$140k - $200k,executive:lead:remote,5mo
-Parity Technologies,https://web3.career/ecosystem-growth-manager-m-f-d-parity/10680,Ecosystem Growth Manager (m/f/d),$25k - $120k,marketing:non tech:remote,5mo
-Parity Technologies,https://web3.career/director-of-developer-relations-m-f-d-parity/10679,Director of Developer Relations (m/f/d),,customer support:dev:executive:remote,5mo
-Paradigm,https://web3.career/liquidity-management-associate-north-america-paradigm62/10678,Liquidity Management Associate North America,$26k - $140k,sales:non tech,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Ripple,https://web3.career/business-development-manager-ripplex-ripple/11309,"San Francisco,
+United States","Business Development Manager, RippleX",$26k - $140k,sales:non tech,5mo
+Kava Labs,https://web3.career/staff-backend-software-engineer-kava/11308,United States,Staff Backend Software Engineer,$33k - $160k,backend:dev:golang,5mo
+Kava Labs,https://web3.career/senior-staff-backend-software-engineer-kava/11307,"New York,
+United States",Senior Staff Backend Software Engineer,$70k - $200k,backend:dev:senior:golang,5mo
+Kava Labs,https://web3.career/golang-software-engineer-kava/11306,"San Francisco,
+United States",Golang Software Engineer,$48k - $150k,dev:golang,5mo
+Figure,https://web3.career/senior-software-engineer-figure-equity-solutions-figure/11305,"Philadelphia,
+United States","Senior Software Engineer, Figure Equity Solutions",$80k - $200k,dev:senior:javascript,5mo
+RECUR,https://web3.career/data-scientist-market-intelligence-remote-recur/11304,Remote,"Data Scientist, Market Intelligence (Remote)",,remote:data science:ethereum,5mo
+Kava Labs,https://web3.career/employee-engagement-program-manager-kava/11303,United States,Employee Engagement Program Manager,$70k - $180k,executive,5mo
+Illuvium,https://web3.career/senior-technical-project-manager-illuvium/11302,"Sydney,
+Australia",Senior Technical Project Manager,,project manager:non tech:senior,5mo
+CANDY,https://web3.career/sr-manager-pr-communications-candy/11301,"New York,
+United States","Sr. Manager, PR & Communications",$46k - $109k,marketing:non tech:senior,5mo
+River Financial,https://web3.career/bitcoin-mining-analyst-riverfinancial/11300,Remote,Bitcoin Mining Analyst,,analyst:btc:remote,5mo
+Coinsquare,https://web3.career/account-manager-coinsquare/11299,"Toronto,
+Canada",Account Manager,,account manager:ethereum,5mo
+CANDY,https://web3.career/sr-full-stack-developer-candy/11298,"New York,
+United States",Sr. Full-Stack Developer,$70k - $180k,dev:full stack:senior:nft:javascript,5mo
+CANDY,https://web3.career/senior-video-editor-candy/11297,"New York,
+United States",Senior Video Editor,,senior:video,5mo
+CoinFlip,https://web3.career/qa-manager-platform-and-kiosk-coinflip/11296,"Chicago,
+United States",QA Manager - Platform and Kiosk,$62k - $150k,quality assurance,5mo
+Marinade,https://web3.career/blockchain-engineer-solana-marinade/11294,Remote,Blockchain Engineer - Solana,,dev:blockchain:solana:rust:remote,5mo
+Marinade,https://web3.career/frontend-engineer-react-web3-marinade/11293,Remote,"Frontend Engineer - React, Web3",,dev:front end:javascript:react:solana,5mo
+Status.im,https://web3.career/technical-recruiter-status-im/11292,Remote,Technical Recruiter,,recruiter:non tech:ethereum:remote,5mo
+Status.im,https://web3.career/software-engineer-decentralized-communication-for-dapps-dappconnect-status-im/11291,Remote,Software Engineer: Decentralized Communication for dApps (DappConnect),$63k - $160k,dev:solidity:ethereum:nft:javascript,5mo
+Status.im,https://web3.career/smart-contracts-engineer-fullstack-status-im/11290,Remote,Smart Contracts Engineer (FullStack),$85k - $300k,dev:full stack:smart contract:ethereum:java,5mo
+Status.im,https://web3.career/senior-react-native-ui-developer-status-im/11289,Remote,Senior React Native UI Developer,$65k - $200k,dev:react native:mobile:javascript:react,5mo
+Status.im,https://web3.career/senior-c-qt-qml-developer-for-blockchain-app-status-im/11288,Remote,Senior C++ Qt/QML developer for blockchain app,$100k - $150k,c:c plus plus:dev:senior:blockchain,5mo
+Status.im,https://web3.career/protocol-integration-engineer-vac-team-status-im/11287,Remote,Protocol Integration Engineer (Vac Team),$26k - $120k,dev:ethereum:java:rust:remote,5mo
+Status.im,https://web3.career/protocol-engineer-vac-team-status-im/11286,Remote,Protocol Engineer (Vac Team),$26k - $120k,dev:ethereum:java:rust:remote,5mo
+Status.im,https://web3.career/protocol-engineer-distributed-systems-blockchain-smart-contracts-status-im/11285,Remote,Protocol Engineer (Distributed systems|Blockchain|Smart Contracts),$50k - $150k,dev:blockchain:smart contract:ethereum:java,5mo
+Status.im,https://web3.career/mobile-product-design-lead-status-im/11284,Remote,Mobile Product Design Lead,$40k - $190k,design:non tech:lead:mobile:react,5mo
+Status.im,https://web3.career/libp2p-networking-engineer-status-im/11283,Remote,Libp2p Networking Engineer,$26k - $120k,dev:ethereum:java:rust:remote,5mo
+Status.im,https://web3.career/head-of-marketing-status-network-technical-status-im/11282,Remote,"Head of Marketing (Status Network, Technical)",$70k - $158k,executive:marketing:non tech:ethereum:remote,5mo
+Status.im,https://web3.career/head-of-marketing-status-app-status-im/11281,Remote,Head of Marketing (Status App),$70k - $158k,executive:marketing:non tech:ethereum:remote,5mo
+Status.im,https://web3.career/distributed-systems-researcher-blockchain-infrastructure-team-status-im/11280,Remote,Distributed Systems Researcher (Blockchain Infrastructure Team),$15k - $60k,blockchain:ethereum:java:rust:remote,5mo
+Status.im,https://web3.career/distributed-systems-engineer-vac-team-status-im/11279,Remote,Distributed Systems Engineer (Vac Team),,dev:sys admin:ethereum:java:rust,5mo
+Status.im,https://web3.career/desktop-design-system-lead-status-im/11278,Remote,Desktop Design System Lead,$40k - $190k,design:non tech:lead:ethereum:remote,5mo
+Status.im,https://web3.career/creative-technologist-status-im/11277,Remote,Creative Technologist,$67k - $140k,react:ethereum:nft:javascript:php,5mo
+Blockchain.com,https://web3.career/head-of-product-consumer-blockchain/11276,"San Francisco,
+United States","Head of Product, Consumer",$135k - $170k,executive:product manager:non tech,5mo
+Chronicled.com,https://web3.career/senior-software-engineer-backend-chronicled-2/11275,Remote,"Senior Software Engineer, Backend",$70k - $200k,backend:dev:senior:remote,5mo
+Polygon,https://web3.career/hr-business-partner-polygon/11274,India,HR Business Partner,,hr:non tech:ethereum,5mo

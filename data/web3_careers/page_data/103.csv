@@ -1,36 +1,58 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-jade Eli Tecnologies,https://web3.career/business-development-representative-jade-eli/22440,Business Development Representative,$26k - $140k,sales:non tech,2mo
-Sygnum Bank AG,https://web3.career/senior-quantitative-trader-sygnum/22439,Senior Quantitative Trader,,senior:trader:ethereum,2mo
-Nuri,https://web3.career/senior-ux-designer-nuri/22438,Senior UX Designer,$60k - $120k,design:non tech:senior:remote,2mo
-Ferrum Network,https://web3.career/qa-automation-engineer-for-blockchain-company-ferrumnetwork/22437,QA Automation Engineer for Blockchain Company,$62k - $10k,dev:quality assurance:blockchain:solidity,2mo
-Shard Labs,https://web3.career/javascript-typescript-developer-remote-shardlabs/22436,JavaScript/TypeScript Developer |REMOTE|,$60k - $180k,remote:dev:javascript:react:solidity,2mo
-Securitize,https://web3.career/director-of-sales-securitize/22435,Director of Sales,$40k - $150k,executive:sales:non tech,2mo
-IOTA Foundation,https://web3.career/software-engineer-identity-tokenization-and-sc-iota/22434,"Software Engineer - Identity, Tokenization and SC",$50k - $150k,dev:remote:react:javascript:java,2mo
-IntellectEU,https://web3.career/corda-blockchain-developer-java-or-kotlin-intellecteu/22433,Corda Blockchain Developer (Java or Kotlin),$26k - $87k,dev:java:blockchain,2mo
-Incredulous Labs Ltd.,https://web3.career/product-designer-incredulous/22432,Product Designer,$60k - $150k,design:non tech:nft:remote,2mo
-Chilipay Limited,https://web3.career/creative-designer-usa-chiliz/22431,Creative Designer - USA,$50k - $150k,design:non tech,2mo
-Chainstack,https://web3.career/cloud-operations-engineer-chainstack/22430,Cloud Operations Engineer,,cloud:dev:operations:remote:solana,2mo
-Chainstack,https://web3.career/account-manager-chainstack/22429,Account Manager,,account manager:remote,2mo
-Chainstack,https://web3.career/developer-relations-chainstack/22428,Developer Relations,,customer support:dev:remote:solana:ethereum,2mo
-Chainstack,https://web3.career/marketing-manager-chainstack/22427,Marketing Manager,$25k - $120k,marketing:non tech:remote:solana:ethereum,2mo
-Chainstack,https://web3.career/technical-copywriter-remote-chainstack/22426,Technical Copywriter (remote),,remote:copywriting:solana:ethereum:nft,2mo
-Chainstack,https://web3.career/golang-engineer-chainstack/22425,Golang Engineer,$22k - $150k,dev:golang:remote:ethereum:node,2mo
-Chainstack,https://web3.career/account-executive-chainstack/22424,Account Executive,,executive:remote:solana:ethereum:nft,2mo
-Chainstack,https://web3.career/web3-infrastructure-product-manager-remote-chainstack/22423,Web3 Infrastructure Product Manager (remote),$115k - $175k,remote:product manager:non tech:solana:ethereum,2mo
-Chainstack,https://web3.career/developer-evangelist-remote-chainstack/22422,Developer Evangelist (remote),$90k - $180k,remote:dev:solana:ethereum:nft,2mo
-Chainstack,https://web3.career/qa-automation-engineer-remote-chainstack/22421,QA Automation Engineer (remote),,remote:dev:quality assurance:solana:ethereum,2mo
-Chainstack,https://web3.career/full-stack-engineer-remote-chainstack/22420,Full Stack Engineer (remote),$70k - $200k,remote:dev:full stack:solana:ethereum,2mo
-Chainstack,https://web3.career/software-engineer-remote-chainstack/22419,Software Engineer (remote),$90k - $180k,remote:dev:solana:ethereum:nft,2mo
-Chainstack,https://web3.career/infrastructure-engineer-remote-chainstack/22418,Infrastructure Engineer (remote),$90k - $180k,remote:dev:solana:ethereum:nft,2mo
-Chainstack,https://web3.career/site-reliability-engineer-sre-remote-chainstack/22417,Site Reliability Engineer / SRE (remote),$150k - $200k,remote:dev:sys admin:senior:solana,2mo
-Chainstack,https://web3.career/technical-support-engineer-remote-chainstack/22416,Technical Support Engineer (remote),,remote:dev:customer support:solana:ethereum,2mo
-Aurora Labs,https://web3.career/business-development-operations-sales-auroraisnear/22415,Business Development Operations/Sales,,sales:non tech:operations:remote:ethereum,2mo
-Balancer Labs,https://web3.career/director-of-engineering-balancer-labs-1/22414,Director of Engineering,$150k - $200k,executive:remote,2mo
-Sacred Finance,https://web3.career/head-of-marketing-sacred-finance-1/22413,Head Of Marketing,$80k - $110k,executive:marketing:non tech,2mo
-Charged Particles,https://web3.career/frontend-engineer-charged-particles/22412,Frontend Engineer,$80k - $120k,dev:front end:web3js:react:ethereum,2mo
-Charged Particles,https://web3.career/full-stack-back-end-web3-engineer-charged-particles/22411,Full-stack/Back-end Web3 Engineer,$80k - $140k,backend:dev:full stack:solidity:ethereum,2mo
-Charged Particles,https://web3.career/pr-consultant-contract-basis-charged-particles/22410,PR Consultant - Contract Basis,$40k - $60k,marketing:non tech:consulting:ethereum:nft,2mo
-AltWorld,https://web3.career/3d-generalist-artist-modeller-altworld/22409,3D Generalist / Artist / Modeller,$13k - $32k,vfx,2mo
-AltWorld,https://web3.career/concept-artist-illustrator-altworld/22408,Concept Artist / Illustrator,$19k - $32k,illustrator,2mo
-AltWorld,https://web3.career/lead-game-designer-altworld/22407,Lead Game Designer,$26k - $39k,design:non tech:game dev:lead,2mo
-AltWorld,https://web3.career/senior-unity-developer-altworld/22406,Senior Unity Developer,$15k - $32k,dev:senior,2mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Kooku,https://web3.career/director-experience-design-kooku/23011,"Berlin,
+Germany",Director Experience Design,,design:non tech:executive,2mo
+Talos,https://web3.career/regional-sales-business-development-lead-emea-talos/23010,Remote,"Regional Sales & Business Development Lead, EMEA",,sales:non tech:lead:remote,2mo
+ZAUBAR,https://web3.career/internship-software-tester-qa-berlin-germany-zaubar/23009,"Berlin,
+Germany","Internship: Software Tester (QA) - Berlin, Germany",,intern:entry level:quality assurance:dev,2mo
+FPT Deutschland GmbH,https://web3.career/senior-mobile-developer-fger/23007,"Amsterdam,
+Netherlands",Senior Mobile Developer,$120k - $200k,dev:mobile:senior,2mo
+Next Big Thing AG,https://web3.career/founder-entrepreneur-machine-learning-f-m-x-nextbigthing/23006,"Berlin,
+Germany",Founder / Entrepreneur - Machine Learning (f/m/x),,executive:machine learning:remote,2mo
+SeedInvest,https://web3.career/regulatory-surveillance-director-seedinvest-seedinvest/23004,"Boston,
+United States",Regulatory Surveillance Director - SeedInvest,,legal:executive,2mo
+Tangany,https://web3.career/information-security-officer-iso-w-m-d-tangany/23003,Remote,Information Security Officer (ISO) (w/m/d),$95k - $250k,security:remote,2mo
+Chainalysis,https://web3.career/associate-account-executive-west-coast-chainalysis/23002,"Los Angeles,
+United States","Associate Account Executive, West Coast",$70k - $180k,executive,2mo
+Sygnum Bank AG,https://web3.career/internship-investment-research-sygnum/23001,Switzerland,Internship - Investment Research,,intern:entry level:finance:ethereum,2mo
+Aktionariat AG,https://web3.career/senior-android-developer-aktionariat/23000,Remote,Senior Android Developer,,android:mobile:dev:senior:java,2mo
+peaq,https://web3.career/product-manager-peaq-console-m-w-d-peaq/22999,Remote,Product Manager | peaq Console (m/w/d),$115k - $175k,product manager:non tech:remote,2mo
+XBTO,https://web3.career/middle-back-office-software-engineer-xbto/22998,"Miami,
+United States",Middle Back Office Software Engineer,$60k - $180k,dev,2mo
+Tangany,https://web3.career/head-of-crypto-cloud-and-devops-operations-tangany/22997,"Munich,
+Germany",Head Of (Crypto) Cloud and DevOps Operations,,executive:cloud:devops:operations:crypto,2mo
+Cake DeFi,https://web3.career/software-engineer-backend-cake-defi-1/22996,"Singapore,
+Singapore",Software Engineer (Backend),$65k - $150k,backend:dev:javascript:node,2mo
+Taurus SA,https://web3.career/software-engineer-lausanne-geneva-taurusgroup/22995,"Geneva,
+Switzerland",Software Engineer [Lausanne / Geneva],$48k - $150k,dev:golang,2mo
+SuperRare Labs,https://web3.career/software-engineer-backend-services-superrarelabs/22994,"New York,
+United States",Software Engineer - Backend Services,$65k - $125k,backend:dev:ethereum:nft:javascript,2mo
+Cake DeFi,https://web3.career/software-engineer-blockchain-cake-defi-1/22993,"Singapore,
+Singapore",Software Engineer (Blockchain),$50k - $120k,dev:blockchain:javascript:node:rust,2mo
+Tangany,https://web3.career/head-of-engineering-tangany/22992,"Munich,
+Germany",Head Of Engineering,$79k - $158k,executive:remote:ethereum:javascript:node,2mo
+Talentir GmbH,https://web3.career/junior-full-stack-developer-talentir/22991,Remote,Junior Full Stack Developer,$39k - $56k,dev:full stack:junior:entry level:react,2mo
+soonami.io GmbH,https://web3.career/full-stack-developer-soonami/22990,Remote,Full Stack Developer,$65k - $180k,dev:full stack:react:solidity:golang,2mo
+Solana Labs,https://web3.career/gaming-engineer-blockchain-web-3-0-solana/22989,"San Francisco,
+United States",Gaming Engineer - Blockchain/Web 3.0,$100k - $130k,dev:game dev:blockchain:solana:ethereum,2mo
+SuperRare Labs,https://web3.career/senior-software-engineer-backend-services-superrarelabs/22988,"New York,
+United States",Senior Software Engineer - Backend Services,$70k - $200k,backend:dev:senior:ethereum:nft,2mo
+soonami.io GmbH,https://web3.career/full-stack-developer-soonami/22987,Remote,Full Stack Developer,$65k - $180k,dev:full stack:react:solidity:golang,2mo
+frigg.eco,https://web3.career/blockchain-engineer-frigg-eco/22980,"Zug,
+Switzerland",Blockchain Engineer,$80k - $150k,dev:blockchain:remote:smart contract:solidity,2mo
+Binance,https://web3.career/assistant-manager-training-binance/22985,Remote,"Assistant Manager, Training",,education:remote,2mo
+Stardust Cards Corporation,https://web3.career/senior-test-automation-engineer-saas-experience-stardust/22984,Remote,Senior Test Automation Engineer (SaaS experience),,dev:saas:senior:remote:nft,2mo
+Symbiont,https://web3.career/solutions-engineer-symbiont/22983,Remote,Solutions Engineer,$33k - $67k,dev:ruby:node:remote,2mo
+CHAINFORCE,https://web3.career/smart-contract-developer-engineer-chainforce/22981,"Amsterdam,
+Netherlands",Smart Contract Developer / Engineer,$33k - $56k,dev:smart contract:rust,2mo
+Fractional,https://web3.career/brand-designer-digital-storyteller-graphic-design-multimedia-us-remote-et-ftc/22979,United States,"Brand Designer (Digital Storyteller + Graphic Design, Multimedia) - US Remote (ET)",$25k - $120k,remote:marketing:non tech:design,2mo
+HeyHey Global,https://web3.career/lead-blockchain-developer-heyhey-global/22978,"Mumbai,
+India",Lead Blockchain Developer,$26k - $39k,dev:lead:blockchain,2mo
+Immutable,https://web3.career/grants-manager-immutable/22975,"Sydney,
+Australia",Grants Manager,$70k - $158k,ethereum:nft,2mo
+Optimism,https://web3.career/recruiter-optimism/22974,Remote,Recruiter,,recruiter:non tech:remote,2mo
+Ripple,https://web3.career/staff-blockchain-software-engineer-ripplex-ripple/22971,"San Francisco,
+United States","Staff Blockchain Software Engineer, RippleX",$26k - $87k,dev:blockchain:java,2mo
+HeyHey Global,https://web3.career/lead-blockchain-developer-heyhey-global/22969,"Mumbai,
+India",Lead Blockchain Developer,$26k - $39k,dev:lead:blockchain,2mo
+Sygnum Bank AG,https://web3.career/full-stack-engineer-singapore-sygnum/22968,"Singapore,
+Singapore","Full Stack Engineer, Singapore",$65k - $180k,dev:full stack:react:ethereum:javascript,2mo

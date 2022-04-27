@@ -1,36 +1,56 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Chronicled.com,https://web3.career/implementation-consultant-chronicled-2/25423,Implementation Consultant,,consulting:remote,14d
-Chronicled.com,https://web3.career/principal-software-engineer-backend-chronicled-2/25422,"Principal Software Engineer, Backend",$140k - $300k,backend:dev:executive:remote,14d
-Chronicled.com,https://web3.career/principal-software-engineer-backend-chronicled-2/25421,"Principal Software Engineer, Backend",$140k - $300k,backend:dev:executive:remote,14d
-Chronicled.com,https://web3.career/principal-software-engineer-backend-chronicled-2/25420,"Principal Software Engineer, Backend",$140k - $300k,backend:dev:executive:remote,14d
-Binance,https://web3.career/product-designer-instant-messaging-binance/25417,Product Designer - Instant Messaging,$50k - $150k,design:non tech,14d
-SwissBorg,https://web3.career/marketing-manager-passive-income-remote-swissborg/25413,Marketing Manager - Passive Income (Remote),$25k - $120k,remote:marketing:non tech,14d
-Chainalysis,https://web3.career/senior-solutions-architect-presales-chainalysis/25414,Senior Solutions Architect - Presales,,architecture:senior:remote,14d
-Chainalysis,https://web3.career/senior-solutions-architect-sub-saharan-africa-chainalysis/25418,"Senior Solutions Architect, Sub-Saharan Africa",$80k,architecture:senior,14d
-NEAR,https://web3.career/engineering-manager-storage-near/25419,"Engineering Manager, Storage",$70k - $180k,executive,14d
-CoinStats,https://web3.career/senior-content-writer-copywriter-coinstats/25415,"Senior Content Writer, Copywriter",,copywriting:senior:remote:crypto:full time,14d
-Anchorage Digital,https://web3.career/client-experience-team-manager-partnerships-anchorage/25412,"Client Experience Team Manager, Partnerships",$26k - $140k,sales:non tech,14d
-Sperax,https://web3.career/economics-researcher-blockchain-remote-sperax/25411,Economics Researcher Blockchain (Remote),$60k - $170k,remote:blockchain,14d
-Gnosis,https://web3.career/social-media-manager-m-w-d-gnosis/25410,Social Media Manager (m/w/d),$35k - $110k,social media:non tech:remote:ethereum,14d
-Maple,https://web3.career/lead-senior-product-designer-maple-finance/25408,Lead/Senior Product Designer,$40k - $190k,design:non tech:lead:senior:remote,14d
-Boson Protocol,https://web3.career/talent-acquisition-partner-bosonprotocol/25407,Talent Acquisition Partner,$51k - $70k,recruiter:non tech:nft,14d
-Polygon,https://web3.career/dao-marketing-coordinator-remote-polygon/25406,DAO Marketing Coordinator (Remote),$25k - $120k,remote:marketing:non tech:ethereum,14d
-Ledger,https://web3.career/employer-brand-specialist-ledger/25405,Employer Brand Specialist,$45k - $130k,marketing:non tech,14d
-Ledger,https://web3.career/head-of-engineering-nft-platform-ledger/25404,Head of Engineering - NFT Platform,$63k - $180k,executive:nft,14d
-Ledger,https://web3.career/employer-brand-specialist-ledger/25403,Employer Brand Specialist,$45k - $130k,marketing:non tech,14d
-Binance,https://web3.career/senior-ui-ux-designer-defi-binance/25402,Senior UI/UX Designer - Defi,$60k - $120k,design:non tech:senior:defi,14d
-Polygon,https://web3.career/director-business-development-apac-polygon/25401,Director - Business Development - APAC,$40k - $150k,sales:non tech:executive:ethereum,14d
-Galaxy Digital Services,https://web3.career/gvh-portfolio-associate-galaxydigitalservices/25400,GVH Portfolio Associate,$40k - $150k,finance,14d
-Binance,https://web3.career/growth-marketing-manager-mongolia-binance/25399,Growth Marketing Manager - Mongolia,$45k - $130k,marketing:non tech,14d
-Pole To Win International,https://web3.career/2d-concept-artist-character-design-mobile-games-and-nft-art-poletowininternational/25398,2D Concept Artist - Character Design | Mobile Games and NFT Art,,design:non tech:mobile:nft,14d
-Callsign,https://web3.career/crypto-engineer-uk-callsign/25397,Crypto Engineer - UK,$60k - $160k,dev:crypto,14d
-Crypto.com,https://web3.career/talent-acquisition-specialist-fintech-start-up-crypto-com/25396,Talent Acquisition Specialist - FinTech Start-Up,,finance:recruiter:non tech,14d
-Crypto.com,https://web3.career/compliance-monitoring-analyst-crypto-com/25395,Compliance Monitoring Analyst,,compliance:analyst:nft,14d
-Crypto.com,https://web3.career/onboarding-coordinator-crypto-com/25394,Onboarding Coordinator,,,14d
-Securrency,https://web3.career/qa-engineer-blockchain-securrency/25393,QA Engineer (Blockchain),$62k - $10k,dev:quality assurance:blockchain:javascript,14d
-DoinGud,https://web3.career/web3-frontend-engineer-doingud/25392,Web3 Frontend Engineer,$50k - $144k,dev:front end:react:solidity:nft,14d
-Crypto Finance AG,https://web3.career/internship-asset-management-cryptofinanceag/25391,Internship (Asset Management),,intern:entry level,14d
-Paro.io,https://web3.career/crypto-accounting-specialist-remote-project-paro-io/25390,Crypto Accounting Specialist - Remote Project,$11k - $25k,remote:accounting:crypto,14d
-ClubRare,https://web3.career/web3-backend-developer-clubrare/25389,Web3 Backend Developer,$70k - $160k,backend:dev:solidity:ethereum:nft,14d
-Uniswap Labs,https://web3.career/mobile-engineer-uniswaplabs/25388,Mobile Engineer,$120k - $200k,dev:mobile:react:react native:ethereum,14d
-Crystal Blockchain Analytics,https://web3.career/directory-researcher-remote-crystal/25387,Directory Researcher (Remote),$56k - $160k,remote,14d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Tokemak,https://web3.career/lead-ui-ux-product-designer-tokemak/26041,Remote,Lead UI/UX Product Designer,$120k - $200k,design:non tech:lead:remote:defi,13d
+Bitpanda,https://web3.career/service-manager-bitpanda/26040,"Bucharest,
+Romania",Service Manager,,php:java:golang,13d
+Immutable,https://web3.career/head-of-growth-studio-immutable/26038,Australia,Head of Growth (Studio),$70k - $158k,executive:marketing:non tech,13d
+Binance,https://web3.career/community-marketing-manager-kazakhstan-binance/26037,Nur-Sultan,Community & Marketing Manager - Kazakhstan,$45k - $150k,community manager:non tech:marketing,13d
+Ripple,https://web3.career/manager-business-development-nfts-ripple/26036,"Singapore,
+Singapore","Manager, Business Development, NFTs",$40k - $180k,sales:non tech:nft,13d
+Ripple,https://web3.career/senior-defi-researcher-ripple/26035,"London,
+United Kingdom",Senior Defi Researcher,$90k - $220k,senior:defi,13d
+Okcoin,https://web3.career/business-sourcer-okcoin/26034,"San Francisco,
+United States",Business Sourcer,$40k - $70k,recruiter:non tech,13d
+Bitpanda,https://web3.career/service-center-engineer-bitpanda/26033,"Vienna,
+Austria",Service Center Engineer,$65k - $160k,dev:php:java:golang,13d
+Consensys,https://web3.career/global-head-of-developer-and-community-experience-consensys/26031,Remote,Global Head of Developer and Community Experience,$45k - $150k,executive:community manager:non tech:dev:remote,13d
+Consensys,https://web3.career/global-creative-director-head-of-creative-marketing-consensys/26030,Remote,"Global Creative Director / Head of Creative, Marketing",$70k - $158k,executive:marketing:non tech:remote:ethereum,13d
+Consensys,https://web3.career/director-of-partnership-marketing-consensys/26029,Remote,Director of Partnership Marketing,$40k - $150k,sales:non tech:executive:marketing:remote,13d
+Figment,https://web3.career/analytics-and-research-lead-figment/26028,"Toronto,
+Canada",Analytics and Research Lead,,stats:lead,13d
+Divvy,https://web3.career/qa-devops-frontend-solana-web3-divvy-15/26027,United States,"QA / DevOps (Frontend, Solana, Web3)",$90k - $140k,devops:front end:quality assurance:solana:rust,13d
+Ethereum Push Notification Service,https://web3.career/governance-contributor-ethereum-push-notification-service/26026,United States,Governance Contributor,$0k,ethereum,13d
+RabbitHole,https://web3.career/web3-sherpa-rabbitholestudios/26025,Remote,Web3 Sherpa,$56k - $160k,remote,13d
+Figment,https://web3.career/senior-product-analyst-figment/26024,"Toronto,
+Canada",Senior Product Analyst,$150k - $185k,analyst:senior,13d
+Chainalysis,https://web3.career/private-sector-training-manager-emea-chainalysis/26023,"London,
+United Kingdom","Private Sector Training Manager, EMEA",,education,13d
+Ripple,https://web3.career/senior-software-engineer-data-multiple-positions-ripple/26022,"San Francisco,
+United States","Senior Software Engineer, Data (Multiple Positions)",$50k - $200k,dev:senior:node:java,13d
+Bakken & Bæck,https://web3.career/business-developer-bakkenbaeck/26021,Bonn,Business Developer,$60k - $180k,dev,13d
+Recorded Future,https://web3.career/principal-threat-intelligence-analyst-cybercrime-recordedfuture/26019,"Washington,
+United States",Principal Threat Intelligence Analyst - Cybercrime,,analyst:executive,13d
+Binance,https://web3.career/hr-business-partner-fiat-binance/26017,"London,
+United Kingdom",HR Business Partner - Fiat,$60k - $150k,hr:non tech,13d
+Binance,https://web3.career/seo-aso-manager-trust-wallet-binance/26016,Remote,SEO / ASO Manager (Trust Wallet),,seo:non tech:remote,13d
+Binance,https://web3.career/incident-manager-binance/26015,Europe,Incident Manager,$50k - $150k,,13d
+Bitwise Asset Management,https://web3.career/product-strategist-san-francisco-or-nyc-bitwiseinvestments/26014,"San Francisco,
+United States",Product Strategist (San Francisco or NYC),$50k - $150k,,13d
+Parity Technologies,https://web3.career/team-assistant-in-tech-parity/26013,"Berlin,
+Germany",Team Assistant in Tech,$56k - $160k,remote,13d
+Coin Metrics,https://web3.career/head-of-people-coinmetrics/26012,"Boston,
+United States",HEAD OF PEOPLE,$70k - $180k,executive,13d
+CoinDesk & TradeBlock Opportunities,https://web3.career/vice-president-of-product-coindesk-media-coindesk/26011,"New York,
+United States","Vice President of Product, CoinDesk Media",$67k - $160k,product manager:non tech,13d
+Checkout.com,https://web3.career/account-based-marketing-manager-crypto-checkout-com-1/26009,"New York,
+United States","Account Based Marketing Manager, Crypto",$46k - $140k,marketing:non tech:crypto,13d
+Braintrust,https://web3.career/sr-content-designer-remote-braintrust/26008,"San Francisco,
+United States",Sr Content Designer [REMOTE],$50k - $135k,remote:design:non tech,13d
+Aldrin Labs,https://web3.career/senior-back-end-developer-web3-remote-aldrin-labs/26007,Remote,Senior Back-End Developer Web3 (Remote),,remote:backend:dev:senior:node,13d
+Fxdx,https://web3.career/lead-blockchain-developer-fxdx/26006,"Dubai,
+United Arab Emirates",Lead Blockchain Developer,$13k - $39k,dev:lead:blockchain:solidity:solana,13d
+Centrifuge,https://web3.career/people-ops-lead-centrifuge/26005,Remote,People Ops Lead,$95k - $200k,lead:remote,13d
+Okcoin,https://web3.career/senior-finance-analyst-okcoin/26004,"12 Gżira, Gżira, Malta",Senior Finance Analyst,,analyst:finance:senior,13d
+MoonPay,https://web3.career/concierge-representative-moonpay/26002,"Miami,
+United States",Concierge Representative,$55k - $158k,nft,13d
+MoonPay,https://web3.career/senior-site-reliability-engineer-sre-moonpay/26001,"Barcelona,
+Spain",Senior Site Reliability Engineer (SRE),$150k - $200k,dev:sys admin:senior:react:react native,13d

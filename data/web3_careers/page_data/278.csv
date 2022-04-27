@@ -1,36 +1,45 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Chainalysis,https://web3.career/compliance-advisory-lead-chainalysis/14734,Compliance Advisory Lead,,compliance:lead,4mo
-Chainalysis,https://web3.career/associate-marketing-manager-north-american-public-sector-chainalysis/14733,"Associate Marketing Manager, North American Public Sector",$45k - $130k,marketing:non tech,4mo
-Chainalysis,https://web3.career/engineering-manager-investigations-and-intelligence-chainalysis/14732,"Engineering Manager, Investigations and Intelligence",$70k - $180k,executive,4mo
-Textile,https://web3.career/blockchain-engineer-textileio/14730,Blockchain Engineer,$52k - $160k,dev:blockchain:solidity:ethereum:remote,4mo
-MobileCoin,https://web3.career/senior-software-engineer-fog-mobilecoin/14729,"Senior Software Engineer, Fog",$120k - $210k,dev:senior:rust,4mo
-Clarity Protocol,https://web3.career/web3-senior-backend-developer-go-solidity-clarity-protocol/14728,"Web3 Senior Backend Developer (Go, Solidity)",$0k,backend:dev:golang:senior:solidity,4mo
-Nuri,https://web3.career/data-engineer-nuri/14727,Data Engineer,,data science:dev:remote,4mo
-Nansen.ai,https://web3.career/social-media-intern-marketing-nansen/14724,Social Media Intern (Marketing),$24k - $48k,intern:entry level:marketing:non tech:social media,4mo
-NEAR,https://web3.career/director-of-business-operations-near/14723,Director of Business Operations,$150k - $230k,executive:operations,4mo
-Vaultoro,https://web3.career/lead-engineer-defi-blockchain-vaultoro/14722,Lead Engineer (DeFi/ Blockchain),$100k - $160k,dev:lead:blockchain:defi:solidity,4mo
-Time Space Ventures,https://web3.career/blockchain-developer-time-space-ventures/14721,Blockchain developer,$46k - $117k,dev:blockchain:solidity:ethereum:nft,4mo
-Filecoin Foundation,https://web3.career/social-media-manager-remote-filecoin/14720,Social Media Manager (Remote),$35k - $110k,remote:social media:non tech,4mo
-Public,https://web3.career/operations-analyst-public/14719,Operations Analyst,,analyst:operations,4mo
-Mojito,https://web3.career/senior-software-engineer-frontend-mojito/14717,Senior Software Engineer - Frontend,$70k - $190k,dev:front end:senior:react:solidity,4mo
-Blockdaemon,https://web3.career/technical-business-analyst-blockdaemon/14715,Technical Business Analyst,,analyst:node,4mo
-Blockdaemon,https://web3.career/learning-development-program-manager-blockdaemon/14714,Learning & Development Program Manager,$70k - $180k,executive,4mo
-Blockdaemon,https://web3.career/communications-lead-blockdaemon/14713,Communications Lead,$60k - $200k,lead,4mo
-THIS IS! Digital Media Group,https://web3.career/project-management-intern-internship-all-gender-thisisdmg/14712,"Project Management Intern (Internship, all gender)",$24k - $48k,intern:entry level:remote,4mo
-Blockchain.com,https://web3.career/nodejs-software-engineer-blockchain/14709,NodeJs Software Engineer,$60k - $155k,dev:javascript:node:nft,4mo
-The Block,https://web3.career/podcast-audio-engineer-theblockcrypto/14707,Podcast Audio Engineer,$65k - $180k,dev:remote,4mo
-Vauld,https://web3.career/head-of-compliance-vauld/14706,Head of Compliance,,compliance:executive,4mo
-Foundation,https://web3.career/general-counsel-with-foundation/14705,General Counsel,,legal:remote,4mo
-Binance,https://web3.career/risk-data-engineer-junior-fresh-binance/14701,Risk Data Engineer(Junior/Fresh),,data science:dev:junior:entry level,4mo
-Binance,https://web3.career/senior-front-end-web-developer-gift-card-binance/14700,Senior Front-End Web Developer (Gift Card),$70k - $190k,dev:front end:senior,4mo
-RECUR,https://web3.career/director-of-marketing-tokyo-apac-remote-recur/14699,Director of Marketing - Tokyo / APAC (Remote),$45k - $158k,remote:executive:marketing:non tech:ethereum,4mo
-Binance,https://web3.career/app-product-manager-binance/14697,App Product Manager,$115k - $175k,product manager:non tech:remote,4mo
-Binance,https://web3.career/tool-product-manager-binance/14696,Tool Product Manager,$115k - $175k,product manager:non tech:remote,4mo
-Tendermint,https://web3.career/cosmos-sdk-application-developer-remote-tendermint/14695,Cosmos SDK Application Developer - Remote,$65k - $180k,remote:dev,4mo
-Crypto.com,https://web3.career/employment-counsel-us-crypto-com/14694,Employment Counsel (US),,legal:nft,4mo
-Cope.Studio,https://web3.career/blockchain-developer-cope-studio/14693,Blockchain Developer,$13k - $15k,dev:blockchain:react:ethereum,4mo
-Nuri,https://web3.career/working-student-customer-support-agent-nuri/14692,Working Student Customer Support Agent,$40k - $80k,customer support:remote,4mo
-Immutable,https://web3.career/lead-engineer-immutable/14691,Lead Engineer,$100k - $200k,dev:lead:ethereum:nft,4mo
-GSR,https://web3.career/2022-graduate-program-trading-and-research-analyst-zug-gsr/14690,"2022 Graduate Program - Trading and Research Analyst, Zug",$20k - $30k,analyst:intern:entry level:react,4mo
-SwissBorg,https://web3.career/fraud-analyst-remote-swissborg/14689,Fraud Analyst (Remote),,remote:analyst:security,4mo
-Consensys,https://web3.career/dao-strategist-consensys/14688,DAO Strategist,$79k - $158k,ethereum:nft:remote,4mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Gemini,https://web3.career/executive-assistant-gemini/15364,United States,Executive Assistant,$63k - $180k,executive:nft,4mo
+Gemini,https://web3.career/associate-customer-support-gemini/15363,"Dublin,
+Ireland","Associate, Customer Support",$40k - $80k,customer support,4mo
+Gemini,https://web3.career/associate-director-talent-acquisition-technology-gemini/15362,United States,"Associate Director, Talent Acquisition (Technology)",,executive:recruiter:non tech,4mo
+Gemini,https://web3.career/associate-director-custody-operations-gemini/15361,"New York,
+United States","Associate Director, Custody Operations",$150k - $230k,executive:operations,4mo
+Gemini,https://web3.career/principal-technology-and-security-internal-auditor-gemini/15360,United States,"Principal, Technology and Security Internal Auditor",$95k - $250k,executive:security,4mo
+Gemini,https://web3.career/principal-global-real-estate-and-office-services-gemini/15359,"New York,
+United States","Principal, Global Real Estate and Office Services",$70k - $180k,executive,4mo
+Gemini,https://web3.career/lead-programmatic-trader-gemini/15358,United States,"Lead, Programmatic Trader",,lead:trader:solidity,4mo
+Gemini,https://web3.career/lead-program-manager-infrastructure-gemini/15357,United States,"Lead Program Manager, Infrastructure",$140k - $200k,lead:executive,4mo
+Gemini,https://web3.career/kyc-advisory-lead-gemini/15356,United States,KYC Advisory Lead,,kyc:lead,4mo
+Gemini,https://web3.career/head-of-asia-pacific-apac-gemini/15355,"Singapore,
+Singapore",Head of Asia Pacific (APAC),$70k - $180k,executive,4mo
+Gemini,https://web3.career/critical-operations-analyst-gemini/15354,United States,Critical Operations Analyst,,analyst:operations,4mo
+Gemini,https://web3.career/country-manager-canada-gemini/15353,Canada,"Country Manager, Canada",,,4mo
+Gemini,https://web3.career/country-manager-australia-gemini/15352,Australia,"Country Manager, Australia",,,4mo
+Gemini,https://web3.career/corporate-counsel-gemini/15351,"Dublin,
+Ireland",Corporate Counsel,$24k - $140k,legal,4mo
+Gemini,https://web3.career/compliance-associate-institutional-onboarding-gemini/15350,United States,"Compliance Associate, Institutional Onboarding",,compliance,4mo
+Gemini,https://web3.career/compliance-associate-account-review-gemini/15349,United States,"Compliance Associate, Account Review",,compliance,4mo
+Gemini,https://web3.career/compliance-analyst-retail-onboarding-gemini/15348,United States,"Compliance Analyst, Retail Onboarding",,compliance:analyst,4mo
+Gemini,https://web3.career/compliance-analyst-account-review-gemini/15347,United States,"Compliance Analyst, Account Review",,compliance:analyst,4mo
+Gemini,https://web3.career/background-check-program-manager-gemini/15346,United States,Background Check Program Manager,$70k - $180k,executive,4mo
+Gemini,https://web3.career/associate-treasury-operations-gemini/15345,"Singapore,
+Singapore","Associate, Treasury Operations",$60k - $200k,operations,4mo
+Gemini,https://web3.career/associate-producer-nifty-gateway-gemini/15344,United States,"Associate, Producer - Nifty Gateway",$55k - $150k,nft,4mo
+Gemini,https://web3.career/associate-producer-marketplace-nifty-gateway-gemini/15343,"Singapore,
+Singapore","Associate, Producer - Marketplace, Nifty Gateway",$70k - $158k,solidity:nft,4mo
+Gemini,https://web3.career/associate-producer-marketplace-gemini/15342,United States,"Associate, Producer - Marketplace",$70k - $158k,solidity:nft,4mo
+Gemini,https://web3.career/associate-operational-risk-gemini/15341,"New York,
+United States","Associate, Operational Risk",$60k - $80k,operations:ethereum,4mo
+Gemini,https://web3.career/senior-principal-business-development-gemini/15340,"Singapore,
+Singapore","Senior Principal, Business Development",$40k - $150k,sales:non tech:executive:senior,4mo
+Gemini,https://web3.career/senior-business-development-associate-gemini-fund-solutions-gemini/15339,United States,"Senior Business Development Associate, Gemini Fund Solutions",$50k - $150k,sales:non tech:senior,4mo
+Gemini,https://web3.career/head-of-research-gemini/15338,United States,Head of Research,$70k - $180k,executive,4mo
+Gemini,https://web3.career/head-of-marketplace-gemini/15337,United States,Head of Marketplace,$70k - $180k,executive,4mo
+Gemini,https://web3.career/director-derivatives-gemini/15336,United States,"Director, Derivatives",$70k - $180k,executive,4mo
+Gemini,https://web3.career/associate-director-technical-accounting-gemini/15335,United States,"Associate Director, Technical Accounting",$120k - $150k,accounting:executive,4mo
+Gemini,https://web3.career/accounting-manager-gemini/15334,United States,Accounting Manager,$25k - $150k,accounting,4mo
+Gemini,https://web3.career/senior-product-manager-trust-security-gemini/15333,United States,"Senior Product Manager, Trust & Security",,product manager:non tech:security:senior,4mo
+Gemini,https://web3.career/senior-product-manager-nifty-gateway-gemini/15332,United States,"Senior Product Manager, Nifty Gateway",$80k - $150k,product manager:non tech:senior:ethereum:nft,4mo
+Gemini,https://web3.career/product-manager-retail-gemini/15331,United States,"Product Manager, Retail",$69k - $160k,product manager:non tech,4mo
+Gemini,https://web3.career/product-manager-payments-gemini/15330,United States,"Product Manager, Payments",$69k - $160k,product manager:non tech,4mo

@@ -1,36 +1,57 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Binance,https://web3.career/product-manager-account-binance/26514,Product Manager (Account),$67k - $160k,product manager:non tech,9h
-NEAR,https://web3.career/smart-contract-engineer-startup-toolkit-near/26513,"Smart Contract Engineer, Startup Toolkit",$80k - $200k,dev:smart contract:rust,10h
-BlockFi,https://web3.career/ux-product-design-manager-blockfi/26512,UX Product Design Manager,,executive:design:non tech,10h
-Flippa,https://web3.career/data-engineer-marketplace-flippa/26510,Data Engineer - Marketplace,$70k - $160k,data science:dev,10h
-Blockdaemon,https://web3.career/business-development-representative-emea-blockdaemon/26508,"Business Development Representative, EMEA",$26k - $140k,sales:non tech,11h
-Groma,https://web3.career/workplace-operations-manager-groma/26506,Workplace Operations Manager,$60k - $200k,operations,11h
-Bitcoin Depot,https://web3.career/software-development-manager-bitcoindepot/26504,Software Development Manager,$57k - $140k,dev:react:ethereum:node,12h
-Terraform Labs,https://web3.career/web-developer-terra/26502,Web Developer,$65k - $150k,dev:remote:ethereum,12h
-Onlife,https://web3.career/principal-blockchain-software-engineer-onlife/26501,Principal Blockchain Software Engineer,$50k - $300k,dev:executive:blockchain:remote,12h
-Syndica,https://web3.career/senior-javascript-engineer-syndica/26500,Senior Javascript Engineer,$80k - $200k,dev:javascript:senior:remote:react,12h
-Eco,https://web3.career/legal-counsel-econetwork/26499,Legal Counsel,$24k - $140k,legal,13h
-Futureswap,https://web3.career/senior-frontend-engineer-futureswap/26498,Senior Frontend Engineer,$160k - $200k,dev:front end:senior:blockchain:crypto,13h
-Spring Labs,https://web3.career/sr-software-development-engineer-in-test-sdet-springlabs/26497,Sr Software Development Engineer in Test (SDET),$50k - $150k,quality assurance:dev,13h
-Braintrust,https://web3.career/ux-strategist-researche-remote-braintrust/26495,UX Strategist - Researche [Remote],$50k - $150k,remote:design:non tech,13h
-Aptos,https://web3.career/investor-relations-lead-aptoslabs/26494,Investor Relations Lead,$35k - $150k,finance:lead,13h
-Foundry,https://web3.career/data-compliance-analyst-foundrydigital/26492,Data Compliance Analyst,,compliance:analyst,14h
-Foundry,https://web3.career/compliance-analyst-foundrydigital/26491,Compliance Analyst,,compliance:analyst,14h
-Concept Art House,https://web3.career/technical-recruiter-conceptarthouse/26490,Technical Recruiter,$51k - $70k,recruiter:non tech,14h
-Injective Labs,https://web3.career/product-data-analyst-injectivelabs/26489,Product Data Analyst,$45k - $120k,analyst:data science:remote,14h
-Braintrust,https://web3.career/senior-unity-developer-remote-braintrust/26488,Senior Unity Developer [REMOTE],$89k - $200k,remote:dev:senior,14h
-"Palm NFT Studio, Inc.",https://web3.career/financial-controller-palmnftstudioinc/26487,Financial Controller,,legal:finance:nft,14h
-Brave,https://web3.career/brave-wallet-sr-software-engineer-core-brave/26486,Brave Wallet - Sr. Software Engineer - Core,$90k - $220k,dev:senior:solana:ethereum:javascript,15h
-Polygon,https://web3.career/growth-analyst-polygon/26485,Growth Analyst,,analyst:marketing:non tech:remote:ethereum,15h
-Ava Labs,https://web3.career/product-marketing-director-avalabs/26483,Product Marketing Director,$70k - $158k,executive:marketing:non tech,16h
-CoinFlip,https://web3.career/lead-react-developer-coinflip/26482,Lead React Developer,$100k - $200k,dev:lead:javascript:react,16h
-Foundation,https://web3.career/product-marketing-lead-with-foundation/26481,Product Marketing Lead,$50k - $120k,lead:marketing:non tech:remote,16h
-Mandana Impact,https://web3.career/ux-ui-designer-mandana-impact/26480,UX\UI Designer,,design:non tech:remote:product manager:tech lead,17h
-RECUR,https://web3.career/royalties-analyst-recur/26479,Royalties Analyst,$36k - $120k,analyst:nft,17h
-æternity blockchain,https://web3.career/community-manager-aeternity-blockchain/26477,Community Manager,$0k,community manager:non tech,17h
-æternity blockchain,https://web3.career/technical-marketing-writer-aeternity-blockchain/26476,Technical Marketing Writer,$0k,marketing:non tech,17h
-VCRED,https://web3.career/backend-developer-vcred/26475,Backend Developer,$55k - $75k,backend:dev:remote:python:solidity,17h
-Chainlink Labs,https://web3.career/community-manager-brazil-chainlink/26474,"Community Manager, Brazil",$40k - $105k,community manager:non tech:remote,17h
-Ignite,https://web3.career/senior-product-designer-ignite/26473,Senior Product Designer,$60k - $120k,design:non tech:senior,19h
-GSR,https://web3.career/product-strategist-crypto-associate-gsr/26472,"Product Strategist (Crypto), Associate",$40k - $140k,crypto,19h
-Protocol Labs,https://web3.career/senior-software-engineer-bedrock-protocollabs/26471,Senior Software Engineer - Bedrock,$80k - $200k,dev:senior:javascript:rust,20h
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Amber,https://web3.career/risk-strategy-policy-singapore-ambergroup/27081,"Singapore,
+Singapore",Risk Strategy & Policy - Singapore,$50k - $150k,,11h
+Instnt,https://web3.career/platform-architect-instnt/27080,"New York,
+United States",Platform Architect,,architecture:react:javascript,11h
+Immutable,https://web3.career/chief-of-staff-co-founder-president-immutable/27079,Australia,Chief of Staff (Co-Founder/President),$70k - $100k,executive:recruiter:non tech:ethereum:nft,11h
+Wachsman,https://web3.career/associate-media-relations-wachsman/27078,"Washington,
+United States","Associate, Media Relations",$50k - $150k,,11h
+Nexo,https://web3.career/blockchain-developer-nexo/27076,"Sofia,
+Bulgaria",Blockchain Developer,$50k - $160k,dev:blockchain,11h
+Foundry,https://web3.career/manager-economic-community-development-foundrydigital/27075,"New York,
+United States","Manager, Economic/Community Development",$40k - $105k,community manager:non tech,12h
+CoinList,https://web3.career/legal-administrative-assistant-coinlist/27074,"San Francisco,
+United States",Legal Administrative Assistant,,legal:solana,12h
+Figure,https://web3.career/sales-development-representative-figure/27073,"San Francisco,
+United States",Sales Development Representative,$30k - $140k,sales:non tech,13h
+Figment,https://web3.career/financial-reporting-policy-accountant-figment/27072,"Toronto,
+Canada",Financial Reporting & Policy Accountant,$120k - $150k,accounting:finance,13h
+Chainalysis,https://web3.career/customer-success-manager-americas-chainalysis/27071,"New York,
+United States","Customer Success Manager, Americas",$40k - $45k,sales:non tech:customer support,13h
+AMBCrypto,https://web3.career/crypto-news-writer-ambcrypto-1/27070,Philippines,Crypto News Writer,$46k - $93k,crypto,13h
+Coinsquare,https://web3.career/director-of-brand-coinsquare/27068,"Toronto,
+Canada",Director of Brand,$70k - $158k,marketing:non tech:executive,13h
+CoinFlip,https://web3.career/host-success-account-representative-coinflip/27067,"Chicago,
+United States",Host Success Account Representative,$50k - $150k,,13h
+PROOF,https://web3.career/director-of-partnerships-proof/27066,Remote,Director of Partnerships,$175k - $200k,sales:non tech:executive:remote,14h
+PROOF,https://web3.career/sr-full-stack-engineer-proof/27065,Remote,Sr. Full Stack Engineer,$70k - $200k,dev:full stack:senior:remote,14h
+PROOF,https://web3.career/sr-product-designer-proof/27064,Remote,Sr Product Designer,$45k - $150k,design:non tech:remote,14h
+Nifty's Inc.,https://web3.career/brand-design-director-niftysinc/27063,"Miami,
+United States",Brand Design Director,$40k - $130k,marketing:non tech:design:executive:nft,14h
+CoinList,https://web3.career/senior-enterprise-security-engineer-coinlist/27062,"San Francisco,
+United States",Senior Enterprise Security Engineer,$95k - $250k,dev:security:senior:solana,14h
+Brave,https://web3.career/sr-software-engineer-full-stack-brave/27061,"San Francisco,
+United States",Sr. Software Engineer - Full Stack,$70k - $200k,dev:full stack:senior:ethereum:javascript,14h
+AE Studio,https://web3.career/web3-community-manager-ae-studio/27060,Remote,Web3 Community Manager,,community manager:non tech:remote:blockchain:metaverse,14h
+cypher,https://web3.career/smart-contract-engineer-rust-cypher/27059,Remote,Smart Contract Engineer -- Rust,$80k - $200k,dev:rust:smart contract:remote:solana,14h
+cypher,https://web3.career/senior-rust-engineer-cypher/27058,Remote,Senior Rust Engineer,$89k - $210k,dev:rust:senior:remote:solana,14h
+AlgoBlocks,https://web3.career/graphic-designer-for-a-funded-defi-startup-algoblocks/27057,"Hong Kong,
+Hong Kong",Graphic Designer for a funded DeFi Startup,$40k - $70k,design:non tech:defi,15h
+QuillHash Technologies,https://web3.career/blockchain-project-manager-quillhash/27056,India,Blockchain Project Manager,$31k - $62k,project manager:non tech:blockchain,15h
+Voodoo,https://web3.career/studio-director-hyper-casual-games-voodoo/27054,"Berlin,
+Germany",Studio Director - Hyper Casual Games,$70k - $180k,executive,16h
+Tactic,https://web3.career/growth-choose-tactic/27053,"New York,
+United States",Growth,$45k - $125k,marketing:non tech,16h
+Binance,https://web3.career/product-manager-binance-academy-social-growth-binance/27052,Asia,Product Manager (Binance Academy / Social Growth),,marketing:non tech:product manager,16h
+"Reach Platform, Inc.",https://web3.career/curriculum-developer-reachplatforminc/27051,"Boston,
+United States",Curriculum Developer,$31k - $150k,dev:javascript:java,16h
+Neon Labs,https://web3.career/bizdev-partnership-director-neon-labs/27050,Remote,BizDev / Partnership Director,$40k - $150k,sales:non tech:executive:remote:solana,16h
+AE Studio,https://web3.career/senior-blockchain-developer-ae-studio/27049,Remote,Senior Blockchain Developer,,dev:senior:blockchain:remote:metaverse,17h
+Okcoin,https://web3.career/human-resources-analytics-process-lead-okcoin/27048,"San Francisco,
+United States",Human Resources Analytics & Process Lead,,stats:lead,17h
+Figure,https://web3.career/senior-product-manager-figure-equity-solutions-figure/27047,"San Francisco,
+United States","Senior Product Manager, Figure Equity Solutions",$80k - $150k,product manager:non tech:senior,17h
+Blockchain.com,https://web3.career/social-media-support-lead-blockchain/27046,Remote,Social Media Support Lead,,lead:social media:non tech:customer support:remote,17h
+Blockchain.com,https://web3.career/prime-services-lead-blockchain/27045,"London,
+United Kingdom",Prime Services Lead,,accounting:lead,17h
+Trackbox,https://web3.career/cto-cofounder-trackbox/27044,Remote,CTO / CoFounder,$50k - $80k,cto:executive:remote:full stack:nft,17h

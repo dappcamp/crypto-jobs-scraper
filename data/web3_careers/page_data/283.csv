@@ -1,36 +1,63 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Chainalysis,https://web3.career/customer-success-manager-uk-chainalysis/14503,"Customer Success Manager, UK",,sales:non tech:customer support,4mo
-Sygnum Bank AG,https://web3.career/junior-onboarding-specialist-sygnum/14501,Junior Onboarding Specialist,$45k - $56k,junior:entry level:ethereum,4mo
-Sygnum Bank AG,https://web3.career/tech-lead-software-engineering-sygnum/14500,Tech Lead - Software Engineering,$140k - $220k,lead:dev:tech lead:react,4mo
-Chainlink Labs,https://web3.career/product-manager-chainlink-core-chainlink/14499,"Product Manager, Chainlink Core",,product manager:non tech:node:remote,4mo
-SuperRare Labs,https://web3.career/protocol-engineer-superrarelabs/14497,Protocol Engineer,$63k - $160k,dev:solidity:ethereum:nft:javascript,4mo
-Figment,https://web3.career/software-engineer-protocol-development-figment/14496,Software Engineer - Protocol Development,$48k - $120k,dev:nft:golang:rust,4mo
-GSR,https://web3.career/infrastructure-support-engineer-associate-senior-associate-london-gsr/14494,Infrastructure Support Engineer - Associate/Senior Associate - London,,dev:senior:customer support,4mo
-Sygnum Bank AG,https://web3.career/junior-legal-counsel-sygnum/14491,Junior Legal Counsel,,legal:junior:entry level:ethereum,4mo
-Ledger,https://web3.career/b2c-security-engineer-ledger/14490,B2C Security Engineer,$100k - $150k,c:c plus plus:dev:security,4mo
-Sygnum Bank AG,https://web3.career/team-lead-blockchain-engineering-sygnum/14489,Team Lead - Blockchain Engineering,$96k - $200k,lead:blockchain:solidity:javascript,4mo
-CoinFlip,https://web3.career/marketing-operations-manager-coinflip/14486,Marketing Operations Manager,,marketing:non tech:operations,4mo
-CoinFlip,https://web3.career/event-coordinator-coinflip/14485,Event Coordinator,,events manager:non tech,4mo
-TON Foundation,https://web3.career/content-strategist-writer-ton-foundation/14466,Content Strategist (Writer),,remote,4mo
-Ripple,https://web3.career/director-ripplenet-product-marketing-payments-ripple/14484,"Director, RippleNet Product Marketing, Payments",$70k - $158k,executive:marketing:non tech,4mo
-Finoa GmbH,https://web3.career/frontend-developer-m-f-div-finoa/14483,Frontend Developer (m/f/div),$50k - $144k,dev:front end:react:javascript:java,4mo
-Sygnum Bank AG,https://web3.career/ui-engineer-sygnum/14482,UI Engineer,$80k - $150k,dev:design:non tech,4mo
-SwissBorg,https://web3.career/web-designer-remote-swissborg/14481,Web Designer (Remote),$50k - $135k,remote:design:non tech,4mo
-Figment,https://web3.career/software-engineering-manager-protocol-development-figment/14480,Software Engineering Manager - Protocol Development,$80k - $180k,executive:dev:nft:golang:rust,4mo
-Boson Protocol,https://web3.career/business-operations-associate-bosonprotocol/14479,Business Operations Associate,$60k - $200k,operations,4mo
-Boson Protocol,https://web3.career/head-of-ux-bosonprotocol/14478,Head of UX,,executive:design:non tech:ethereum:nft,4mo
-Bitcoin Depot,https://web3.career/product-ops-specialist-dallas-bitcoindepot/14477,Product Ops Specialist - Dallas,$60k - $150k,ethereum,4mo
-100x,https://web3.career/senior-python-developer-blockchain-wallets-100xgroup/14476,(senior) Python Developer - Blockchain & Wallets,$79k - $200k,dev:python:senior:blockchain,4mo
-100x,https://web3.career/senior-software-engineer-custody-engineering-python-blockchain-wallets-100xgroup/14475,"Senior Software Engineer - Custody Engineering ( Python, Blockchain & Wallets )",$79k - $200k,dev:python:senior:blockchain,4mo
-Bitfinex,https://web3.career/blockchain-integration-specialist-remote-bitfinex/14474,Blockchain Integration Specialist (Remote),$60k - $120k,remote:blockchain:solidity:ethereum:javascript,4mo
-Box,https://web3.career/staff-product-manager-web-app-boxinc/14473,"Staff Product Manager, Web App",$69k - $160k,product manager:non tech,4mo
-Okcoin,https://web3.career/operational-excellence-specialist-okcoin/14472,Operational Excellence Specialist,$60k - $200k,operations,4mo
-BlockFi,https://web3.career/financial-operations-analyst-blockfi/14471,Financial Operations Analyst,,analyst:finance:operations,4mo
-100x,https://web3.career/senior-software-engineer-custody-engineering-python-blockchain-wallets-100xgroup/14470,"Senior Software Engineer - Custody Engineering ( Python, Blockchain & Wallets)",$79k - $200k,dev:python:senior:blockchain,4mo
-Gnosis,https://web3.career/community-lead-m-w-d-gnosis/14469,Community Lead (m/w/d),$40k - $65k,community manager:non tech:lead:ethereum:remote,4mo
-Hype Partners,https://web3.career/community-games-builder-hype-partners/14468,Community Games Builder,$35k - $55k,community manager:non tech:nft:remote,4mo
-100x,https://web3.career/software-engineer-custody-engineering-python-blockchain-wallets-100xgroup/14467,"Software Engineer - Custody Engineering ( Python, Blockchain & Wallets)",,dev:python:blockchain,4mo
-IOVLabs,https://web3.career/product-manager-iovlabs/14465,Product Manager,$115k - $175k,product manager:non tech:remote,4mo
-GSR,https://web3.career/2022-gsr-graduate-program-software-engineer-analyst-zug-gsr/14464,2022 GSR Graduate Program - Software Engineer Analyst - Zug,,analyst:dev:intern:entry level:react,4mo
-GSR,https://web3.career/2022-gsr-graduate-program-software-engineer-analyst-malaga-gsr/14463,2022 GSR Graduate Program - Software Engineer Analyst - Malaga,,analyst:dev:intern:entry level:react,4mo
-GSR,https://web3.career/2022-gsr-graduate-program-software-engineer-analyst-london-gsr/14462,2022 GSR Graduate Program - Software Engineer Analyst - London,,analyst:dev:intern:entry level:react,4mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Bitfinex,https://web3.career/blockchain-integration-specialist-remote-bitfinex/15188,Remote,Blockchain Integration Specialist (Remote),$60k - $120k,remote:blockchain:solidity:ethereum:javascript,4mo
+Chainlink Labs,https://web3.career/head-of-design-chainlink-labs/15187,"New York,
+United States",Head of Design,,executive:design:non tech,4mo
+Celer Network,https://web3.career/software-engineer-blockchain-systems-celer-network-2/15186,"Singapore,
+Singapore",Software Engineer - Blockchain Systems,$0k,dev:blockchain:solidity,4mo
+DinoSwap,https://web3.career/head-of-community-dinoswap/15185,Remote,Head of Community,$40k - $50k,executive:community manager:non tech:remote,4mo
+Showtime,https://web3.career/senior-mobile-engineer-react-native-showtime-technologies/15184,United States,Senior Mobile Engineer (React Native),$120k - $200k,dev:mobile:react native:javascript:react,4mo
+Showtime,https://web3.career/senior-frontend-engineer-react-showtime-technologies/15183,United States,Senior Frontend Engineer (React),$50k - $140k,dev:front end:javascript:react:senior,4mo
+Showtime,https://web3.career/senior-backend-engineer-showtime-technologies/15182,United States,Senior Backend Engineer,$120k - $200k,backend:dev:senior:nft,4mo
+Blockswap network,https://web3.career/protocol-documentation-tech-blockswap/15181,"San Francisco,
+United States",Protocol documentation (Tech),$80k - $180k,solidity:nft:rust,4mo
+Blockswap network,https://web3.career/protocol-documentation-tech-blockswap/15180,"San Francisco,
+United States",Protocol documentation (Tech),$70k - $100k,solidity:nft:rust,4mo
+Blockswap network,https://web3.career/community-engagement-blockswap/15179,"San Francisco,
+United States",Community Engagement,$50k - $65k,community manager:non tech:nft,4mo
+Blockswap network,https://web3.career/qa-lead-automation-blockswap/15178,"San Francisco,
+United States",QA lead - Automation,$150k - $180k,lead:quality assurance:solidity:nft:javascript,4mo
+Blockswap network,https://web3.career/front-end-engineer-blockswap/15177,"San Francisco,
+United States",Front End Engineer,$80k - $140k,dev:front end:react:react native:solidity,4mo
+Blockswap network,https://web3.career/cryptography-engineer-blockswap/15176,"San Francisco,
+United States",Cryptography Engineer,$70k - $150k,dev:ethereum:nft:javascript:rust,4mo
+Blockswap network,https://web3.career/cryptography-engineer-blockswap/15175,"San Francisco,
+United States",Cryptography Engineer,$70k - $100k,dev:ethereum:nft:javascript:rust,4mo
+Mycelium,https://web3.career/product-manager-myc-xyz/15160,"Sydney,
+Australia",Product Manager,,product manager:non tech:node,4mo
+Mycelium,https://web3.career/tracer-dao-treasury-manager-myc-xyz/15159,"Austin,
+United States",Tracer DAO Treasury Manager,$18k - $250k,finance:node,4mo
+Mycelium,https://web3.career/senior-recruiter-myc-xyz/15158,"Austin,
+United States",Senior Recruiter,$40k - $70k,recruiter:non tech:senior:node,4mo
+Mycelium,https://web3.career/recruiter-myc-xyz/15157,"Sydney,
+Australia",Recruiter,,recruiter:non tech:node,4mo
+Mycelium,https://web3.career/financial-planning-analysis-accountant-myc-xyz/15156,"Brisbane,
+Australia",Financial Planning & Analysis Accountant,,accounting:finance:node,4mo
+Mycelium,https://web3.career/financial-accountant-newly-qualified-myc-xyz/15155,"Brisbane,
+Australia",Financial Accountant (Newly Qualified),,accounting:finance:node,4mo
+Mycelium,https://web3.career/financial-accountant-3-5-years-myc-xyz/15154,"Brisbane,
+Australia",Financial Accountant (3-5 years),,accounting:finance:node,4mo
+Mycelium,https://web3.career/marketing-and-communications-lead-myc-xyz/15153,"Brisbane,
+Australia",Marketing and Communications Lead,$50k - $120k,lead:marketing:non tech:node,4mo
+Mycelium,https://web3.career/head-of-communications-myc-xyz/15152,"Austin,
+United States",Head of Communications,$56k - $300k,executive:node,4mo
+Mycelium,https://web3.career/smart-contract-developer-myc-xyz/15151,"Melbourne,
+Australia",Smart Contract Developer,$72k - $200k,dev:smart contract:solidity:ethereum:node,4mo
+Mycelium,https://web3.career/senior-smart-contract-developer-myc-xyz/15150,"Melbourne,
+Australia",Senior Smart Contract Developer,$120k - $250k,dev:senior:smart contract:solidity:ethereum,4mo
+Mycelium,https://web3.career/scrum-master-blockchain-myc-xyz/15149,"Austin,
+United States",Scrum Master (blockchain),,scrum:blockchain:node,4mo
+Mycelium,https://web3.career/qa-engineer-blockchain-myc-xyz/15148,"Austin,
+United States",QA Engineer (blockchain),$62k - $10k,dev:quality assurance:blockchain:node,4mo
+Mycelium,https://web3.career/frontend-web3-developer-myc-xyz/15147,"Berlin,
+Germany",Frontend Web3 Developer,$22k - $120k,dev:front end:remote:react:ethereum,4mo
+Mycelium,https://web3.career/ux-ui-designer-myc-xyz/15146,"Sydney,
+Australia",UX/UI Designer,$80k - $135k,design:non tech:node,4mo
+Mycelium,https://web3.career/senior-visual-designer-myc-xyz/15145,"Melbourne,
+Australia",Senior Visual Designer,$60k - $120k,design:non tech:senior:node,4mo
+Mycelium,https://web3.career/design-lead-myc-xyz/15144,"Melbourne,
+Australia",Design Lead,$40k - $190k,design:non tech:lead:node,4mo
+Avenir,https://web3.career/full-stack-technical-lead-avenir-4/15143,"Austin,
+United States",Full Stack Technical Lead,$100k - $120k,full stack:lead:tech lead:react:react native,4mo
+Aave,https://web3.career/events-manager-aave/15142,United Kingdom,Events Manager,$0k,events manager:non tech,4mo
+Aave,https://web3.career/technical-writer-aave/15141,United Kingdom,Technical Writer,$150k - $240k,analyst:solidity,4mo
+Aave,https://web3.career/social-media-manager-aave/15140,United Kingdom,Social Media Manager,$33k - $85k,social media:non tech,4mo

@@ -1,36 +1,63 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Newton,https://web3.career/paid-ad-specialist-canada-wide-remote-newton/16436,Paid Ad Specialist - Canada Wide - Remote,$56k - $160k,remote,4mo
-Newton,https://web3.career/off-site-seo-specialist-canada-wide-remote-newton/16435,Off-site SEO Specialist - Canada Wide - Remote,,remote:seo:non tech,4mo
-Newton,https://web3.career/marketing-automation-manager-canada-wide-remote-newton/16434,Marketing Automation Manager - Canada Wide - Remote,$25k - $120k,remote:marketing:non tech,4mo
-Newton,https://web3.career/growth-marketer-canada-wide-remote-newton/16433,Growth Marketer - Canada Wide - Remote,$25k - $120k,remote:marketing:non tech,4mo
-Newton,https://web3.career/copywriter-canada-wide-remote-newton/16432,Copywriter - Canada Wide - Remote,$25k - $30k,remote:copywriting,4mo
-Newton,https://web3.career/content-marketer-content-writer-canada-wide-remote-newton/16431,Content Marketer / Content Writer - Canada Wide - Remote,$25k - $30k,remote:copywriting:marketing:non tech,4mo
-Newton,https://web3.career/business-developer-partnerships-manager-canada-wide-remote-newton/16430,Business Developer / Partnerships Manager - Canada Wide - Remote,$29k - $108k,remote:sales:non tech:dev,4mo
-Newton,https://web3.career/affiliate-marketing-manager-canada-wide-remote-newton/16429,Affiliate Marketing Manager - Canada Wide - Remote,$25k - $120k,remote:marketing:non tech,4mo
-CoinFlip,https://web3.career/front-desk-office-assistant-coinflip/16428,Front Desk/Office Assistant,,,4mo
-BlockFi,https://web3.career/institutional-sales-and-relationship-senior-manager-blockfi/16426,Institutional Sales and Relationship Senior Manager,$50k - $150k,sales:non tech:senior,4mo
-Bitcoin Depot,https://web3.career/full-stack-engineer-bitcoindepot/16425,Full Stack Engineer,$65k - $180k,dev:full stack:react:ethereum:node,4mo
-Forbes,https://web3.career/senior-software-engineer-api-forbes/16424,Senior Software Engineer - API,,api:dev:senior:java:remote,4mo
-RECUR,https://web3.career/principal-data-engineer-remote-recur/16423,Principal Data Engineer (Remote),,remote:data science:dev:executive,4mo
-RECUR,https://web3.career/hands-on-data-engineering-manager-remote-recur/16422,Hands-on Data Engineering Manager (Remote),$79k - $200k,executive:remote,4mo
-Feedel Ventures,https://web3.career/blockchain-developer-feedelventures/16419,Blockchain Developer,$33k - $67k,dev:blockchain:web3js:solidity:ethereum,4mo
-Sygnum Bank AG,https://web3.career/part-time-junior-position-in-legal-compliance-strategic-initiatives-60-80-sygnum/16414,"Part-Time Junior Position in Legal, Compliance & Strategic Initiatives (60-80%)",,compliance:junior:entry level:legal:part time,4mo
-Figment,https://web3.career/principal-red-team-operator-figment/16413,Principal Red Team Operator,,executive:ruby:java,4mo
-Shakepay,https://web3.career/fraud-dispute-analyst-remote-canada-shakepay/16412,Fraud Dispute Analyst (Remote - Canada),,remote:analyst:security,4mo
-Polygon,https://web3.career/web3-gaming-lead-polygon-studios-polygon/16411,Web3 Gaming Lead - Polygon Studios,$50k - $120k,game dev:lead:remote:ethereum,4mo
-Polygon,https://web3.career/director-of-gaming-polygon-studios-polygon/16410,Director of Gaming - Polygon Studios,,executive:game dev:remote:ethereum,4mo
-Polygon,https://web3.career/aa-indie-gaming-lead-polygon-studios-polygon/16409,AA/Indie Gaming Lead - Polygon Studios,$50k - $120k,game dev:lead:remote:ethereum,4mo
-Polygon,https://web3.career/jr-rust-engineer-miden-vm-polygon/16408,Jr. Rust Engineer - Miden VM,$70k - $180k,dev:rust:remote:ethereum,4mo
-Blockdaemon,https://web3.career/product-manager-cloud-blockdaemon/16407,"Product Manager, Cloud",,cloud:product manager:non tech,4mo
-SwissBorg,https://web3.career/french-senior-kyc-analyst-swissborg/16405,French Senior KYC Analyst,,kyc:analyst:senior,4mo
-Chainlink Labs,https://web3.career/ecosystem-coordinator-chainlink/16404,Ecosystem Coordinator,$56k - $160k,remote,4mo
-Chainlink Labs,https://web3.career/developer-advocate-manager-chainlink/16403,Developer Advocate Manager,$65k - $180k,dev:remote,4mo
-Figure,https://web3.career/software-engineer-figure-lending-figure/16402,"Software Engineer, Figure Lending",$43k - $140k,dev:react:java,4mo
-Chainalysis,https://web3.career/technical-solutions-engineer-commercial-chainalysis/16401,"Technical Solutions Engineer, Commercial",$60k - $180k,dev,4mo
-Acria UG (haftungsbeschränkt),https://web3.career/marketing-intern-great-salary-great-team-apply-today-3583504-marketing-intern-great-salary-great-team-apply-today-utm_source-google_jobs_apply-pid-bce1fbd2f366390046fc/16400,"Marketing Intern - Great salary, great team! Apply today.",$3k,intern:entry level:marketing:non tech:ethereum,4mo
-Hype Partners,https://web3.career/marketing-artist-hypepartners/16399,Marketing Artist,$45k - $130k,marketing:non tech,4mo
-Braintrust,https://web3.career/remote-solidity-developer-braintrust/16398,[REMOTE] Solidity Developer,$80k - $170k,remote:dev:solidity:ethereum,4mo
-Proxy,https://web3.career/senior-product-manager-proxy/16392,Senior Product Manager,,product manager:non tech:senior:remote,4mo
-Next Big Thing AG,https://web3.career/business-development-specialist-m-f-d-nextbigthing/16391,Business Development Specialist (m/f/d),$29k - $108k,sales:non tech:remote,4mo
-LCX,https://web3.career/customer-support-hubspot-expert-lcx/16388,Customer Support - Hubspot Expert,$40k - $80k,customer support,4mo
-Braintrust,https://web3.career/web3-developer-braintrust/16387,Web3 Developer,$65k - $180k,dev:react:react native:nft:javascript,4mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Monarch Gaming (Genopets),https://web3.career/game-narrative-designer-genopets/17109,"Los Angeles,
+United States",Game Narrative Designer,$26k - $150k,design:non tech:game dev:solana:nft,3mo
+Monarch Gaming (Genopets),https://web3.career/social-media-manager-genopets/17108,"Los Angeles,
+United States",Social Media Manager,,social media:non tech:solana:nft,3mo
+NEAR,https://web3.career/technical-recruiter-near/17105,"San Francisco,
+United States",Technical Recruiter,$40k - $70k,recruiter:non tech,3mo
+CoinDesk & TradeBlock Opportunities,https://web3.career/head-of-finance-tradeblock-coindesk/17104,United States,"Head of Finance, TradeBlock",$90k - $200k,executive:finance,3mo
+CoinDesk & TradeBlock Opportunities,https://web3.career/head-of-people-tradeblock-coindesk/17103,United States,"Head of People, TradeBlock",$70k - $180k,executive,3mo
+GSR,https://web3.career/risk-quant-analyst-market-credit-risk-analyst-or-associate-gsr/17101,"Zug,
+Switzerland","Risk Quant Analyst (Market & Credit Risk), Analyst or Associate",$40k - $120k,analyst,3mo
+GSR,https://web3.career/risk-quant-analyst-market-credit-risk-analyst-or-associate-gsr/17100,"London,
+United Kingdom","Risk Quant Analyst (Market & Credit Risk), Analyst or Associate",$40k - $120k,analyst,3mo
+GSR,https://web3.career/risk-quant-analyst-market-credit-risk-analyst-or-associate-gsr/17099,"New York,
+United States","Risk Quant Analyst (Market & Credit Risk), Analyst or Associate",$40k - $120k,analyst,3mo
+GSR,https://web3.career/hft-risk-manager-vice-president-gsr/17098,"Zug,
+Switzerland","HFT Risk Manager, Vice President",,,3mo
+GSR,https://web3.career/hft-risk-manager-vice-president-gsr/17097,"London,
+United Kingdom","HFT Risk Manager, Vice President",,,3mo
+GSR,https://web3.career/hft-risk-manager-vice-president-gsr/17096,"Singapore,
+Singapore","HFT Risk Manager, Vice President",,,3mo
+Chainlink Labs,https://web3.career/marketing-director-integrated-campaigns-chainlink/17095,Remote,"Marketing Director, Integrated Campaigns",$70k - $158k,executive:marketing:non tech:remote,3mo
+MRGN Labs,https://web3.career/senior-blockchain-engineer-mrgn-labs/17094,Remote,Senior Blockchain Engineer,$80k - $200k,dev:senior:blockchain:remote:solana,3mo
+MRGN Labs,https://web3.career/senior-software-engineer-backend-mrgn-labs/17093,Remote,Senior Software Engineer - Backend,$70k - $200k,backend:dev:senior:remote:solana,3mo
+Ripple,https://web3.career/senior-software-engineer-full-stack-ripple/17092,"London,
+United Kingdom","Senior Software Engineer, Full-Stack",$70k - $180k,dev:full stack:senior:react:java,3mo
+Stardust Cards Corporation,https://web3.career/customer-success-manager-stardust/17091,Remote,Customer Success Manager,,sales:non tech:customer support:remote:nft,3mo
+Telcoin,https://web3.career/writer-researcher-philippines-telcoin/17090,"Manila,
+Philippines",Writer-Researcher - Philippines,,,3mo
+Telcoin,https://web3.career/marketing-manager-singapore-telcoin/17089,"Singapore,
+Singapore",Marketing Manager - Singapore,$45k - $130k,marketing:non tech,3mo
+Telcoin,https://web3.career/marketing-manager-london-area-telcoin/17088,"London,
+United Kingdom",Marketing Manager - London area,$45k - $130k,marketing:non tech,3mo
+Quidax,https://web3.career/platform-product-manager-quidax/17085,Remote,Platform Product Manager,$115k - $175k,product manager:non tech:remote,3mo
+Wintermute,https://web3.career/strategy-operations-manager-wintermute-trading/17083,"London,
+United Kingdom",Strategy & Operations Manager,$60k - $200k,operations,3mo
+OpenSea,https://web3.career/product-designer-design-system-opensea/17082,Remote,Product Designer - Design System,$50k - $135k,design:non tech:remote,3mo
+Next Big Thing AG,https://web3.career/entrepreneur-in-residence-f-m-x-nextbigthing/17081,"Berlin,
+Germany",Entrepreneur in Residence (f/m/x),$56k - $160k,remote,3mo
+Newton,https://web3.career/site-reliability-engineer-austin-tx-remote-newton/17080,"Austin,
+United States",Site Reliability Engineer - Austin TX (Remote),$150k - $200k,remote:dev:sys admin,3mo
+Newton,https://web3.career/data-engineer-canada-wide-remote-newton/17079,"Toronto,
+Canada",Data Engineer - Canada Wide - Remote,,remote:data science:dev,3mo
+Newton,https://web3.career/data-engineer-austin-tx-remote-newton/17078,"Austin,
+United States","Data Engineer - Austin, TX (Remote)",,remote:data science:dev,3mo
+Ripple,https://web3.career/staff-software-engineer-compliance-and-risk-engineering-ripple/17077,"London,
+United Kingdom","Staff Software Engineer, Compliance and Risk Engineering",,compliance:dev:react:node:java,3mo
+Ripple,https://web3.career/senior-software-engineer-compliance-and-risk-engineering-ripple/17076,"London,
+United Kingdom","Senior Software Engineer, Compliance and Risk Engineering",,compliance:dev:senior:react,3mo
+Ripple,https://web3.career/senior-software-engineer-compliance-and-risk-engineering-ripple/17075,"London,
+United Kingdom","Senior Software Engineer, Compliance and Risk Engineering",,compliance:dev:senior:java,3mo
+Stellar Development Foundation,https://web3.career/senior-protocol-engineer-stellar/17074,"San Francisco,
+United States",Senior Protocol Engineer,$120k - $210k,dev:senior:rust,3mo
+Stellar Development Foundation,https://web3.career/senior-protocol-engineer-stellar/17073,"San Francisco,
+United States",Senior Protocol Engineer,$120k - $210k,dev:senior:rust,3mo
+Bitcoin Depot,https://web3.career/content-writer-new-york-bitcoindepot/17072,"New York,
+United States",Content Writer - New York,$13k - $45k,copywriting,3mo
+Bitcoin Depot,https://web3.career/content-writer-california-bitcoindepot/17071,"San Diego,
+United States",Content Writer - California,$13k - $45k,copywriting,3mo
+Bitcoin Depot,https://web3.career/content-writer-boston-bitcoindepot/17070,"Boston,
+United States",Content Writer - Boston,$13k - $45k,copywriting,3mo
+Bitcoin Depot,https://web3.career/content-writer-austin-bitcoindepot/17069,"Austin,
+United States",Content Writer - Austin,$13k - $45k,copywriting,3mo

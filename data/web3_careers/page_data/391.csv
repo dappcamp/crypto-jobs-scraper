@@ -1,36 +1,67 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-IOVLabs,https://web3.career/tech-recruiter-iovlabs/9606,Tech Recruiter,,recruiter:non tech:remote,5mo
-IOVLabs,https://web3.career/application-security-engineer-iovlabs/9605,Application Security Engineer,$95k - $250k,dev:security:remote,5mo
-IOVLabs,https://web3.career/team-leader-core-iovlabs/9604,Team Leader - Core,$56k - $118k,lead:ethereum:remote,5mo
-IOVLabs,https://web3.career/c-software-engineer-iovlabs/9603,C Software Engineer,$100k - $150k,c:c plus plus:dev:ethereum:remote,5mo
-IOVLabs,https://web3.career/backend-software-engineer-powpeg-iovlabs/9602,Backend Software Engineer - Powpeg,$65k - $125k,backend:dev:ethereum:remote,5mo
-IOVLabs,https://web3.career/backend-software-engineer-mining-iovlabs/9601,Backend Software Engineer - Mining,$65k - $125k,backend:dev:ethereum:remote,5mo
-IOVLabs,https://web3.career/tech-lead-apps-services-iovlabs/9600,Tech Lead - Apps & Services,$96k - $118k,lead:tech lead:remote,5mo
-IOVLabs,https://web3.career/team-leader-interoperability-iovlabs/9599,Team Leader - Interoperability,$56k - $118k,lead:ethereum:remote,5mo
-IOVLabs,https://web3.career/senior-full-stack-developer-iovlabs/9598,Senior Full Stack Developer,$70k - $180k,dev:full stack:senior:remote,5mo
-IOVLabs,https://web3.career/full-stack-engineer-interoperability-iovlabs/9597,Full Stack Engineer - Interoperability,$70k - $140k,dev:full stack:ethereum:remote,5mo
-IOVLabs,https://web3.career/dev-ops-engineer-iovlabs/9596,Dev Ops Engineer,$95k - $180k,dev:devops:remote,5mo
-IOVLabs,https://web3.career/integration-engineer-iovlabs/9595,Integration Engineer,$65k - $180k,dev:remote,5mo
-IOVLabs,https://web3.career/project-manager-iovlabs/9594,Project Manager,$56k - $150k,project manager:non tech:remote,5mo
-Immutable,https://web3.career/test-automation-engineer-intern-immutable/9593,Test Automation Engineer (Intern),$12k - $33k,dev:intern:entry level,5mo
-Immutable,https://web3.career/test-automation-engineer-immutable/9592,Test Automation Engineer,$60k - $180k,dev,5mo
-Immutable,https://web3.career/software-engineer-immutable/9591,Software Engineer,$60k - $180k,dev:react:node:golang,5mo
-Immutable,https://web3.career/senior-software-engineer-immutable/9590,Senior Software Engineer,$80k - $200k,dev:senior:ethereum:nft,5mo
-Immutable,https://web3.career/senior-engineering-manager-immutable/9589,Senior Engineering Manager,,executive:senior:ethereum:nft,5mo
-Immutable,https://web3.career/principal-engineer-immutable/9588,Principal Engineer,,dev:executive:ethereum:nft,5mo
-Immutable,https://web3.career/head-of-ethereum-research-immutable/9587,Head of Ethereum Research,$50k - $158k,executive:ethereum:nft,5mo
-Immutable,https://web3.career/senior-software-engineer-gods-unchained-immutable/9586,Senior Software Engineer (Gods Unchained),$80k - $200k,dev:senior:ethereum,5mo
-Immutable,https://web3.career/senior-frontend-engineer-immutable/9585,Senior Frontend Engineer,$70k - $190k,dev:front end:senior,5mo
-Immutable,https://web3.career/principal-engineer-immutable/9584,Principal Engineer,$70k - $300k,dev:executive,5mo
-Immutable,https://web3.career/lead-site-reliability-engineer-immutable/9583,Lead Site Reliability Engineer,,dev:lead:sys admin,5mo
-Immutable,https://web3.career/senior-product-manager-immutable/9582,Senior Product Manager,$80k - $150k,product manager:non tech:senior:ethereum:nft,5mo
-Immutable,https://web3.career/head-of-product-immutable/9581,Head of Product,$135k - $170k,executive:product manager:non tech,5mo
-Immutable,https://web3.career/associate-producer-immutable/9580,Associate Producer,,,5mo
-Immutable,https://web3.career/head-of-tokens-immutable/9579,Head of Tokens,$50k - $158k,executive:ethereum:nft:remote,5mo
-Immutable,https://web3.career/general-counsel-immutable/9578,General Counsel,,legal:ethereum,5mo
-Immutable,https://web3.career/did-we-miss-you-immutable/9577,Did we miss you?,,,5mo
-Immutable,https://web3.career/head-of-community-immutable/9576,Head of Community,$45k - $150k,executive:community manager:non tech:ethereum:remote,5mo
-Immutable,https://web3.career/solutions-consultant-immutable/9575,Solutions Consultant,$40k - $60k,consulting:ethereum,5mo
-Immutable,https://web3.career/lead-solutions-consultant-immutable/9574,Lead Solutions Consultant,,consulting:lead:ethereum,5mo
-Immutable,https://web3.career/head-of-customer-support-immutable/9573,Head of Customer Support,,executive:customer support:nft,5mo
-Immutable,https://web3.career/head-of-marketing-guild-of-guardians-immutable/9572,Head of Marketing (Guild of Guardians),$70k - $158k,executive:marketing:non tech:remote,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Blockdaemon,https://web3.career/relationship-manager-ireland-blockdaemon/10117,United Kingdom,Relationship Manager (Ireland),$45k - $130k,marketing:non tech,6mo
+Blockdaemon,https://web3.career/inside-sales-development-representative-uk-blockdaemon/10116,"London,
+United Kingdom",Inside Sales Development Representative (UK),$29k - $43k,sales:non tech:ethereum,6mo
+Blockdaemon,https://web3.career/inside-sales-development-representative-singapore-blockdaemon/10115,"Singapore,
+Singapore",Inside Sales Development Representative (Singapore),$29k - $43k,sales:non tech:ethereum,6mo
+Blockdaemon,https://web3.career/product-designer-blockdaemon/10114,"San Francisco,
+United States",Product Designer,$50k - $150k,design:non tech,6mo
+Blockdaemon,https://web3.career/marketing-designer-blockdaemon/10113,"San Francisco,
+United States",Marketing Designer,,design:non tech:marketing,6mo
+Blockdaemon,https://web3.career/senior-product-manager-defi-blockdaemon/10112,"Los Angeles,
+United States","Senior Product Manager, DeFi",$80k - $150k,product manager:non tech:senior:defi,6mo
+Blockdaemon,https://web3.career/senior-product-manager-data-blockdaemon/10111,"New York,
+United States","Senior Product Manager, Data",$80k - $150k,product manager:non tech:senior,6mo
+Blockdaemon,https://web3.career/product-manager-staking-workflows-blockdaemon/10110,"Los Angeles,
+United States","Product Manager, Staking Workflows",$69k - $160k,product manager:non tech,6mo
+Blockdaemon,https://web3.career/product-manager-protocols-and-monitoring-blockdaemon/10109,"Los Angeles,
+United States","Product Manager, Protocols and Monitoring",$69k - $160k,product manager:non tech,6mo
+Blockdaemon,https://web3.career/product-manager-infrastructure-blockdaemon/10108,"San Francisco,
+United States","Product Manager, Infrastructure",,product manager:non tech:node,6mo
+Blockdaemon,https://web3.career/product-manager-data-reporting-blockdaemon/10107,"Los Angeles,
+United States","Product Manager, Data & Reporting",$69k - $160k,product manager:non tech,6mo
+Blockdaemon,https://web3.career/treasurer-blockdaemon/10106,"San Francisco,
+United States",Treasurer,,,6mo
+Blockdaemon,https://web3.career/recruiting-lead-blockdaemon/10105,"San Francisco,
+United States",Recruiting Lead,$40k - $70k,lead:recruiter:non tech,6mo
+Blockdaemon,https://web3.career/protocol-specialist-blockdaemon/10104,"San Francisco,
+United States",Protocol Specialist,$60k - $160k,node,6mo
+Blockdaemon,https://web3.career/general-manager-singapore-blockdaemon/10103,"San Francisco,
+United States",General Manager (Singapore),$70k - $180k,executive,6mo
+Blockdaemon,https://web3.career/general-manager-ireland-blockdaemon/10102,"San Francisco,
+United States",General Manager (Ireland),$70k - $180k,executive,6mo
+Blockdaemon,https://web3.career/administrative-assistant-uk-blockdaemon/10101,"London,
+United Kingdom",Administrative Assistant (UK),,,6mo
+Blockdaemon,https://web3.career/technical-documentation-writer-blockdaemon/10100,"San Francisco,
+United States",Technical Documentation Writer,$40k - $120k,analyst,6mo
+Blockdaemon,https://web3.career/social-media-manager-blockdaemon/10099,"San Francisco,
+United States",Social Media Manager,$33k - $85k,social media:non tech,6mo
+Blockdaemon,https://web3.career/product-marketing-manager-protocol-access-blockdaemon/10098,"Los Angeles,
+United States","Product Marketing Manager, Protocol Access",$45k - $130k,marketing:non tech,6mo
+Blockdaemon,https://web3.career/product-marketing-manager-crypto-finance-blockdaemon/10097,"Los Angeles,
+United States","Product Marketing Manager, Crypto Finance",$50k - $100k,finance:marketing:non tech:crypto,6mo
+Blockdaemon,https://web3.career/growth-marketing-manager-tendermint-blockdaemon/10096,"Los Angeles,
+United States",Growth Marketing Manager (Tendermint),$45k - $130k,marketing:non tech,6mo
+Blockdaemon,https://web3.career/growth-marketing-manager-substrate-blockdaemon/10095,"Los Angeles,
+United States",Growth Marketing Manager (Substrate),$45k - $130k,marketing:non tech,6mo
+Blockdaemon,https://web3.career/growth-marketing-manager-solana-blockdaemon/10094,"Los Angeles,
+United States",Growth Marketing Manager (Solana),$80k - $180k,marketing:non tech:solana,6mo
+Blockdaemon,https://web3.career/growth-marketing-manager-ethereum-blockdaemon/10093,"Los Angeles,
+United States",Growth Marketing Manager (Ethereum),$48k - $120k,marketing:non tech:ethereum,6mo
+Blockdaemon,https://web3.career/web-service-engineer-blockdaemon/10092,"San Francisco,
+United States",Web Service Engineer,$22k - $124k,dev:react:golang,6mo
+Blockdaemon,https://web3.career/technical-lead-web-application-frontend-engineer-blockdaemon/10091,"San Francisco,
+United States","Technical Lead, Web Application & Frontend Engineer",$56k - $79k,dev:front end:lead:tech lead:react,6mo
+Blockdaemon,https://web3.career/site-reliability-engineer-blockdaemon/10090,"San Francisco,
+United States",Site Reliability Engineer,$150k - $200k,dev:sys admin,6mo
+Blockdaemon,https://web3.career/senior-developer-blockdaemon/10089,"San Francisco,
+United States",Senior Developer,$70k - $200k,dev:senior:node:golang,6mo
+Blockdaemon,https://web3.career/platform-ops-engineer-blockdaemon/10088,"San Francisco,
+United States",Platform/Ops Engineer,$60k - $180k,dev,6mo
+Blockdaemon,https://web3.career/jira-administrator-blockdaemon/10087,"San Francisco,
+United States",JIRA Administrator,,,6mo
+Blockdaemon,https://web3.career/golang-engineer-golang-developer-blockdaemon/10086,"San Francisco,
+United States",Golang Engineer / Golang Developer,$22k - $124k,dev:golang:react:javascript,6mo
+Blockdaemon,https://web3.career/ethereum-infrastructure-engineer-blockdaemon/10085,Remote,Ethereum Infrastructure Engineer,$78k - $155k,dev:ethereum:node:remote,6mo
+Blockdaemon,https://web3.career/elk-prometheus-engineer-blockdaemon/10084,Remote,ELK Prometheus Engineer,$22k - $150k,dev:golang:remote,6mo
+Blockdaemon,https://web3.career/data-engineer-blockdaemon/10083,Remote,Data Engineer,$130k - $160k,data science:dev:scala:java:remote,6mo

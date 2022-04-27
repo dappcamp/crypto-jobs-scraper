@@ -1,36 +1,61 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Chainlink Labs,https://web3.career/technical-marketer-chainlink/12259,Technical Marketer,$25k - $120k,marketing:non tech:remote,5mo
-Public,https://web3.career/evening-customer-experience-representative-public/12258,Evening Customer Experience Representative,$40k - $80k,customer support,5mo
-Chainalysis,https://web3.career/director-strategic-finance-chainalysis/12257,"Director, Strategic Finance",$90k - $200k,executive:finance,5mo
-Chainalysis,https://web3.career/customer-success-manager-us-department-of-defense-chainalysis/12256,"Customer Success Manager, US Department of Defense",,sales:non tech:customer support,5mo
-BlockFi,https://web3.career/senior-backend-engineer-blockfi/12255,Senior Backend Engineer,$70k - $200k,backend:dev:senior,5mo
-BlockFi,https://web3.career/senior-backend-engineer-blockfi/12254,Senior Backend Engineer,$70k - $200k,backend:dev:senior,5mo
-BlockFi,https://web3.career/backend-engineer-blockfi/12253,Backend Engineer,$60k - $180k,backend:dev,5mo
-BlockFi,https://web3.career/backend-engineer-blockfi/12252,Backend Engineer,$60k - $180k,backend:dev,5mo
-Bittrex,https://web3.career/executive-business-administrator-bittrex/12251,Executive Business Administrator,$70k - $180k,executive,5mo
-Bittrex,https://web3.career/compliance-quality-control-manager-bittrex/12250,Compliance-Quality Control Manager,,compliance,5mo
-Okcoin,https://web3.career/senior-product-data-analyst-okcoin/12249,Senior Product Data Analyst,,analyst:data science:senior,5mo
-Findora,https://web3.career/vp-of-people-findora/12248,VP of People,$79k - $200k,executive:remote,5mo
-Stellar Development Foundation,https://web3.career/data-engineer-stellar/12247,Data Engineer,,data science:dev:golang,5mo
-Chainalysis,https://web3.career/social-media-manager-chainalysis/12246,Social Media Manager,$33k - $85k,social media:non tech,5mo
-Chainlink Labs,https://web3.career/community-manager-turkey-chainlink/12245,"Community Manager, Turkey",$40k - $101k,community manager:non tech:remote,5mo
-OnJuno,https://web3.career/talent-acquisition-specialist-onjuno/12244,Talent Acquisition Specialist,$40k - $70k,recruiter:non tech,5mo
-RECUR,https://web3.career/treasurer-remote-recur/12243,Treasurer (Remote),$56k - $165k,remote:nft,5mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/coindesk-tv-on-air-talent-producer-coindesk/12242,CoinDesk TV On-Air Talent/Producer,$40k - $70k,recruiter:non tech,5mo
-Figment,https://web3.career/sales-development-representative-figment/12240,Sales Development Representative,$26k - $140k,sales:non tech,5mo
-OnJuno,https://web3.career/fraud-analyst-onjuno/12238,Fraud Analyst,$60k - $185k,analyst:security,5mo
-RECUR,https://web3.career/manager-risk-compliance-remote-recur/12237,"Manager, Risk & Compliance (Remote)",,compliance:remote:ethereum:nft,5mo
-Bitcoin Depot,https://web3.career/product-ops-specialist-austin-bitcoindepot/12234,Product Ops Specialist - Austin,$60k - $150k,ethereum,5mo
-Wirex Limited,https://web3.career/sar-s-compliance-analyst-wirexlimited/12232,SAR's Compliance Analyst,,compliance:analyst,5mo
-Chainalysis,https://web3.career/account-executive-public-sector-aus-chainalysis/12231,"Account Executive, Public Sector (AUS)",$70k - $180k,executive,5mo
-GSR,https://web3.career/kyc-compliance-analyst-gsr/12230,KYC & Compliance Analyst,,compliance:kyc:analyst,5mo
-OpenSea,https://web3.career/support-engineer-opensea/12229,Support Engineer,,dev:customer support:solidity:rust:remote,5mo
-Illuvium,https://web3.career/qa-game-tester-illuvium/12228,QA Game Tester,,game dev:quality assurance,5mo
-Bitfury,https://web3.career/content-marketing-manager-crystal-blockchain-remote-bitfury/12227,"Content Marketing Manager (Crystal Blockchain, Remote)",$25k - $120k,remote:marketing:non tech:blockchain,5mo
-Bitfury,https://web3.career/content-marketing-manager-crystal-blockchain-remote-bitfury/12226,"Content Marketing Manager (Crystal Blockchain, Remote)",$25k - $120k,remote:marketing:non tech:blockchain,5mo
-Bitfury,https://web3.career/content-marketing-manager-crystal-blockchain-remote-bitfury/12225,"Content Marketing Manager (Crystal Blockchain, Remote)",$25k - $120k,remote:marketing:non tech:blockchain,5mo
-Maple,https://web3.career/senior-product-manager-maple-finance/12220,Senior Product Manager,$80k - $150k,product manager:non tech:senior:ethereum:remote,5mo
-WOO Network,https://web3.career/senior-executive-assistant-woonetwork/12219,Senior Executive Assistant,$46k - $110k,executive:senior,5mo
-OnJuno,https://web3.career/creative-content-specialist-onjuno/12217,Creative Content Specialist,$25k - $96k,marketing:non tech:copywriting,5mo
-OKEx,https://web3.career/senior-legal-counsel-okex/12216,Senior Legal Counsel,,legal:senior,5mo
-Polygon,https://web3.career/executive-assistant-polygon/12215,Executive Assistant,$79k - $158k,executive:ethereum,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Mirana,https://web3.career/blockchain-researcher-mirana/12861,"Singapore,
+Singapore",Blockchain Researcher,$50k - $120k,blockchain:nft:java,5mo
+Crypto Finance AG,https://web3.career/business-development-sales-germany-cryptofinanceag/12860,"Frankfurt,
+Germany",Business Development Sales- Germany,$29k - $108k,sales:non tech:remote,5mo
+Crypto Finance AG,https://web3.career/qa-and-support-engineer-cryptofinanceag/12859,"Zurich,
+Switzerland",QA and Support Engineer,,dev:quality assurance:customer support:javascript:ruby,5mo
+Aave,https://web3.career/smart-contract-auditor-aave/12858,"London,
+United Kingdom",Smart Contract Auditor,$70k - $200k,smart contract:solidity,5mo
+Nuvei,https://web3.career/business-development-manager-crypto-nuvei/12857,United States,Business Development Manager - Crypto,$30k - $140k,sales:non tech:crypto,5mo
+Nuvei,https://web3.career/vp-product-crypto-nuvei/12856,"London,
+United Kingdom",VP Product Crypto,$50k - $158k,executive:crypto,5mo
+Nuvei,https://web3.career/senior-business-development-manager-crypto-nuvei/12855,United States,Senior Business Development Manager - Crypto,$50k - $150k,sales:non tech:senior:crypto,5mo
+Crypto.com,https://web3.career/legal-counsel-litigation-us-crypto-com/12854,"Miami,
+United States","Legal Counsel, Litigation (US)",$24k - $140k,legal,5mo
+Crypto.com,https://web3.career/vulnerability-management-analyst-us-crypto-com/12853,"Miami,
+United States",Vulnerability Management Analyst (US),$60k - $185k,security:analyst,5mo
+Crypto.com,https://web3.career/consumer-compliance-analyst-crypto-com/12852,United States,Consumer Compliance Analyst,,compliance:analyst:nft,5mo
+Crypto.com,https://web3.career/security-engineering-technical-lead-us-crypto-com/12851,"Miami,
+United States",Security Engineering Technical Lead (US),,lead:security:tech lead,5mo
+Crypto.com,https://web3.career/it-support-engineer-us-crypto-com/12850,"Miami,
+United States",IT Support Engineer (US),$90k - $140k,dev:customer support,5mo
+Adoriasoft Inc.,https://web3.career/solidity-developer-for-primex-finance-adoriasoftinc/12849,Remote,Solidity developer for Primex Finance,$15k - $120k,dev:finance:solidity:ethereum:nft,5mo
+TrueLayer,https://web3.career/crypto-business-developer-growth-hacker-truelayer/12848,"London,
+United Kingdom",Crypto Business Developer / Growth Hacker,$85k - $120k,dev:marketing:non tech:crypto,5mo
+Crypto.com,https://web3.career/head-of-engineering-uk-global-fintech-startup-crypto-com/12847,"London,
+United Kingdom","Head of Engineering, UK - Global Fintech Startup",$90k - $200k,executive:finance,5mo
+Crypto.com,https://web3.career/senior-manager-sponsorships-activation-north-america-crypto-com/12846,"Los Angeles,
+United States","Senior Manager, Sponsorships Activation North America",$90k - $200k,senior:nft,5mo
+"Regen Network Development, Inc",https://web3.career/front-end-engineer-blockchain-experience-regennetworkdevelopment-inc/12845,United States,Front-end Engineer (Blockchain Experience),$33k - $190k,dev:front end:blockchain:react,5mo
+Crypto.com,https://web3.career/affiliate-program-manager-crypto-com/12844,"Hong Kong,
+Hong Kong",Affiliate Program Manager,$70k - $158k,marketing:non tech:executive:nft,5mo
+Crypto.com,https://web3.career/product-manager-associate-product-manager-crypto-com/12843,"Hong Kong,
+Hong Kong",Product Manager / Associate Product Manager,$69k - $160k,product manager:non tech:nft,5mo
+Crypto.com,https://web3.career/security-technical-project-management-associate-crypto-com/12842,"Hong Kong,
+Hong Kong","Security Technical Project Management, Associate",$95k - $200k,security,5mo
+Crypto.com,https://web3.career/associate-product-manager-crypto-com/12841,United Kingdom,Associate Product Manager,$69k - $160k,product manager:non tech,5mo
+Crypto.com,https://web3.career/security-engineering-technical-lead-hk-crypto-com/12840,"Hong Kong,
+Hong Kong",Security Engineering Technical Lead (HK),,lead:security:tech lead,5mo
+Crypto.com,https://web3.career/security-technical-project-manager-it-service-crypto-com/12839,"Hong Kong,
+Hong Kong",Security Technical Project Manager (IT Service),,project manager:non tech:security,5mo
+Libertex Group,https://web3.career/arabic-crypto-affiliate-manager-libertexgroup/12838,"Dubai,
+United Arab Emirates",Arabic Crypto Affiliate Manager,$46k - $140k,marketing:non tech:crypto,5mo
+Crypto.com,https://web3.career/it-support-engineer-sg-crypto-com/12837,"Singapore,
+Singapore",IT Support Engineer (SG),$90k - $140k,dev:customer support,5mo
+Mirana,https://web3.career/full-stack-engineer-defi-mirana/12836,"Singapore,
+Singapore",Full Stack Engineer (Defi),$93k - $150k,dev:full stack:defi:react:javascript,5mo
+Crypto.com,https://web3.career/cyber-security-incident-response-lead-us-crypto-com/12835,"Miami,
+United States",Cyber Security Incident Response Lead (US),,lead:security:nft,5mo
+Crypto.com,https://web3.career/vulnerability-configuration-management-lead-hk-crypto-com/12834,"Hong Kong,
+Hong Kong",Vulnerability & Configuration Management Lead (HK),,security:lead,5mo
+Kandidate,https://web3.career/head-of-customer-success-blockchain-kandidate/12833,"London,
+United Kingdom",Head of Customer Success | Blockchain,,executive:customer support:blockchain,5mo
+Crypto.com,https://web3.career/security-pmo-assistant-manager-crypto-com/12832,United States,Security PMO Assistant Manager,$95k - $200k,security,5mo
+Crypto.com,https://web3.career/quantitative-researcher-derivative-trading-global-fintech-startup-crypto-com/12831,Remote,"Quantitative Researcher, Derivative Trading - Global Fintech startup",,finance:javascript:remote,5mo
+Crypto.com,https://web3.career/new-venture-product-manager-global-fintech-startup-crypto-com/12830,"Singapore,
+Singapore",New Venture - Product Manager (Global Fintech Startup),,finance:product manager:non tech,5mo
+Crypto.com,https://web3.career/director-global-payment-partnerships-new-markets-crypto-com/12829,"Singapore,
+Singapore","Director Global Payment Partnerships, New Markets",$40k - $150k,sales:non tech:executive,5mo
+Crypto.com,https://web3.career/devops-engineer-crypto-com/12828,United Kingdom,DevOps Engineer,$150k - $200k,devops:dev:javascript:node,5mo
+Nuvei,https://web3.career/business-development-manager-crypto-nuvei/12827,United States,Business Development Manager - Crypto,$30k - $140k,sales:non tech:crypto,5mo

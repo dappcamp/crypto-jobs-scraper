@@ -1,36 +1,56 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-BitGo,https://web3.career/recruiter-generalist-contract-bitgo/9000,Recruiter Generalist - Contract,$40k - $70k,recruiter:non tech,5mo
-BitMEX,https://web3.career/senior-kubernetes-engineer-global-derivatives-exchange-bitmex/8999,Senior Kubernetes Engineer - Global Derivatives Exchange,$65k - $150k,dev:senior:golang,5mo
-Celo Foundation,https://web3.career/head-of-marketing-celo-foundation-celofoundation/8997,"Head of Marketing, Celo Foundation",$70k - $158k,executive:marketing:non tech,5mo
-Binance,https://web3.career/financial-derivative-product-manager-binance/8996,Financial Derivative Product Manager,,finance:product manager:non tech,5mo
-Okcoin,https://web3.career/social-media-representative-team-lead-okcoin/8995,Social Media Representative - Team Lead,,lead:social media:non tech,5mo
-Kraken Digital Asset Exchange,https://web3.career/executive-assistant-corporate-development-kraken/8993,Executive Assistant - Corporate Development,$70k - $180k,executive,5mo
-Blockchain.com,https://web3.career/fraud-risk-management-lead-americas-blockchain/8992,"Fraud Risk Management Lead, Americas",,security:lead,5mo
-Mirror,https://web3.career/backend-engineer-product-mirror/8990,Backend Engineer (Product),,backend:dev:react:react native:ethereum,5mo
-Mirror,https://web3.career/frontend-engineer-mirror/8989,Frontend Engineer,,dev:front end:react:nextjs:remote,5mo
-Mirror,https://web3.career/backend-engineer-infrastructure-mirror/8988,Backend Engineer (Infrastructure),,backend:dev:ethereum:remote,5mo
-Mirror,https://web3.career/community-manager-mirror/8987,Community Manager,,community manager:non tech:remote,5mo
-Mirror,https://web3.career/technical-recruiter-mirror/8986,Technical Recruiter,,recruiter:non tech:remote,5mo
-Mirror,https://web3.career/designer-mirror/8985,Designer,,design:non tech:ethereum:remote,5mo
-Binance,https://web3.career/card-chargeback-manager-binance/8983,Card Chargeback Manager,,,5mo
-Binance,https://web3.career/site-manager-lead-binance/8982,Site Manager (Lead),$60k - $200k,lead,5mo
-Kraken Digital Asset Exchange,https://web3.career/brand-partnership-lead-organizations-kraken/8981,Brand Partnership Lead - Organizations,$100k - $200k,sales:non tech:marketing:lead:remote,5mo
-GSR,https://web3.career/client-ops-associate-gsr/8980,Client Ops - Associate,,,5mo
-Kraken Digital Asset Exchange,https://web3.career/engineering-manager-trading-technology-kraken/8979,Engineering Manager - Trading Technology,$79k - $200k,executive:remote,5mo
-Localcoin,https://web3.career/regional-sales-executive-jacksonville-fl-localcoin/8978,"Regional Sales Executive (Jacksonville, FL)",$40k - $150k,executive:sales:non tech,5mo
-Bitwise Asset Management,https://web3.career/investor-relations-associate-ny-or-sf-area-bitwiseinvestments/8977,Investor Relations Associate (NY or SF Area),$40k - $150k,finance,5mo
-Acala,https://web3.career/data-analytics-engineer-acala/8976,Data Analytics Engineer,$360k - $500k,stats:dev:react:solidity:node,5mo
-Enso,https://web3.career/solidity-engineer-enso/8975,Solidity Engineer,$80k - $170k,dev:solidity:remote,5mo
-Ackee Blockchain,https://web3.career/ethereum-solidity-developer-auditor-ackeeblockchain/8974,Ethereum (Solidity) Developer & Auditor,$80k - $200k,dev:solidity:rust,5mo
-BitMEX,https://web3.career/senior-kubernetes-engineer-global-derivatives-exchange-bitmex/8972,Senior Kubernetes Engineer - Global Derivatives Exchange,$65k - $150k,dev:senior:golang,5mo
-Kraken Digital Asset Exchange,https://web3.career/executive-assistant-engineering-kraken/8971,Executive Assistant - Engineering,$70k - $180k,executive,5mo
-Decent Labs,https://web3.career/web3-frontend-engineer-decent-labs/8970,Web3 Frontend Engineer,$22k - $120k,remote:dev:front end:react:ethereum,5mo
-ETHGlobal,https://web3.career/community-success-ethglobal/2477,Community Success,$40k - $101k,community manager:non tech:remote,5mo
-ETHGlobal,https://web3.career/full-stack-engineer-web3-ethglobal/2476,Full Stack Engineer (Web3),$70k - $200k,dev:full stack:remote,5mo
-ETHGlobal,https://web3.career/designer-who-codes-ethglobal/2475,Designer Who Codes,$50k - $135k,design:non tech:remote,5mo
-ETHGlobal,https://web3.career/business-development-ethglobal/2474,Business Development,$29k - $108k,sales:non tech:remote,5mo
-Binance,https://web3.career/quality-assurance-qa-engineer-binance/2473,Quality Assurance (QA) Engineer,$50k - $150k,dev:quality assurance,5mo
-Binance,https://web3.career/localization-project-manager-binance/2472,Localization Project Manager,$50k - $150k,project manager:non tech,5mo
-Binance,https://web3.career/nft-content-marketing-specialist-binance/2471,NFT - Content Marketing Specialist,$55k - $140k,marketing:non tech:nft,5mo
-cLabs,https://web3.career/research-innovation-intern-celo-foundation-spring-summer-2022-clabs/2470,"Research & Innovation Intern, Celo Foundation (Spring/Summer 2022)",$24k - $48k,intern:entry level:remote,5mo
-ETHGlobal,https://web3.career/developer-relations-ethglobal/2469,Developer Relations,,customer support:dev:remote,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+GSR,https://web3.career/site-reliability-engineer-associate-senior-associate-new-york-gsr/9511,"New York,
+United States","Site Reliability Engineer, Associate/Senior Associate - New York",$150k - $200k,dev:sys admin:senior,6mo
+GSR,https://web3.career/senior-data-engineer-defi-blockchain-vice-president-director-gsr/9510,"London,
+United Kingdom",Senior Data Engineer - DeFi / Blockchain - Vice President / Director,,data science:executive:dev:senior:blockchain,6mo
+GSR,https://web3.career/senior-data-engineer-defi-blockchain-vice-president-director-gsr/9509,"New York,
+United States",Senior Data Engineer - DeFi / Blockchain - Vice President / Director,,data science:executive:dev:senior:blockchain,6mo
+GSR,https://web3.career/head-of-data-vice-president-director-gsr/9508,"New York,
+United States","Head of Data, Vice President/Director",,executive:data science,6mo
+GSR,https://web3.career/risk-quantitative-analyst-market-and-credit-risk-gsr/9507,"New York,
+United States",Risk Quantitative Analyst (Market and Credit Risk),$40k - $120k,analyst,6mo
+GSR,https://web3.career/risk-quantitative-analyst-hft-model-risk-gsr/9506,"New York,
+United States",Risk Quantitative Analyst (HFT/Model Risk),$40k - $120k,analyst,6mo
+GSR,https://web3.career/graduate-senior-recruiter-associate-vice-president-gsr/9505,"London,
+United Kingdom","Graduate Senior Recruiter, Associate / Vice President",,intern:entry level:recruiter:non tech:senior,6mo
+GSR,https://web3.career/office-manager-gsr/9504,"Singapore,
+Singapore",Office Manager,,,6mo
+GSR,https://web3.career/business-development-associate-east-coast-or-west-coast-gsr/9503,"New York,
+United States",Business Development Associate (East Coast or West Coast),$26k - $140k,sales:non tech,6mo
+GSR,https://web3.career/business-development-associate-gsr/9502,"London,
+United Kingdom",Business Development Associate,$26k - $140k,sales:non tech,6mo
+GSR,https://web3.career/business-development-analyst-east-coast-or-west-coast-gsr/9501,"New York,
+United States",Business Development Analyst (East Coast or West Coast),,analyst:sales:non tech,6mo
+GSR,https://web3.career/business-development-analyst-gsr/9500,"London,
+United Kingdom",Business Development Analyst,,analyst:sales:non tech,6mo
+GSR,https://web3.career/junior-strategist-associate-gsr/9499,"New York,
+United States",Junior Strategist - Associate,$12k - $120k,junior:entry level,6mo
+Gauntlet Networks,https://web3.career/product-manager-gauntlet/9498,Remote,Product Manager,$115k - $175k,product manager:non tech:remote,6mo
+Gauntlet Networks,https://web3.career/operations-associate-gauntlet/9497,Remote,Operations Associate,$80k - $110k,operations:remote,6mo
+Gauntlet Networks,https://web3.career/general-counsel-gauntlet/9496,Remote,General Counsel,,legal:remote,6mo
+Gauntlet Networks,https://web3.career/engineering-manager-gauntlet/9495,Remote,Engineering Manager,$79k - $200k,executive:remote,6mo
+Gauntlet Networks,https://web3.career/data-science-manager-gauntlet/9494,Remote,Data Science Manager,$50k - $135k,data science:remote,6mo
+Gauntlet Networks,https://web3.career/data-engineer-gauntlet/9493,Remote,Data Engineer,,data science:dev:remote,6mo
+Gauntlet Networks,https://web3.career/data-analyst-gauntlet/9492,Remote,Data Analyst,$45k - $120k,analyst:data science:remote,6mo
+Fuel Labs,https://web3.career/wallet-integration-developer-js-ts-fuellabs/9491,Remote,Wallet Integration Developer [JS/TS],$60k - $180k,javascript:dev:remote,6mo
+Fuel Labs,https://web3.career/senior-software-engineer-rust-fuellabs/9490,Remote,Senior Software Engineer [Rust],$120k - $210k,dev:rust:senior:node:remote,6mo
+Fuel Labs,https://web3.career/senior-devops-engineer-fuellabs/9489,Remote,Senior DevOps Engineer,$120k - $200k,devops:dev:senior:remote,6mo
+Fuel Labs,https://web3.career/junior-software-engineer-rust-fuellabs/9488,Remote,Junior Software Engineer [Rust],$45k - $180k,dev:junior:entry level:rust:node,6mo
+Findora,https://web3.career/researcher-financial-systems-findora/9487,"Menlo Park,
+United States","Researcher, Financial Systems",$40k - $150k,finance,6mo
+Findora,https://web3.career/research-scientist-programming-languages-findora/9486,"Menlo Park,
+United States","Research Scientist, Programming Languages",,,6mo
+Findora,https://web3.career/research-scientist-cryptography-findora/9485,"Menlo Park,
+United States","Research Scientist, Cryptography",,,6mo
+Findora,https://web3.career/research-scientist-consensus-distributed-systems-findora/9484,"Menlo Park,
+United States","Research Scientist, Consensus/Distributed Systems",,,6mo
+Findora,https://web3.career/research-scientist-agt-economics-findora/9483,"Menlo Park,
+United States","Research Scientist, AGT/Economics",,,6mo
+Findora,https://web3.career/research-scientist-gis-findora/9482,"Menlo Park,
+United States",Research Scientist GIS,$60k - $147k,javascript:rust,6mo
+Findora,https://web3.career/technical-product-manager-findora/9481,"Menlo Park,
+United States",Technical Product Manager,$69k - $160k,product manager:non tech,6mo
+Findora,https://web3.career/product-manager-decentralized-identity-findora/9480,Remote,"Product Manager, Decentralized Identity",,product manager:non tech:javascript:rust:remote,6mo
+Findora,https://web3.career/product-manager-core-blockchain-findora/9479,Remote,"Product Manager, Core Blockchain",$35k - $120k,product manager:non tech:blockchain:javascript:rust,6mo
+Findora,https://web3.career/technical-writer-findora/9478,Remote,Technical Writer,$45k - $120k,analyst:remote,6mo
+Findora,https://web3.career/systems-engineer-findora/9477,Remote,Systems Engineer,$150k - $200k,dev:sys admin:remote,6mo

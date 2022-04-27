@@ -1,36 +1,56 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Web3Auth,https://web3.career/native-ios-developer-torus-2/23405,Native iOS Developer,$51k - $109k,dev:ios:mobile:ethereum,1mo
-Web3Auth,https://web3.career/protocol-developer-golang-rust-62k-180k-torus-2/23404,Protocol Developer – (Golang/Rust) - $62k - $180k,$80k - $160k,dev:golang:rust:ethereum:java,1mo
-Web3Auth,https://web3.career/senior-software-engineer-full-stack-javascript-typescript-golang-torus-2/23403,Senior Software Engineer (Full stack Javascript/Typescript/Golang),$65k - $124k,dev:full stack:golang:javascript:senior,1mo
-Web3Auth,https://web3.career/software-development-engineer-in-test-sdet-62k-130k-torus-2/23402,Software Development Engineer in Test (SDET) - $62k - $130k,$29k - $73k,quality assurance:dev:react:javascript:vue,1mo
-Web3Auth,https://web3.career/technical-content-writer-torus-2/23401,Technical Content Writer,,copywriting:ethereum,1mo
-Web3Auth,https://web3.career/business-development-torus-2/23400,Business Development,$0k,sales:non tech:ethereum,1mo
-Web3Auth,https://web3.career/developer-relations-torus-2/23399,Developer Relations,$0k,customer support:dev:ethereum,1mo
-Finoa GmbH,https://web3.career/senior-legal-counsel-m-f-d-finoa/23398,(Senior) Legal Counsel (m/f/d),,legal:senior:remote,1mo
-ZAUBAR,https://web3.career/internship-sales-development-representative-metaverse-saas-ar-culture-zaubar/23397,"Internship: Sales Development Representative (Metaverse, SaaS, AR, Culture)",,intern:entry level:metaverse:saas:sales,1mo
-Metal,https://web3.career/kyc-fraud-specialist-remote-metalpay/23396,KYC Fraud Specialist (REMOTE),,kyc:remote:security,1mo
-Sperax,https://web3.career/talent-acquisition-recruitment-manager-remote-sperax/23395,Talent Acquisition/Recruitment Manager (Remote),,remote:recruiter:non tech,1mo
-Getwith,https://web3.career/delivery-manager-blockchain-finboot-full-remote-45-65k-getwith/23394,Delivery Manager (Blockchain) | Finboot | Full Remote | 45-65K,$95k - $300k,remote:dev:executive:blockchain,1mo
-RECUR,https://web3.career/business-recruiter-recur/23393,Business Recruiter,,recruiter:non tech:ethereum,1mo
-Mythical Games,https://web3.career/software-development-engineer-in-test-lead-mythicalgames/23392,Software Development Engineer in Test- Lead,$100k - $180k,quality assurance:dev:lead:solidity:java,1mo
-Hyperspace,https://web3.career/product-designer-hyperspace/23391,Product Designer,$100k - $150k,design:non tech:solana:nft,1mo
-Hyperspace,https://web3.career/blockchain-engineer-hyperspace/23390,Blockchain Engineer,$56k - $160k,dev:blockchain:solana:nft:rust,1mo
-Hyperspace,https://web3.career/software-engineer-front-end-hyperspace/23389,"Software Engineer, Front End",$50k - $144k,dev:front end:react:solana:nft,1mo
-Hyperspace,https://web3.career/software-engineer-full-stack-hyperspace/23388,"Software Engineer, Full Stack",$65k - $180k,dev:full stack:react:solana:nft,1mo
-SALT,https://web3.career/quantitative-trade-support-lead-saltlending/23387,Quantitative Trade Support Lead,,lead:customer support:ethereum:rust,1mo
-Floating Point Group,https://web3.career/marketing-director-fpg/23386,Marketing Director,$70k - $158k,executive:marketing:non tech:remote,1mo
-FPT Deutschland GmbH,https://web3.career/senior-sap-consultant-authorisations-m-f-d-fger/23385,Senior SAP Consultant Authorisations (m/f/d),,consulting:senior:remote,1mo
-Braintrust,https://web3.career/senior-smart-contract-developer-braintrust/23384,Senior Smart Contract Developer,$120k - $250k,dev:senior:smart contract:solidity:nft,1mo
-SALT,https://web3.career/quantitative-trade-support-lead-saltlending/23383,Quantitative Trade Support Lead,,lead:customer support:ethereum:rust,1mo
-Axoni,https://web3.career/sr-technical-product-manager-axoni/23382,Sr. Technical Product Manager,$80k - $150k,product manager:non tech:senior:remote,1mo
-Ripple,https://web3.career/staff-technical-program-manager-finance-and-compliance-tools-ripple/23381,"Staff Technical Program Manager, Finance and Compliance Tools",,compliance:finance:executive,1mo
-Tangany,https://web3.career/crypto-regulatory-legal-counsel-tangany/23380,Crypto Regulatory Legal Counsel,,legal:crypto:remote,1mo
-Metrika Inc.,https://web3.career/talent-acquisition-lead-metrika/23379,Talent Acquisition Lead,$40k - $70k,lead:recruiter:non tech:node:remote,1mo
-Binance,https://web3.career/ui-ux-designer-pay-card-binance/23378,UI/UX Designer - Pay & Card,$50k - $150k,design:non tech,1mo
-Binance,https://web3.career/treasury-analyst-binance/23377,Treasury Analyst,$45k - $120k,analyst:remote,1mo
-Parity Technologies,https://web3.career/team-assistant-in-ecosystem-business-development-parity/23376,Team Assistant in Ecosystem & Business Development,$29k - $108k,sales:non tech:remote,1mo
-Parity Technologies,https://web3.career/operations-lead-uk-parity/23375,Operations Lead UK,,lead:operations,1mo
-Parity Technologies,https://web3.career/office-manager-uk-parity/23374,Office Manager UK,,,1mo
-Chainalysis,https://web3.career/intelligence-analyst-intern-chainalysis/23373,Intelligence Analyst Intern,$20k - $30k,analyst:intern:entry level,1mo
-Bittrex,https://web3.career/digital-asset-analyst-bittrex/23372,Digital Asset Analyst,$40k - $120k,analyst,1mo
-Ledger,https://web3.career/head-of-web-ledger-com-ledger/23371,Head of Web - Ledger.com,$70k - $180k,executive,1mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Virtually Human Studio,https://web3.career/senior-game-economist-remote-vhslab/23987,APAC,Senior Game Economist (Remote),$70k - $150k,remote:game dev:senior:nft,1mo
+Binance,https://web3.career/senior-ui-ux-product-designer-binance/23986,Remote,Senior UI/UX Product Designer,$60k - $120k,design:non tech:senior:remote:solana,1mo
+Qubit9 GmbH,https://web3.career/lead-developer-blockchain-m-f-d-qubit9/23985,"Hamburg,
+Germany",Lead Developer - Blockchain (m/f/d),$30k - $160k,dev:lead:blockchain:react:solidity,1mo
+Technische Hochschule Nürnberg,https://web3.career/professur-fur-das-lehrgebiet-it-sicherheit-technische-hochschule-nurnberg/23984,"Nürnberg, Deutschland",Professur für das Lehrgebiet IT-Sicherheit,,,1mo
+Flow Traders,https://web3.career/digital-assets-trading-operations-engineer-flowtraders/23983,"Amsterdam,
+Netherlands",Digital Assets Trading Operations Engineer,,finance:dev:operations:javascript,1mo
+Amun 21Shares,https://web3.career/paralegal-amun/23979,"Zurich,
+Switzerland",Paralegal,,,1mo
+Bolide Finance,https://web3.career/digital-marketing-manager-bolide/23469,Remote,Digital Marketing Manager,$50k - $100k,marketing:non tech:defi:finance:social media,1mo
+BlockX,https://web3.career/golang-blockchain-protocol-developer-blockx-3/23978,"New York,
+United States",Golang Blockchain protocol Developer,$50k - $120k,dev:golang:blockchain,1mo
+AE Studio,https://web3.career/growth-marketing-aestudio/23977,"Los Angeles,
+United States",Growth Marketing,$55k - $140k,marketing:non tech:nft,1mo
+Sygnum Bank AG,https://web3.career/junior-compliance-officer-80-100-sygnum/23976,Switzerland,(Junior) Compliance Officer 80-100%,,compliance:junior:entry level:ethereum,1mo
+Obol Technologies Inc,https://web3.career/technical-project-manager-obol-tech/23975,Remote,Technical Project Manager,$56k - $150k,project manager:non tech:remote:solidity:ethereum,1mo
+Blockdaemon,https://web3.career/tendermint-infrastructure-engineer-blockdaemon/23974,"San Francisco,
+United States",Tendermint Infrastructure Engineer,$65k - $165k,dev:node,1mo
+Blockdaemon,https://web3.career/substrate-infrastructure-engineer-blockdaemon/23973,"San Francisco,
+United States",Substrate Infrastructure Engineer,$65k - $165k,dev:node,1mo
+Blockdaemon,https://web3.career/platform-programs-lead-blockdaemon/23972,"San Francisco,
+United States",Platform Programs Lead,$60k - $200k,lead,1mo
+Blockdaemon,https://web3.career/director-enterprise-architecture-blockdaemon/23971,"San Francisco,
+United States","Director, Enterprise Architecture",$70k - $180k,executive,1mo
+BitGo,https://web3.career/vendor-management-analyst-bitgo/23970,"Kota,
+India",Vendor Management Analyst,$40k - $120k,analyst,1mo
+UBIRCH,https://web3.career/senior-sales-business-development-manager-healthcare-f-x-m-germany-ubirch/23969,,"Senior Sales & Business Development Manager Healthcare (f/x/m), Germany",$50k - $150k,sales:non tech:senior,1mo
+Consensys,https://web3.career/lead-project-manager-consensys/23968,Remote,Lead Project Manager,,lead:project manager:non tech:remote:ethereum,1mo
+Consensys,https://web3.career/blockchain-systems-engineer-consensys/23967,Remote,Blockchain Systems Engineer,,dev:sys admin:blockchain:remote:ethereum,1mo
+RECUR,https://web3.career/staff-software-engineer-platform-engineering-recur/23966,"Boston,
+United States",Staff Software Engineer - Platform Engineering,$56k - $180k,dev:nft:javascript:node:java,1mo
+Blockchain.com,https://web3.career/executive-assistant-blockchain/23965,"Buenos Aires,
+Argentina",Executive Assistant,$70k - $180k,executive,1mo
+VerticalCrypto Art,https://web3.career/web-content-editor-verticalcrypto-art/23963,Remote,Web Content Editor,$25k - $30k,copywriting:remote:non tech:marketing,1mo
+FPT Deutschland GmbH,https://web3.career/senior-full-stack-developer-m-f-d-fger/23962,"Amsterdam,
+Netherlands",Senior Full-Stack Developer (m/f/d),$70k - $180k,dev:full stack:senior,1mo
+cLabs,https://web3.career/partner-engineering-clabs/23961,Remote,Partner Engineering,$56k - $160k,remote,1mo
+Neon Labs,https://web3.career/senior-rust-developer-neon-labs/23960,Remote,Senior Rust Developer,$120k - $210k,dev:rust:senior:remote:solana,1mo
+Finoa GmbH,https://web3.career/expansion-manager-m-f-d-finoa/23959,"Berlin,
+Germany",Expansion Manager (m/f/d),$56k - $160k,remote,1mo
+Bitwise Asset Management,https://web3.career/head-of-operational-due-diligence-nyc-or-us-remote-bitwiseinvestments/23958,"New York,
+United States",Head of Operational Due Diligence (NYC or US Remote),,executive:remote:operations,1mo
+Binance,https://web3.career/product-analyst-senior-product-analyst-binance/23957,Asia,Product Analyst/Senior Product Analyst,$150k - $185k,analyst:senior,1mo
+QuickNode,https://web3.career/senior-devops-engineer-quicknode/23956,Remote,Senior DevOps Engineer,$120k - $200k,devops:dev:senior:remote,1mo
+NFT,https://web3.career/startup-co-founder-cto-f-m-d-nft-performance/23955,"Berlin,
+Germany",Startup Co-Founder & CTO (f/m/d),$50k - $158k,cto:executive:nft:remote:java,1mo
+Audius,https://web3.career/remote-software-engineer-smart-contracts-solana-ethereum-audiusproject/23954,"San Francisco,
+United States","Remote Software Engineer - Smart Contracts (Solana, Ethereum)",$80k - $200k,remote:dev:smart contract:solidity:solana,1mo
+Neon Labs,https://web3.career/international-accountant-neon-labs/23953,Remote,International Accountant,,accounting:remote:solana,1mo
+CoinDesk & TradeBlock Opportunities,https://web3.career/executive-producer-coindesk-originals-coindesk/23952,"New York,
+United States","Executive Producer, CoinDesk Originals",$70k - $180k,executive,1mo
+Blockstream,https://web3.career/network-engineer-blockstream/23951,"San Francisco,
+United States",Network Engineer,$60k - $180k,dev,1mo
+SwissBorg,https://web3.career/customer-service-agent-swissborg/23950,"Buenos Aires,
+ Argentina",Customer Service Agent,$40k - $80k,customer support,1mo

@@ -1,36 +1,58 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Gemini,https://web3.career/senior-mobile-engineer-nifty-gateway-gemini/13176,"Senior Mobile Engineer, Nifty Gateway",$120k - $200k,dev:mobile:senior:react:react native,5mo
-Gemini,https://web3.career/product-manager-nifty-gateway-gemini/13175,"Product Manager, Nifty Gateway",$80k - $150k,product manager:non tech:ethereum:nft:remote,5mo
-Gemini,https://web3.career/product-designer-nifty-gateway-gemini/13174,"Product Designer, Nifty Gateway",$80k - $150k,design:non tech:ethereum:nft,5mo
-Gemini,https://web3.career/head-of-security-nifty-gateway-gemini/13173,"Head of Security, Nifty Gateway",,executive:security:javascript,5mo
-Gemini,https://web3.career/associate-producer-marketplace-gemini/13172,"Associate, Producer - Marketplace",$70k - $158k,solidity:nft,5mo
-Gemini,https://web3.career/analyst-compliance-governance-gemini/13171,"Analyst, Compliance - Governance",,compliance:analyst,5mo
-Gemini,https://web3.career/critical-operations-analyst-gemini/13170,Critical Operations Analyst,,analyst:operations:remote,5mo
-Gemini,https://web3.career/cloud-infrastructure-engineer-storage-gemini/13169,"Cloud Infrastructure Engineer, Storage",,cloud:dev:java:golang:remote,5mo
-Gemini,https://web3.career/senior-product-manager-retail-eu-and-uk-gemini/13168,"Senior Product Manager, Retail (EU and UK)",$80k - $150k,product manager:non tech:senior:ethereum,5mo
-Gemini,https://web3.career/head-of-asia-pacific-apac-gemini/13167,Head of Asia Pacific (APAC),$79k - $200k,executive:remote,5mo
-Gemini,https://web3.career/sourcing-lead-it-category-gemini/13166,"Sourcing Lead, IT Category",$95k - $200k,lead:remote,5mo
-Gemini,https://web3.career/director-investor-relations-gemini/13165,"Director, Investor Relations",$90k - $200k,executive:finance,5mo
-Gemini,https://web3.career/associate-treasury-operations-gemini/13164,"Associate, Treasury Operations",$60k - $200k,operations,5mo
-Gemini,https://web3.career/associate-financial-planning-analysis-gemini/13163,"Associate, Financial Planning & Analysis",$40k - $150k,finance,5mo
-Gemini,https://web3.career/lead-visual-designer-marketing-gemini/13162,"Lead Visual Designer, Marketing",$40k - $190k,design:non tech:lead:marketing:remote,5mo
-Gemini,https://web3.career/lead-ux-research-gemini/13161,"Lead, UX Research",$40k - $190k,lead:design:non tech,5mo
-Gemini,https://web3.career/senior-data-analytics-engineer-gemini/13160,Senior Data Analytics Engineer,$360k - $500k,stats:dev:senior:remote,5mo
-Bitfinex,https://web3.career/senior-backend-developer-node-remote-es-bitfinex/13159,Senior Backend Developer - Node (Remote) ES,$60k - $180k,remote:backend:dev:javascript:node,5mo
-Fuel Labs,https://web3.career/senior-designer-part-time-fuellabs/13158,Senior Designer [Part - Time],$60k - $120k,design:non tech:senior:remote,5mo
-CoinGecko,https://web3.career/senior-product-manager-l3-coin-gecko/13157,Senior Product Manager (L3),$80k - $150k,product manager:non tech:senior,5mo
-WOO Network,https://web3.career/business-development-woonetwork/13156,Business Development,$26k - $140k,sales:non tech,5mo
-Okcoin,https://web3.career/design-program-manager-okcoin/13155,Design Program Manager,,design:non tech:executive,5mo
-Candao,https://web3.career/crypto-copywriter-candao-3/13152,Crypto copywriter,$0k,copywriting:crypto:nft:dao,5mo
-CANDY,https://web3.career/manager-people-and-culture-hrbp-candy/13151,"Manager, People and Culture (HRBP)",,,5mo
-BlockFi,https://web3.career/director-of-quantitative-risk-blockfi/13150,Director of Quantitative Risk,$70k - $180k,executive,5mo
-Poloniex Crypto Exchange,https://web3.career/digital-crypto-marketing-associate-poloniex-crypto-exchange/13149,Digital Crypto Marketing Associate,$60k - $80k,marketing:non tech:crypto,5mo
-Sapien,https://web3.career/senior-backend-engineer-web3-blockchain-sapien-social-platform/13148,Senior Backend Engineer (Web3/Blockchain),$80k - $100k,backend:dev:senior:blockchain:solidity,5mo
-Bitfinex,https://web3.career/senior-backend-developer-node-remote-fr-bitfinex/13146,Senior Backend Developer - Node (Remote) FR,$60k - $180k,remote:backend:dev:javascript:node,5mo
-BitGo,https://web3.career/director-institutional-sales-emea-bitgo/13145,Director - Institutional Sales (EMEA),$40k - $150k,executive:sales:non tech,5mo
-BitGo,https://web3.career/director-institutional-sales-apac-bitgo/13144,Director - Institutional Sales (APAC),$40k - $150k,executive:sales:non tech,5mo
-BitGo,https://web3.career/associate-institutional-sales-apac-bitgo/13143,Associate - Institutional Sales (APAC),$26k - $140k,sales:non tech,5mo
-Wintermute,https://web3.career/product-manager-institutional-trading-wintermute-trading/13142,"Product Manager, Institutional Trading",$69k - $160k,product manager:non tech,5mo
-Gauntlet Networks,https://web3.career/director-of-people-gauntlet/13141,Director of People,$79k - $200k,executive:remote,5mo
-BitGo,https://web3.career/technical-sourcer-bitgo/13139,Technical Sourcer,$40k - $70k,recruiter:non tech,5mo
-BitGo,https://web3.career/technical-sourcer-bitgo/13138,Technical Sourcer,$40k - $70k,recruiter:non tech,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Nansen.ai,https://web3.career/web-designer-webflow-marketing-nansen/13798,"New York,
+United States","Web Designer, Webflow (Marketing)",,design:non tech:marketing:javascript,5mo
+0xPragma,https://web3.career/marketing-manager-for-crypto-startup-0xpragma/13796,"Berlin,
+Germany",Marketing Manager for Crypto Startup,$28k - $32k,marketing:non tech:crypto:remote,5mo
+Sygnum Bank AG,https://web3.career/client-centricity-success-manager-sygnum/13795,Switzerland,Client Centricity & Success Manager,$29k - $43k,sales:non tech:ethereum,5mo
+OKEx,https://web3.career/head-of-business-development-mena-okex/13793,"Dubai,
+United Arab Emirates",Head of Business Development (MENA),$40k - $150k,executive:sales:non tech,5mo
+3Box Labs,https://web3.career/software-engineer-3box/13790,Remote,Software Engineer,$65k - $180k,dev:remote,5mo
+Careers at Paxful,https://web3.career/product-manager-infosec-paxful/13788,"Tallinn,
+Estonia",Product Manager - InfoSec,,security:product manager:non tech,5mo
+Careers at Paxful,https://web3.career/full-stack-developer-infosec-paxful/13787,"Tallinn,
+Estonia",Full stack Developer – InfoSec,,dev:full stack:security:react:php,5mo
+0xPragma,https://web3.career/crypto-marketing-assistant-0xpragma/13786,"Berlin,
+Germany",Crypto Marketing Assistant,$25k - $30k,marketing:non tech:crypto:nft:remote,5mo
+Crypto.com,https://web3.career/product-designer-global-fintech-startup-crypto-com/13785,"Hong Kong,
+Hong Kong",Product Designer - Global Fintech Startup,,design:non tech:finance,5mo
+Crypto.com,https://web3.career/smart-contract-auditor-crypto-com/13784,United States,Smart Contract Auditor,$72k - $190k,smart contract:solidity:ethereum:javascript:rust,5mo
+Sygnum Bank AG,https://web3.career/intern-people-and-talent-6-months-sygnum/13783,Switzerland,Intern - People and Talent (6 months),,intern:entry level:recruiter:non tech:ethereum,5mo
+Sygnum Bank AG,https://web3.career/product-manager-onboarding-and-crypto-compliance-sygnum/13781,Switzerland,Product Manager (Onboarding and Crypto-Compliance),,compliance:product manager:non tech:crypto:ethereum,5mo
+Crypto.com,https://web3.career/senior-ux-researcher-crypto-com/13780,"Hong Kong,
+Hong Kong",Senior UX Researcher,$60k - $120k,senior:design:non tech,5mo
+IOTA Foundation,https://web3.career/product-owner-researcher-east-africa-iota/13777,Remote,Product Owner / Researcher - East Africa,$115k - $175k,product manager:non tech:remote,5mo
+FreshCut,https://web3.career/creator-partnerships-manager-freshcut/13773,"Los Angeles,
+United States",Creator Partnerships Manager,$26k - $140k,sales:non tech,5mo
+BloxStaking,https://web3.career/content-and-communications-specialist-bloxstaking/13771,Remote,Content and Communications Specialist,$60k - $145k,ethereum:remote,5mo
+OKEx,https://web3.career/graduate-hire-product-associate-p2p-trading-okex/13768,"Hong Kong,
+Hong Kong",(Graduate Hire) Product Associate - P2P Trading,,intern:entry level,5mo
+Bitfury,https://web3.career/monitoring-specialist-for-bitfury-data-centers-bitfury/13767,Canada,Monitoring Specialist for Bitfury Data Centers,,,5mo
+Crypto.com,https://web3.career/it-support-engineer-kr-crypto-com/13766,"Seoul,
+South Korea",IT Support Engineer (KR),$90k - $140k,dev:customer support,5mo
+Immutable,https://web3.career/executive-assistant-immutable/13765,"Sydney,
+Australia",Executive Assistant,$79k - $158k,executive:ethereum,5mo
+Hike,https://web3.career/senior-product-manager-crypto-gaming-very-full-time-remote-hike/13764,"Delhi,
+India","Senior Product Manager - Crypto/Gaming (Very Full Time, Remote)",,remote:full time:game dev:product manager:non tech,5mo
+Zilliqa,https://web3.career/research-analyst-zilliqa/13763,"Zurich,
+Switzerland",Research Analyst,$36k - $120k,analyst:nft,5mo
+Foundation,https://web3.career/senior-technical-sourcer-with-foundation/13762,Remote,Senior Technical Sourcer,$40k - $70k,recruiter:non tech:senior:remote,5mo
+Foundation,https://web3.career/senior-business-recruiter-with-foundation/13761,Remote,Senior Business Recruiter,$40k - $70k,recruiter:non tech:senior:remote,5mo
+OKEx,https://web3.career/head-of-business-development-mea-okex/13760,"Dubai,
+United Arab Emirates",Head of Business Development (MEA),$40k - $150k,executive:sales:non tech,5mo
+MoonPay,https://web3.career/senior-network-engineer-moonpay/13759,"New York,
+United States",Senior Network Engineer,$80k - $200k,dev:senior,5mo
+MoonPay,https://web3.career/senior-network-engineer-moonpay/13758,"Barcelona,
+Spain",Senior Network Engineer,$80k - $200k,dev:senior,5mo
+Gluwa,https://web3.career/blockchain-protocol-engineer-rust-python-c-gluwa/13756,Canada,"Blockchain Protocol Engineer (Rust, Python, C#)",,c:c sharp:c plus plus:dev:python,5mo
+Foundation,https://web3.career/senior-technical-recruiter-with-foundation/13755,Remote,Senior Technical Recruiter,$40k - $70k,recruiter:non tech:senior:remote,5mo
+Foundation,https://web3.career/people-operations-lead-with-foundation/13754,Remote,People Operations Lead,,lead:operations:remote,5mo
+Binance,https://web3.career/customer-service-representative-portuguese-english-binance/13753,"Lisbon,
+Portugal",Customer Service Representative - (Portuguese/English),$40k - $80k,customer support,5mo
+Chainalysis,https://web3.career/director-of-customer-success-chainalysis/13751,"Sydney,
+Australia",Director of Customer Success,,customer support:executive,5mo
+Chainalysis,https://web3.career/director-of-customer-success-chainalysis/13750,"Singapore,
+Singapore",Director of Customer Success,,customer support:executive,5mo
+Busha,https://web3.career/seo-specialist-busha/13749,"Lagos,
+Nigeria",SEO Specialist,,seo:non tech:ethereum:javascript,5mo
+Binance,https://web3.career/office-manager-administrator-binance/13748,"London,
+United Kingdom",Office Manager/Administrator,,,5mo

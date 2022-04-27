@@ -1,36 +1,48 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-WOO Network,https://web3.career/business-account-manager-woonetwork/14461,Business Account Manager,,account manager,4mo
-GSR,https://web3.career/2022-graduate-program-business-development-analyst-new-york-gsr/14460,2022 Graduate Program - Business Development Analyst - New York,,analyst:sales:non tech:intern:entry level,4mo
-GSR,https://web3.career/2022-graduate-program-business-development-analyst-london-gsr/14459,2022 Graduate Program - Business Development Analyst - London,,analyst:sales:non tech:intern:entry level,4mo
-Sygnum Bank AG,https://web3.career/junior-relationship-manager-dlt-fintech-companies-100-sygnum/14458,Junior Relationship Manager DLT & FinTech Companies (100%),$40k - $67k,finance:junior:entry level:marketing:non tech,4mo
-Sygnum Bank AG,https://web3.career/defi-engineer-sygnum/14457,DeFi Engineer,$80k - $160k,dev:defi:react:solidity:ethereum,4mo
-Maple,https://web3.career/growth-manager-maple-finance/14456,Growth Manager,$25k - $120k,marketing:non tech:remote,4mo
-WOO Network,https://web3.career/talent-acquisition-recruiter-woonetwork/14455,Talent Acquisition (Recruiter),$40k - $70k,recruiter:non tech,4mo
-MetaMask,https://web3.career/senior-mobile-engineer-web3-metamask-metamask/14454,Senior Mobile Engineer - Web3 (MetaMask),$120k - $200k,dev:mobile:senior:react:react native,4mo
-WOO Network,https://web3.career/devops-engineer-turkey-woonetwork/14453,DevOps Engineer - Turkey,$60k - $100k,devops:dev:golang:remote,4mo
-Box,https://web3.career/staff-product-manager-apps-boxinc/14452,"Staff Product Manager, Apps",$69k - $160k,product manager:non tech,4mo
-Donut.app,https://web3.career/backend-go-engineer-donut-app/14451,Backend Go Engineer,$65k - $100k,backend:dev:golang:ethereum:ruby,4mo
-Donut.app,https://web3.career/react-native-engineer-donut-app/14450,React Native Engineer,$65k - $85k,dev:react native:mobile:javascript:react,4mo
-NEAR,https://web3.career/business-operations-associate-near/14449,Business Operations Associate,$60k - $200k,operations,4mo
-Box,https://web3.career/staff-product-manager-apps-boxinc/14448,"Staff Product Manager, Apps",$69k - $160k,product manager:non tech,4mo
-Sygnum Bank AG,https://web3.career/solution-architect-sygnum/14447,Solution Architect,$80k,architecture:ethereum:javascript:java:golang,4mo
-Sygnum Bank AG,https://web3.career/solution-architect-sygnum/14446,Solution Architect,$80k,architecture:ethereum:javascript:java:golang,4mo
-OpenSea,https://web3.career/engagement-marketing-lead-opensea/14445,Engagement Marketing Lead,$50k - $120k,lead:marketing:non tech:remote,4mo
-Figment,https://web3.career/graphic-designer-figment/14444,Graphic Designer,$50k - $150k,design:non tech,4mo
-Voice,https://web3.career/senior-blockchain-software-engineer-voice-8/14443,Senior Blockchain Software Engineer,$80k - $200k,dev:senior:blockchain:solidity:solana,4mo
-Autograph,https://web3.career/business-development-director-autograph/14441,Business Development Director,$40k - $150k,sales:non tech:executive:nft,4mo
-Flylance,https://web3.career/blockchain-developer-hyperledger-fabric-flylance/14440,Blockchain Developer (Hyperledger Fabric),$50k - $130k,dev:blockchain:react:ethereum:javascript,4mo
-Voice,https://web3.career/senior-blockchain-software-engineer-voice-8/14437,Senior Blockchain Software Engineer,$80k - $200k,dev:senior:blockchain:solidity:solana,4mo
-Mansa,https://web3.career/director-blockchain-crypto-stealth-video-streaming-company/14436,Director - Blockchain & Crypto,$0k,executive:blockchain:crypto:nft,4mo
-Ripple,https://web3.career/university-recruiter-ripple/14435,University Recruiter,$40k - $70k,recruiter:non tech,4mo
-Sacred Finance,https://web3.career/defi-strategist-sacred-finance-1/14434,DeFi Strategist,$60k - $80k,defi:solidity:ethereum,4mo
-Crypto.com,https://web3.career/trading-data-analyst-quant-trading-global-fintech-startup-crypto-com/14433,"Trading Data Analyst, Quant Trading - Global Fintech Startup",,analyst:data science:finance:remote,4mo
-ARXUM GmbH,https://web3.career/software-developer-customer-projects-m-f-d-3481022-software-developer-customer-projects-m-f-d/14432,"Software Developer Customer Projects (m,f,d)",$60k - $180k,dev:javascript:remote,4mo
-RECUR,https://web3.career/gaming-producer-sports-remote-recur/14427,Gaming Producer - Sports (Remote),,remote:game dev:ethereum:nft,4mo
-MoonPay,https://web3.career/sourcing-specialist-technology-moonpay/14426,Sourcing Specialist (Technology),,,4mo
-BitGo,https://web3.career/technical-support-engineer-weekend-shift-bitgo/14425,Technical Support Engineer - Weekend Shift,$90k - $140k,dev:customer support,4mo
-BitGo,https://web3.career/technical-support-engineer-bitgo/14424,Technical Support Engineer,$90k - $140k,dev:customer support,4mo
-BitGo,https://web3.career/technical-support-engineer-bitgo/14423,Technical Support Engineer,$90k - $140k,dev:customer support,4mo
-Binance,https://web3.career/data-application-lead-binance/14421,Data Application Lead,$95k - $200k,lead:remote,4mo
-Blockstream,https://web3.career/sales-operations-manager-blockstream/14419,Sales Operations Manager,,operations:sales:non tech,4mo
-Syndica.io,https://web3.career/solidity-smart-contract-engineer-syndica-io/14418,Solidity/Smart Contract Engineer,$0k,dev:smart contract:solidity:web3js:solana,4mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Aave,https://web3.career/copy-editor-aave/15139,United Kingdom,Copy Editor,,,4mo
+Aave,https://web3.career/content-writer-aave/15138,United Kingdom,Content Writer,$13k - $45k,copywriting,4mo
+Aave,https://web3.career/senior-react-native-developer-fintech-remote-friendly-aave/15137,United Kingdom,"Senior React Native Developer, FinTech (Remote Friendly)",,remote:dev:finance:react native:mobile,4mo
+Aave,https://web3.career/senior-fullstack-engineer-fintech-remote-friendly-aave/15136,United Kingdom,"Senior Fullstack Engineer, FinTech (Remote Friendly)",,remote:dev:finance:full stack:senior,4mo
+Aave,https://web3.career/senior-frontend-engineer-fintech-remote-friendly-aave/15135,United Kingdom,"Senior Frontend Engineer, FinTech (Remote Friendly)",,remote:dev:finance:front end:senior,4mo
+Aave,https://web3.career/senior-backend-engineer-fintech-remote-friendly-aave/15134,United Kingdom,"Senior Backend Engineer, FinTech (Remote Friendly)",$60k - $180k,remote:backend:dev:finance:senior,4mo
+Aave,https://web3.career/senior-product-designer-aave/15133,"New York,
+United States",Senior Product Designer,$60k - $120k,design:non tech:senior,4mo
+Curve Labs,https://web3.career/technical-writer-researcher-web3-blockchain-ethereum-curve-labs/15132,"Berlin,
+Germany","Technical Writer / Researcher (Web3, Blockchain, Ethereum)",$60k - $104k,analyst:blockchain:remote,4mo
+Chainlabs,https://web3.career/cto-for-nft-analytics-platform-metaverse-crypto-data-marketplace-chainlabs-1/15131,"San Francisco,
+United States",CTO for NFT Analytics Platform (Metaverse / Crypto Data Marketplace),$50k - $130k,stats:executive:metaverse:crypto:nft,4mo
+Ethereum Push Notification Service,https://web3.career/vp-of-marketing-ethereum-push-notification-service/15130,United States,VP of Marketing,$0k,marketing:non tech:executive:ethereum,4mo
+Ethereum Push Notification Service,https://web3.career/react-native-ethereum-push-notification-service/15129,United States,React Native,$0k,react native:mobile:javascript:react:react native,4mo
+Ethereum Push Notification Service,https://web3.career/devops-automation-engineer-ethereum-push-notification-service/15128,United States,Devops Automation Engineer,$0k,devops:dev:ethereum:ruby,4mo
+Ethereum Push Notification Service,https://web3.career/backend-rust-blockchain-engineer-ethereum-push-notification-service/15127,United States,Backend [Rust] + Blockchain Engineer,$0k,backend:dev:rust:blockchain:solana,4mo
+MetaMask,https://web3.career/javascript-engineer-metamask/15126,"San Francisco,
+United States",JavaScript Engineer,$56k - $160k,dev:javascript:react:ethereum:node,4mo
+MetaMask,https://web3.career/java-software-engineer-protocol-engineering-metamask/15125,"San Francisco,
+United States",Java Software Engineer (Protocol Engineering),$26k - $120k,dev:java:ethereum,4mo
+MetaMask,https://web3.career/head-of-research-and-development-protocol-metamask/15124,Uganda,Head of Research and Development (Protocol),$79k - $158k,executive:ethereum,4mo
+MetaMask,https://web3.career/golang-software-engineer-goquorum-metamask/15123,"San Francisco,
+United States",Golang Software Engineer (GoQuorum),$40k - $134k,dev:golang:ethereum,4mo
+MetaMask,https://web3.career/golang-backend-engineer-codefi-metamask/15122,"San Francisco,
+United States",Golang Backend Engineer (Codefi),$33k - $160k,backend:dev:golang:ethereum,4mo
+MetaMask,https://web3.career/fullstack-engineer-codefi-metamask/15121,United States,Fullstack engineer (Codefi),$80k - $130k,dev:full stack:web3js:react:solidity,4mo
+MetaMask,https://web3.career/director-of-engineering-infura-metamask/15120,United States,Director of Engineering (Infura),$79k - $158k,executive:ethereum,4mo
+MetaMask,https://web3.career/director-of-engineering-codefi-metamask/15119,United States,Director of Engineering (Codefi),$79k - $158k,executive:ethereum,4mo
+MetaMask,https://web3.career/devops-software-engineer-protocol-engineering-metamask/15118,"San Francisco,
+United States",DevOps Software Engineer (Protocol Engineering),,devops:dev:react:ethereum:java,4mo
+MetaMask,https://web3.career/data-scientist-vertical-applications-metamask/15117,United States,Data Scientist (Vertical Applications),,data science:ethereum:scala,4mo
+MetaMask,https://web3.career/data-engineer-remote-metamask/15116,United Kingdom,Data Engineer (Remote),,remote:data science:dev:ethereum:java,4mo
+MetaMask,https://web3.career/data-engineer-remote-metamask/15115,France,Data Engineer (Remote),,remote:data science:dev:ethereum:java,4mo
+MetaMask,https://web3.career/data-engineer-remote-metamask/15114,Germany,Data Engineer (Remote),,remote:data science:dev:ethereum:java,4mo
+MetaMask,https://web3.career/data-engineer-remote-metamask/15113,Spain,Data Engineer (Remote),,remote:data science:dev:ethereum:java,4mo
+MetaMask,https://web3.career/data-engineer-remote-metamask/15112,Poland,Data Engineer (Remote),,remote:data science:dev:ethereum:java,4mo
+MetaMask,https://web3.career/data-engineer-remote-metamask/15111,"San Francisco,
+United States",Data Engineer (Remote),,remote:data science:dev:ethereum:java,4mo
+MetaMask,https://web3.career/data-engineer-metamask/15110,"San Francisco,
+United States",Data Engineer,,data science:dev:ethereum:scala:java,4mo
+MetaMask,https://web3.career/community-engineer-consensys-protocols-metamask/15109,United States,Community Engineer (ConsenSys Protocols),,community manager:non tech:dev:ethereum:javascript,4mo
+MetaMask,https://web3.career/backend-engineer-infura-metamask/15108,"San Francisco,
+United States",Backend Engineer (Infura),$65k - $125k,backend:dev:ethereum:golang,4mo
+MetaMask,https://web3.career/associate-backend-engineer-infura-metamask/15107,United States,Associate Backend Engineer (Infura),$65k - $125k,backend:dev:ethereum:golang,4mo
+MetaMask,https://web3.career/senior-product-designer-metamask/15106,Israel,Senior Product Designer,$60k - $120k,design:non tech:senior:ethereum,4mo
+MetaMask,https://web3.career/senior-designer-consensys-nft-metamask/15105,"New York,
+United States",Senior Designer (ConsenSys NFT),$60k - $120k,design:non tech:senior:nft:ethereum,4mo

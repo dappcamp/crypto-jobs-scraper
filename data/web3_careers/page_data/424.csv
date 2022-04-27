@@ -1,36 +1,65 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-LATOKEN,https://web3.career/product-manager-p2p-payments-latoken/8626,Product Manager P2P Payments,$69k - $160k,product manager:non tech,6mo
-Nodle,https://web3.career/blockchain-developer-nodle/8625,Blockchain Developer,$79k - $190k,dev:blockchain:rust:remote,6mo
-Bitwave,https://web3.career/marketing-program-manager-bitwave/8624,Marketing Program Manager,$70k - $158k,marketing:non tech:executive,6mo
-Terraform Labs,https://web3.career/communications-associate-terra/8623,Communications Associate,$56k - $160k,remote,6mo
-Terraform Labs,https://web3.career/bd-ecosystem-operations-associate-terra/8622,BD / Ecosystem Operations Associate,$60k - $200k,operations,6mo
-Flipside Crypto,https://web3.career/executive-assistant-flipsidecrypto/8621,Executive Assistant,$70k - $180k,executive,6mo
-Terraform Labs,https://web3.career/business-development-manager-terra/8620,Business Development Manager,$26k - $140k,sales:non tech,6mo
-LATOKEN,https://web3.career/sales-manager-crypto-blockchain-fin-tech-x2-latoken/8619,Sales Manager - Crypto / Blockchain / Fin Tech x2,$40k - $140k,finance:sales:non tech:blockchain:crypto,6mo
-Staking Rewards,https://web3.career/community-analyst-staking-rewards/8618,Community Analyst,,analyst:community manager:non tech:remote,6mo
-Coinify,https://web3.career/operations-specialist-coinify/8617,Operations Specialist,$60k - $200k,operations,6mo
-Nodle,https://web3.career/executive-assistant-nodle/8616,Executive Assistant,$70k - $180k,executive,6mo
-Venkman,https://web3.career/blockchain-integration-engineer-solidity-node-js-venkman-holdings-inc/8615,"Blockchain Integration Engineer (Solidity, Node.js)",$60k - $155k,javascript:dev:node:blockchain:solidity,6mo
-Figment,https://web3.career/protocol-engineer-datahub-figment/8590,"Protocol Engineer, DataHub",$54k - $150k,dev:solidity:javascript:golang:rust,6mo
-ChainSafe Systems,https://web3.career/rust-golang-typescript-solidity-devs-chainsafe-systems/8589,Rust Golang Typescript Solidity Devs,$60k - $120k,golang:rust:solidity:remote,6mo
-Argent,https://web3.career/senior-backend-engineer-argent/8588,Senior Backend Engineer,$90k - $120k,backend:dev:senior:ethereum:javascript,6mo
-"SundaeSwap Labs, Inc.",https://web3.career/senior-smart-contract-engineer-sundaeswap-labs-inc/8587,Senior Smart Contract Engineer,$120k - $250k,dev:senior:smart contract:remote,6mo
-Rolla,https://web3.career/senior-react-native-engineer-a-defi-app-rolla/8586,Senior React Native Engineer â¢ DeFi App,$65k - $200k,dev:react native:mobile:javascript:react,6mo
-Ackee Blockchain,https://web3.career/blockchain-developer-auditor-solidity-ackee-blockchain/8585,Blockchain Developer & Auditor Solidity,$52k - $160k,dev:blockchain:solidity:rust:remote,6mo
-Rolla,https://web3.career/senior-frontend-engineer-a-defi-rolla/8584,Senior Frontend Engineer â¢ DeFi,$70k - $190k,dev:front end:senior:defi:react,6mo
-Ava Labs,https://web3.career/technical-project-manager-defi-dapps-avalabs/8583,Technical Project Manager (DeFi / dApps),,project manager:non tech:defi:solidity,6mo
-Ava Labs,https://web3.career/technical-product-manager-avalabs/8582,Technical Product Manager,$69k - $160k,product manager:non tech,6mo
-Ava Labs,https://web3.career/technical-blockchain-evangelist-avalabs/8581,Technical Blockchain Evangelist,$60k - $120k,blockchain:javascript:golang,6mo
-Ava Labs,https://web3.career/senior-data-scientist-avalabs/8580,Senior Data Scientist,$130k - $160k,data science:senior,6mo
-Ava Labs,https://web3.career/product-designer-avalabs/8579,Product Designer,$50k - $150k,design:non tech,6mo
-Ava Labs,https://web3.career/lead-product-designer-avalabs/8578,Lead Product Designer,$40k - $190k,design:non tech:lead,6mo
-Ava Labs,https://web3.career/technical-recruiter-avalabs/8577,Technical Recruiter,$40k - $70k,recruiter:non tech,6mo
-Ava Labs,https://web3.career/recruitment-coordinator-avalabs/8576,Recruitment Coordinator,$40k - $70k,recruiter:non tech,6mo
-Ava Labs,https://web3.career/office-manager-avalabs/8575,Office Manager,,,6mo
-Ava Labs,https://web3.career/executive-assistant-to-the-ceo-avalabs/8574,Executive Assistant to the CEO,$70k - $180k,executive,6mo
-Ava Labs,https://web3.career/social-media-manager-avalabs/8573,Social Media Manager,$33k - $85k,social media:non tech,6mo
-Ava Labs,https://web3.career/product-marketing-director-avalabs/8572,Product Marketing Director,$70k - $158k,executive:marketing:non tech,6mo
-Ava Labs,https://web3.career/marketing-operations-manager-avalabs/8571,Marketing Operations Manager,,marketing:non tech:operations,6mo
-Ava Labs,https://web3.career/marketing-designer-avalabs/8570,Marketing Designer,,design:non tech:marketing,6mo
-Ava Labs,https://web3.career/director-performance-marketing-avalabs/8569,"Director, Performance Marketing",$70k - $158k,executive:marketing:non tech,6mo
-Ava Labs,https://web3.career/community-growth-director-avalabs/8568,Community Growth Director,$45k - $150k,community manager:non tech:executive:marketing,6mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Chainlink Labs,https://web3.career/senior-technical-documentation-writer-chainlink/2425,Remote,Senior Technical Documentation Writer,,analyst:senior:remote,6mo
+Qubit9 GmbH,https://web3.career/senior-smart-contract-engineer-m-f-d-qubit9/2424,"Hamburg,
+Germany",Senior Smart Contract Engineer (m/f/d),$120k - $250k,dev:senior:smart contract,6mo
+Figure,https://web3.career/senior-marketing-manager-marketplace-figure/2423,"San Francisco,
+United States","Senior Marketing Manager, Marketplace",$46k - $109k,marketing:non tech:senior,6mo
+Cake Pte Ltd,https://web3.career/business-intelligence-data-engineer-microstrategy-architect-cakedefi/2422,"Singapore,
+Singapore",Business Intelligence & Data Engineer (MicroStrategy Architect),,architecture:data science:dev:javascript,6mo
+Figure,https://web3.career/staff-software-development-engineer-in-test-figure/2421,"Seattle,
+United States",Staff Software Development Engineer in Test,$50k - $150k,quality assurance:dev:react:java,6mo
+Okcoin,https://web3.career/manager-operational-strategy-okcoin/2420,"San Francisco,
+United States","Manager, Operational Strategy",$60k - $200k,operations,6mo
+Gauntlet Networks,https://web3.career/content-marketing-manager-gauntlet/2419,Remote,Content Marketing Manager,$25k - $120k,marketing:non tech:remote,6mo
+Paradigm,https://web3.career/global-director-of-marketing-remote-paradigm62/2418,"New York,
+United States",Global Director of Marketing - Remote,$45k - $158k,remote:executive:marketing:non tech,6mo
+Paradigm,https://web3.career/senior-software-development-engineer-in-test-sdet-remote-paradigm62/2417,"New York,
+United States",Senior Software Development Engineer in Test (SDET) - Remote,,quality assurance:remote:dev:senior:javascript,6mo
+Paradigm,https://web3.career/solutions-engineer-remote-paradigm62/2416,"New York,
+United States",Solutions Engineer - Remote,$50k - $150k,remote:dev:react,6mo
+Bitcoin Depot,https://web3.career/customer-insights-manager-bitcoindepot/2415,"Atlanta,
+United States",Customer Insights Manager,,,6mo
+Kryha,https://web3.career/full-stack-developer-mid-level-kryhaio/2414,"Amsterdam,
+Netherlands",Full Stack Developer (Mid-Level),$65k - $180k,dev:full stack:react:javascript:node,6mo
+Kryha,https://web3.career/full-stack-developer-entry-level-kryhaio/2413,"Amsterdam,
+Netherlands",Full Stack Developer (Entry-level),$65k - $180k,dev:full stack:react:javascript:node,6mo
+Coin Metrics,https://web3.career/business-analyst-coinmetrics/2412,"Boston,
+United States",BUSINESS ANALYST,$40k - $120k,analyst,6mo
+GSR,https://web3.career/software-engineering-manager-blockchain-us-gsr/2410,"New York,
+United States",Software Engineering Manager - Blockchain (US),$50k - $300k,executive:dev:blockchain,6mo
+GSR,https://web3.career/defi-full-stack-engineer-gsr/2409,"Los Angeles,
+United States",DeFi - Full Stack Engineer,$93k - $150k,dev:full stack:defi,6mo
+GSR,https://web3.career/smart-contract-engineer-solidity-london-gsr/2408,"London,
+United Kingdom",Smart Contract Engineer (Solidity) - London,$72k - $200k,dev:smart contract:solidity,6mo
+Paradigm,https://web3.career/liquidity-management-associate-europe-remote-paradigm62/2407,"Zurich,
+Switzerland",Liquidity Management Associate Europe - Remote,$29k - $108k,remote:sales:non tech,6mo
+BitMEX,https://web3.career/it-support-engineer-bitmex/2406,"Singapore,
+Singapore",IT Support Engineer,$90k - $140k,dev:customer support,6mo
+CoinDesk & TradeBlock Opportunities,https://web3.career/senior-project-manager-indexes-coindesk/2405,United States,"Senior Project Manager, Indexes",,project manager:non tech:senior,6mo
+Tendermint,https://web3.career/customer-support-agent-remote-tendermint/2404,"Berlin,
+Germany",Customer Support Agent - Remote,$40k - $80k,remote:customer support,6mo
+Bitcoin Depot,https://web3.career/regional-sales-executive-chicago-bitcoindepot/2403,"Chicago,
+United States",Regional Sales Executive - Chicago,$40k - $150k,executive:sales:non tech:ethereum,6mo
+Bitcoin Depot,https://web3.career/regional-sales-executive-los-angeles-bitcoindepot/2402,"Los Angeles,
+United States",Regional Sales Executive - Los Angeles,$40k - $150k,executive:sales:non tech:ethereum,6mo
+Set Labs,https://web3.career/software-engineer-front-end-setlabs/2401,"San Francisco,
+United States",Software Engineer - Front End,$50k - $144k,dev:front end:react:solidity:javascript,6mo
+ExPopulus,https://web3.career/ethereum-blockchain-developer-expopulus/2400,"San Francisco,
+United States",Ethereum Blockchain Developer,$50k - $170k,dev:blockchain,6mo
+FTX US,https://web3.career/administrative-assistant-part-time-ftxus/2399,"Berkeley, CA",Administrative Assistant (Part Time),$11k - $25k,part time,6mo
+Figure,https://web3.career/business-operations-analyst-dfs-figure/2398,"San Francisco,
+United States","Business Operations Analyst, DFS",,analyst:operations,6mo
+Ledger,https://web3.career/sales-manager-emea-ledger/2397,"Zurich,
+Switzerland",Sales Manager EMEA,$26k - $140k,sales:non tech,6mo
+RECUR,https://web3.career/senior-ux-designer-gaming-remote-recur/2396,"Los Angeles,
+United States","Senior UX Designer, Gaming (Remote)",$50k - $135k,remote:design:non tech:game dev:senior,6mo
+Okcoin,https://web3.career/software-engineer-onchain-defi-okcoin/2395,"San Francisco,
+United States","Software Engineer, Onchain / DeFi",$95k - $260k,dev:defi:java,6mo
+Akash Network,https://web3.career/head-of-ecosystem-growth-akashnetwork/2393,Remote,Head of Ecosystem Growth,$70k - $158k,executive:marketing:non tech:remote,6mo
+Bitcoin Depot,https://web3.career/business-development-representative-charlotte-bitcoindepot/2392,"Charlotte,
+United States",Business Development Representative - Charlotte,$29k - $43k,sales:non tech:ethereum,6mo
+Chainalysis,https://web3.career/lead-product-manager-investments-chainalysis/2391,"London,
+United Kingdom","Lead Product Manager, Investments",,lead:product manager:non tech,6mo
+BitMEX,https://web3.career/compliance-officer-fcc-bitmex/2390,"Singapore,
+Singapore","Compliance Officer, FCC",,compliance,6mo
+US Cloud,https://web3.career/microsoft-systems-engineer-uscloud/2389,United States,Microsoft Systems Engineer,$150k - $200k,dev:sys admin,6mo

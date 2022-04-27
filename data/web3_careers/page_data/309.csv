@@ -1,36 +1,58 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-VolumeFi,https://web3.career/full-stack-rust-engineer-volume-finance/13257,Full-Stack Rust Engineer,$108k - $220k,dev:full stack:rust:ethereum:golang,5mo
-OpenSea,https://web3.career/recruiting-coordinator-opensea/13256,Recruiting Coordinator,$40k - $70k,recruiter:non tech,5mo
-Holaplex,https://web3.career/vp-of-marketing-holaplex/13254,VP of Marketing,$70k - $158k,marketing:non tech:executive:ethereum:nft,5mo
-Parity Technologies,https://web3.career/people-operations-manager-m-f-d-parity/13253,People Operations Manager (m/f/d),$60k - $200k,operations,5mo
-BitGo,https://web3.career/product-marketing-manager-bitgo/13252,Product Marketing Manager,$45k - $130k,marketing:non tech,5mo
-Binance,https://web3.career/project-manager-customer-service-binance/13251,Project Manager (Customer Service),,customer support:project manager:non tech:remote,5mo
-Alchemy,https://web3.career/social-media-wizard-alchemy/13250,Social Media Wizard,$33k - $85k,social media:non tech,5mo
-Bitski,https://web3.career/graphic-motion-designer-bitski/13249,Graphic/Motion Designer,$60k - $150k,design:non tech:nft,5mo
-DFINITY,https://web3.career/software-engineer-programming-languages-dfinity/13248,Software Engineer - Programming Languages,$75k - $190k,dev:rust,5mo
-DFINITY,https://web3.career/software-engineer-programming-languages-dfinity/13247,Software Engineer - Programming Languages,$75k - $190k,dev:rust,5mo
-Mycelium,https://web3.career/frontend-web3-developer-mycelium/13243,Frontend Web3 Developer,$50k - $200k,dev:front end:node,5mo
-Wirex Limited,https://web3.career/fraud-analyst-wirexlimited/13242,Fraud Analyst,$60k - $185k,analyst:security,5mo
-BitGo,https://web3.career/operations-manager-bitgo-gmbh-bitgo/13241,Operations Manager (BitGo GmbH),$80k - $110k,operations:remote,5mo
-BitGo,https://web3.career/compliance-specialist-transaction-monitoring-bitgo/13240,Compliance Specialist - Transaction Monitoring,,compliance,5mo
-Alumni Ventures Group,https://web3.career/managing-partner-blockchain-fund-alumni-ventures-group-1/13239,"Managing Partner, Blockchain Fund",$50k - $150k,blockchain,5mo
-Tendermint,https://web3.career/head-of-user-acquisition-tendermint/13236,Head of User Acquisition,$70k - $158k,executive:marketing:non tech,5mo
-Stacked,https://web3.career/senior-software-engineer-backend-remote-us-stacked-invest/13235,Senior Software Engineer - Backend (Remote US),$60k - $180k,remote:backend:dev:senior,5mo
-Stacked,https://web3.career/midlevel-software-engineer-backend-remote-us-stacked-invest/13234,Midlevel Software Engineer - Backend (Remote US),$60k - $180k,remote:backend:dev,5mo
-Stacked,https://web3.career/lead-react-native-engineer-remote-us-stacked-invest/13233,Lead React Native Engineer (Remote - US),$100k - $200k,remote:dev:lead:react native:mobile,5mo
-Stacked,https://web3.career/engineering-manager-back-end-remote-us-stacked-invest/13232,Engineering Manager - Back End (Remote - US),$140k - $180k,executive:remote:backend,5mo
-Protocol Labs,https://web3.career/technical-recruiter-protocol/13231,Technical Recruiter,,recruiter:non tech:remote,5mo
-CANDY,https://web3.career/technical-recruiter-entry-level-candy/13230,Technical Recruiter (Entry-Level),$40k - $70k,recruiter:non tech,5mo
-Blockdaemon,https://web3.career/accounting-manager-blockdaemon/13229,Accounting Manager,$25k - $150k,accounting,5mo
-Crypto.com,https://web3.career/devops-engineer-global-fintech-startup-crypto-com/13227,DevOps Engineer - Global Fintech Startup,,devops:dev:finance:javascript:node,5mo
-Coinsquare,https://web3.career/chief-anti-money-laundering-officer-camlo-coinsquare/13226,Chief Anti Money Laundering Officer (CAMLO),$79k - $158k,executive:ethereum,5mo
-BlockFi,https://web3.career/underwriting-manager-blockfi/13225,Underwriting Manager,,,5mo
-Crypto.com,https://web3.career/cards-portfolio-manager-crypto-com/13222,Cards Portfolio Manager,$120k - $225k,finance:nft,5mo
-Amun 21Shares,https://web3.career/blockchain-architect-amun/13221,Blockchain Architect,$80k,architecture:blockchain:solidity:solana:ethereum,5mo
-Chainalysis,https://web3.career/account-executive-government-and-commercial-sub-saharan-africa-dubai-based-chainalysis/13220,"Account Executive, Government and Commercial, Sub-Saharan Africa (Dubai Based)",$70k - $180k,executive,5mo
-Chainalysis,https://web3.career/account-executive-commercial-iberia-chainalysis/13219,"Account Executive, Commercial, Iberia",$70k - $180k,executive,5mo
-Kraken Digital Asset Exchange,https://web3.career/product-strategy-manager-kraken/13218,Product Strategy Manager,$56k - $160k,remote,5mo
-11:FS,https://web3.career/principal-competitor-strategist-11fs/13217,Principal Competitor Strategist,$70k - $180k,executive,5mo
-Aave,https://web3.career/events-coordinator-aave/13216,Events Coordinator,,,5mo
-Aave,https://web3.career/senior-product-designer-aave/13215,Senior Product Designer,$60k - $120k,design:non tech:senior,5mo
-Aave,https://web3.career/social-media-manager-aave/13214,Social Media Manager,$33k - $85k,social media:non tech,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Gnosis,https://web3.career/community-support-manager-m-w-d-gnosis/13907,"Berlin,
+Germany",Community Support Manager (m/w/d),,community manager:non tech:customer support:ethereum:node,5mo
+SwissBorg,https://web3.career/french-customer-service-agent-swissborg/13904,"Tallinn,
+Estonia",French Customer Service Agent,$40k - $80k,customer support,5mo
+Maple,https://web3.career/operations-manager-maple-finance/13903,Remote,Operations Manager,$80k - $110k,operations:remote,5mo
+OKEx,https://web3.career/senior-it-officer-assistant-manager-in-house-okex/13902,"Hong Kong,
+Hong Kong",Senior IT Officer/ Assistant Manager (in-house),$78k - $200k,senior,5mo
+Bitfury,https://web3.career/senior-backend-developer-go-solidity-bitfury/13901,"London,
+United Kingdom","Senior Backend Developer (Go, Solidity)",$33k - $160k,backend:dev:golang:senior:solidity,5mo
+Bitcoin.com,https://web3.career/defi-full-stack-engineer-financial-services-bitcoin-com/13900,"Tokyo,
+Japan","DeFi Full Stack Engineer, Financial Services",,dev:finance:full stack:defi:solidity,5mo
+WOO Network,https://web3.career/investment-analyst-woonetwork/13898,"Taipei,
+Taiwan",Investment Analyst,,analyst:finance,5mo
+Vezgo,https://web3.career/cto-vezgo/13897,"Montreal,
+Canada",CTO,$115k - $150k,remote:executive:crypto:react:react native,5mo
+Crypto.com,https://web3.career/blockchain-security-engineer-backend-javascript-ireland-crypto-com/13896,"Dublin,
+Ireland",Blockchain Security Engineer (Backend) - Javascript (Ireland),$65k - $150k,backend:dev:javascript:security:blockchain,5mo
+Homberger Personalberatung für Kommunikation,https://web3.career/content-specialist-80-100-3443293-content-specialist-80-100/13895,Remote,Content Specialist (80%-100%),$25k - $96k,marketing:non tech:copywriting:remote,5mo
+Nuri,https://web3.career/customer-support-agent-nuri/13892,"Berlin,
+Germany",Customer Support Agent,$40k - $80k,customer support:remote,5mo
+Binance,https://web3.career/senior-qa-engineer-binance/13891,Remote,Senior QA Engineer,$30k - $50k,dev:quality assurance:senior:remote,5mo
+Blockchain.com,https://web3.career/accounting-manager-corporate-accounting-blockchain/13890,"New York,
+United States",Accounting Manager - Corporate Accounting,$25k - $150k,accounting,5mo
+Next Big Thing AG,https://web3.career/cto-and-co-founder-f-m-x-for-zero-defects-our-saas-startup-in-the-field-of-industrial-quality-management-nextbigthing/13889,"Berlin,
+Germany","CTO and co-founder (f/m/x) for ZERO defects, our SaaS startup in the field of industrial quality management",,executive:saas:remote:cto,5mo
+Stacked,https://web3.career/principal-software-engineer-mobile-stacked-invest/13887,Remote,Principal Software Engineer - Mobile,,dev:mobile:executive:remote,5mo
+Stacked,https://web3.career/principal-software-engineer-backend-stacked-invest/13886,Remote,Principal Software Engineer - Backend,$140k - $300k,backend:dev:executive:remote,5mo
+Immutable,https://web3.career/head-of-product-marketing-immutable/13885,"Sydney,
+Australia",Head of Product Marketing,$70k - $158k,executive:marketing:non tech:product manager:ethereum,5mo
+Crypto.com,https://web3.career/associate-strategy-new-ventures-sg-global-fintech-startup-crypto-com/13884,"Singapore,
+Singapore","Associate, Strategy & New Ventures (SG) - Global Fintech Startup",$40k - $150k,finance,5mo
+Binance,https://web3.career/compliance-manager-mlro-portugal-binance/13881,"Lisbon,
+Portugal",Compliance Manager/MLRO - Portugal,,compliance,5mo
+Vertalo,https://web3.career/sales-executive-austin-tx-institutional-finance-real-estate-vertalo/13880,"Austin,
+United States","Sales Executive, Austin, TX (Institutional Finance, Real Estate)",$40k - $140k,executive:finance:sales:non tech,5mo
+WOO Network,https://web3.career/business-intelligence-woonetwork/13879,"Taipei,
+Taiwan",Business Intelligence,,,5mo
+OKEx,https://web3.career/product-manager-fiat-product-okex/13878,"Hong Kong,
+Hong Kong",Product Manager - Fiat Product,$69k - $160k,product manager:non tech,5mo
+Eco,https://web3.career/technical-recruiter-econetwork/13877,Remote,Technical Recruiter,,recruiter:non tech:remote,5mo
+Eco,https://web3.career/recruiting-coordinator-econetwork/13876,Remote,Recruiting Coordinator,,recruiter:non tech:remote,5mo
+Next Big Thing AG,https://web3.career/co-founder-and-cpo-f-m-x-nextbigthing/13875,"Berlin,
+Germany",Co-Founder and CPO (f/m/x),$79k - $200k,executive:remote,5mo
+ONCARE GmbH,https://web3.career/blockchain-developer-f-m-d-medical-industry-3453142-blockchain-developer-f-m-d-medical-industry/13871,Remote,Blockchain Developer (f/m/d) - Medical Industry,$50k - $120k,dev:blockchain:javascript:node:remote,5mo
+BitGo,https://web3.career/data-analyst-bitgo/13870,"Delhi,
+India",Data Analyst,,analyst:data science:javascript:scala:java,5mo
+Kangaroo,https://web3.career/senior-blockchain-engineer-kangaroointeractive/13869,"Los Angeles,
+United States",Senior Blockchain Engineer,$100k - $150k,dev:senior:blockchain:react:solidity,5mo
+Crypto.com,https://web3.career/java-developer-exchange-spot-global-fintech-startup-crypto-com/13868,United Kingdom,Java Developer (Exchange Spot) - Global Fintech Startup,,dev:finance:java,5mo
+Chainlink Labs,https://web3.career/director-of-index-products-chainlink/13867,Remote,Director of Index Products,$79k - $200k,executive:remote,5mo
+Crypto.com,https://web3.career/blockchain-security-engineer-backend-javascript-ireland-crypto-com/13866,"Dublin,
+Ireland",Blockchain Security Engineer (Backend) - Javascript (Ireland),$65k - $150k,backend:dev:javascript:security:blockchain,5mo
+Intelli Adv,https://web3.career/crypto-nft-sorare-fantasy-soccer-analyst-trader-intelli-adv/13865,India,Crypto NFT (Sorare Fantasy Soccer) Analyst & Trader,$31k - $37k,analyst:trader:crypto:nft,5mo
+"SundaeSwap Labs, Inc.",https://web3.career/chief-financial-officer-sundaeswap/13863,Remote,Chief Financial Officer,$40k - $225k,executive:finance:remote,5mo
+Spring Labs,https://web3.career/product-manager-springlabs/13862,"Los Angeles,
+United States",Product Manager,$69k - $160k,product manager:non tech,5mo
+Chainlink Labs,https://web3.career/data-products-market-analysis-manager-chainlink/13861,Remote,Data Products - Market Analysis Manager,$60k - $150k,solana:ethereum:remote,5mo

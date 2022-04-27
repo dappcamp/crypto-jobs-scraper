@@ -1,36 +1,54 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Crypto.com,https://web3.career/product-manager-crypto-com/21905,Product Manager,$69k - $160k,product manager:non tech,2mo
-Proxy,https://web3.career/web3-strategy-and-marketing-intern-paid-proxychatxyz/21904,Web3 Strategy and Marketing Intern (Paid),$0k,intern:entry level:marketing:non tech:nft,2mo
-Enapter,https://web3.career/sustainability-manager-m-f-d-enapter/21903,Sustainability Manager (m/f/d),$56k - $160k,remote,2mo
-ONCARE GmbH,https://web3.career/associate-to-the-ceo-oncare/21902,Associate to the CEO,$79k - $200k,executive:remote,2mo
-Binance,https://web3.career/senior-product-manager-business-operating-platform-binance/21901,Senior Product Manager - Business Operating Platform,$80k - $150k,product manager:non tech:senior:remote,2mo
-Binance,https://web3.career/project-manager-crm-cms-binance/21900,Project Manager (CRM/CMS),,crm:project manager:non tech:remote,2mo
-IOVLabs,https://web3.career/senior-researcher-developer-iovlabs/21899,Senior Researcher Developer,$85k - $200k,dev:senior:remote,2mo
-Binance,https://web3.career/product-manager-merchant-solutions-binance/21898,Product Manager - Merchant Solutions,$115k - $175k,product manager:non tech:remote,2mo
-Leaf Group,https://web3.career/community-and-project-manager-saatchi-art-leafgroup/21897,Community and Project Manager - Saatchi Art,,community manager:non tech:project manager:remote:nft,2mo
-Consensys,https://web3.career/software-engineer-metamask-core-consensys/21896,Software Engineer (MetaMask Core),$50k - $150k,dev:remote:react:ethereum:javascript,2mo
-Consensys,https://web3.career/senior-devops-engineer-office-of-the-cto-consensys/21895,Senior DevOps Engineer - Office of the CTO,$95k - $250k,executive:devops:dev:senior:remote,2mo
-Crypto.com,https://web3.career/campaign-analyst-manager-global-fintech-startup-crypto-com/21894,Campaign Analyst/Manager - Global Fintech Startup,,marketing:non tech:analyst:finance,2mo
-Crypto.com,https://web3.career/general-manager-turkey-global-fintech-startup-crypto-com/21893,General Manager (Turkey) - Global Fintech Startup,$90k - $200k,executive:finance,2mo
-Crypto.com,https://web3.career/head-of-operations-japan-global-fintech-startup-crypto-com/21892,Head of Operations (Japan) - Global Fintech Startup,$175k - $200k,executive:finance:operations,2mo
-Crypto.com,https://web3.career/talent-acquisition-specialist-global-fintech-startup-crypto-com/21891,Talent Acquisition Specialist - Global Fintech Startup,,finance:recruiter:non tech:nft,2mo
-ONCARE GmbH,https://web3.career/associate-to-the-ceo-oncare/21890,Associate to the CEO,$79k - $200k,executive:remote,2mo
-DeRisk Services,https://web3.career/street-view-driver-deriskservices5/21889,Street View Driver,$56k - $160k,remote,2mo
-Binance,https://web3.career/wallet-platform-web-developer-binance/21888,Wallet Platform Web Developer,$65k - $180k,dev:remote,2mo
-Parallel Finance,https://web3.career/director-of-marketing-parallel/21887,Director of Marketing,$70k - $158k,executive:marketing:non tech:remote,2mo
-Burnt Finance,https://web3.career/engineering-manager-burnt-finance-1/21886,Engineering Manager,$85k - $400k,executive:react:solidity:javascript:rust,2mo
-Burnt Finance,https://web3.career/product-manager-burnt-finance-1/21885,Product Manager,$69k - $160k,product manager:non tech,2mo
-Crypto.com,https://web3.career/content-writer-crypto-com/21884,Content Writer,,copywriting:react,2mo
-DeRisk Services,https://web3.career/street-view-driver-deriskservices5/21883,Street View Driver,,,2mo
-Binance,https://web3.career/associate-business-development-operations-binance/21882,Associate Business Development Operations,,sales:non tech:operations:remote,2mo
-Ledger,https://web3.career/software-architect-blockchain-ledger/21881,Software Architect - Blockchain,$120k - $300k,architecture:dev:blockchain,2mo
-Blockchain & Climate Institute,https://web3.career/video-producers-blockchain-climateinstitute/21880,Video Producers,,video,2mo
-Revolut,https://web3.career/product-owner-technical-crypto-revolut/21879,Product Owner Technical - Crypto,$60k - $160k,product manager:non tech:crypto,2mo
-Crypto.com,https://web3.career/ass-manager-security-technical-project-management-app-development-product-crypto-com/21878,"Ass. Manager, Security Technical Project Management - App Development & Product",,security:nft:remote,2mo
-Crypto.com,https://web3.career/blockchain-security-researcher-confidential-computing-sg-crypto-com/21877,"Blockchain Security Researcher, Confidential Computing (SG)",$150k - $185k,security:blockchain:nft:rust,2mo
-Taurus SA,https://web3.career/quantitative-finance-analyst-trading-engineer-taurusgroup/21876,Quantitative Finance Analyst / Trading Engineer,,analyst:dev:finance,2mo
-Caiz Development GmbH,https://web3.career/junior-legal-counsel-caiz-development/21875,Junior Legal Counsel,,legal:junior:entry level:remote,2mo
-Tangany,https://web3.career/head-of-crypto-cloud-and-devops-engineer-tangany/21874,Head Of (Crypto) Cloud and DevOps Engineer,,executive:cloud:devops:dev:crypto,2mo
-Ripple,https://web3.career/senior-manager-data-engineering-ripple/21873,"Senior Manager, Data Engineering",$78k - $200k,senior,2mo
-Nuvei,https://web3.career/senior-relationship-manager-crypto-nuvei/21872,Senior Relationship Manager - Crypto,$46k - $109k,marketing:non tech:senior:crypto,2mo
-IOTA Foundation,https://web3.career/app-developer-firefly-iota/21871,App Developer - Firefly,$56k - $160k,dev:react:javascript:rust:remote,2mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Crypto.com,https://web3.career/security-data-architect-uk-crypto-com/22464,"London,
+United Kingdom",Security Data Architect (UK),,architecture:security:nft:ruby,2mo
+Nuri,https://web3.career/strategy-operations-associate-nuri/22463,"Berlin,
+Germany",Strategy & Operations Associate,$80k - $110k,operations:remote,2mo
+Next Big Thing AG,https://web3.career/business-development-specialist-m-f-d-nextbigthing/22461,"Berlin,
+Germany",Business Development Specialist (m/f/d),$29k - $108k,sales:non tech:remote,2mo
+IOTA Foundation,https://web3.career/software-engineer-identity-tokenization-and-sc-germany-remote-iota/22460,Remote,"Software Engineer - Identity, Tokenization and SC - Germany (Remote)",$50k - $150k,remote:dev:react:javascript:java,2mo
+Tally Wallet,https://web3.career/head-of-growth-tally-wallet-tallywallet/22459,Remote,Head Of Growth - Tally Wallet,$70k - $158k,executive:marketing:non tech:remote,2mo
+Aldrin,https://web3.career/senior-react-native-mobile-developer-web3-remote-aldrin/22458,Remote,Senior React Native Mobile Developer Web3 (Remote),$65k - $180k,remote:dev:mobile:react native:javascript,2mo
+Set Labs,https://web3.career/product-designer-setlabs/22457,"San Francisco,
+United States",Product Designer,$80k - $150k,design:non tech:ethereum,2mo
+Crypto.com,https://web3.career/associate-security-technical-pm-security-operations-engineering-crypto-com/22456,"Miami,
+United States","Associate, Security Technical PM(Security Operations & Engineering)",,operations:security:nft,2mo
+Xcellink Pte Ltd,https://web3.career/crypto-blockchain-developer-st-fnp211101-001-01-xcellinkpteltd/22455,"Singapore,
+Singapore",Crypto/Blockchain Developer - ST-FNP211101 001/01,$65k - $160k,dev:blockchain:crypto:javascript:php,2mo
+Lykke Business AG,https://web3.career/intern-part-time-remote-lykke-business/22454,Remote,"INTERN (part-time, remote)",$24k - $48k,remote:intern:entry level:part time,2mo
+ROLLWAVE,https://web3.career/cto-rollwave/22453,"San Diego,
+United States",CTO,$80k - $120k,executive:solana:cto,2mo
+Fractional,https://web3.career/lead-brand-strategist-content-designer-digital-storyteller-content-us-remote-et-ftc/22451,United States,"Lead Brand Strategist & Content Designer (Digital Storyteller, Content) - US Remote (ET)",$25k - $120k,remote:marketing:non tech:design:lead,2mo
+Web3 Foundation,https://web3.career/technical-grants-lead-web3foundation/22450,Remote,Technical Grants Lead,$100k - $180k,lead:javascript:rust:remote,2mo
+NFT.Kred,https://web3.career/senior-javascript-engineer-nft-kred/19390,Remote,Senior Javascript Engineer,$130k - $190k,dev:javascript:senior:remote:front end,2mo
+Primary VC,https://web3.career/associate-primaryvc/22449,"New York,
+United States",Associate,,,2mo
+Caiz Development GmbH,https://web3.career/senior-frontend-developer-caiz-development/22448,"Frankfurt,
+Germany",Senior Frontend Developer,$70k - $190k,dev:front end:senior:remote:react,2mo
+Crypto.com,https://web3.career/bilingual-recruiter-english-and-spanish-speaking-crypto-com/22447,"Miami,
+United States",Bilingual Recruiter (English and Spanish speaking),$40k - $70k,recruiter:non tech,2mo
+Binance,https://web3.career/senior-treasury-analyst-binance/22446,Canada,Senior Treasury Analyst,$150k - $185k,analyst:senior,2mo
+Sygnum Bank AG,https://web3.career/defi-engineer-sygnum/22445,Switzerland,DeFi Engineer,$80k - $160k,dev:defi:react:solidity:ethereum,2mo
+Crypto.com,https://web3.career/manager-security-technical-project-management-security-operations-engineer-crypto-com/22444,"Miami,
+United States","Manager, Security Technical Project Management (Security Operations & Engineer)",,dev:operations:security:nft,2mo
+Nuri,https://web3.career/working-student-crm-manager-nuri/22443,"Berlin,
+Germany",Working Student CRM Manager,,crm:remote,2mo
+Provoke Solutions,https://web3.career/blockchain-developer-provokesolutions/22442,"Dallas,
+United States",Blockchain Developer,$52k - $160k,dev:blockchain:solidity:ethereum:javascript,2mo
+Nuri,https://web3.career/working-student-content-social-media-nuri/22441,"Berlin,
+Germany",Working Student Content & Social Media,$35k - $110k,social media:non tech:remote,2mo
+jade Eli Tecnologies,https://web3.career/business-development-representative-jade-eli/22440,"Berlin,
+Germany",Business Development Representative,$26k - $140k,sales:non tech,2mo
+Sygnum Bank AG,https://web3.career/senior-quantitative-trader-sygnum/22439,Switzerland,Senior Quantitative Trader,,senior:trader:ethereum,2mo
+Nuri,https://web3.career/senior-ux-designer-nuri/22438,"Berlin,
+Germany",Senior UX Designer,$60k - $120k,design:non tech:senior:remote,2mo
+Ferrum Network,https://web3.career/qa-automation-engineer-for-blockchain-company-ferrumnetwork/22437,United States,QA Automation Engineer for Blockchain Company,$62k - $10k,dev:quality assurance:blockchain:solidity,2mo
+Shard Labs,https://web3.career/javascript-typescript-developer-remote-shardlabs/22436,Remote,JavaScript/TypeScript Developer |REMOTE|,$60k - $180k,remote:dev:javascript:react:solidity,2mo
+Securitize,https://web3.career/director-of-sales-securitize/22435,"New York,
+United States",Director of Sales,$40k - $150k,executive:sales:non tech,2mo
+IOTA Foundation,https://web3.career/software-engineer-identity-tokenization-and-sc-iota/22434,Remote,"Software Engineer - Identity, Tokenization and SC",$50k - $150k,dev:remote:react:javascript:java,2mo
+IntellectEU,https://web3.career/corda-blockchain-developer-java-or-kotlin-intellecteu/22433,Ukraine,Corda Blockchain Developer (Java or Kotlin),$26k - $87k,dev:java:blockchain,2mo
+Incredulous Labs Ltd.,https://web3.career/product-designer-incredulous/22432,Remote,Product Designer,$60k - $150k,design:non tech:nft:remote,2mo
+Chilipay Limited,https://web3.career/creative-designer-usa-chiliz/22431,"Miami,
+United States",Creative Designer - USA,$50k - $150k,design:non tech,2mo
+Chainstack,https://web3.career/cloud-operations-engineer-chainstack/22430,Remote,Cloud Operations Engineer,,cloud:dev:operations:remote:solana,2mo
+Chainstack,https://web3.career/account-manager-chainstack/22429,Remote,Account Manager,,account manager:remote,2mo

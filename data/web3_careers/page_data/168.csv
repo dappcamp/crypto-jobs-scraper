@@ -1,36 +1,52 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Binance,https://web3.career/senior-regulatory-advisor-futures-business-binance/19834,Senior Regulatory Advisor (Futures Business),,legal:senior,2mo
-Ledger,https://web3.career/marketplace-gm-ledger/19833,Marketplace GM,$55k - $150k,nft,2mo
-Spring Labs,https://web3.career/sr-product-manager-defi-springlabs/19832,Sr. Product Manager (DeFi),$80k - $150k,product manager:non tech:senior:defi,2mo
-Coinsquare,https://web3.career/fraud-investigator-coinsquare/19831,Fraud Investigator,$150k - $185k,security:ethereum,2mo
-Foundry,https://web3.career/manager-of-data-engineering-foundrydigital/19830,Manager of Data Engineering,$130k - $160k,data science:scala,2mo
-Foundry,https://web3.career/end-user-computing-lead-foundrydigital/19829,End User Computing - Lead,$60k - $200k,lead,2mo
-Chainalysis,https://web3.career/corporate-security-manager-chainalysis/19828,Corporate Security Manager,$95k - $200k,security,2mo
-Horizon Blockchain Games,https://web3.career/legal-counsel-horizon-blockchain-games/19827,Legal Counsel,,legal:ethereum:nft,2mo
-Daoism Systems,https://web3.career/web3-smart-contracts-engineer-daoism-systems/19826,Web3 / Smart Contracts Engineer,$65k - $120k,dev:full time:smart contract:remote:solidity,2mo
-Anchorage Digital,https://web3.career/member-of-design-team-sr-ux-researcher-us-anchorage/19824,"Member of Design Team, Sr. UX Researcher - US",$60k - $120k,design:non tech:senior:remote,2mo
-Binance,https://web3.career/growth-and-community-manager-nft-binance/19823,Growth and Community Manager (NFT),$45k - $150k,community manager:non tech:marketing:nft:remote,2mo
-OpenSea,https://web3.career/staff-software-engineer-backend-opensea/19822,"Staff Software Engineer, Backend",$60k - $180k,backend:dev:remote,2mo
-Akash Network,https://web3.career/community-events-manager-akashnetwork/19821,Community Events Manager,,events manager:non tech:community manager:remote,2mo
-Ripple,https://web3.career/senior-manager-accounting-operations-ripple/19818,"Senior Manager, Accounting Operations",,accounting:operations:senior,2mo
-Okcoin,https://web3.career/software-engineer-new-grad-okcoin/19817,"Software Engineer, New Grad",$33k - $140k,dev:java,2mo
-Coin Metrics,https://web3.career/ux-ui-designer-coinmetrics/19816,UX/UI Designer,$45k - $135k,design:non tech:javascript,2mo
-BlockFi,https://web3.career/global-operations-sr-manager-east-coast-blockfi/19815,Global Operations Sr. Manager (East Coast),,operations:senior,2mo
-BlockFi,https://web3.career/fraud-operations-analyst-blockfi/19814,Fraud Operations Analyst,,analyst:security:operations,2mo
-BlockFi,https://web3.career/director-of-fraud-blockfi/19813,Director of Fraud,$95k - $250k,executive:security,2mo
-BlockFi,https://web3.career/transaction-monitoring-manager-blockfi/19810,Transaction Monitoring Manager,,,2mo
-BlockFi,https://web3.career/aml-investigations-analyst-blockfi/19808,AML Investigations Analyst,$40k - $120k,analyst,2mo
-Anchorage Digital,https://web3.career/member-of-design-team-senior-product-designer-us-anchorage/19804,"Member of Design Team, Senior Product Designer - US",$60k - $120k,design:non tech:senior:remote,2mo
-Chainlink Labs,https://web3.career/hris-analyst-chainlink/19803,HRIS Analyst,$45k - $120k,analyst:remote,2mo
-PolySign & Standard Custody,https://web3.career/senior-abc-engineer-polysign/19801,Senior ABC Engineer,$120k - $210k,dev:senior:rust,2mo
-Energi Core Limited,https://web3.career/audio-visual-producer-energicorelimited/19800,Audio / Visual Producer,$70k - $158k,ethereum:nft,2mo
-BlockFi,https://web3.career/client-relationship-manager-emea-blockfi/19799,Client Relationship Manager (EMEA),$45k - $130k,marketing:non tech,2mo
-BlockFi,https://web3.career/client-relationship-manager-apac-blockfi/19798,Client Relationship Manager (APAC),$45k - $130k,marketing:non tech,2mo
-BlockFi,https://web3.career/pr-communications-associate-blockfi/19796,PR & Communications Associate,$45k - $130k,marketing:non tech,2mo
-Autograph,https://web3.career/head-of-drop-design-drop-architecture-autograph/19795,Head of Drop Design & Drop Architecture,,executive:design:non tech:nft,2mo
-Aquanow,https://web3.career/blockchain-engineer-aquanow/19794,Blockchain Engineer,$0k,dev:blockchain:node:java:golang,2mo
-DAZN,https://web3.career/junior-rights-manager-dach-m-f-d-dazn/19793,Junior Rights Manager - DACH m/f/d,$39k - $56k,junior:entry level:remote,2mo
-Akash Network,https://web3.career/content-marketing-associate-akashnetwork/19792,Content Marketing Associate,$25k - $120k,marketing:non tech:remote,2mo
-Vidaloop,https://web3.career/senior-software-engineer-android-vidaloop/19791,"Senior Software Engineer, Android",,remote:android:mobile:dev:senior,2mo
-PolySign & Standard Custody,https://web3.career/abc-team-lead-polysign/19790,ABC Team Lead,$100k - $220k,lead:rust,2mo
-Floating Point Group,https://web3.career/legal-counsel-regulatory-affairs-fpg/19789,"Legal Counsel, Regulatory Affairs",,legal:remote,2mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+CANDY,https://web3.career/senior-technical-sourcer-candy/20478,"New York,
+United States",Senior Technical Sourcer,$40k - $70k,recruiter:non tech:senior,2mo
+Chainlink Labs,https://web3.career/technical-sourcer-chainlink/20477,Remote,Technical Sourcer,,recruiter:non tech:remote,2mo
+Bitcoin Depot,https://web3.career/international-aml-compliance-analyst-bitcoindepot/20476,Philippines,International AML Compliance Analyst,,compliance:analyst:ethereum,2mo
+Immutable,https://web3.career/executive-assistant-immutable-studios-immutable/20474,"Sydney,
+Australia",Executive Assistant (Immutable Studios),$70k - $180k,executive,2mo
+Consensys,https://web3.career/group-executive-assistant-consensys/20473,"London,
+United Kingdom",Group Executive Assistant,$79k - $158k,executive:ethereum,2mo
+Ripple,https://web3.career/marketing-lead-carbon-markets-ripple/20472,"New York,
+United States","Marketing Lead, Carbon Markets",$50k - $120k,lead:marketing:non tech,2mo
+Ripple,https://web3.career/marketing-lead-carbon-markets-ripple/20471,"San Francisco,
+United States","Marketing Lead, Carbon Markets",$50k - $120k,lead:marketing:non tech,2mo
+ZAUBAR,https://web3.career/internship-business-developer-metaverse-ar-zaubar/20469,Remote,"Internship: Business Developer (Metaverse, AR)",$12k - $33k,dev:intern:entry level:metaverse:remote,2mo
+Tivix,https://web3.career/rust-software-engineer-tivix/20468,Remote,RUST Software Engineer,$70k - $180k,dev:rust:remote:solidity,2mo
+Polygon,https://web3.career/global-brand-director-polygon/20467,Remote,Global Brand Director,$70k - $158k,marketing:non tech:executive:remote:ethereum,2mo
+Blockstream,https://web3.career/product-manager-blockstream/20466,"New York,
+United States",Product Manager,,product manager:non tech:react,2mo
+BitGo,https://web3.career/rfi-rfp-associate-bitgo/20465,"New York,
+United States",RFI/RFP Associate,,,2mo
+Sygnum Bank AG,https://web3.career/application-security-and-cybersecurity-incident-manager-sygnum/20464,Switzerland,Application Security and Cybersecurity Incident Manager,$95k - $200k,security,2mo
+Tendermint,https://web3.career/developer-documentation-writer-remote-tendermint/20463,"Berlin,
+Germany",Developer Documentation Writer - Remote,,remote:dev:analyst,2mo
+CANDY,https://web3.career/senior-technical-recruiter-candy/20462,"New York,
+United States",Senior Technical Recruiter,$40k - $70k,recruiter:non tech:senior,2mo
+BitGo,https://web3.career/head-of-institutional-sales-us-bitgo/20461,"New York,
+United States",Head of Institutional Sales (US),$40k - $150k,executive:sales:non tech,2mo
+WOO Network,https://web3.career/defi-smart-contract-developer-woo-network/20460,"Warsaw,
+Poland",DeFi Smart Contract Developer,$100k - $300k,dev:defi:smart contract:solidity:ethereum,2mo
+Ferrum Network,https://web3.career/blockchain-engineer-solidity-global-hiring-ferrumnetwork/20459,United States,Blockchain Engineer/Solidity (Global Hiring),$52k - $160k,dev:blockchain:solidity:ethereum,2mo
+Sygnum Bank AG,https://web3.career/information-security-risk-manager-sygnum/20458,Switzerland,Information Security Risk Manager,$95k - $200k,security,2mo
+Tendermint,https://web3.career/blockchain-engineer-remote-tendermint/20457,"Berlin,
+Germany",Blockchain Engineer - Remote,$70k - $190k,remote:dev:blockchain,2mo
+Chainlink Labs,https://web3.career/chainlink-analyst-apac-chainlink/20456,Remote,"Chainlink Analyst, APAC",$45k - $120k,analyst:remote,2mo
+Crypto.com,https://web3.career/security-and-privacy-innovation-center-business-analyst-crypto-com/20455,"Sofia,
+Bulgaria",Security and Privacy Innovation Center - Business Analyst,$60k - $185k,analyst:security,2mo
+BlockFi,https://web3.career/treasury-senior-manager-blockfi/20454,"Singapore,
+Singapore",Treasury Senior Manager,$78k - $200k,senior,2mo
+Sygnum Bank AG,https://web3.career/junior-relationship-manager-dlt-fintech-companies-100-sygnum/20452,Switzerland,Junior Relationship Manager DLT & FinTech Companies (100%),$40k - $67k,finance:junior:entry level:marketing:non tech,2mo
+ZAUBAR,https://web3.career/internship-sales-development-representative-metaverse-saas-ar-culture-zaubar/20451,Remote,"Internship: Sales Development Representative (Metaverse, SaaS, AR, Culture)",,intern:entry level:metaverse:saas:sales,2mo
+ZAUBAR,https://web3.career/internship-business-developer-metaverse-ar-zaubar/20450,Remote,"Internship: Business Developer (Metaverse, AR)",$12k - $33k,dev:intern:entry level:metaverse:remote,2mo
+GSR,https://web3.career/senior-tax-manager-vice-president-gsr/20449,"London,
+United Kingdom","Senior Tax Manager, Vice President",$80k - $110k,senior:accounting,2mo
+Crypto.com,https://web3.career/sales-trader-otc-desk-apac-crypto-com/20448,"Hong Kong,
+Hong Kong",Sales Trader - OTC Desk - APAC,,sales:non tech:trader,2mo
+Crypto.com,https://web3.career/account-manager-senior-account-manager-emea-crypto-exchange-crypto-com/20447,United Kingdom,Account Manager / Senior Account Manager - EMEA- Crypto Exchange,,account manager:senior:crypto,2mo
+Ferrum Network,https://web3.career/blockchain-engineer-solidity-only-accepting-candidates-in-the-usa-ferrumnetwork/20446,United States,Blockchain Engineer/Solidity (Only accepting candidates in the USA),$52k - $160k,dev:blockchain:solidity:ethereum,2mo
+Luno,https://web3.career/senior-compliance-analyst-luno/20444,Indonesia,Senior Compliance Analyst,,compliance:analyst:senior:ethereum,2mo
+Blocksize Capital GmbH,https://web3.career/backend-developer-golang-partially-or-fully-remote-blocksize-capital/20443,Remote,Backend Developer Golang (partially or fully remote),$33k - $73k,remote:backend:dev:golang:react,2mo
+Polygon,https://web3.career/head-of-ecosystem-marketing-polygon/20442,Remote,Head of Ecosystem Marketing,$70k - $158k,executive:marketing:non tech:remote:ethereum,2mo
+Polygon,https://web3.career/global-head-of-social-media-polygon/20441,Remote,Global Head of Social Media,$45k - $150k,executive:social media:non tech:remote:ethereum,2mo
+Polygon,https://web3.career/global-creative-director-polygon/20440,Remote,Global Creative Director,$79k - $158k,executive:remote:ethereum,2mo

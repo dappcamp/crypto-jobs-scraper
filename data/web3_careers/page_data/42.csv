@@ -1,36 +1,59 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Polygon,https://web3.career/senior-graphics-designer-polygon/24919,Senior Graphics Designer,$60k - $120k,design:non tech:senior:ethereum,19d
-Polygon,https://web3.career/project-manager-marketing-design-polygon/24918,Project Manager - Marketing Design,,design:non tech:marketing:project manager:ethereum,19d
-Polygon,https://web3.career/motion-designer-product-marketing-polygon/24917,Motion Designer - Product + Marketing,,design:non tech:marketing:ethereum,19d
-Polygon,https://web3.career/creative-director-art-apac-timezone-polygon/24916,Creative Director - Art [APAC timezone],$79k - $158k,executive:ethereum,19d
-Polygon,https://web3.career/3d-designer-visual-design-polygon/24915,3D Designer - Visual Design,$11k - $80k,vfx:design:non tech:ethereum,19d
-Polygon,https://web3.career/vp-institutional-capital-polygon/24914,"VP, Institutional Capital",$50k - $158k,executive:ethereum:nft,19d
-Polygon,https://web3.career/ecosystem-analyst-remote-business-enterprise-polygon/24913,Ecosystem Analyst (Remote) - Business Enterprise,$45k - $55k,remote:analyst:ethereum,19d
-Polygon,https://web3.career/defi-operations-lead-remote-polygon/24912,DeFi Operations Lead (REMOTE),,remote:lead:operations:defi:ethereum,19d
-Polygon,https://web3.career/defi-marketing-lead-polygon/24911,DeFi Marketing lead,$50k - $120k,lead:marketing:non tech:defi:remote,19d
-OpenSea,https://web3.career/product-operations-lead-opensea/24910,Product Operations Lead,,lead:operations:remote,19d
-OpenSea,https://web3.career/technical-learning-designer-opensea/24909,Technical Learning Designer,$50k - $135k,design:non tech:remote,19d
-OpenSea,https://web3.career/recruiting-operations-lead-opensea/24908,Recruiting Operations Lead,,lead:operations:recruiter:non tech:remote,19d
-OpenSea,https://web3.career/people-operations-specialist-opensea/24907,People Operations Specialist,$80k - $110k,operations:remote,19d
-OpenSea,https://web3.career/web3-community-data-scientist-opensea/24906,Web3 Community Data Scientist,,community manager:non tech:data science:remote,19d
-OpenSea,https://web3.career/office-manager-opensea/24905,Office Manager,,,19d
-OpenSea,https://web3.career/office-manager-opensea/24904,Office Manager,,,19d
-OpenSea,https://web3.career/blockchain-data-scientist-opensea/24903,Blockchain Data Scientist,,data science:blockchain:remote,19d
-OpenSea,https://web3.career/email-marketing-lead-opensea/24902,Email Marketing Lead,$50k - $120k,lead:marketing:non tech:remote,19d
-OpenSea,https://web3.career/associate-general-counsel-or-director-law-enforcement-compliance-opensea/24901,Associate General Counsel or Director (Law Enforcement & Compliance),,compliance:legal:executive:remote,19d
-OpenSea,https://web3.career/head-of-payroll-equity-admin-opensea/24900,Head of Payroll & Equity Admin,,executive:accounting:remote,19d
-OpenSea,https://web3.career/director-of-strategic-finance-opensea/24899,Director of Strategic Finance,$40k - $225k,executive:finance:remote,19d
-OpenSea,https://web3.career/senior-site-reliability-engineer-opensea/24898,Senior Site Reliability Engineer,$150k - $200k,dev:sys admin:senior:remote,19d
-OpenSea,https://web3.career/marketing-analyst-opensea/24897,Marketing Analyst,,analyst:marketing:non tech:remote,19d
-OpenSea,https://web3.career/engineering-manager-product-opensea/24896,"Engineering Manager, Product",$90k - $150k,executive:remote:react,19d
-OpenSea,https://web3.career/engineering-manager-backend-opensea/24895,"Engineering Manager, Backend",$140k - $180k,executive:backend:remote,19d
-OpenSea,https://web3.career/quality-assurance-lead-customer-experience-opensea/24894,"Quality Assurance Lead, Customer Experience",$25k - $35k,customer support:lead:remote,19d
-OpenSea,https://web3.career/data-and-ops-analyst-customer-happiness-opensea/24893,"Data and Ops Analyst, Customer Happiness",$40k - $95k,analyst:customer support:remote,19d
-OpenSea,https://web3.career/customer-experience-manager-bpo-opensea/24892,"Customer Experience Manager, BPO",$40k - $80k,customer support:remote,19d
-OpenSea,https://web3.career/customer-experience-manager-opensea/24891,Customer Experience Manager,$40k - $80k,customer support:remote,19d
-OpenSea,https://web3.career/experiential-production-manager-opensea/24890,Experiential Production Manager,$56k - $165k,remote:nft,19d
-OpenSea,https://web3.career/community-grants-manager-opensea/24889,Community Grants Manager,$40k - $101k,community manager:non tech:remote:ethereum,19d
-OpenSea,https://web3.career/community-events-coordinator-opensea/24888,Community Events Coordinator,$40k - $101k,community manager:non tech:remote:nft,19d
-OpenSea,https://web3.career/technical-partner-manager-opensea/24887,Technical Partner Manager,$56k - $165k,remote:nft,19d
-OpenSea,https://web3.career/senior-manager-payments-partnerships-opensea/24886,"Senior Manager, Payments Partnerships",$50k - $150k,sales:non tech:senior:nft,19d
-OpenSea,https://web3.career/senior-associate-web3-product-partnerships-opensea/24885,"Senior Associate, Web3 Product Partnerships",$50k - $150k,sales:non tech:senior:remote,19d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+InterSwap,https://web3.career/senior-solidity-engineer-interswap-1/25493,United Arab Emirates,Senior Solidity Engineer,$83k - $120k,dev:senior:solidity:solana:ethereum,19d
+Foxit Software,https://web3.career/lead-cloud-solution-architect-m-w-d-emea-foxitsoftware/25492,"Berlin,
+Germany",Lead Cloud Solution Architect (m/w/d) EMEA,,architecture:cloud:lead,19d
+Cerebellum Network,https://web3.career/full-stack-front-end-engineer-cere-network/25491,Remote,Full-Stack/Front-End Engineer,$65k - $150k,dev:front end:full stack:remote:react,19d
+Polygon,https://web3.career/sr-business-development-manager-games-polygon-studios-remote-polygon/25490,United States,Sr. Business Development Manager - Games - Polygon Studios (Remote),$29k - $108k,remote:sales:non tech:senior:ethereum,19d
+Crypto.com,https://web3.career/sales-operation-manager-apac-crypto-com/25489,"Hong Kong,
+Hong Kong",Sales Operation Manager - APAC,$26k - $140k,sales:non tech,19d
+MetaFans Media LLC,https://web3.career/head-of-blockchain-metafansmediallc/25488,"Miami,
+United States",Head of Blockchain,$80k - $225k,executive:blockchain:nft,19d
+Crypto.com,https://web3.career/director-corporate-development-global-fintech-startup-crypto-com/25487,"Singapore,
+Singapore","Director, Corporate Development - Global Fintech Startup",$90k - $200k,executive:finance,19d
+Paro.io,https://web3.career/crypto-bookkeeper-remote-projects-paro-io/25486,"Chicago,
+United States",Crypto Bookkeeper - Remote Projects,$11k - $25k,remote:accounting:crypto,19d
+Crypto.com,https://web3.career/data-security-architect-sg-crypto-com/25485,"Singapore,
+Singapore",Data Security Architect (SG),,architecture:security:nft,19d
+Crypto.com,https://web3.career/junior-account-manager-latam-seeking-graduates-or-entry-level-applicant-crypto-com/25484,Brazil,Junior Account Manager - LATAM - Seeking Graduates or Entry level Applicant,,account manager:junior:entry level,19d
+WalletConnect,https://web3.career/web3-technical-writer-walletconnect/25483,"Berlin,
+Germany",Web3 Technical Writer,$45k - $120k,analyst:remote,19d
+Windranger,https://web3.career/senior-solidity-engineer-windranger/25482,,Senior Solidity Engineer,$80k - $200k,dev:senior:solidity:ethereum:javascript,19d
+Sismo,https://web3.career/smart-contract-engineer-solidity-circom-sismo/25481,"Paris,
+France","Smart Contract Engineer - Solidity, Circom",$72k - $200k,dev:smart contract:solidity:ethereum:nft,19d
+Consensys,https://web3.career/talent-operations-8-month-contract-consensys/25480,Brooklyn,Talent Operations - 8 Month Contract,,operations:recruiter:non tech:ethereum,19d
+Consensys,https://web3.career/internal-event-manager-consensys/25479,Remote,Internal Event Manager,,events manager:non tech:remote:ethereum,19d
+Monday Capital,https://web3.career/frontend-engineer-with-web3-experience-monday-capital/25478,"New York,
+United States",Frontend Engineer with Web3 experience,$90k - $120k,dev:front end:react:solidity:javascript,19d
+Joint NFT,https://web3.career/frontend-web3-intern-joint-nft/25477,India,Frontend Web3 Intern,$124k - $2k,front end:intern:entry level:react:solidity,19d
+reNFT,https://web3.career/head-of-developer-experience-renft/25476,British Virgin Islands,Head of Developer Experience,$70k - $140k,executive:dev:solidity:nft:javascript,19d
+reNFT,https://web3.career/backend-developer-renft/25475,British Virgin Islands,Backend Developer,$50k - $100k,backend:dev:nft:rust,19d
+MetaMask,https://web3.career/director-of-engineering-consensys-nft-business-metamask/25474,"San Francisco,
+United States",Director of Engineering (ConsenSys NFT Business),$50k - $158k,executive:nft:ethereum,19d
+MetaMask,https://web3.career/devops-lead-manager-codefi-metamask/25473,United States,DevOps Lead/Manager (Codefi),,devops:lead:ethereum:javascript:golang,19d
+MetaMask,https://web3.career/devops-engineer-protocols-metamask/25472,Australia,DevOps Engineer - Protocols,$95k - $145k,devops:dev:ethereum,19d
+Nansen.ai,https://web3.career/graphic-designer-nansen/25471,"Berlin,
+Germany",Graphic Designer,$50k - $135k,design:non tech:remote,19d
+Nansen.ai,https://web3.career/communications-lead-nansen/25470,"Singapore,
+Singapore",Communications Lead,$60k - $200k,lead,19d
+RECUR,https://web3.career/senior-designer-sports-recur/25469,"Los Angeles,
+United States",Senior Designer - Sports,$60k - $120k,design:non tech:senior:ethereum,19d
+Nansen.ai,https://web3.career/brand-marketing-lead-nansen/25468,"Singapore,
+Singapore",Brand Marketing Lead,$50k - $120k,marketing:non tech:lead,19d
+Decentral Games,https://web3.career/data-analyst-decentralgames/25467,"Los Angeles,
+United States",Data Analyst,$36k - $120k,analyst:data science:nft:java,19d
+Decentral Games,https://web3.career/data-engineer-decentralgames/25466,"Los Angeles,
+United States",Data Engineer,$70k - $150k,data science:dev:nft:java,19d
+Decentral Games,https://web3.career/qa-engineer-decentralgames/25465,"Buenos Aires,
+Argentina",QA Engineer,$65k - $150k,dev:quality assurance:ethereum:nft,19d
+Decentral Games,https://web3.career/qa-tester-decentralgames/25464,"Buenos Aires,
+Argentina",QA Tester,$65k - $110k,quality assurance:ethereum:nft,19d
+Decentral Games,https://web3.career/qa-automation-engineer-decentralgames/25463,"Buenos Aires,
+Argentina",QA Automation Engineer,$65k - $150k,dev:quality assurance:ethereum:nft:javascript,19d
+Decentral Games,https://web3.career/product-manager-decentralgames/25462,"Los Angeles,
+United States",Product Manager,$69k - $160k,product manager:non tech:nft,19d
+Decentral Games,https://web3.career/product-designer-decentralgames/25461,"Los Angeles,
+United States",Product Designer,$60k - $150k,design:non tech:nft,19d
+Decentral Games,https://web3.career/senior-backend-developer-decentralgames/25460,"Los Angeles,
+United States",Senior Backend Developer,$70k - $200k,backend:dev:senior:react:solidity,19d
+Alchemy,https://web3.career/business-development-nfts-alchemy/25459,"New York,
+United States",Business Development: NFTs,$100k - $180k,sales:non tech:nft,19d

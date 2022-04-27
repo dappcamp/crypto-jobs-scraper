@@ -1,36 +1,54 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Kiva.org,https://web3.career/senior-backend-engineer-protocol-kivaorg/13640,"Senior Backend Engineer, Protocol",$70k - $200k,backend:dev:senior:ethereum:java,5mo
-Crypto.com,https://web3.career/director-risk-fraud-prevention-crypto-com/13637,"Director, Risk Fraud Prevention",$95k - $250k,executive:security,5mo
-Crypto.com,https://web3.career/ios-developer-defi-wallet-global-fintech-startup-crypto-com/13636,"iOS Developer, DeFi Wallet - Global Fintech Startup",,dev:finance:ios:mobile:defi,5mo
-Mirana,https://web3.career/blockchain-defi-analyst-python-golang-c-mirana/13634,Blockchain/Defi Analyst (Python/Golang/C++),,c:c plus plus:analyst:golang:python,5mo
-DeFi Basket,https://web3.career/product-designer-defi-basket/13631,Product Designer,$60k,design:non tech,5mo
-Crypto.com,https://web3.career/director-global-payment-partnerships-new-markets-crypto-com/13625,"Director Global Payment Partnerships, New Markets",$40k - $150k,sales:non tech:executive,5mo
-Acria UG (haftungsbeschränkt),https://web3.career/partnership-manager-featured-on-cnbc-3429411-partnership-manager-featured-on-cnbc/13623,Partnership Manager - Featured on CNBC,$9k,sales:non tech:remote,5mo
-Crypto.com,https://web3.career/data-engineer-global-fintech-startup-crypto-com/13622,Data Engineer - Global Fintech startup,,data science:dev:finance:scala:java,5mo
-Ankr,https://web3.career/blockchain-engineer-ankr/13621,Blockchain Engineer,$52k - $160k,dev:blockchain:solidity:golang:rust,5mo
-Mysten Labs,https://web3.career/software-engineer-product-remote-mystenlabs/13619,"Software Engineer, Product (Remote)",$65k - $180k,remote:dev,5mo
-Kraken Digital Asset Exchange,https://web3.career/operations-associate-apac-kraken/13618,Operations Associate - APAC,,operations:ethereum:remote,5mo
-Satoshis Games,https://web3.career/solidity-engineer-junior-satoshis-games/13615,Solidity Engineer Junior,$45k - $56k,dev:junior:entry level:solidity:ethereum,5mo
-Crypto.com,https://web3.career/delta-1-market-making-trader-analyst-vp-quant-trading-team-crypto-com/13614,"Delta-1 Market Making Trader (Analyst - VP), Quant Trading Team",,analyst:trader:executive:java:remote,5mo
-Investoo Group,https://web3.career/lead-content-editor-crypto-investoogroup/13611,Lead Content Editor (Crypto),,copywriting:lead:crypto,5mo
-BANXA 🚀,https://web3.career/compliance-analyst-banxa/13610,Compliance Analyst,,compliance:analyst:remote,5mo
-Sourcechain,https://web3.career/blockchain-engineer-sourcechain/13609,Blockchain Engineer,$52k - $160k,dev:blockchain:solidity:java:rust,5mo
-IOTA Foundation,https://web3.career/head-of-developer-experience-iota/13608,Head of Developer Experience,$95k - $300k,executive:dev:remote,5mo
-IOTA Foundation,https://web3.career/senior-devops-engineer-iota/13607,(Senior) DevOps Engineer,$120k - $200k,devops:dev:senior:golang:remote,5mo
-Crypto.com,https://web3.career/otc-trader-for-flow-business-analyst-vp-global-fintech-startup-crypto-com/13606,OTC Trader for Flow Business (Analyst - VP) - Global Fintech startup,,analyst:finance:trader:executive:remote,5mo
-Satoshis Games,https://web3.career/solidity-engineer-senior-satoshis-games/13604,Solidity Engineer Senior,$70k - $80k,dev:senior:solidity:ethereum,5mo
-jade Eli Tecnologies,https://web3.career/senior-account-executive-3383995-senior-account-executive/13603,Senior Account Executive,$46k - $110k,executive:senior,5mo
-IOTA Foundation,https://web3.career/senior-software-engineer-go-remote-iota/13600,Senior Software Engineer - Go - Remote,$22k - $150k,remote:dev:golang:senior:ethereum,5mo
-Crypto.com,https://web3.career/technical-project-management-associate-crypto-com/13599,"Technical Project Management, Associate",,,5mo
-Corsali,https://web3.career/senior-software-engineer-crypto-corsali/13598,Senior Software Engineer - Crypto,$90k - $160k,dev:senior:crypto,5mo
-Sygnum Bank AG,https://web3.career/full-stack-tech-lead-singapore-sygnum/13596,"Full-stack Tech Lead, Singapore",$78k - $120k,full stack:lead:tech lead:react,5mo
-Ledger,https://web3.career/device-connectivity-product-owner-ledger-live-ledger/13591,Device connectivity Product Owner - Ledger Live,$115k - $175k,product manager:non tech:remote,5mo
-Cross River Bank,https://web3.career/aml-bsa-crypto-transaction-monitoring-analyst-crossriverbank/13590,AML/BSA Crypto Transaction Monitoring Analyst,$20k - $120k,analyst:crypto,5mo
-Reflective.ai,https://web3.career/blockchain-engineer-reflective-ai-1/13589,Blockchain Engineer,$62k - $109k,dev:blockchain:javascript:java,5mo
-Sygnum Bank AG,https://web3.career/head-of-sales-and-client-services-sygnum/13588,Head of Sales and Client Services,$40k - $150k,executive:sales:non tech:ethereum,5mo
-TQ TEZOS,https://web3.career/frontend-engineer-tqtezos/13587,Frontend Engineer,$60k - $144k,dev:front end:nft:javascript,5mo
-Crypto.com,https://web3.career/product-data-analyst-crypto-com/13586,Product Data Analyst,$36k - $120k,analyst:data science:nft,5mo
-MagicCo.,https://web3.career/dao-developer-smart-contract-magic-co/13585,DAO Developer - Smart Contract,$60k - $120k,dev:smart contract:nft,5mo
-Cross River Bank,https://web3.career/data-scientist-crypto-research-crossriverbank/13584,"Data Scientist, Crypto Research",,data science:crypto:ruby:scala:java,5mo
-Crypto.com,https://web3.career/mobile-developer-android-sg-global-fintech-startup-crypto-com/13583,"Mobile Developer, Android (SG) - Global Fintech Startup",,android:mobile:dev:finance:java,5mo
-Sygnum Bank AG,https://web3.career/associate-legal-regtech-sygnum/13580,"Associate, Legal & RegTech",$24k - $140k,legal,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+GSR,https://web3.career/2022-graduate-program-business-development-analyst-singapore-gsr/14393,"Singapore,
+Singapore","2022 Graduate Program - Business Development Analyst, Singapore",,analyst:sales:non tech:intern:entry level,4mo
+Polygon,https://web3.career/developer-marketing-manager-polygon/14392,Remote,Developer Marketing Manager,$85k - $120k,dev:marketing:non tech:ethereum:remote,4mo
+BlockFi,https://web3.career/qa-tester-blockfi/14391,"New York,
+United States",QA Tester,$62k - $150k,quality assurance,4mo
+Blockdaemon,https://web3.career/corporate-development-associate-blockdaemon/14390,"Los Angeles,
+United States",Corporate Development Associate,,,4mo
+Crypto.com,https://web3.career/senior-ios-developer-main-app-uk-global-fintech-startup-crypto-com/14389,United Kingdom,"Senior / iOS Developer, Main App (UK) - Global Fintech Startup",,dev:finance:ios:mobile:senior,4mo
+Finoa GmbH,https://web3.career/incident-response-purple-team-lead-m-f-div-finoa/14388,"Berlin,
+Germany",Incident Response/ Purple Team Lead (m/f/div),$95k - $200k,lead:remote,4mo
+IOVLabs,https://web3.career/product-lead-iovlabs/14387,Remote,Product Lead,$95k - $200k,lead:remote,4mo
+Horizon Blockchain Games,https://web3.career/senior-game-producer-horizon-blockchain-games/14385,"Toronto,
+Canada",Senior Game Producer,,game dev:senior:ethereum,4mo
+Horizon Blockchain Games,https://web3.career/senior-software-developer-react-horizon-blockchain-games/14384,United States,Senior Software Developer (React),$56k - $160k,dev:javascript:react:senior:ethereum,4mo
+Horizon Blockchain Games,https://web3.career/senior-backend-engineer-go-horizon-blockchain-games/14383,Mexico,Senior Backend Engineer (GO),$33k - $160k,backend:dev:golang:senior:ethereum,4mo
+Caiz Holding AG,https://web3.career/frontend-developer-3487790-frontend-developer/14382,"Frankfurt,
+Germany",Frontend Developer,$50k - $144k,dev:front end:react:react native:javascript,4mo
+Ledger,https://web3.career/product-analyst-intern-ledger/14381,"Paris,
+France",Product Analyst - Intern,$20k - $30k,analyst:intern:entry level,4mo
+Horizon Blockchain Games,https://web3.career/senior-software-developer-react-horizon-blockchain-games/14375,Mexico,Senior Software Developer (React),$56k - $160k,dev:javascript:react:senior:ethereum,4mo
+Horizon Blockchain Games,https://web3.career/senior-backend-engineer-go-horizon-blockchain-games/14374,"Toronto,
+Canada",Senior Backend Engineer (GO),$33k - $160k,backend:dev:golang:senior:ethereum,4mo
+SwissBorg,https://web3.career/senior-fundamental-analyst-remote-swissborg/14373,"Lisbon,
+Portugal",Senior Fundamental Analyst (Remote),,remote:analyst:senior,4mo
+Horizon Blockchain Games,https://web3.career/senior-backend-engineer-go-horizon-blockchain-games/14372,United States,Senior Backend Engineer (GO),$33k - $160k,backend:dev:golang:senior:ethereum,4mo
+GSR,https://web3.career/2022-graduate-program-business-development-analyst-gsr/14371,"Singapore,
+Singapore",2022 Graduate Program - Business Development Analyst,,analyst:sales:non tech:intern:entry level,4mo
+Polygon,https://web3.career/product-marketing-specialist-polygon/14370,Remote,Product Marketing Specialist,$48k - $120k,marketing:non tech:ethereum:remote,4mo
+BC.GAME,https://web3.career/crypto-content-copywriter-bc-game-2/14367,Venezuela,Crypto Content & Copywriter,$0k,copywriting:crypto,4mo
+Consensys,https://web3.career/sr-accounting-manager-consensys/14366,Remote,Sr. Accounting Manager,,accounting:senior:ethereum:remote,4mo
+Consensys,https://web3.career/revenue-manager-consensys/14365,Remote,Revenue Manager,$60k - $145k,ethereum:remote,4mo
+Consensys,https://web3.career/product-analyst-web3-identity-consensys/14364,Remote,Product Analyst - Web3 Identity,$45k - $55k,analyst:ethereum:remote,4mo
+Consensys,https://web3.career/product-analyst-nfts-consensys/14363,Remote,Product Analyst - NFTs,$50k - $185k,analyst:nft:ethereum:remote,4mo
+Consensys,https://web3.career/dao-governance-strategist-consensys/14362,Remote,DAO Governance Strategist,$79k - $158k,ethereum:nft:remote,4mo
+Binance,https://web3.career/business-development-lead-card-pay-binance/14361,Remote,Business Development Lead (Card / Pay),,sales:non tech:lead:remote,4mo
+WOO Network,https://web3.career/talent-acquisition-coordinator-woonetwork/14360,"Taipei,
+Taiwan",Talent Acquisition Coordinator,$40k - $70k,recruiter:non tech,4mo
+Careers at Paxful,https://web3.career/financial-analyst-paxful/14359,"New York,
+United States",Financial Analyst,,analyst:finance,4mo
+Kronos Research,https://web3.career/talent-acquisition-coordinator-kronosresearch/14358,"Taipei,
+Taiwan",Talent Acquisition Coordinator,$40k - $70k,recruiter:non tech,4mo
+Bitfury,https://web3.career/senior-backend-developer-go-solidity-bitfury/14356,"Amsterdam,
+Netherlands","Senior Backend Developer (Go, Solidity)",$33k - $160k,backend:dev:golang:senior:solidity,5mo
+Bitfury,https://web3.career/senior-backend-developer-go-solidity-bitfury/14355,"Kiev,
+Ukraine","Senior Backend Developer (Go, Solidity)",$33k - $160k,backend:dev:golang:senior:solidity,5mo
+Bitfury,https://web3.career/senior-backend-developer-go-solidity-bitfury/14354,"Moscow,
+Russia","Senior Backend Developer (Go, Solidity)",$33k - $160k,backend:dev:golang:senior:solidity,5mo
+Horizon Blockchain Games,https://web3.career/technical-writer-sequence-horizon-blockchain-games/14353,"Toronto,
+Canada",Technical Writer (Sequence),$45k - $185k,analyst:ethereum,5mo
+Maker over Starknet,https://web3.career/senior-smart-contract-software-engineer-maker-over-starknet/14352,"New York,
+United States",Senior smart contract Software Engineer,$250k - $290k,dev:senior:smart contract:solidity,5mo
+SwissBorg,https://web3.career/paralegal-swissborg/14351,Remote,Paralegal,$56k - $160k,remote,5mo
+Wallfair,https://web3.career/solidity-developer-full-time-3469051-solidity-developer-full-time-utm_source-google_jobs_apply-pid-bce1fbd2f366390046fc/14350,Remote,Solidity Developer (Full Time),$90k - $135k,dev:full time:solidity:react:ethereum,5mo

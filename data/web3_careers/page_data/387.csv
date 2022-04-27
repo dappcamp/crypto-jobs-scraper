@@ -1,36 +1,69 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-River Financial,https://web3.career/senior-software-engineer-riverfinancial/9756,Senior Software Engineer,$80k - $200k,dev:senior:javascript:remote,5mo
-River Financial,https://web3.career/senior-software-engineer-riverfinancial/9755,Senior Software Engineer,$80k - $200k,dev:senior:javascript,5mo
-River Financial,https://web3.career/senior-software-engineer-riverfinancial/9754,Senior Software Engineer,$80k - $200k,dev:senior:javascript,5mo
-River Financial,https://web3.career/software-engineer-infrastructure-riverfinancial/9753,Software Engineer - Infrastructure,$65k - $180k,dev:remote,5mo
-River Financial,https://web3.career/software-engineer-infrastructure-riverfinancial/9752,Software Engineer - Infrastructure,$60k - $180k,dev,5mo
-River Financial,https://web3.career/security-software-engineer-riverfinancial/9751,Security Software Engineer,$95k - $250k,dev:security:remote,5mo
-River Financial,https://web3.career/security-software-engineer-riverfinancial/9750,Security Software Engineer,$95k - $250k,dev:security,5mo
-River Financial,https://web3.career/associate-relationship-manager-riverfinancial/9749,Associate Relationship Manager,$45k - $130k,marketing:non tech,5mo
-Protocol Labs,https://web3.career/technical-program-manager-r-d-labs-protocol/9748,"Technical Program Manager, R&D Labs",$79k - $200k,executive:remote,5mo
-Protocol Labs,https://web3.career/research-scientist-resnetlab-protocol/9747,"Research Scientist, ResNetLab",$56k - $160k,remote,5mo
-Protocol Labs,https://web3.career/research-scientist-cryptonetlab-protocol/9746,"Research Scientist, CryptoNetLab",$56k - $160k,remote,5mo
-Protocol Labs,https://web3.career/research-scientist-consensuslab-protocol/9745,"Research Scientist, ConsensusLab",$56k - $160k,remote,5mo
-Protocol Labs,https://web3.career/research-scientist-cryptoeconlab-protocol/9744,"Research Scientist, CryptoEconLab",$56k - $160k,remote,5mo
-Protocol Labs,https://web3.career/research-engineer-resilient-networks-lab-protocol/9743,"Research Engineer, Resilient Networks Lab",$65k - $180k,dev:remote,5mo
-Protocol Labs,https://web3.career/research-engineer-cryptocompute-lab-protocol/9742,"Research Engineer, CryptoCompute Lab",$65k - $180k,dev:remote,5mo
-Protocol Labs,https://web3.career/research-engineer-consensuslab-protocol/9741,"Research Engineer, ConsensusLab",$65k - $180k,dev:remote,5mo
-Protocol Labs,https://web3.career/protocol-engineer-cryptoeconlab-protocol/9740,"Protocol Engineer, CryptoEconLab",$65k - $180k,dev:remote,5mo
-Protocol Labs,https://web3.career/research-program-manager-protocol/9739,Research Program Manager,$79k - $200k,executive:remote,5mo
-Protocol Labs,https://web3.career/research-administrator-protocol/9738,Research Administrator,$56k - $160k,remote,5mo
-Protocol Labs,https://web3.career/technical-program-manager-infra-protocol/9737,"Technical Program Manager, Infra",$79k - $200k,executive:remote,5mo
-Protocol Labs,https://web3.career/product-manager-web3-core-protocols-protocol/9736,"Product Manager, Web3 Core Protocols",$115k - $175k,product manager:non tech:remote,5mo
-Protocol Labs,https://web3.career/senior-technical-recruiter-protocol/9735,Senior Technical Recruiter,$40k - $70k,recruiter:non tech:senior:remote,5mo
-Protocol Labs,https://web3.career/people-ops-generalist-protocol/9734,People Ops Generalist,$56k - $160k,remote,5mo
-Protocol Labs,https://web3.career/people-ops-coordinator-protocol/9733,People Ops Coordinator,$56k - $160k,remote,5mo
-Protocol Labs,https://web3.career/people-ops-business-partner-protocol/9732,People Ops Business Partner,$56k - $160k,remote,5mo
-Protocol Labs,https://web3.career/learning-and-development-program-manager-protocol/9731,Learning and Development Program Manager,$79k - $200k,executive:remote,5mo
-Protocol Labs,https://web3.career/corporate-counsel-protocol/9730,Corporate Counsel,,legal:remote,5mo
-Protocol Labs,https://web3.career/sr-software-engineer-libp2p-protocol/9729,"Sr. Software Engineer, libp2p",$85k - $200k,dev:senior:remote,5mo
-Protocol Labs,https://web3.career/sr-software-engineer-ipfs-protocol/9728,"Sr. Software Engineer, IPFS",$85k - $200k,dev:senior:remote,5mo
-Protocol Labs,https://web3.career/sr-software-engineer-filecoin-protocol/9727,"Sr. Software Engineer, Filecoin",$85k - $200k,dev:senior:remote,5mo
-Protocol Labs,https://web3.career/sr-software-engineer-distributed-systems-protocol/9726,"Sr. Software Engineer, Distributed Systems",$85k - $200k,dev:senior:remote,5mo
-Protocol Labs,https://web3.career/sr-software-engineer-cryptography-systems-protocol/9725,"Sr. Software Engineer, Cryptography & Systems",$85k - $200k,dev:senior:remote,5mo
-Protocol Labs,https://web3.career/sr-infra-engineer-netops-protocol/9724,"Sr. Infra Engineer, NetOps",$85k - $200k,dev:senior:remote,5mo
-Protocol Labs,https://web3.career/sr-data-engineer-protocol/9723,Sr. Data Engineer,$130k - $160k,data science:dev:senior:remote,5mo
-Protocol Labs,https://web3.career/engineering-manager-web3-core-protocols-protocol/9722,"Engineering Manager, Web3 Core Protocols",$79k - $200k,executive:remote,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Chainalysis,https://web3.career/software-engineer-summer-2022-internship-chainalysis/10257,"New York,
+United States","Software Engineer, Summer 2022 Internship",$12k - $33k,dev:intern:entry level,6mo
+Chainalysis,https://web3.career/senior-program-manager-chainalysis/10256,"New York,
+United States",Senior Program Manager,$46k - $110k,executive:senior,6mo
+Chainalysis,https://web3.career/senior-engineer-infrastructure-chainalysis/10255,"New York,
+United States","Senior Engineer, Infrastructure",$50k - $200k,dev:senior:java,6mo
+Chainalysis,https://web3.career/senior-engineer-fullstack-chainalysis/10254,"Aden,
+Yemen","Senior Engineer, Fullstack",$70k - $180k,dev:full stack:senior:react:java,6mo
+Chainalysis,https://web3.career/senior-engineer-fullstack-chainalysis/10253,"New York,
+United States","Senior Engineer, Fullstack",$70k - $180k,dev:full stack:senior:react:javascript,6mo
+Chainalysis,https://web3.career/senior-engineer-cloud-chainalysis/10252,"Copenhagen,
+Denmark","Senior Engineer, Cloud",,cloud:dev:senior:java,6mo
+Chainalysis,https://web3.career/senior-engineer-backend-chainalysis/10251,"Copenhagen,
+Denmark","Senior Engineer, Backend",$70k - $200k,backend:dev:senior:ethereum:java,6mo
+Chainalysis,https://web3.career/senior-engineer-backend-chainalysis/10250,"New York,
+United States","Senior Engineer, Backend",$70k - $200k,backend:dev:senior:java,6mo
+Chainalysis,https://web3.career/engineering-manager-product-access-configuration-chainalysis/10249,"London,
+United Kingdom","Engineering Manager, Product Access & Configuration",$70k - $180k,executive,6mo
+Chainalysis,https://web3.career/engineering-manager-developer-productivity-chainalysis/10248,"London,
+United Kingdom","Engineering Manager, Developer Productivity",$70k - $300k,executive:dev,6mo
+Chainalysis,https://web3.career/engineering-manager-chainalysis/10247,"Copenhagen,
+Denmark",Engineering Manager,$70k - $180k,executive,6mo
+Chainalysis,https://web3.career/engineering-manager-chainalysis/10246,"London,
+United Kingdom",Engineering Manager,$70k - $180k,executive,6mo
+Chainalysis,https://web3.career/engineering-manager-chainalysis/10245,"New York,
+United States",Engineering Manager,$70k - $180k,executive,6mo
+Chainalysis,https://web3.career/engineer-fullstack-chainalysis/10244,Denmark,"Engineer, Fullstack",$65k - $180k,dev:full stack:react:scala:java,6mo
+Chainalysis,https://web3.career/engineer-backend-chainalysis/10243,"New York,
+United States","Engineer, Backend",$60k - $160k,backend:dev:java,6mo
+Chainalysis,https://web3.career/director-of-engineering-core-services-chainalysis/10242,"London,
+United Kingdom","Director of Engineering, Core Services",$70k - $180k,executive,6mo
+Chainalysis,https://web3.career/director-of-engineering-chainalysis/10241,"New York,
+United States",Director of Engineering,$70k - $180k,executive,6mo
+Chainalysis,https://web3.career/associate-staff-engineer-backend-chainalysis/10240,"New York,
+United States","Associate Staff Engineer, Backend",$60k - $160k,backend:dev:java,6mo
+Chainalysis,https://web3.career/special-operations-manager-chainalysis/10239,"Washington,
+United States",Special Operations Manager,$60k - $200k,operations,6mo
+Chainalysis,https://web3.career/russian-cybercrimes-specialist-chainalysis/10238,"Washington,
+United States",Russian Cybercrimes Specialist,,,6mo
+Chainalysis,https://web3.career/collections-strategy-manager-sanctions-chainalysis/10237,"Washington,
+United States","Collections Strategy Manager, Sanctions",,,6mo
+Chainalysis,https://web3.career/technical-writer-chainalysis/10236,"London,
+United Kingdom",Technical Writer,$150k - $185k,analyst:javascript,6mo
+Chainalysis,https://web3.career/director-technical-documentation-chainalysis/10235,"London,
+United Kingdom","Director, Technical Documentation",$70k - $180k,executive,6mo
+Chainalysis,https://web3.career/customer-success-manager-state-local-chainalysis/10234,"New York,
+United States","Customer Success Manager, State & Local",,sales:non tech:customer support,6mo
+Chainalysis,https://web3.career/associate-customer-success-manager-german-speaking-emea-chainalysis/10233,"Frankfurt,
+Germany","Associate Customer Success Manager (German Speaking), EMEA",,sales:non tech:customer support:remote,6mo
+Celo Foundation,https://web3.career/technical-recruiter-celo-foundation-celofoundation/10232,"San Francisco,
+United States","Technical Recruiter, Celo Foundation",$40k - $70k,recruiter:non tech,6mo
+Celo Foundation,https://web3.career/research-innovation-intern-celo-foundation-spring-summer-2022-celofoundation/10231,,"Research & Innovation Intern, Celo Foundation (Spring/Summer 2022)",,intern:entry level,6mo
+Celo Foundation,https://web3.career/investment-analyst-partner-celo-foundation-celofoundation/10230,"San Francisco,
+United States","Investment Analyst Partner, Celo Foundation",,analyst:finance,6mo
+Celo Foundation,https://web3.career/developer-communications-lead-celo-foundation-celofoundation/10229,"San Francisco,
+United States","Developer Communications Lead, Celo Foundation",$100k - $200k,dev:lead,6mo
+Celo Foundation,https://web3.career/corporate-communications-lead-celo-foundation-celofoundation/10228,"San Francisco,
+United States","Corporate Communications Lead, Celo Foundation",$60k - $200k,lead,6mo
+Celo Foundation,https://web3.career/communications-coordinator-celo-foundation-celofoundation/10227,"San Francisco,
+United States","Communications Coordinator, Celo Foundation",,,6mo
+Celo Foundation,https://web3.career/apac-communications-partner-celo-foundation-celofoundation/10226,"Singapore,
+Singapore","APAC Communications Partner, Celo Foundation",,,6mo
+CANDY,https://web3.career/senior-frontend-engineer-candy/10225,"New York,
+United States",Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:javascript,6mo
+CANDY,https://web3.career/senior-backend-engineer-candy/10224,"New York,
+United States",Senior Backend Engineer,$70k - $200k,backend:dev:senior:java,6mo
+CANDY,https://web3.career/vp-product-candy/10223,"New York,
+United States","VP, Product",$63k - $180k,executive:nft,6mo

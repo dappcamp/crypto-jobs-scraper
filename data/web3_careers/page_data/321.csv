@@ -1,36 +1,63 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Crypto.com,https://web3.career/it-support-engineer-au-crypto-com/12812,IT Support Engineer (AU),$90k - $140k,dev:customer support,5mo
-Aave,https://web3.career/communications-manager-web3-aave/12811,Communications Manager (Web3),$45k - $130k,marketing:non tech,5mo
-wappier,https://web3.career/blockchain-smart-contract-engineer-remote-wappier/12810,Blockchain smart contract engineer (Remote),$70k - $190k,remote:dev:blockchain:smart contract:react,5mo
-BytePitch - Software Labs,https://web3.career/blockchain-software-engineer-bytepitch-softwarelabs/12809,Blockchain Software Engineer,$52k - $160k,dev:blockchain:solidity:ethereum:javascript,5mo
-Gooddollar.org,https://web3.career/senior-solidity-and-defi-architect-gooddollar-org/12808,Senior Solidity And DEFI Architect,,architecture:senior:defi:solidity,5mo
-Crypto.com,https://web3.career/senior-qa-engineer-qa-lead-global-fintech-startup-crypto-com/12807,Senior QA Engineer/ QA Lead - Global Fintech startup,,dev:finance:lead:quality assurance:senior,5mo
-Crypto Finance AG,https://web3.career/product-manager-derivatives-crypto-cryptofinanceag/12806,Product Manager - Derivatives (Crypto),$60k - $160k,product manager:non tech:crypto,5mo
-Crypto.com,https://web3.career/head-of-wfm-crypto-com/12805,Head of WFM,$70k - $180k,executive,5mo
-Virtually Human Studio,https://web3.career/full-stack-blockchain-engineer-remote-virtuallyhumanstudio/12804,Full-stack Blockchain Engineer (Remote),$70k - $200k,remote:dev:full stack:blockchain:web3js,5mo
-Avantgarde Finance,https://web3.career/defi-solidity-smart-contracts-engineer-avantgardefinance/12803,DeFi Solidity Smart Contracts Engineer,$100k - $300k,dev:defi:smart contract:solidity,5mo
-Crypto.com,https://web3.career/vp-customer-success-crypto-com/12802,VP Customer Success,,customer support:executive,5mo
-Crypto.com,https://web3.career/senior-finance-manager-global-fintech-startup-crypto-com/12801,Senior Finance Manager - Global Fintech Startup,$50k - $150k,finance:senior,5mo
-Top Crypto,https://web3.career/product-designer-topcrypto/12800,Product Designer,$50k - $135k,design:non tech:remote,5mo
-Hike,https://web3.career/crypto-game-economist-full-time-remote-hike/12799,"Crypto Game Economist (Full Time, Remote)",,remote:full time:game dev:crypto,5mo
-Qwinix,https://web3.career/product-owner-blockchain-qwinix/12798,Product Owner - Blockchain,$35k - $120k,product manager:non tech:blockchain,5mo
-DoinGud,https://web3.career/solidity-developer-doingud/12797,Solidity Developer,$70k - $150k,dev:solidity:nft,5mo
-Crypto.com,https://web3.career/it-support-engineer-crypto-com/12796,IT Support Engineer,$90k - $140k,dev:customer support,5mo
-Crypto.com,https://web3.career/product-manager-crypto-com/12795,Product Manager,$69k - $160k,product manager:non tech,5mo
-Crypto.com,https://web3.career/market-risk-analyst-for-crypto-trading-crypto-com/12794,Market Risk Analyst for Crypto Trading,$20k - $120k,analyst:crypto,5mo
-Crypto.com,https://web3.career/security-engineering-technical-lead-uk-crypto-com/12793,Security Engineering Technical Lead (UK),,lead:security:tech lead,5mo
-Brinc,https://web3.career/associate-program-manager-blockchain-startup-accelerator-brinc/12792,Associate Program Manager - Blockchain Startup Accelerator,$46k - $200k,executive:blockchain,5mo
-Crypto.com,https://web3.career/product-designer-internal-tools-global-fintech-startup-crypto-com/12791,Product Designer (Internal Tools) - Global Fintech Startup,,design:non tech:finance:remote,5mo
-Crypto.com,https://web3.career/site-reliability-engineer-crypto-com/12790,Site Reliability Engineer,$150k - $200k,dev:sys admin,5mo
-RDX Works,https://web3.career/crypto-community-liaison-full-time-paid-opportunity-rdxworks/12789,Crypto Community Liaison - Full Time Paid Opportunity,,community manager:non tech:full time:crypto,5mo
-Bitaccess,https://web3.career/software-engineer-bitcoin-crypto-blockchain-bitaccess/12788,"Software Engineer - Bitcoin, Crypto & Blockchain",,dev:btc:blockchain:crypto:ethereum,5mo
-Applied Blockchain,https://web3.career/marketing-manager-appliedblockchain/12787,Marketing Manager,,marketing:non tech:javascript,5mo
-Qredo,https://web3.career/content-writer-blockchain-crypto-europe-qredo/12786,"Content Writer - Blockchain/Crypto, Europe",$30k - $40k,copywriting:blockchain:crypto,5mo
-Crypto.com,https://web3.career/security-compliance-analyst-crypto-com/12785,Security Compliance Analyst,,compliance:analyst:security,5mo
-Mindera,https://web3.career/blockchain-developer-mindera/12784,Blockchain Developer,$52k - $160k,dev:blockchain:solidity:javascript:scala,5mo
-Everledger,https://web3.career/senior-blockchain-engineer-nft-specialist-bengaluru-everledger/12783,Senior Blockchain Engineer (NFT specialist)- Bengaluru,$80k - $200k,dev:senior:blockchain:nft:solidity,5mo
-BytePitch - Software Labs,https://web3.career/blockchain-software-engineer-full-time-contractor-bytepitch-softwarelabs/12782,Blockchain Software Engineer - Full Time Contractor,$89k - $142k,dev:full time:blockchain:solidity:ethereum,5mo
-Adoriasoft Inc.,https://web3.career/fullstack-blockchain-developer-for-primex-finance-adoriasoftinc/12781,Fullstack Blockchain Developer for Primex Finance,,dev:finance:full stack:blockchain:web3js,5mo
-Mirana,https://web3.career/quant-trader-defi-mirana/12780,Quant Trader (Defi),,trader:defi:java,5mo
-Crypto.com,https://web3.career/smart-contract-auditor-americas-will-consider-rust-golang-developers-crypto-com/12779,Smart Contract Auditor - Americas - (Will consider Rust / GoLang Developers),$70k - $150k,golang:rust:smart contract:solidity:ethereum,5mo
-Mirana,https://web3.career/blockchain-defi-researcher-junior-defi-trading-dex-mirana/12778,"Blockchain/Defi Researcher - Junior (Defi, Trading, Dex)",$109k - $11k,junior:entry level:blockchain:defi:ethereum,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Metrika Inc.,https://web3.career/data-engineer-metrika/13353,Remote,Data Engineer,,data science:dev:remote,5mo
+Metrika Inc.,https://web3.career/data-scientist-blockchain-protocols-metrika/13352,Remote,Data Scientist (Blockchain Protocols),,data science:blockchain:remote,5mo
+Chronicled.com,https://web3.career/implementation-consultant-chronicled-2/13350,Remote,Implementation Consultant,,consulting:remote,5mo
+CANDY,https://web3.career/senior-full-stack-developer-candy/13348,"New York,
+United States",Senior Full-Stack Developer,$70k - $180k,dev:full stack:senior:nft:javascript,5mo
+CANDY,https://web3.career/senior-frontend-engineer-candy/13347,"New York,
+United States",Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:javascript,5mo
+CANDY,https://web3.career/senior-blockchain-engineer-smart-contracts-candy/13346,"New York,
+United States",Senior Blockchain Engineer (Smart Contracts),$80k - $200k,dev:senior:blockchain:smart contract:solidity,5mo
+CANDY,https://web3.career/senior-backend-engineer-candy/13345,"New York,
+United States",Senior Backend Engineer,$70k - $200k,backend:dev:senior:java,5mo
+CANDY,https://web3.career/data-scientist-candy/13344,"New York,
+United States",Data Scientist,$50k - $150k,data science:nft,5mo
+CANDY,https://web3.career/vp-product-candy/13343,"New York,
+United States","VP, Product",$63k - $180k,executive:nft,5mo
+CANDY,https://web3.career/user-experience-researcher-candy/13342,"New York,
+United States",User Experience Researcher,$60k - $150k,design:non tech:nft,5mo
+CANDY,https://web3.career/senior-product-manager-candy/13341,"New York,
+United States",Senior Product Manager,$80k - $150k,product manager:non tech:senior,5mo
+CANDY,https://web3.career/vp-people-candy/13340,"New York,
+United States","VP, People",$70k - $180k,executive,5mo
+CANDY,https://web3.career/people-operations-coordinator-candy/13339,"New York,
+United States",People Operations Coordinator,$60k - $200k,operations,5mo
+CANDY,https://web3.career/business-operations-associate-candy/13338,"New York,
+United States",Business Operations Associate,$60k - $200k,operations,5mo
+CANDY,https://web3.career/associate-market-intelligence-motorsports-candy/13337,"New York,
+United States","Associate, Market Intelligence (Motorsports)",$55k - $150k,nft,5mo
+CANDY,https://web3.career/sr-manager-pr-communications-candy/13336,"New York,
+United States","Sr. Manager, PR & Communications",$46k - $109k,marketing:non tech:senior,5mo
+CANDY,https://web3.career/senior-marketing-manager-social-platforms-candy/13335,"New York,
+United States",Senior Marketing Manager (Social Platforms),$46k - $109k,marketing:non tech:senior,5mo
+CANDY,https://web3.career/senior-marketing-manager-retention-candy/13334,"New York,
+United States",Senior Marketing Manager - Retention,,marketing:non tech:product manager:senior,5mo
+CANDY,https://web3.career/senior-marketing-manager-forums-and-communities-candy/13333,"New York,
+United States",Senior Marketing Manager (Forums and Communities),$46k - $109k,marketing:non tech:senior,5mo
+CANDY,https://web3.career/content-marketing-associate-candy/13332,"New York,
+United States",Content Marketing Associate,$45k - $130k,marketing:non tech,5mo
+CANDY,https://web3.career/senior-user-experience-designer-candy/13331,"New York,
+United States",Senior User Experience Designer,$60k - $120k,design:non tech:senior:nft:javascript,5mo
+CANDY,https://web3.career/senior-video-editor-candy/13330,"New York,
+United States",Senior Video Editor,,senior:video,5mo
+CANDY,https://web3.career/senior-sound-designer-candy/13329,"New York,
+United States",Senior Sound Designer,$60k - $120k,design:non tech:senior,5mo
+CANDY,https://web3.career/senior-graphic-designer-motion-candy/13328,"New York,
+United States",Senior Graphic Designer (Motion),$60k - $120k,design:non tech:senior,5mo
+CANDY,https://web3.career/3d-modeler-candy/13327,"New York,
+United States",3D Modeler,$13k - $50k,vfx,5mo
+CANDY,https://web3.career/3d-animator-candy/13326,"New York,
+United States",3D Animator,,vfx:video,5mo
+CANDY,https://web3.career/strategic-account-manager-sports-candy/13325,"New York,
+United States",Strategic Account Manager (Sports),,account manager,5mo
+CANDY,https://web3.career/strategic-account-director-sports-candy/13324,"New York,
+United States",Strategic Account Director (Sports),$70k - $180k,executive,5mo
+Boson Protocol,https://web3.career/crypto-assistant-accountant-bosonprotocol/13323,"London,
+United Kingdom",Crypto Assistant Accountant,$24k - $45k,accounting:crypto,5mo
+Consensys,https://web3.career/head-of-research-and-development-protocol-consensys/13322,Remote,Head of Research and Development (Protocol),$79k - $158k,executive:ethereum:remote,5mo
+Consensys,https://web3.career/devops-engineer-consensys/13321,United States,DevOps Engineer,,devops:dev:react:ethereum,5mo
+Bitfinex,https://web3.career/blockchain-integration-specialist-remote-bitfinex/13320,Remote,Blockchain Integration Specialist (Remote),$60k - $120k,remote:blockchain:solidity:ethereum:javascript,5mo
+Crypto.com,https://web3.career/senior-java-developer-price-page-singapore-crypto-com/13319,"Singapore,
+Singapore",(Senior) Java Developer (Price Page) - Singapore,$50k - $200k,dev:java:senior,5mo
+questW,https://web3.career/principal-software-engineer-3406467-principal-software-engineer/13318,Switzerland,Principal Software Engineer,$200k - $400k,dev:executive:react,5mo
+IOVLabs,https://web3.career/product-designer-iovlabs/13317,Remote,Product Designer,$50k - $135k,design:non tech:remote,5mo

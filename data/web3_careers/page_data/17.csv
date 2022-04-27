@@ -1,36 +1,57 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Horizon Blockchain Games,https://web3.career/senior-web3-frontend-developer-remote-horizon/25934,Senior Web3 Frontend Developer - Remote,$30k - $140k,remote:dev:front end:senior:web3js,7d
-Horizon Blockchain Games,https://web3.career/technical-recruiter-remote-horizon/25933,Technical Recruiter - Remote,,remote:recruiter:non tech:ethereum:nft,7d
-Horizon Blockchain Games,https://web3.career/twitter-specialist-sequence-niftyswap-horizon/25932,"Twitter Specialist, Sequence & Niftyswap",,social media:non tech:ethereum:nft,7d
-Horizon Blockchain Games,https://web3.career/unity-game-developer-horizon/25931,Unity Game Developer,,dev:game dev:ethereum:nft,7d
-Energi Core Limited,https://web3.career/finance-manager-energicorelimited/25930,Finance Manager,$15k - $150k,finance:ethereum,7d
-MomentRanks,https://web3.career/social-media-manager-momentranks/25929,Social Media Manager,$80k - $105k,social media:non tech:remote:community manager:marketing,7d
-Stellar Development Foundation,https://web3.career/senior-data-engineer-stellar/25928,Senior Data Engineer,$130k - $160k,data science:dev:senior:golang,7d
-Terraform Labs,https://web3.career/product-designer-anchor-terra/25927,Product Designer (Anchor),$50k - $135k,design:non tech:remote:ethereum,8d
-Kraken Digital Asset Exchange,https://web3.career/internal-communications-specialist-kraken/25923,Internal Communications Specialist,$56k - $160k,remote,8d
-Monad,https://web3.career/software-engineer-compilers-monad/25922,Software Engineer - Compilers,$60k - $180k,dev,8d
-Newton,https://web3.career/event-coordinator-administrative-assistant-austin-tx-newton/25921,"Event Coordinator & Administrative Assistant - Austin,TX",,events manager:non tech,8d
-OpenSea,https://web3.career/counsel-opensea/25920,Counsel,,legal:remote,8d
-Immutable,https://web3.career/head-of-channel-publishing-immutable/25918,Head of Channel Publishing,$79k - $158k,executive:ethereum,8d
-Consensys,https://web3.career/security-analyst-consensys/25917,Security Analyst,,analyst:security:remote:ethereum,8d
-Amun 21Shares,https://web3.career/legal-associate-product-lawyer-amun/25916,"Legal Associate, Product Lawyer",$24k - $140k,legal,8d
-Amun 21Shares,https://web3.career/legal-associate-product-lawyer-amun/25915,"Legal Associate, Product Lawyer",$24k - $140k,legal,8d
-Bitpanda,https://web3.career/service-manager-bitpanda/25914,Service Manager,,php:java:golang,8d
-Alchemy,https://web3.career/customer-product-engineer-alchemy/25913,Customer Product Engineer,$60k - $180k,dev,8d
-NEAR,https://web3.career/technical-recruiter-near/25912,Technical Recruiter,$40k - $70k,recruiter:non tech,8d
-Energi Core Limited,https://web3.career/qa-engineer-energicorelimited/25911,QA Engineer,$65k - $150k,dev:quality assurance:ethereum,8d
-BlockFi,https://web3.career/structuring-senior-analyst-derivatives-blockfi/25910,"Structuring Senior Analyst, Derivatives",$150k - $185k,analyst:senior,8d
-Immutable,https://web3.career/senior-security-engineer-immutable/25909,Senior Security Engineer,$95k - $250k,dev:security:senior:ethereum,8d
-Immutable,https://web3.career/recruitment-coordinator-immutable/25907,Recruitment Coordinator,,recruiter:non tech:ethereum:nft,8d
-NEAR,https://web3.career/technical-recruiter-near/25906,Technical Recruiter,$40k - $70k,recruiter:non tech,8d
-Coin Metrics,https://web3.career/recruiting-sourcer-coinmetrics/25905,RECRUITING SOURCER,$40k - $70k,recruiter:non tech,8d
-Bittrex,https://web3.career/senior-accountant-remote-bittrex/25904,Senior Accountant - REMOTE,,remote:accounting:senior,8d
-Optimism,https://web3.career/partnerships-manager-defi-optimism-pbc/25903,"Partnerships Manager, DeFi",$79k - $140k,sales:non tech:defi:ethereum,8d
-SALT,https://web3.career/devops-engineer-saltlending/25902,DevOps Engineer,$60k - $145k,devops:dev:ethereum,8d
-Chainalysis,https://web3.career/customer-support-specialist-emea-chainalysis/25901,"Customer Support Specialist, EMEA",$40k - $80k,customer support,8d
-Bitfury,https://web3.career/associate-director-of-tax-remote-office-work-50-50-bitfury/25900,"Associate Director of Tax (Remote+Office work, 50/50)",,remote:executive:accounting,8d
-Mycelium,https://web3.career/smart-contract-lead-myc-xyz/25896,Smart Contract Lead,$140k - $220k,lead:smart contract:solidity,8d
-Ripple,https://web3.career/sr-associate-business-development-ripplex-ripple/25895,"Sr. Associate, Business Development, RippleX",$50k - $150k,sales:non tech:senior,8d
-Chainalysis,https://web3.career/cybercrimes-investigator-defi-hebrew-speaker-chainalysis/25894,Cybercrimes investigator - DeFi (Hebrew speaker),$65k - $160k,defi,8d
-Blockdaemon,https://web3.career/software-engineer-blockdaemon/25893,Software Engineer,$60k - $155k,dev:javascript:node,8d
-Blockdaemon,https://web3.career/senior-software-engineer-blockdaemon/25892,Senior Software Engineer,$80k - $200k,dev:senior:javascript:node,8d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+BlockFi,https://web3.career/ux-product-design-manager-blockfi/26512,"New York,
+United States",UX Product Design Manager,,executive:design:non tech,6d
+Flippa,https://web3.career/data-engineer-marketplace-flippa/26510,"Austin,
+United States",Data Engineer - Marketplace,$70k - $160k,data science:dev,6d
+Blockdaemon,https://web3.career/business-development-representative-emea-blockdaemon/26508,"Los Angeles,
+United States","Business Development Representative, EMEA",$26k - $140k,sales:non tech,6d
+Groma,https://web3.career/workplace-operations-manager-groma/26506,"Boston,
+United States",Workplace Operations Manager,$60k - $200k,operations,6d
+Bitcoin Depot,https://web3.career/software-development-manager-bitcoindepot/26504,"Atlanta,
+United States",Software Development Manager,$57k - $140k,dev:react:ethereum:node,6d
+Terraform Labs,https://web3.career/web-developer-terra/26502,Remote,Web Developer,$65k - $150k,dev:remote:ethereum,7d
+Onlife,https://web3.career/principal-blockchain-software-engineer-onlife/26501,Remote,Principal Blockchain Software Engineer,$50k - $300k,dev:executive:blockchain:remote,7d
+Syndica,https://web3.career/senior-javascript-engineer-syndica/26500,Remote,Senior Javascript Engineer,$80k - $200k,dev:javascript:senior:remote:react,7d
+Eco,https://web3.career/legal-counsel-econetwork/26499,,Legal Counsel,$24k - $140k,legal,7d
+Futureswap,https://web3.career/senior-frontend-engineer-futureswap/26498,"San Francisco,
+United States",Senior Frontend Engineer,$160k - $200k,dev:front end:senior:blockchain:crypto,7d
+Spring Labs,https://web3.career/sr-software-development-engineer-in-test-sdet-springlabs/26497,"Los Angeles,
+United States",Sr Software Development Engineer in Test (SDET),$50k - $150k,quality assurance:dev,7d
+Braintrust,https://web3.career/ux-strategist-researche-remote-braintrust/26495,"San Francisco,
+United States",UX Strategist - Researche [Remote],$50k - $150k,remote:design:non tech,7d
+Aptos,https://web3.career/investor-relations-lead-aptoslabs/26494,"New York,
+United States",Investor Relations Lead,$35k - $150k,finance:lead,7d
+Foundry,https://web3.career/data-compliance-analyst-foundrydigital/26492,"New York,
+United States",Data Compliance Analyst,,compliance:analyst,7d
+Foundry,https://web3.career/compliance-analyst-foundrydigital/26491,"New York,
+United States",Compliance Analyst,,compliance:analyst,7d
+Concept Art House,https://web3.career/technical-recruiter-conceptarthouse/26490,"San Francisco,
+United States",Technical Recruiter,$51k - $70k,recruiter:non tech,7d
+Injective Labs,https://web3.career/product-data-analyst-injectivelabs/26489,Remote,Product Data Analyst,$45k - $120k,analyst:data science:remote,7d
+Braintrust,https://web3.career/senior-unity-developer-remote-braintrust/26488,"San Francisco,
+United States",Senior Unity Developer [REMOTE],$89k - $200k,remote:dev:senior,7d
+"Palm NFT Studio, Inc.",https://web3.career/financial-controller-palmnftstudioinc/26487,"New York,
+United States",Financial Controller,,legal:finance:nft,7d
+Brave,https://web3.career/brave-wallet-sr-software-engineer-core-brave/26486,"San Francisco,
+United States",Brave Wallet - Sr. Software Engineer - Core,$90k - $220k,dev:senior:solana:ethereum:javascript,7d
+Polygon,https://web3.career/growth-analyst-polygon/26485,Any,Growth Analyst,,analyst:marketing:non tech:remote:ethereum,7d
+Ava Labs,https://web3.career/product-marketing-director-avalabs/26483,"New York,
+United States",Product Marketing Director,$70k - $158k,executive:marketing:non tech,7d
+CoinFlip,https://web3.career/lead-react-developer-coinflip/26482,"Tampa, FL",Lead React Developer,$100k - $200k,dev:lead:javascript:react,7d
+Foundation,https://web3.career/product-marketing-lead-with-foundation/26481,Remote,Product Marketing Lead,$50k - $120k,lead:marketing:non tech:remote,7d
+Mandana Impact,https://web3.career/ux-ui-designer-mandana-impact/26480,Remote,UX\UI Designer,,design:non tech:remote:product manager:tech lead,7d
+RECUR,https://web3.career/royalties-analyst-recur/26479,"Miami,
+United States",Royalties Analyst,$36k - $120k,analyst:nft,7d
+æternity blockchain,https://web3.career/community-manager-aeternity-blockchain/26477,Vaduz Vaduz Liechtenstein,Community Manager,$0k,community manager:non tech,7d
+æternity blockchain,https://web3.career/technical-marketing-writer-aeternity-blockchain/26476,Vaduz Vaduz Liechtenstein,Technical Marketing Writer,$0k,marketing:non tech,7d
+VCRED,https://web3.career/backend-developer-vcred/26475,Remote,Backend Developer,$55k - $75k,backend:dev:remote:python:solidity,7d
+Chainlink Labs,https://web3.career/community-manager-brazil-chainlink/26474,Remote,"Community Manager, Brazil",$40k - $105k,community manager:non tech:remote,7d
+Ignite,https://web3.career/senior-product-designer-ignite/26473,"Berlin,
+Germany",Senior Product Designer,$60k - $120k,design:non tech:senior,7d
+GSR,https://web3.career/product-strategist-crypto-associate-gsr/26472,"New York,
+United States","Product Strategist (Crypto), Associate",$40k - $140k,crypto,7d
+Protocol Labs,https://web3.career/senior-software-engineer-bedrock-protocollabs/26471,,Senior Software Engineer - Bedrock,$80k - $200k,dev:senior:javascript:rust,7d
+"Reach Platform, Inc.",https://web3.career/data-engineer-reachplatforminc/26470,"Boston,
+United States",Data Engineer,,data science:dev:java,7d
+OKX,https://web3.career/software-engineer-platform-services-okx/26469,"Singapore,
+Singapore",Software Engineer - Platform Services,$33k - $140k,dev:java,7d

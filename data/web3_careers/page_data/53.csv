@@ -1,36 +1,53 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-GSR,https://web3.career/product-control-vice-president-cryptocurrency-trading-new-york-gsr/24452,Product Control - Vice President - Cryptocurrency Trading - New York,$39k - $140k,crypto,22d
-GSR,https://web3.career/product-control-senior-associate-cryptocurrency-trading-singapore-gsr/24451,Product Control - Senior Associate - Cryptocurrency Trading - Singapore,$50k - $150k,senior:crypto,22d
-GSR,https://web3.career/product-control-senior-associate-cryptocurrency-trading-london-gsr/24450,Product Control - Senior Associate - Cryptocurrency Trading - London,$50k - $150k,senior:crypto,22d
-Rogers & Cowan PMK,https://web3.career/account-manager-gaming-digital-entertainment-pr-rcpmk/24448,"Account Manager, Gaming & Digital Entertainment PR",,marketing:non tech:account manager:game dev,22d
-RECUR,https://web3.career/copy-of-community-manager-engagement-apac-recur/24447,Copy of Community Manager - Engagement (APAC),$15k - $30k,community manager:non tech:ethereum:nft,22d
-Circa - IPG DXTRA,https://web3.career/account-manager-gaming-digital-entertainment-pr-dxacirca/24446,"Account Manager, Gaming & Digital Entertainment PR",,marketing:non tech:account manager:game dev,22d
-Bitwise Asset Management,https://web3.career/executive-assistant-special-projects-bitwiseinvestments/24445,Executive Assistant & Special Projects,$70k - $180k,executive,22d
-Mythical Games,https://web3.career/development-director-platform-mythicalgames/24444,Development Director - Platform,$140k - $180k,executive:java,22d
-Binance,https://web3.career/it-support-specialist-brazil-binance/24442,IT Support Specialist - Brazil,$40k - $80k,customer support,22d
-Ledger,https://web3.career/project-manager-customer-success-ledger/24441,Project Manager - Customer Success,,customer support:project manager:non tech,22d
-Ledger,https://web3.career/operations-manager-customer-success-ledger/24440,Operations Manager - Customer Success,$60k - $80k,customer support:operations,22d
-Binance,https://web3.career/senior-product-manager-wallet-defi-binance/24439,Senior Product Manager (Wallet & DeFi),$80k - $150k,product manager:non tech:senior:defi:remote,22d
-BitGo,https://web3.career/director-of-talent-bitgo/24437,Director of Talent,,executive:recruiter:non tech,22d
-Voodoo,https://web3.career/lead-creative-manager-voodoo/24436,Lead Creative Manager,$60k - $200k,lead,22d
-Galaxy Digital Services,https://web3.career/accounts-payable-specialist-galaxydigitalservices/24435,Accounts Payable Specialist,$120k - $150k,finance:accounting,23d
-Binance,https://web3.career/java-backend-developer-security-binance/24434,Java Backend Developer (Security),$60k - $160k,backend:dev:java:security,23d
-Localcoin,https://web3.career/people-talent-coordinator-localcoin/24433,People & Talent Coordinator,$40k - $70k,recruiter:non tech,23d
-Kraken Digital Asset Exchange,https://web3.career/senior-devsecops-engineer-staked-kraken/24431,Senior DevSecOps Engineer - Staked,$85k - $200k,dev:senior:remote:node,23d
-Ripple,https://web3.career/staff-platform-engineer-ripple/24430,Staff Platform Engineer,$33k - $140k,dev:java,23d
-Ripple,https://web3.career/senior-staff-platform-engineer-ripple/24429,Senior Staff Platform Engineer,$50k - $200k,dev:senior:java,23d
-Blockchain.com,https://web3.career/talent-operations-manager-blockchain/24428,Talent Operations Manager,,operations:recruiter:non tech,23d
-Blockchain.com,https://web3.career/financial-operations-associate-blockchain/24427,Financial Operations Associate,$55k - $200k,finance:operations,23d
-Grow Advertising,https://web3.career/cofounder-cto-blockchain-privacy-browser-1-of-token-supply-potential-unicorn-grow-advertising-2/24426,Cofounder / CTO - Blockchain Privacy Browser - 1% of token supply - Potential Unicorn,$180k - $240k,cto:executive:blockchain:nft,23d
-Myosin.xyz,https://web3.career/growth-marketing-manager-myosin-xyz/24425,Growth Marketing Manager,$100k - $200k,marketing:non tech:remote:dao:sales,23d
-Protocol Labs,https://web3.career/learning-and-development-program-manager-launchpad-protocollabs/24424,Learning and Development Program Manager - Launchpad,$70k - $180k,executive,23d
-Ripple,https://web3.career/staff-devops-engineer-ripple/24423,Staff DevOps Engineer,$70k - $180k,devops:dev,23d
-Blockchain.com,https://web3.career/senior-it-support-engineer-blockchain/24422,Senior IT Support Engineer,,dev:senior:customer support,23d
-Blockchain.com,https://web3.career/senior-it-support-engineer-blockchain/24421,Senior IT Support Engineer,,dev:senior:customer support,23d
-Maven,https://web3.career/risk-manager-digital-assets-mavensecuritiesholdingltd/24420,Risk Manager - Digital Assets,$40k - $150k,finance,23d
-Braintrust,https://web3.career/full-stack-software-engineers-remote-braintrust/24419,Full Stack Software Engineers [REMOTE],$70k - $200k,remote:full stack:dev,23d
-Okcoin,https://web3.career/design-sourcer-okcoin/24418,Design Sourcer,,recruiter:non tech:design,23d
-Okcoin,https://web3.career/design-recruiter-okcoin/24417,Design Recruiter,,design:non tech:recruiter,23d
-Okcoin,https://web3.career/content-design-manager-okcoin/24416,Content Design Manager,,executive:design:non tech,23d
-HQ Digital,https://web3.career/quality-assurance-engineer-hqdigital/24415,Quality Assurance Engineer,$60k - $180k,dev,23d
-Figure,https://web3.career/lead-product-designer-figure-pay-figure/24414,"Lead Product Designer, Figure Pay",$40k - $190k,design:non tech:lead,23d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Messari,https://web3.career/research-specialist-asset-profiles-messari/25058,Remote,"Research Specialist, Asset Profiles",$56k - $160k,remote,25d
+Messari,https://web3.career/director-messari-asset-coverage-services-messari/25057,Remote,"Director, Messari Asset Coverage Services",$79k - $200k,executive:remote,25d
+Messari,https://web3.career/user-researcher-messari/25056,Remote,User Researcher,$56k - $160k,remote,25d
+Messari,https://web3.career/product-manager-messari-governor-messari/25055,Remote,Product Manager - Messari Governor,$115k - $175k,product manager:non tech:remote,25d
+Messari,https://web3.career/product-manager-market-intelligence-messari/25054,Remote,Product Manager - Market Intelligence,$115k - $175k,product manager:non tech:remote,25d
+Messari,https://web3.career/corporate-paralegal-messari/25053,Remote,Corporate Paralegal,$56k - $160k,remote,25d
+Messari,https://web3.career/digital-marketing-manager-messari/25052,Remote,Digital Marketing Manager,$25k - $120k,marketing:non tech:remote,25d
+Messari,https://web3.career/software-engineer-market-data-messari/25051,Remote,"Software Engineer, Market Data",$65k - $180k,dev:remote,25d
+Messari,https://web3.career/software-engineer-defi-metrics-messari/25050,Remote,"Software Engineer, DeFi Metrics",$95k - $250k,dev:defi:remote,25d
+Messari,https://web3.career/blockchain-engineer-daos-messari/25049,Remote,"Blockchain Engineer, DAOs",$70k - $190k,dev:blockchain:remote:ethereum,25d
+Messari,https://web3.career/strategic-account-executive-banking-and-fintech-vertical-messari/25048,Remote,Strategic Account Executive - Banking and Fintech Vertical,$40k - $225k,finance:executive:remote,25d
+Maple,https://web3.career/recruitment-coordinator-maple-finance/25047,Remote,Recruitment Coordinator,,recruiter:non tech:remote,25d
+IOVLabs,https://web3.career/account-manager-iovlabs/25046,Remote,Account Manager,,account manager:remote,25d
+IOVLabs,https://web3.career/asia-business-development-representative-iovlabs/25045,Remote,Asia Business Development Representative,$29k - $108k,sales:non tech:remote,25d
+Holaplex,https://web3.career/implementation-lead-solution-architect-holaplex/25044,Remote,Implementation Lead/ Solution Architect,,architecture:lead:remote,25d
+Harmony,https://web3.career/senior-cloud-engineer-dba-harmony/25043,Remote,Senior Cloud Engineer - DBA,,cloud:dba:dev:senior:remote,25d
+GSR,https://web3.career/regulatory-operations-vice-president-gsr/25042,"Singapore,
+Singapore",Regulatory Operations - Vice President,,legal:operations,25d
+GSR,https://web3.career/senior-quantitative-researcher-vice-president-gsr/25041,"New York,
+United States",Senior Quantitative Researcher - Vice President,$78k - $200k,senior,25d
+GSR,https://web3.career/senior-quantitative-researcher-director-vice-president-gsr/25040,"London,
+United Kingdom",Senior Quantitative Researcher - Director/Vice President,$46k - $110k,executive:senior,25d
+GSR,https://web3.career/senior-quantitative-researcher-director-gsr/25039,"New York,
+United States",Senior Quantitative Researcher - Director,$46k - $110k,executive:senior,25d
+GSR,https://web3.career/weekend-quantitative-trader-options-systematic-volatility-trading-thurs-mon-gsr/25038,"London,
+United Kingdom",Weekend Quantitative Trader (Options) - Systematic Volatility Trading (Thurs - Mon),$31k - $37k,trader,25d
+GSR,https://web3.career/weekend-quantitative-trader-options-singapore-thurs-mon-gsr/25037,"Singapore,
+Singapore",Weekend Quantitative Trader (Options) - Singapore (Thurs - Mon),$31k - $37k,trader,25d
+GSR,https://web3.career/weekend-quantitative-trader-options-nyc-thurs-mon-gsr/25036,"New York,
+United States",Weekend Quantitative Trader (Options) - NYC (Thurs - Mon),$31k - $37k,trader,25d
+GSR,https://web3.career/devops-infrastructure-support-engineer-associate-senior-associate-new-york-gsr/25035,"New York,
+United States",DevOps Infrastructure Support Engineer - Associate/Senior Associate - New York,$120k - $200k,devops:dev:senior:customer support,25d
+GSR,https://web3.career/executive-recruitment-coordinator-cryptocurrency-trading-new-york-gsr/25034,"New York,
+United States",Executive Recruitment Coordinator - Cryptocurrency Trading - New York,,executive:recruiter:non tech:crypto,25d
+GSR,https://web3.career/paralegal-legal-and-compliance-gsr/25033,"London,
+United Kingdom","Paralegal, Legal and Compliance",,compliance:legal,25d
+GSR,https://web3.career/legal-counsel-associate-gsr/25032,"New York,
+United States","Legal Counsel, Associate",$24k - $140k,legal,25d
+GSR,https://web3.career/surveillance-lead-compliance-gsr/25031,"New York,
+United States","Surveillance Lead, Compliance",,compliance:lead,25d
+GSR,https://web3.career/money-transmission-compliance-officer-gsr/25030,"New York,
+United States",Money Transmission Compliance Officer,,compliance,25d
+GSR,https://web3.career/kyc-compliance-analyst-gsr/25029,"New York,
+United States",KYC & Compliance Analyst,,compliance:kyc:analyst,25d
+GSR,https://web3.career/compliance-advisory-associate-gsr/25028,"New York,
+United States","Compliance Advisory, Associate",,compliance,25d
+GSR,https://web3.career/chief-compliance-officer-apac-singapore-gsr/25027,"Singapore,
+Singapore","Chief Compliance Officer APAC, Singapore",,compliance:executive,25d
+GSR,https://web3.career/executive-assistant-gsr/25026,"London,
+United Kingdom",Executive Assistant,$70k - $180k,executive,25d
+Gauntlet Networks,https://web3.career/devops-infrastructure-engineer-gauntlet/25025,Remote,DevOps / Infrastructure Engineer,$95k - $180k,devops:dev:remote,25d
+Fuel Labs,https://web3.career/senior-full-stack-software-engineer-typescript-fuellabs/25016,Remote,Senior Full-stack Software Engineer [TypeScript],$70k - $180k,dev:full stack:senior:remote,25d

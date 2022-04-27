@@ -1,36 +1,56 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-MetaMask,https://web3.career/community-moderator-metamask/15276,Community Moderator,$15k - $30k,community manager:non tech:ethereum,4mo
-MetaMask,https://web3.career/senior-product-manager-metamask-snaps-metamask/15275,Senior Product Manager (MetaMask Snaps),$80k - $150k,product manager:non tech:senior:ethereum,4mo
-MetaMask,https://web3.career/product-strategy-manager-metamask/15274,Product Strategy Manager,$60k - $150k,ethereum,4mo
-MetaMask,https://web3.career/product-manager-fintech-and-decentralized-finance-codefi-b2c-metamask/15273,"Product Manager - FinTech and Decentralized Finance (Codefi), B2C",,c:c plus plus:finance:product manager:non tech,4mo
-MetaMask,https://web3.career/product-manager-metamask/15272,Product Manager,$80k - $150k,product manager:non tech:ethereum,4mo
-MetaMask,https://web3.career/technical-product-marketing-manager-developer-tools-metamask/15271,"Technical Product Marketing Manager, Developer Tools",$85k - $120k,dev:marketing:non tech:ethereum,4mo
-MetaMask,https://web3.career/technical-content-writer-infura-metamask/15270,Technical Content Writer (Infura),,copywriting:ethereum,4mo
-MetaMask,https://web3.career/product-marketing-manager-metamask-metamask/15269,Product Marketing Manager (MetaMask),$48k - $120k,marketing:non tech:ethereum,4mo
-MetaMask,https://web3.career/product-marketing-manager-codefi-metamask-metamask/15268,Product Marketing Manager (Codefi/MetaMask),$48k - $120k,marketing:non tech:ethereum,4mo
-MetaMask,https://web3.career/product-marketing-manager-metamask/15267,Product Marketing Manager,$48k - $120k,marketing:non tech:ethereum:node:java,4mo
-MetaMask,https://web3.career/internal-communications-manager-metamask/15266,Internal Communications Manager,$48k - $120k,marketing:non tech:ethereum,4mo
-MetaMask,https://web3.career/event-marketing-lead-metamask/15265,Event Marketing Lead,,events manager:non tech:lead:marketing:ethereum,4mo
-MetaMask,https://web3.career/digital-marketing-specialist-metamask/15264,Digital Marketing Specialist,$25k - $120k,marketing:non tech:remote:ethereum,4mo
-MetaMask,https://web3.career/community-growth-lead-metamask/15263,Community Growth Lead,$45k - $150k,community manager:non tech:marketing:lead:ethereum,4mo
-MetaMask,https://web3.career/brand-experience-designer-metamask/15262,Brand Experience Designer,,marketing:non tech:design:ethereum,4mo
-MetaMask,https://web3.career/sr-blockchain-engineer-truffle-metamask/15261,Sr. Blockchain Engineer (Truffle),$80k - $200k,dev:senior:blockchain:web3js:solidity,4mo
-MetaMask,https://web3.career/sr-blockchain-engineer-ganache-metamask/15260,Sr. Blockchain Engineer (Ganache),$80k - $200k,dev:senior:blockchain:solidity:ethereum,4mo
-MetaMask,https://web3.career/blockchain-solidity-developer-codefi-metamask/15259,Blockchain/Solidity Developer (Codefi),$52k - $160k,dev:blockchain:solidity:web3js:react,4mo
-MetaMask,https://web3.career/blockchain-protocol-engineer-emea-metamask/15258,Blockchain Protocol Engineer (EMEA),$33k - $120k,dev:blockchain:ethereum:java,4mo
-MetaMask,https://web3.career/blockchain-protocol-engineer-australia-metamask/15257,Blockchain Protocol Engineer (Australia),$33k - $120k,dev:blockchain:ethereum:java,4mo
-Zeta Markets,https://web3.career/graphic-designer-animator-zeta-markets/15255,Graphic Designer/Animator,,video:design:non tech:remote:solana,4mo
-Gemini,https://web3.career/senior-mobile-quality-assurance-engineer-gemini/15254,Senior Mobile Quality Assurance Engineer,$120k - $200k,dev:mobile:senior:ethereum:scala,4mo
-Gemini,https://web3.career/senior-mobile-engineer-react-native-nifty-gateway-gemini/15253,"Senior Mobile Engineer (React Native), Nifty Gateway",$65k - $200k,dev:mobile:react native:javascript:react,4mo
-Gemini,https://web3.career/senior-mobile-engineer-react-native-gemini/15252,Senior Mobile Engineer (React Native),$65k - $200k,dev:mobile:react native:javascript:react,4mo
-Gemini,https://web3.career/senior-machine-learning-engineer-python-gemini/15251,Senior Machine Learning Engineer (Python),$140k - $180k,dev:machine learning:python:senior:java,4mo
-Gemini,https://web3.career/senior-data-analytics-engineer-gemini/15250,Senior Data Analytics Engineer,$360k - $500k,stats:dev:senior,4mo
-Gemini,https://web3.career/senior-data-analytics-engineer-gemini/15249,Senior Data Analytics Engineer,$360k - $500k,stats:dev:senior,4mo
-Gemini,https://web3.career/principal-data-engineer-trust-security-gemini/15248,"Principal Data Engineer, Trust & Security",,data science:dev:executive:security:scala,4mo
-Gemini,https://web3.career/manager-software-engineering-nifty-gateway-gemini/15247,"Manager, Software Engineering, Nifty Gateway",$63k - $160k,dev:solidity:ethereum:javascript,4mo
-Gemini,https://web3.career/manager-software-engineering-gemini/15246,"Manager, Software Engineering",,dev:scala:java,4mo
-Gemini,https://web3.career/lead-software-engineer-trust-security-gemini/15245,"Lead Software Engineer, Trust & Security",,dev:lead:security:scala:java,4mo
-Gemini,https://web3.career/head-of-security-nifty-gateway-gemini/15244,"Head of Security, Nifty Gateway",,executive:security:javascript,4mo
-Gemini,https://web3.career/frontend-qa-engineer-gemini/15243,Frontend QA Engineer,,dev:front end:quality assurance:ethereum:scala,4mo
-Gemini,https://web3.career/frontend-engineer-gemini/15242,Frontend Engineer,$50k - $144k,dev:front end:react:ethereum:scala,4mo
-Gemini,https://web3.career/engineering-manager-client-foundations-gemini/15241,"Engineering Manager, Client Foundations",$115k - $150k,executive:react:react native,4mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+MRGN Labs,https://web3.career/senior-software-engineer-backend-mrgn-labs/15949,Remote,Senior Software Engineer - Backend,$70k - $200k,backend:dev:senior:remote:solana,4mo
+Okcoin,https://web3.career/site-reliability-engineer-okcoin/15948,"San Francisco,
+United States",Site Reliability Engineer,,dev:sys admin:react:javascript:java,4mo
+✤ Syntropy,https://web3.career/blockchain-engineer-rust-substrate-syntropy-net/15946,Remote,Blockchain Engineer (Rust / Substrate),$79k - $190k,dev:rust:blockchain:remote,4mo
+CoinFlip,https://web3.career/project-manager-coinflip/15944,"Chicago,
+United States",Project Manager,$50k - $150k,project manager:non tech,4mo
+Ethereum Push Notification Service,https://web3.career/rockstar-marketing-intern-ethereum-push-notification-service/15943,India,Rockstar Marketing Intern,$0k,intern:entry level:marketing:non tech:ethereum,4mo
+Finoa GmbH,https://web3.career/expansion-manager-m-f-div-finoa/15942,"Berlin,
+Germany",Expansion Manager (m/f/div),$56k - $160k,remote,4mo
+Binance,https://web3.career/fraud-risk-operations-analyst-bundle-africa-binance/15941,Remote,Fraud & Risk Operations Analyst- Bundle Africa,,analyst:security:operations:remote,4mo
+Autograph,https://web3.career/head-of-creative-production-autograph/15940,"Santa Monica,
+United States",Head of Creative Production,$63k - $180k,executive:nft,4mo
+Elwood Technologies,https://web3.career/technical-implementation-engineer-elwoodtechnologies/15939,"Austin,
+United States",Technical Implementation Engineer,$60k - $180k,dev,4mo
+actus ag Steuerberatung,https://web3.career/software-engineer-3595249-software-engineer/15938,Remote,Software Engineer,$35k - $180k,dev:java:remote,4mo
+3Box Labs,https://web3.career/product-marketing-lead-3box/15937,Remote,Product Marketing Lead,$50k - $120k,lead:marketing:non tech:remote,4mo
+Polygon,https://web3.career/senior-technical-writer-polygon/15936,Remote,Senior Technical Writer,,senior:analyst:remote:ethereum,4mo
+WOO Network,https://web3.career/defi-blockchain-engineer-woo-network/15935,"Warsaw,
+Poland",DeFi Blockchain Engineer,$70k - $200k,dev:blockchain:defi:solidity:solana,4mo
+Polygon,https://web3.career/vp-of-gaming-polygon-studios-polygon/15934,Remote,VP of Gaming - Polygon Studios,,game dev:executive:remote:ethereum,4mo
+Figment,https://web3.career/software-engineer-datahub-figment/15933,"Toronto,
+Canada","Software Engineer, DataHub",$33k - $67k,dev:ruby:node,4mo
+Energi Core,https://web3.career/nft-community-social-media-manager-energi-cryptocurrency-2/15932,"Bhopal,
+India",NFT Community / Social Media Manager,$45k - $100k,community manager:non tech:social media:nft:ethereum,4mo
+SynAssets,https://web3.career/crypto-ambassador-recruitment-synassets/15931,"Singapore,
+Singapore",Crypto Ambassador Recruitment,$30k - $50k,recruiter:non tech:crypto,4mo
+Nuri,https://web3.career/team-lead-engineering-nuri/15930,"Berlin,
+Germany",Team Lead Engineering,$56k - $79k,lead:remote:react:react native:javascript,4mo
+Unbox,https://web3.career/smart-contract-backend-developer-remote-unbox/15927,"Antwerp,
+Belgium",Smart Contract Backend Developer (Remote),$60k - $180k,remote:backend:dev:smart contract,4mo
+Binance,https://web3.career/payments-legal-counsel-binance/15926,Remote,Payments Legal Counsel,,legal:remote,4mo
+Binance,https://web3.career/user-operations-specialist-fan-token-binance/15925,Remote,User Operations Specialist (Fan Token),$80k - $110k,operations:remote,4mo
+Sygnum Bank AG,https://web3.career/internship-it-infrastructure-services-6-months-sygnum/15924,Switzerland,Internship - IT Infrastructure & Services 6 months,,intern:entry level,4mo
+Binance,https://web3.career/payment-operations-specialist-binance/15923,Remote,Payment Operations Specialist,$80k - $110k,operations:remote,4mo
+Binance,https://web3.career/channel-operations-specialist-fiat-latam-binance/15922,Remote,Channel Operations Specialist (FIAT) - LatAm,$80k - $110k,operations:remote,4mo
+Binance,https://web3.career/hr-business-partner-binance/15921,"London,
+United Kingdom",HR Business Partner,$60k - $150k,hr:non tech,4mo
+Binance,https://web3.career/community-manager-indonesia-binance/15920,"Jakarta,
+Indonesia",Community Manager (Indonesia),$40k - $100k,community manager:non tech,4mo
+Binance,https://web3.career/project-manager-indonesia-binance/15919,"Jakarta,
+Indonesia",Project Manager (Indonesia),$50k - $150k,project manager:non tech,4mo
+Binance,https://web3.career/marketing-manager-nft-metaverse-binance/15918,Remote,Marketing Manager (NFT/Metaverse),$40k - $75k,marketing:non tech:metaverse:nft:remote,4mo
+Bridgesplit,https://web3.career/product-designer-bridgesplit/15917,"New York,
+United States",Product Designer,$100k - $150k,design:non tech:solana:nft,4mo
+Sygnum Bank AG,https://web3.career/full-stack-engineer-singapore-sygnum/15916,"Singapore,
+Singapore","Full Stack Engineer, Singapore",$65k - $180k,dev:full stack:react:ethereum:javascript,4mo
+LiveArt,https://web3.career/smart-contract-developer-liveart-1/15915,"New York,
+United States",Smart Contract Developer,$80k - $180k,dev:smart contract:react:solidity:solana,4mo
+Sygnum Bank AG,https://web3.career/head-of-sales-and-client-services-sygnum/15914,"Singapore,
+Singapore",Head of Sales and Client Services,$40k - $150k,executive:sales:non tech:ethereum,4mo
+project44,https://web3.career/customer-success-manager-3590882-customer-success-manager/15913,Remote,Customer Success Manager,,sales:non tech:customer support:remote,4mo
+CryptoGoGos,https://web3.career/performance-marketing-manager-3551728-performance-marketing-manager/15912,"Berlin,
+Germany",Performance Marketing Manager,$25k - $120k,marketing:non tech:remote:nft,4mo
+Braintrust,https://web3.career/cypher-product-ux-ui-designers-braintrust/15911,"Buenos Aires,
+Argentina",Cypher | Product UX/UI Designers,$50k - $150k,design:non tech,4mo

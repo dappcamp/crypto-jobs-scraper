@@ -1,36 +1,59 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Coinbase,https://web3.career/senior-it-service-desk-engineer-coinbase/24730,Senior IT Service Desk Engineer,,customer support:dev:senior,20d
-Coinbase,https://web3.career/coinbase-analytics-blockchain-researcher-coinbase/24729,Coinbase Analytics Blockchain Researcher,,stats:blockchain:remote,20d
-Coinbase,https://web3.career/blockchain-security-engineering-manager-coinbase/24728,Blockchain Security Engineering Manager,,executive:security:blockchain:remote:nft,20d
-Coinbase,https://web3.career/software-engineer-market-data-analytics-coinbase/24727,Software Engineer - Market Data & Analytics,,stats:dev:remote,20d
-Coinbase,https://web3.career/staff-visual-designer-india-coinbase/24726,Staff Visual Designer (India),$50k - $135k,design:non tech:remote,20d
-Coinbase,https://web3.career/senior-product-marketing-manager-nft-growth-coinbase/24725,"Senior Product Marketing Manager, NFT Growth",$46k - $109k,marketing:non tech:senior:nft:remote,20d
-Coinbase,https://web3.career/software-engineer-enterprise-apps-coinbase/24724,"Software Engineer, Enterprise Apps",$50k - $150k,dev:remote:react:javascript:node,20d
-Coinbase,https://web3.career/program-management-associate-nft-marketplace-coinbase/24723,"Program Management Associate, NFT Marketplace",$56k - $165k,nft:remote,20d
-Coinbase,https://web3.career/manager-account-management-hedge-funds-crypto-native-coinbase/24722,"Manager, Account Management (Hedge Funds, Crypto-native)",$35k - $150k,crypto:remote,20d
-Coinbase,https://web3.career/communications-manager-nft-coinbase/24721,"Communications Manager, NFT",$55k - $140k,marketing:non tech:nft:remote,20d
-Coinbase,https://web3.career/senior-developer-relations-engineer-coinbase/24720,Senior Developer Relations Engineer,,customer support:dev:senior:react:react native,20d
-Coinbase,https://web3.career/product-manager-cryptoasset-keys-coinbase/24719,"Product Manager, Cryptoasset Keys",$115k - $175k,product manager:non tech:remote,20d
-Coinbase,https://web3.career/senior-software-engineer-exchange-and-institutional-trading-capital-markets-coinbase/24718,Senior Software Engineer - Exchange and Institutional Trading (Capital Markets),$85k - $200k,dev:senior:remote:java:golang,20d
-Coinbase,https://web3.career/senior-software-engineer-for-blockchain-data-team-coinbase/24717,Senior Software Engineer for Blockchain Data Team,$80k - $200k,dev:senior:blockchain:remote:scala,20d
-Coinbase,https://web3.career/university-grad-engineer-frontend-coinbase/24716,University Grad Engineer (Frontend),$22k - $120k,dev:front end:remote:react:react native,20d
-Coinbase,https://web3.career/senior-content-designer-platform-coinbase/24715,"Senior Content Designer, Platform",$60k - $120k,design:non tech:senior:remote,20d
-IOVLabs,https://web3.career/business-development-representative-iovlabs/24713,Business Development Representative,$29k - $108k,sales:non tech:remote,20d
-Binance,https://web3.career/business-development-manager-latam-binance/24712,Business Development Manager - Latam,$26k - $140k,sales:non tech,20d
-Burnt Finance,https://web3.career/product-design-lead-burnt/24711,Product Design Lead,$40k - $190k,design:non tech:lead,20d
-Bitfury,https://web3.career/training-and-certification-program-lead-crystal-blockchain-remote-bitfury/24710,Training and Certification Program Lead - Crystal Blockchain (Remote),,remote:lead:education:blockchain,20d
-Bitfury,https://web3.career/training-and-certification-program-lead-crystal-blockchain-remote-bitfury/24709,Training and Certification Program Lead - Crystal Blockchain (Remote),,remote:lead:education:blockchain,20d
-Burnt Finance,https://web3.career/business-operations-associate-burnt/24708,Business Operations Associate,$60k - $200k,operations,20d
-Coinbase,https://web3.career/backend-software-engineer-university-grad-coinbase/24707,Backend Software Engineer (University Grad),,backend:dev:remote:golang:intern,20d
-Coinbase,https://web3.career/frontend-engineer-university-grad-coinbase/24706,Frontend Engineer (University Grad),$115k - $120k,dev:front end:remote:react:javascript,20d
-Coinbase,https://web3.career/associate-product-manager-university-grad-remote-coinbase/24705,Associate Product Manager (University Grad) (Remote),$115k,remote:product manager:non tech:intern,20d
-Coinbase,https://web3.career/executive-protection-senior-coinbase/24704,Executive Protection Senior,$95k - $250k,executive:senior:remote:security:dev,20d
-Binance,https://web3.career/customer-service-agent-clearing-team-binance/24703,Customer Service Agent - Clearing Team,$40k - $80k,customer support,20d
-Samba TV,https://web3.career/senior-frontend-software-engineer-sambatv/24702,Senior Frontend Software Engineer,$70k - $190k,dev:front end:senior:remote,20d
-Terraform Labs,https://web3.career/terra-smart-contract-developer-moonshots-terra/24701,Terra Smart Contract Developer (Moonshots),$80k - $200k,dev:smart contract:remote:ethereum,20d
-Parity Technologies,https://web3.career/talent-acquisition-recruiter-non-tech-parity/24700,Talent Acquisition Recruiter (Non Tech),,recruiter:non tech:remote:rust,20d
-Bitfury,https://web3.career/directory-researcher-crystal-remote-bitfury/24699,Directory Researcher - Crystal (Remote),$56k - $160k,remote,20d
-Bitfury,https://web3.career/directory-researcher-crystal-remote-bitfury/24698,Directory Researcher - Crystal (Remote),$56k - $160k,remote,20d
-Bitfury,https://web3.career/directory-researcher-crystal-remote-bitfury/24697,Directory Researcher - Crystal (Remote),$56k - $160k,remote,20d
-Mysten Labs,https://web3.career/global-hr-director-mystenlabs/24695,Global HR Director,,executive:hr:non tech:remote,20d
-SwissBorg,https://web3.career/senior-product-manager-operations-remote-swissborg/24694,Senior Product Manager - Operations (Remote),,remote:operations:product manager:non tech:senior,20d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+BitGo,https://web3.career/german-trust-operations-lead-bitgo/25303,"Berlin,
+Germany",German Trust Operations Lead,,lead:operations:remote,22d
+OpenSea,https://web3.career/senior-counsel-counsel-commercial-intellectual-property-opensea/25300,Remote,Senior Counsel/Counsel (Commercial/Intellectual Property),,legal:senior:remote,22d
+Figment,https://web3.career/security-operations-analyst-figment/25299,"Toronto,
+Canada",Security Operations Analyst,,analyst:operations:security:ruby,22d
+Figment,https://web3.career/security-engineer-figment/25298,"Toronto,
+Canada",Security Engineer,,dev:security:ruby:java,22d
+SwissBorg,https://web3.career/video-editing-magician-swissborg/25296,Switzerland,Video Editing Magician,,video,22d
+Newton,https://web3.career/engineering-manager-canada-wide-remote-newton/25295,"Toronto,
+Canada",Engineering Manager - Canada Wide - Remote,$79k - $200k,executive:remote,22d
+BlockFi,https://web3.career/senior-software-engineer-ios-payments-blockfi/25294,"London,
+United Kingdom","Senior Software Engineer (iOS), Payments",$51k - $109k,dev:ios:mobile:senior,22d
+BlockFi,https://web3.career/senior-software-engineer-ios-payments-blockfi/25293,"New York,
+  United States","Senior Software Engineer (iOS), Payments",$51k - $109k,dev:ios:mobile:senior,22d
+BlockFi,https://web3.career/senior-software-engineer-ios-blockfi-personalized-yield-blockfi/25292,"New York,
+United States","Senior Software Engineer (iOS), BlockFi Personalized Yield",$51k - $109k,dev:ios:mobile:senior,22d
+BlockFi,https://web3.career/senior-software-engineer-ios-blockfi-personalized-yield-blockfi/25291,"London,
+United Kingdom","Senior Software Engineer (iOS), BlockFi Personalized Yield",$51k - $109k,dev:ios:mobile:senior,22d
+Galaxy Digital Services,https://web3.career/senior-security-analyst-detection-and-response-galaxydigitalservices/25290,,"Senior Security Analyst, Detection and Response",$150k - $185k,analyst:security:senior,22d
+SALT,https://web3.career/lead-software-engineer-saltlending/25289,"Chicago,
+United States",Lead Software Engineer,$120k - $200k,dev:lead:react:ethereum:node,22d
+Binance,https://web3.career/devops-engineer-binance/25288,"Taipei,
+Taiwan",DevOps Engineer,$70k - $180k,devops:dev,22d
+Uniswap Labs,https://web3.career/senior-frontend-engineer-uniswaplabs/25287,"New York,
+United States",Senior Frontend Engineer,$70k - $190k,dev:front end:senior:web3js:react,22d
+Voodoo,https://web3.career/senior-lead-vfx-artist-casual-midcore-games-voodoo/25286,Remote,Senior/Lead VFX Artist (Casual/Midcore games),,lead:senior:vfx:remote,22d
+Gnosis,https://web3.career/front-desk-receptionist-gnosis/25285,"Berlin,
+Germany",Front Desk Receptionist,$60k - $150k,remote:node,22d
+Sperax,https://web3.career/product-manager-remote-sperax/25283,"New York,
+United States",Product Manager (Remote),$115k - $175k,remote:product manager:non tech,22d
+Chronicled.com,https://web3.career/senior-software-engineer-backend-copy-chronicled-2/25282,Remote,"Senior Software Engineer, Backend (copy)",$70k - $200k,backend:dev:senior:remote,22d
+Chronicled.com,https://web3.career/senior-software-engineer-backend-chronicled-2/25281,Remote,"Senior Software Engineer, Backend",$70k - $200k,backend:dev:senior:remote,22d
+GSR,https://web3.career/trading-operations-associate-gsr/25280,"London,
+United Kingdom","Trading Operations, Associate",$60k - $200k,operations,22d
+GSR,https://web3.career/quantitative-trader-associate-singapore-gsr/25279,"Singapore,
+Singapore",Quantitative Trader - Associate - Singapore,$31k - $37k,trader,22d
+Chronicled.com,https://web3.career/senior-software-engineer-backend-chronicled-2/25278,Remote,"Senior Software Engineer, Backend",$70k - $200k,backend:dev:senior:remote,22d
+Bitfinex,https://web3.career/blockchain-integration-specialist-remote-bitfinex/25275,Remote,Blockchain Integration Specialist (Remote),$60k - $120k,remote:blockchain:solidity:ethereum:javascript,22d
+Immutable,https://web3.career/senior-concept-artist-new-games-immutable/25274,"Sydney,
+Australia",Senior Concept Artist (New Games),$78k - $200k,senior,22d
+Voodoo,https://web3.career/growth-marketing-manager-blitz-voodoo/25273,"Paris,
+France",Growth Marketing Manager - Blitz,$45k - $130k,marketing:non tech,22d
+Voodoo,https://web3.career/lead-user-acquisition-manager-voodoo/25272,"London,
+United Kingdom",Lead User Acquisition Manager,$50k - $120k,lead:marketing:non tech,22d
+Uniswap Labs,https://web3.career/software-engineer-docs-product-uniswaplabs/25270,"New York,
+United States","Software Engineer, Docs Product",$70k - $175k,dev:react:nextjs,22d
+Chain,https://web3.career/operations-manager-chain/25269,Remote,Operations Manager,$80k - $110k,operations:remote,22d
+Binance,https://web3.career/customer-service-representative-english-binance/25268,"Panama City,
+Panama",Customer Service Representative (English),$40k - $80k,customer support,22d
+Chain,https://web3.career/senior-project-manager-chain/25267,Remote,Senior Project Manager,,project manager:non tech:senior:remote,22d
+Injective Labs,https://web3.career/product-manager-blockchain-injectivelabs/25266,Remote,Product Manager - Blockchain,$35k - $120k,product manager:non tech:blockchain:remote,22d
+Crossmint.io | Making NFT's Accessible to Everyone,https://web3.career/senior-recruiter-crossmint/25265,"Miami,
+United States",Senior Recruiter,$40k - $70k,recruiter:non tech:senior,22d
+Crystal Blockchain Analytics,https://web3.career/directory-researcher-remote-crystal/25264,"Dubai,
+United Arab Emirates",Directory Researcher (Remote),$56k - $160k,remote,22d
+Crystal Blockchain Analytics,https://web3.career/training-and-certification-program-lead-remote-crystal/25263,"Boston,
+United States",Training and Certification Program Lead (Remote),,remote:lead:education,22d
+Big Time Studios,https://web3.career/blockchain-developer-100-remote-north-america-only-bigtime/25262,Remote,Blockchain Developer- 100% Remote - North America only,$70k - $190k,remote:dev:blockchain,22d

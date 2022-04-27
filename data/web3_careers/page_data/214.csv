@@ -1,36 +1,60 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-CoinFlip,https://web3.career/manager-director-of-devops-coinflip/17663,Manager/Director of DEVOPS,$95k - $250k,devops:executive:remote,3mo
-CoinFlip,https://web3.career/full-stack-react-developer-coinflip/17662,Full Stack React Developer,$65k - $180k,dev:full stack:javascript:react:remote,3mo
-CoinFlip,https://web3.career/personal-assistant-coinflip/17661,Personal Assistant,,,3mo
-Async Art,https://web3.career/multimedia-content-creator-asyncart/17660,Multimedia Content Creator,$56k - $165k,remote:nft,3mo
-Async Art,https://web3.career/digital-media-specialist-asyncart/17659,Digital Media Specialist,$56k - $165k,remote:nft,3mo
-Async Art,https://web3.career/content-writer-asyncart/17658,Content Writer,,copywriting:remote:nft,3mo
-Async Art,https://web3.career/content-marketing-specialist-asyncart/17657,Content Marketing Specialist,$25k - $120k,marketing:non tech:remote:nft,3mo
-Metaplex Studios,https://web3.career/head-of-marketing-metaplexstudios/17656,Head of Marketing,$70k - $158k,executive:marketing:non tech:solana:nft,3mo
-Metaplex Studios,https://web3.career/product-manager-core-protocol-metaplexstudios/17655,"Product Manager, Core Protocol",,product manager:non tech:solana:nft,3mo
-Metaplex Studios,https://web3.career/product-manager-developer-experience-metaplexstudios/17654,"Product Manager, Developer Experience",$135k - $175k,dev:product manager:non tech:solana:nft,3mo
-Metaplex Studios,https://web3.career/head-of-people-metaplexstudios/17653,Head of People,$100k - $180k,executive:solana:nft,3mo
-Metaplex Studios,https://web3.career/senior-ios-developer-metaplexstudios/17652,Senior iOS Developer,$51k - $109k,dev:ios:mobile:senior:solana,3mo
-Metaplex Studios,https://web3.career/senior-android-developer-metaplexstudios/17651,Senior Android Developer,,android:mobile:dev:senior:solana,3mo
-Tap Finance,https://web3.career/software-engineer-front-end-tap-finance/17650,"Software Engineer, Front-End",$50k - $144k,dev:front end:react:solana:javascript,3mo
-Worldcoin.org,https://web3.career/senior-infrastructure-engineer-worldcoinorg/17649,Senior Infrastructure Engineer,$65k - $150k,dev:senior:golang,3mo
-Wirex Limited,https://web3.career/product-designer-wirexlimited/17648,Product Designer,$50k - $150k,design:non tech,3mo
-Wirex Limited,https://web3.career/lead-product-designer-wirexlimited/17647,Lead Product Designer,$40k - $190k,design:non tech:lead,3mo
-Wirex Limited,https://web3.career/illustrator-wirexlimited/17646,Illustrator,$25k - $75k,illustrator,3mo
-Wirex Limited,https://web3.career/graphic-designer-wirexlimited/17645,Graphic Designer,$50k - $150k,design:non tech,3mo
-Telcoin,https://web3.career/director-kyc-aml-mlro-telcoin/17644,Director KYC/AML - MLRO,,kyc:executive,3mo
-SuperRare Labs,https://web3.career/crm-marketing-automation-specialist-superrarelabs/17643,CRM & Marketing Automation Specialist,,crm:marketing:non tech:ethereum:nft,3mo
-Ripple,https://web3.career/ireland-country-director-ripplenet-ripple/17642,"Ireland Country Director, RippleNet",$70k - $180k,executive,3mo
-RECUR,https://web3.career/gaming-producer-sports-remote-recur/17641,Gaming Producer - Sports (Remote),,remote:game dev:ethereum:nft,3mo
-RECUR,https://web3.career/senior-motion-designer-characters-recur/17640,Senior Motion Designer - Characters,$60k - $120k,design:non tech:senior:ethereum:nft,3mo
-Public,https://web3.career/qa-engineer-cph-public/17639,QA Engineer CPH,$50k - $150k,dev:quality assurance,3mo
-Careers at Paxful,https://web3.career/marketing-associate-paxful/17638,Marketing Associate,$45k - $130k,marketing:non tech,3mo
-Okcoin,https://web3.career/design-sourcer-okcoin/17637,Design Sourcer,,recruiter:non tech:design,3mo
-Okcoin,https://web3.career/design-recruiter-okcoin/17636,Design Recruiter,,design:non tech:recruiter,3mo
-Okcoin,https://web3.career/content-design-manager-okcoin/17635,Content Design Manager,,executive:design:non tech,3mo
-Okcoin,https://web3.career/content-designer-okcoin/17634,Content Designer,$50k - $150k,design:non tech,3mo
-Okcoin,https://web3.career/manager-data-science-modeling-okcoin/17633,"Manager, Data Science & Modeling",$50k - $150k,data science,3mo
-Okcoin,https://web3.career/data-scientist-okcoin/17632,Data Scientist,$50k - $150k,data science,3mo
-NEAR,https://web3.career/head-of-finance-near/17631,Head of Finance,$90k - $200k,executive:finance,3mo
-NEAR,https://web3.career/head-of-advisory-group-near/17630,Head of Advisory Group,$70k - $180k,executive,3mo
-Mojito,https://web3.career/qa-manager-mojito/17629,QA Manager,$65k - $180k,quality assurance:solidity:nft,3mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Sygnum Bank AG,https://web3.career/defi-engineer-sygnum/18335,Switzerland,DeFi Engineer,$80k - $160k,dev:defi:react:solidity:ethereum,3mo
+Centrifuge GmbH,https://web3.career/digital-designer-centrifuge/18334,Remote,Digital Designer,$50k - $135k,design:non tech:remote,3mo
+RECUR,https://web3.career/manager-accounts-payable-remote-recur/18333,"Miami,
+United States","Manager, Accounts Payable (Remote)",,remote:finance:accounting:ethereum,3mo
+Nansen.ai,https://web3.career/quality-assurance-engineer-lead-product-nansen/18332,"New York,
+United States",Quality Assurance Engineer Lead (Product),$100k - $200k,dev:lead,3mo
+Stellar Development Foundation,https://web3.career/social-media-manager-stellar/18331,"New York,
+United States",Social Media Manager,$33k - $85k,social media:non tech,3mo
+Stellar Development Foundation,https://web3.career/social-media-manager-stellar/18330,"San Francisco,
+United States",Social Media Manager,$33k - $85k,social media:non tech,3mo
+Stellar Development Foundation,https://web3.career/social-media-manager-stellar/18329,"San Francisco,
+United States",Social Media Manager,$33k - $85k,social media:non tech,3mo
+Amun 21Shares,https://web3.career/business-development-manager-amun/18328,Remote,Business Development Manager,$29k - $108k,sales:non tech:remote,3mo
+Reach,https://web3.career/head-of-business-development-and-strategic-financial-partnerships-defi-crypto-reach-sh/18327,"Boston,
+United States",Head of Business Development and Strategic Financial Partnerships - DeFi/Crypto,$90k - $140k,executive:sales:non tech:finance:crypto,3mo
+AcumenCog,https://web3.career/business-developer-it-sales-3801084-business-developer-it-sales/18326,Remote,Business developer / IT sales,,dev:sales:non tech:remote,3mo
+Metal,https://web3.career/chief-information-security-officer-ciso-metalpay/18325,Remote,Chief Information Security Officer (CISO),$95k - $250k,executive:security:remote,3mo
+Aleph.im,https://web3.career/senior-full-stack-developer-aleph-im/18324,Remote,Senior Full Stack Developer,$70k - $180k,dev:full stack:senior:remote:react,3mo
+Bitcoin Depot,https://web3.career/mobile-app-developer-bitcoindepot/18322,"Mumbai,
+India",Mobile App Developer,$120k - $200k,dev:mobile:react:react native:ethereum,3mo
+Amun 21Shares,https://web3.career/engineering-manager-data-amun/18321,"New York,
+United States","Engineering Manager, Data",$85k - $400k,executive:react:solidity:solana:ethereum,3mo
+Centrifuge GmbH,https://web3.career/digital-designer-centrifuge/18320,Remote,Digital Designer,$50k - $135k,design:non tech:remote,3mo
+Ripple,https://web3.career/ripplenet-software-engineer-fullstack-new-grad-ripple/18318,"San Francisco,
+United States","RippleNet Software Engineer, Fullstack- New Grad",$65k - $180k,dev:full stack:react:javascript:node,3mo
+Ripple,https://web3.career/senior-director-global-strategic-partners-ripple/18317,"San Francisco,
+United States","Senior Director, Global Strategic Partners",$46k - $110k,executive:senior,3mo
+Funco Gaming,https://web3.career/product-designer-funco-gaming/18315,Remote,Product Designer,$50k - $135k,design:non tech:remote:solana,3mo
+Celo Foundation,https://web3.career/business-development-web3-partnerships-celo-foundation-celofoundation/18314,Remote,"Business Development, Web3 Partnerships, Celo Foundation",$29k - $108k,sales:non tech:remote,3mo
+Finoa GmbH,https://web3.career/expansion-manager-m-f-div-finoa/18313,"Berlin,
+Germany",Expansion Manager (m/f/div),$56k - $160k,remote,3mo
+Next Big Thing AG,https://web3.career/entrepreneur-co-founder-f-m-x-blockchain-nextbigthing/18312,"Berlin,
+Germany",Entrepreneur | Co-Founder (f/m/x) Blockchain,$100k - $300k,executive:blockchain:remote,3mo
+SwissBorg,https://web3.career/legal-counsel-regulatory-financial-services-swissborg/18311,"Amsterdam,
+Netherlands",Legal Counsel Regulatory (Financial services),,legal:finance,3mo
+SwissBorg,https://web3.career/legal-counsel-regulatory-financial-services-swissborg/18310,"Paris,
+France",Legal Counsel Regulatory (Financial services),,legal:finance,3mo
+SwissBorg,https://web3.career/legal-counsel-regulatory-financial-services-swissborg/18309,"Brussels,
+Belgium",Legal Counsel Regulatory (Financial services),,legal:finance,3mo
+Figment,https://web3.career/growth-product-marketing-specialist-partnerships-figment/18308,"Toronto,
+Canada",Growth & Product Marketing Specialist - Partnerships,$100k - $200k,sales:non tech:marketing,3mo
+Figment,https://web3.career/growth-product-marketing-specialist-crypto-finance-figment/18307,"Toronto,
+Canada",Growth & Product Marketing Specialist - Crypto Finance,$50k - $100k,finance:marketing:non tech:crypto,3mo
+Bitcoin Depot,https://web3.career/content-writer-contract-bitcoindepot/18306,"Atlanta,
+United States",Content Writer - Contract,$13k - $45k,copywriting,3mo
+Sygnum Bank AG,https://web3.career/tech-lead-software-engineering-sygnum/18305,Switzerland,Tech Lead - Software Engineering,$140k - $220k,lead:dev:tech lead:react,3mo
+IOVLabs,https://web3.career/information-security-engineer-iovlabs/18304,Remote,Information Security Engineer,$95k - $250k,dev:security:remote,3mo
+SALT,https://web3.career/lead-qa-engineer-saltlending/18303,"Chicago,
+United States",Lead QA Engineer,$100k - $180k,dev:lead:quality assurance:javascript:java,3mo
+Nuri,https://web3.career/senior-software-engineer-nuri/18302,"Berlin,
+Germany",Senior Software Engineer,$85k - $200k,dev:senior:remote:react:react native,3mo
+GSR,https://web3.career/software-engineer-exchange-connectivity-senior-associate-vp-malaga-gsr/18300,"Malaga,
+Spain",Software Engineer - Exchange Connectivity - Senior Associate/VP - Malaga,$60k - $250k,dev:senior:executive,3mo
+Change,https://web3.career/mobile-engineer-flutter-changeinvest/18299,"Tallinn,
+Estonia",Mobile Engineer (Flutter),,dev:flutter:mobile,3mo
+Okcoin,https://web3.career/identity-and-onboarding-qa-specialist-okcoin/18298,"Dublin,
+Ireland",Identity and Onboarding QA Specialist,$62k - $150k,quality assurance,3mo
+Okcoin,https://web3.career/identity-and-onboarding-l-d-specialist-okcoin/18297,"Dublin,
+Ireland",Identity and Onboarding L&D Specialist,,,3mo

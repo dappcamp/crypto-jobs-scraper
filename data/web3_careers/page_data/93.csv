@@ -1,36 +1,51 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-CANDY,https://web3.career/senior-business-operations-associate-sports-candy/22828,Senior Business Operations Associate - Sports,,operations:senior,1mo
-CANDY,https://web3.career/market-intelligence-associate-candy/22827,Market Intelligence Associate,$55k - $150k,nft,1mo
-CANDY,https://web3.career/ecommerce-site-ops-associate-candy/22826,eCommerce Site Ops Associate,$220k - $400k,ecommerce:react:javascript,1mo
-CANDY,https://web3.career/marketing-art-director-candy/22825,Marketing Art Director,$70k - $158k,executive:marketing:non tech,1mo
-CANDY,https://web3.career/graphic-designer-candy/22824,Graphic Designer,$50k - $150k,design:non tech,1mo
-CANDY,https://web3.career/copywriter-candy/22823,Copywriter,$13k - $45k,copywriting,1mo
-CANDY,https://web3.career/paralegal-candy/22822,Paralegal,,,1mo
-CANDY,https://web3.career/media-producer-candy/22821,Media Producer,,,1mo
-peaq,https://web3.career/content-manager-editor-m-w-d-peaq/22820,Content Manager [Editor] (m/w/d),$25k - $96k,marketing:non tech:copywriting:remote,1mo
-Solend,https://web3.career/senior-software-engineer-fullstack-solend/22819,"Senior Software Engineer, Fullstack",$70k - $180k,dev:full stack:senior:remote:react,1mo
-Solend,https://web3.career/software-engineer-smart-contracts-solend/22818,"Software Engineer, Smart Contracts",$80k - $200k,dev:smart contract:remote:react:node,1mo
-Figment,https://web3.career/sr-security-engineer-figment/22817,Sr. Security Engineer,$95k - $250k,dev:security:senior:ruby,1mo
-Figment,https://web3.career/hr-director-figment/22816,HR Director,,executive:hr:non tech,1mo
-Chainalysis,https://web3.career/solutions-architect-miami-spanish-speaking-chainalysis/22815,"Solutions Architect, Miami (Spanish-speaking)",$67k - $180k,architecture,1mo
-Chainalysis,https://web3.career/solutions-architect-chicago-chainalysis/22814,"Solutions Architect, Chicago",$67k - $180k,architecture,1mo
-CANDY,https://web3.career/graphic-designer-candy/22813,Graphic Designer,$60k - $150k,design:non tech:nft,1mo
-CANDY,https://web3.career/creative-director-candy/22812,Creative Director,$70k - $180k,executive,1mo
-CANDY,https://web3.career/3d-generalist-candy/22811,3D Generalist,$13k - $50k,vfx,1mo
-CANDY,https://web3.career/account-manager-brand-partnerships-sports-candy/22810,Account Manager - Brand Partnerships (Sports),,sales:non tech:account manager:marketing,1mo
-Sygnum Bank AG,https://web3.career/relationship-manager-eam-mfo-suisse-romandie-market-sygnum/22809,"Relationship Manager EAM & MFO, Suisse Romandie Market",$48k - $120k,marketing:non tech:ethereum,1mo
-Serotonin,https://web3.career/community-associate-serotonin/22808,Community Associate,$40k - $101k,community manager:non tech:remote,1mo
-Serotonin,https://web3.career/public-relations-director-serotonin/22807,Public Relations Director,$70k - $158k,marketing:non tech:executive:remote,1mo
-Chainalysis,https://web3.career/solutions-architect-charlotte-chainalysis/22806,"Solutions Architect, Charlotte",$67k - $180k,architecture,1mo
-Serotonin,https://web3.career/community-manager-serotonin/22805,Community Manager,$40k - $101k,community manager:non tech:remote,1mo
-THIS IS! Digital Media Group,https://web3.career/frontend-developer-india-m-w-x-bangalore-remote-thisisdmg/22804,Frontend Developer (India | m/w/x | Bangalore / Remote),$22k - $120k,remote:dev:front end:javascript,1mo
-Sygnum Bank AG,https://web3.career/public-relations-manger-sygnum/22803,Public Relations Manger,$45k - $130k,marketing:non tech,1mo
-Kurtosis,https://web3.career/software-engineer-kurtosis/22802,Software Engineer,$73k - $200k,dev:react:solana:ethereum:golang,1mo
-Fuel,https://web3.career/entrepreneur-in-residence-onfuel/22801,Entrepreneur in Residence,$56k - $165k,remote:nft,1mo
-Crystal Blockchain Analytics,https://web3.career/devops-linux-system-administrator-crystal-remote-crystal/22800,DevOps/Linux System Administrator - Crystal (Remote),,remote:devops:linux:sys admin:golang,1mo
-DeFi Suisse AG,https://web3.career/senior-react-native-developer-80-100-m-f-diverse-defisuisse/22799,"Senior React Native Developer (80-100%, m/f/diverse)",$65k - $200k,dev:react native:mobile:javascript:react,1mo
-Stellar Development Foundation,https://web3.career/senior-engineering-manager-core-protocol-stellar/22798,"Senior Engineering Manager, Core Protocol",,executive:senior:rust,1mo
-Stellar Development Foundation,https://web3.career/senior-engineering-manager-core-protocol-stellar/22797,"Senior Engineering Manager, Core Protocol",,executive:senior:rust,1mo
-Stellar Development Foundation,https://web3.career/senior-engineering-manager-core-protocol-stellar/22796,"Senior Engineering Manager, Core Protocol",,executive:senior:rust,1mo
-Bittrex,https://web3.career/senior-ux-designer-bittrex/22793,Senior UX Designer,$60k - $120k,design:non tech:senior,1mo
-Sygnum Bank AG,https://web3.career/internship-it-infrastructure-services-6-months-sygnum/22792,Internship - IT Infrastructure & Services 6 months,,intern:entry level,1mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Crystal Blockchain Analytics,https://web3.career/devops-linux-system-administrator-crystal-remote-crystal/23434,Poland,DevOps/Linux System Administrator - Crystal (Remote),,remote:devops:linux:sys admin:golang,1mo
+Caiz Development GmbH,https://web3.career/chief-marketing-officer-caiz-development/23431,"Frankfurt,
+Germany",Chief Marketing Officer,$70k - $158k,executive:marketing:non tech:remote,1mo
+Build A Rocket Boy,https://web3.career/senior-backend-programmer-blockchain-buildarocketboy/23430,Remote,Senior Backend Programmer – Blockchain,$70k - $200k,backend:dev:senior:blockchain:ethereum,1mo
+Sygnum Bank AG,https://web3.career/tech-lead-engineering-custody-platform-sygnum/23429,Switzerland,Tech Lead Engineering - Custody Platform,$100k - $220k,lead:tech lead:react:javascript:node,1mo
+Autonomous,https://web3.career/incognito-business-development-intern-autonomous/23428,Remote,[Incognito] Business Development Intern,$29k - $43k,sales:non tech:intern:entry level:remote,1mo
+Verisign,https://web3.career/graduate-research-internships-summer-2022-verisign/23426,United States,Graduate Research Internships - Summer 2022,,intern:entry level,1mo
+Rapid Pioneers,https://web3.career/entrepreneur-in-residence-full-time-or-internship-both-possible-m-w-d-rapid-pioneers/23425,"Berlin,
+Germany",Entrepreneur in Residence (Full-time or internship both possible) (m/w/d),,full time:intern:entry level:nft,1mo
+Sygnum Bank AG,https://web3.career/product-manager-onboarding-and-crypto-compliance-sygnum/23424,Switzerland,Product Manager - Onboarding and Crypto-Compliance,,compliance:product manager:non tech:crypto:ethereum,1mo
+Autonomous,https://web3.career/rove-business-development-intern-autonomous/23423,Remote,[Rove] Business Development Intern,$29k - $43k,sales:non tech:intern:entry level:nft,1mo
+Chain,https://web3.career/technical-documentation-lead-chain/23422,Remote,Technical Documentation Lead,$95k - $200k,lead:remote,1mo
+Binance,https://web3.career/senior-risk-expert-lending-binance/23421,Remote,Senior Risk Expert (Lending),$80k - $200k,senior:remote,1mo
+Cherry Ventures,https://web3.career/senior-defi-solidity-fullstack-blockchain-developer-remote-anboto-cherryvc/23420,Remote,Senior DEFI (Solidity) Fullstack Blockchain Developer - REMOTE - Anboto,$70k - $200k,remote:dev:full stack:senior:blockchain,1mo
+qiibee,https://web3.career/blockchain-engineer-qiibee/23419,Remote,Blockchain Engineer,$52k - $160k,dev:blockchain:solidity:ethereum:node,1mo
+Mysten Labs,https://web3.career/sourcer-web3-mystenlabs/23418,Remote,"Sourcer, Web3",,recruiter:non tech:remote,1mo
+Gemini,https://web3.career/senior-backend-software-development-engineer-in-test-nifty-gateway-gemini/23417,United States,"Senior Backend Software Development Engineer in Test, Nifty Gateway",,quality assurance:backend:dev:senior:ethereum,1mo
+Eczodex,https://web3.career/senior-blockchain-developer-eczodex/23416,United Kingdom,Senior Blockchain Developer,$60k - $100k,dev:senior:blockchain:solidity,1mo
+Oasis Protocol Foundation,https://web3.career/graphic-designer-oasisnetwork/23414,"London,
+United Kingdom",Graphic Designer,$50k - $150k,design:non tech,1mo
+X-Team,https://web3.career/blockchain-engineer-remote-x-team/23413,Remote,Blockchain Engineer (Remote),$70k - $190k,remote:dev:blockchain,1mo
+Sharpe AI,https://web3.career/senior-solidity-developer-sharpeai/23410,"Singapore,
+Singapore",Senior Solidity Developer,$0k,dev:senior:solidity,1mo
+Onlife,https://web3.career/solution-architect-onlife/23409,Remote,Solution Architect,$67k - $300k,architecture:remote,1mo
+Ethereum Foundation,https://web3.career/l2-security-engineer-full-or-part-time-ethereumfoundation/23408,Remote,L2 Security Engineer | Full or Part time,,dev:part time:security:remote:ethereum,1mo
+Web3Auth,https://web3.career/senior-product-designer-torus-2/23407,"Singapore,
+Singapore",Senior Product Designer,$60k - $100k,design:non tech:senior,1mo
+Web3Auth,https://web3.career/ux-designer-torus-2/23406,"Singapore,
+Singapore",UX Designer,$50k - $150k,design:non tech,1mo
+Web3Auth,https://web3.career/native-ios-developer-torus-2/23405,"Singapore,
+Singapore",Native iOS Developer,$51k - $109k,dev:ios:mobile:ethereum,1mo
+Web3Auth,https://web3.career/protocol-developer-golang-rust-62k-180k-torus-2/23404,"Singapore,
+Singapore",Protocol Developer – (Golang/Rust) - $62k - $180k,$80k - $160k,dev:golang:rust:ethereum:java,1mo
+Web3Auth,https://web3.career/senior-software-engineer-full-stack-javascript-typescript-golang-torus-2/23403,"Singapore,
+Singapore",Senior Software Engineer (Full stack Javascript/Typescript/Golang),$65k - $124k,dev:full stack:golang:javascript:senior,1mo
+Web3Auth,https://web3.career/software-development-engineer-in-test-sdet-62k-130k-torus-2/23402,"Singapore,
+Singapore",Software Development Engineer in Test (SDET) - $62k - $130k,$29k - $73k,quality assurance:dev:react:javascript:vue,1mo
+Web3Auth,https://web3.career/technical-content-writer-torus-2/23401,"Singapore,
+Singapore",Technical Content Writer,,copywriting:ethereum,1mo
+Web3Auth,https://web3.career/business-development-torus-2/23400,"Singapore,
+Singapore",Business Development,$0k,sales:non tech:ethereum,1mo
+Web3Auth,https://web3.career/developer-relations-torus-2/23399,"Singapore,
+Singapore",Developer Relations,$0k,customer support:dev:ethereum,1mo
+Finoa GmbH,https://web3.career/senior-legal-counsel-m-f-d-finoa/23398,"Berlin,
+Germany",(Senior) Legal Counsel (m/f/d),,legal:senior:remote,1mo
+ZAUBAR,https://web3.career/internship-sales-development-representative-metaverse-saas-ar-culture-zaubar/23397,Remote,"Internship: Sales Development Representative (Metaverse, SaaS, AR, Culture)",,intern:entry level:metaverse:saas:sales,1mo
+Metal,https://web3.career/kyc-fraud-specialist-remote-metalpay/23396,Remote,KYC Fraud Specialist (REMOTE),,kyc:remote:security,1mo
+Sperax,https://web3.career/talent-acquisition-recruitment-manager-remote-sperax/23395,"Bengaluru,
+India",Talent Acquisition/Recruitment Manager (Remote),,remote:recruiter:non tech,1mo
+Getwith,https://web3.career/delivery-manager-blockchain-finboot-full-remote-45-65k-getwith/23394,Remote,Delivery Manager (Blockchain) | Finboot | Full Remote | 45-65K,$95k - $300k,remote:dev:executive:blockchain,1mo

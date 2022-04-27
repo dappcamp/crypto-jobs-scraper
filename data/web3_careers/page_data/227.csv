@@ -1,36 +1,49 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Telcoin,https://web3.career/marketing-manager-london-area-telcoin/17088,Marketing Manager - London area,$45k - $130k,marketing:non tech,3mo
-Quidax,https://web3.career/platform-product-manager-quidax/17085,Platform Product Manager,$115k - $175k,product manager:non tech:remote,3mo
-Wintermute,https://web3.career/strategy-operations-manager-wintermute-trading/17083,Strategy & Operations Manager,$60k - $200k,operations,3mo
-OpenSea,https://web3.career/product-designer-design-system-opensea/17082,Product Designer - Design System,$50k - $135k,design:non tech:remote,3mo
-Next Big Thing AG,https://web3.career/entrepreneur-in-residence-f-m-x-nextbigthing/17081,Entrepreneur in Residence (f/m/x),$56k - $160k,remote,3mo
-Newton,https://web3.career/site-reliability-engineer-austin-tx-remote-newton/17080,Site Reliability Engineer - Austin TX (Remote),$150k - $200k,remote:dev:sys admin,3mo
-Newton,https://web3.career/data-engineer-canada-wide-remote-newton/17079,Data Engineer - Canada Wide - Remote,,remote:data science:dev,3mo
-Newton,https://web3.career/data-engineer-austin-tx-remote-newton/17078,"Data Engineer - Austin, TX (Remote)",,remote:data science:dev,3mo
-Ripple,https://web3.career/staff-software-engineer-compliance-and-risk-engineering-ripple/17077,"Staff Software Engineer, Compliance and Risk Engineering",,compliance:dev:react:node:java,3mo
-Ripple,https://web3.career/senior-software-engineer-compliance-and-risk-engineering-ripple/17076,"Senior Software Engineer, Compliance and Risk Engineering",,compliance:dev:senior:react,3mo
-Ripple,https://web3.career/senior-software-engineer-compliance-and-risk-engineering-ripple/17075,"Senior Software Engineer, Compliance and Risk Engineering",,compliance:dev:senior:java,3mo
-Stellar Development Foundation,https://web3.career/senior-protocol-engineer-stellar/17074,Senior Protocol Engineer,$120k - $210k,dev:senior:rust,3mo
-Stellar Development Foundation,https://web3.career/senior-protocol-engineer-stellar/17073,Senior Protocol Engineer,$120k - $210k,dev:senior:rust,3mo
-Bitcoin Depot,https://web3.career/content-writer-new-york-bitcoindepot/17072,Content Writer - New York,$13k - $45k,copywriting,3mo
-Bitcoin Depot,https://web3.career/content-writer-california-bitcoindepot/17071,Content Writer - California,$13k - $45k,copywriting,3mo
-Bitcoin Depot,https://web3.career/content-writer-boston-bitcoindepot/17070,Content Writer - Boston,$13k - $45k,copywriting,3mo
-Bitcoin Depot,https://web3.career/content-writer-austin-bitcoindepot/17069,Content Writer - Austin,$13k - $45k,copywriting,3mo
-Binance,https://web3.career/social-media-specialist-tiktok-binance/17066,Social Media Specialist (TikTok),$35k - $110k,social media:non tech:remote,3mo
-Binance,https://web3.career/content-creator-brazil-binance/17065,Content Creator - Brazil,,,3mo
-CoinFlip,https://web3.career/vp-international-development-coinflip/17063,"VP, International Development",$70k - $180k,executive,3mo
-Telcoin,https://web3.career/managing-consultant-telcoin/17062,Managing Consultant,$80k - $200k,consulting,3mo
-Chainalysis,https://web3.career/hr-generalist-chainalysis/17061,HR Generalist,$60k - $150k,hr:non tech,3mo
-CANDY,https://web3.career/quality-assurance-specialist-candy/17060,Quality Assurance Specialist,,,3mo
-Finoa GmbH,https://web3.career/frontend-developer-m-f-div-germany-portugal-finoa/17059,Frontend Developer (m/f/div) Germany / Portugal,$22k - $120k,dev:front end:remote:react:javascript,3mo
-IOVLabs,https://web3.career/cloud-security-engineer-iovlabs/17058,Cloud Security Engineer,,cloud:dev:security:remote,3mo
-GSR,https://web3.career/risk-quant-analyst-hft-model-risk-associate-gsr/17057,"Risk Quant Analyst (HFT/Model Risk), Associate",$40k - $120k,analyst,3mo
-GSR,https://web3.career/risk-quant-analyst-hft-model-risk-associate-gsr/17056,"Risk Quant Analyst (HFT/Model Risk), Associate",$40k - $120k,analyst,3mo
-GSR,https://web3.career/risk-quant-analyst-hft-model-risk-associate-gsr/17055,"Risk Quant Analyst (HFT/Model Risk), Associate",$40k - $120k,analyst,3mo
-GSR,https://web3.career/defi-risk-officer-vice-president-gsr/17054,"DeFi Risk Officer, Vice President",$70k - $160k,defi,3mo
-GSR,https://web3.career/defi-risk-officer-vice-president-gsr/17053,"DeFi Risk Officer, Vice President",$70k - $160k,defi,3mo
-GSR,https://web3.career/defi-risk-officer-vice-president-gsr/17052,"DeFi Risk Officer, Vice President",$70k - $160k,defi,3mo
-Qubit9 GmbH,https://web3.career/vp-blockchain-qubit9/17051,VP Blockchain,$46k - $200k,executive:blockchain,3mo
-HQ Digital,https://web3.career/program-manager-hqdigital/17049,Program Manager,$70k - $180k,executive,3mo
-Brave,https://web3.career/social-media-manager-brave/17048,Social Media Manager,$33k - $85k,social media:non tech,3mo
-Mintable,https://web3.career/performance-marketer-crypto-blockchain-and-nfts-mintable/17047,"Performance Marketer (Crypto, Blockchain, and NFTs)",$52k - $70k,marketing:non tech:blockchain:crypto:nft,3mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Crypto.com,https://web3.career/application-support-engineer-new-venture-global-fintech-startup-crypto-com/17736,Remote,Application Support Engineer (New Venture) - Global Fintech Startup,,dev:finance:customer support:remote,3mo
+ZAUBAR,https://web3.career/internship-software-tester-qa-berlin-germany-3736157-internship-software-tester-qa-berlin-germany-utm_source-google_jobs_apply-pid-bce1fbd2f366390046fc/17735,"Berlin,
+Germany","Internship: Software Tester (QA) - Berlin, Germany",,intern:entry level:quality assurance:dev,3mo
+Maple,https://web3.career/executive-assistant-maple-finance/17731,Remote,Executive Assistant,$79k - $200k,executive:remote,3mo
+Boson Protocol,https://web3.career/chief-marketing-officer-bosonprotocol/17730,"London,
+United Kingdom",Chief Marketing Officer,$70k - $158k,executive:marketing:non tech,3mo
+Tucows,https://web3.career/program-manager-markets-launch-remote-wearetucows/17729,United States,"Program Manager, Markets Launch - Remote",$79k - $200k,remote:executive,3mo
+Cprime,https://web3.career/remote-solidity-engineer-cprime-1/17728,United States,Remote Solidity Engineer,$80k - $170k,remote:dev:solidity:ethereum,3mo
+FreeWill,https://web3.career/crypto-fundraising-community-manager-freewill-co/17727,"New York,
+United States",Crypto Fundraising Community Manager,$35k - $100k,community manager:non tech:crypto,3mo
+Defi Pay,https://web3.career/software-engineer-c-windows-defi-pay/17726,United States,"Software Engineer (C++, Windows)",$100k - $150k,c:c plus plus:dev,3mo
+Quant Finance,https://web3.career/node-js-engineer-defi-quant-finance/17724,"New York,
+United States",Node.js Engineer - DeFi,$60k - $155k,javascript:dev:node:defi:ethereum,3mo
+Infoneo Technologies,https://web3.career/blockchain-developer-infoneo-technologies/17723,India,Blockchain Developer,$3k - $6k,dev:blockchain:javascript:java,3mo
+Bitgreen,https://web3.career/crypto-social-media-bitgreen/17722,United States,Crypto Social Media,$0k,social media:non tech:crypto,3mo
+Fractional,https://web3.career/smart-contract-engineer-us-remote-et-fractional-art/17721,United States,Smart Contract Engineer - US Remote (ET),$95k - $165k,remote:dev:smart contract:solidity:solana,3mo
+Fractional,https://web3.career/devops-engineer-web3-us-remote-et-fractional-art/17720,United States,DevOps Engineer (Web3) - US Remote (ET),$95k - $145k,remote:devops:dev:solidity:ethereum,3mo
+Fractional,https://web3.career/backend-engineer-node-js-us-remote-et-fractional-art/17719,United States,Backend Engineer (Node.js) - US Remote (ET),$100k - $150k,remote:javascript:backend:dev:node,3mo
+Celestia Labs,https://web3.career/senior-software-engineer-solidity-celestialabs/17718,Remote,Senior Software Engineer [Solidity],$80k - $160k,dev:senior:solidity:ethereum:rust,3mo
+Atreya Digital Health,https://web3.career/cryptocurrency-blockchain-nft-web-3-0-experts-for-independent-consulting-1099-project-basis-atreya-digital-health-png/17717,United States,"Cryptocurrency, Blockchain, NFT, Web 3.0 Experts for Independent Consulting (1099 Project Basis)",$120k - $200k,consulting:blockchain:crypto:nft,3mo
+Stealth Crypto NFT Environmental Startup,https://web3.career/blockchain-crypto-engineer-stealth-crypto-nft-environmental-startup/17716,"San Francisco,
+United States",Blockchain Crypto Engineer,$0k,dev:blockchain:crypto:nft,3mo
+Sygnum Bank AG,https://web3.career/application-security-and-cybersecurity-incident-manager-sygnum/17709,Switzerland,Application Security and Cybersecurity Incident Manager,$95k - $200k,security,3mo
+Nickel Digital Asset Management,https://web3.career/analyst-multi-strategy-crypto-fund-nickeldigitalassetmanagement/17707,"London,
+United Kingdom",Analyst-Multi-strategy Crypto Fund,$20k - $120k,analyst:crypto,3mo
+Ledger,https://web3.career/senior-sre-system-engineer-ledger/17703,"Paris,
+France",Senior SRE - System Engineer,$150k - $200k,dev:senior:sys admin,3mo
+Kraken Digital Asset Exchange,https://web3.career/senior-full-stack-engineer-north-america-kraken/17699,Remote,Senior Full Stack Engineer (North America),$70k - $180k,dev:full stack:senior:remote:nft,3mo
+Binance,https://web3.career/chief-information-security-officer-bahrain-binance/17698,Remote,"Chief Information Security Officer, Bahrain",$95k - $250k,executive:security:remote,3mo
+Binance,https://web3.career/qa-engineer-junior-binance/17697,"Singapore,
+Singapore",QA Engineer (Junior),$45k - $180k,dev:junior:entry level:quality assurance,3mo
+Binance,https://web3.career/designer-binance/17696,Remote,Designer,$50k - $135k,design:non tech:remote,3mo
+SupraOracles,https://web3.career/senior-database-administrator-specialist-supraoracles/17695,United States,Senior Database Administrator / Specialist,,senior:ruby:node,3mo
+DeSo Foundation,https://web3.career/head-of-developer-relations-deso/17693,United States,Head of Developer Relations,,executive:customer support:dev:ethereum,3mo
+Binance,https://web3.career/product-manager-nft-binance/17692,Remote,Product Manager (NFT),$69k - $160k,product manager:non tech:nft:remote,3mo
+Zilliqa,https://web3.career/senior-defi-engineering-zilliqa/17691,"Singapore,
+Singapore",Senior DeFi Engineering,$140k - $250k,senior:defi:solidity,3mo
+Wintermute,https://web3.career/smart-contract-developer-wintermute-trading/17690,Remote,Smart Contract Developer,$80k - $200k,dev:smart contract:remote:solidity,3mo
+Wintermute,https://web3.career/node-engineer-wintermute-trading/17689,Remote,Node Engineer,$60k - $155k,dev:javascript:node:remote,3mo
+The Block,https://web3.career/podcast-editorial-fellow-theblockcrypto/17688,Remote,Podcast Editorial Fellow,$56k - $160k,remote,3mo
+SwissBorg,https://web3.career/web-developer-remote-swissborg/17687,"London,
+United Kingdom",Web Developer (Remote),$65k - $180k,remote:dev,3mo
+SwissBorg,https://web3.career/web-designer-remote-swissborg/17686,"Milan,
+Italy",Web Designer (Remote),$50k - $135k,remote:design:non tech,3mo
+SwissBorg,https://web3.career/web-designer-remote-swissborg/17685,"Madrid,
+Spain",Web Designer (Remote),$50k - $135k,remote:design:non tech,3mo
+SwissBorg,https://web3.career/web-designer-remote-swissborg/17684,"London,
+United Kingdom",Web Designer (Remote),$50k - $135k,remote:design:non tech,3mo

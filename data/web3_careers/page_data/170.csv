@@ -1,36 +1,56 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Binance,https://web3.career/director-of-anti-bribery-and-corruption-compliance-binance/19732,Director of Anti-Bribery and Corruption Compliance,,compliance:executive:remote,2mo
-Tari Labs,https://web3.career/blockchain-engineer-tari-labs/19730,Blockchain Engineer,$65k - $160k,dev:blockchain:node:rust,2mo
-UniLend Finance,https://web3.career/react-web3-developer-unilend-finance-1/19729,React Web3 Developer,$109k - $19k,dev:javascript:react,2mo
-UniLend Finance,https://web3.career/senior-solidity-engineer-unilend-finance-1/19728,Senior Solidity Engineer,$19k - $32k,dev:senior:solidity,2mo
-Gate.io,https://web3.career/board-secretary-gate-io/19724,Board Secretary,$56k - $160k,remote,2mo
-UniLend Finance,https://web3.career/solidity-engineer-unilend-finance-1/19723,Solidity Engineer,$13k - $19k,dev:solidity,2mo
-Ripple,https://web3.career/staff-devops-engineer-data-infrastructure-ripple/19717,"Staff DevOps Engineer, Data Infrastructure",$30k - $60k,devops:dev:java,2mo
-Ripple,https://web3.career/senior-software-engineer-liquidity-ripple/19716,"Senior Software Engineer, Liquidity",,dev:sales:non tech:senior:java,2mo
-Ripple,https://web3.career/senior-software-engineer-liquidity-ripple/19715,"Senior Software Engineer, Liquidity",,dev:sales:non tech:senior:java,2mo
-Ripple,https://web3.career/senior-devops-engineer-data-infrastructure-ripple/19714,"Senior DevOps Engineer, Data Infrastructure",$120k - $200k,devops:dev:senior:javascript:java,2mo
-Liquid,https://web3.career/compliance-manager-liquid/19713,Compliance Manager,,compliance,2mo
-Ripple,https://web3.career/engineering-manager-liquidity-ripple/19712,"Engineering Manager, Liquidity",$40k - $150k,executive:sales:non tech:javascript:java,2mo
-Gate.io,https://web3.career/nft-operation-manager-gate-io/19711,NFT operation manager,$56k - $165k,nft:remote,2mo
-Gate.io,https://web3.career/futures-operation-manager-gate-io/19710,Futures operation manager,$56k - $160k,remote,2mo
-Tribute Labs,https://web3.career/web3-full-stack-engineer-tribute-labs-1/19707,Web3 Full Stack Engineer,$160k - $240k,dev:full stack:solidity:ethereum,2mo
-Lucky Card,https://web3.career/blockchain-nft-engineer-luckycard/19706,Blockchain (NFT) Engineer,$150k - $220k,dev:blockchain:nft:solidity,2mo
-Crypto.com,https://web3.career/blockchain-security-engineer-frontend-javascript-hk-crypto-com/19705,Blockchain Security Engineer (Frontend) - Javascript (HK),$50k - $140k,dev:front end:javascript:security:blockchain,2mo
-Mythical Games,https://web3.career/producer-blankos-mythicalgames/19700,"Producer, Blankos",,,2mo
-SwissBorg,https://web3.career/fraud-manager-remote-swissborg/19699,Fraud Manager (Remote),$95k - $250k,remote:security,2mo
-SwissBorg,https://web3.career/fraud-analyst-remote-swissborg/19698,Fraud Analyst (Remote),,remote:analyst:security,2mo
-Immutable,https://web3.career/head-of-marketing-immutable/19697,Head of Marketing,$70k - $158k,executive:marketing:non tech:nft,2mo
-Gate.io,https://web3.career/lending-product-marketing-manager-gate-io/19696,Lending product marketing manager,$25k - $120k,marketing:non tech:remote,2mo
-WOO Network,https://web3.career/crm-marketing-woonetwork/19695,CRM Marketing,,crm:marketing:non tech,2mo
-WOO Network,https://web3.career/pr-content-woonetwork/19692,PR & Content,$45k - $130k,marketing:non tech,2mo
-Foundry,https://web3.career/software-engineer-solidity-foundry-12/19690,Software Engineer – Solidity,$60k - $165k,dev:solidity:node,2mo
-Mythical Games,https://web3.career/blockchain-analytics-engineer-mythicalgames/19688,Blockchain Analytics Engineer,$360k - $500k,stats:dev:blockchain,2mo
-Immutable,https://web3.career/customer-support-manager-immutable/19687,Customer Support Manager,,customer support:ethereum,2mo
-Tron,https://web3.career/crypto-marketing-specialist-rainberry/19686,Crypto Marketing Specialist,$46k - $140k,marketing:non tech:crypto,2mo
-MetaMask,https://web3.career/senior-devops-engineer-consensys-nft-metamask/19685,Senior DevOps Engineer (ConsenSys NFT),$120k - $200k,devops:dev:senior:nft:ethereum,2mo
-NGRAVE,https://web3.career/office-culture-manager-ngrave/19684,Office & Culture Manager,,,2mo
-Sygnum Bank AG,https://web3.career/b2b-intern-sygnum/19681,B2B Intern,,intern:entry level:ethereum,2mo
-BitMEX,https://web3.career/software-engineer-custody-engineering-signer-bitmex/19680,Software Engineer - Custody Engineering (Signer),$65k - $180k,dev:react:react native,2mo
-Improbable,https://web3.career/frontend-engineer-improbable/19679,Frontend Engineer,$50k - $150k,dev:front end,2mo
-BroadbandTV (BBTV),https://web3.career/technical-director-web3-products-broadbandtv-bbtv/19675,"Technical Director, Web3 Products",$0k,executive:nft,2mo
-Nuri,https://web3.career/intern-regulatory-finance-nuri/19674,Intern Regulatory & Finance,,legal:finance:intern:entry level:remote,2mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Mojito,https://web3.career/qa-engineer-mojito/20399,"Boston,
+United States",QA Engineer,$80k - $180k,dev:quality assurance:solidity:ethereum:nft,2mo
+Nuri,https://web3.career/engineering-manager-devops-nuri/20398,"Berlin,
+Germany",Engineering Manager - DevOps,$95k - $250k,executive:devops:remote,2mo
+R3,https://web3.career/project-management-intern-r3-com/20397,"Singapore,
+Singapore",Project Management Intern,,intern:entry level,2mo
+Cleverse,https://web3.career/defi-product-designer-cleverse/20396,"Bangkok,
+Thailand",Defi Product Designer,$30k - $135k,design:non tech:defi,2mo
+R3,https://web3.career/project-management-intern-r3-com/20395,"London,
+United Kingdom",Project Management Intern,,intern:entry level,2mo
+ZAUBAR,https://web3.career/internship-augmented-immersive-reality-tester-qa-berlin-germany-zaubar/20394,"Berlin,
+Germany","Internship: Augmented & Immersive Reality Tester (QA) - Berlin, Germany",,intern:entry level:quality assurance,2mo
+Taurus SA,https://web3.career/quantitative-finance-analyst-trading-engineer-taurusgroup/20393,"Geneva,
+Switzerland",Quantitative Finance Analyst / Trading Engineer,,analyst:dev:finance,2mo
+micobo GmbH,https://web3.career/cloud-engineer-all-genders-remote-micobo/20392,Remote,Cloud Engineer (all genders) - remote,,remote:cloud:dev:node:golang,2mo
+Async Art,https://web3.career/community-manager-asyncart/20391,Remote,Community Manager,$40k - $101k,community manager:non tech:remote,2mo
+Next Big Thing AG,https://web3.career/entrepreneur-co-founder-f-m-x-iot-nextbigthing/20390,"Berlin,
+Germany",Entrepreneur / Co-Founder (f/m/x) - IoT,$79k - $200k,executive:remote,2mo
+Galaxy Digital Services,https://web3.career/flag-analyst-program-galaxydigitalservices/20389,"New York,
+United States",FLAG Analyst Program,$40k - $120k,analyst,2mo
+Sport Alliance GmbH,https://web3.career/frontend-developer-blockchain-m-f-d-sportalliance/20388,Remote,Frontend Developer Blockchain (m/f/d),$33k - $190k,dev:front end:blockchain:ethereum:java,2mo
+BitGo,https://web3.career/engineering-manager-devsecops-bitgo/20387,"Palo Alto,
+United States","Engineering Manager, DevSecOps",$70k - $180k,executive,2mo
+Parallel Finance,https://web3.career/people-operations-hr-china-based-parallel/20386,China,People Operations / HR (China-Based),,hr:non tech:operations,2mo
+Parallel Finance,https://web3.career/senior-solidity-engineers-parallel/20385,Remote,Senior Solidity Engineers,$80k - $200k,senior:solidity:remote:ethereum,2mo
+Chainalysis,https://web3.career/policy-law-clerk-summer-2022-internship-chainalysis/20384,"Washington,
+United States","Policy Law Clerk, Summer 2022 Internship",,intern:entry level,2mo
+Bittrex,https://web3.career/senior-financial-analyst-bittrex/20383,"Washington,
+United States",Senior Financial Analyst,,analyst:finance:senior,2mo
+Parallel Finance,https://web3.career/technical-writer-parallel/20380,Remote,Technical Writer,$45k - $120k,analyst:remote,2mo
+Parallel Finance,https://web3.career/content-writer-parallel/20379,Remote,Content Writer,$25k - $30k,copywriting:remote,2mo
+Ripple,https://web3.career/financial-risk-officer-ripple/20378,"San Francisco,
+United States",Financial Risk Officer,$40k - $150k,finance,2mo
+Public,https://web3.career/affiliate-marketing-manager-public/20377,"New York,
+United States",Affiliate Marketing Manager,$45k - $130k,marketing:non tech,2mo
+Blockdaemon,https://web3.career/contracts-compliance-attorney-blockdaemon/20375,"Los Angeles,
+United States",Contracts & Compliance Attorney,,compliance,2mo
+IOTA Foundation,https://web3.career/app-developer-firefly-iota/20373,Remote,App Developer - Firefly,$56k - $160k,dev:react:javascript:rust:remote,2mo
+IOTA Foundation,https://web3.career/senior-software-engineer-go-remote-iota/20372,Remote,Senior Software Engineer - Go - Remote,$22k - $150k,remote:dev:golang:senior:ethereum,2mo
+Coinme,https://web3.career/documentation-specialist-technical-writer-coinme/20370,"Seattle,
+United States",Documentation Specialist & Technical Writer,$40k - $120k,analyst,2mo
+Blockdaemon,https://web3.career/site-reliability-engineer-blockdaemon/20369,"Los Angeles,
+United States",Site Reliability Engineer,,dev:sys admin:solidity:golang:rust,2mo
+ZAUBAR,https://web3.career/internship-augmented-immersive-reality-tester-qa-berlin-germany-zaubar/20368,"Berlin,
+Germany","Internship: Augmented & Immersive Reality Tester (QA) - Berlin, Germany",,intern:entry level:quality assurance,2mo
+Bloxxon AG,https://web3.career/product-owner-w-m-d-berlin-bloxxon/20367,"Berlin,
+Germany","Product Owner (w/m/d), Berlin",$115k - $175k,product manager:non tech:remote,2mo
+INSPYRE Informatics,https://web3.career/mid-senior-react-developer-inspyre1/20366,Remote,Mid / Senior React Developer,$56k - $160k,dev:javascript:react:senior:remote,2mo
+Parallel Finance,https://web3.career/senior-community-manager-parallel/20365,Remote,Senior Community Manager,,community manager:non tech:senior:remote,2mo
+Parallel Finance,https://web3.career/product-designer-parallel/20364,Remote,Product Designer,$50k - $135k,design:non tech:remote,2mo
+Trust Fractal Gmbh,https://web3.career/social-media-manager-f-m-d-remote-or-berlin-based-fractal/20363,Remote,Social Media Manager (f/m/d) - remote or Berlin based,$35k - $110k,remote:social media:non tech,2mo
+Dream Sports,https://web3.career/manager-product-crypto-dreamsports/20362,"Mumbai,
+India",Manager - Product (Crypto),$39k - $140k,crypto,2mo
+Mina Foundation,https://web3.career/compliance-officer-mina-foundation/20361,Remote,Compliance Officer,,compliance:remote,2mo
+Parallel Finance,https://web3.career/head-of-business-development-parallel/20360,Remote,Head of Business Development,$40k - $150k,executive:sales:non tech:remote,2mo

@@ -1,36 +1,51 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Ripple,https://web3.career/staff-software-engineer-liquidity-ripple/7916,"Staff Software Engineer, Liquidity",,dev:sales:non tech:java,6mo
-Ripple,https://web3.career/staff-software-engineer-liquidity-ripple/7915,"Staff Software Engineer, Liquidity",,dev:sales:non tech:java,6mo
-Ripple,https://web3.career/staff-software-engineer-liquidity-ripple/7914,"Staff Software Engineer, Liquidity",,dev:sales:non tech:java,6mo
-Ripple,https://web3.career/staff-software-engineer-liquidity-ripple/7913,"Staff Software Engineer, Liquidity",,dev:sales:non tech:java,6mo
-Ripple,https://web3.career/staff-software-engineer-liquidity-ripple/7912,"Staff Software Engineer, Liquidity",,dev:sales:non tech:java,6mo
-Ripple,https://web3.career/senior-technical-program-manager-ripple/7911,Senior Technical Program Manager,$46k - $110k,executive:senior,6mo
-Ripple,https://web3.career/senior-software-engineer-liquidity-ripple/7910,"Senior Software Engineer, Liquidity",,dev:sales:non tech:senior:java,6mo
-Ripple,https://web3.career/senior-software-engineer-liquidity-ripple/7909,"Senior Software Engineer, Liquidity",,dev:sales:non tech:senior:java,6mo
-Ripple,https://web3.career/senior-software-engineer-liquidity-ripple/7908,"Senior Software Engineer, Liquidity",,dev:sales:non tech:senior:java,6mo
-Ripple,https://web3.career/senior-software-engineer-liquidity-ripple/7907,"Senior Software Engineer, Liquidity",,dev:sales:non tech:senior:java,6mo
-Ripple,https://web3.career/senior-software-engineer-ripple/7906,Senior Software Engineer,$70k - $180k,dev:senior:react:javascript:node,6mo
-Ripple,https://web3.career/senior-software-engineer-ripple/7905,Senior Software Engineer,$70k - $180k,dev:senior:react:javascript:node,6mo
-Ripple,https://web3.career/senior-software-engineer-ripple/7904,Senior Software Engineer,$70k - $180k,dev:senior:react:javascript:node,6mo
-Ripple,https://web3.career/senior-software-engineer-ripple/7903,Senior Software Engineer,$70k - $180k,dev:senior:react:javascript:node,6mo
-Ripple,https://web3.career/senior-security-engineer-ripple/7902,Senior Security Engineer,$95k - $250k,dev:security:senior:java,6mo
-Ripple,https://web3.career/senior-devops-engineer-ripple/7901,Senior DevOps Engineer,$120k - $200k,devops:dev:senior,6mo
-Ripple,https://web3.career/senior-applied-scientist-ripple/7900,Senior Applied Scientist,$50k - $200k,senior:java,6mo
-Ripple,https://web3.career/quantitative-developer-ripple/7899,Quantitative Developer,$57k - $160k,dev:react,6mo
-Ripple,https://web3.career/applied-scientist-ripple/7898,Applied Scientist,$33k - $140k,java,6mo
-Ripple,https://web3.career/lead-product-designer-ripple/7897,Lead Product Designer,$40k - $190k,design:non tech:lead,6mo
-Worldcoin.org,https://web3.career/team-lead-presentation-attack-detection-worldcoinorg/7894,"Team Lead, Presentation Attack Detection",$100k - $220k,lead:rust,6mo
-Worldcoin.org,https://web3.career/head-of-fraud-monitoring-worldcoinorg/7893,Head of Fraud Monitoring,$95k - $250k,executive:security,6mo
-Worldcoin.org,https://web3.career/data-scientist-security-worldcoinorg/7892,"Data Scientist, Security",,data science:security:rust,6mo
-Worldcoin.org,https://web3.career/technical-recruiter-worldcoinorg/7891,Technical Recruiter,$40k - $70k,recruiter:non tech,6mo
-Worldcoin.org,https://web3.career/people-operations-generalist-worldcoinorg/7890,People Operations Generalist,$80k - $110k,operations:remote,6mo
-Worldcoin.org,https://web3.career/technical-program-manager-worldcoinorg/7889,Technical Program Manager,,executive:rust,6mo
-Worldcoin.org,https://web3.career/regional-logistics-specialist-worldcoinorg/7888,Regional Logistics Specialist,,,6mo
-Worldcoin.org,https://web3.career/inventory-specialist-worldcoinorg/7887,Inventory Specialist,$56k - $160k,remote,6mo
-Worldcoin.org,https://web3.career/experimental-economist-worldcoinorg/7886,Experimental Economist,$56k - $160k,remote,6mo
-Worldcoin.org,https://web3.career/research-engineer-contrastive-learning-worldcoinorg/7885,"Research Engineer, Contrastive Learning",$65k - $180k,dev:remote,6mo
-Worldcoin.org,https://web3.career/iris-recognition-specialist-worldcoinorg/7884,Iris Recognition Specialist,,,6mo
-Worldcoin.org,https://web3.career/data-scientist-worldcoinorg/7883,Data Scientist,$50k - $150k,data science,6mo
-CANDY,https://web3.career/head-of-legal-candy/7881,Head of Legal,,executive:legal,6mo
-Mojito,https://web3.career/senior-software-engineer-backend-mojito/7879,Senior Software Engineer - Backend,$70k - $200k,backend:dev:senior:solidity:ethereum,6mo
-Binance,https://web3.career/user-operations-nft-binance/7876,User Operations (NFT),,operations:nft,6mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+BitMEX,https://web3.career/operations-specialist-bitmex/8536,"Zurich,
+Switzerland",Operations Specialist,$60k - $200k,operations,6mo
+Binance,https://web3.career/institutional-sales-and-account-manager-binance/8535,"Taipei,
+Taiwan",Institutional Sales and Account Manager,,account manager:sales:non tech,6mo
+Binance,https://web3.career/growth-and-operations-manager-binance/8534,,Growth and Operations Manager,,marketing:non tech:operations,6mo
+Binance,https://web3.career/marketing-intern-p2p-binance/8533,Asia,Marketing Intern - P2P,$24k - $48k,intern:entry level:marketing:non tech,6mo
+Binance,https://web3.career/marketing-and-community-lead-binance-smart-chain-binance/8532,Remote,Marketing and Community Lead - Binance Smart Chain,$40k - $65k,community manager:non tech:lead:marketing:remote,6mo
+ChainSafe Systems,https://web3.career/rust-golang-typescript-solidity-devs-chainsafesystems/8529,Remote,Rust Golang Typescript Solidity Devs,$60k - $120k,golang:rust:solidity,6mo
+"SundaeSwap Labs, Inc.",https://web3.career/senior-smart-contract-engineer-sundaeswaplabs-inc/8527,Remote,Senior Smart Contract Engineer,$120k - $250k,dev:senior:smart contract:remote,6mo
+Rolla,https://web3.career/senior-react-native-engineer-defi-app-rolla/8526,Remote,Senior React Native Engineer • DeFi App,$65k - $200k,dev:react native:mobile:javascript:react,6mo
+Ackee Blockchain,https://web3.career/blockchain-developer-auditor-solidity-ackeeblockchain/8525,"Prague,
+Czech Republic",Blockchain Developer & Auditor Solidity,$52k - $160k,dev:blockchain:solidity:rust,6mo
+Rolla,https://web3.career/senior-frontend-engineer-defi-rolla/8524,Remote,Senior Frontend Engineer • DeFi,$70k - $130k,dev:front end:senior:defi:react,6mo
+SORAMITSU,https://web3.career/team-leader-remote-soramitsu/8523,,Team Leader (Remote),$96k - $200k,remote:lead:solidity:java:rust,6mo
+Auth0,https://web3.career/senior-software-engineer-core-crypto-auth0/8522,,"Senior Software Engineer, Core Crypto",$90k - $160k,dev:senior:crypto:node:golang,6mo
+Numbrs,https://web3.career/senior-blockchain-ios-engineer-numbrs/8521,,Senior Blockchain iOS Engineer,$51k - $109k,dev:ios:mobile:senior:blockchain,6mo
+Numbrs,https://web3.career/senior-blockchain-android-engineer-numbrs/8520,,Senior Blockchain Android Engineer,,android:mobile:dev:senior:blockchain,6mo
+n.exchange,https://web3.career/senior-python-developer-django-rest-framework-n-exchange/8519,,Senior Python Developer - Django Rest Framework,$79k - $112k,dev:python:senior:ethereum:golang,6mo
+CANDY,https://web3.career/vp-ecommerce-candy/8517,"New York,
+United States","VP, eCommerce",$56k - $400k,ecommerce:executive,6mo
+cLabs,https://web3.career/commerce-product-intern-spring-summer-2022-clabs/8511,Remote,Commerce Product Intern (Spring/Summer 2022),$24k - $48k,intern:entry level:remote,6mo
+Newton,https://web3.career/site-reliability-engineer-newton/8510,"Montreal,
+Canada",Site Reliability Engineer,$150k - $200k,dev:sys admin,6mo
+Binance,https://web3.career/campus-programme-manager-binance/8509,Asia,Campus Programme Manager,,,6mo
+Bitfinex,https://web3.career/blockchain-integration-specialist-remote-spain-bitfinex/8508,"Madrid,
+Spain",Blockchain Integration Specialist (Remote Spain),$60k - $150k,remote:blockchain:solidity:ethereum:javascript,6mo
+Change,https://web3.career/tech-lead-changeinvest/8506,"Tallinn,
+Estonia",Tech Lead,$96k - $220k,lead:tech lead,6mo
+Tendermint,https://web3.career/creative-director-remote-tendermint/8505,"Berlin,
+Germany",Creative Director - Remote,$79k - $200k,remote:executive,6mo
+SwissBorg,https://web3.career/site-reliability-engineer-sre-remote-swissborg/8500,Lausanne,Site Reliability Engineer (SRE) - Remote,$150k - $200k,remote:dev:sys admin:senior,6mo
+Binance,https://web3.career/ios-developer-swift-mid-to-senior-binance/8499,Latin America,iOS Developer (Swift; Mid to Senior),$51k - $109k,dev:ios:mobile:senior:swift,6mo
+Newton,https://web3.career/site-reliability-engineer-newton/8498,"Toronto,
+Canada",Site Reliability Engineer,$150k - $200k,dev:sys admin,6mo
+Binance,https://web3.career/compliance-officer-custody-hong-kong-sar-binance/8497,"Hong Kong,
+Hong Kong",Compliance Officer (Custody) - Hong Kong SAR,,compliance,6mo
+Tendermint,https://web3.career/recruiting-coordinator-admin-remote-tendermint/8496,"Berlin,
+Germany",Recruiting Coordinator / Admin - Remote,,remote:recruiter:non tech,6mo
+Binance,https://web3.career/live-streaming-operations-manager-specialist-binance/8495,Asia,Live Streaming Operations Manager/Specialist,$60k - $200k,operations,6mo
+Binance,https://web3.career/it-support-specialist-latam-binance/8494,Latin America,IT Support Specialist - Latam,$40k - $80k,customer support,6mo
+Kraken Digital Asset Exchange,https://web3.career/accounting-policy-manager-kraken/8493,United States,Accounting Policy Manager,$25k - $150k,accounting,6mo
+Binance,https://web3.career/channel-operations-specialist-fiat-binance/8492,Asia,Channel Operations Specialist (FIAT),$60k - $200k,operations,6mo
+Decent Labs,https://web3.career/vp-product-strategy-operations-remote-decentlabs/8491,"Miami,
+United States","VP, Product Strategy & Operations [Remote]",,remote:operations:executive,6mo
+Binance,https://web3.career/multimedia-design-intern-binance/8490,"Singapore,
+Singapore",Multimedia Design Intern,$18k - $28k,design:non tech:intern:entry level,6mo
+Bitwise Asset Management,https://web3.career/active-portfolio-manager-sf-or-ny-area-bitwiseinvestments/8489,"New York,
+United States",Active Portfolio Manager (SF or NY Area),$40k - $150k,finance,6mo
+Change,https://web3.career/lead-devops-engineer-changeinvest/8479,"Tallinn,
+Estonia",Lead DevOps Engineer,$60k - $100k,devops:dev:lead,6mo

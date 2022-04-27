@@ -1,36 +1,65 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Worldcoin.org,https://web3.career/team-lead-data-science-worldcoinorg/10887,"Team Lead, Data Science",$50k - $120k,data science:lead:remote,5mo
-Worldcoin.org,https://web3.career/statistician-worldcoinorg/10886,Statistician,,,5mo
-Worldcoin.org,https://web3.career/machine-learning-infrastructure-engineer-worldcoinorg/10885,Machine Learning Infrastructure Engineer,$140k - $180k,dev:machine learning,5mo
-WOO Network,https://web3.career/technical-support-engineer-remote-taipei-woonetwork/10884,Technical Support Engineer (Remote/Taipei),,remote:dev:customer support:javascript:java,5mo
-WOO Network,https://web3.career/technical-support-engineer-woonetwork/10883,Technical Support Engineer,,dev:customer support:javascript:java,5mo
-WOO Network,https://web3.career/manual-qa-engineer-woonetwork/10882,Manual QA Engineer,$50k - $150k,dev:quality assurance,5mo
-WOO Network,https://web3.career/java-application-security-engineer-woonetwork/10881,Java Application Security Engineer,,dev:java:security,5mo
-WOO Network,https://web3.career/information-security-engineer-woonetwork/10880,Information Security Engineer,$95k - $250k,dev:security,5mo
-WOO Network,https://web3.career/frontend-web-engineer-woonetwork/10879,Frontend Web Engineer,$50k - $144k,dev:front end:react:javascript,5mo
-WOO Network,https://web3.career/blockchain-engineer-woonetwork/10878,Blockchain Engineer,$52k - $160k,dev:blockchain:solidity:ethereum:node,5mo
-WOO Network,https://web3.career/backend-java-engineer-trading-system-woonetwork/10877,Backend Java Engineer - Trading System,$60k - $160k,backend:dev:java,5mo
-WOO Network,https://web3.career/backend-java-engineer-trading-system-woonetwork/10876,Backend Java Engineer - Trading System,$60k - $160k,backend:dev:java,5mo
-WOO Network,https://web3.career/visual-designer-woonetwork/10875,Visual Designer,$50k - $150k,design:non tech,5mo
-WOO Network,https://web3.career/ux-researcher-woonetwork/10874,UX Researcher,$50k - $150k,design:non tech,5mo
-WOO Network,https://web3.career/ux-designer-woonetwork/10873,UX Designer,$50k - $150k,design:non tech,5mo
-WOO Network,https://web3.career/product-manager-woonetwork/10872,Product Manager,$69k - $160k,product manager:non tech,5mo
-WOO Network,https://web3.career/kyc-specialist-woonetwork/10871,KYC Specialist,,kyc,5mo
-WOO Network,https://web3.career/client-specialist-client-service-woonetwork/10870,Client Specialist/Client Service,,,5mo
-WOO Network,https://web3.career/office-manager-woonetwork/10869,Office Manager,,,5mo
-WOO Network,https://web3.career/aml-officer-woonetwork/10868,AML Officer,,,5mo
-WOO Network,https://web3.career/marketing-community-woonetwork/10867,Marketing & Community,$45k - $150k,community manager:non tech:marketing,5mo
-Wirex Limited,https://web3.career/android-team-lead-wirexlimited/10866,Android Team Lead,,android:mobile:lead,5mo
-Wirex Limited,https://web3.career/customer-support-agents-live-chats-shift-job-wirexlimited/10865,Customer Support Agents - Live Chats (shift job),,customer support:ethereum,5mo
-Wirex Limited,https://web3.career/customer-support-agent-full-time-wirexlimited/10864,Customer Support Agent (full-time),,customer support:full time,5mo
-Wirex Limited,https://web3.career/qa-engineer-mobile-wirexlimited/10863,QA Engineer (Mobile),,dev:mobile:quality assurance:java,5mo
-Wirex Limited,https://web3.career/qa-engineer-back-end-wirexlimited/10862,QA Engineer (Back-end),,backend:dev:quality assurance,5mo
-Wirex Limited,https://web3.career/senior-technical-product-owner-wirexlimited/10861,Senior Technical Product Owner,$80k - $150k,product manager:non tech:senior,5mo
-Wirex Limited,https://web3.career/domain-coordinator-b2c-wirexlimited/10860,Domain Coordinator B2C,$100k - $150k,c:c plus plus,5mo
-Wirex Limited,https://web3.career/senior-it-recruiter-wirexlimited/10859,Senior IT Recruiter,$40k - $70k,recruiter:non tech:senior,5mo
-Wirex Limited,https://web3.career/total-rewards-specialist-wirexlimited/10858,Total Rewards Specialist,,,5mo
-Wirex Limited,https://web3.career/pe-accountant-wirexlimited/10857,PE Accountant,$25k - $150k,accounting,5mo
-Wirex Limited,https://web3.career/cyber-security-engineer-wirexlimited/10856,Cyber Security Engineer,,dev:security:ruby:php:java,5mo
-Wirex Limited,https://web3.career/net-back-end-developer-wirexlimited/10855,.NET Back-end Developer,,dot net:backend:dev,5mo
-Wirex Limited,https://web3.career/middle-net-back-end-developer-wirexlimited/10854,Middle .NET Back-end Developer,,dot net:backend:dev,5mo
-Wirex Limited,https://web3.career/junior-net-back-end-developer-wirexlimited/10853,Junior .Net Back-end Developer,,dot net:backend:dev:junior:entry level,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Kava Labs,https://web3.career/crypto-senior-financial-analyst-kava/11908,United States,Crypto Senior Financial Analyst,,analyst:finance:senior:crypto,5mo
+Chainalysis,https://web3.career/account-executive-public-sector-korea-chainalysis/11906,"Seoul,
+South Korea","Account Executive, Public Sector (Korea)",$70k - $180k,executive,5mo
+Chainalysis,https://web3.career/account-executive-private-sector-korea-chainalysis/11905,"Seoul,
+South Korea","Account Executive, Private Sector (Korea)",$70k - $180k,executive,5mo
+CANDY,https://web3.career/junior-technical-recruiter-candy/11904,"New York,
+United States",Junior Technical Recruiter,,junior:entry level:recruiter:non tech,5mo
+BitGo,https://web3.career/technischer-support-manager-bitgo/11903,"Berlin,
+Germany",Technischer Support Manager,$40k - $80k,customer support:remote,5mo
+BitGo,https://web3.career/technical-support-manager-bitgo/11902,"London,
+United Kingdom",Technical Support Manager,$40k - $80k,customer support,5mo
+Set Labs,https://web3.career/ui-ux-designer-setlabs/11901,"San Francisco,
+United States",UI/UX Designer,$80k - $150k,design:non tech:ethereum,5mo
+Chainalysis,https://web3.career/associate-account-executive-aus-chainalysis/11900,"Sydney,
+Australia",Associate Account Executive (AUS),$70k - $180k,executive,5mo
+Chainalysis,https://web3.career/account-executive-public-sector-asean-chainalysis/11899,"Singapore,
+Singapore",Account Executive Public Sector (ASEAN),$70k - $180k,executive,5mo
+Chainalysis,https://web3.career/account-executive-private-sector-japan-chainalysis/11898,"Tokyo,
+Japan","Account Executive, Private Sector (Japan)",$63k - $180k,executive:nft,5mo
+Ava Labs,https://web3.career/senior-product-designer-avalabs/11895,"New York,
+United States",Senior Product Designer,$60k - $120k,design:non tech:senior,5mo
+Okcoin,https://web3.career/team-lead-fraud-investigation-okcoin/11830,"Austin,
+United States",Team Lead - Fraud Investigation,,security:lead,5mo
+Ava Labs,https://web3.career/events-manager-avalabs/11734,"New York,
+United States",Events Manager,,events manager:non tech,5mo
+CoinFlip,https://web3.career/it-service-desk-manager-coinflip/11570,"Chicago,
+United States",IT Service Desk Manager,$40k - $80k,customer support,5mo
+cLabs,https://web3.career/community-programs-management-intern-celo-foundation-spring-summer-2022-clabs/11531,Remote,"Community Programs Management Intern, Celo Foundation (Spring/Summer 2022)",,community manager:non tech:intern:entry level:remote,5mo
+Coinme,https://web3.career/senior-security-engineer-remote-optional-coinme/11530,"Seattle,
+United States",Senior Security Engineer (Remote Optional),$95k - $250k,remote:dev:security:senior,5mo
+Chainalysis,https://web3.career/software-engineer-backend-chainalysis/11529,"Washington,
+United States","Software Engineer, Backend",$33k - $160k,backend:dev:golang,5mo
+NEAR,https://web3.career/regulatory-specialist-near/11517,"Zug,
+Switzerland",Regulatory Specialist,$24k - $140k,legal,5mo
+11:FS,https://web3.career/marketing-campaigns-manager-11fs/11516,"London,
+United Kingdom",Marketing Campaigns Manager,$45k - $130k,marketing:non tech,5mo
+SuperRare Labs,https://web3.career/controller-superrarelabs/11515,"New York,
+United States",Controller,,legal:ethereum:nft,5mo
+Public,https://web3.career/affiliate-coordinator-public/11514,"New York,
+United States",Affiliate Coordinator,$45k - $130k,marketing:non tech,5mo
+Foundry,https://web3.career/cloud-engineer-crypto-staking-foundrydigital/11513,"New York,
+United States","Cloud Engineer, Crypto Staking",,cloud:dev:crypto:ruby,5mo
+The Block,https://web3.career/recruiting-associate-theblockcrypto/11512,Remote,Recruiting Associate,,recruiter:non tech:remote,5mo
+SwissBorg,https://web3.career/senior-product-designer-remote-swissborg/11511,"Lisbon,
+Portugal",Senior Product Designer (Remote),$50k - $135k,remote:design:non tech:senior,5mo
+Wirex Limited,https://web3.career/global-head-of-people-wirexlimited/11510,"London,
+United Kingdom",Global Head of People,$70k - $180k,executive,5mo
+The Block,https://web3.career/senior-recruiter-theblockcrypto/11509,Remote,Senior Recruiter,$40k - $70k,recruiter:non tech:senior:remote,5mo
+SwissBorg,https://web3.career/software-engineer-data-remote-swissborg/11508,Lausanne,"Software Engineer, Data (Remote)",$65k - $180k,remote:dev,5mo
+SwissBorg,https://web3.career/software-engineer-data-remote-swissborg/11507,"Warsaw,
+Poland","Software Engineer, Data (Remote)",$65k - $180k,remote:dev,5mo
+Wirex Limited,https://web3.career/system-product-owner-wirexlimited/11496,"Kiev,
+Ukraine",System Product Owner,$69k - $160k,product manager:non tech,5mo
+Energi Core Limited,https://web3.career/full-stack-web-developer-energicorelimited/11495,"New York,
+United States",Full Stack Web Developer,$65k - $180k,dev:full stack:react:ethereum:javascript,5mo
+GSR,https://web3.career/security-engineer-senior-associate-europe-gsr/11494,"Malaga,
+Spain",Security Engineer - Senior Associate - Europe,$95k - $250k,dev:security:senior,5mo
+WOO Network,https://web3.career/marketing-intern-woonetwork/11493,"Taipei,
+Taiwan",Marketing Intern,$24k - $48k,intern:entry level:marketing:non tech,5mo
+Immutable,https://web3.career/engineering-lead-immutable/11492,"Sydney,
+Australia",Engineering Lead,$100k - $200k,lead:ethereum:nft,5mo
+CoinDesk & TradeBlock Opportunities,https://web3.career/safe-scrum-master-tradeblock-coindesk/11488,United States,"SAFe Scrum Master, TradeBlock",,scrum,5mo
+Binance,https://web3.career/junior-mobile-security-engineer-ios-android-binance/11485,"Singapore,
+Singapore",Junior Mobile Security Engineer (iOS/Android),,android:mobile:dev:ios:junior,5mo

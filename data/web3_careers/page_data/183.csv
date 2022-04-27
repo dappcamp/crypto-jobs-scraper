@@ -1,36 +1,63 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Gnosis,https://web3.career/senior-developer-relations-engineer-gnosis/19075,Senior Developer Relations Engineer,,customer support:dev:senior:remote:solidity,3mo
-BlockFi,https://web3.career/senior-manager-cyber-defense-blockfi/19074,"Senior Manager, Cyber Defense",$50k - $200k,senior:java,3mo
-BlockFi,https://web3.career/mining-manager-blockfi/19073,Mining Manager,,,3mo
-Bittrex,https://web3.career/wallet-devops-engineer-bittrex/19072,Wallet DevOps Engineer,$150k - $200k,devops:dev:javascript:java,3mo
-SwissBorg,https://web3.career/employment-legal-counsel-remote-swissborg/19070,Employment Legal Counsel (Remote),,legal:remote,3mo
-Polygon,https://web3.career/product-manager-polygon/19069,Product Manager,$80k - $150k,product manager:non tech:ethereum:nft,3mo
-Polygon,https://web3.career/front-end-developer-polygon/19068,Front End Developer,$50k - $144k,dev:front end:react:ethereum:javascript,3mo
-Neoland,https://web3.career/community-lead-nft-game-neoland/19058,Community Lead (NFT Game),,community manager:non tech:game dev:lead:nft,3mo
-Figment,https://web3.career/digital-marketing-manager-figment/19067,Digital Marketing Manager,$45k - $130k,marketing:non tech,3mo
-CANDY,https://web3.career/staff-software-engineer-devops-candy/19066,Staff Software Engineer - DevOps,$95k - $160k,devops:dev:node:java:rust,3mo
-CANDY,https://web3.career/senior-full-stack-developer-candy/19065,Senior Full-Stack Developer,$70k - $180k,dev:full stack:senior:nft:javascript,3mo
-CANDY,https://web3.career/user-experience-researcher-candy/19064,User Experience Researcher,$60k - $150k,design:non tech:nft,3mo
-CANDY,https://web3.career/senior-user-experience-designer-candy/19063,Senior User Experience Designer,$60k - $120k,design:non tech:senior:nft:javascript,3mo
-CANDY,https://web3.career/vp-people-candy/19062,"VP, People",$70k - $180k,executive,3mo
-CANDY,https://web3.career/strategic-account-manager-sports-partnerships-candy/19061,Strategic Account Manager (Sports Partnerships),,sales:non tech:account manager,3mo
-CANDY,https://web3.career/strategic-account-director-sports-partnerships-candy/19060,Strategic Account Director (Sports Partnerships),$40k - $150k,sales:non tech:executive,3mo
-CANDY,https://web3.career/senior-frontend-engineer-candy/19056,Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:javascript,3mo
-CANDY,https://web3.career/senior-blockchain-engineer-smart-contracts-candy/19055,Senior Blockchain Engineer (Smart Contracts),$80k - $200k,dev:senior:blockchain:smart contract:solidity,3mo
-CANDY,https://web3.career/senior-backend-engineer-candy/19054,Senior Backend Engineer,$70k - $200k,backend:dev:senior:java,3mo
-CANDY,https://web3.career/data-scientist-candy/19053,Data Scientist,$50k - $150k,data science:nft,3mo
-CANDY,https://web3.career/technical-recruiter-candy/19052,Technical Recruiter,$40k - $70k,recruiter:non tech,3mo
-CANDY,https://web3.career/recruitment-brand-marketing-manager-candy/19051,Recruitment Brand Marketing Manager,,marketing:non tech:recruiter,3mo
-CANDY,https://web3.career/recruitment-brand-marketing-manager-candy/19050,Recruitment Brand Marketing Manager,,marketing:non tech:recruiter,3mo
-CANDY,https://web3.career/manager-people-and-culture-hrbp-candy/19049,"Manager, People and Culture (HRBP)",,,3mo
-CANDY,https://web3.career/junior-technical-recruiter-candy/19048,Junior Technical Recruiter,,junior:entry level:recruiter:non tech,3mo
-CANDY,https://web3.career/executive-assistant-candy/19047,Executive Assistant,$70k - $180k,executive,3mo
-CANDY,https://web3.career/ecommerce-site-ops-associate-candy/19046,eCommerce Site Ops Associate,$220k - $400k,ecommerce:react:javascript,3mo
-CANDY,https://web3.career/ecommerce-business-analyst-candy/19045,eCommerce Business Analyst,,analyst:ecommerce:react:javascript,3mo
-CANDY,https://web3.career/sr-manager-pr-communications-candy/19044,"Sr. Manager, PR & Communications",$46k - $109k,marketing:non tech:senior,3mo
-CANDY,https://web3.career/senior-marketing-manager-social-platforms-candy/19043,Senior Marketing Manager (Social Platforms),$46k - $109k,marketing:non tech:senior,3mo
-CANDY,https://web3.career/senior-marketing-manager-retention-candy/19042,Senior Marketing Manager - Retention,,marketing:non tech:product manager:senior,3mo
-CANDY,https://web3.career/senior-marketing-manager-forums-and-communities-candy/19041,Senior Marketing Manager (Forums and Communities),$46k - $109k,marketing:non tech:senior,3mo
-CANDY,https://web3.career/senior-marketing-copywriter-candy/19040,Senior Marketing Copywriter,$25k - $96k,copywriting:marketing:non tech:senior,3mo
-CANDY,https://web3.career/marketing-creative-director-candy/19039,Marketing Creative Director,$70k - $158k,executive:marketing:non tech,3mo
-CANDY,https://web3.career/marketing-art-director-candy/19038,Marketing Art Director,$70k - $158k,executive:marketing:non tech,3mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Ripple,https://web3.career/senior-manager-accounting-operations-ripple/19818,"San Francisco,
+United States","Senior Manager, Accounting Operations",,accounting:operations:senior,3mo
+Okcoin,https://web3.career/software-engineer-new-grad-okcoin/19817,"San Francisco,
+United States","Software Engineer, New Grad",$33k - $140k,dev:java,3mo
+Coin Metrics,https://web3.career/ux-ui-designer-coinmetrics/19816,"Boston,
+United States",UX/UI Designer,$45k - $135k,design:non tech:javascript,3mo
+BlockFi,https://web3.career/global-operations-sr-manager-east-coast-blockfi/19815,"New York,
+United States",Global Operations Sr. Manager (East Coast),,operations:senior,3mo
+BlockFi,https://web3.career/fraud-operations-analyst-blockfi/19814,"New York,
+United States",Fraud Operations Analyst,,analyst:security:operations,3mo
+BlockFi,https://web3.career/director-of-fraud-blockfi/19813,"New York,
+United States",Director of Fraud,$95k - $250k,executive:security,3mo
+BlockFi,https://web3.career/transaction-monitoring-manager-blockfi/19810,"New York,
+United States",Transaction Monitoring Manager,,,3mo
+BlockFi,https://web3.career/aml-investigations-analyst-blockfi/19808,"New York,
+United States",AML Investigations Analyst,$40k - $120k,analyst,3mo
+Anchorage Digital,https://web3.career/member-of-design-team-senior-product-designer-us-anchorage/19804,Remote,"Member of Design Team, Senior Product Designer - US",$60k - $120k,design:non tech:senior:remote,3mo
+Chainlink Labs,https://web3.career/hris-analyst-chainlink/19803,Remote,HRIS Analyst,$45k - $120k,analyst:remote,3mo
+PolySign & Standard Custody,https://web3.career/senior-abc-engineer-polysign/19801,"San Francisco,
+United States",Senior ABC Engineer,$120k - $210k,dev:senior:rust,3mo
+Energi Core Limited,https://web3.career/audio-visual-producer-energicorelimited/19800,"Seattle,
+United States",Audio / Visual Producer,$70k - $158k,ethereum:nft,3mo
+BlockFi,https://web3.career/client-relationship-manager-emea-blockfi/19799,"London,
+United Kingdom",Client Relationship Manager (EMEA),$45k - $130k,marketing:non tech,3mo
+BlockFi,https://web3.career/client-relationship-manager-apac-blockfi/19798,"Singapore,
+Singapore",Client Relationship Manager (APAC),$45k - $130k,marketing:non tech,3mo
+BlockFi,https://web3.career/pr-communications-associate-blockfi/19796,"New York,
+United States",PR & Communications Associate,$45k - $130k,marketing:non tech,3mo
+Autograph,https://web3.career/head-of-drop-design-drop-architecture-autograph/19795,"Santa Monica,
+United States",Head of Drop Design & Drop Architecture,,executive:design:non tech:nft,3mo
+Aquanow,https://web3.career/blockchain-engineer-aquanow/19794,"Vancouver,
+Canada",Blockchain Engineer,$0k,dev:blockchain:node:java:golang,3mo
+DAZN,https://web3.career/junior-rights-manager-dach-m-f-d-dazn/19793,"Munich,
+Germany",Junior Rights Manager - DACH m/f/d,$39k - $56k,junior:entry level:remote,3mo
+Akash Network,https://web3.career/content-marketing-associate-akashnetwork/19792,Remote,Content Marketing Associate,$25k - $120k,marketing:non tech:remote,3mo
+Vidaloop,https://web3.career/senior-software-engineer-android-vidaloop/19791,Remote,"Senior Software Engineer, Android",,remote:android:mobile:dev:senior,3mo
+PolySign & Standard Custody,https://web3.career/abc-team-lead-polysign/19790,"San Francisco,
+United States",ABC Team Lead,$100k - $220k,lead:rust,3mo
+Floating Point Group,https://web3.career/legal-counsel-regulatory-affairs-fpg/19789,Remote,"Legal Counsel, Regulatory Affairs",,legal:remote,3mo
+Foundry,https://web3.career/technical-internship-program-application-foundrydigital/19788,"New York,
+United States",Technical Internship Program Application,,intern:entry level,3mo
+BlockFi,https://web3.career/director-of-call-center-operations-blockfi/19787,"New York,
+United States",Director of Call Center Operations,$150k - $230k,executive:operations,3mo
+Ripple,https://web3.career/full-stack-software-engineer-summer-2022-intern-ripple/19786,"San Francisco,
+United States",Full-Stack Software Engineer (Summer 2022 Intern),$60k,dev:full stack:intern:entry level:ruby,3mo
+GSR,https://web3.career/2022-graduate-program-product-analyst-london-gsr/19785,"London,
+United Kingdom","2022 Graduate Program - Product Analyst, London",$20k - $30k,analyst:intern:entry level:react,3mo
+t2.world,https://web3.career/lead-backend-engineer-t2-world/19774,Remote,Lead Backend Engineer,$100k - $180k,backend:dev:lead:remote,3mo
+nft42,https://web3.career/sr-accountant-nft42/19776,"San Francisco,
+United States",Sr. Accountant,,accounting:senior:nft,3mo
+Foundry,https://web3.career/director-of-software-engineering-foundrydigital/19775,"New York,
+United States",Director of Software Engineering,$200k - $400k,executive:dev:react:react native:javascript,3mo
+NFTGo,https://web3.career/nft-data-analyst-researcher-nftgo/19773,"Los Angeles,
+United States",NFT Data Analyst/Researcher,$0k,analyst:data science:nft,3mo
+Chainalysis,https://web3.career/field-marketing-manager-latam-chainalysis/19771,"Miami,
+United States","Field Marketing Manager, LATAM",$45k - $130k,marketing:non tech,3mo
+Binance,https://web3.career/legal-counsel-financial-services-regulatory-western-europe-binance/19770,Remote,Legal Counsel (Financial Services - Regulatory) Western Europe,,legal:finance:remote,3mo
+Exodus.io,https://web3.career/engineering-lead-web3-exodus-io/19769,Remote,Engineering Lead (Web3),$95k - $200k,remote:lead,3mo
+Ripple,https://web3.career/sdr-manager-ripple/19766,"San Francisco,
+United States",SDR Manager,,,3mo
+NEAR,https://web3.career/product-lead-protocol-near/19765,"San Francisco,
+United States","Product Lead, Protocol",$60k - $200k,lead,3mo

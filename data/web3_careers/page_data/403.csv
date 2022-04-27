@@ -1,36 +1,42 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Rarible,https://web3.career/senior-mobile-engineer-android-rarible/9165,Senior Mobile Engineer (Android),,android:mobile:dev:senior:nft,5mo
-Rarible,https://web3.career/senior-frontend-engineer-react-rarible/9164,Senior Frontend Engineer (React),$50k - $140k,dev:front end:javascript:react:senior,5mo
-Rarible,https://web3.career/senior-backend-engineer-java-kotlin-rarible/9163,Senior Backend Engineer (Java/Kotlin),$60k - $160k,backend:dev:java:senior:nft,5mo
-Rarible,https://web3.career/qa-engineer-rarible/9162,QA Engineer,$65k - $110k,dev:quality assurance:nft:remote,5mo
-Rarible,https://web3.career/qa-automation-engineer-senior-rarible/9161,QA Automation Engineer (Senior),$30k - $50k,dev:quality assurance:senior:nft:remote,5mo
-Rarible,https://web3.career/brand-creative-designer-rarible/9160,Brand Creative Designer,,marketing:non tech:design:nft:remote,5mo
-Rarible,https://web3.career/protocol-partnerships-integrations-lead-rarible/9159,Protocol Partnerships & Integrations Lead,,sales:non tech:lead:nft:remote,5mo
-Rarible,https://web3.career/marketing-lead-rarible/9158,Marketing Lead,$50k - $120k,lead:marketing:non tech:nft:remote,5mo
-Rarible,https://web3.career/grants-program-lead-rarible/9157,Grants Program Lead,$56k - $200k,lead:nft:remote,5mo
-Rarible,https://web3.career/social-media-manager-rarible/9156,Social Media Manager,$35k - $75k,social media:non tech:nft:remote,5mo
-Rarible,https://web3.career/editorial-copywriter-rarible/9155,Editorial Copywriter,,copywriting:nft:remote,5mo
-RabbitHole,https://web3.career/senior-full-stack-engineer-rabbitholestudios/9154,Senior Full-stack Engineer,$70k - $180k,dev:full stack:senior:remote,5mo
-RabbitHole,https://web3.career/senior-frontend-engineer-rabbitholestudios/9153,Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:remote,5mo
-RabbitHole,https://web3.career/protocol-specialist-rabbitholestudios/9152,Protocol Specialist,$56k - $160k,remote,5mo
-Qubit9 GmbH,https://web3.career/cryptoasset-research-analyst-m-f-d-qubit9/9151,Cryptoasset Research Analyst (m/f/d),$40k - $120k,analyst,5mo
-Qubit9 GmbH,https://web3.career/working-student-recruiting-active-sourcing-m-f-d-qubit9/9150,Working Student - Recruiting / Active Sourcing (m/f/d),$40k - $70k,recruiter:non tech,5mo
-Qubit9 GmbH,https://web3.career/tech-recruiter-m-f-d-qubit9/9149,Tech Recruiter (m/f/d),$40k - $70k,recruiter:non tech,5mo
-Qubit9 GmbH,https://web3.career/junior-recruiter-active-sourcing-m-f-d-qubit9/9148,Junior-Recruiter - Active Sourcing (m/f/d),,junior:entry level:recruiter:non tech,5mo
-Qubit9 GmbH,https://web3.career/senior-backend-engineer-m-f-d-qubit9/9147,Senior Backend Engineer (m/f/d),$70k - $200k,backend:dev:senior,5mo
-Qubit9 GmbH,https://web3.career/lead-developer-blockchain-m-f-d-qubit9/9146,Lead Developer - Blockchain (m/f/d),$30k - $160k,dev:lead:blockchain,5mo
-Qubit9 GmbH,https://web3.career/full-stack-developer-m-f-d-qubit9/9145,Full Stack Developer (m/f/d),$65k - $180k,dev:full stack,5mo
-Qubit9 GmbH,https://web3.career/devops-engineer-m-f-d-qubit9/9144,DevOps Engineer (m/f/d),$70k - $180k,devops:dev,5mo
-Polygon,https://web3.career/program-manager-polygon/9143,Program Manager,$79k - $158k,executive:ethereum,5mo
-OpenSea,https://web3.career/total-rewards-specialist-opensea/9142,Total Rewards Specialist,$56k - $160k,remote,5mo
-OpenSea,https://web3.career/hr-onboarding-specialist-opensea/9141,HR Onboarding Specialist,$60k - $120k,hr:non tech:remote,5mo
-OpenSea,https://web3.career/head-of-business-operations-strategy-opensea/9140,Head of Business Operations & Strategy,,executive:operations:remote,5mo
-OpenSea,https://web3.career/partner-engineer-opensea/9139,Partner Engineer,$33k - $113k,dev:solidity:ruby:java:remote,5mo
-OpenSea,https://web3.career/head-of-security-research-opensea/9138,Head of Security Research,$95k - $250k,executive:security:remote,5mo
-OpenSea,https://web3.career/engineering-manager-infrastructure-opensea/9137,Engineering Manager Infrastructure,$70k - $180k,executive,5mo
-OpenSea,https://web3.career/blockchain-developer-opensea/9136,Blockchain Developer,$70k - $190k,dev:blockchain:remote,5mo
-OnJuno,https://web3.career/ios-developer-onjuno/9135,iOS Developer,$51k - $109k,dev:ios:mobile,5mo
-OnJuno,https://web3.career/product-manager-onjuno/9134,Product Manager,$69k - $160k,product manager:non tech,5mo
-OnJuno,https://web3.career/head-of-operations-onjuno/9133,Head of Operations,$150k - $230k,executive:operations,5mo
-OnJuno,https://web3.career/head-of-community-onjuno/9132,Head of Community,$45k - $150k,executive:community manager:non tech,5mo
-OnJuno,https://web3.career/head-of-growth-onjuno/9131,Head of Growth,$70k - $158k,executive:marketing:non tech,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Newton,https://web3.career/onboarding-specialist-newton/9651,"Montreal,
+Canada",Onboarding Specialist,,,6mo
+Newton,https://web3.career/onboarding-specialist-newton/9650,"Toronto,
+Canada",Onboarding Specialist,,,6mo
+Newton,https://web3.career/customer-success-representative-overnight-newton/9649,"Toronto,
+Canada",Customer Success Representative (Overnight),$40k - $80k,customer support,6mo
+Newton,https://web3.career/customer-success-representative-newton/9648,"Toronto,
+Canada",Customer Success Representative,$40k - $80k,customer support,6mo
+MomentRanks,https://web3.career/head-of-growth-moment-ranks/9647,Remote,Head of Growth,$70k - $158k,executive:marketing:non tech:remote,6mo
+MomentRanks,https://web3.career/senior-software-engineer-frontend-moment-ranks/9646,Remote,Senior Software Engineer (Frontend),$70k - $190k,dev:front end:senior:web3js:react,6mo
+MomentRanks,https://web3.career/senior-blockchain-engineer-remote-moment-ranks/9645,Remote,Senior Blockchain Engineer (remote),$85k - $200k,remote:dev:senior:blockchain:solidity,6mo
+MomentRanks,https://web3.career/nba-top-shot-blog-writer-remote-moment-ranks/9644,"San Francisco,
+United States",NBA Top Shot Blog Writer (remote),$56k - $160k,remote,6mo
+Mint Songs,https://web3.career/senior-software-engineer-mint-songs/9643,Remote,Senior Software Engineer,$70k - $180k,dev:senior:react:solidity:javascript,6mo
+Metal,https://web3.career/senior-frontend-engineer-metalpay/9642,Remote,Senior Frontend Engineer,$70k - $190k,dev:front end:senior:remote,6mo
+Metal,https://web3.career/senior-backend-engineer-metalpay/9641,Remote,Senior Backend Engineer,$70k - $200k,backend:dev:senior:remote,6mo
+Metal,https://web3.career/senior-android-engineer-metalpay/9640,Remote,Senior Android Engineer,,android:mobile:dev:senior:remote,6mo
+Metal,https://web3.career/frontend-engineer-metalpay/9639,Remote,Frontend Engineer,$22k - $120k,dev:front end:remote,6mo
+Metal,https://web3.career/c-developer-metalpay/9638,Remote,C++ Developer,$100k - $150k,c:c plus plus:dev:remote,6mo
+Metal,https://web3.career/backend-engineer-metalpay/9637,Remote,Backend Engineer,$60k - $180k,backend:dev:remote,6mo
+Metal,https://web3.career/lithuania-mlro-aml-analyst-metalpay/9636,"Vilnius,
+Lithuania",Lithuania MLRO / AML Analyst,$40k - $120k,analyst,6mo
+Messari,https://web3.career/data-engineer-research-messari/9635,Remote,Data Engineer - Research,,data science:dev:remote,6mo
+Messari,https://web3.career/community-manager-messari/9634,Remote,Community Manager,$40k - $101k,community manager:non tech:remote,6mo
+Messari,https://web3.career/senior-front-end-engineer-messari/9633,Remote,Senior Front-end Engineer,$70k - $190k,dev:front end:senior:react:remote,6mo
+Messari,https://web3.career/fullstack-engineer-messari/9632,Remote,Fullstack Engineer,$65k - $180k,dev:full stack:react:remote,6mo
+Messari,https://web3.career/director-architecture-messari/9631,Remote,"Director, Architecture",,executive:react:java:golang:remote,6mo
+Messari,https://web3.career/blockchain-engineer-messari/9630,Remote,Blockchain Engineer,$65k - $160k,dev:blockchain:node:golang:remote,6mo
+Messari,https://web3.career/backend-engineer-messari/9629,Remote,Backend Engineer,$33k - $160k,backend:dev:golang:remote,6mo
+Messari,https://web3.career/enterprise-account-executive-messari/9628,Remote,Enterprise Account Executive,$79k - $200k,executive:remote,6mo
+Messari,https://web3.career/business-development-representative-messari/9627,Remote,Business Development Representative,$29k - $108k,sales:non tech:remote,6mo
+Maple,https://web3.career/qa-engineer-maple-finance/9626,Remote,QA Engineer,,dev:quality assurance:remote,6mo
+Maple,https://web3.career/general-counsel-maple-finance/9625,Remote,General Counsel,,legal:remote,6mo
+Maple,https://web3.career/your-role-not-listed-apply-here-maple-finance/9624,Remote,Your role not listed? Apply here!,$56k - $160k,remote,6mo
+Maple,https://web3.career/junior-visual-and-product-designer-maple-finance/9623,Remote,Junior Visual and Product Designer,,design:non tech:junior:entry level:remote,6mo
+Maple,https://web3.career/senior-marketing-manager-maple-finance/9622,Remote,Senior Marketing Manager,$46k - $109k,marketing:non tech:senior:remote,6mo
+Islands,https://web3.career/infrastructure-engineer-islands/9621,Remote,Infrastructure Engineer,$65k - $180k,dev:remote,6mo
+Islands,https://web3.career/writer-islands/9620,Remote,Writer,$56k - $165k,nft:remote,6mo
+Islands,https://web3.career/social-media-manager-islands/9619,Remote,Social Media Manager,$35k - $110k,social media:non tech:remote,6mo
+Islands,https://web3.career/content-creator-islands/9618,Remote,Content Creator,$56k - $160k,remote,6mo
+Islands,https://web3.career/bd-partnerships-manager-islands/9617,Remote,BD & Partnerships Manager,$100k - $180k,sales:non tech:nft:remote,6mo

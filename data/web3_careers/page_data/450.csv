@@ -1,36 +1,59 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Blockdaemon,https://web3.career/business-intelligence-analyst-revenue-blockdaemon/7463,"Business Intelligence Analyst, Revenue",$40k - $120k,analyst,6mo
-Galaxy Digital Services,https://web3.career/digital-marketing-manager-galaxydigitalservices/7462,Digital Marketing Manager,$45k - $130k,marketing:non tech,6mo
-Galaxy Digital Services,https://web3.career/digital-marketing-manager-galaxydigitalservices/7461,Digital Marketing Manager,$45k - $130k,marketing:non tech,6mo
-Galaxy Digital Services,https://web3.career/associate-vp-java-developer-galaxydigitalservices/7460,"Associate/VP, Java Developer",$140k - $180k,dev:java:executive,6mo
-Galaxy Digital Services,https://web3.career/associate-vp-java-developer-galaxydigitalservices/7459,"Associate/VP, Java Developer",$140k - $180k,dev:java:executive,6mo
-Binance,https://web3.career/it-support-specialist-binance/7456,IT Support Specialist,$40k - $80k,customer support:remote,6mo
-Binance,https://web3.career/it-support-specialist-binance/7455,IT Support Specialist,$40k - $80k,customer support:remote,6mo
-Localcoin,https://web3.career/customer-service-representative-full-time-localcoin/7454,Customer Service Representative (Full-Time),,customer support:full time,6mo
-Binance,https://web3.career/binance-card-pay-customer-support-representative-binance/7453,Binance Card/Pay Customer Support Representative,$40k - $80k,customer support,6mo
-Kava Labs,https://web3.career/director-of-global-business-development-kava/7452,Director of Global Business Development,$40k - $150k,sales:non tech:executive,6mo
-Kraken Digital Asset Exchange,https://web3.career/executive-business-admin-kraken/7451,Executive Business Admin,$79k - $200k,executive:remote,6mo
-Kraken Digital Asset Exchange,https://web3.career/engineering-manager-bitcoin-kraken/7450,Engineering Manager - Bitcoin,,executive:btc:remote,6mo
-Anchorage Digital,https://web3.career/corporate-recruiter-anchorage/7437,Corporate Recruiter,$40k - $70k,recruiter:non tech,6mo
-Figure,https://web3.career/staff-data-scientist-figure/7433,Staff Data Scientist,$50k - $150k,data science,6mo
-NEAR,https://web3.career/contract-standards-leader-developer-platform-near/7432,"Contract Standards Leader, Developer Platform",$100k - $200k,dev:lead,6mo
-DFINITY,https://web3.career/software-engineer-apprentice-sdk-dfinity/7423,"Software Engineer Apprentice, SDK",$69k - $160k,dev:javascript:rust,6mo
-DappRadar,https://web3.career/senior-editorial-lead-remote-dappradar/7421,Senior Editorial Lead (Remote),,remote:lead:senior:nft,6mo
-Binance,https://web3.career/marketing-intern-turkey-binance/7420,Marketing Intern - Turkey,$24k - $48k,intern:entry level:marketing:non tech,6mo
-Binance,https://web3.career/executive-communications-visibility-lead-binance/7416,Executive Communications & Visibility Lead,$140k - $200k,executive:lead,6mo
-Localcoin,https://web3.career/customer-service-representative-part-time-localcoin/7415,Customer Service Representative (Part-Time),,customer support:part time,6mo
-SwissBorg,https://web3.career/german-translator-remote-swissborg/7409,German Translator (Remote),,remote:translator,6mo
-The Block,https://web3.career/vp-marketing-theblockcrypto/7408,"VP, Marketing",$70k - $158k,marketing:non tech:executive:remote,6mo
-WOO Network,https://web3.career/manual-qa-engineer-woonetwork/7406,Manual QA Engineer,$50k - $150k,dev:quality assurance,6mo
-Valora Inc,https://web3.career/new-business-development-lead-valorainc/7405,New Business Development Lead,,sales:non tech:lead,6mo
-Kava Labs,https://web3.career/senior-recruiter-i-technical-recruiter-kava/7401,"Senior Recruiter I, Technical Recruiter",$40k - $70k,recruiter:non tech:senior,6mo
-Messari,https://web3.career/defi-protocol-specialist-messari/7400,DeFi Protocol Specialist,$100k - $260k,defi:solana:ethereum:remote,6mo
-Bitpanda,https://web3.career/support-content-specialist-f-m-d-bitpanda/7399,Support Content Specialist (f/m/d),$25k - $96k,marketing:non tech:copywriting:customer support,6mo
-Bitpanda,https://web3.career/talent-acquisition-partner-f-m-d-tech-bitpanda/7392,Talent Acquisition Partner (f/m/d) - Tech,$40k - $70k,recruiter:non tech,6mo
-SwissBorg,https://web3.career/head-of-people-remote-europe-swissborg/7391,"Head of People (Remote, Europe)",$79k - $200k,executive:remote,6mo
-Ripple,https://web3.career/global-mobility-people-operations-specialist-ripple/7387,Global Mobility & People Operations Specialist,$60k - $200k,operations,6mo
-MomentRanks,https://web3.career/lead-software-engineer-full-stack-daily-fantasy-sports-moment-ranks/7386,"Lead Software Engineer (Full Stack), Daily Fantasy Sports",$100k - $200k,dev:full stack:lead:web3js:nft,6mo
-DappRadar,https://web3.career/backend-software-engineer-php-remote-dappradar/7385,Backend Software Engineer (PHP) (Remote),$60k - $180k,remote:backend:dev:php:node,6mo
-Figure,https://web3.career/staff-software-engineer-customer-success-portal-figure/7384,"Staff Software Engineer, Customer Success Portal",,customer support:dev:java,6mo
-Binance,https://web3.career/quality-assurance-manager-customer-service-binance/7383,Quality Assurance Manager - Customer Service,$40k - $80k,customer support,6mo
-Amun 21Shares,https://web3.career/product-manager-web-amun/7382,"Product Manager, Web",$69k - $160k,product manager:non tech,6mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+BitMEX,https://web3.career/communications-intern-bitmex/8043,"Hong Kong,
+Hong Kong",Communications Intern,,intern:entry level,6mo
+Galaxy Digital Services,https://web3.career/vp-corporate-communications-galaxydigitalservices/8042,,VP Corporate Communications,$70k - $180k,executive,6mo
+Chainalysis,https://web3.career/software-engineer-university-grad-chainalysis/8041,"New York,
+United States","Software Engineer, University Grad",$33k - $140k,dev:java,6mo
+BitMEX,https://web3.career/senior-software-engineer-marketing-technology-bitmex/8040,"Singapore,
+Singapore",Senior Software Engineer - Marketing Technology,$85k - $120k,dev:marketing:non tech:senior:react,6mo
+SALT,https://web3.career/frontend-software-engineer-fullstack-a-plus-saltlending/8039,,Frontend Software Engineer (Fullstack a plus),$65k - $150k,dev:front end:full stack:react:ethereum,6mo
+Kraken Digital Asset Exchange,https://web3.career/hr-director-mergers-and-acquisitions-kraken/8037,Remote,HR Director - Mergers and Acquisitions,,executive:hr:non tech:remote,6mo
+Binance,https://web3.career/global-ad-operations-marketing-specialist-manager-binance/8036,Remote,Global Ad Operations Marketing Specialist/ Manager,,marketing:non tech:operations:remote,6mo
+Binance,https://web3.career/growth-marketing-manager-taiwan-binance/8034,"Taipei,
+Taiwan",Growth Marketing Manager - Taiwan,$45k - $130k,marketing:non tech,6mo
+Binance,https://web3.career/regional-community-manager-binance-smart-chain-binance/8033,Remote,Regional Community Manager - Binance Smart Chain,$40k - $101k,community manager:non tech:remote,6mo
+RECUR,https://web3.career/principal-software-engineer-nft-blockchain-engineering-remote-recur/8032,,Principal Software Engineer - NFT/Blockchain Engineering (Remote),$95k - $300k,remote:dev:executive:blockchain:nft,6mo
+Ripple,https://web3.career/staff-platform-engineer-ripple/8024,"San Francisco,
+United States",Staff Platform Engineer,$33k - $140k,dev:java,6mo
+Shakepay,https://web3.career/product-manager-card-remote-canada-shakepay/8023,"Montreal,
+Canada",Product Manager - Card (Remote - Canada),$115k - $175k,remote:product manager:non tech,6mo
+Chainlink Labs,https://web3.career/marketing-operations-associate-chainlink/7991,Remote,Marketing Operations Associate,,marketing:non tech:operations:remote,6mo
+Chainlink Labs,https://web3.career/community-manager-south-korea-chainlink/7990,Remote,"Community Manager, South Korea",$40k - $101k,community manager:non tech:remote,6mo
+BitMEX,https://web3.career/senior-trading-technology-engineer-bitmex/7989,"Hong Kong,
+Hong Kong",Senior Trading Technology Engineer,$50k - $200k,dev:senior:java,6mo
+Okcoin,https://web3.career/product-marketing-manager-okcoin/7988,"San Francisco,
+United States",Product Marketing Manager,$45k - $130k,marketing:non tech,6mo
+Liquid,https://web3.career/strategy-and-project-operation-manager-liquid/7987,"Ho Chi Minh City,
+Vietnam",Strategy and Project Operation Manager,,,6mo
+Binance,https://web3.career/creative-designer-binance/7986,"Taipei,
+Taiwan",Creative Designer,$50k - $150k,design:non tech,6mo
+Rarible,https://web3.career/head-of-developer-relations-rarible/7985,Remote,Head of Developer Relations,,executive:customer support:dev:nft:remote,6mo
+Binance,https://web3.career/content-writer-binance/7984,Africa,Content Writer,$13k - $45k,copywriting,6mo
+Chainalysis,https://web3.career/global-intelligence-operations-analyst-chainalysis/7983,"New York,
+United States",Global Intelligence Operations Analyst,,analyst:operations,6mo
+Amun 21Shares,https://web3.career/corporate-recruiter-amun/7982,"New York,
+United States",Corporate Recruiter,$40k - $70k,recruiter:non tech,6mo
+Qubit9 GmbH,https://web3.career/technical-co-founder-cto-tech-lead-m-f-d-decentralized-data-cloud-business-qubit9/7981,"Hamburg,
+Germany",Technical Co-Founder / CTO / Tech-Lead (m/f/d) - Decentralized Data Cloud Business,,cloud:executive:lead:tech lead:cto,6mo
+Bitcoin Depot,https://web3.career/graphic-designer-bitcoindepot/7978,"Atlanta,
+United States",Graphic Designer,$50k - $150k,design:non tech,6mo
+Polygon,https://web3.career/blockchain-developer-integration-support-polygon/7977,,Blockchain Developer - Integration & Support,,dev:customer support:blockchain:solidity:ethereum,6mo
+CoinList,https://web3.career/general-interest-opportunistic-coinlist/7976,"San Francisco,
+United States",General Interest - Opportunistic,$78k - $180k,solana,6mo
+Figment,https://web3.career/full-stack-engineer-datahub-figment/7975,"Toronto,
+Canada","Full Stack Engineer, DataHub",$60k - $250k,dev:full stack:ruby:golang,6mo
+CoinDesk & TradeBlock Opportunities,https://web3.career/senior-content-marketing-manager-coindesk-coindesk/7974,"New York,
+United States","Senior Content Marketing Manager, CoinDesk",$46k - $109k,marketing:non tech:senior,6mo
+Figment,https://web3.career/customer-success-associate-datahub-figment/7973,"Toronto,
+Canada","Customer Success Associate, DataHub",$40k - $80k,customer support,6mo
+CANDY,https://web3.career/senior-blockchain-engineer-smart-contracts-candy/7972,"New York,
+United States",Senior Blockchain Engineer (Smart Contracts),$80k - $200k,dev:senior:blockchain:smart contract:solidity,6mo
+Bitcoin Depot,https://web3.career/business-development-representative-bitcoindepot/7971,"Charlotte,
+United States",Business Development Representative,$29k - $43k,sales:non tech:ethereum,6mo
+BlockFi,https://web3.career/blockchain-engineer-blockfi/7969,"New York,
+United States",Blockchain Engineer,$79k - $190k,dev:blockchain:rust,6mo
+Immutable,https://web3.career/senior-crypto-product-manager-immutable/7968,"Sydney,
+Australia",Senior Crypto Product Manager,$80k - $150k,product manager:non tech:senior:crypto:ethereum,6mo
+Binance,https://web3.career/international-tax-manager-binance/7967,Europe,International Tax Manager,$25k - $150k,accounting,6mo
+BlockFi,https://web3.career/engineer-cryptographic-systems-blockfi/7965,"New York,
+United States","Engineer, Cryptographic Systems",$80k - $160k,dev:node:rust,6mo

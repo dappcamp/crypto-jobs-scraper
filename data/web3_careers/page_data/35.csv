@@ -1,36 +1,60 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Hedge Labs,https://web3.career/product-designer-hedge-labs/25194,Product Designer,$100k - $150k,design:non tech:solana,17d
-Hedge Labs,https://web3.career/social-media-manager-hedge-labs/25193,Social Media Manager,,social media:non tech:solana,17d
-Uniswap Labs,https://web3.career/community-lead-uniswaplabs/25191,Community Lead,$40k - $65k,community manager:non tech:lead:ethereum,17d
-Harmony,https://web3.career/senior-system-engineer-harmony/25190,Senior System Engineer,$150k - $200k,dev:senior:sys admin:remote:ethereum,17d
-Vauld,https://web3.career/principal-engineering-recruiter-remote-india-vauld/25189,Principal Engineering Recruiter - Remote (India),,remote:executive:recruiter:non tech,17d
-Parity Technologies,https://web3.career/community-manager-apac-parity/25188,Community Manager APAC,$40k - $100k,community manager:non tech,17d
-Cake Pte Ltd,https://web3.career/corporate-commercial-lawyer-2-4-years-pqe-cakedefi/25187,Corporate/ Commercial Lawyer (2-4 years PQE),$24k - $140k,legal,17d
-Uniswap Labs,https://web3.career/technical-sourcer-uniswaplabs/25186,Technical Sourcer,$40k - $70k,recruiter:non tech,17d
-SwissBorg,https://web3.career/regulatory-compliance-specialist-remote-swissborg/25185,Regulatory Compliance Specialist (Remote),,compliance:legal:remote,17d
-SwissBorg,https://web3.career/regulatory-compliance-specialist-remote-swissborg/25184,Regulatory Compliance Specialist (Remote),,compliance:legal:remote,17d
-METALABS,https://web3.career/videographer-dubai-uae-metalabs/25183,"Videographer - Dubai, UAE",$45k - $60k,art direction:design:metaverse:virtual reality:architecture,17d
-METALABS,https://web3.career/creative-copywriter-dubai-uae-metalabs/25182,"Creative Copywriter - Dubai, UAE",$30k - $40k,copywriting:art direction:blockchain:crypto:illustrator,17d
-METALABS,https://web3.career/graphic-designer-dubai-uae-metalabs/25181,"Graphic Designer - Dubai, UAE",$45k - $55k,design:non tech,17d
-GoodWorker,https://web3.career/software-developer-iii-iv-backend-goodworker/25180,Software Developer - III/IV- Backend,$60k - $180k,backend:dev,17d
-METALABS,https://web3.career/3d-designer-dubai-uae-metalabs/25179,"3D Designer - Dubai, UAE",$65k - $80k,vfx:design:non tech:art direction:illustrator,17d
-METALABS,https://web3.career/illustrator-dubai-uae-metalabs/25178,"Illustrator - Dubai, UAE",$45k - $75k,illustrator:art direction:design:metaverse:virtual reality,17d
-METALABS,https://web3.career/project-manager-metaverse-dubai-uae-metalabs/25177,"Project Manager (Metaverse) - Dubai, UAE",$100k - $120k,metaverse:project manager:non tech:blockchain:crypto,17d
-METALABS,https://web3.career/gamification-strategist-dubai-uae-metalabs/25176,"Gamification Strategist - Dubai, UAE",$80k - $115k,game dev:esports:art direction:metaverse:consulting,17d
-Phantom,https://web3.career/freelance-content-strategist-and-writer-phantom45/25175,Freelance Content Strategist and Writer,$80k - $165k,solana:ethereum:nft,17d
-Uniswap Labs,https://web3.career/product-manager-uniswaplabs/25173,Product Manager,$69k - $160k,product manager:non tech,17d
-Avantgarde Finance,https://web3.career/operations-analyst-defi-avantgardefinance/25172,Operations Analyst - DeFi,,analyst:operations:defi,17d
-Uniswap Labs,https://web3.career/smart-contract-engineer-uniswaplabs/25170,Smart Contract Engineer,$80k - $180k,dev:smart contract:react:solidity:ethereum,17d
-Gatesweb,https://web3.career/technical-co-founder-for-52-blockchain-development-projects-gatesweb/25169,Technical Co-Founder for 52+ Blockchain Development Projects,$0k,executive:blockchain,17d
-V3 Talent Partners Inc.,https://web3.career/superrare-senior-data-engineer-v3talentpartners/25168,SuperRare - Senior Data Engineer,$130k - $160k,data science:dev:senior:remote:ethereum,18d
-Tradeblock,https://web3.career/software-engineer-tradeblock/25164,Software Engineer,$56k - $150k,dev:javascript,18d
-Binance,https://web3.career/operations-manager-latam-binance/25162,Operations Manager - Latam,$60k - $200k,operations,18d
-Binance,https://web3.career/senior-product-manager-prime-services-trading-binance/25161,Senior Product Manager (Prime Services - Trading),,accounting:product manager:non tech:senior:remote,18d
-Tribal Credit,https://web3.career/crypto-sr-counsel-tribalcredit/25160,Crypto Sr. Counsel,,legal:senior:crypto,18d
-Pole To Win International,https://web3.career/3d-environment-artist-mobile-games-and-nft-art-poletowininternational/25159,3D Environment Artist | Mobile Games and NFT Art,,vfx:mobile:nft,18d
-Pole To Win International,https://web3.career/2d-3d-concept-artist-generalist-mobile-games-and-nft-art-poletowininternational/25158,2D/3D Concept Artist - Generalist | Mobile Games and NFT Art,,vfx:mobile:nft,18d
-Pole To Win International,https://web3.career/2d-concept-artist-character-design-mobile-games-and-nft-art-poletowininternational/25157,2D Concept Artist - Character Design | Mobile Games and NFT Art,,design:non tech:mobile:nft,18d
-BreederDAO,https://web3.career/solidity-developer-fully-remote-breederdao/25156,Solidity Developer (Fully Remote),$80k - $170k,remote:dev:solidity:ethereum,18d
-Parallel Finance,https://web3.career/product-marketing-manager-parallel/25155,Product Marketing Manager,$25k - $120k,marketing:non tech:remote,18d
-Alchemy,https://web3.career/frontend-react-engineer-general-alchemy/25154,Frontend / React Engineer (General),$50k - $140k,dev:front end:javascript:react,18d
-Alchemy,https://web3.career/frontend-react-engineer-experiments-alchemy/25153,Frontend / React Engineer (Experiments),$50k - $140k,dev:front end:javascript:react,18d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Stellar Development Foundation,https://web3.career/content-marketing-manager-stellar/25782,"San Francisco,
+United States",Content Marketing Manager,$45k - $125k,marketing:non tech,15d
+KOHO,https://web3.career/product-lead-crypto-remote-koho/25781,Canada,"Product Lead, Crypto - Remote",$25k - $79k,remote:lead:crypto,15d
+SALT,https://web3.career/senior-software-engineer-saltlending/25779,"Chicago,
+United States",Senior Software Engineer,$70k - $180k,dev:senior:react:ethereum:node,15d
+Blockchain.com,https://web3.career/director-of-accounting-policy-and-reporting-blockchain/25777,"Miami,
+United States",Director of Accounting Policy and Reporting,$120k - $150k,accounting:executive,15d
+Voodoo,https://web3.career/hr-projects-manager-voodoo/25776,"Paris,
+France",HR Projects Manager,,hr:non tech:project manager,15d
+CoinFlip,https://web3.career/director-knowledge-management-coinflip/25775,"Chicago,
+United States","Director, Knowledge Management",$70k - $180k,executive,15d
+Okcoin,https://web3.career/technical-sourcer-okcoin/25765,"San Francisco,
+United States",Technical Sourcer,$40k - $70k,recruiter:non tech,15d
+Braintrust,https://web3.career/sr-php-developer-remote-braintrust/25760,"San Francisco,
+United States",Sr. PHP Developer [Remote],,remote:dev:php:senior,15d
+Genies,https://web3.career/head-of-studio-genies/25759,"Los Angeles,
+United States",Head of Studio,$63k - $180k,executive:nft,15d
+Wirex Limited,https://web3.career/system-administrator-wirexlimited/25758,"Kiev,
+Ukraine",System Administrator,$150k - $200k,sys admin,15d
+Chainalysis,https://web3.career/customer-success-manager-india-chainalysis/25757,"Delhi,
+India","Customer Success Manager, India",$40k - $45k,sales:non tech:customer support,15d
+Parity Technologies,https://web3.career/engineering-manager-delivery-services-parity/25754,"Berlin,
+Germany",Engineering Manager - Delivery Services,,executive:remote:rust,15d
+Chainalysis,https://web3.career/sdr-manager-emea-chainalysis/25753,"London,
+United Kingdom","SDR Manager, EMEA",$50k - $155k,,15d
+Mathrix,https://web3.career/defi-developer-mathrix/25752,NH Laren NL,DeFi Developer,$100k - $250k,dev:defi:solidity:ethereum,15d
+Parity Technologies,https://web3.career/senior-public-relations-manager-parity/25751,"Berlin,
+Germany",Senior Public Relations Manager,$46k - $109k,marketing:non tech:senior:remote,15d
+Chainalysis,https://web3.career/cybercrimes-investigator-defi-focused-hebrew-speaker-chainalysis/25750,"Tel Aviv,
+Israel",Cybercrimes investigator - DeFi focused (Hebrew speaker),$65k - $160k,defi,15d
+Hashstack Finance,https://web3.career/marketing-manager-defi-hashstack/25749,"Bengaluru,
+India",Marketing manager - Defi,$19k - $35k,marketing:non tech:defi,15d
+Material10,https://web3.career/3d-artist-metatribesstudios/25747,Remote,3D Artist,$11k - $12k,vfx:non tech:remote,15d
+Parity Technologies,https://web3.career/product-marketing-manager-parity/25746,"Berlin,
+Germany",Product Marketing Manager,$25k - $120k,marketing:non tech:remote,15d
+Parity Technologies,https://web3.career/ecosystem-marketing-manager-parity/25745,"Berlin,
+Germany",Ecosystem Marketing Manager,$25k - $120k,marketing:non tech:remote,15d
+Consensys,https://web3.career/technical-sourcer-blockchain-emea-consensys/25744,Remote,Technical Sourcer - Blockchain (EMEA),,recruiter:non tech:blockchain:remote:ethereum,15d
+Gnosis,https://web3.career/visual-content-creator-m-f-d-gnosis/25743,"Lisbon,
+Portugal",Visual Content Creator (m/f/d),,vfx:non tech:ethereum,15d
+Qubit9 GmbH,https://web3.career/senior-data-analyst-f-d-m-qubit9/25742,"Hamburg,
+Germany",Senior Data Analyst f/d/m,,analyst:data science:senior,15d
+CoinGecko,https://web3.career/lead-product-manager-l4-coingecko/25740,Remote,Lead Product Manager (L4),,lead:product manager:non tech:remote,15d
+GSR,https://web3.career/legal-counsel-associate-gsr/25739,"London,
+United Kingdom","Legal Counsel, Associate",$24k - $140k,legal,15d
+Reality Cards,https://web3.career/influencer-marketer-for-nft-project-reality-cards/25738,United Kingdom,Influencer marketer for NFT project,$45k - $55k,marketing:non tech:nft,15d
+SADA,https://web3.career/staff-security-engineer-sre-sada/25737,"Boston,
+United States",Staff Security Engineer (SRE),$95k - $250k,dev:security:senior:java,15d
+Chainalysis,https://web3.career/field-marketing-manager-apac-chainalysis/25735,"Singapore,
+Singapore","Field Marketing Manager, APAC",$45k - $125k,marketing:non tech,15d
+Chainalysis,https://web3.career/field-marketing-manager-anz-chainalysis/25734,"Sydney,
+Australia","Field Marketing Manager, ANZ",$45k - $125k,marketing:non tech,15d
+Immutable,https://web3.career/head-of-community-gods-unchained-immutable/25732,Australia,Head of Community (Gods Unchained),$45k - $150k,executive:community manager:non tech:ethereum,15d
+SwissBorg,https://web3.career/senior-product-manager-operations-remote-swissborg/25731,"Lisbon,
+Portugal",Senior Product Manager - Operations (Remote),,remote:operations:product manager:non tech:senior,15d
+Binance,https://web3.career/head-of-compliance-benelux-binance/25730,Europe,Head of Compliance - Benelux,,compliance:executive,15d
+Binance,https://web3.career/project-manager-custody-remote-binance/25729,Remote,Project Manager (Custody) - Remote,$56k - $150k,remote:project manager:non tech,15d
+Galaxy Digital Services,https://web3.career/digital-asset-investment-analyst-galaxydigitalservices/25728,,Digital Asset Investment Analyst,,analyst:finance,15d
+Aragon Association,https://web3.career/senior-solidity-engineer-lead-aragon/25727,Remote,Senior Solidity Engineer/Lead,$140k - $220k,dev:lead:senior:solidity:remote,15d

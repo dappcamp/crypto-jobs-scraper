@@ -1,36 +1,62 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Binance,https://web3.career/operations-specialist-turkey-binance/1240,Operations Specialist Turkey,$60k - $200k,operations,6mo
-Blue Cube Services,https://web3.career/kyc-analyst-contractor-cryptocurrency-bluecubeservices/1239,KYC Analyst (Contractor) - Cryptocurrency,,kyc:analyst:crypto,6mo
-Kraken Digital Asset Exchange,https://web3.career/director-of-brand-strategy-kraken/1238,Director of Brand Strategy,$70k - $158k,marketing:non tech:executive:remote,6mo
-BitMEX,https://web3.career/senior-software-engineer-digital-and-creative-bitmex/1237,Senior Software Engineer - Digital and Creative,$70k - $180k,dev:senior:react,6mo
-Chainlink Labs,https://web3.career/automation-and-process-design-leader-chainlink/1236,Automation and Process Design Leader,$40k - $190k,design:non tech:lead:remote,6mo
-Kraken Digital Asset Exchange,https://web3.career/operations-associate-platform-kraken/1235,"Operations Associate, Platform",,operations:ethereum:remote,6mo
-Binance,https://web3.career/head-of-community-management-apac-binance/1234,Head of Community Management - APAC,$45k - $150k,executive:community manager:non tech,6mo
-Ava Labs,https://web3.career/white-hat-hacker-blockchain-protocol-avalabs/1233,White Hat Hacker (Blockchain Protocol),$50k - $120k,blockchain:golang,6mo
-StageOne,https://web3.career/blockchain-analyst-stageone/1232,Blockchain Analyst,$60k - $104k,analyst:blockchain,6mo
-Kraken Digital Asset Exchange,https://web3.career/crypto-content-writer-freelance-kraken/1230,Crypto Content Writer - Freelance,,copywriting:crypto:remote,6mo
-Chainalysis,https://web3.career/cybercrimes-investigator-chainalysis/1229,Cybercrimes Investigator,,,6mo
-Kraken Digital Asset Exchange,https://web3.career/senior-operations-associate-kraken/1228,Senior Operations Associate,,operations:senior:ethereum,6mo
-CoinGecko,https://web3.career/lead-software-engineer-l4-coin-gecko/1227,Lead Software Engineer (L4),$100k - $200k,dev:lead:remote,6mo
-Axoni,https://web3.career/software-engineer-blockchain-platform-axoni/1226,Software Engineer - Blockchain Platform,$70k - $190k,dev:blockchain:remote,6mo
-Ava Labs,https://web3.career/senior-data-engineer-blockchain-analytics-avalabs/1225,Senior Data Engineer (Blockchain Analytics),,stats:data science:dev:senior:blockchain,6mo
-Axoni,https://web3.career/senior-software-engineer-blockchain-platform-axoni/1224,Senior Software Engineer - Blockchain Platform,$80k - $200k,dev:senior:blockchain:remote,6mo
-Revolut,https://web3.career/head-of-authorisations-crypto-revolut/1223,Head of Authorisations (Crypto),$79k - $158k,executive:crypto:remote,6mo
-Chainalysis,https://web3.career/business-development-representative-chainalysis/1222,Business Development Representative,$26k - $140k,sales:non tech,6mo
-Revolut,https://web3.career/tech-lead-crypto-revolut/1221,Tech Lead (Crypto),,lead:tech lead:crypto,6mo
-Blockchain.com,https://web3.career/site-reliability-engineer-coin-nodes-blockchain/1220,"Site Reliability Engineer, Coin Nodes",,dev:sys admin:ethereum:golang,6mo
-ExPopulus,https://web3.career/blockchain-developer-expopulus/1219,Blockchain Developer,$40k - $125k,dev:blockchain:nft,6mo
-Reddit,https://web3.career/senior-lead-business-marketing-crypto-disruptors-mobile-gaming-reddit/1217,"Senior Lead, Business Marketing - Crypto, Disruptors, Mobile Gaming",,game dev:lead:marketing:non tech:mobile,6mo
-GSR,https://web3.career/defi-full-stack-engineer-python-java-c-gsr/1216,DeFi - Full Stack Engineer (Python/Java/C++),$100k - $150k,c:c plus plus:dev:full stack:java,6mo
-Blockchain.com,https://web3.career/sales-operations-associate-blockchain/1215,Sales Operations Associate,,operations:sales:non tech,6mo
-DeSo Foundation,https://web3.career/senior-software-engineer-deso/1213,Senior Software Engineer,$80k - $200k,dev:senior:ethereum,6mo
-River Financial,https://web3.career/engineering-manager-bitcoin-custody-wallet-riverfinancial/1209,Engineering Manager - Bitcoin Custody & Wallet,,executive:btc,6mo
-Metaview Entertainment,https://web3.career/blockchain-engineer-metaviewentertainment/1207,Blockchain Engineer,$52k - $160k,dev:blockchain:solidity:solana:node,6mo
-Messari,https://web3.career/senior-cryptoasset-research-analyst-messari/1203,Senior Cryptoasset Research Analyst,,analyst:senior:remote,6mo
-Chainlink Labs,https://web3.career/senior-product-design-manager-chainlink/1202,Senior Product Design Manager,,executive:design:non tech:senior:remote,6mo
-Chainlink Labs,https://web3.career/visual-design-project-manager-chainlink/1201,Visual Design Project Manager,,design:non tech:project manager:remote,6mo
-Messari,https://web3.career/research-editor-messari/1200,Research Editor,$56k - $160k,remote,6mo
-Metal,https://web3.career/blockchain-business-development-lead-metalpay/1198,Blockchain Business Development Lead,,sales:non tech:lead:blockchain:remote,6mo
-Anchorage Digital,https://web3.career/senior-trader-anchorage/1197,Senior Trader,,senior:trader,6mo
-Gauntlet Networks,https://web3.career/simulation-data-scientist-gauntlet/1196,Simulation Data Scientist,$50k - $135k,data science:remote,6mo
-Chainlink Labs,https://web3.career/senior-software-engineer-data-feeds-chainlink/1195,"Senior Software Engineer, Data Feeds",$80k - $200k,dev:senior:solidity:golang:remote,6mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Worldcoin.org,https://web3.career/inventory-specialist-worldcoinorg/7887,Germany,Inventory Specialist,$56k - $160k,remote,6mo
+Worldcoin.org,https://web3.career/experimental-economist-worldcoinorg/7886,"Berlin,
+Germany",Experimental Economist,$56k - $160k,remote,6mo
+Worldcoin.org,https://web3.career/research-engineer-contrastive-learning-worldcoinorg/7885,Germany,"Research Engineer, Contrastive Learning",$65k - $180k,dev:remote,6mo
+Worldcoin.org,https://web3.career/iris-recognition-specialist-worldcoinorg/7884,,Iris Recognition Specialist,,,6mo
+Worldcoin.org,https://web3.career/data-scientist-worldcoinorg/7883,,Data Scientist,$50k - $150k,data science,6mo
+CANDY,https://web3.career/head-of-legal-candy/7881,"New York,
+United States",Head of Legal,,executive:legal,6mo
+Mojito,https://web3.career/senior-software-engineer-backend-mojito/7879,Remote,Senior Software Engineer - Backend,$70k - $200k,backend:dev:senior:solidity:ethereum,6mo
+Binance,https://web3.career/user-operations-nft-binance/7876,Asia,User Operations (NFT),,operations:nft,6mo
+CoinTracker,https://web3.career/product-support-specialist-cointracker/7875,Remote,Product Support Specialist,$60k - $80k,customer support:remote,6mo
+Vauld,https://web3.career/market-analysts-vauld/7872,"Bengaluru,
+India",Market Analysts,$40k - $120k,analyst,6mo
+Vauld,https://web3.career/devops-engineer-vauld/7871,"Bengaluru,
+India",Devops Engineer,$70k - $180k,devops:dev,6mo
+Polygon,https://web3.career/project-manager-polygon/7870,"Mumbai,
+India",Project Manager,$80k - $150k,project manager:non tech:ethereum,6mo
+Binance,https://web3.career/backend-architect-risk-management-binance/7869,Asia,Backend Architect - Risk Management,$120k - $250k,architecture:backend,6mo
+Brave,https://web3.career/sr-software-engineer-blockchain-brave/7868,"San Francisco,
+United States",Sr. Software Engineer - Blockchain,$80k - $200k,dev:senior:blockchain:react:solana,6mo
+Bitwise Asset Management,https://web3.career/crypto-research-analyst-governance-specialist-bitwiseinvestments/7867,Remote,Crypto Research Analyst: Governance Specialist,,analyst:crypto:remote,6mo
+Ripple,https://web3.career/senior-manager-platform-engineering-ripple/7866,"San Francisco,
+United States","Senior Manager, Platform Engineering",$78k - $200k,senior,6mo
+Ripple,https://web3.career/platform-engineer-new-grad-ripple/7865,"San Francisco,
+United States",Platform Engineer - New Grad,$33k - $140k,dev:java,6mo
+Ripple,https://web3.career/manager-cloud-ops-ripple/7864,"San Francisco,
+United States","Manager, Cloud Ops",$109k - $13k,cloud,6mo
+Ripple,https://web3.career/senior-sales-director-new-york-ripple/7863,"New York,
+United States","Senior Sales Director, New York",$40k - $150k,executive:sales:non tech:senior,6mo
+Ripple,https://web3.career/staff-technical-writer-ripplenet-ripple/7862,"San Francisco,
+United States","Staff Technical Writer, RippleNet",,analyst:node:java,6mo
+Ripple,https://web3.career/senior-manager-global-hr-systems-operations-ripple/7861,"San Francisco,
+United States","Senior Manager, Global HR Systems & Operations",,hr:non tech:operations:senior,6mo
+Ripple,https://web3.career/employment-and-litigation-counsel-ripple/7860,"San Francisco,
+United States",Employment and Litigation Counsel,$24k - $140k,legal,6mo
+Ripple,https://web3.career/senior-manager-global-workplace-operations-ripple/7859,"San Francisco,
+United States","Senior Manager, Global Workplace Operations",,operations:senior,6mo
+Ripple,https://web3.career/joint-venture-program-manager-ripple/7858,"Singapore,
+Singapore",Joint Venture Program Manager,$70k - $180k,executive,6mo
+Ripple,https://web3.career/senior-tax-analyst-ripple/7857,"San Francisco,
+United States",Senior Tax Analyst,,analyst:senior:accounting,6mo
+Ripple,https://web3.career/staff-technical-program-manager-infosec-ripple/7856,"San Francisco,
+United States","Staff Technical Program Manager, InfoSec",$95k - $250k,security:executive,6mo
+Ripple,https://web3.career/sr-software-engineer-devops-ripple/7855,"San Francisco,
+United States","Sr Software Engineer, DevOps",$30k - $60k,devops:dev:java,6mo
+Ripple,https://web3.career/senior-software-engineer-multiple-positions-san-francisco-ca-united-states-ripple/7854,"San Francisco,
+United States","Senior Software Engineer (Multiple Positions) (San Francisco, CA, United States)",$80k - $200k,dev:senior:javascript:java,6mo
+Ripple,https://web3.career/customer-success-senior-manager-ripple/7853,"Shanghai,
+China",Customer Success Senior Manager,,customer support:senior,6mo
+MobileCoin,https://web3.career/head-of-social-partnerships-mobilecoin/7852,"San Francisco,
+United States",Head of Social Partnerships,$40k - $150k,executive:sales:non tech,6mo
+Ripple,https://web3.career/director-of-infrastructure-ripple/7850,"San Francisco,
+United States",Director of Infrastructure,$70k - $180k,executive,6mo
+Ripple,https://web3.career/database-engineer-new-grad-ripple/7849,"London,
+United Kingdom",Database Engineer (New Grad),$33k - $140k,dev:java,6mo
+Ripple,https://web3.career/senior-product-manager-interoperability-ripple/7848,"San Francisco,
+United States","Senior Product Manager, Interoperability",$80k - $150k,product manager:non tech:senior,6mo
+Ripple,https://web3.career/senior-salesforce-administrator-ripple/7847,"London,
+United Kingdom",Senior Salesforce Administrator,,salesforce:senior,6mo
+Ripple,https://web3.career/revenue-enablement-manager-ripple/7846,"London,
+United Kingdom",Revenue Enablement Manager,,,6mo

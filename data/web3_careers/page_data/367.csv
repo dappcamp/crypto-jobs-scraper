@@ -1,36 +1,64 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-HQ Digital,https://web3.career/associate-portfolio-strategist-hqdigital/10467,"Associate, Portfolio Strategist",$40k - $150k,finance,5mo
-Gnosis,https://web3.career/open-application-gnosis/10466,Open Application,$60k - $145k,ethereum:remote,5mo
-Gnosis,https://web3.career/backend-lead-m-w-d-gnosis/10465,Backend Lead (m/w/d),,backend:lead:node:rust:remote,5mo
-Gnosis,https://web3.career/talent-acquisition-manager-m-w-d-gnosis/10464,Talent Acquisition Manager (m/w/d),,recruiter:non tech:ethereum:node:remote,5mo
-Gluwa,https://web3.career/azure-devops-engineer-south-korea-gluwa/10463,Azure DevOps Engineer (South Korea),$95k - $145k,devops:dev:ethereum,5mo
-Floating Point Group,https://web3.career/client-operations-analyst-fpg/10462,Client Operations Analyst,,analyst:operations,5mo
-Foundry,https://web3.career/software-engineer-backend-foundrydigital/10461,"Software Engineer, Backend",$70k - $200k,backend:dev:node:java,5mo
-Foundry,https://web3.career/client-operations-coordinator-foundrydigital/10460,Client Operations Coordinator,$60k - $200k,operations,5mo
-Foundry,https://web3.career/recruiting-coordinator-foundrydigital/10459,Recruiting Coordinator,$40k - $70k,recruiter:non tech,5mo
-Foundry,https://web3.career/recruiter-foundrydigital/10458,Recruiter,$40k - $70k,recruiter:non tech,5mo
-Figure,https://web3.career/principal-product-manager-mortgage-figure/10457,"Principal Product Manager, Mortgage",$135k - $170k,executive:product manager:non tech,5mo
-Figure,https://web3.career/marketplace-operations-associate-figure/10456,Marketplace Operations Associate,$60k - $200k,operations,5mo
-Figure,https://web3.career/vice-president-of-corporate-communications-figure/10455,Vice President of Corporate Communications,,,5mo
-Figure,https://web3.career/senior-manager-marketplace-compliance-figure/10454,"Senior Manager, Marketplace Compliance",,compliance:senior,5mo
-Figure,https://web3.career/senior-analyst-fp-a-figure/10453,"Senior Analyst, FP&A",$150k - $185k,analyst:senior,5mo
-Figure,https://web3.career/accounting-intern-figure/10452,Accounting Intern,,accounting:intern:entry level,5mo
-Figure,https://web3.career/staff-software-engineer-anti-fraud-figure/10451,"Staff Software Engineer, Anti-Fraud",$95k - $250k,dev:security,5mo
-Figure,https://web3.career/senior-software-engineer-mobile-figure-equity-solutions-figure/10450,"Senior Software Engineer, Mobile , Figure Equity Solutions",$120k - $200k,dev:mobile:senior:java,5mo
-Figure,https://web3.career/senior-software-engineer-figure-lending-figure/10449,"Senior Software Engineer, Figure Lending",$50k - $200k,dev:senior:java,5mo
-Figure,https://web3.career/workforce-management-analyst-figure/10448,Workforce Management Analyst,$40k - $120k,analyst,5mo
-Figure,https://web3.career/servicing-operations-associate-figure/10447,Servicing Operations Associate,$60k - $200k,operations,5mo
-Figure,https://web3.career/quality-assurance-specialist-figure/10446,Quality Assurance Specialist,,,5mo
-Figure,https://web3.career/operations-training-specialist-ii-nv-figure/10445,Operations Training Specialist II NV,,operations:education,5mo
-Figure,https://web3.career/operations-training-specialist-i-figure/10444,Operations Training Specialist I,,operations:education,5mo
-Figure,https://web3.career/senior-director-operations-broker-dealer-ats-figure/10443,"Senior Director, Operations - Broker Dealer / ATS",,executive:operations:senior,5mo
-Figure,https://web3.career/office-coordinator-figure/10442,Office Coordinator,,,5mo
-Figure,https://web3.career/executive-assistant-figure/10441,Executive Assistant,$70k - $180k,executive,5mo
-Figment,https://web3.career/technical-support-engineer-datahub-figment/10440,"Technical Support Engineer, DataHub",,dev:customer support:solidity:javascript:golang,5mo
-Figment,https://web3.career/data-scientist-datahub-figment/10439,"Data Scientist, DataHub",$50k - $150k,data science,5mo
-Figment,https://web3.career/product-manager-datahub-figment/10438,"Product Manager, DataHub",$69k - $160k,product manager:non tech,5mo
-Figment,https://web3.career/developer-relations-lead-figment/10437,Developer Relations Lead,,customer support:dev:lead,5mo
-Figment,https://web3.career/accountant-figment/10436,Accountant,$25k - $150k,accounting,5mo
-Energi Core Limited,https://web3.career/senior-blockchain-developer-c-go-energicorelimited/10435,Senior Blockchain Developer (C++/ Go),$100k - $150k,c:c plus plus:dev:golang:senior,5mo
-Energi Core Limited,https://web3.career/qa-engineer-part-time-energicorelimited/10434,QA Engineer (part-time),,dev:part time:quality assurance:ethereum,5mo
-Energi Core Limited,https://web3.career/product-designer-part-time-energicorelimited/10433,Product Designer (part-time),,design:non tech:part time:ethereum,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Gemini,https://web3.career/lead-regulatory-compliance-gemini/11011,"New York,
+United States","Lead, Regulatory Compliance",,compliance:legal:lead,6mo
+Gemini,https://web3.career/analyst-compliance-governance-gemini/11010,"New York,
+United States","Analyst, Compliance-Governance",,compliance:analyst,6mo
+Gemini,https://web3.career/principal-technology-and-security-internal-auditor-gemini/11009,"New York,
+United States","Principal, Technology and Security Internal Auditor",$95k - $250k,executive:security,6mo
+Gemini,https://web3.career/site-reliability-engineer-embedded-sre-gemini/11008,,"Site Reliability Engineer, Embedded SRE",,embedded:dev:sys admin:senior:react,6mo
+Gemini,https://web3.career/senior-network-engineer-cloud-gemini/11007,"New York,
+United States","Senior Network Engineer, Cloud",,cloud:dev:senior,6mo
+Gemini,https://web3.career/senior-network-engineer-gemini/11006,"New York,
+United States",Senior Network Engineer,$80k - $200k,dev:senior,6mo
+Gemini,https://web3.career/senior-cloud-infrastructure-engineer-storage-gemini/11005,,"Senior Cloud Infrastructure Engineer, Storage",,cloud:dev:senior:java:golang,6mo
+Gemini,https://web3.career/director-cloud-infrastructure-engineering-gemini/11004,"New York,
+United States","Director, Cloud Infrastructure Engineering",,cloud:executive,6mo
+Gemini,https://web3.career/senior-software-engineer-gemini/11003,"London,
+United Kingdom",Senior Software Engineer,$80k - $200k,dev:senior:ethereum:scala:java,6mo
+Gemini,https://web3.career/senior-product-manager-retail-gemini/11002,"London,
+United Kingdom","Senior Product Manager, Retail",$80k - $150k,product manager:non tech:senior:ethereum,6mo
+Gemini,https://web3.career/senior-associate-market-business-intelligence-gemini/11001,"London,
+United Kingdom","Senior Associate, Market & Business Intelligence",$78k - $200k,senior,6mo
+Gemini,https://web3.career/regional-lead-trust-security-gemini/11000,"London,
+United Kingdom","Regional Lead, Trust & Security",,lead:security,6mo
+Gemini,https://web3.career/lead-talent-acquisition-technical-recruitment-europe-gemini/10999,,"Lead, Talent Acquisition (Technical Recruitment, Europe)",$40k - $70k,lead:recruiter:non tech,6mo
+Gemini,https://web3.career/corporate-counsel-gemini/10998,"London,
+United Kingdom",Corporate Counsel,$24k - $140k,legal,6mo
+Gemini,https://web3.career/software-engineer-gemini/10997,"Singapore,
+Singapore",Software Engineer,,dev:ethereum:scala:java,6mo
+Gemini,https://web3.career/senior-software-engineer-gemini/10996,"Singapore,
+Singapore",Senior Software Engineer,$80k - $200k,dev:senior:ethereum:scala,6mo
+Gemini,https://web3.career/senior-associate-collector-services-nifty-gateway-gemini/10995,"Singapore,
+Singapore","Senior Associate, Collector Services, Nifty Gateway",$90k - $200k,senior:nft,6mo
+Gemini,https://web3.career/marketing-communications-intern-gemini/10994,"Singapore,
+Singapore",Marketing Communications Intern,$24k - $48k,intern:entry level:marketing:non tech,6mo
+Gemini,https://web3.career/lead-senior-associate-talent-acquisition-asia-pacific-engineering-gemini/10993,"Singapore,
+Singapore","Lead / Senior Associate, Talent Acquisition, Asia Pacific (Engineering)",$40k - $70k,lead:senior:recruiter:non tech,6mo
+Gemini,https://web3.career/technical-accounting-manager-gemini/10992,,Technical Accounting Manager,$25k - $150k,accounting,6mo
+Gemini,https://web3.career/sourcing-lead-supplier-relations-gemini/10991,,"Sourcing Lead, Supplier Relations",$60k - $200k,lead,6mo
+Gemini,https://web3.career/senior-accountant-digital-assets-gemini/10990,"New York,
+United States","Senior Accountant, Digital Assets",,accounting:finance:senior,6mo
+Gemini,https://web3.career/senior-accountant-gemini/10989,"New York,
+United States",Senior Accountant,$80k - $110k,accounting:senior,6mo
+Gemini,https://web3.career/principal-financial-operations-data-transformation-gemini/10988,"New York,
+United States","Principal, Financial Operations Data Transformation",$175k - $200k,finance:operations:executive,6mo
+Gemini,https://web3.career/associate-director-technical-accounting-gemini/10987,"New York,
+United States","Associate Director, Technical Accounting",$120k - $150k,accounting:executive,6mo
+Gemini,https://web3.career/associate-director-custody-operations-gemini/10986,"New York,
+United States","Associate Director, Custody Operations",$150k - $230k,executive:operations,6mo
+Gemini,https://web3.career/accounting-manager-gemini/10985,,Accounting Manager,$25k - $150k,accounting,6mo
+Gemini,https://web3.career/senior-visual-designer-product-gemini/10984,"New York,
+United States","Senior Visual Designer, Product",$60k - $120k,design:non tech:senior:javascript,6mo
+Gemini,https://web3.career/senior-visual-designer-gemini/10983,,Senior Visual Designer,$60k - $120k,design:non tech:senior,6mo
+Gemini,https://web3.career/manager-ux-research-gemini/10982,"New York,
+United States","Manager, UX Research",$50k - $150k,design:non tech,6mo
+Gemini,https://web3.career/lead-ux-writer-gemini/10981,"New York,
+United States","Lead, UX Writer",$40k - $190k,lead:design:non tech,6mo
+Gemini,https://web3.career/senior-python-data-engineer-gemini/10980,"New York,
+United States",Senior Python Data Engineer,,data science:dev:python:senior,6mo
+Gemini,https://web3.career/senior-machine-learning-engineer-python-gemini/10979,"New York,
+United States",Senior Machine Learning Engineer (Python),$140k - $180k,dev:machine learning:python:senior:java,6mo
+Gemini,https://web3.career/data-science-leader-gemini/10978,"New York,
+United States",Data Science Leader,$50k - $120k,data science:lead,6mo
+Gemini,https://web3.career/customer-support-associate-gemini/10977,"New York,
+United States",Customer Support Associate,$40k - $80k,customer support,6mo

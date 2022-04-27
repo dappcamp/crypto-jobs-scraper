@@ -1,36 +1,70 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Offchain Labs,https://web3.career/solutions-engineer-offchainlabs/9676,Solutions Engineer,$60k - $150k,dev:ethereum:remote,5mo
-Offchain Labs,https://web3.career/senior-software-engineer-offchainlabs/9675,Senior Software Engineer,$80k - $200k,dev:senior:ethereum:remote,5mo
-Offchain Labs,https://web3.career/security-engineer-offchainlabs/9674,Security Engineer,,dev:security:ethereum:remote,5mo
-Offchain Labs,https://web3.career/qa-engineer-offchainlabs/9673,QA Engineer,$65k - $150k,dev:quality assurance:ethereum:remote,5mo
-Offchain Labs,https://web3.career/full-stack-engineer-offchainlabs/9672,Full Stack Engineer,$70k - $140k,dev:full stack:ethereum:remote,5mo
-Offchain Labs,https://web3.career/don-t-see-the-right-role-for-you-apply-here-offchainlabs/9671,Don't see the right role for you? Apply here!,$60k - $145k,ethereum:remote,5mo
-Offchain Labs,https://web3.career/devops-engineer-offchainlabs/9670,DevOps Engineer,$95k - $145k,devops:dev:ethereum:remote,5mo
-Nuvalence,https://web3.career/lead-blockchain-engineer-nuvalence/9669,Lead Blockchain Engineer,$30k - $160k,dev:lead:blockchain:remote,5mo
-Newton,https://web3.career/technical-recruiter-newton/9668,Technical Recruiter,$40k - $70k,recruiter:non tech,5mo
-Newton,https://web3.career/director-marketing-newton/9667,"Director, Marketing",$70k - $158k,executive:marketing:non tech,5mo
-Newton,https://web3.career/test-engineer-newton/9666,Test Engineer,$60k - $180k,dev,5mo
-Newton,https://web3.career/site-reliability-engineer-newton/9665,Site Reliability Engineer,$150k - $200k,dev:sys admin,5mo
-Newton,https://web3.career/senior-software-developer-platform-newton/9664,Senior Software Developer - Platform,$80k - $200k,dev:senior,5mo
-Newton,https://web3.career/senior-backend-developer-newton/9663,Senior Backend Developer,$70k - $200k,backend:dev:senior:node:java,5mo
-Newton,https://web3.career/senior-backend-developer-newton/9662,Senior Backend Developer,$70k - $200k,backend:dev:senior:node:java,5mo
-Newton,https://web3.career/it-technical-support-specialist-newton/9661,IT Technical Support Specialist,$40k - $80k,customer support,5mo
-Newton,https://web3.career/front-end-react-native-engineer-newton/9660,Front End React Native Engineer,$115k - $120k,dev:front end:react native:mobile:javascript,5mo
-Newton,https://web3.career/front-end-react-native-engineer-newton/9659,Front End React Native Engineer,$115k - $120k,dev:front end:react native:mobile:javascript,5mo
-Newton,https://web3.career/front-end-react-native-engineer-newton/9658,Front End React Native Engineer,$115k - $120k,dev:front end:react native:mobile:javascript,5mo
-Newton,https://web3.career/director-engineering-newton/9657,"Director, Engineering",,executive:node:java,5mo
-Newton,https://web3.career/director-engineering-newton/9656,"Director, Engineering",,executive:node:java,5mo
-Newton,https://web3.career/data-engineer-newton/9655,Data Engineer,$70k - $160k,data science:dev,5mo
-Newton,https://web3.career/marketing-designer-newton/9654,Marketing Designer,,design:non tech:marketing,5mo
-Newton,https://web3.career/technical-customer-success-specialist-newton/9653,Technical Customer Success Specialist,,customer support:javascript,5mo
-Newton,https://web3.career/onboarding-specialist-newton/9652,Onboarding Specialist,,,5mo
-Newton,https://web3.career/onboarding-specialist-newton/9651,Onboarding Specialist,,,5mo
-Newton,https://web3.career/onboarding-specialist-newton/9650,Onboarding Specialist,,,5mo
-Newton,https://web3.career/customer-success-representative-overnight-newton/9649,Customer Success Representative (Overnight),$40k - $80k,customer support,5mo
-Newton,https://web3.career/customer-success-representative-newton/9648,Customer Success Representative,$40k - $80k,customer support,5mo
-MomentRanks,https://web3.career/head-of-growth-moment-ranks/9647,Head of Growth,$70k - $158k,executive:marketing:non tech:remote,5mo
-MomentRanks,https://web3.career/senior-software-engineer-frontend-moment-ranks/9646,Senior Software Engineer (Frontend),$70k - $190k,dev:front end:senior:web3js:react,5mo
-MomentRanks,https://web3.career/senior-blockchain-engineer-remote-moment-ranks/9645,Senior Blockchain Engineer (remote),$85k - $200k,remote:dev:senior:blockchain:solidity,5mo
-MomentRanks,https://web3.career/nba-top-shot-blog-writer-remote-moment-ranks/9644,NBA Top Shot Blog Writer (remote),$56k - $160k,remote,5mo
-Mint Songs,https://web3.career/senior-software-engineer-mint-songs/9643,Senior Software Engineer,$70k - $180k,dev:senior:react:solidity:javascript,5mo
-Metal,https://web3.career/senior-frontend-engineer-metalpay/9642,Senior Frontend Engineer,$70k - $190k,dev:front end:senior:remote,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Brave,https://web3.career/quality-assurance-engineer-brave/10187,"San Francisco,
+United States",Quality Assurance Engineer,$60k - $180k,dev,6mo
+Brave,https://web3.career/machine-learning-engineer-brave/10186,,Machine Learning Engineer,,dev:machine learning:javascript:java,6mo
+Brave,https://web3.career/integration-engineer-brave/10185,"San Francisco,
+United States",Integration Engineer,$54k - $140k,dev:ethereum:javascript:ruby:rust,6mo
+Brave,https://web3.career/blockchain-engineer-brave/10184,"San Francisco,
+United States",Blockchain Engineer,$50k - $130k,dev:blockchain:react:solana:ethereum,6mo
+Brave,https://web3.career/ads-product-manager-brave/10183,"San Francisco,
+United States",Ads Product Manager,$69k - $160k,product manager:non tech,6mo
+Boson Protocol,https://web3.career/technical-talent-application-bosonprotocol/10182,"London,
+United Kingdom",Technical Talent Application,,recruiter:non tech:react:solidity:ethereum,6mo
+Boson Protocol,https://web3.career/senior-blockchain-engineer-bosonprotocol/10181,"London,
+United Kingdom",Senior Blockchain Engineer,$80k - $200k,dev:senior:blockchain:ethereum,6mo
+Boson Protocol,https://web3.career/global-director-of-ecommerce-bosonprotocol/10180,"London,
+United Kingdom",Global Director of eCommerce,$56k - $400k,executive:ecommerce,6mo
+Blue Cube Services,https://web3.career/kyc-analyst-contractor-cryptocurrency-bluecubeservices/10179,"Tallinn,
+Estonia",KYC Analyst (Contractor) - Cryptocurrency,,kyc:analyst:crypto,6mo
+Blue Cube Services,https://web3.career/kyc-analyst-contractor-cryptocurrency-bluecubeservices/10178,"Budapest,
+Hungary",KYC Analyst (Contractor) - Cryptocurrency,,kyc:analyst:crypto,6mo
+Blue Cube Services,https://web3.career/kyc-analyst-contractor-cryptocurrency-bluecubeservices/10177,"Mumbai,
+India",KYC Analyst (Contractor) - Cryptocurrency,,kyc:analyst:crypto,6mo
+Blue Cube Services,https://web3.career/kyc-analyst-contractor-cryptocurrency-bluecubeservices/10176,"Riga,
+Latvia",KYC Analyst (Contractor) - Cryptocurrency,,kyc:analyst:crypto,6mo
+Blue Cube Services,https://web3.career/kyc-analyst-contractor-cryptocurrency-bluecubeservices/10175,"Mexico City,
+Mexico",KYC Analyst (Contractor) - Cryptocurrency,,kyc:analyst:crypto,6mo
+Blue Cube Services,https://web3.career/kyc-analyst-contractor-cryptocurrency-bluecubeservices/10174,"Rabat,
+Morocco",KYC Analyst (Contractor) - Cryptocurrency,,kyc:analyst:crypto,6mo
+Blue Cube Services,https://web3.career/kyc-analyst-contractor-cryptocurrency-bluecubeservices/10173,"Lima,
+Peru",KYC Analyst (Contractor) - Cryptocurrency,,kyc:analyst:crypto,6mo
+Blue Cube Services,https://web3.career/kyc-analyst-contractor-cryptocurrency-bluecubeservices/10172,"Caracas,
+Venezuela",KYC Analyst (Contractor) - Cryptocurrency,,kyc:analyst:crypto,6mo
+Blue Cube Services,https://web3.career/kyc-analyst-contractor-cryptocurrency-bluecubeservices/10171,"Quito,
+Ecuador",KYC Analyst (Contractor) - Cryptocurrency,,kyc:analyst:crypto,6mo
+Blue Cube Services,https://web3.career/kyc-analyst-contractor-cryptocurrency-bluecubeservices/10170,"Delhi,
+India",KYC Analyst (Contractor) - Cryptocurrency,,kyc:analyst:crypto,6mo
+Blue Cube Services,https://web3.career/kyc-analyst-contractor-cryptocurrency-bluecubeservices/10169,"Beirut,
+Lebanon",KYC Analyst (Contractor) - Cryptocurrency,,kyc:analyst:crypto,6mo
+Blue Cube Services,https://web3.career/kyc-analyst-contractor-cryptocurrency-bluecubeservices/10168,"Manila,
+Philippines",KYC Analyst (Contractor) - Cryptocurrency,,kyc:analyst:crypto,6mo
+Blue Cube Services,https://web3.career/kyc-analyst-contractor-cryptocurrency-bluecubeservices/10167,"Dhaka,
+Bangladesh",KYC Analyst (Contractor) - Cryptocurrency,,kyc:analyst:crypto,6mo
+Blue Cube Services,https://web3.career/kyc-analyst-contractor-cryptocurrency-bluecubeservices/10166,"Athens,
+Greece",KYC Analyst (Contractor) - Cryptocurrency,,kyc:analyst:crypto,6mo
+Blue Cube Services,https://web3.career/kyc-analyst-contractor-cryptocurrency-bluecubeservices/10165,"Bangalore,
+India",KYC Analyst (Contractor) - Cryptocurrency,,kyc:analyst:crypto,6mo
+Blue Cube Services,https://web3.career/kyc-analyst-contractor-cryptocurrency-bluecubeservices/10164,"Kiev,
+Ukraine",KYC Analyst (Contractor) - Cryptocurrency,,kyc:analyst:crypto,6mo
+Blue Cube Services,https://web3.career/kyc-analyst-contractor-cryptocurrency-bluecubeservices/10163,"Jos,
+Nigeria",KYC Analyst (Contractor) - Cryptocurrency,,kyc:analyst:crypto,6mo
+Blue Cube Services,https://web3.career/kyc-analyst-contractor-cryptocurrency-bluecubeservices/10162,"Bishkek,
+Kyrgyzstan",KYC Analyst (Contractor) - Cryptocurrency,,kyc:analyst:crypto,6mo
+Blue Cube Services,https://web3.career/kyc-analyst-contractor-cryptocurrency-bluecubeservices/10161,"Johannesburg,
+South Africa",KYC Analyst (Contractor) - Cryptocurrency,,kyc:analyst:crypto,6mo
+Blue Cube Services,https://web3.career/kyc-analyst-contractor-cryptocurrency-bluecubeservices/10160,"Cape Town,
+South Africa",KYC Analyst (Contractor) - Cryptocurrency,,kyc:analyst:crypto,6mo
+Blockstream,https://web3.career/ux-ui-designer-blockstream/10159,"Mountain View,
+United States",UX/UI Designer,$45k - $135k,design:non tech:javascript,6mo
+Blockstream,https://web3.career/senior-product-manager-blockstream/10158,"San Francisco,
+United States",Senior Product Manager,$80k - $150k,product manager:non tech:senior:react,6mo
+Blockstream,https://web3.career/product-management-director-liquid-blockstream/10157,"Mountain View,
+United States","Product Management Director, Liquid",$56k - $150k,executive:react,6mo
+Blockstream,https://web3.career/social-media-manager-blockstream/10156,"Mountain View,
+United States",Social Media Manager,$33k - $85k,social media:non tech,6mo
+Blockstream,https://web3.career/protocol-engineer-lightning-blockstream/10155,"Mountain View,
+United States",Protocol Engineer: Lightning,$60k - $180k,dev,6mo
+Blockstream,https://web3.career/integration-engineer-greenlight-blockstream/10154,"Mountain View,
+United States",Integration Engineer: Greenlight,$75k - $190k,dev:rust,6mo
+Blockstream,https://web3.career/full-stack-software-engineer-lightning-greenlight-blockstream/10153,"Mountain View,
+United States",Full-Stack Software Engineer: Lightning/Greenlight,$108k - $220k,dev:full stack:rust,6mo

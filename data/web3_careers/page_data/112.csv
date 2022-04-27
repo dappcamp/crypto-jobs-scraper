@@ -1,36 +1,57 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Exodus.io,https://web3.career/senior-software-audit-engineer-exodus-io/22093,Senior Software Audit Engineer,$85k - $200k,remote:dev:senior,2mo
-Okcoin,https://web3.career/recruiting-operations-specialist-okcoin/22090,Recruiting Operations Specialist,,operations:recruiter:non tech,2mo
-RECUR,https://web3.career/qa-analyst-remote-recur/22085,QA Analyst (Remote),,remote:analyst:quality assurance:ethereum:javascript,2mo
-Okcoin,https://web3.career/senior-global-payroll-analyst-okcoin/22084,Senior Global Payroll Analyst,,analyst:accounting:senior,2mo
-Okcoin,https://web3.career/human-resources-business-partner-okcoin/22083,Human Resources Business Partner,,,2mo
-Tixl Labs,https://web3.career/senior-blockchain-engineer-cross-chain-bridge-m-f-o-tixl/22082,Senior Blockchain Engineer Cross-Chain Bridge (m/f/o),$80k - $200k,dev:senior:blockchain:solidity:solana,2mo
-Blockdaemon,https://web3.career/business-operations-strategy-associate-blockdaemon/22081,Business Operations & Strategy Associate,$60k - $200k,operations,2mo
-WalletConnect,https://web3.career/javascript-blockchain-engineer-walletconnect/22080,Javascript Blockchain Engineer,$50k - $120k,dev:javascript:blockchain:web3js:java,2mo
-Crypto.com,https://web3.career/portfolio-analytics-investment-operations-associate-global-fintech-startup-crypto-com/22079,Portfolio Analytics & Investment Operations Associate - Global Fintech Startup,,finance:stats:operations:remote,2mo
-FENG GROUP,https://web3.career/cryptographer-senior-neoruby/22078,Cryptographer (Senior),$90k - $210k,senior:rust,2mo
-Sygnum Bank AG,https://web3.career/vendor-workforce-manager-tech-sygnum/22077,Vendor & Workforce Manager – Tech,,,2mo
-OKX,https://web3.career/conversational-designer-okx/22076,Conversational Designer,$50k - $150k,design:non tech,2mo
-Finoa GmbH,https://web3.career/technical-product-manager-blockchain-integration-berlin-porto-m-f-d-finoa/22075,Technical Product Manager (Blockchain Integration) - Berlin / Porto (m/f/d),$35k - $120k,product manager:non tech:blockchain:remote,2mo
-AlphaTurtle.xyz,https://web3.career/blockchain-nft-marketing-community-working-student-m-f-x-alphaturtle/22074,Blockchain & NFT Marketing/ Community Working Student (m/f/x),$45k - $150k,community manager:non tech:marketing:blockchain:nft,2mo
-Chainalysis,https://web3.career/cybercrimes-specialist-apac-chainalysis/22073,"Cybercrimes Specialist, APAC",,,2mo
-Pole To Win International,https://web3.career/3d-character-artist-mobile-games-and-nft-art-poletowininternational/22072,3D Character Artist | Mobile Games and NFT Art,,vfx:mobile:nft,2mo
-Casetify,https://web3.career/digital-products-director-casetify/22071,Digital Products Director,$79k - $200k,executive:remote,2mo
-Sygnum Bank AG,https://web3.career/credit-lending-lead-sygnum/22070,Credit & Lending Lead,$96k - $220k,lead:ethereum,2mo
-Sygnum Bank AG,https://web3.career/intern-site-reliability-engineering-sygnum/22069,Intern - Site Reliability Engineering,,intern:entry level:sys admin:java,2mo
-Sygnum Bank AG,https://web3.career/senior-operations-specialist-sygnum/22068,Senior Operations Specialist,,operations:senior:ethereum,2mo
-Gnosis,https://web3.career/accountant-senior-accountant-w-m-d-gnosis/22067,Accountant/Senior Accountant (w/m/d),,accounting:senior:ethereum:remote,2mo
-Bitfury,https://web3.career/intelligence-trends-and-analysis-manager-crystal-remote-bitfury/22066,Intelligence Trends and Analysis Manager - Crystal (Remote),$56k - $160k,remote,2mo
-Bitfury,https://web3.career/intelligence-trends-and-analysis-manager-crystal-remote-bitfury/22065,Intelligence Trends and Analysis Manager - Crystal (Remote),$56k - $160k,remote,2mo
-Bitfury,https://web3.career/intelligence-trends-and-analysis-manager-crystal-remote-bitfury/22064,Intelligence Trends and Analysis Manager - Crystal (Remote),$56k - $160k,remote,2mo
-Crypto.com,https://web3.career/junior-crm-product-manager-crypto-com/22063,Junior CRM Product Manager,,crm:junior:entry level:product manager:non tech,2mo
-Sygnum Bank AG,https://web3.career/ui-ux-designer-sygnum/22061,UI/UX Designer,$50k - $150k,design:non tech,2mo
-WOO Network,https://web3.career/junior-legal-woonetwork/22060,Junior Legal,,junior:entry level:legal,2mo
-ONCARE GmbH,https://web3.career/associate-to-the-ceo-oncare/22059,Associate to the CEO,$79k - $200k,executive:remote,2mo
-Sygnum Bank AG,https://web3.career/product-manager-onboarding-and-client-lifecycle-sygnum/22057,Product Manager (Onboarding and Client Lifecycle),$80k - $150k,product manager:non tech:ethereum,2mo
-Taurus SA,https://web3.career/quantitative-finance-analyst-trading-engineer-taurusgroup/22056,Quantitative Finance Analyst / Trading Engineer,,analyst:dev:finance,2mo
-Crypto.com,https://web3.career/operations-manager-global-business-solutions-korea-crypto-com/22055,"Operations Manager, Global Business Solutions (Korea)",$80k - $110k,operations:remote,2mo
-Galaxy Digital Services,https://web3.career/2022-tech-intern-product-galaxydigitalservices/22054,"2022 Tech Intern, Product",$24k - $48k,intern:entry level:remote,2mo
-LATOKEN,https://web3.career/ir-partnerships-manager-latoken/22052,IR & Partnerships Manager,$29k - $108k,sales:non tech:remote,2mo
-OKX,https://web3.career/infrastructure-support-engineer-okx/22051,Infrastructure Support Engineer,$90k - $140k,dev:customer support,2mo
-SettleMint,https://web3.career/sales-development-representative-s-d-r-settlemint/22050,Sales Development Representative (S.D.R),$29k - $108k,sales:non tech:remote,2mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+impact51,https://web3.career/intern-2022-3-12-months-for-startups-investments-network-impact51/22663,Remote,Intern 2022 (3-12 months) for startups investments network,$24k - $48k,intern:entry level:remote,2mo
+Wallfair,https://web3.career/solidity-developer-full-time-joinwallfair/22662,Remote,Solidity Developer (Full Time),$80k - $142k,dev:full time:solidity:react:ethereum,2mo
+IOTA Foundation,https://web3.career/technical-writer-remote-iota/22660,Remote,Technical Writer - Remote,$45k - $120k,remote:analyst,2mo
+DFINITY,https://web3.career/site-reliability-engineer-dfinity/22655,"Zurich,
+Switzerland",Site Reliability Engineer,,dev:sys admin:php:rust,2mo
+Next Big Thing AG,https://web3.career/produktmanager-w-m-d-bei-concr-nextbigthing/22654,"Berlin,
+Germany",Produktmanager (w/m/d) bei ConcR,$56k - $160k,remote,2mo
+IOTA Foundation,https://web3.career/developer-advocate-iota/22653,Remote,Developer Advocate,$65k - $180k,dev:remote,2mo
+Acria Foundation,https://web3.career/business-development-intern-acriafoundation/22652,Remote,Business Development Intern,$2k,sales:non tech:intern:entry level:ethereum,2mo
+Okcoin,https://web3.career/lead-generation-specialist-okcoin/22651,"London,
+United Kingdom",Lead Generation Specialist,$60k - $200k,lead,2mo
+Bitfury,https://web3.career/qa-manual-engineer-crystal-remote-bitfury/22649,"Warsaw,
+Poland","QA Manual Engineer, Crystal (Remote)",,remote:dev:quality assurance,2mo
+Bitfury,https://web3.career/qa-manual-engineer-crystal-remote-bitfury/22648,Poland,"QA Manual Engineer, Crystal (Remote)",,remote:dev:quality assurance,2mo
+Bitfury,https://web3.career/frontend-developer-angular-wordpress-crystal-blockchain-remote-bitfury/22647,"Warsaw,
+Poland","Frontend Developer (Angular + Wordpress) - Crystal Blockchain, Remote",,remote:javascript:angular:dev:front end,2mo
+MLB,https://web3.career/manager-gaming-and-new-business-ventures-mlbevents/22646,"New York,
+United States","Manager, Gaming and New Business Ventures",$50k - $150k,game dev,2mo
+Tangany,https://web3.career/product-manager-m-f-d-munich-remote-tangany/22641,Remote,Product Manager m/f/d Munich/Remote,$115k - $175k,remote:product manager:non tech,2mo
+FreshCut,https://web3.career/senior-mobile-engineer-freshcut/22640,"Los Angeles,
+United States",Senior Mobile Engineer,$120k - $200k,dev:mobile:senior,2mo
+WOO Network,https://web3.career/hr-manager-woonetwork/22639,"Taipei,
+Taiwan",HR Manager,$60k - $150k,hr:non tech,2mo
+Sygnum Bank AG,https://web3.career/junior-compliance-officer-80-100-sygnum/22638,Switzerland,(Junior) Compliance Officer 80-100%,,compliance:junior:entry level:ethereum,2mo
+ZAUBAR,https://web3.career/ui-ux-designer-making-time-travel-possible-zaubar/22637,"Berlin,
+Germany",UI/UX Designer (Making Time Travel Possible. ⏳),$50k - $135k,design:non tech:remote,2mo
+TIKI,https://web3.career/blockchain-engineer-mytiki/22636,"Nashville,
+United States",Blockchain Engineer,$80k - $120k,dev:blockchain:nft:java,2mo
+Nuri,https://web3.career/product-lead-growth-nuri/22635,"Berlin,
+Germany",Product Lead - Growth,$50k - $120k,marketing:non tech:lead:remote,2mo
+Nuri,https://web3.career/intern-regulatory-finance-nuri/22634,"Berlin,
+Germany",Intern Regulatory & Finance,,legal:finance:intern:entry level:remote,2mo
+Aldrin Labs,https://web3.career/senior-react-native-mobile-developer-web3-remote-aldrin-labs/22606,Remote,Senior React Native Mobile Developer Web3 (Remote),,remote:dev:mobile:react native:javascript,2mo
+R3,https://web3.career/software-engineer-3-corda-4-r3-com/22633,Remote,Software Engineer 3 - Corda 4,$65k - $180k,dev:remote,2mo
+LiveArt,https://web3.career/nft-project-manager-liveart-1/22632,"New York,
+United States",NFT Project Manager,$55k - $75k,project manager:non tech:nft,2mo
+Tron,https://web3.career/c-developer-rainberry/22631,"San Francisco,
+United States",C++ Developer,$100k - $150k,c:c plus plus:dev:javascript:node,2mo
+ZAUBAR,https://web3.career/ar-game-developer-metaverse-unity-zaubar/22630,Remote,"AR Game Developer (Metaverse, Unity)",$70k - $130k,dev:game dev:metaverse:remote,2mo
+Sygnum Bank AG,https://web3.career/b2b-intern-sygnum/22629,Switzerland,B2B Intern,,intern:entry level:ethereum,2mo
+Web3 Foundation,https://web3.career/technical-grants-evaluator-web3foundation/22628,"Zug,
+Switzerland",Technical Grants Evaluator,$60k - $147k,javascript:rust,2mo
+Ripple,https://web3.career/partner-solution-director-central-banks-ripple/22627,"London,
+United Kingdom","Partner Solution Director, Central Banks",$70k - $180k,executive,2mo
+Ripple,https://web3.career/partner-solution-director-central-banks-ripple/22626,"Bangalore,
+India","Partner Solution Director, Central Banks",$70k - $180k,executive,2mo
+Ripple,https://web3.career/partner-solution-director-central-banks-ripple/22625,"Singapore,
+Singapore","Partner Solution Director, Central Banks",$70k - $180k,executive,2mo
+Ripple,https://web3.career/partner-solution-director-central-banks-ripple/22624,"San Francisco,
+United States","Partner Solution Director, Central Banks",$70k - $180k,executive,2mo
+Gemini,https://web3.career/principal-data-engineer-gemini/22622,United States,Principal Data Engineer,,data science:dev:executive:javascript,2mo
+Fuel,https://web3.career/senior-backend-engineer-ruby-on-rails-onfuel/22621,Remote,Senior Backend Engineer (Ruby on Rails),$65k - $250k,backend:dev:ruby:senior:nft,2mo
+Binance,https://web3.career/data-analyst-intern-binance/22620,"Singapore,
+Singapore",Data Analyst Intern,,analyst:data science:intern:entry level,2mo
+Uniswap Labs,https://web3.career/engineering-manager-uniswap/22619,"New York,
+United States",Engineering Manager,,executive:solidity:ethereum,2mo

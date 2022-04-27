@@ -1,36 +1,60 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Kronos Research,https://web3.career/software-engineer-machine-learning-kronosresearch/10502,"Software Engineer, Machine Learning",,dev:machine learning:java,5mo
-Kronos Research,https://web3.career/software-engineer-full-stack-kronosresearch/10501,"Software Engineer, Full-stack",$65k - $180k,dev:full stack:javascript:node:java,5mo
-Kronos Research,https://web3.career/senior-software-engineer-python-kronosresearch/10500,"Senior Software Engineer, Python",$79k - $200k,dev:python:senior,5mo
-Kronos Research,https://web3.career/senior-software-engineer-full-stack-kronosresearch/10499,"Senior Software Engineer, Full-stack",$70k - $180k,dev:full stack:senior:javascript:node,5mo
-Kronos Research,https://web3.career/senior-software-engineer-data-kronosresearch/10498,"Senior Software Engineer, Data",$50k - $200k,dev:senior:java,5mo
-Kronos Research,https://web3.career/senior-software-engineer-c-kronosresearch/10497,"Senior Software Engineer, C++",$100k - $150k,c:c plus plus:dev:senior,5mo
-Kronos Research,https://web3.career/senior-software-engineer-c-kronosresearch/10496,"Senior Software Engineer, C++",$100k - $150k,c:c plus plus:dev:senior,5mo
-Kronos Research,https://web3.career/risk-management-lead-kronosresearch/10495,Risk Management Lead,$60k - $200k,lead,5mo
-Kronos Research,https://web3.career/portfolio-risk-analyst-kronosresearch/10494,Portfolio Risk Analyst,,finance:analyst,5mo
-Kronos Research,https://web3.career/technical-recruiter-employer-branding-kronosresearch/10493,Technical Recruiter (Employer Branding),$40k - $70k,recruiter:non tech,5mo
-Kronos Research,https://web3.career/office-facility-administrator-kronosresearch/10492,Office Facility Administrator,,,5mo
-Kronos Research,https://web3.career/portfolio-risk-analyst-intern-kronosresearch/10491,Portfolio Risk Analyst Intern,,finance:analyst:intern:entry level,5mo
-Kava Labs,https://web3.career/senior-backend-engineer-kava/10490,Senior Backend Engineer,$70k - $200k,backend:dev:senior:golang,5mo
-Illuvium,https://web3.career/senior-technical-recruiter-illuvium/10489,Senior Technical Recruiter,$40k - $70k,recruiter:non tech:senior,5mo
-Illuvium,https://web3.career/web-developer-illuvium/10488,Web Developer,$67k - $200k,dev:react:solidity:javascript:nextjs,5mo
-Illuvium,https://web3.career/ux-designer-illuvium/10487,UX Designer,$50k - $150k,design:non tech,5mo
-Illuvium,https://web3.career/ui-designer-illuvium/10486,UI Designer,$50k - $150k,design:non tech,5mo
-Illuvium,https://web3.career/senior-security-engineer-devsecops-illuvium/10485,Senior Security Engineer (DevSecOps),$95k - $250k,dev:security:senior,5mo
-Illuvium,https://web3.career/senior-c-game-developer-illuvium/10484,Senior C++ Game Developer,$100k - $150k,c:c plus plus:dev:game dev:senior,5mo
-Illuvium,https://web3.career/senior-c-engineer-illuvium/10483,Senior C# Engineer,,c:c sharp:c plus plus:dev:senior,5mo
-Illuvium,https://web3.career/it-operations-manager-illuvium/10482,IT Operations Manager,$60k - $200k,operations,5mo
-Illuvium,https://web3.career/vfx-artist-unreal-engine-illuvium/10481,"VFX Artist, Unreal Engine",,game dev:vfx,5mo
-Illuvium,https://web3.career/unity-vfx-artist-illuvium/10480,Unity VFX Artist,$13k - $50k,vfx,5mo
-Illuvium,https://web3.career/senior-lighting-artist-illuvium/10479,Senior Lighting Artist,$78k - $200k,senior,5mo
-Illuvium,https://web3.career/senior-environment-artist-illuvium/10478,Senior Environment Artist,$78k - $200k,senior,5mo
-Illuvium,https://web3.career/3d-animator-illuvium/10477,3D Animator,,vfx:video,5mo
-HQ Digital,https://web3.career/fund-operations-associate-hqdigital/10476,Fund Operations Associate,$60k - $200k,operations,5mo
-HQ Digital,https://web3.career/technology-concierge-hqdigital/10475,Technology Concierge,,,5mo
-HQ Digital,https://web3.career/private-client-insurance-advisor-hqdigital/10474,Private Client Insurance Advisor,,,5mo
-HQ Digital,https://web3.career/software-engineer-hqdigital/10473,Software Engineer,$60k - $180k,dev,5mo
-HQ Digital,https://web3.career/product-manager-hqdigital/10472,Product Manager,$69k - $160k,product manager:non tech,5mo
-HQ Digital,https://web3.career/ios-engineer-hqdigital/10471,iOS Engineer,$51k - $109k,dev:ios:mobile,5mo
-HQ Digital,https://web3.career/associate-counsel-hqdigital/10470,Associate Counsel,$24k - $140k,legal,5mo
-HQ Digital,https://web3.career/portfolio-reporting-analyst-hqdigital/10469,Portfolio Reporting Analyst,,finance:analyst,5mo
-HQ Digital,https://web3.career/director-digital-assets-hqdigital/10468,"Director, Digital Assets",$90k - $200k,finance:executive,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Gemini,https://web3.career/principal-data-engineer-trust-security-gemini/11046,"Austin,
+United States","Principal Data Engineer, Trust & Security",,data science:dev:executive:security:scala,6mo
+Gemini,https://web3.career/head-of-research-gemini/11045,,Head of Research,$70k - $180k,executive,6mo
+Gemini,https://web3.career/director-exchange-gemini/11044,,"Director, Exchange",$70k - $180k,executive,6mo
+Gemini,https://web3.career/director-derivatives-gemini/11043,,"Director, Derivatives",$70k - $180k,executive,6mo
+Gemini,https://web3.career/senior-product-manager-trust-security-gemini/11042,"New York,
+United States","Senior Product Manager, Trust & Security",,product manager:non tech:security:senior,6mo
+Gemini,https://web3.career/senior-lead-product-manager-earn-gemini/11041,,"Senior / Lead Product Manager, Earn",,lead:product manager:non tech:senior,6mo
+Gemini,https://web3.career/product-manager-retail-gemini/11040,"New York,
+United States","Product Manager, Retail",$69k - $160k,product manager:non tech,6mo
+Gemini,https://web3.career/product-manager-fiat-strategies-accounting-gemini/11039,,"Product Manager, Fiat Strategies, Accounting",,accounting:product manager:non tech,6mo
+Gemini,https://web3.career/product-manager-debit-card-gemini/11038,,"Product Manager, Debit Card",$80k - $150k,product manager:non tech:ethereum,6mo
+Gemini,https://web3.career/senior-technical-sourcer-gemini/11037,"New York,
+United States",Senior Technical Sourcer,$40k - $70k,recruiter:non tech:senior,6mo
+Gemini,https://web3.career/senior-associate-talent-acquisition-technology-gemini/11036,"New York,
+United States","Senior Associate, Talent Acquisition (Technology)",$40k - $70k,senior:recruiter:non tech,6mo
+Gemini,https://web3.career/principal-technical-recruiter-gemini/11035,"New York,
+United States",Principal Technical Recruiter,,executive:recruiter:non tech,6mo
+Gemini,https://web3.career/people-operations-business-partner-hrbp-engineering-gemini/11034,"New York,
+United States",People Operations Business Partner (HRBP-Engineering),$60k - $200k,operations,6mo
+Gemini,https://web3.career/people-operations-associate-systems-and-process-admin-gemini/11033,"New York,
+United States",People Operations Associate (Systems and Process Admin),$60k - $200k,operations,6mo
+Gemini,https://web3.career/hris-manager-gemini/11032,"New York,
+United States",HRIS Manager,,,6mo
+Gemini,https://web3.career/global-compensation-manager-gemini/11031,"New York,
+United States",Global Compensation Manager,,,6mo
+Gemini,https://web3.career/associate-recruiting-operations-gemini/11030,"New York,
+United States","Associate, Recruiting Operations",,operations:recruiter:non tech,6mo
+Gemini,https://web3.career/associate-global-immigration-and-mobility-gemini/11029,,"Associate, Global Immigration and Mobility",,,6mo
+Gemini,https://web3.career/senior-associate-community-and-events-gemini/11028,"New York,
+United States","Senior Associate, Community and Events",,community manager:non tech:senior,6mo
+Gemini,https://web3.career/office-manager-gemini/11027,"Chicago,
+United States",Office Manager,,,6mo
+Gemini,https://web3.career/associate-workplace-experience-gemini/11026,"New York,
+United States","Associate, Workplace Experience",,,6mo
+Gemini,https://web3.career/ui-ux-designer-nifty-gateway-gemini/11025,"New York,
+United States","UI/UX Designer, Nifty Gateway",$80k - $150k,design:non tech:ethereum:nft,6mo
+Gemini,https://web3.career/software-engineer-nifty-gateway-smart-contracts-gemini/11024,"New York,
+United States","Software Engineer, Nifty Gateway - Smart Contracts",$72k - $200k,dev:smart contract:solidity:ethereum,6mo
+Gemini,https://web3.career/senior-software-engineer-nifty-gateway-python-django-gemini/11023,"New York,
+United States","Senior Software Engineer, Nifty Gateway (Python, Django)",$79k - $200k,python:dev:senior:solidity:ethereum,6mo
+Gemini,https://web3.career/senior-product-manager-nifty-gateway-gemini/11022,,"Senior Product Manager, Nifty Gateway",$80k - $150k,product manager:non tech:senior:ethereum:nft,6mo
+Gemini,https://web3.career/senior-mobile-engineer-react-native-nifty-gateway-gemini/11021,"New York,
+United States","Senior Mobile Engineer (React Native), Nifty Gateway",$65k - $200k,dev:mobile:react native:javascript:react,6mo
+Gemini,https://web3.career/senior-frontend-engineer-nifty-gateway-gemini/11020,"New York,
+United States","Senior Frontend Engineer, Nifty Gateway",$70k - $190k,dev:front end:senior:react:ethereum,6mo
+Gemini,https://web3.career/onboarding-associate-nifty-gateway-gemini/11019,"New York,
+United States","Onboarding Associate, Nifty Gateway",$70k - $158k,solidity:nft,6mo
+Gemini,https://web3.career/manager-software-engineering-nifty-gateway-gemini/11018,,"Manager, Software Engineering, Nifty Gateway",$63k - $160k,dev:solidity:ethereum:javascript,6mo
+Gemini,https://web3.career/manager-qa-engineering-gemini/11017,,"Manager, QA Engineering",$80k - $150k,quality assurance:ethereum:javascript,6mo
+Gemini,https://web3.career/senior-associate-nft-lifecycle-marketing-gemini/11016,"New York,
+United States","Senior Associate, NFT Lifecycle Marketing",$46k - $109k,marketing:non tech:senior:nft,6mo
+Gemini,https://web3.career/lead-product-marketing-nft-s-gemini/11015,,"Lead, Product Marketing - NFT's",$50k - $120k,lead:marketing:non tech:nft,6mo
+Gemini,https://web3.career/associate-marketing-operations-gemini/11014,"New York,
+United States","Associate, Marketing Operations",,marketing:non tech:operations,6mo
+Gemini,https://web3.career/senior-corporate-counsel-financial-transactions-gemini/11013,"New York,
+United States",Senior Corporate Counsel (Financial Transactions),,legal:finance:senior,6mo
+Gemini,https://web3.career/senior-corporate-counsel-commercial-transactions-gemini/11012,"New York,
+United States",Senior Corporate Counsel (Commercial Transactions),,legal:senior,6mo

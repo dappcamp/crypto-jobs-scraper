@@ -1,36 +1,41 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Web3 Labs,https://web3.career/web3j-developer-web3-labs/11435,Web3j Developer,$35k - $55k,dev:solidity:ethereum:java:remote,5mo
-MoonPay,https://web3.career/compliance-analyst-moonpay/11434,Compliance Analyst,,compliance:analyst,5mo
-Chainalysis,https://web3.career/sales-development-representative-dutch-speaking-chainalysis/11433,Sales Development Representative (Dutch Speaking),$26k - $140k,sales:non tech,5mo
-Chainalysis,https://web3.career/sales-development-representative-chainalysis/11432,Sales Development Representative,$26k - $140k,sales:non tech,5mo
-MoonPay,https://web3.career/third-party-risk-analyst-moonpay/11430,Third Party Risk Analyst,$40k - $120k,analyst,5mo
-MoonPay,https://web3.career/program-manager-policies-procedures-moonpay/11429,"Program Manager, Policies & Procedures",$70k - $180k,executive,5mo
-SwissBorg,https://web3.career/junior-kyc-analyst-swissborg/11427,Junior KYC analyst,,kyc:analyst:junior:entry level,5mo
-SwissBorg,https://web3.career/french-senior-kyc-analyst-swissborg/11426,French Senior KYC Analyst,,kyc:analyst:senior,5mo
-SwissBorg,https://web3.career/french-kyc-analyst-swissborg/11425,French KYC Analyst,,kyc:analyst,5mo
-WOO Network,https://web3.career/automated-qa-engineer-woonetwork/11424,Automated QA Engineer,$30k - $50k,dev:quality assurance:java,5mo
-The Block,https://web3.career/senior-director-enterprise-memberships-theblockcrypto/11423,"Senior Director, Enterprise Memberships",$95k - $250k,executive:senior:remote,5mo
-The Block,https://web3.career/senior-director-of-memberships-theblockcrypto/11422,Senior Director of Memberships,$95k - $250k,executive:senior:remote,5mo
-The Block,https://web3.career/director-of-sales-enablement-theblockcrypto/11421,Director of Sales Enablement,$40k - $150k,executive:sales:non tech:remote,5mo
-The Block,https://web3.career/director-of-business-development-memberships-theblockcrypto/11420,"Director of Business Development, Memberships",$40k - $150k,sales:non tech:executive:remote,5mo
-SwissBorg,https://web3.career/acquisition-manager-remote-swissborg/11419,Acquisition Manager (Remote),$56k - $160k,remote,5mo
-SwissBorg,https://web3.career/acquisition-manager-remote-swissborg/11418,Acquisition Manager (Remote),$56k - $160k,remote,5mo
-SwissBorg,https://web3.career/junior-kyc-analyst-swissborg/11417,Junior KYC analyst,,kyc:analyst:junior:entry level,5mo
-NEAR,https://web3.career/funding-coordinator-near/11414,Funding Coordinator,,,5mo
-Autograph,https://web3.career/business-operations-manager-autograph/11413,Business Operations Manager,,operations:nft,5mo
-Autograph,https://web3.career/business-affairs-autograph/11412,Business Affairs,$55k - $150k,nft,5mo
-Ledger,https://web3.career/senior-tech-talent-acquisition-manager-ledger/11400,Senior Tech Talent Acquisition Manager,$40k - $70k,senior:recruiter:non tech,5mo
-Binance,https://web3.career/performance-marketing-specialist-indonesia-binance/11399,Performance Marketing Specialist - Indonesia,$45k - $130k,marketing:non tech,5mo
-Kraken Digital Asset Exchange,https://web3.career/futures-product-manager-kraken/11398,Futures Product Manager,$115k - $175k,product manager:non tech:remote,5mo
-OpenSea,https://web3.career/executive-assistant-opensea/11397,Executive Assistant,$79k - $200k,executive:remote,5mo
-ETHGlobal,https://web3.career/irl-event-manager-ethglobal/11396,IRL Event Manager,,events manager:non tech:remote,5mo
-ETHGlobal,https://web3.career/visual-designer-illustrator-ethglobal/11395,Visual Designer / Illustrator,$65k - $80k,design:non tech:illustrator:remote,5mo
-ETHGlobal,https://web3.career/social-media-manager-ethglobal/11394,Social Media Manager,$35k - $110k,social media:non tech:remote,5mo
-ETHGlobal,https://web3.career/recruiting-coordinator-ethglobal/11393,Recruiting Coordinator,,recruiter:non tech:remote,5mo
-ETHGlobal,https://web3.career/hacker-success-ethglobal/11392,Hacker Success,$25k - $120k,marketing:non tech:remote,5mo
-ETHGlobal,https://web3.career/event-manager-ethglobal/11391,Event Manager,,events manager:non tech:remote,5mo
-Ripple,https://web3.career/software-engineer-liquidity-new-grad-ripple/11390,"Software Engineer, Liquidity (New Grad)",,dev:sales:non tech:react:javascript,5mo
-BitGo,https://web3.career/technical-recruiter-bitgo/11389,Technical Recruiter,$40k - $70k,recruiter:non tech,5mo
-BitGo,https://web3.career/technical-recruiter-bitgo/11388,Technical Recruiter,$40k - $70k,recruiter:non tech,5mo
-BitGo,https://web3.career/technical-recruiter-bitgo/11387,Technical Recruiter,$40k - $70k,recruiter:non tech,5mo
-ETHGlobal,https://web3.career/video-production-engineer-ethglobal/11385,Video Production Engineer,,dev:video:remote,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Consensys,https://web3.career/qa-automation-lead-professional-services-uk-ireland-europe-consensys/12470,"London,
+United Kingdom","QA Automation Lead (Professional Services, UK/Ireland & Europe)",,lead:quality assurance:react:ethereum:javascript,5mo
+Consensys,https://web3.career/qa-automation-lead-professional-services-hong-kong-consensys/12469,"Hong Kong,
+Hong Kong","QA Automation Lead (Professional Services, Hong Kong)",,lead:quality assurance:react:ethereum:javascript,5mo
+Consensys,https://web3.career/program-manager-consensys-nft-consensys/12468,Brooklyn,Program Manager (ConsenSys NFT),$50k - $158k,executive:nft:ethereum,5mo
+Consensys,https://web3.career/product-strategy-manager-consensys/12467,Remote,Product Strategy Manager,$60k - $145k,ethereum:remote,5mo
+Consensys,https://web3.career/product-marketing-manager-quorum-consensys/12466,Remote,Product Marketing Manager (Quorum),$48k - $120k,marketing:non tech:ethereum:remote,5mo
+Consensys,https://web3.career/product-marketing-manager-quorum-consensys/12465,Remote,Product Marketing Manager (Quorum),$48k - $120k,marketing:non tech:ethereum:remote,5mo
+Consensys,https://web3.career/product-marketing-manager-codefi-metamask-consensys/12464,Remote,Product Marketing Manager (Codefi/MetaMask),$48k - $120k,marketing:non tech:ethereum:remote,5mo
+Consensys,https://web3.career/product-managers-all-levels-consensys/12463,Full-time,Product Managers - All Levels,$60k - $150k,ethereum,5mo
+Consensys,https://web3.career/product-manager-consensys/12462,Remote,Product Manager,$80k - $150k,product manager:non tech:ethereum:remote,5mo
+Consensys,https://web3.career/product-manager-fintech-and-decentralized-finance-b2c-consensys/12461,Remote,"Product Manager - FinTech and Decentralized Finance, B2C",,c:c plus plus:finance:product manager:non tech,5mo
+Consensys,https://web3.career/product-evangelist-metamask-snaps-consensys/12460,Remote,Product Evangelist (MetaMask Snaps),$60k - $145k,ethereum:remote,5mo
+Consensys,https://web3.career/product-enablement-manager-professional-services-uk-ireland-europe-consensys/12459,"London,
+United Kingdom","Product Enablement Manager (Professional Services, UK/Ireland & Europe)",$60k - $145k,ethereum:remote,5mo
+Consensys,https://web3.career/product-designer-professional-services-usa-consensys/12458,United States,"Product Designer (Professional Services, USA)",$80k - $135k,design:non tech:react:ethereum,5mo
+Consensys,https://web3.career/product-designer-professional-services-uk-ireland-europe-consensys/12457,France,"Product Designer (Professional Services, UK/Ireland & Europe)",$80k - $135k,design:non tech:react:ethereum:remote,5mo
+Consensys,https://web3.career/product-designer-metamask-snaps-consensys/12456,Remote,Product Designer (MetaMask Snaps),$80k - $150k,design:non tech:ethereum:remote,5mo
+Consensys,https://web3.career/product-designer-consensys/12455,Remote,Product Designer,$80k - $150k,design:non tech:ethereum:remote,5mo
+Consensys,https://web3.career/product-designer-consensys/12454,Remote,Product Designer,$80k - $150k,design:non tech:ethereum:remote,5mo
+Consensys,https://web3.career/product-analyst-web3-developer-ecosystems-research-and-development-consensys/12453,Remote,"Product Analyst - Web3 Developer Ecosystems, Research and Development",,analyst:dev:ethereum:remote,5mo
+Consensys,https://web3.career/product-analyst-stablecoins-and-central-bank-digital-currencies-research-and-development-consensys/12452,Remote,"Product Analyst - Stablecoins and Central Bank Digital Currencies, Research and Development",,analyst:finance:ethereum:remote,5mo
+Consensys,https://web3.career/product-analyst-decentralized-autonomous-organizations-daos-research-and-development-consensys/12451,Remote,Product Analyst - Decentralized Autonomous Organizations (DAOs) Research and Development,$45k - $55k,analyst:ethereum:remote,5mo
+Consensys,https://web3.career/presales-architect-consensys/12450,Remote,Presales Architect,,architecture:ethereum:nft:remote,5mo
+Consensys,https://web3.career/performance-java-engineer-protocol-consensys/12449,Remote,Performance Java Engineer (Protocol),$26k - $120k,dev:java:ethereum:remote,5mo
+Consensys,https://web3.career/partner-program-manager-consensys/12448,Remote,Partner Program Manager,$79k - $200k,executive:remote,5mo
+Consensys,https://web3.career/node-js-backend-engineer-consensys/12447,Remote,Node.js Backend Engineer,$65k - $150k,javascript:backend:dev:node:web3js,5mo
+Consensys,https://web3.career/network-operations-center-lead-consensys/12446,"Tel Aviv,
+Israel",Network Operations Center Lead,,lead:operations:ethereum,5mo
+Consensys,https://web3.career/network-operations-center-engineer-consensys/12445,"Tel Aviv,
+Israel",Network Operations Center Engineer,,dev:operations:ethereum,5mo
+Consensys,https://web3.career/mid-scrum-dev-project-manager-consensys/12444,United States,Mid Scrum / Dev Project Manager,,dev:project manager:non tech:scrum:ethereum,5mo
+Consensys,https://web3.career/marketing-website-designer-consensys/12443,Remote,Marketing/Website Designer,,design:non tech:marketing:ethereum:remote,5mo
+Consensys,https://web3.career/java-software-engineer-consensys/12442,Remote,Java Software Engineer,$26k - $120k,dev:java:ethereum:remote,5mo
+Consensys,https://web3.career/java-software-engineer-consensys/12441,Remote,Java Software Engineer,$26k - $120k,dev:java:ethereum:remote,5mo
+Consensys,https://web3.career/javascript-engineer-consensys/12440,Remote,JavaScript Engineer,$56k - $160k,dev:javascript:react:ethereum:node,5mo
+Consensys,https://web3.career/internal-communications-manager-consensys/12439,Remote,Internal Communications Manager,$48k - $120k,marketing:non tech:ethereum:remote,5mo
+Consensys,https://web3.career/help-desk-agent-consensys/12438,Romania,Help Desk Agent,,customer support:ethereum,5mo
+Consensys,https://web3.career/head-of-strategic-sales-americas-consensys/12437,Remote,"Head of Strategic Sales, Americas",$40k - $150k,executive:sales:non tech:ethereum:nft,5mo
+Consensys,https://web3.career/head-of-community-developer-relations-consensys/12436,Remote,Head of Community & Developer Relations,$45k - $150k,executive:community manager:non tech:customer support:dev,5mo

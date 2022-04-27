@@ -1,36 +1,38 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-SALT,https://web3.career/lead-qa-engineer-saltlending/18303,Lead QA Engineer,$100k - $180k,dev:lead:quality assurance:javascript:java,3mo
-Nuri,https://web3.career/senior-software-engineer-nuri/18302,Senior Software Engineer,$85k - $200k,dev:senior:remote:react:react native,3mo
-GSR,https://web3.career/software-engineer-exchange-connectivity-senior-associate-vp-malaga-gsr/18300,Software Engineer - Exchange Connectivity - Senior Associate/VP - Malaga,$60k - $250k,dev:senior:executive,3mo
-Change,https://web3.career/mobile-engineer-flutter-changeinvest/18299,Mobile Engineer (Flutter),,dev:flutter:mobile,3mo
-Okcoin,https://web3.career/identity-and-onboarding-qa-specialist-okcoin/18298,Identity and Onboarding QA Specialist,$62k - $150k,quality assurance,3mo
-Okcoin,https://web3.career/identity-and-onboarding-l-d-specialist-okcoin/18297,Identity and Onboarding L&D Specialist,,,3mo
-BitGo,https://web3.career/data-engineer-bitgo/18296,Data Engineer,,data science:dev:javascript:java,3mo
-BitGo,https://web3.career/data-engineer-bitgo/18295,Data Engineer,,data science:dev:javascript:java,3mo
-Monarch Gaming (Genopets),https://web3.career/flutter-engineer-genopets/18293,Flutter Engineer,,dev:flutter:solana:nft,3mo
-WOO Network,https://web3.career/regional-growth-manager-woonetwork/18292,Regional Growth Manager,$45k - $130k,marketing:non tech,3mo
-Ripple,https://web3.career/institutional-markets-director-ripple/18291,Institutional Markets Director,$70k - $180k,executive,3mo
-Sygnum Bank AG,https://web3.career/internship-clients-sygnum/18290,Internship – Clients,,intern:entry level:ethereum,3mo
-Polygon,https://web3.career/executive-assistant-to-the-ceo-polygon/18288,Executive Assistant to the CEO,$79k - $158k,executive:remote:ethereum,3mo
-Anotherblock.io,https://web3.career/discord-manager-anotherblock-io/18289,Discord Manager,,remote:community manager:nft:music:non tech,3mo
-Next Big Thing AG,https://web3.career/full-stack-engineer-m-f-x-nextbigthing/18286,Full Stack Engineer (m/f/x),$70k - $200k,dev:full stack:remote,3mo
-Catheon Gaming,https://web3.career/full-stack-blockchain-developer-catheon-gaming/18285,Full Stack Blockchain Developer,$0k,dev:full stack:blockchain:react:solidity,3mo
-WACEO,https://web3.career/business-development-specialist-for-crypto-medical-cannabis-dao-waceo-association/18284,Business Development Specialist for Crypto Medical Cannabis DAO,$0k,sales:non tech:crypto,3mo
-IOTA Foundation,https://web3.career/software-engineer-identity-tokenization-and-sc-remote-iota/18283,"Software Engineer - Identity, Tokenization and SC (Remote)",$50k - $150k,remote:dev:react:javascript:java,3mo
-Gemini,https://web3.career/senior-brand-designer-gemini/18282,Senior Brand Designer,,marketing:non tech:design:senior,3mo
-Gemini,https://web3.career/intern-product-design-gemini/18281,"Intern, Product Design",$18k - $28k,design:non tech:intern:entry level:javascript,3mo
-Gemini,https://web3.career/brand-designer-gemini/18280,Brand Designer,,marketing:non tech:design,3mo
-Aave,https://web3.career/qa-automation-engineer-aave/18279,QA automation engineer,$65k - $110k,dev:quality assurance:node,3mo
-Immutable,https://web3.career/senior-talent-acquisition-partner-people-ops-finance-immutable/18278,"Senior Talent Acquisition Partner (People, Ops & Finance)",,finance:senior:recruiter:non tech:ethereum,3mo
-NEAR,https://web3.career/lead-quality-assistance-engineer-near/18277,Lead Quality Assistance Engineer,$100k - $200k,dev:lead:javascript,3mo
-Immutable,https://web3.career/head-of-security-engineering-immutable/18276,Head of Security Engineering,$95k - $250k,executive:security,3mo
-Chronicled.com,https://web3.career/engineering-director-quality-assurance-chronicled-2/18275,"Engineering Director, Quality Assurance",$79k - $200k,executive:remote,3mo
-SuperLayer,https://web3.career/creative-talent-acquisition-superlayer/18271,Creative Talent Acquisition,,recruiter:non tech:remote,3mo
-Nuri,https://web3.career/senior-software-engineer-react-native-nuri/18270,(Senior) Software Engineer - React Native,$65k - $200k,dev:react native:mobile:javascript:react,3mo
-Recurrent Labs (Currents.fm),https://web3.career/engineer-web3-recurrent-labs-currents-fm/18274,"Engineer, web3",,dev:remote:full stack:javascript:music,3mo
-Blockdaemon,https://web3.career/customer-support-manager-blockdaemon/18268,Customer Support Manager,$40k - $80k,customer support,3mo
-Celo Foundation,https://web3.career/strategic-initiatives-project-manager-celo-foundation-celofoundation/18267,"Strategic Initiatives Project Manager, Celo Foundation",$56k - $150k,project manager:non tech:remote,3mo
-Okcoin,https://web3.career/senior-manager-risk-operations-okcoin/18266,"Senior Manager, Risk Operations",,operations:senior,3mo
-Ava Labs,https://web3.career/embedded-c-engineer-avalabs/18265,Embedded C Engineer,,c:c plus plus:embedded:dev:javascript,3mo
-Sygnum Bank AG,https://web3.career/tech-lead-software-engineering-sygnum/18263,Tech Lead - Software Engineering,$140k - $220k,lead:dev:tech lead:react,3mo
-Wintermute,https://web3.career/business-development-manager-wintermute-trading/18262,Business Development Manager,$26k - $140k,sales:non tech,3mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Consensys,https://web3.career/strategic-sales-associate-hong-kong-consensys/18974,"Hong Kong,
+Hong Kong","Strategic Sales Associate, Hong Kong",$29k - $43k,sales:non tech:ethereum,3mo
+Consensys,https://web3.career/strategic-sales-associate-crypto-institutions-and-web3-consensys/18973,Remote,Strategic Sales Associate - Crypto Institutions and Web3,$30k - $140k,sales:non tech:crypto:remote:ethereum,3mo
+Consensys,https://web3.career/sr-software-engineer-consensys/18972,Remote,Sr. Software Engineer,$85k - $200k,dev:senior:remote:solidity:ethereum,3mo
+Consensys,https://web3.career/senior-technical-recruiter-consensys/18971,Remote,Senior Technical Recruiter,$40k - $70k,recruiter:non tech:senior:remote:ethereum,3mo
+Consensys,https://web3.career/senior-product-manager-protocols-consensys/18970,United States,Senior Product Manager (Protocols),$80k - $150k,product manager:non tech:senior:ethereum,3mo
+Consensys,https://web3.career/senior-product-manager-protocols-consensys/18969,Brazil,Senior Product Manager (Protocols),$80k - $150k,product manager:non tech:senior:remote:ethereum,3mo
+Consensys,https://web3.career/senior-product-manager-protocols-consensys/18968,Australia,Senior Product Manager (Protocols),$80k - $150k,product manager:non tech:senior:ethereum,3mo
+Consensys,https://web3.career/senior-product-manager-metamask-swaps-consensys/18967,Remote,Senior Product Manager - MetaMask Swaps,$80k - $150k,product manager:non tech:senior:remote:ethereum,3mo
+Consensys,https://web3.career/senior-product-manager-api-platform-consumer-experience-consensys/18966,Remote,Senior Product Manager - API Platform Consumer Experience,,api:product manager:non tech:senior:remote,3mo
+Consensys,https://web3.career/senior-product-manager-consensys/18965,Remote,Senior Product Manager,$80k - $150k,product manager:non tech:senior:remote:ethereum,3mo
+Consensys,https://web3.career/senior-hr-program-manager-performance-consensys/18964,Remote,Senior HR Program Manager - Performance,,hr:non tech:executive:senior:remote,3mo
+Consensys,https://web3.career/senior-front-end-engineer-consensys/18963,Remote,Senior Front End Engineer,$70k - $190k,dev:front end:senior:remote:react,3mo
+Consensys,https://web3.career/senior-data-engineer-direct-user-products-consensys/18962,Remote,Senior Data Engineer - Direct User Products,$130k - $160k,data science:dev:senior:remote:ethereum,3mo
+Consensys,https://web3.career/senior-compensation-analyst-consensys/18961,United States,Senior Compensation Analyst,$150k - $185k,analyst:senior:ethereum,3mo
+Consensys,https://web3.career/senior-brand-strategist-consensys/18960,Remote,Senior Brand Strategist,$46k - $109k,marketing:non tech:senior:remote:ethereum,3mo
+Consensys,https://web3.career/security-operations-center-lead-consensys/18959,Remote,Security Operations Center Lead,,lead:operations:security:remote:ethereum,3mo
+Consensys,https://web3.career/security-architect-and-trainer-consensys/18958,Remote,Security Architect and Trainer,,architecture:security:education:remote,3mo
+Consensys,https://web3.career/sales-development-representative-apac-consensys/18957,Remote,Sales Development Representative - APAC,$29k - $108k,sales:non tech:remote:ethereum,3mo
+Consensys,https://web3.career/recruiting-coordinator-maternity-leave-consensys/18956,Remote,Recruiting Coordinator - Maternity Leave,,recruiter:non tech:remote:ethereum,3mo
+Consensys,https://web3.career/qa-automation-engineer-consensys/18955,Remote,QA Automation Engineer,,dev:quality assurance:remote:ethereum:javascript,3mo
+Consensys,https://web3.career/product-designer-consensys/18954,United States,Product Designer,$80k - $150k,design:non tech:ethereum,3mo
+Consensys,https://web3.career/product-analyst-consensys/18953,Remote,Product Analyst,$45k - $55k,analyst:remote:ethereum,3mo
+Consensys,https://web3.career/people-operations-coordinator-consensys/18952,United States,People Operations Coordinator,$60k - $80k,operations:ethereum,3mo
+Consensys,https://web3.career/people-operations-coordinator-consensys/18951,United States,People Operations Coordinator,$60k - $80k,operations:ethereum,3mo
+Consensys,https://web3.career/operations-project-manager-consensys/18950,Remote,Operations Project Manager,,operations:project manager:non tech:remote:ethereum,3mo
+Consensys,https://web3.career/legal-counsel-consensys/18949,"London,
+United Kingdom",Legal Counsel,,legal:ethereum,3mo
+Consensys,https://web3.career/lead-technical-architect-consensys-nft-consensys/18948,Remote,Lead Technical Architect (ConsenSys NFT),,architecture:lead:nft:solidity:ethereum,3mo
+Consensys,https://web3.career/lead-devops-engineer-consensys/18947,Remote,Lead DevOps Engineer,$60k - $100k,devops:dev:lead:remote:ethereum,3mo
+Consensys,https://web3.career/it-coordinator-consensys/18945,Remote,IT Coordinator,$60k - $145k,remote:ethereum,3mo
+Consensys,https://web3.career/innovation-lab-full-stack-engineer-consensys/18944,Remote,Innovation Lab - Full Stack Engineer,$80k - $130k,dev:full stack:web3js:react:solidity,3mo
+Consensys,https://web3.career/global-head-of-sales-consensys/18943,Remote,Global Head of Sales,$40k - $150k,executive:sales:non tech:remote:ethereum,3mo
+Consensys,https://web3.career/devops-engineer-consensys/18942,Remote,DevOps Engineer,$95k - $180k,devops:dev:remote:ethereum:javascript,3mo
+Consensys,https://web3.career/data-analyst-consensys/18941,Remote,Data Analyst,$45k - $120k,analyst:data science:remote:ethereum,3mo
+Consensys,https://web3.career/customer-insights-strategist-consensys/18940,Remote,Customer Insights Strategist,$60k - $145k,remote:ethereum,3mo
+Consensys,https://web3.career/consensys-academy-technical-trainer-consensys/18939,Remote,ConsenSys Academy Technical Trainer,,education:remote:ethereum,3mo

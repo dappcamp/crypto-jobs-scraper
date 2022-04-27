@@ -1,36 +1,51 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Gluwa,https://web3.career/frontend-engineer-react-typescript-gluwa/506,"Frontend Engineer (React, TypeScript)",$50k - $140k,dev:front end:javascript:react:ethereum,7mo
-Gluwa,https://web3.career/backend-engineer-c-net-gluwa/505,Backend Engineer (C# / .NET),,c:c sharp:c plus plus:dot net:backend,7mo
-Gluwa,https://web3.career/api-test-engineer-c-restsharp-nunit-gluwa/504,"API Test Engineer (C#, RestSharp, NUnit)",,c:c sharp:c plus plus:api:dev,7mo
-Gluwa,https://web3.career/devops-infrastructure-engineer-gluwa/503,DevOps & Infrastructure Engineer,$95k - $145k,devops:dev:ethereum,7mo
-Gluwa,https://web3.career/blockchain-test-engineer-rust-python-c-gluwa/502,"Blockchain Test Engineer (Rust, Python, C#)",,c:c sharp:c plus plus:dev:python,7mo
-Gluwa,https://web3.career/blockchain-engineer-rust-python-c-gluwa/501,"Blockchain Engineer (Rust, Python, C#)",,c:c sharp:c plus plus:dev:python,7mo
-Gluwa,https://web3.career/technical-project-engineer-gluwa/500,Technical Project Engineer,$60k - $158k,dev:ethereum,7mo
-Gluwa,https://web3.career/lead-data-analyst-sql-bi-data-visualization-gluwa/499,"Lead Data Analyst (SQL, BI, Data Visualization)",,analyst:data science:data viz:lead:ethereum,7mo
-Floating Point Group,https://web3.career/trading-operations-analyst-crypto-fpg/498,"Trading Operations Analyst, Crypto",,analyst:operations:crypto,7mo
-Floating Point Group,https://web3.career/trading-analyst-crypto-fpg/497,"Trading Analyst, Crypto",,analyst:crypto:remote,7mo
-Floating Point Group,https://web3.career/business-development-representative-fpg/496,Business Development Representative,$29k - $108k,sales:non tech:remote,7mo
-Floating Point Group,https://web3.career/executive-assistant-fpg/495,Executive Assistant,$70k - $180k,executive,7mo
-Floating Point Group,https://web3.career/front-end-software-engineer-fpg/494,Front End - Software Engineer,$50k - $144k,dev:front end:react:ruby:node,7mo
-Floating Point Group,https://web3.career/backend-software-engineer-fpg/493,Backend - Software Engineer,$60k - $180k,backend:dev:remote,7mo
-Floating Point Group,https://web3.career/senior-compliance-associate-fpg/492,Senior Compliance Associate,,compliance:senior,7mo
-Foundry,https://web3.career/software-engineer-frontend-foundrydigital/491,"Software Engineer, Frontend",$50k - $144k,dev:front end:react:react native:javascript,7mo
-Foundry,https://web3.career/software-engineer-crypto-staking-foundrydigital/490,"Software Engineer, Crypto Staking",$15k - $100k,dev:crypto:javascript:node:java,7mo
-Foundry,https://web3.career/sdet-software-development-engineer-in-test-foundrydigital/489,SDET (Software Development Engineer in Test),$30k - $50k,quality assurance:dev:java,7mo
-Foundry,https://web3.career/protocol-researcher-crypto-staking-foundrydigital/488,"Protocol Researcher, Crypto Staking",$70k - $145k,crypto:node,7mo
-Foundry,https://web3.career/performance-test-engineer-foundrydigital/487,Performance Test Engineer,$33k - $140k,dev:java,7mo
-Foundry,https://web3.career/network-engineer-foundrydigital/486,Network Engineer,$60k - $180k,dev,7mo
-Foundry,https://web3.career/lead-software-engineer-crypto-staking-foundrydigital/485,"Lead Software Engineer, Crypto Staking",$56k - $79k,dev:lead:crypto:javascript:node,7mo
-Foundry,https://web3.career/general-interest-technical-interns-foundrydigital/484,"General Interest, Technical Interns",,,7mo
-Foundry,https://web3.career/engineer-crypto-staking-foundrydigital/483,"Engineer, Crypto Staking",$65k - $130k,dev:crypto:node,7mo
-Foundry,https://web3.career/devops-engineer-foundrydigital/482,DevOps Engineer,$70k - $180k,devops:dev,7mo
-Foundry,https://web3.career/crypto-mining-software-engineer-intern-foundrydigital/481,Crypto Mining Software Engineer- Intern,$12k - $33k,dev:intern:entry level:crypto:ethereum,7mo
-Foundry,https://web3.career/crypto-mining-engineer-coop-intern-foundrydigital/480,Crypto Mining Engineer - Coop/Intern,$12k - $33k,dev:intern:entry level:crypto:node,7mo
-Foundry,https://web3.career/crypto-data-engineer-foundrydigital/479,Crypto Data Engineer,,data science:dev:crypto:scala,7mo
-Foundry,https://web3.career/information-security-analyst-foundrydigital/478,Information Security Analyst,$60k - $185k,analyst:security,7mo
-Foundry,https://web3.career/product-manager-foundry-usa-mining-pool-foundrydigital/477,Product Manager – Foundry USA Mining Pool,$69k - $160k,product manager:non tech,7mo
-Foundry,https://web3.career/mining-process-engineer-foundrydigital/476,Mining Process Engineer,$60k - $180k,dev,7mo
-Foundry,https://web3.career/director-of-public-policy-foundrydigital/475,Director of Public Policy,$79k - $200k,executive:remote,7mo
-Foundry,https://web3.career/marketing-and-communications-director-foundrydigital/474,Marketing and Communications Director,$70k - $158k,executive:marketing:non tech,7mo
-Foundry,https://web3.career/general-interest-foundrydigital/473,General Interest,,,7mo
-Foundry,https://web3.career/mining-advisory-senior-associate-foundrydigital/472,Mining Advisory Senior Associate,$78k - $200k,senior,7mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Celsius,https://web3.career/customer-support-agent-entry-level-celsius/1029,"Las Vegas,
+United States",Customer Support Agent – Entry Level,$40k - $80k,customer support,7mo
+Uphold,https://web3.career/junior-finops-analyst-uphold/1028,"Porto,
+Portugal",Junior FinOps Analyst,$10k - $13k,analyst:junior:entry level:javascript,7mo
+IOTA Foundation,https://web3.career/mobile-app-developer-android-and-or-ios-firefly-iota/1027,Remote,Mobile App Developer (Android and/or iOS) - Firefly,,android:mobile:dev:ios:react,7mo
+Celsius,https://web3.career/legal-project-manager-celsius/1026,United States,Legal Project Manager,,legal:project manager:non tech,7mo
+Uphold,https://web3.career/senior-backend-engineer-connectivity-team-uphold/1025,"Dublin,
+Ireland",Senior Backend Engineer - Connectivity Team,$70k - $200k,backend:dev:senior:react:ruby,7mo
+Celsius,https://web3.career/sr-node-js-developer-celsius/1024,United States,Sr. Node.JS Developer,$60k - $155k,javascript:dev:node:senior,7mo
+Monax,https://web3.career/vp-of-engineering-monax/1023,"Edinburgh,
+United Kingdom",VP of Engineering,$85k - $400k,executive:react:solidity,7mo
+Keeper Solutions,https://web3.career/java-developer-keepertechnologysolutions/1022,Remote,Java Developer,$11k - $130k,dev:java:javascript:remote,7mo
+Kryha,https://web3.career/full-stack-developer-mid-level-blockchain-amsterdam-kryhaio/1021,"Amsterdam,
+Netherlands",Full Stack Developer (Mid-Level) - Blockchain - Amsterdam,$50k - $180k,dev:full stack:blockchain:react:javascript,7mo
+Uphold,https://web3.career/staff-accountant-uphold/1020,"New York,
+United States",Staff Accountant,$25k - $150k,accounting,7mo
+Bitkub,https://web3.career/business-analyst-bitkub/1019,"Bangkok,
+Thailand",Business Analyst,$40k - $120k,analyst,7mo
+Celsius,https://web3.career/community-manager-celsius/1018,"Las Vegas,
+United States",Community Manager,$40k - $100k,community manager:non tech,7mo
+IOTA Foundation,https://web3.career/senior-software-engineer-go-iota/1017,Remote,Senior Software Engineer - Go,$65k - $150k,dev:golang:senior:ethereum:node,7mo
+zipmex,https://web3.career/software-quality-engineer-zipmex/1016,"Bangkok,
+Thailand",Software Quality Engineer,$60k - $180k,dev,7mo
+Celsius,https://web3.career/junior-transaction-monitoring-analyst-aml-celsius/1015,"Atlanta,
+United States","Junior Transaction Monitoring Analyst, AML",$10k - $13k,analyst:junior:entry level,7mo
+Uphold,https://web3.career/social-media-manager-uphold/1014,United States,Social Media Manager,$33k - $85k,social media:non tech,7mo
+Celsius,https://web3.career/lending-data-analyst-celsius/1013,"Austin,
+United States",Lending Data Analyst,$36k - $72k,analyst:data science,7mo
+Uphold,https://web3.career/senior-trading-systems-engineer-uphold/1012,"Chicago,
+United States",Senior Trading Systems Engineer,$150k - $200k,dev:senior:sys admin,7mo
+Incredulous Labs Ltd.,https://web3.career/solidity-developer-incredulous/1011,Germany,Solidity Developer,$63k - $160k,dev:solidity:ethereum:remote,7mo
+IOTA Foundation,https://web3.career/app-developer-firefly-iota/1010,Remote,App Developer - Firefly,$56k - $160k,dev:react:javascript:rust:remote,7mo
+Bitso,https://web3.career/it-security-admin-bitso/1009,Mexico,IT & SECURITY ADMIN,$95k - $200k,security,7mo
+Uphold,https://web3.career/case-analyst-uphold/1008,"New York,
+United States",Case Analyst,$40k - $120k,analyst,7mo
+Bitkub,https://web3.career/head-of-customer-protection-bitkub/1007,"Bangkok,
+Thailand",Head of Customer Protection,$70k - $180k,executive,7mo
+TheAppLabb,https://web3.career/sr-product-designer-theapplabb/1006,"Toronto,
+Canada",Sr. Product Designer,$60k - $120k,design:non tech:senior,7mo
+Lukka,https://web3.career/public-sector-sales-executive-lukka/1005,Remote,Public Sector Sales Executive,$40k - $150k,executive:sales:non tech:remote,7mo
+Lukka,https://web3.career/senior-frontend-engineer-lukka/1004,Remote,Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:remote,7mo
+Supply Chain Wizard,https://web3.career/business-development-specialist-supplychainwizard/1003,United States,Business Development Specialist,$26k - $140k,sales:non tech,7mo
+Supply Chain Wizard,https://web3.career/supply-chain-project-manager-supplychainwizard/1002,United States,Supply Chain Project Manager,,operations:project manager:non tech,7mo
+Ethereum,https://web3.career/team-lead-ecosystem-support-program-ethereum/1001,Remote,"Team Lead, Ecosystem Support Program",,lead:customer support:ethereum:remote,7mo
+Celsius,https://web3.career/full-stack-engineer-celsius/1000,United States,Full-Stack Engineer,$65k - $180k,dev:full stack:react:react native:javascript,7mo
+Chilipay Limited,https://web3.career/backend-software-engineer-remote-madrid-lyon-malta-chiliz/999,Gzira Malta,Backend Software Engineer (Remote / Madrid / Lyon / Malta),$60k - $180k,remote:backend:dev:php,7mo
+Celsius,https://web3.career/crypto-derivative-trader-celsius/998,United States,Crypto Derivative Trader,$31k - $37k,trader:crypto,7mo
+Bitso,https://web3.career/engineering-people-management-coach-bitso/997,Mexico,Engineering People Management Coach,,,7mo
+Ethereum,https://web3.career/research-intern-ethereum/996,Remote,Research Intern,,intern:entry level:ethereum:remote,7mo
+"The Shattuck Group, LLC",https://web3.career/systems-integrator-shattuckgroup/995,United States,Systems Integrator,,,7mo

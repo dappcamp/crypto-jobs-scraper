@@ -1,36 +1,69 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-CANDY,https://web3.career/internship-part-time-candy/10212,Internship (Part-Time),,intern:entry level:part time,5mo
-CANDY,https://web3.career/internship-full-time-candy/10211,Internship (Full-Time),,full time:intern:entry level,5mo
-CANDY,https://web3.career/head-of-finance-candy/10210,Head of Finance,$90k - $200k,executive:finance,5mo
-CANDY,https://web3.career/user-experience-designer-candy/10209,User Experience Designer,$60k - $150k,design:non tech:nft:javascript,5mo
-CANDY,https://web3.career/senior-sound-designer-candy/10208,Senior Sound Designer,$60k - $120k,design:non tech:senior,5mo
-CANDY,https://web3.career/senior-sound-designer-candy/10207,Senior Sound Designer,$60k - $120k,design:non tech:senior,5mo
-CANDY,https://web3.career/senior-art-director-candy/10206,Senior Art Director,$46k - $110k,executive:senior,5mo
-CANDY,https://web3.career/media-producer-candy/10205,Media Producer,,,5mo
-CANDY,https://web3.career/design-director-candy/10204,Design Director,,design:non tech:executive,5mo
-CANDY,https://web3.career/creative-studio-manager-candy/10203,Creative Studio Manager,,,5mo
-CANDY,https://web3.career/3d-modeler-candy/10202,3D Modeler,$13k - $50k,vfx,5mo
-CANDY,https://web3.career/3d-animator-candy/10201,3D Animator,,vfx:video,5mo
-CANDY,https://web3.career/strategic-account-director-sports-candy/10200,Strategic Account Director (Sports),$70k - $180k,executive,5mo
-Cake Pte Ltd,https://web3.career/technology-controls-specialist-cakedefi/10199,Technology Controls Specialist,,,5mo
-Cake Pte Ltd,https://web3.career/head-of-digital-performance-and-marketing-cakedefi/10198,Head of Digital Performance and Marketing,$70k - $158k,executive:marketing:non tech,5mo
-Cake Pte Ltd,https://web3.career/treasury-and-fp-a-manager-cakedefi/10197,Treasury and FP&A Manager,,,5mo
-Cake Pte Ltd,https://web3.career/business-development-manager-cakedefi/10196,Business Development Manager,$26k - $140k,sales:non tech,5mo
-Brave,https://web3.career/ph-d-intern-brave/10195,Ph.D. intern,,intern:entry level,5mo
-Brave,https://web3.career/machine-learning-researcher-brave/10194,Machine Learning Researcher,,machine learning:javascript:java,5mo
-Brave,https://web3.career/product-marketing-manager-brave/10193,Product Marketing Manager,$45k - $130k,marketing:non tech,5mo
-Brave,https://web3.career/sr-software-engineer-ruby-on-rails-brave/10192,Sr. Software Engineer - Ruby on Rails,$32k - $113k,dev:ruby:senior:react:ethereum,5mo
-Brave,https://web3.career/sr-software-engineer-full-stack-brave/10191,Sr. Software Engineer - Full Stack,$70k - $180k,dev:full stack:senior:ethereum:javascript,5mo
-Brave,https://web3.career/sr-software-engineer-android-ui-brave/10190,"Sr. Software Engineer, Android UI",,android:mobile:dev:senior:design,5mo
-Brave,https://web3.career/sr-ios-engineer-wallets-brave/10189,Sr. iOS Engineer - Wallets,$51k - $109k,dev:ios:mobile:senior:javascript,5mo
-Brave,https://web3.career/senior-android-engineer-brave/10188,Senior Android Engineer,,android:mobile:dev:senior:java,5mo
-Brave,https://web3.career/quality-assurance-engineer-brave/10187,Quality Assurance Engineer,$60k - $180k,dev,5mo
-Brave,https://web3.career/machine-learning-engineer-brave/10186,Machine Learning Engineer,,dev:machine learning:javascript:java,5mo
-Brave,https://web3.career/integration-engineer-brave/10185,Integration Engineer,$54k - $140k,dev:ethereum:javascript:ruby:rust,5mo
-Brave,https://web3.career/blockchain-engineer-brave/10184,Blockchain Engineer,$50k - $130k,dev:blockchain:react:solana:ethereum,5mo
-Brave,https://web3.career/ads-product-manager-brave/10183,Ads Product Manager,$69k - $160k,product manager:non tech,5mo
-Boson Protocol,https://web3.career/technical-talent-application-bosonprotocol/10182,Technical Talent Application,,recruiter:non tech:react:solidity:ethereum,5mo
-Boson Protocol,https://web3.career/senior-blockchain-engineer-bosonprotocol/10181,Senior Blockchain Engineer,$80k - $200k,dev:senior:blockchain:ethereum,5mo
-Boson Protocol,https://web3.career/global-director-of-ecommerce-bosonprotocol/10180,Global Director of eCommerce,$56k - $400k,executive:ecommerce,5mo
-Blue Cube Services,https://web3.career/kyc-analyst-contractor-cryptocurrency-bluecubeservices/10179,KYC Analyst (Contractor) - Cryptocurrency,,kyc:analyst:crypto,5mo
-Blue Cube Services,https://web3.career/kyc-analyst-contractor-cryptocurrency-bluecubeservices/10178,KYC Analyst (Contractor) - Cryptocurrency,,kyc:analyst:crypto,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Polychain Capital,https://web3.career/data-engineer-polychaincapital/10722,"San Francisco,
+United States",Data Engineer,$70k - $160k,data science:dev,6mo
+Polychain Capital,https://web3.career/crypto-security-engineer-polychaincapital/10721,"New York,
+United States",Crypto Security Engineer,,dev:security:crypto:solana:ethereum,6mo
+Polychain Capital,https://web3.career/cryptocurrency-researcher-polychaincapital/10720,"San Francisco,
+United States",Cryptocurrency Researcher,$39k - $140k,crypto,6mo
+Careers at Paxful,https://web3.career/hr-manager-paxful/10719,"Saint Petersburg,
+Russia",HR Manager,$60k - $150k,hr:non tech,6mo
+Careers at Paxful,https://web3.career/senior-associate-motion-designer-creative-paxful/10718,Philippines,Senior Associate Motion Designer-Creative,$60k - $120k,design:non tech:senior,6mo
+Careers at Paxful,https://web3.career/software-developer-go-php-paxful/10717,"Moscow,
+Russia",Software Developer Go/PHP,,dev:golang:php,6mo
+Careers at Paxful,https://web3.career/sanctions-analyst-paxful/10716,Philippines,Sanctions Analyst,$40k - $120k,analyst,6mo
+Parity Technologies,https://web3.career/technical-program-manager-common-good-parity/10715,"Berlin,
+Germany",Technical Program Manager - Common Good,$200k - $400k,executive:react:javascript:rust:remote,6mo
+Parity Technologies,https://web3.career/senior-full-stack-developer-technical-runtime-ui-m-f-d-parity/10714,"Berlin,
+Germany",Senior Full Stack Developer - Technical Runtime + UI (m/f/d),$70k - $180k,dev:full stack:senior:design:non tech,6mo
+Parity Technologies,https://web3.career/rust-developer-tools-m-f-d-parity/10713,"Berlin,
+Germany",Rust Developer - Tools (m/f/d),$69k - $160k,dev:rust:javascript:remote,6mo
+Parity Technologies,https://web3.career/rust-core-developer-parachains-protocol-parity/10712,"Berlin,
+Germany",Rust Core Developer - Parachains Protocol,$70k - $160k,dev:rust:ethereum:node:remote,6mo
+Parity Technologies,https://web3.career/rust-core-developer-parity/10711,"Berlin,
+Germany",Rust/Core Developer,$70k - $160k,dev:rust:ethereum:remote,6mo
+Parity Technologies,https://web3.career/rust-blockchain-developer-consensus-parity/10710,"Berlin,
+Germany",Rust Blockchain Developer - Consensus,$79k - $190k,dev:rust:blockchain:remote,6mo
+Parity Technologies,https://web3.career/parachains-engineer-common-good-parity/10709,"Berlin,
+Germany",Parachains Engineer - Common Good,$56k - $160k,dev:react:javascript:rust:remote,6mo
+Parity Technologies,https://web3.career/devops-engineer-m-f-d-parity/10708,"Berlin,
+Germany",DevOps Engineer (m/f/d),,devops:dev:rust:remote,6mo
+Parity Technologies,https://web3.career/ci-cd-engineer-m-f-d-parity/10707,"Berlin,
+Germany",CI/CD Engineer (m/f/d),$70k - $180k,dev:rust:remote,6mo
+Parity Technologies,https://web3.career/solution-engineer-substrate-parity/10706,"Berlin,
+Germany",Solution Engineer (Substrate),$70k - $180k,dev:rust:remote,6mo
+Parity Technologies,https://web3.career/polkadot-support-engineer-parity/10705,"Berlin,
+Germany",Polkadot Support Engineer,,dev:customer support:remote,6mo
+Parity Technologies,https://web3.career/polkadot-integrations-engineer-parity/10704,"Singapore,
+Singapore",Polkadot Integrations Engineer,$60k - $180k,dev,6mo
+Parity Technologies,https://web3.career/technical-recruiter-blockchain-parity/10703,"Berlin,
+Germany",Technical Recruiter (Blockchain),,recruiter:non tech:blockchain:rust:remote,6mo
+Parity Technologies,https://web3.career/recruiter-marketing-business-g-a-parity/10702,"Berlin,
+Germany",Recruiter (Marketing / Business / G&A ),,marketing:non tech:recruiter:rust:remote,6mo
+Parity Technologies,https://web3.career/people-operations-manager-m-f-d-parity/10701,"Berlin,
+Germany",People Operations Manager (m/f/d),$80k - $110k,operations:remote,6mo
+Parity Technologies,https://web3.career/junior-it-admin-workplace-m-f-d-parity/10700,"Berlin,
+Germany",Junior IT Admin - Workplace (m/f/d),$39k - $56k,junior:entry level:remote,6mo
+Parity Technologies,https://web3.career/visual-designer-m-f-d-parity/10699,"Berlin,
+Germany",Visual Designer (m/f/d),$50k - $135k,design:non tech:remote,6mo
+Parity Technologies,https://web3.career/ui-web-designer-m-f-d-parity/10698,"Berlin,
+Germany",UI Web Designer (m/f/d),$50k - $135k,design:non tech:remote,6mo
+Parity Technologies,https://web3.career/technical-content-marketer-m-f-d-parity/10697,"Berlin,
+Germany",Technical Content Marketer (m/f/d),$25k - $120k,marketing:non tech:remote,6mo
+Parity Technologies,https://web3.career/social-media-manager-m-f-d-parity/10696,"Berlin,
+Germany",Social Media Manager (m/f/d),$35k - $110k,social media:non tech:remote,6mo
+Parity Technologies,https://web3.career/senior-web-developer-m-f-d-parity/10695,"Berlin,
+Germany",Senior Web Developer (m/f/d),$70k - $180k,dev:senior:react:javascript:node,6mo
+Parity Technologies,https://web3.career/project-manager-m-f-d-parity/10694,"Berlin,
+Germany",Project Manager (m/f/d),$56k - $150k,project manager:non tech:remote,6mo
+Parity Technologies,https://web3.career/product-marketing-lead-m-f-d-parity/10693,"Berlin,
+Germany",Product Marketing Lead (m/f/d),$50k - $120k,lead:marketing:non tech:remote,6mo
+Parity Technologies,https://web3.career/junior-event-manager-m-f-d-parity/10692,"Berlin,
+Germany",Junior Event Manager (m/f/d),,events manager:non tech:junior:entry level:remote,6mo
+Parity Technologies,https://web3.career/event-manager-m-f-d-parity/10691,"Berlin,
+Germany",Event Manager (m/f/d),,events manager:non tech:remote,6mo
+Parity Technologies,https://web3.career/copywriter-m-f-d-parity/10690,"Berlin,
+Germany",Copywriter (m/f/d),$25k - $30k,copywriting:remote,6mo
+Parity Technologies,https://web3.career/senior-security-analyst-parity/10689,"Berlin,
+Germany",Senior Security Analyst,$150k - $185k,analyst:security:senior:rust:remote,6mo
+Parity Technologies,https://web3.career/nodejs-security-application-engineer-m-f-d-parity/10688,"Berlin,
+Germany",NodeJS Security Application Engineer (m/f/d),$60k - $155k,dev:javascript:node:security:remote,6mo

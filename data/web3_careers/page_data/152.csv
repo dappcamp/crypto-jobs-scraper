@@ -1,36 +1,61 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-GOGO Protocol,https://web3.career/product-manager-cryptogogos/20535,Product Manager,$60k - $160k,product manager:non tech:crypto:remote:nft,2mo
-GOGO Protocol,https://web3.career/cto-vp-engineering-cryptogogos/20534,CTO / VP Engineering,$79k - $158k,executive:crypto:remote:solidity:ethereum,2mo
-WOO Network,https://web3.career/kyc-onboarding-specialist-eu-woonetwork/20533,KYC/Onboarding Specialist (EU),,kyc,2mo
-WOO Network,https://web3.career/aml-officer-eu-woonetwork/20532,AML Officer (EU),,,2mo
-Binance,https://web3.career/head-of-compliance-france-binance/20531,Head of Compliance - France,,compliance:executive,2mo
-Binance,https://web3.career/senior-ios-engineer-binance/20530,Senior iOS Engineer,$51k - $109k,dev:ios:mobile:senior:remote,2mo
-Open Earth Foundation,https://web3.career/senior-full-stack-developer-climate-solutions-openearth/20529,Senior Full-Stack Developer- Climate Solutions,$70k - $180k,dev:full stack:senior:remote,2mo
-Ripple,https://web3.career/staff-devops-engineer-enterprise-crypto-ripple/20528,Staff DevOps Engineer (Enterprise Crypto),,devops:dev:crypto:javascript:java,2mo
-Ripple,https://web3.career/staff-devops-engineer-enterprise-crypto-ripple/20527,Staff DevOps Engineer (Enterprise Crypto),,devops:dev:crypto:javascript:java,2mo
-Ripple,https://web3.career/senior-software-engineer-data-infrastructure-enterprise-crypto-ripple/20526,"Senior Software Engineer, Data Infrastructure (Enterprise Crypto)",$90k - $160k,dev:senior:crypto:javascript:java,2mo
-Ripple,https://web3.career/senior-devops-engineer-data-platform-enterprise-crypto-ripple/20525,"Senior DevOps Engineer, Data Platform (Enterprise Crypto)",$120k - $200k,devops:dev:senior:crypto:javascript,2mo
-Ripple,https://web3.career/senior-devops-engineer-data-platform-enterprise-crypto-ripple/20524,"Senior DevOps Engineer, Data Platform (Enterprise Crypto)",$120k - $200k,devops:dev:senior:crypto:javascript,2mo
-Crypto.com,https://web3.career/talent-acquisition-coordinator-crypto-com/20523,Talent Acquisition Coordinator,$51k - $70k,recruiter:non tech:nft,2mo
-Ripple,https://web3.career/senior-crypto-researcher-ripple/20522,Senior Crypto Researcher,$50k - $150k,senior:crypto,2mo
-Crypto.com,https://web3.career/trading-business-assistant-quant-trading-team-crypto-com/20521,Trading Business Assistant - Quant Trading Team,$56k - $160k,remote,2mo
-Binance,https://web3.career/senior-product-marketing-manager-binance/20520,Senior Product Marketing Manager,$46k - $109k,marketing:non tech:senior:remote,2mo
-Binance,https://web3.career/social-media-manager-turkey-binance/20519,Social Media Manager - Turkey,$33k - $85k,social media:non tech,2mo
-Open Earth Foundation,https://web3.career/director-of-open-technology-cto-climate-solutions-openearth/20518,Director of Open Technology (CTO)- Climate Solutions,$79k - $300k,executive:remote:cto,2mo
-Lykke Business AG,https://web3.career/senior-project-manager-lead-lykke-business/20516,Senior Project Manager Lead,,lead:project manager:non tech:senior:remote,2mo
-Binance,https://web3.career/mobile-security-engineer-ios-binance/20515,Mobile Security Engineer (iOS),$51k - $109k,dev:ios:mobile:security,2mo
-Binance,https://web3.career/project-manager-product-management-binance/20514,Project Manager (Product Management),$56k - $150k,project manager:non tech:remote,2mo
-SIMBA Chain,https://web3.career/sales-operations-analyst-simbachain/20513,Sales Operations Analyst,,analyst:operations:sales:non tech:nft,2mo
-Open Earth Foundation,https://web3.career/dlt-web-3-engineer-climate-solutions-openearth/20512,DLT & Web 3 Engineer- Climate Solutions,$65k - $180k,dev:remote,2mo
-NeoReach,https://web3.career/head-of-crypto-neoreach/20511,Head of Crypto,$50k - $158k,executive:crypto:nft,2mo
-Binance,https://web3.career/data-analyst-fiat-binance/20510,Data Analyst-FIAT,$36k - $72k,analyst:data science,2mo
-Aave,https://web3.career/senior-fullstack-engineer-web3-full-time-london-or-remote-aave/20508,"Senior Fullstack Engineer Web3 (Full Time, London or remote)",$65k - $142k,remote:dev:full time:full stack:senior,2mo
-Next Big Thing AG,https://web3.career/business-intelligence-intern-working-student-m-f-x-nextbigthing/20507,Business Intelligence Intern (Working Student) (m/f/x),$24k - $48k,intern:entry level:remote,2mo
-Sytac,https://web3.career/senior-mobile-developer-sytac/20506,Senior Mobile Developer,$120k - $200k,dev:mobile:senior,2mo
-Acria UG (haftungsbeschränkt),https://web3.career/growth-hacker-great-pay-and-challenging-tasks-acria/20505,Growth Hacker - Great pay and challenging tasks!,$6k,marketing:non tech:remote,2mo
-Aave,https://web3.career/senior-frontend-engineer-web3-full-time-london-or-remote-aave/20504,"Senior Frontend Engineer Web3 (Full Time, London or Remote)",$22k - $120k,remote:dev:front end:full time:senior,2mo
-Binance,https://web3.career/pr-intern-cis-binance/20501,PR Intern (CIS),$24k - $48k,marketing:non tech:intern:entry level,2mo
-Figment,https://web3.career/web-app-developer-datahub-figment/20500,"Web App Developer, DataHub",$56k - $160k,dev:react:javascript:ruby,2mo
-Binance,https://web3.career/data-analyst-smart-chain-binance/20499,Data Analyst (Smart Chain),$45k - $120k,analyst:data science:remote,2mo
-Mojito,https://web3.career/vp-creative-mojito/20497,"VP, Creative",$50k - $158k,executive:ethereum:nft,2mo
-Ripple,https://web3.career/quantitative-development-engineer-liquidity-summer-2022-intern-ripple/20496,"Quantitative Development Engineer, Liquidity (Summer 2022 Intern)",$12k - $33k,dev:intern:entry level:sales:non tech,2mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Cake DeFi,https://web3.career/software-engineer-javascript-cake-defi-1/21126,"Singapore,
+Singapore",Software Engineer (Javascript),$56k - $160k,dev:javascript:react:react native:nextjs,2mo
+Braintrust,https://web3.career/junior-front-end-engineer-remote-braintrust/21125,Remote,Junior Front End engineer (REMOTE),$22k - $120k,remote:dev:front end:junior:entry level,2mo
+Crypto.com,https://web3.career/legal-counsel-litigation-eu-crypto-com/21124,"Dublin,
+Ireland","Legal Counsel, Litigation (EU)",$24k - $140k,legal,2mo
+Okcoin,https://web3.career/social-media-representative-okcoin/21123,"Dublin,
+Ireland",Social Media Representative,$33k - $85k,social media:non tech,2mo
+CANDY,https://web3.career/marketing-highlight-assistant-producer-baseball-part-time-seasonal-candy/21122,United States,Marketing Highlight Assistant Producer- Baseball (Part Time- Seasonal),,marketing:non tech:part time,2mo
+Cake DeFi,https://web3.career/software-engineer-devops-cake-defi-1/21121,"Singapore,
+Singapore",Software Engineer (DevOps),$70k - $180k,devops:dev,2mo
+Cake DeFi,https://web3.career/senior-software-engineer-cake-defi-1/21120,"Singapore,
+Singapore",Senior Software Engineer,$80k - $200k,dev:senior:javascript:node:rust,2mo
+MoneyyApp,https://web3.career/blockchain-developer-intern-moneyyapp/21119,"Bengaluru,
+India",Blockchain Developer Intern,$3k - $4k,dev:intern:entry level:blockchain:solidity,2mo
+Crypto.com,https://web3.career/site-reliability-engineer-global-fintech-startup-crypto-com/21118,Taiwan,Site Reliability Engineer - Global Fintech Startup,,dev:finance:sys admin:java,2mo
+Crypto.com,https://web3.career/legal-counsel-litigation-eu-crypto-com/21117,"London,
+United Kingdom","Legal Counsel, Litigation (EU)",$24k - $140k,legal,2mo
+Crypto.com,https://web3.career/global-senior-recruiter-recruiter-fintech-start-up-crypto-com/21116,Malaysia,Global Senior Recruiter/ Recruiter- Fintech Start-up,,finance:recruiter:non tech:senior,2mo
+Securrency,https://web3.career/blockchain-innovation-team-manager-securrency/21115,"Abu Dhabi,
+United Arab Emirates",Blockchain Innovation Team Manager,$50k - $150k,blockchain,2mo
+Crypto.com,https://web3.career/frontend-developer-price-page-pay-sg-crypto-com/21114,"Singapore,
+Singapore",Frontend Developer (Price Page /Pay) - SG,$60k - $144k,dev:front end:nft:javascript:nextjs,2mo
+Next Big Thing AG,https://web3.career/senior-sales-manager-european-market-nextbigthing/21113,"Berlin,
+Germany",Senior Sales Manager - European market,$50k - $150k,sales:non tech:senior:remote,2mo
+Caiz Development GmbH,https://web3.career/chief-technology-officer-caiz-development/21112,"Frankfurt,
+Germany",Chief Technology Officer,$79k - $300k,executive:remote:cto,2mo
+Sygnum Bank AG,https://web3.career/product-manager-digital-assets-custody-sygnum/21111,Switzerland,Product Manager – Digital Assets Custody,,finance:product manager:non tech:ethereum,2mo
+Binance,https://web3.career/hr-administrator-binance/21110,"Singapore,
+Singapore",HR Administrator,$60k - $150k,hr:non tech,2mo
+Okcoin,https://web3.career/junior-finance-analyst-okcoin/21109,"Dublin,
+Ireland",Junior Finance Analyst,,analyst:finance:junior:entry level,2mo
+Colonize Mars,https://web3.career/blockchain-developer-gamefi-colonize-mars/21108,Remote,Blockchain Developer (GameFi),$100k - $130k,dev:blockchain:remote:game dev:metaverse,2mo
+Qubit9 GmbH,https://web3.career/lead-developer-blockchain-m-f-d-qubit9/21107,"Hamburg,
+Germany",Lead Developer - Blockchain (m/f/d),$30k - $160k,dev:lead:blockchain:react:solidity,2mo
+Wirex Limited,https://web3.career/junior-android-developer-wirexlimited/21106,"Kiev,
+Ukraine",Junior Android Developer,,android:mobile:dev:junior:entry level,2mo
+Boson Protocol,https://web3.career/business-operations-associate-contract-bosonprotocol/21105,"London,
+United Kingdom",Business Operations Associate (Contract),$60k - $200k,operations,2mo
+Crypto.com,https://web3.career/talent-acquisition-specialist-turkey-crypto-com/21104,Turkey,Talent Acquisition Specialist - Turkey,$40k - $70k,recruiter:non tech,2mo
+Crypto.com,https://web3.career/it-operations-manager-us-crypto-com/21103,"Miami,
+United States",IT Operations Manager (US),$60k - $200k,operations,2mo
+Crypto.com,https://web3.career/complaints-handling-officer-with-english-and-portuguese-crypto-com/21101,"Sofia,
+Bulgaria",Complaints Handling Officer with English and Portuguese,,,2mo
+Crypto.com,https://web3.career/financial-crime-analyst-uk-crypto-com/21100,"London,
+United Kingdom","Financial Crime Analyst, UK",,analyst:finance:nft,2mo
+Wirex Limited,https://web3.career/junior-ios-developer-wirexlimited/21099,"Kiev,
+Ukraine",Junior iOS Developer,$51k - $109k,dev:ios:mobile:junior:entry level,2mo
+Finoa GmbH,https://web3.career/senior-partnerships-and-ecosystem-manager-m-f-div-finoa/21097,"Berlin,
+Germany",(Senior) Partnerships and Ecosystem Manager (m/f/div),$50k - $150k,sales:non tech:senior:remote,2mo
+Tangany,https://web3.career/cloud-engineer-w-m-d-tangany/21096,Remote,Cloud Engineer (w/m/d),,cloud:dev:node:remote,2mo
+Ripple,https://web3.career/director-of-consolidations-and-international-reporting-ripple/21095,"Singapore,
+Singapore",Director of Consolidations and International Reporting,$70k - $180k,executive,2mo
+Crypto.com,https://web3.career/new-ventures-tax-specialist-crypto-com/21094,"Hong Kong,
+Hong Kong",New Ventures Tax Specialist,$25k - $150k,accounting,2mo
+Virtually Human Studio,https://web3.career/senior-product-analyst-vhslab/21093,Remote,Senior Product Analyst,$150k - $185k,analyst:senior:nft:remote,2mo
+R3,https://web3.career/community-lead-r3-com/21092,Remote,Community Lead,$40k - $65k,community manager:non tech:lead:remote,2mo
+Pilot.com,https://web3.career/senior-manager-finance-strategy-crypto-web3-pilothq/21091,"San Francisco,
+United States","Senior Manager, Finance & Strategy (Crypto / Web3)",$50k - $55k,finance:senior:crypto,2mo
+Cake Pte Ltd,https://web3.career/software-engineer-javascript-cakedefi/21089,"Singapore,
+Singapore",Software Engineer (Javascript),$56k - $160k,dev:javascript:react:react native:nextjs,2mo

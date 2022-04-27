@@ -1,36 +1,55 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Somish Blockchain Labs,https://web3.career/product-manager-cryptocurrency-and-gaming-somish/13023,Product Manager - Cryptocurrency and Gaming,$0k,game dev:product manager:non tech:crypto:ethereum,5mo
-RigelProtocol,https://web3.career/fullstack-blockchain-engineer-defi-crypto-rigelprotocol/13022,Fullstack Blockchain Engineer (Defi & Crypto),$108k - $10k,dev:full stack:blockchain:crypto:defi,5mo
-Stacks Accelerator,https://web3.career/freelance-designer-for-crypto-startups-stacks-accelerator/13021,Freelance Designer for Crypto Startups,$108k - $36k,design:non tech:crypto:nft,5mo
-Playcent,https://web3.career/blockchain-developer-playcent/13020,Blockchain Developer,$109k - $15k,dev:blockchain:solidity:ethereum:nft,5mo
-ChainSafe Systems,https://web3.career/blockchain-solutions-engineer-chainsafe-systems-1/13019,Blockchain Solutions Engineer,$40k - $107k,dev:blockchain:web3js:solidity:ethereum,5mo
-Defyne Labs,https://web3.career/rust-blockchain-engineer-defyne-labs/13018,Rust Blockchain Engineer,$100k - $180k,dev:rust:blockchain:solidity:javascript,5mo
-CreatorVerse,https://web3.career/blockchain-dev-solidity-nfts-cofounder-creatorverse/13017,Blockchain Dev (Solidity) (NFTs) - CoFounder,$80k - $100k,executive:dev:blockchain:nft:solidity,5mo
-Datasisar,https://web3.career/blockchain-intern-datasisar-1/13016,Blockchain Intern,$0k,intern:entry level:blockchain:javascript:rust,5mo
-Router Protocol,https://web3.career/crypto-content-social-media-wizard-router-protocol/13015,Crypto Content & Social Media Wizard,$78k - $13k,social media:non tech:crypto,5mo
-The Tinkering Society,https://web3.career/crypto-protocol-analyst-the-tinkering-society/13014,Crypto protocol analyst,$160k - $240k,analyst:crypto:solidity:ethereum,5mo
-æternity blockchain,https://web3.career/front-end-developer-vue-js-aeternity-blockchain/13013,Front End Developer (Vue.js),$0k,javascript:dev:front end:vue,5mo
-DAOventures,https://web3.career/solidity-developer-daoventures/13012,Solidity Developer,$30k - $60k,dev:solidity:react:ethereum:rust,5mo
-Chainlink Labs,https://web3.career/blockchain-partnerships-manager-chainlink-labs/13011,Blockchain Partnerships Manager,$78k - $150k,sales:non tech:blockchain,5mo
-Stateset,https://web3.career/cosmos-blockchain-developer-stateset/13010,Cosmos Blockchain Developer,$50k - $100k,dev:blockchain:golang,5mo
-Torum Technology Sdn. Bhd.,https://web3.career/senior-level-blockchain-developer-solidity-torum/13009,Senior Level Blockchain Developer (Solidity),$25k - $75k,dev:senior:blockchain:solidity:web3js,5mo
-Verisart,https://web3.career/blockchain-engineer-verisart/13008,Blockchain Engineer,$67k - $107k,dev:blockchain:web3js:react:solidity,5mo
-Blockchain Technology Partners,https://web3.career/backend-engineer-blockchaintp/13007,Backend Engineer,$80k - $120k,backend:dev:java:rust,5mo
-MetisDAO,https://web3.career/software-engineer-ethereum-solidity-metisdao-1/13006,Software Engineer (Ethereum Solidity),$100k - $150k,dev:solidity:ethereum:dao,5mo
-Topl,https://web3.career/blockchain-engineering-manager-topl/13005,Blockchain Engineering Manager,$150k - $180k,executive:blockchain:scala:java,5mo
-Pomz,https://web3.career/crypto-community-manager-pomz-1/13004,Crypto Community Manager,$27k - $50k,community manager:non tech:crypto:remote,5mo
-RampDefi,https://web3.career/blockchain-intern-rampdefi/13003,Blockchain Intern,$14k - $21k,intern:entry level:blockchain,5mo
-Clara,https://web3.career/blockchain-developer-for-influencer-crypto-clarafinds/13002,BlockChain developer for Influencer Crypto,$12k,dev:blockchain:crypto:react:javascript,5mo
-Umee,https://web3.career/golang-developer-cross-chain-defi-protocol-umee-1/13001,Golang Developer - Cross Chain DeFi Protocol,$90k - $160k,dev:golang:defi:react:ethereum,5mo
-Dapper Labs,https://web3.career/senior-staff-software-engineer-dapper-wallet-ethereum-dapper-labs/13000,Senior / Staff Software Engineer – Dapper Wallet (Ethereum),$118k - $146k,dev:senior:ethereum:javascript:node,5mo
-KoinsPay,https://web3.career/business-development-director-nft-koinspay/12999,Business Development Director (NFT),$24k - $48k,sales:non tech:executive:nft,5mo
-Pandora Finance,https://web3.career/blockchain-developer-intern-pandoraprotocol/12998,Blockchain developer Intern,$18k - $33k,dev:intern:entry level:blockchain:solidity,5mo
-McKinley & Rice,https://web3.career/blockchain-developer-hyperledger-or-ethereum-mckinley-rice-1/12997,Blockchain Developer (Hyperledger or Ethereum),$11k - $32k,dev:blockchain:solidity:ethereum:javascript,5mo
-LoanSnap,https://web3.career/blockchain-engineer-loansnap/12996,Blockchain Engineer,$150k - $200k,dev:blockchain,5mo
-The NFT Rage Forum,https://web3.career/blockchain-dapp-developer-the-nft-rage-forum/12995,Blockchain & DAPP Developer,$0k,dev:blockchain:dapp:nft,5mo
-XinFin[XDC] Network,https://web3.career/distributed-systems-blockchain-engineer-xinfin-network/12994,Distributed Systems/Blockchain Engineer,$15k - $16k,dev:blockchain:ethereum:nft,5mo
-Alchemy,https://web3.career/blockchain-client-engineer-alchemy/12993,Blockchain Client Engineer,$33k - $120k,dev:blockchain:ethereum:rust,5mo
-KoinsPay,https://web3.career/senior-software-engineer-solidity-developer-koinspay/12992,Senior Software Engineer: Solidity Developer,$18k - $36k,dev:senior:solidity:ethereum,5mo
-Hex Capital,https://web3.career/blockchain-engineer-hex-capital/12991,Blockchain Engineer,$130k - $150k,dev:blockchain:ethereum:node:rust,5mo
-Akropolis,https://web3.career/defi-research-analyst-akropolisio/12990,DeFi research analyst,$50k - $120k,analyst:defi:remote,5mo
-Cyclic Media,https://web3.career/content-writer-for-cryptocurrency-defi-projects-cyclic-media/12989,Content Writer for Cryptocurrency & DeFi Projects,$12k - $45k,copywriting:crypto:defi,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Investoo Group,https://web3.career/lead-content-editor-crypto-investoogroup/13611,"London,
+United Kingdom",Lead Content Editor (Crypto),,copywriting:lead:crypto,5mo
+BANXA 🚀,https://web3.career/compliance-analyst-banxa/13610,Remote,Compliance Analyst,,compliance:analyst:remote,5mo
+Sourcechain,https://web3.career/blockchain-engineer-sourcechain/13609,"San Francisco,
+United States",Blockchain Engineer,$52k - $160k,dev:blockchain:solidity:java:rust,5mo
+IOTA Foundation,https://web3.career/head-of-developer-experience-iota/13608,Remote,Head of Developer Experience,$95k - $300k,executive:dev:remote,5mo
+IOTA Foundation,https://web3.career/senior-devops-engineer-iota/13607,Remote,(Senior) DevOps Engineer,$120k - $200k,devops:dev:senior:golang:remote,5mo
+Crypto.com,https://web3.career/otc-trader-for-flow-business-analyst-vp-global-fintech-startup-crypto-com/13606,Remote,OTC Trader for Flow Business (Analyst - VP) - Global Fintech startup,,analyst:finance:trader:executive:remote,5mo
+Satoshis Games,https://web3.career/solidity-engineer-senior-satoshis-games/13604,"Madrid,
+Spain",Solidity Engineer Senior,$70k - $80k,dev:senior:solidity:ethereum,5mo
+jade Eli Tecnologies,https://web3.career/senior-account-executive-3383995-senior-account-executive/13603,"Berlin,
+Germany",Senior Account Executive,$46k - $110k,executive:senior,5mo
+IOTA Foundation,https://web3.career/senior-software-engineer-go-remote-iota/13600,Remote,Senior Software Engineer - Go - Remote,$22k - $150k,remote:dev:golang:senior:ethereum,5mo
+Crypto.com,https://web3.career/technical-project-management-associate-crypto-com/13599,"Hong Kong,
+Hong Kong","Technical Project Management, Associate",,,5mo
+Corsali,https://web3.career/senior-software-engineer-crypto-corsali/13598,"San Francisco,
+United States",Senior Software Engineer - Crypto,$90k - $160k,dev:senior:crypto,5mo
+Sygnum Bank AG,https://web3.career/full-stack-tech-lead-singapore-sygnum/13596,"Singapore,
+Singapore","Full-stack Tech Lead, Singapore",$78k - $120k,full stack:lead:tech lead:react,5mo
+Ledger,https://web3.career/device-connectivity-product-owner-ledger-live-ledger/13591,Remote,Device connectivity Product Owner - Ledger Live,$115k - $175k,product manager:non tech:remote,5mo
+Cross River Bank,https://web3.career/aml-bsa-crypto-transaction-monitoring-analyst-crossriverbank/13590,United States,AML/BSA Crypto Transaction Monitoring Analyst,$20k - $120k,analyst:crypto,5mo
+Reflective.ai,https://web3.career/blockchain-engineer-reflective-ai-1/13589,United States,Blockchain Engineer,$62k - $109k,dev:blockchain:javascript:java,5mo
+Sygnum Bank AG,https://web3.career/head-of-sales-and-client-services-sygnum/13588,"Singapore,
+Singapore",Head of Sales and Client Services,$40k - $150k,executive:sales:non tech:ethereum,5mo
+TQ TEZOS,https://web3.career/frontend-engineer-tqtezos/13587,"New York,
+United States",Frontend Engineer,$60k - $144k,dev:front end:nft:javascript,5mo
+Crypto.com,https://web3.career/product-data-analyst-crypto-com/13586,"Hong Kong,
+Hong Kong",Product Data Analyst,$36k - $120k,analyst:data science:nft,5mo
+MagicCo.,https://web3.career/dao-developer-smart-contract-magic-co/13585,"New York,
+United States",DAO Developer - Smart Contract,$60k - $120k,dev:smart contract:nft,5mo
+Cross River Bank,https://web3.career/data-scientist-crypto-research-crossriverbank/13584,United States,"Data Scientist, Crypto Research",,data science:crypto:ruby:scala:java,5mo
+Crypto.com,https://web3.career/mobile-developer-android-sg-global-fintech-startup-crypto-com/13583,"Singapore,
+Singapore","Mobile Developer, Android (SG) - Global Fintech Startup",,android:mobile:dev:finance:java,5mo
+Sygnum Bank AG,https://web3.career/associate-legal-regtech-sygnum/13580,"Singapore,
+Singapore","Associate, Legal & RegTech",$24k - $140k,legal,5mo
+Crypto.com,https://web3.career/employment-counsel-crypto-com/13579,"Hong Kong,
+Hong Kong",Employment Counsel,,legal:nft,5mo
+Crypto.com,https://web3.career/process-manager-crypto-com/13578,"Sofia,
+Bulgaria",Process Manager,,,5mo
+Sygnum Bank AG,https://web3.career/credit-lending-analyst-sygnum/13577,Switzerland,Credit & Lending Analyst,$45k - $185k,analyst:ethereum,5mo
+Crypto.com,https://web3.career/team-lead-rta-day-or-night-shift-crypto-com/13576,"Sofia,
+Bulgaria","Team Lead, RTA (Day or Night shift)",$60k - $200k,lead,5mo
+BANXA 🚀,https://web3.career/customer-success-manager-banxa/13575,Remote,Customer Success Manager,,sales:non tech:customer support:remote,5mo
+Founders Factory,https://web3.career/founder-ceo-nft-vault-foundersfactory/13573,Remote,Founder/CEO - NFT Vault,$79k - $180k,executive:nft:remote,5mo
+Crypto.com,https://web3.career/technical-project-management-associate-crypto-com/13571,"Hong Kong,
+Hong Kong","Technical Project Management, Associate",,,5mo
+IOTA Foundation,https://web3.career/site-reliability-engineer-iota/13570,Remote,Site Reliability Engineer,$150k - $200k,dev:sys admin:golang:remote,5mo
+BANXA 🚀,https://web3.career/ux-designer-banxa/13568,Australia,UX Designer,$50k - $150k,design:non tech,5mo
+Cross River Bank,https://web3.career/crypto-cdd-senior-analyst-crossriverbank/13567,United States,Crypto CDD Senior Analyst,,analyst:senior:crypto,5mo
+Ledger,https://web3.career/backend-engineer-vault-ledger/13564,"London,
+United Kingdom",Backend Engineer - Vault,$60k - $180k,backend:dev,5mo
+Founders Factory,https://web3.career/founder-ceo-nft-vault-foundersfactory/13563,United States,Founder/CEO - NFT Vault,$63k - $180k,executive:nft,5mo
+VolumeFi,https://web3.career/crypto-events-marketing-manager-volumefi/13562,"San Francisco,
+United States",Crypto Events Marketing Manager,$46k - $140k,marketing:non tech:crypto:ethereum,5mo

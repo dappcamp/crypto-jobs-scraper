@@ -1,36 +1,55 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-TOKI,https://web3.career/lead-crypto-engingeer-toki-3/23529,Lead Crypto Engingeer,$150k - $230k,lead:crypto,1mo
-peaq,https://web3.career/web3-content-manager-editor-m-w-d-peaq/23527,Web3 Content Manager / Editor (m/w/d),$25k - $96k,marketing:non tech:copywriting:remote,1mo
-Bitfinex,https://web3.career/remote-mobile-engineer-react-native-bitfinex/23526,Remote Mobile Engineer - React Native,$65k - $180k,remote:dev:mobile:react native:javascript,1mo
-Immutable,https://web3.career/investor-relations-lead-immutable/23525,Investor Relations Lead,,finance:lead:ethereum:nft:remote,1mo
-GOGO Protocol,https://web3.career/lead-frontend-developer-react-cryptogogos/23524,Lead Frontend Developer (React),$56k - $79k,dev:front end:lead:javascript:react,1mo
-GOGO Protocol,https://web3.career/blockchain-developer-cryptogogos/23523,Blockchain Developer,$65k - $160k,dev:blockchain:crypto:remote:solidity,1mo
-Figment,https://web3.career/principal-typescript-react-software-engineer-product-engineering-figment/23521,"Principal TypeScript & React Software Engineer, Product Engineering",$200k - $400k,dev:executive:javascript:react,1mo
-Figment,https://web3.career/principal-ruby-on-rails-software-engineer-product-engineering-figment/23520,"Principal Ruby on Rails Software Engineer, Product Engineering",,dev:executive:ruby,1mo
-Figment,https://web3.career/lead-typescript-react-software-engineer-product-engineering-figment/23519,"Lead TypeScript & React Software Engineer, Product Engineering",$100k - $200k,dev:lead:javascript:react,1mo
-Binance,https://web3.career/technical-support-engineer-sl3-application-owner-binance/23518,Technical Support Engineer / SL3 Application Owner,$90k - $140k,dev:customer support,1mo
-Terraform Labs,https://web3.career/technical-qa-engineer-terra/23517,Technical QA Engineer,,dev:quality assurance:remote:ethereum,1mo
-Terraform Labs,https://web3.career/web-engineer-terra/23516,Web Engineer,$60k - $150k,dev:remote:ethereum,1mo
-Terraform Labs,https://web3.career/ecosystem-growth-analyst-terra/23515,Ecosystem Growth Analyst,,analyst:marketing:non tech:remote:ethereum,1mo
-Rain,https://web3.career/chief-of-staff-raincards/23514,Chief of Staff,,executive:recruiter:non tech,1mo
-Point72,https://web3.career/head-of-digital-assets-strategic-implementation-point72/23513,Head of Digital Assets Strategic Implementation,$40k - $225k,executive:finance:remote,1mo
-Terraform Labs,https://web3.career/protocol-security-engineer-anchor-terra/23511,Protocol Security Engineer (Anchor),$95k - $250k,dev:security:remote:ethereum,1mo
-Terraform Labs,https://web3.career/front-end-engineer-anchor-terra/23510,Front End Engineer (Anchor),$22k - $120k,dev:front end:remote:ethereum,1mo
-BitGo,https://web3.career/software-engineer-bitgo/23508,Software Engineer,$60k - $180k,dev:react:node:java:golang,1mo
-Terraform Labs,https://web3.career/fp-a-manager-terra/23507,FP&A Manager,$60k - $145k,remote:ethereum,1mo
-Dispatch Protocol,https://web3.career/software-engineer-full-stack-dispatch-protocol/23506,Software Engineer - Full Stack,$70k - $200k,dev:full stack:remote:react:rust,1mo
-Dispatch Protocol,https://web3.career/software-engineer-backend-dispatch-protocol/23505,Software Engineer - Backend,$70k - $160k,backend:dev:solidity:solana:rust,1mo
-Okcoin,https://web3.career/asset-listings-operations-manager-okcoin/23503,Asset Listings Operations Manager,$80k - $110k,operations:remote,1mo
-Galaxy Digital Services,https://web3.career/risk-associate-vp-ventures-galaxydigitalservices/23502,"Risk Associate/VP, Ventures",$79k - $200k,executive:remote,1mo
-VolumeFi,https://web3.career/smart-contract-auditor-volume-finance/23501,Smart Contract Auditor,$80k - $180k,smart contract:remote:solidity:ethereum:golang,1mo
-Polychain Capital,https://web3.career/research-operations-assistant-polychaincapital/23500,Research Operations Assistant,$60k - $200k,operations,1mo
-BlockFi,https://web3.career/head-of-bermuda-aml-blockfi/23499,Head of Bermuda AML,$70k - $180k,executive,1mo
-BlockFi,https://web3.career/head-of-risk-bermuda-blockfi/23498,"Head of Risk, Bermuda",$70k - $180k,executive,1mo
-Amun 21Shares,https://web3.career/etp-product-analyst-zurich-amun/23497,"ETP Product Analyst, Zurich",$40k - $120k,analyst,1mo
-Amun 21Shares,https://web3.career/research-coordinator-amun/23496,Research Coordinator,,,1mo
-Binance,https://web3.career/commercial-counsel-emea-binance/23495,"Commercial Counsel, EMEA",,legal:remote,1mo
-Galaxy Digital Services,https://web3.career/vp-strategic-solutions-galaxydigitalservices/23494,"VP, Strategic Solutions",$79k - $200k,executive:remote,1mo
-Binance,https://web3.career/api-onboarding-engineer-binance/23493,API Onboarding Engineer,$60k - $170k,api:dev:remote,1mo
-Binance,https://web3.career/investment-director-binance/23492,Investment Director,$40k - $225k,executive:finance:remote,1mo
-Caiz Development GmbH,https://web3.career/senior-blockchain-developer-caiz-development/23491,Senior Blockchain Developer,$80k - $200k,dev:senior:blockchain:remote:javascript,1mo
-Terraform Labs,https://web3.career/ecosystem-success-project-manager-terra/23490,Ecosystem Success Project Manager,$56k - $150k,project manager:non tech:remote:ethereum,1mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Bitcoin Depot,https://web3.career/director-of-product-management-bitcoindepot/24105,"Atlanta,
+United States",Director of Product Management,$135k - $170k,executive:product manager:non tech:ethereum,1mo
+Okcoin,https://web3.career/accounting-analyst-okcoin/24104,"San Francisco,
+United States",Accounting Analyst,$50k - $70k,accounting:analyst,1mo
+CANDY,https://web3.career/hr-business-partner-learning-and-development-candy/24103,"New York,
+United States",HR Business Partner (Learning and Development),$60k - $150k,hr:non tech,1mo
+VSC,https://web3.career/remote-public-relations-associate-vsc/24102,"San Francisco,
+United States",Remote: Public Relations Associate,$25k - $120k,marketing:non tech:remote,1mo
+peaq,https://web3.career/full-stack-developer-m-w-d-peaq/24101,,Full Stack Developer (m/w/d),$65k - $180k,dev:full stack:react:rust,1mo
+Voodoo,https://web3.career/lead-software-engineer-player-journey-optimization-team-voodoo/24100,"Paris,
+France",Lead Software Engineer - Player Journey Optimization team,$100k - $200k,dev:lead,1mo
+micobo GmbH,https://web3.career/cloud-engineer-remote-only-in-germany-all-genders-micobo/24099,,Cloud Engineer (remote only in Germany) - all genders,,remote:cloud:dev:node:golang,1mo
+Virtually Human Studio,https://web3.career/senior-game-economist-remote-vhslab/24098,United States,Senior Game Economist (Remote),$70k - $150k,remote:game dev:senior:nft,1mo
+Ianuly Talent Accelerators,https://web3.career/github-recruiter-summer-intern-ianulytalentaccelerators/24097,"New York,
+United States",GitHub Recruiter Summer Intern,,intern:entry level:recruiter:non tech,1mo
+CoinList,https://web3.career/business-operations-analyst-payments-coinlist/24096,"San Francisco,
+United States","Business Operations Analyst, Payments",,analyst:operations:solana,1mo
+Synapse International,https://web3.career/rust-engineer-synapseint/24095,Remote,Rust Engineer,$70k - $180k,dev:rust:remote:web3js:react,1mo
+Wirex Limited,https://web3.career/product-manager-wirexlimited/24094,"London,
+United Kingdom",Product Manager,$69k - $160k,product manager:non tech,1mo
+Salad Technologies,https://web3.career/senior-software-engineer-networking-saladtechnologies/24092,Remote,"Senior Software Engineer, Networking",$85k - $200k,dev:senior:remote:ethereum,1mo
+Chain,https://web3.career/researcher-chain/24091,Remote,Researcher,$56k - $160k,remote,1mo
+Fractal,https://web3.career/blockchain-engineer-rust-fractal-is/24090,WAGMI,Blockchain Engineer (Rust),$79k - $190k,dev:rust:blockchain:solana:nft,1mo
+Ripple,https://web3.career/software-engineer-ripplenet-payments-ripple/24089,"San Francisco,
+United States","Software Engineer, RippleNet Payments",$60k - $180k,dev,1mo
+Okcoin,https://web3.career/staff-product-designer-retail-okcoin/24088,"San Francisco,
+United States","Staff Product Designer, Retail",$50k - $150k,design:non tech,1mo
+Okcoin,https://web3.career/staff-product-designer-okcoin/24087,"San Francisco,
+United States",Staff Product Designer,$50k - $150k,design:non tech,1mo
+HQ Digital,https://web3.career/software-engineer-hqdigital/24086,United States,Software Engineer,$60k - $180k,dev,1mo
+Virtually Human Studio,https://web3.career/product-manager-remote-vhslab/24085,United States,Product Manager (Remote),$115k - $175k,remote:product manager:non tech:nft,1mo
+APY Vision,https://web3.career/ux-ui-designer-apy-vision/24084,"Europe, North America",UX UI Designer,$50k - $70k,design:non tech,1mo
+NEAR,https://web3.career/engineering-manager-applications-near/24083,"San Francisco,
+United States","Engineering Manager, Applications",$70k - $180k,executive,1mo
+Coin Metrics,https://web3.career/senior-cryptoasset-index-analyst-coinmetrics/24082,"Boston,
+United States",SENIOR CRYPTOASSET INDEX ANALYST,$150k - $185k,analyst:senior,1mo
+CoinDesk & TradeBlock Opportunities,https://web3.career/executive-producer-coindesk-tv-daily-news-programming-coindesk/24081,"New York,
+United States","Executive Producer, CoinDesk TV (Daily News Programming)",$70k - $180k,executive,1mo
+Salad Technologies,https://web3.career/senior-software-engineer-backend-saladcloud-vpn-saladtechnologies/24079,Remote,"Senior Software Engineer, Backend (SaladCloud - VPN)",$70k - $200k,backend:dev:senior:remote:ethereum,1mo
+Virtually Human Studio,https://web3.career/backend-engineer-elixir-remote-vhslab/24078,APAC,Backend Engineer - Elixir (Remote),$60k - $180k,remote:backend:dev:nft,1mo
+Nodle,https://web3.career/senior-front-end-engineer-nodle/24076,Remote,Senior Front-End Engineer,$70k - $190k,dev:front end:senior:remote:react,1mo
+Ianuly Talent Accelerators,https://web3.career/lead-product-manager-tokenomics-ianulytalentaccelerators/24075,"San Francisco,
+United States","Lead Product Manager, Tokenomics",,lead:product manager:non tech,1mo
+Virtually Human Studio,https://web3.career/customer-service-associate-vhslab/24074,APAC,Customer Service Associate,,customer support:nft,1mo
+Virtually Human Studio,https://web3.career/back-end-elixir-engineer-remote-vhslab/24073,United States,Back-end Elixir Engineer (Remote),$60k - $180k,remote:backend:dev:nft,1mo
+RECUR,https://web3.career/community-manager-engagement-apac-recur/24072,"Tokyo,
+Japan",Community Manager - Engagement (APAC),$15k - $30k,community manager:non tech:ethereum:nft,1mo
+RECUR,https://web3.career/community-manager-engagement-apac-recur/24071,"Seoul,
+South Korea",Community Manager - Engagement (APAC),$15k - $30k,community manager:non tech:ethereum:nft,1mo
+ELA International GmbH,https://web3.career/office-coordinator-m-f-d-elainternational/24066,"Frankfurt,
+Germany",Office Coordinator (m/f/d),$56k - $160k,remote,1mo
+Binance,https://web3.career/live-stream-product-manager-binance/24065,Asia,Live Stream Product Manager,$69k - $160k,product manager:non tech,1mo
+Ledger,https://web3.career/front-end-software-engineer-ledger-live-ledger/24064,"Paris,
+France",Front-End Software Engineer - Ledger Live,$50k - $144k,dev:front end:react:react native,1mo

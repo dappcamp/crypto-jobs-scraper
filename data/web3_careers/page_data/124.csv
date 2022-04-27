@@ -1,36 +1,63 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Braintrust,https://web3.career/mobile-developer-react-native-remote-braintrust/21638,"Mobile Developer, React Native (Remote)",$65k - $180k,remote:dev:mobile:react native:javascript,2mo
-Mythical Games,https://web3.career/lead-front-end-engineer-mythicalgames/21637,Lead Front End Engineer,$56k - $79k,dev:front end:lead:react:javascript,2mo
-Phantom,https://web3.career/devops-engineer-phantom45/21636,DevOps Engineer,$70k - $180k,devops:dev,2mo
-Phantom,https://web3.career/software-engineer-mobile-phantom45/21635,Software Engineer – Mobile,$120k - $200k,dev:mobile:react:react native:solidity,2mo
-Wilder World,https://web3.career/project-manager-web3-remote-wilder-world-1/21633,Project Manager - Web3 (Remote),$80k - $150k,remote:project manager:non tech:ethereum,2mo
-Gemini,https://web3.career/performance-marketing-crypto-nfts-gemini/21632,Performance Marketing - Crypto & NFTs,$46k - $140k,marketing:non tech:crypto:nft,2mo
-Pinata,https://web3.career/business-development-pinata/21631,Business Development,$100k - $180k,sales:non tech:nft:remote,2mo
-Sygnum Bank AG,https://web3.career/vp-svp-product-manager-digital-asset-platform-sygnum/21630,"VP/SVP, Product Manager - Digital Asset Platform",$135k - $170k,product manager:non tech:executive,2mo
-Papers AG,https://web3.career/frontend-engineer-100-papers/21629,Frontend Engineer 100%,$68k - $150k,dev:front end:solidity:ethereum:javascript,2mo
-Braintrust,https://web3.career/nft-blockchain-developer-remote-america-and-europe-only-braintrust/21628,NFT/Blockchain Developer (REMOTE) (AMERICA AND EUROPE ONLY),$70k - $190k,remote:dev:blockchain:nft:javascript,2mo
-Ripple,https://web3.career/senior-software-engineer-ripple/21627,Senior Software Engineer,$70k - $180k,dev:senior:react:javascript:node,2mo
-Ripple,https://web3.career/senior-software-engineer-ripple/21626,Senior Software Engineer,$70k - $180k,dev:senior:react:javascript:node,2mo
-ONCARE GmbH,https://web3.career/associate-to-the-cfo-oncare/21625,Associate to the CFO,$40k - $100k,finance:remote,2mo
-Nexo,https://web3.career/event-coordinator-nexo/21624,Event Coordinator,,events manager:non tech,2mo
-BlockFi,https://web3.career/product-manager-fiat-payments-blockfi/21623,"Product Manager, Fiat Payments",$69k - $160k,product manager:non tech,2mo
-Kraken Digital Asset Exchange,https://web3.career/managing-director-united-kingdom-kraken/21622,"Managing Director, United Kingdom",$70k - $180k,executive,2mo
-Roxe,https://web3.career/business-analyst-bilingual-mandarin-and-english-roxe/21621,Business Analyst (Bilingual Mandarin and English),$40k - $120k,analyst,2mo
-Crypto.com,https://web3.career/office-admin-crypto-com/21620,Office Admin,,,2mo
-Displate,https://web3.career/nft-product-manager-displate/21619,NFT Product Manager,$69k - $160k,product manager:non tech:nft:ethereum,2mo
-TokenTunnel,https://web3.career/smart-contract-developer-tokentunnel-1/21618,Smart Contract Developer,$0k,dev:smart contract,2mo
-Ripple,https://web3.career/software-development-engineer-liquidity-summer-2022-intern-ripple/21616,"Software Development Engineer, Liquidity (Summer 2022 Intern)",$12k - $33k,dev:intern:entry level:sales:non tech,2mo
-Taurus SA,https://web3.career/software-engineer-lausanne-geneva-taurusgroup/21615,Software Engineer [Lausanne / Geneva],$48k - $150k,dev:golang,2mo
-soonami.io GmbH,https://web3.career/marketing-sales-community-manager-soonami/21614,Marketing / Sales / Community Manager,$45k - $150k,community manager:non tech:marketing:sales:remote,2mo
-SuperLayer,https://web3.career/product-manager-superlayer/21613,Product Manager,$115k - $175k,product manager:non tech:remote,2mo
-SuperLayer,https://web3.career/head-of-marketing-superlayer/21612,Head of Marketing,$70k - $158k,executive:marketing:non tech:remote,2mo
-Okcoin,https://web3.career/design-sourcer-okcoin/21611,Design Sourcer,,recruiter:non tech:design,2mo
-Okcoin,https://web3.career/design-recruiter-okcoin/21610,Design Recruiter,,design:non tech:recruiter,2mo
-BlockFi,https://web3.career/staff-observability-engineer-blockfi/21609,Staff Observability Engineer,$60k - $180k,dev,2mo
-Tatum,https://web3.career/sales-engineer-blockchain-europe-apac-tatum/21608,Sales Engineer - Blockchain (Europe/APAC),,dev:sales:non tech:blockchain:solana,2mo
-Phantom,https://web3.career/security-engineer-phantom45/21607,Security Engineer,$130k - $200k,dev:security:javascript,2mo
-Caiz Development GmbH,https://web3.career/senior-blockchain-developer-caiz-development/21606,Senior Blockchain Developer,$80k - $200k,dev:senior:blockchain:remote:javascript,2mo
-Braintrust,https://web3.career/smart-contract-developer-remote-braintrust/21605,Smart Contract Developer - Remote,$80k - $200k,remote:dev:smart contract:solidity:solana,2mo
-Ledger,https://web3.career/software-architect-blockchain-ledger/21604,Software Architect - Blockchain,$120k - $300k,architecture:dev:blockchain:remote,2mo
-Okcoin,https://web3.career/executive-assistant-to-ceo-okcoin/21603,Executive Assistant to CEO,$70k - $180k,executive,2mo
-Amun 21Shares,https://web3.career/head-of-marketing-etps-us-amun/21601,"Head of Marketing- ETPs, US",$70k - $158k,executive:marketing:non tech,2mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Careers at Paxful,https://web3.career/tech-lead-platform-services-paxful/22197,"Moscow,
+Russia",Tech Lead- Platform.Services,$96k - $220k,lead:tech lead,2mo
+Careers at Paxful,https://web3.career/python-developer-accounts-paxful/22196,Remote,Python Developer - Accounts,$140k - $200k,dev:python:remote,2mo
+Careers at Paxful,https://web3.career/middle-qa-automation-engineer-python-paxful/22195,"Moscow,
+Russia",Middle QA Automation Engineer (Python),,dev:python:quality assurance,2mo
+Blockstream,https://web3.career/technical-project-manager-blockstream/22194,"Vancouver,
+Canada",Technical Project Manager,$50k - $150k,project manager:non tech,2mo
+GOGO Protocol,https://web3.career/lead-frontend-developer-react-cryptogogos/22193,"Berlin,
+Germany",Lead Frontend Developer (React),$56k - $79k,dev:front end:lead:javascript:react,2mo
+Ripple,https://web3.career/vice-president-global-payments-ripple/22192,"San Francisco,
+United States","Vice President, Global Payments",,,2mo
+Crypto.com,https://web3.career/product-designer-global-fintech-startup-crypto-com/22190,"Singapore,
+Singapore",Product Designer - Global Fintech Startup,,design:non tech:finance,2mo
+Dialectic,https://web3.career/venture-partner-nft-crypto-dialectic-2/22189,"Zurich,
+Switzerland",Venture Partner – NFT & Crypto,$0k,crypto:nft,2mo
+Dialectic,https://web3.career/blockchain-development-internship-dialectic-2/22188,"Zurich,
+Switzerland",Blockchain Development Internship,$0k,intern:entry level:blockchain,2mo
+BitMEX,https://web3.career/software-engineer-custody-engineering-bitmex/22187,"Zurich,
+Switzerland",Software Engineer - Custody Engineering,$65k - $180k,dev:react:react native,2mo
+Blockdaemon,https://web3.career/web3-fund-portfolio-manager-blockdaemon/22186,"San Francisco,
+United States",Web3 Fund Portfolio Manager,$40k - $150k,finance,2mo
+Blockdaemon,https://web3.career/technical-recruiting-lead-blockdaemon/22185,"San Francisco,
+United States",Technical Recruiting Lead,$40k - $70k,lead:recruiter:non tech,2mo
+Tangany,https://web3.career/technical-support-engineer-tangany/22184,"Munich,
+Germany",Technical Support Engineer,,dev:customer support:remote,2mo
+TDSoftware,https://web3.career/ui-designer-freelancer-d-f-m-tdsoftware/22183,Remote,UI Designer - Freelancer (d/f/m),$60k - $150k,design:non tech:nft:remote,2mo
+Okcoin,https://web3.career/web-engineer-okcoin/22182,"San Francisco,
+United States",Web Engineer,$56k - $160k,dev:react:javascript:java,2mo
+Okcoin,https://web3.career/market-surveillance-data-analyst-okcoin/22179,Remote,Market Surveillance Data Analyst,$45k - $120k,analyst:data science:remote,2mo
+Bitcoin Depot,https://web3.career/atm-installation-project-manager-bitcoindepot/22178,"Atlanta,
+United States",ATM Installation Project Manager,$80k - $150k,project manager:non tech:ethereum,2mo
+Dialectic,https://web3.career/venture-partner-defi-dialectic-2/22177,Remote,Venture Partner – DEFI,$0k,defi:remote,2mo
+Ripple,https://web3.career/business-development-senior-manager-ripplenet-apac-ripple/22176,"Singapore,
+Singapore",Business Development Senior Manager - RippleNet APAC,$50k - $150k,sales:non tech:senior,2mo
+Ripple,https://web3.career/business-development-director-ripplenet-apac-ripple/22175,"Singapore,
+Singapore",Business Development Director - RippleNet APAC,$40k - $150k,sales:non tech:executive,2mo
+Okcoin,https://web3.career/business-lead-generation-specialist-okcoin/22174,"London,
+United Kingdom",Business Lead Generation Specialist,$60k - $200k,lead,2mo
+Figment,https://web3.career/jr-accountant-ap-ar-administrator-figment/22173,"Toronto,
+Canada",Jr. Accountant (AP & AR Administrator),$25k - $150k,accounting,2mo
+peaq,https://web3.career/freelance-videographer-m-w-d-peaq/22172,Remote,Freelance Videographer (m/w/d),$56k - $160k,remote,2mo
+Crypto.com,https://web3.career/institutional-onboarding-analyst-us-crypto-com/22171,"Miami,
+United States",Institutional Onboarding Analyst (US),$36k - $120k,analyst:nft,2mo
+Nuri,https://web3.career/product-lead-growth-nuri/22170,"Berlin,
+Germany",Product Lead - Growth,$50k - $120k,marketing:non tech:lead:remote,2mo
+peaq,https://web3.career/product-manager-peaq-console-m-w-d-peaq/22169,Remote,Product Manager | peaq Console (m/w/d),$115k - $175k,product manager:non tech:remote,2mo
+TDSoftware,https://web3.career/senior-ui-designer-d-f-m-tdsoftware/22168,Remote,Senior UI Designer (d/f/m),$60k - $120k,design:non tech:senior:javascript:remote,2mo
+WOO Network,https://web3.career/aml-officer-woonetwork/22166,"Warsaw,
+Poland",AML Officer,,,2mo
+Crypto.com,https://web3.career/senior-project-manager-cards-payments-uk-europe-crypto-com/22164,United Kingdom,"Senior Project Manager (Cards/ Payments) , UK & Europe",,project manager:non tech:senior,2mo
+Crypto.com,https://web3.career/engineer-security-assurance-and-resilience-global-fintech-start-up-crypto-com/22163,"Hong Kong,
+Hong Kong","Engineer, Security Assurance and Resilience - Global Fintech Start-up",,dev:finance:security:nft:java,2mo
+Bridgesplit,https://web3.career/product-designer-web3-bridgesplit/22162,"New York,
+United States",Product Designer (web3),$100k - $150k,design:non tech:solana:nft,2mo
+Bridgesplit,https://web3.career/head-of-content-bridgesplit/22161,"New York,
+United States",Head of Content,$80k - $100k,executive:solana:nft,2mo
+Bridgesplit,https://web3.career/head-of-marketing-bridgesplit/22160,"New York,
+United States",Head of Marketing,$140k - $180k,executive:marketing:non tech:solana:nft,2mo
+Pocket Worlds,https://web3.career/senior-ua-manager-remote-pocketworlds/22158,"Warsaw,
+Poland",Senior UA Manager [Remote],$80k - $200k,remote:senior,2mo
+Burnt Finance,https://web3.career/product-design-lead-burnt-finance-1/22157,"New York,
+United States",Product Design Lead,$40k - $190k,design:non tech:lead,2mo

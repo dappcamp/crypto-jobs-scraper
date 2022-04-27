@@ -1,36 +1,54 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-cLabs,https://web3.career/software-engineering-intern-summer-2022-clabs/8168,Software Engineering Intern (Summer 2022),$12k - $33k,intern:entry level:dev:remote,6mo
-PolySign & Standard Custody,https://web3.career/vp-of-finance-polysign/8166,VP of Finance,$90k - $200k,finance:executive,6mo
-WOO Network,https://web3.career/frontend-web-engineer-woonetwork/8165,Frontend Web Engineer,$50k - $144k,dev:front end:react:javascript,6mo
-WOO Network,https://web3.career/backend-java-engineer-woonetwork/8164,Backend Java Engineer,$60k - $160k,backend:dev:java,6mo
-WOO Network,https://web3.career/information-security-engineer-woonetwork/8162,Information Security Engineer,$95k - $250k,dev:security,6mo
-Stacked,https://web3.career/marketing-graphics-designer-stacked-invest/8161,Marketing Graphics Designer,,design:non tech:marketing,6mo
-Binance,https://web3.career/operational-risk-manager-binance/8160,Operational Risk Manager,$60k - $200k,operations,6mo
-Binance,https://web3.career/compliance-analyst-binance/8159,Compliance Analyst,,compliance:analyst,6mo
-Kraken Digital Asset Exchange,https://web3.career/design-project-manager-kraken/8158,Design Project Manager,,design:non tech:project manager:remote,6mo
-Provenance Foundation,https://web3.career/executive-director-provenance-foundation-provenance/8157,Executive Director - Provenance Foundation,$70k - $180k,executive,6mo
-Binance,https://web3.career/growth-manager-ukraine-binance/8156,Growth Manager - Ukraine,$45k - $130k,marketing:non tech,6mo
-Binance,https://web3.career/senior-application-product-manager-binance/8155,Senior Application Product Manager,$80k - $150k,product manager:non tech:senior,6mo
-BlockFi,https://web3.career/legal-compliance-counsel-asset-management-blockfi/8142,"Legal & Compliance Counsel, Asset Management",,compliance:legal,6mo
-Mythical Games,https://web3.career/release-manager-mythicalgames/8140,Release Manager,,,6mo
-VaynerMedia LLC,https://web3.career/senior-art-director-vaynermedia/8139,Senior Art Director,,executive:senior:nft,6mo
-cLabs,https://web3.career/platform-product-intern-spring-summer-2022-clabs/8132,Platform Product Intern (Spring/Summer 2022),$24k - $48k,intern:entry level:remote,6mo
-Mythical Games,https://web3.career/director-game-analytics-mythicalgames/8131,"Director, Game Analytics",,stats:executive:game dev:java,6mo
-OpenSea,https://web3.career/content-associate-cx-opensea/8126,"Content Associate, CX",$56k - $160k,remote,6mo
-BitGo,https://web3.career/desktop-support-specialist-bitgo/8124,Desktop Support Specialist,$40k - $80k,customer support,6mo
-Figure,https://web3.career/operations-manager-originations-figure/8121,"Operations Manager, Originations",$60k - $200k,operations,6mo
-BitGo,https://web3.career/billing-analyst-bitgo/8120,Billing Analyst,$40k - $120k,analyst,6mo
-Kronos Research,https://web3.career/macro-trader-kronosresearch/8119,Macro Trader,,trader:scala:java,6mo
-Figure,https://web3.career/production-designer-figure/8115,Production Designer,$50k - $150k,design:non tech,6mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/vice-president-product-management-coindesk/8114,"Vice President, Product Management",,,6mo
-cLabs,https://web3.career/it-manager-clabs/8113,IT Manager,$79k - $200k,executive:remote,6mo
-Cake Pte Ltd,https://web3.career/legal-counsel-cakedefi/8112,Legal Counsel,$24k - $140k,legal,6mo
-Figure,https://web3.career/financial-crimes-associate-figure/8110,Financial Crimes Associate,$40k - $150k,finance,6mo
-Parity Technologies,https://web3.career/customer-success-manager-m-f-d-parity/8109,Customer Success Manager (m/f/d),,sales:non tech:customer support:remote,6mo
-WOO Network,https://web3.career/backend-java-engineer-woonetwork/8108,Backend Java Engineer,$60k - $160k,backend:dev:java,6mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/director-of-events-logistics-coindesk/8107,Director of Events Logistics,$70k - $180k,executive,6mo
-BitMEX,https://web3.career/kubernetes-engineer-bitmex/8106,Kubernetes Engineer,$48k - $150k,dev:golang,6mo
-Binance.US,https://web3.career/data-analyst-finance-bamtradingservices/8105,Data Analyst (Finance),,analyst:data science:finance,6mo
-BitMEX,https://web3.career/senior-trading-technology-engineer-bitmex/8103,Senior Trading Technology Engineer,$50k - $200k,dev:senior:java,6mo
-Binance,https://web3.career/project-operations-specialist-binance/8102,Project Operations Specialist,$60k - $200k,operations,6mo
-Binance,https://web3.career/strategy-operations-manager-latam-binance/8101,Strategy & Operations Manager - LatAm,$60k - $200k,operations,6mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+super studios,https://web3.career/director-of-programming-youtube-super-studios/8707,"Los Angeles,
+United States","Director of Programming, YouTube",$63k - $180k,executive:nft,6mo
+Zero Hash,https://web3.career/cryptocurrency-settlement-and-operations-remote-european-hours-zero-hash/8705,GB,Cryptocurrency Settlement and Operations (Remote - European Hours),,remote:operations:crypto:node,6mo
+Zero Hash,https://web3.career/cryptocurrency-settlement-and-operations-remote-european-hours-zero-hash/8706,GB,Cryptocurrency Settlement and Operations (Remote - European Hours),,remote:operations:crypto:node,6mo
+Emurgo,https://web3.career/product-designer-emurgo/8704,Remote,Product Designer,$50k - $135k,design:non tech:remote,6mo
+Nexo,https://web3.career/spontaneous-application-nexo/8702,"Sofia,
+Bulgaria",Spontaneous Application,,,6mo
+Nexo,https://web3.career/spontaneous-application-nexo/8703,"Sofia,
+Bulgaria",Spontaneous Application,,,6mo
+LATOKEN,https://web3.career/product-manager-of-content-production-and-distribution-latoken/8701,Remote,Product Manager of Content Production and Distribution,,product manager:non tech:react:remote,6mo
+LATOKEN,https://web3.career/liquidity-support-manager-market-making-latoken/8700,RU,Liquidity Support Manager (Market Making),,sales:non tech:customer support,6mo
+LATOKEN,https://web3.career/forensic-analyst-latoken/8699,"London,
+United Kingdom",Forensic Analyst,$40k - $120k,analyst,6mo
+LATOKEN,https://web3.career/product-manager-investment-platform-latoken/8698,"London,
+United Kingdom",Product Manager Investment Platform,,finance:product manager:non tech,6mo
+LATOKEN,https://web3.career/dapps-dex-developer-latoken/8697,Remote,dApps/DEX Developer,$80k - $170k,dev:solidity:remote,6mo
+Emurgo,https://web3.career/head-of-engineering-cardano-emurgo/8696,Remote,Head of Engineering - Cardano,$79k - $180k,executive:nft:remote,6mo
+Emurgo,https://web3.career/full-stack-mobile-developer-emurgo/8695,Remote,Full Stack Mobile Developer,,dev:full stack:mobile:react:react native,6mo
+Emurgo,https://web3.career/business-development-manager-emurgo/8694,Remote,Business Development Manager,$29k - $108k,sales:non tech:remote,6mo
+LATOKEN,https://web3.career/social-media-manager-and-designer-latoken/8693,"London,
+United Kingdom",Social Media Manager and Designer,,design:non tech:social media,6mo
+Adoc Talent Management,https://web3.career/researcher-crypto-compliance-officer-m-f-adoc-tm/8692,"Paris,
+France",Researcher/Crypto Compliance Officer M/F,,compliance:crypto,6mo
+LATOKEN,https://web3.career/head-of-growth-operations-latoken/8691,"London,
+United Kingdom",Head of Growth Operations,$70k - $158k,executive:marketing:non tech:operations,6mo
+Immunefi,https://web3.career/hacker-evangelist-immunefi/8690,Remote,Hacker Evangelist,$60k - $160k,solidity:rust:remote,6mo
+DreamView,https://web3.career/suku-product-marketing-specialist-growth-hacker-recruitable/8689,"San Francisco,
+United States",SUKU - Product Marketing Specialist / Growth Hacker,$48k - $120k,marketing:non tech:ethereum,6mo
+Transak,https://web3.career/devops-engineer-transak-inc/8688,"Bangalore,
+India",DevOps Engineer,$70k - $180k,devops:dev,6mo
+LATOKEN,https://web3.career/sales-executive-latoken/8687,"London,
+United Kingdom",Sales Executive,$40k - $150k,executive:sales:non tech,6mo
+Flipside Crypto,https://web3.career/director-data-science-flipsidecrypto/8686,"Boston,
+United States","Director, Data Science",,data science:executive,6mo
+LATOKEN,https://web3.career/sales-manager-latoken/8685,Remote,Sales Manager,$29k - $108k,sales:non tech:remote,6mo
+super studios,https://web3.career/director-manager-social-media-content-super-studios/8684,"Los Angeles,
+United States","Director/Manager, Social Media & Content",$45k - $150k,executive:social media:non tech:nft,6mo
+World Mobile,https://web3.career/world-mobile-copywriter-marketing-world-mobile/8683,"London,
+United Kingdom","World Mobile Copywriter, Marketing",$25k - $96k,copywriting:marketing:non tech:mobile,6mo
+Centrifuge,https://web3.career/security-dev-ops-engineer-centrifuge/8682,"Berlin,
+Germany",Security & Dev Ops Engineer,$95k - $250k,dev:devops:security:ruby,6mo
+Flipside Crypto,https://web3.career/head-of-finance-flipsidecrypto/8681,"Boston,
+United States",Head of Finance,$90k - $200k,executive:finance,6mo
+Nexo,https://web3.career/country-ambassador-nexo/8680,Remote,Country Ambassador,$56k - $160k,remote,6mo
+Zero Hash,https://web3.career/security-engineer-zero-hash/8679,US,Security Engineer,$95k - $250k,dev:security,6mo
+Immunefi,https://web3.career/defi-security-analyst-immunefi/8678,Remote,DeFi Security Analyst,,analyst:security:defi:solidity:rust,6mo
+Infinite Capital,https://web3.career/senior-solidity-engineer-infinite-capital/8677,Brooklyn US,Senior Solidity Engineer,$80k - $200k,dev:senior:solidity:ethereum,6mo
+Emurgo,https://web3.career/head-of-engineering-enterprise-emurgo/8676,Remote,Head of Engineering Enterprise,$79k - $200k,executive:remote,6mo
+Bitwave,https://web3.career/senior-enterprise-sales-account-executive-bitwave/8675,"San Francisco,
+United States",Senior Enterprise Sales Account Executive,$40k - $150k,executive:sales:non tech:senior,6mo
+Opera,https://web3.career/product-marketing-manager-crypto-products-opera/8674,"Oslo,
+Norway","Product Marketing Manager, Crypto Products",$46k - $140k,marketing:non tech:crypto,6mo
+Floating Point Group,https://web3.career/business-development-representative-floating-point-group/8673,Hoboken US,Business Development Representative,$26k - $140k,sales:non tech,6mo

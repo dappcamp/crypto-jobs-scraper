@@ -1,36 +1,58 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Stacked,https://web3.career/product-owner-stacked-invest/13098,Product Owner,$115k - $175k,product manager:non tech:remote,5mo
-Stacked,https://web3.career/product-designer-stacked-invest/13097,Product Designer,$50k - $135k,design:non tech:remote,5mo
-Metal,https://web3.career/devops-engineer-remote-metalpay/13096,DevOps Engineer (Remote),$95k - $180k,remote:devops:dev,5mo
-OpenSea,https://web3.career/performance-marketing-lead-opensea/13095,Performance Marketing Lead,$50k - $120k,lead:marketing:non tech:nft:remote,5mo
-Parity Technologies,https://web3.career/seo-manager-m-f-d-parity/13094,SEO Manager (m/f/d),,seo:non tech:remote,5mo
-Parity Technologies,https://web3.career/paid-media-manager-m-f-d-parity/13093,Paid Media Manager (m/f/d),$56k - $160k,remote,5mo
-Parity Technologies,https://web3.career/marketing-data-analyst-m-f-d-parity/13092,Marketing Data Analyst (m/f/d),,analyst:data science:marketing:non tech:remote,5mo
-Parity Technologies,https://web3.career/email-marketing-manager-m-f-d-parity/13091,Email Marketing Manager (m/f/d),$25k - $120k,marketing:non tech:remote,5mo
-Parity Technologies,https://web3.career/ecosystem-success-intern-m-f-d-parity/13090,Ecosystem Success Intern (m/f/d),$24k - $48k,intern:entry level:remote,5mo
-Bitcoin Depot,https://web3.career/senior-integrated-communications-manager-bitcoindepot/13089,Senior Integrated Communications Manager,$46k - $109k,marketing:non tech:senior,5mo
-Bitcoin Depot,https://web3.career/senior-creative-manager-bitcoindepot/13088,Senior Creative Manager,$78k - $200k,senior,5mo
-Bitcoin Depot,https://web3.career/marketing-specialist-social-pr-influencers-bitcoindepot/13087,"Marketing Specialist – Social, PR & Influencers",$45k - $130k,marketing:non tech,5mo
-Bitcoin Depot,https://web3.career/marketing-manager-paid-search-bitcoindepot/13086,Marketing Manager – Paid Search,$45k - $130k,marketing:non tech,5mo
-Bitcoin Depot,https://web3.career/marketing-manager-customer-insights-bitcoindepot/13085,Marketing Manager - Customer Insights,$45k - $130k,marketing:non tech,5mo
-SwissBorg,https://web3.career/fraud-data-analyst-remote-swissborg/13084,Fraud Data Analyst (Remote),$45k - $120k,remote:analyst:data science:security,5mo
-Chainalysis,https://web3.career/account-executive-public-sector-nordics-chainalysis/13083,"Account Executive, Public Sector, Nordics",$70k - $180k,executive,5mo
-Bitcoin Depot,https://web3.career/marketing-data-analyst-bitcoindepot/13082,Marketing Data Analyst,,analyst:data science:marketing:non tech,5mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/director-business-development-coindesk/13080,"Director, Business Development",$40k - $150k,sales:non tech:executive,5mo
-Chainalysis,https://web3.career/account-executive-uk-i-chainalysis/13079,"Account Executive, UK/I",$70k - $180k,executive,5mo
-Chainalysis,https://web3.career/account-executive-public-sector-benelux-chainalysis/13078,"Account Executive, Public Sector, Benelux",$70k - $180k,executive,5mo
-OKEx,https://web3.career/manager-sr-manager-hr-business-partner-okex/13077,Manager/Sr. Manager - HR Business Partner,,hr:non tech:senior,5mo
-OKEx,https://web3.career/manager-sr-manager-hr-business-partner-okex/13076,Manager/Sr. Manager - HR Business Partner,,hr:non tech:senior,5mo
-Metareach,https://web3.career/chief-blockchain-officer-metareach/13075,Chief Blockchain Officer,$0k,executive:blockchain:ethereum:java:golang,5mo
-Metareach,https://web3.career/game-developer-metareach/13074,Game Developer,$0k,dev:game dev,5mo
-Metareach,https://web3.career/full-stack-web-developer-metareach/13073,Full-Stack Web Developer,$0k,dev:full stack:react:solidity:nft,5mo
-Nuri,https://web3.career/strategy-operations-associate-nuri/13072,Strategy & Operations Associate,$80k - $110k,operations:remote,5mo
-actus ag Steuerberatung,https://web3.career/software-engineer-3313237-software-engineer/13071,Software Engineer,$35k - $180k,dev:java:remote,5mo
-Binance,https://web3.career/head-of-compliance-lithuania-binance/13070,Head of Compliance - Lithuania,,compliance:executive,5mo
-Binance,https://web3.career/dispute-analyst-p2p-russian-speaker-binance/13069,Dispute Analyst - P2P (Russian Speaker),$40k - $120k,analyst,5mo
-Hiro,https://web3.career/full-stack-engineer-growth-hiro/13068,"Full Stack Engineer, Growth",,dev:full stack:marketing:non tech:remote,5mo
-Crypto.com,https://web3.career/software-testing-engineer-tw-crypto-com/13067,Software Testing Engineer-TW,$33k - $140k,dev:java,5mo
-Crypto.com,https://web3.career/mobile-developer-android-aus-global-fintech-startup-crypto-com/13066,"Mobile Developer, Android (AUS) - Global Fintech Startup",,android:mobile:dev:finance:java,5mo
-Crypto.com,https://web3.career/associate-strategy-new-ventures-cn-global-fintech-startup-crypto-com/13065,"Associate, Strategy & New Ventures (CN) - Global Fintech Startup",$40k - $150k,finance,5mo
-Crypto.com,https://web3.career/penetration-tester-crypto-com/13064,Penetration Tester,,,5mo
-Top Crypto,https://web3.career/product-designer-topcrypto/13063,Product Designer,$50k - $135k,design:non tech:remote,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+River Financial,https://web3.career/people-operations-specialist-riverfinancial/13706,"San Francisco,
+United States",People Operations Specialist,$60k - $200k,operations,5mo
+Consensys,https://web3.career/technical-support-manager-usa-consensys/13705,Remote,Technical Support Manager USA,,customer support:ethereum:remote,5mo
+Consensys,https://web3.career/technical-support-manager-emea-consensys/13704,France,Technical Support Manager EMEA,,customer support:ethereum:remote,5mo
+Consensys,https://web3.career/help-desk-lead-consensys/13703,Romania,Help Desk Lead,,customer support:lead:ethereum,5mo
+Consensys,https://web3.career/event-marketing-lead-consensys/13702,Remote,Event Marketing Lead,,events manager:non tech:lead:marketing:ethereum,5mo
+Consensys,https://web3.career/customer-success-lead-consensys/13701,Remote,Customer Success Lead,,customer support:lead:ethereum:remote,5mo
+Consensys,https://web3.career/corporate-development-associate-consensys/13700,United States,Corporate Development - Associate,$60k - $150k,ethereum,5mo
+Consensys,https://web3.career/community-growth-lead-consensys/13699,Remote,Community Growth Lead,$45k - $150k,community manager:non tech:marketing:lead:ethereum,5mo
+Flex Suisse AG,https://web3.career/crypto-junior-legal-counsel-flexsuisse/13698,"Zug,
+Switzerland",Crypto | Junior Legal Counsel,$120k,legal:junior:entry level:crypto,5mo
+GSR,https://web3.career/trader-cryptocurrency-gsr/13696,"New York,
+United States","Trader, Cryptocurrency",$31k - $37k,trader:crypto,5mo
+Vacuumlabs,https://web3.career/senior-product-designer-crypto-specialist-vacuumlabs/13695,"Prague,
+Czech Republic","Senior Product Designer, Crypto specialist",$56k - $79k,design:non tech:senior:crypto,5mo
+Ripple,https://web3.career/director-of-software-engineering-internal-tools-ripple/13694,"San Francisco,
+United States","Director of Software Engineering, Internal Tools",$140k - $180k,executive:dev:java,5mo
+Sygnum Bank AG,https://web3.career/head-of-external-asset-management-singapore-sygnum/13693,"Singapore,
+Singapore","Head of External Asset Management, Singapore",$79k - $158k,executive:ethereum,5mo
+Chainalysis,https://web3.career/associate-account-executive-emea-german-speaking-chainalysis/13692,"London,
+United Kingdom","Associate Account Executive, EMEA (German Speaking)",$70k - $180k,executive,5mo
+Binance,https://web3.career/ui-ux-designer-p2p-binance/13691,Remote,UI/UX Designer - P2P,$50k - $135k,design:non tech:remote,5mo
+Gluwa,https://web3.career/vp-of-marketing-gluwa/13690,"San Francisco,
+United States",VP of Marketing,$70k - $158k,marketing:non tech:executive:ethereum,5mo
+Satya Cars,https://web3.career/blockchain-developer-satyacars/13689,India,Blockchain Developer,$52k - $160k,dev:blockchain:solidity:ethereum:javascript,5mo
+Impossible Finance,https://web3.career/smart-contract-engineer-impossiblefinance/13688,Remote,Smart Contract Engineer,$0k,dev:smart contract:solidity:remote,5mo
+Chainalysis,https://web3.career/sales-development-representative-emea-spanish-speaking-chainalysis/13685,"London,
+United Kingdom","Sales Development Representative, EMEA (Spanish Speaking)",$26k - $140k,sales:non tech,5mo
+Chainalysis,https://web3.career/sales-development-representative-emea-dutch-speaking-chainalysis/13684,"London,
+United Kingdom","Sales Development Representative, EMEA (Dutch Speaking)",$26k - $140k,sales:non tech,5mo
+Crypto.com,https://web3.career/customer-experience-associate-with-english-and-spanish-night-shifts-crypto-com/13683,"Sofia,
+Bulgaria",Customer Experience Associate with English and Spanish (Night Shifts),$40k - $80k,customer support,5mo
+ChainSafe Systems,https://web3.career/senior-technical-recruiter-chainsafesystems/13682,"Berlin,
+Germany",Senior Technical Recruiter,$40k - $70k,recruiter:non tech:senior:remote,5mo
+Chainalysis,https://web3.career/associate-account-executive-emea-russian-speaking-chainalysis/13680,"London,
+United Kingdom","Associate Account Executive, EMEA (Russian Speaking)",$70k - $180k,executive,5mo
+Chainalysis,https://web3.career/associate-account-executive-emea-polish-speaking-chainalysis/13679,"London,
+United Kingdom","Associate Account Executive, EMEA (Polish Speaking)",$70k - $180k,executive,5mo
+Chainalysis,https://web3.career/associate-account-executive-emea-hebrew-speaking-chainalysis/13678,"London,
+United Kingdom","Associate Account Executive, EMEA (Hebrew Speaking)",$70k - $180k,executive,5mo
+Chainalysis,https://web3.career/associate-account-executive-emea-french-speaking-chainalysis/13677,"London,
+United Kingdom","Associate Account Executive, EMEA (French Speaking)",$70k - $180k,executive,5mo
+Crypto.com,https://web3.career/strategy-new-ventures-associate-portfolio-management-focus-crypto-com/13676,"Hong Kong,
+Hong Kong",Strategy & New Ventures Associate (portfolio management focus),$40k - $150k,finance,5mo
+Binance,https://web3.career/data-protection-project-manager-europe-binance/13674,Remote,Data Protection Project Manager - Europe,$56k - $150k,project manager:non tech:remote,5mo
+Tangany,https://web3.career/working-student-backend-software-engineer-or-web-services-developer-w-m-d-en-de-3422008-working-student-backend-software-engineer-or-web-services-developer-w-m-d-en-de/13673,Remote,Working Student Backend Software Engineer or Web Services Developer (w/m/d) [EN/DE],$65k - $125k,backend:dev:ethereum:javascript:node,5mo
+OKEx,https://web3.career/human-resources-manager-generalist-remote-okex/13672,"Dubai,
+United Arab Emirates",Human Resources Manager (Generalist) - Remote,$56k - $160k,remote,5mo
+Crypto.com,https://web3.career/security-operations-center-tier-1-analyst-hk-crypto-com/13671,"Hong Kong,
+Hong Kong",Security Operations Center - Tier 1 Analyst (HK),,analyst:operations:security,5mo
+ONCARE GmbH,https://web3.career/senior-blockchain-developer-hyperleder-fabric-f-m-d-medical-industry-3370876-senior-blockchain-developer-hyperleder-fabric-f-m-d-medical-industry/13670,Remote,Senior Blockchain Developer Hyperleder Fabric (f/m/d) - Medical Industry,$80k - $200k,dev:senior:blockchain:javascript:node,5mo
+Immutable,https://web3.career/producer-mid-senior-immutable/13669,"Sydney,
+Australia",Producer (Mid/Senior),$80k - $200k,senior:ethereum,5mo
+Crypto.com,https://web3.career/ui-developer-global-fintech-startup-crypto-com/13668,"Singapore,
+Singapore",UI Developer - Global Fintech Startup,,dev:finance:design:non tech:react,5mo
+BitGo,https://web3.career/project-manager-compliance-tech-bitgo/13666,"New York,
+United States",Project Manager (Compliance Tech.),,compliance:project manager:non tech,5mo

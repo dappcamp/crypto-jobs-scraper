@@ -1,36 +1,64 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-OKEx,https://web3.career/senior-ux-writer-okex/10677,(Senior) UX Writer,$60k - $120k,senior:design:non tech,5mo
-OKEx,https://web3.career/senior-ux-researcher-okex/10676,(Senior) UX Researcher,$60k - $120k,senior:design:non tech,5mo
-OKEx,https://web3.career/senior-ui-ux-designer-okex/10675,(Senior) UI/UX Designer,$60k - $120k,design:non tech:senior,5mo
-OKEx,https://web3.career/senior-product-manager-trading-service-okex/10674,(Senior) Product Manager - Trading service,$80k - $150k,product manager:non tech:senior,5mo
-OKEx,https://web3.career/senior-product-manager-support-okex/10673,(Senior) Product Manager - Support,$80k - $150k,product manager:non tech:senior:customer support,5mo
-OKEx,https://web3.career/senior-product-manager-social-trading-community-okex/10672,Senior Product Manager - Social Trading Community,$35k - $38k,community manager:non tech:product manager:senior,5mo
-OKEx,https://web3.career/senior-product-manager-risk-management-okex/10671,Senior Product Manager - Risk Management,$80k - $150k,product manager:non tech:senior,5mo
-OKEx,https://web3.career/senior-product-manager-risk-okex/10670,(Senior) Product Manager - Risk,$80k - $150k,product manager:non tech:senior,5mo
-OKEx,https://web3.career/senior-product-manager-p2p-trading-okex/10669,(Senior) Product Manager - P2P Trading,$80k - $150k,product manager:non tech:senior,5mo
-OKEx,https://web3.career/senior-product-manager-options-and-otc-related-services-okex/10668,Senior Product Manager - Options and OTC-related services,$80k - $150k,product manager:non tech:senior,5mo
-OKEx,https://web3.career/senior-product-manager-finance-lending-okex/10667,Senior Product Manager - Finance/Lending,,finance:product manager:non tech:senior,5mo
-OKEx,https://web3.career/senior-product-manager-brokerage-service-okex/10666,Senior Product Manager - Brokerage Service,$80k - $150k,product manager:non tech:senior,5mo
-OKEx,https://web3.career/senior-product-manager-asset-okex/10665,(Senior) Product Manager - Asset,$80k - $150k,product manager:non tech:senior,5mo
-OKEx,https://web3.career/senior-product-manager-account-okex/10664,(Senior) Product manager - Account,$80k - $150k,product manager:non tech:senior,5mo
-OKEx,https://web3.career/product-manager-category-management-okex/10663,Product Manager - Category Management,$69k - $160k,product manager:non tech,5mo
-OKEx,https://web3.career/product-manager-okex/10662,Product Manager,$69k - $160k,product manager:non tech,5mo
-OKEx,https://web3.career/product-manager-okex/10661,Product Manager,$69k - $160k,product manager:non tech,5mo
-OKEx,https://web3.career/market-risk-manager-okex/10660,Market Risk Manager,,,5mo
-OKEx,https://web3.career/financial-product-expert-derivatives-structuring-okex/10659,Financial Product Expert - Derivatives Structuring,$40k - $150k,finance,5mo
-OKEx,https://web3.career/data-analyst-okex/10658,Data analyst,$36k - $72k,analyst:data science,5mo
-OKEx,https://web3.career/cryptocurrency-exchange-product-manager-korea-okex/10657,Cryptocurrency Exchange Product Manager (Korea),$60k - $160k,product manager:non tech:crypto,5mo
-OKEx,https://web3.career/talent-acquisition-manager-tech-product-okex/10656,Talent Acquisition Manager (Tech & Product),$40k - $70k,recruiter:non tech,5mo
-OKEx,https://web3.career/senior-manager-organization-talent-development-okex/10655,"Senior Manager, Organization & Talent Development",$40k - $70k,senior:recruiter:non tech,5mo
-OKEx,https://web3.career/human-resources-assistant-1-year-contract-okex/10654,Human Resources Assistant (1-year contract),,,5mo
-OKEx,https://web3.career/project-management-manager-south-korea-okex/10653,Project Management Manager(South Korea),,,5mo
-OKEx,https://web3.career/operations-manager-south-korea-okex/10652,Operations Manager (South Korea),$80k - $110k,operations:remote,5mo
-OKEx,https://web3.career/growth-associate-india-okex/10651,Growth Associate (India),$25k - $120k,marketing:non tech:remote,5mo
-OKEx,https://web3.career/country-manager-south-korea-okex/10650,Country Manager（South Korea）,,,5mo
-OKEx,https://web3.career/affiliate-marketing-specialist-eu-okex/10649,Affiliate Marketing Specialist (EU),$45k - $130k,marketing:non tech,5mo
-OKEx,https://web3.career/community-operations-manager-community-operator-okex/10648,Community Operations Manager/Community Operator,,community manager:non tech:operations,5mo
-OKEx,https://web3.career/community-manager-uk-okex/10647,Community Manager (UK),$40k - $100k,community manager:non tech,5mo
-OKEx,https://web3.career/community-manager-belgium-okex/10646,Community Manager (Belgium),$40k - $100k,community manager:non tech,5mo
-OKEx,https://web3.career/community-growth-manger-south-korea-okex/10645,Community Growth Manger （South Korea）,$45k - $150k,community manager:non tech:marketing:remote,5mo
-OKEx,https://web3.career/sr-video-manager-okex/10644,Sr. Video Manager,,senior:video,5mo
-OKEx,https://web3.career/paid-marketing-manager-okex/10643,Paid Marketing Manager,$45k - $130k,marketing:non tech,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Bitfury,https://web3.career/rtl-verification-engineer-bitfury/11273,"San Francisco,
+United States",RTL Verification Engineer,$60k - $180k,dev,5mo
+Bitfury,https://web3.career/rtl-verification-engineer-bitfury/11272,"Sacramento,
+United States",RTL Verification Engineer,$60k - $180k,dev,5mo
+Bitfury,https://web3.career/rtl-verification-engineer-bitfury/11271,"San Jose,
+Costa Rica",RTL Verification Engineer,$60k - $180k,dev,5mo
+SuperRare Labs,https://web3.career/brand-and-marketing-copywriter-superrarelabs/11270,"New York,
+United States",Brand and Marketing Copywriter,$25k - $96k,marketing:non tech:copywriting:ethereum:nft,5mo
+Ripple,https://web3.career/senior-devops-engineer-ripple/11269,"San Francisco,
+United States",Senior DevOps Engineer,$120k - $200k,devops:dev:senior,5mo
+Ripple,https://web3.career/director-infosec-governance-risk-and-compliance-ripple/11268,"San Francisco,
+United States",Director Infosec Governance Risk and Compliance,,compliance:executive:security,5mo
+MoonPay,https://web3.career/senior-growth-data-analyst-moonpay/11267,"London,
+United Kingdom",Senior Growth Data Analyst,,analyst:data science:marketing:non tech:senior,5mo
+MoonPay,https://web3.career/senior-finance-data-analyst-moonpay/11266,"London,
+ United Kingdom",Senior Finance Data Analyst,,analyst:data science:finance:senior,5mo
+BlockFi,https://web3.career/accounting-manager-blockfi/11265,"New York,
+United States",Accounting Manager,$25k - $150k,accounting,5mo
+Bitfury,https://web3.career/physical-design-engineer-ic-backend-bitfury/11264,"Sacramento,
+United States",Physical Design Engineer (IC Backend),,backend:design:non tech:dev,5mo
+Bitfury,https://web3.career/physical-design-engineer-ic-backend-bitfury/11263,"San Jose,
+Costa Rica",Physical Design Engineer (IC Backend),,backend:design:non tech:dev,5mo
+Bitfury,https://web3.career/physical-design-engineer-ic-backend-bitfury/11262,"San Francisco,
+United States",Physical Design Engineer (IC Backend),,backend:design:non tech:dev,5mo
+Bitski,https://web3.career/senior-accounting-manager-bitski/11261,"San Francisco,
+United States",Senior Accounting Manager,,accounting:senior:nft,5mo
+NEAR,https://web3.career/software-engineer-web-tools-near/11259,"San Francisco,
+United States","Software Engineer, Web Tools",$60k - $120k,dev:web3js:ethereum:javascript:rust,5mo
+Bitcoin Depot,https://web3.career/senior-financial-analyst-bitcoindepot/11258,"Atlanta,
+United States",Senior Financial Analyst,,analyst:finance:senior:ethereum,5mo
+SwissBorg,https://web3.career/fraud-manager-remote-swissborg/11257,"Lisbon,
+Portugal",Fraud Manager (Remote),$95k - $250k,remote:security,5mo
+Ava Labs,https://web3.career/accountant-avalabs/11256,"New York,
+United States",Accountant,$25k - $150k,accounting,5mo
+SwissBorg,https://web3.career/ux-researcher-remote-swissborg/11254,"Amsterdam,
+Netherlands",UX Researcher (Remote),$50k - $135k,remote:design:non tech,5mo
+SwissBorg,https://web3.career/legal-counsel-regulatory-remote-swissborg/11253,"Barcelona,
+Spain",Legal Counsel Regulatory (Remote),,legal:remote,5mo
+Frontrunner,https://web3.career/senior-blockchain-engineer-frontrunner/11252,Remote,Senior Blockchain Engineer,$140k - $200k,dev:senior:blockchain:solidity:solana,5mo
+Frontrunner,https://web3.career/blockchain-engineer-frontrunner/11251,"New York,
+United States",Blockchain Engineer,$110k - $140k,dev:blockchain:solidity:java,5mo
+Okcoin,https://web3.career/kyc-analyst-okcoin/11250,"Gżira, Gżira, Malta",KYC Analyst,,kyc:analyst,5mo
+BlockFi,https://web3.career/partner-development-senior-associate-blockfi/11249,"New York,
+United States",Partner Development Senior Associate,$78k - $200k,senior,5mo
+SwissBorg,https://web3.career/fraud-manager-swissborg/11232,Remote,Fraud Manager,$95k - $250k,security:remote,5mo
+Anatha.io,https://web3.career/front-end-developer-anatha-io/11231,Remote,Front End Developer,$120k - $180k,dev:front end:react:react native:javascript,5mo
+Blockchain.com,https://web3.career/regional-brand-consultant-blockchain/11230,Kenya,Regional Brand Consultant,$40k - $60k,marketing:non tech:consulting,5mo
+Rolla,https://web3.career/senior-react-engineer-a-defi-rolla/11229,Remote,Senior React Engineer â¢ DeFi,$70k - $130k,dev:javascript:react:senior:defi,5mo
+SwissBorg,https://web3.career/community-management-intern-remote-swissborg/11228,Lausanne,Community Management Intern (Remote),$40k - $101k,remote:community manager:non tech:intern:entry level,5mo
+Cake Pte Ltd,https://web3.career/senior-backend-engineer-scaling-cakedefi/11227,"Singapore,
+Singapore",Senior Backend Engineer (Scaling),$70k - $200k,backend:dev:senior:web3js:ethereum,5mo
+Binance,https://web3.career/senior-qa-engineer-binance/11220,"Singapore,
+Singapore",Senior QA Engineer,$30k - $50k,dev:quality assurance:senior,5mo
+Binance,https://web3.career/junior-devops-engineer-binance/11219,"Singapore,
+Singapore",Junior DevOps Engineer,,devops:dev:junior:entry level,5mo
+Bitcoin Depot,https://web3.career/atm-project-manager-bitcoindepot/11218,"Atlanta,
+United States",ATM Project Manager,$80k - $150k,project manager:non tech:ethereum,5mo
+Binance,https://web3.career/junior-technical-support-engineer-binance/11217,"Singapore,
+Singapore",Junior Technical Support Engineer,$45k - $180k,dev:junior:entry level:customer support,5mo
+Binance,https://web3.career/junior-data-analyst-binance/11216,"Singapore,
+Singapore",Junior Data Analyst,,analyst:data science:junior:entry level,5mo
+Binance,https://web3.career/junior-qa-test-engineer-payments-binance/11215,"Singapore,
+Singapore",Junior QA & Test Engineer - Payments,$45k - $180k,dev:junior:entry level:quality assurance,5mo

@@ -1,36 +1,63 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Consensys,https://web3.career/defi-market-analyst-consensys/19232,DeFi Market Analyst,$45k - $120k,analyst:defi:remote:ethereum,3mo
-MoonPay,https://web3.career/partner-success-onboarding-analyst-moonpay/19231,Partner Success Onboarding Analyst,$40k - $120k,analyst,3mo
-Gnosis,https://web3.career/senior-frontend-engineer-react-js-web3-m-w-d-gnosis/19230,Senior Frontend Engineer (React.js/Web3) (m/w/d),$50k - $140k,javascript:dev:front end:react:senior,3mo
-Gnosis,https://web3.career/senior-backend-engineer-rust-m-w-d-gnosis/19229,Senior Backend Engineer (Rust) (m/w/d),$50k - $140k,backend:dev:rust:senior:remote,3mo
-Viva Wallet,https://web3.career/blockchain-software-engineer-vivawallet/19228,Blockchain Software Engineer,$50k - $170k,dev:blockchain,3mo
-Islands,https://web3.career/smart-contract-engineer-islands/19226,Smart Contract Engineer,$80k - $200k,dev:smart contract:remote:solana:ethereum,3mo
-MetaMask,https://web3.career/defi-market-analyst-metamask/19222,DeFi Market Analyst,$50k - $120k,analyst:defi:ethereum,3mo
-Hiro,https://web3.career/technical-writer-documentation-hiro/19220,"Technical Writer, Documentation",$45k - $120k,analyst:remote,3mo
-Wintermute,https://web3.career/strategy-operations-mba-intern-summer-2022-wintermute-trading/19219,Strategy & Operations MBA intern - summer 2022,,intern:entry level:operations,3mo
-Alliance DAO,https://web3.career/executive-assistant-remote-defialliance/19218,Executive Assistant (Remote),$79k - $158k,remote:executive:ethereum:dao,3mo
-Wirex Limited,https://web3.career/system-product-owner-system-transactions-wirexlimited/19217,System Product Owner (system transactions),$69k - $160k,product manager:non tech,3mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/desk-operational-manager-coindesk/19216,$DESK Operational Manager,,operations:nft,3mo
-Centrifuge GmbH,https://web3.career/technical-product-manager-centrifuge/19213,Technical Product Manager,$115k - $175k,product manager:non tech:remote,3mo
-Coin Metrics,https://web3.career/technical-research-analyst-coinmetrics/19212,TECHNICAL RESEARCH ANALYST,$36k - $185k,analyst:solana:ethereum,3mo
-BlockFi,https://web3.career/director-of-product-management-yield-products-blockfi/19211,"Director of Product Management, Yield Products",$135k - $170k,executive:product manager:non tech,3mo
-ArtWallStreet,https://web3.career/build-infrastructure-for-nfts-lead-engineer-go-web3-artwallstreet/19210,"Build infrastructure for NFTs / Lead engineer, Go, web3",$70k - $120k,dev:golang:lead:nft:solidity,3mo
-Asva Labs,https://web3.career/blockchain-developer-asva-labs-2/19209,Blockchain Developer,$0k,dev:blockchain:solidity:ethereum:nft,3mo
-Parity Technologies,https://web3.career/project-manager-ecosystem-business-development-operations-parity/19207,"Project Manager, Ecosystem & Business Development Operations",,sales:non tech:operations:project manager:remote,3mo
-Crypto.com,https://web3.career/tech-recruiter-global-fintech-startup-crypto-com/19206,Tech Recruiter - Global Fintech Startup,,finance:recruiter:non tech,3mo
-peaq,https://web3.career/marketing-operations-manager-m-w-d-3858159-marketing-operations-manager-m-w-d-utm_source-google_jobs_apply-pid-bce1fbd2f366390046fc/19205,Marketing Operations Manager (m/w/d),,marketing:non tech:operations:remote,3mo
-Web3 Foundation,https://web3.career/technical-grants-lead-web3foundation/19201,Technical Grants Lead,$100k - $180k,lead:javascript:rust:remote,3mo
-Vauld,https://web3.career/recruitment-marketing-lead-principal-vauld/19200,Recruitment Marketing Lead/ Principal,$50k - $120k,lead:marketing:non tech:executive:recruiter,3mo
-Ripple,https://web3.career/senior-product-marketing-manager-ripplenet-competitive-analysis-ripple/19199,"Senior Product Marketing Manager, RippleNet Competitive Analysis",$46k - $109k,marketing:non tech:senior,3mo
-Blockchain.com,https://web3.career/senior-site-reliability-engineer-low-latency-tooling-blockchain/19198,Senior Site Reliability Engineer - Low Latency (Tooling),$150k - $200k,dev:sys admin:senior,3mo
-Blockchain.com,https://web3.career/senior-site-reliability-engineer-low-latency-hardware-blockchain/19197,Senior Site Reliability Engineer - Low Latency (Hardware),,dev:hardware:sys admin:senior,3mo
-Rarible,https://web3.career/senior-frontend-engineer-react-rarible/19192,Senior Frontend Engineer (React),$50k - $140k,dev:front end:javascript:react:senior,3mo
-SwissBorg,https://web3.career/german-customer-service-agent-remote-in-estonia-swissborg/19190,German Customer Service Agent (Remote in Estonia),$40k - $80k,remote:customer support,3mo
-SwissBorg,https://web3.career/german-customer-service-agent-swissborg/19189,German Customer Service Agent,$40k - $80k,customer support,3mo
-Nuri,https://web3.career/senior-software-engineer-platform-golang-nuri/19175,Senior Software Engineer - Platform (Golang),$65k - $150k,dev:golang:senior:remote,3mo
-Careem,https://web3.career/staff-software-engineer-i-architecture-careem/19172,Staff Software Engineer I (Architecture),$33k - $140k,dev:java,3mo
-Neon Labs,https://web3.career/technical-product-manager-neon-labs/19171,Technical Product Manager,$115k - $175k,product manager:non tech:remote:solana,3mo
-PowerTrade,https://web3.career/customer-experience-specialist-japan-korea-markets-powertrade/19169,Customer Experience Specialist (Japan & Korea Markets),$40k - $80k,customer support:remote,3mo
-NFT Grails,https://web3.career/nft-crypto-chief-marketing-office-nft-grails/19167,NFT / Crypto Chief Marketing Office,$85k - $140k,executive:marketing:non tech:crypto:nft,3mo
-SZNS,https://web3.career/fullstack-developer-node-react-szns/19165,"Fullstack Developer (Node, React)",$65k - $180k,dev:full stack:javascript:node:react,3mo
-Arpeggi Labs,https://web3.career/senior-full-stack-engineer-arpeggi-labs/19115,Senior Full-stack Engineer,$120k - $200k,dev:full stack:senior:remote:music,3mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Public,https://web3.career/product-manager-global-payments-public/19957,"New York,
+United States","Product Manager, Global Payments",$69k - $160k,product manager:non tech,3mo
+Floating Point Group,https://web3.career/trading-operations-analyst-fpg/19956,United States,Trading Operations Analyst,,analyst:operations,3mo
+Nuri,https://web3.career/senior-product-manager-trading-nuri/19954,"Berlin,
+Germany",Senior Product Manager - Trading,$80k - $150k,product manager:non tech:senior:remote:ethereum,3mo
+LATOKEN,https://web3.career/senior-customer-satisfaction-manager-app-rating-latoken/19953,Remote,Senior Customer Satisfaction Manager App Rating,$80k - $200k,senior:remote:solidity,3mo
+Trust Machines,https://web3.career/smart-contract-developer-trustmachines/19952,Remote,Smart Contract Developer,$80k - $180k,dev:smart contract:react:remote,3mo
+Notabene,https://web3.career/senior-software-engineer-notabene/19951,"New York,
+United States",Senior Software Engineer,$80k - $200k,dev:senior,3mo
+BlockFi,https://web3.career/senior-systems-engineer-blockfi/19950,"New York,
+United States",Senior Systems Engineer,$150k - $200k,dev:senior:sys admin,3mo
+Autograph,https://web3.career/marketing-coordinator-music-entertainment-autograph/19949,"Santa Monica,
+United States",Marketing Coordinator- Music & Entertainment,,marketing:non tech:music:nft,3mo
+Brave,https://web3.career/sr-creative-brand-designer-brave/19948,"San Francisco,
+United States",Sr. Creative/Brand Designer,,marketing:non tech:design:senior:javascript,3mo
+Mem Protocol,https://web3.career/senior-smart-contract-engineer-mem-protocol/19947,"San Francisco,
+United States",Senior Smart Contract Engineer,$120k - $250k,dev:senior:smart contract:solidity,3mo
+Konstellation Korea,https://web3.career/nft-creative-director-konstellation-1/19946,"New York,
+United States",NFT Creative Director,$40k - $70k,executive:nft,3mo
+Ledger,https://web3.career/transactions-payments-program-manager-ledger/19943,"Paris,
+France",Transactions & Payments Program Manager,$70k - $180k,executive,3mo
+GSR,https://web3.career/it-procurement-manager-cryptocurrency-trading-london-gsr/19942,"London,
+United Kingdom",IT Procurement Manager - Cryptocurrency Trading - London,$39k - $140k,crypto,3mo
+BlockFi,https://web3.career/private-client-manager-apac-blockfi/19941,"Hong Kong,
+Hong Kong","Private Client Manager, APAC",,,3mo
+Crypto.com,https://web3.career/talent-acquisition-lead-operations-and-pmo-crypto-com/19939,"Hong Kong,
+Hong Kong",Talent Acquisition Lead (Operations and PMO),,lead:operations:recruiter:non tech,3mo
+Blockchain Smart Solutions,https://web3.career/head-of-marketing-blockchain-smart-solutions/19938,"Sydney,
+Australia",Head of Marketing,$90k - $120k,executive:marketing:non tech,3mo
+Blockchain Smart Solutions,https://web3.career/social-media-manager-blockchain-smart-solutions/19937,"Sydney,
+Australia",Social Media Manager,$0k,social media:non tech,3mo
+STRV,https://web3.career/blockchain-engineer-strv/19935,"Prague,
+Czech Republic",Blockchain Engineer,,dev:blockchain:solidity:smart contract:node,3mo
+Cake DeFi,https://web3.career/vice-president-operations-cake-defi-1/19933,"Singapore,
+Singapore","Vice President, Operations",$60k - $200k,operations,3mo
+Samsung Research America Internship,https://web3.career/2022-ar-ux-prototyping-intern-unity-samsungresearchamericainternship/19931,"Mountain View,
+United States",2022 AR UX Prototyping Intern (Unity),$18k - $28k,intern:entry level:design:non tech,3mo
+Aleph.im,https://web3.career/frontend-design-system-developer-aleph-im/19929,Remote,Frontend Design System Developer,$80k - $150k,design:non tech:dev:front end:remote,3mo
+Konstellation Korea,https://web3.career/cosmos-blockchain-sdk-engineer-konstellation-1/19928,"New York,
+United States",Cosmos Blockchain SDK Engineer,$33k - $83k,dev:blockchain:react:ethereum:golang,3mo
+block42 Blockchain Company,https://web3.career/social-media-specialist-community-manager-block42/19927,Austria,Social Media Specialist / Community Manager,$56k - $65k,community manager:non tech:social media,3mo
+Blockchain Smart Solutions,https://web3.career/blockchain-instructors-blockchain-smart-solutions/19926,"Sydney,
+Australia",Blockchain Instructors,$60k - $70k,blockchain:nft,3mo
+PolySign,https://web3.career/blockchain-development-team-lead-polysign/19925,United States,Blockchain Development Team Lead,$90k - $160k,lead:blockchain:rust,3mo
+Next Big Thing AG,https://web3.career/cto-and-co-founder-f-m-x-for-zero-defects-our-saas-startup-in-the-field-of-industrial-quality-management-nextbigthing/19924,"Berlin,
+Germany","CTO and co-founder (f/m/x) for ZERO defects, our SaaS startup in the field of industrial quality management",,executive:saas:remote:cto,3mo
+ChainSafe Systems,https://web3.career/senior-blockchain-go-engineer-chainsafe-systems-1/19921,"Toronto,
+Canada",Senior Blockchain Go Engineer,$65k - $150k,dev:golang:senior:blockchain:web3js,3mo
+DAOventures,https://web3.career/web3-product-manager-daoventures/19920,"Singapore,
+Singapore",Web3 Product Manager,$48k - $84k,product manager:non tech:dao,3mo
+ChainSafe Systems,https://web3.career/typescript-engineer-web3-js-chainsafe-systems-1/19917,"Toronto,
+Canada",TypeScript Engineer (Web3.js),$60k - $150k,web3js:javascript:dev:ethereum:node,3mo
+Trust Machines,https://web3.career/business-operations-trustmachines/19914,Remote,Business Operations,$80k - $110k,operations:remote,3mo
+Anchorage Digital,https://web3.career/member-of-design-team-product-designer-us-anchorage/19912,Remote,"Member of Design Team, Product Designer - US",$50k - $135k,design:non tech:remote,3mo
+Treehouse Finance,https://web3.career/strategy-operations-manager-head-treehousefinance/19911,"Singapore,
+Singapore",Strategy & Operations Manager / Head,$150k - $230k,executive:operations,3mo
+Ripple,https://web3.career/senior-staff-engineer-performance-ripplex-ripple/19908,"San Francisco,
+United States","Senior Staff Engineer, Performance, RippleX",$50k - $200k,dev:senior:java:golang:rust,3mo
+Konstellation Korea,https://web3.career/cosmos-blockchain-frontend-engineer-konstellation-1/19907,"New York,
+United States",Cosmos Blockchain Frontend Engineer,$33k - $83k,dev:front end:blockchain:web3js:react,3mo
+Konstellation Korea,https://web3.career/solana-blockchain-frontend-engineer-konstellation-1/19906,"New York,
+United States",Solana Blockchain Frontend Engineer,$33k - $83k,dev:front end:blockchain:web3js:react,3mo

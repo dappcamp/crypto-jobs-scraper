@@ -1,36 +1,54 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Tron,https://web3.career/software-engineer-rainberry/687,Software Engineer,$50k - $200k,dev:java:rust,7mo
-Tron,https://web3.career/senior-software-engineer-dlive-rainberry/686,"Senior Software Engineer, DLive",$80k - $200k,dev:senior,7mo
-Tron,https://web3.career/senior-software-engineer-android-rainberry/685,"Senior Software Engineer, Android",,android:mobile:dev:senior:java,7mo
-Tron,https://web3.career/senior-frontend-webrtc-engineer-rainberry/684,Senior Frontend & WebRTC Engineer,$70k - $190k,dev:front end:senior:react:javascript,7mo
-Tron,https://web3.career/senior-devops-engineer-site-reliability-engineer-sre-rainberry/683,Senior DevOps Engineer / Site Reliability Engineer (SRE),$150k - $180k,devops:dev:sys admin:senior,7mo
-Tron,https://web3.career/c-developer-rainberry/682,C++ Developer,$100k - $150k,c:c plus plus:dev:javascript:node,7mo
-Tron,https://web3.career/android-developer-dlive-rainberry/681,Android Developer (Dlive),,android:mobile:dev,7mo
-Tron,https://web3.career/web-wallet-web-developer-rainberry/680,Web Wallet Web Developer,$56k - $160k,dev:react:javascript:node,7mo
-Careers at Paxful,https://web3.career/technical-product-manager-paxoffice-paxful/679,Technical Product Manager - PaxOffice,,product manager:non tech:react:php,7mo
-Careers at Paxful,https://web3.career/senior-ux-designer-mobile-paxful/678,Senior UX Designer - Mobile,,design:non tech:mobile:senior,7mo
-Careers at Paxful,https://web3.career/senior-ui-interaction-designer-mobile-paxful/677,Senior UI & Interaction Designer - Mobile,,design:non tech:mobile:senior,7mo
-Careers at Paxful,https://web3.career/senior-product-manager-compliance-anti-fraud-paxful/676,Senior Product Manager - Compliance & Anti-Fraud,,compliance:security:product manager:non tech:senior,7mo
-Careers at Paxful,https://web3.career/senior-product-manager-compliance-paxful/675,Senior Product Manager - Compliance,,compliance:product manager:non tech:senior,7mo
-Careers at Paxful,https://web3.career/senior-product-designer-paxful/674,Senior Product Designer,$60k - $120k,design:non tech:senior,7mo
-Careers at Paxful,https://web3.career/product-manager-south-america-paxful/673,Product Manager - South America,$69k - $160k,product manager:non tech,7mo
-Careers at Paxful,https://web3.career/product-manager-russia-paxful/672,Product Manager - Russia,$69k - $160k,product manager:non tech,7mo
-Careers at Paxful,https://web3.career/product-manager-paxful-pay-paxful/671,Product Manager - Paxful Pay,$69k - $160k,product manager:non tech,7mo
-Careers at Paxful,https://web3.career/product-manager-marketplace-paxful/670,Product Manager - Marketplace,$69k - $160k,product manager:non tech,7mo
-Careers at Paxful,https://web3.career/product-manager-marketplace-paxful/669,Product Manager - Marketplace,$69k - $160k,product manager:non tech,7mo
-Careers at Paxful,https://web3.career/product-manager-marketplace-paxful/668,Product Manager - Marketplace,$69k - $160k,product manager:non tech,7mo
-Careers at Paxful,https://web3.career/product-manager-marketplace-paxful/667,Product Manager - Marketplace,$69k - $160k,product manager:non tech,7mo
-Careers at Paxful,https://web3.career/product-manager-anti-fraud-paxful/666,"Product Manager, Anti-Fraud",,security:product manager:non tech,7mo
-Careers at Paxful,https://web3.career/product-manager-africa-paxful/665,Product Manager - Africa,$69k - $160k,product manager:non tech,7mo
-Careers at Paxful,https://web3.career/director-marketplace-operations-paxful/664,"Director, Marketplace Operations",$150k - $230k,executive:operations,7mo
-Careers at Paxful,https://web3.career/director-marketplace-operations-paxful/663,"Director, Marketplace Operations",$150k - $230k,executive:operations,7mo
-Careers at Paxful,https://web3.career/director-marketplace-operations-paxful/662,"Director, Marketplace Operations",$150k - $230k,executive:operations,7mo
-Careers at Paxful,https://web3.career/senior-motion-designer-creative-paxful/661,Senior Motion Designer-Creative,$60k - $120k,design:non tech:senior,7mo
-Careers at Paxful,https://web3.career/junior-copywriter-paxful/660,Junior Copywriter,,copywriting:junior:entry level,7mo
-Careers at Paxful,https://web3.career/communications-manager-public-relations-paxful/659,"Communications Manager, Public Relations",$45k - $130k,marketing:non tech,7mo
-Careers at Paxful,https://web3.career/legal-counsel-paxful/658,Legal Counsel,$24k - $140k,legal,7mo
-Careers at Paxful,https://web3.career/deputy-general-counsel-paxful/657,Deputy General Counsel,$24k - $140k,legal,7mo
-Careers at Paxful,https://web3.career/wordpress-developer-marketing-paxful/656,WordPress developer - Marketing,$85k - $120k,dev:marketing:non tech:wordpress:react,7mo
-Careers at Paxful,https://web3.career/tech-lead-marketing-paxful/655,Tech Lead - Marketing,$50k - $120k,lead:marketing:non tech:tech lead:react,7mo
-Careers at Paxful,https://web3.career/tech-lead-dev-console-paxful/654,Tech Lead - Dev Console,$140k - $220k,dev:lead:tech lead:react,7mo
-Careers at Paxful,https://web3.career/senior-qa-automation-engineer-dev-console-paxful/653,Senior QA Automation Engineer - Dev Console,$30k - $50k,dev:quality assurance:senior,7mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Binance,https://web3.career/senior-regulatory-advisor-futures-business-binance/1245,"London,
+United Kingdom",Senior Regulatory Advisor - Futures Business,,legal:senior,7mo
+Chainlink Labs,https://web3.career/sfdc-advanced-admin-chainlink/1242,Remote,SFDC Advanced Admin,$56k - $160k,remote,7mo
+BitMEX,https://web3.career/senior-software-engineer-frontend-web-bitmex/1241,"Singapore,
+Singapore",Senior Software Engineer - Frontend Web,$70k - $190k,dev:front end:senior:react,7mo
+Binance,https://web3.career/operations-specialist-turkey-binance/1240,"Istanbul,
+Turkey",Operations Specialist Turkey,$60k - $200k,operations,7mo
+Blue Cube Services,https://web3.career/kyc-analyst-contractor-cryptocurrency-bluecubeservices/1239,"Istanbul,
+Turkey",KYC Analyst (Contractor) - Cryptocurrency,,kyc:analyst:crypto,7mo
+Kraken Digital Asset Exchange,https://web3.career/director-of-brand-strategy-kraken/1238,Remote,Director of Brand Strategy,$70k - $158k,marketing:non tech:executive:remote,7mo
+BitMEX,https://web3.career/senior-software-engineer-digital-and-creative-bitmex/1237,"Singapore,
+Singapore",Senior Software Engineer - Digital and Creative,$70k - $180k,dev:senior:react,7mo
+Chainlink Labs,https://web3.career/automation-and-process-design-leader-chainlink/1236,Remote,Automation and Process Design Leader,$40k - $190k,design:non tech:lead:remote,7mo
+Kraken Digital Asset Exchange,https://web3.career/operations-associate-platform-kraken/1235,Remote,"Operations Associate, Platform",,operations:ethereum:remote,7mo
+Binance,https://web3.career/head-of-community-management-apac-binance/1234,Asia,Head of Community Management - APAC,$45k - $150k,executive:community manager:non tech,7mo
+Ava Labs,https://web3.career/white-hat-hacker-blockchain-protocol-avalabs/1233,"San Francisco,
+United States",White Hat Hacker (Blockchain Protocol),$50k - $120k,blockchain:golang,7mo
+StageOne,https://web3.career/blockchain-analyst-stageone/1232,"Austin,
+United States",Blockchain Analyst,$60k - $104k,analyst:blockchain,7mo
+Kraken Digital Asset Exchange,https://web3.career/crypto-content-writer-freelance-kraken/1230,Remote,Crypto Content Writer - Freelance,,copywriting:crypto:remote,7mo
+Chainalysis,https://web3.career/cybercrimes-investigator-chainalysis/1229,United States,Cybercrimes Investigator,,,7mo
+Kraken Digital Asset Exchange,https://web3.career/senior-operations-associate-kraken/1228,"London,
+United Kingdom",Senior Operations Associate,,operations:senior:ethereum,7mo
+CoinGecko,https://web3.career/lead-software-engineer-l4-coin-gecko/1227,Remote,Lead Software Engineer (L4),$100k - $200k,dev:lead:remote,7mo
+Axoni,https://web3.career/software-engineer-blockchain-platform-axoni/1226,Remote,Software Engineer - Blockchain Platform,$70k - $190k,dev:blockchain:remote,7mo
+Ava Labs,https://web3.career/senior-data-engineer-blockchain-analytics-avalabs/1225,"San Francisco,
+United States",Senior Data Engineer (Blockchain Analytics),,stats:data science:dev:senior:blockchain,7mo
+Axoni,https://web3.career/senior-software-engineer-blockchain-platform-axoni/1224,Remote,Senior Software Engineer - Blockchain Platform,$80k - $200k,dev:senior:blockchain:remote,7mo
+Revolut,https://web3.career/head-of-authorisations-crypto-revolut/1223,Remote,Head of Authorisations (Crypto),$79k - $158k,executive:crypto:remote,7mo
+Chainalysis,https://web3.career/business-development-representative-chainalysis/1222,"Washington,
+United States",Business Development Representative,$26k - $140k,sales:non tech,7mo
+Revolut,https://web3.career/tech-lead-crypto-revolut/1221,"London,
+United Kingdom",Tech Lead (Crypto),,lead:tech lead:crypto,7mo
+Blockchain.com,https://web3.career/site-reliability-engineer-coin-nodes-blockchain/1220,"San Francisco,
+United States","Site Reliability Engineer, Coin Nodes",,dev:sys admin:ethereum:golang,7mo
+ExPopulus,https://web3.career/blockchain-developer-expopulus/1219,"San Francisco,
+United States",Blockchain Developer,$40k - $125k,dev:blockchain:nft,7mo
+Reddit,https://web3.career/senior-lead-business-marketing-crypto-disruptors-mobile-gaming-reddit/1217,"San Francisco,
+United States","Senior Lead, Business Marketing - Crypto, Disruptors, Mobile Gaming",,game dev:lead:marketing:non tech:mobile,7mo
+GSR,https://web3.career/defi-full-stack-engineer-python-java-c-gsr/1216,"Singapore,
+Singapore",DeFi - Full Stack Engineer (Python/Java/C++),$100k - $150k,c:c plus plus:dev:full stack:java,7mo
+Blockchain.com,https://web3.career/sales-operations-associate-blockchain/1215,"Miami,
+United States",Sales Operations Associate,,operations:sales:non tech,7mo
+DeSo Foundation,https://web3.career/senior-software-engineer-deso/1213,United States,Senior Software Engineer,$80k - $200k,dev:senior:ethereum,7mo
+River Financial,https://web3.career/engineering-manager-bitcoin-custody-wallet-riverfinancial/1209,"San Francisco,
+United States",Engineering Manager - Bitcoin Custody & Wallet,,executive:btc,7mo
+Metaview Entertainment,https://web3.career/blockchain-engineer-metaviewentertainment/1207,"Los Angeles,
+United States",Blockchain Engineer,$52k - $160k,dev:blockchain:solidity:solana:node,7mo
+Messari,https://web3.career/senior-cryptoasset-research-analyst-messari/1203,Remote,Senior Cryptoasset Research Analyst,,analyst:senior:remote,7mo
+Chainlink Labs,https://web3.career/senior-product-design-manager-chainlink/1202,Remote,Senior Product Design Manager,,executive:design:non tech:senior:remote,7mo
+Chainlink Labs,https://web3.career/visual-design-project-manager-chainlink/1201,Remote,Visual Design Project Manager,,design:non tech:project manager:remote,7mo
+Messari,https://web3.career/research-editor-messari/1200,Remote,Research Editor,$56k - $160k,remote,7mo
+Metal,https://web3.career/blockchain-business-development-lead-metalpay/1198,Remote,Blockchain Business Development Lead,,sales:non tech:lead:blockchain:remote,7mo

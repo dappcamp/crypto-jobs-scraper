@@ -1,36 +1,52 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-GSR,https://web3.career/2022-graduate-program-business-development-analyst-gsr/14371,2022 Graduate Program - Business Development Analyst,,analyst:sales:non tech:intern:entry level,4mo
-Polygon,https://web3.career/product-marketing-specialist-polygon/14370,Product Marketing Specialist,$48k - $120k,marketing:non tech:ethereum:remote,4mo
-BC.GAME,https://web3.career/crypto-content-copywriter-bc-game-2/14367,Crypto Content & Copywriter,$0k,copywriting:crypto,4mo
-Consensys,https://web3.career/sr-accounting-manager-consensys/14366,Sr. Accounting Manager,,accounting:senior:ethereum:remote,4mo
-Consensys,https://web3.career/revenue-manager-consensys/14365,Revenue Manager,$60k - $145k,ethereum:remote,4mo
-Consensys,https://web3.career/product-analyst-web3-identity-consensys/14364,Product Analyst - Web3 Identity,$45k - $55k,analyst:ethereum:remote,4mo
-Consensys,https://web3.career/product-analyst-nfts-consensys/14363,Product Analyst - NFTs,$50k - $185k,analyst:nft:ethereum:remote,4mo
-Consensys,https://web3.career/dao-governance-strategist-consensys/14362,DAO Governance Strategist,$79k - $158k,ethereum:nft:remote,4mo
-Binance,https://web3.career/business-development-lead-card-pay-binance/14361,Business Development Lead (Card / Pay),,sales:non tech:lead:remote,4mo
-WOO Network,https://web3.career/talent-acquisition-coordinator-woonetwork/14360,Talent Acquisition Coordinator,$40k - $70k,recruiter:non tech,4mo
-Careers at Paxful,https://web3.career/financial-analyst-paxful/14359,Financial Analyst,,analyst:finance,4mo
-Kronos Research,https://web3.career/talent-acquisition-coordinator-kronosresearch/14358,Talent Acquisition Coordinator,$40k - $70k,recruiter:non tech,4mo
-Bitfury,https://web3.career/senior-backend-developer-go-solidity-bitfury/14356,"Senior Backend Developer (Go, Solidity)",$33k - $160k,backend:dev:golang:senior:solidity,4mo
-Bitfury,https://web3.career/senior-backend-developer-go-solidity-bitfury/14355,"Senior Backend Developer (Go, Solidity)",$33k - $160k,backend:dev:golang:senior:solidity,4mo
-Bitfury,https://web3.career/senior-backend-developer-go-solidity-bitfury/14354,"Senior Backend Developer (Go, Solidity)",$33k - $160k,backend:dev:golang:senior:solidity,4mo
-Horizon Blockchain Games,https://web3.career/technical-writer-sequence-horizon-blockchain-games/14353,Technical Writer (Sequence),$45k - $185k,analyst:ethereum,4mo
-Maker over Starknet,https://web3.career/senior-smart-contract-software-engineer-maker-over-starknet/14352,Senior smart contract Software Engineer,$250k - $290k,dev:senior:smart contract:solidity,4mo
-SwissBorg,https://web3.career/paralegal-swissborg/14351,Paralegal,$56k - $160k,remote,4mo
-Wallfair,https://web3.career/solidity-developer-full-time-3469051-solidity-developer-full-time-utm_source-google_jobs_apply-pid-bce1fbd2f366390046fc/14350,Solidity Developer (Full Time),$90k - $135k,dev:full time:solidity:react:ethereum,4mo
-Stardust Cards Corporation,https://web3.career/unity-unreal-plugin-developer-stardust/14349,Unity & Unreal Plugin Developer,$65k - $180k,dev:remote,4mo
-Stardust Cards Corporation,https://web3.career/qa-manager-stardust/14348,QA Manager,,quality assurance:remote,4mo
-Gauntlet Networks,https://web3.career/senior-accountant-gauntlet/14347,Senior Accountant,,accounting:senior:remote,4mo
-Crypto.com,https://web3.career/risk-systems-analyst-night-shifts-crypto-com/14346,Risk Systems Analyst (Night Shifts),$40k - $120k,analyst,4mo
-Binance,https://web3.career/product-manager-crypto-wallet-binance/14345,Product Manager (Crypto Wallet),$60k - $160k,product manager:non tech:crypto,4mo
-Blockswap,https://web3.career/cryptography-engineer-blockswap/14344,Cryptography Engineer,$90k - $180k,dev:nft:remote,4mo
-WOO Network,https://web3.career/app-automation-qa-engineer-woonetwork/14343,App Automation QA Engineer,$30k - $50k,dev:quality assurance:java,4mo
-Nuri,https://web3.career/people-operations-manager-nuri/14342,People Operations Manager,$80k - $110k,operations:remote,4mo
-Gauntlet Networks,https://web3.career/finance-associate-gauntlet/14341,Finance Associate,$40k - $100k,finance:remote,4mo
-CoinGecko,https://web3.career/internship-software-engineer-web-or-mobile-coin-gecko/14340,Internship (Software Engineer - Web or Mobile),$12k - $33k,dev:intern:entry level:mobile:solidity,4mo
-Crypto.com,https://web3.career/blockchain-security-engineeer-backend-rust-sg-crypto-com/14338,Blockchain Security Engineeer - Backend (Rust) (SG),,backend:rust:security:blockchain:ethereum,4mo
-Nuri,https://web3.career/senior-software-engineer-platform-golang-nuri/14337,Senior Software Engineer - Platform (Golang),$65k - $150k,dev:golang:senior:remote,4mo
-Caiz Holding AG,https://web3.career/network-administrator-3485478-network-administrator/14336,Network Administrator,$56k - $160k,remote,4mo
-Crypto.com,https://web3.career/blockchain-security-engineeer-backend-rust-hk-crypto-com/14335,Blockchain Security Engineeer - Backend (Rust) (HK),,backend:rust:security:blockchain:ethereum,4mo
-Queueco,https://web3.career/defi-algorithmic-trader-queueco/14334,DeFi Algorithmic Trader,,trader:defi:ethereum,4mo
-Honeywell,https://web3.career/pre-sales-engineer-building-management-systems-honeywell/14333,Pre-Sales Engineer (Building Management Systems),,dev:sales:non tech:solidity,4mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Zeta Markets,https://web3.career/lead-product-designer-zeta-markets/15065,Remote,Lead Product Designer,$40k - $190k,design:non tech:lead:remote:solana,4mo
+Zeta Markets,https://web3.career/smart-contract-developer-zeta-markets/15064,Remote,Smart Contract Developer,$80k - $200k,dev:smart contract:remote:solana:javascript,4mo
+Mango Labs,https://web3.career/software-engineer-frontend-mango-labs/15061,United States,Software Engineer - Frontend,$36k - $120k,dev:front end:web3js:react:solana,4mo
+Mango Labs,https://web3.career/trading-systems-engineer-mango-labs/15060,"Chicago,
+United States",Trading Systems Engineer,,dev:sys admin:solana:rust,4mo
+Bridgesplit,https://web3.career/product-designer-bridgesplit/15059,"New York,
+United States",Product Designer,$100k - $150k,design:non tech:solana:nft,4mo
+Bridgesplit,https://web3.career/head-of-business-development-growth-bridgesplit/15058,"New York,
+United States",Head of Business Development/Growth,$40k - $150k,executive:sales:non tech:marketing:solana,4mo
+Aurory,https://web3.career/back-end-engineer-aurory/15057,Remote,Back-end engineer,$60k - $180k,backend:dev:remote:solana:nft,4mo
+Bridgesplit,https://web3.career/junior-full-stack-engineer-bridgesplit/15056,"New York,
+United States",Junior Full-Stack Engineer,$39k - $180k,dev:full stack:junior:entry level:react,4mo
+Bridgesplit,https://web3.career/junior-smart-contract-engineer-bridgesplit/15055,"New York,
+United States",Junior Smart Contract Engineer,$45k - $180k,dev:junior:entry level:smart contract:solana,4mo
+Bridgesplit,https://web3.career/senior-full-stack-engineer-bridgesplit/15054,"New York,
+United States",Senior Full-Stack Engineer,$70k - $180k,dev:full stack:senior:react:solana,4mo
+Bridgesplit,https://web3.career/head-of-community-bridgesplit/15053,"New York,
+United States",Head of Community,$45k - $150k,executive:community manager:non tech:solana:nft,4mo
+Bridgesplit,https://web3.career/senior-smart-contract-engineer-bridgesplit/15052,"New York,
+United States",Senior Smart Contract Engineer,$120k - $250k,dev:senior:smart contract:solana:nft,4mo
+Solana.FM,https://web3.career/frontend-engineer-solana-fm/15049,"Singapore,
+Singapore",Frontend Engineer,$50k - $144k,dev:front end:react:solana:javascript,4mo
+Solana.FM,https://web3.career/rust-engineer-solana-fm/15048,"Singapore,
+Singapore",Rust Engineer,$72k - $144k,dev:rust:solana:ethereum,4mo
+Solana.FM,https://web3.career/senior-net-engineer-solana-fm/15047,"Singapore,
+Singapore",Senior .NET Engineer,$60k - $108k,dot net:dev:senior:solana:ethereum,4mo
+Okcoin,https://web3.career/ukrainian-customer-service-representative-okcoin/15046,Remote,Ukrainian Customer Service Representative,$40k - $80k,customer support:remote,4mo
+Okcoin,https://web3.career/customer-support-quality-assurance-analyst-okcoin/15045,Remote,Customer Support Quality Assurance Analyst,$40k - $95k,analyst:customer support:remote,4mo
+Metaplex Studios,https://web3.career/visual-design-lead-metaplexstudios/15040,United States,Visual Design Lead,$40k - $190k,design:non tech:lead:solana:nft,4mo
+Metaplex Studios,https://web3.career/senior-product-designer-metaplexstudios/15039,United States,Senior Product Designer,$60k - $120k,design:non tech:senior:solana:nft,4mo
+Metaplex Studios,https://web3.career/partnerships-and-development-lead-metaplexstudios/15038,United States,Partnerships and Development Lead,,sales:non tech:lead:solana:nft,4mo
+Metaplex Studios,https://web3.career/name-your-perfect-job-metaplexstudios/15037,United States,Name your perfect job,$95k - $180k,solana:nft,4mo
+Metaplex Studios,https://web3.career/staff-technical-writer-metaplexstudios/15036,United States,Staff Technical Writer,$150k - $185k,analyst:solana:nft,4mo
+Metaplex Studios,https://web3.career/community-developer-full-time-part-time-hourly-or-intern-metaplexstudios/15035,United States,"Community Developer (full-time, part-time, hourly, or intern)",,community manager:non tech:dev:full time:intern,4mo
+Star Atlas,https://web3.career/blockchain-engineer-solana-remote-staratlas/15034,"San Francisco,
+United States",Blockchain Engineer - Solana (Remote),$70k - $190k,remote:dev:blockchain:solana:nft,4mo
+Metaplex Studios,https://web3.career/senior-ui-engineer-react-node-js-metaplexstudios/15032,United States,Senior UI Engineer (React/Node.js),$60k - $155k,javascript:dev:node:react:senior,4mo
+Metaplex Studios,https://web3.career/senior-blockchain-engineer-solana-metaplexstudios/15031,United States,"Senior Blockchain Engineer, Solana",$80k - $200k,dev:senior:blockchain:solana:ethereum,4mo
+Swim,https://web3.career/ux-engineer-swim/15027,Remote,UX Engineer,$80k - $150k,dev:design:non tech:react:solana,4mo
+Star Atlas,https://web3.career/senior-concept-designer-remote-staratlas/15004,"San Francisco,
+United States",Senior Concept Designer (Remote),$50k - $135k,remote:design:non tech:senior,4mo
+Credix,https://web3.career/rust-developer-solana-credix/14986,Brazil,Rust developer (Solana),$75k - $150k,dev:rust:solana,4mo
+Credix,https://web3.career/credit-manager-credix/14985,"Antwerp,
+Belgium",Credit manager,$75k - $150k,,4mo
+Aleo Systems,https://web3.career/community-manager-aleosystems/14983,Remote,Community Manager,$40k - $101k,community manager:non tech:remote,4mo
+Polygon,https://web3.career/global-head-of-people-polygon/14982,Remote,Global Head of People,$79k - $158k,executive:remote:ethereum,4mo
+IANULY Talent Accelerators,https://web3.career/senior-engineer-web3-ianulytalentaccelerators/14981,"San Francisco,
+United States",Senior Engineer Web3,$80k - $200k,dev:senior:solidity:ethereum:rust,4mo
+Aleo Systems,https://web3.career/scrum-master-aleosystems/14980,Remote,Scrum Master,,scrum:remote,4mo
+Phantom,https://web3.career/software-engineer-backend-phantomapp/14977,"San Francisco,
+United States",Software Engineer – Backend,$130k - $200k,backend:dev:react:solidity:solana,4mo

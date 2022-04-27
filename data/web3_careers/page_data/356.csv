@@ -1,36 +1,60 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Wirex Limited,https://web3.career/affiliate-marketing-manager-wirexlimited/10852,Affiliate Marketing Manager,$45k - $130k,marketing:non tech,5mo
-Wirex Limited,https://web3.career/paralegal-wirexlimited/10851,Paralegal,,,5mo
-Wirex Limited,https://web3.career/global-cfo-wirexlimited/10850,Global CFO,$40k - $150k,finance,5mo
-Wirex Limited,https://web3.career/head-of-risk-and-governance-wirexlimited/10849,Head of Risk and Governance,$70k - $180k,executive,5mo
-Wirex Limited,https://web3.career/head-of-internal-audit-wirexlimited/10848,Head of Internal Audit,$70k - $180k,executive,5mo
-Voice,https://web3.career/senior-product-designer-voice/10847,Senior Product Designer,$60k - $120k,design:non tech:senior:nft,5mo
-Voice,https://web3.career/product-designer-voice/10846,Product Designer,$60k - $150k,design:non tech:nft:javascript,5mo
-Voice,https://web3.career/graphic-designer-voice/10845,Graphic Designer,$60k - $150k,design:non tech:nft,5mo
-Voice,https://web3.career/senior-tech-recruiter-voice/10844,Senior Tech Recruiter,$40k - $70k,recruiter:non tech:senior:nft,5mo
-Voice,https://web3.career/don-t-see-what-you-are-looking-for-voice/10843,Don't See What You Are Looking For?,$55k - $150k,nft,5mo
-Voice,https://web3.career/software-engineer-voice/10842,Software Engineer,$60k - $180k,dev:react:nft:javascript:node,5mo
-Voice,https://web3.career/senior-frontend-engineer-voice/10841,Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:nft,5mo
-Voice,https://web3.career/data-analyst-voice/10840,Data Analyst,$36k - $120k,analyst:data science:nft,5mo
-Voice,https://web3.career/manager-corporate-technology-voice/10839,"Manager, Corporate Technology",$55k - $150k,nft,5mo
-Valora Inc,https://web3.career/sr-product-manager-valorainc/10838,Sr. Product Manager,$80k - $150k,product manager:non tech:senior,5mo
-Valora Inc,https://web3.career/senior-product-designer-valorainc/10837,Senior Product Designer,$60k - $120k,design:non tech:senior,5mo
-Valora Inc,https://web3.career/head-of-product-valorainc/10836,Head of Product,$135k - $170k,executive:product manager:non tech,5mo
-Valora Inc,https://web3.career/lead-recruiter-valorainc/10835,Lead Recruiter,$40k - $70k,lead:recruiter:non tech,5mo
-Valora Inc,https://web3.career/principal-engineer-valorainc/10834,Principal Engineer,$200k - $400k,dev:executive:react:react native:solidity,5mo
-Valora Inc,https://web3.career/full-stack-engineer-valorainc/10833,Full Stack Engineer,$65k - $180k,dev:full stack:react:react native:solidity,5mo
-Valora Inc,https://web3.career/engineering-manager-valorainc/10832,Engineering Manager,$115k - $150k,executive:react:react native:solidity,5mo
-Thesis*,https://web3.career/head-of-growth-tally-thesis/10831,Head Of Growth - Tally,$70k - $158k,executive:marketing:non tech,5mo
-Thesis*,https://web3.career/community-manager-tally-thesis/10830,Community Manager - Tally,$40k - $100k,community manager:non tech,5mo
-Thesis*,https://web3.career/smart-contracts-engineer-tally-thesis/10829,Smart Contracts Engineer - Tally,$72k - $200k,dev:smart contract:solidity:javascript,5mo
-Telcoin,https://web3.career/managing-consultant-telcoin/10828,Managing Consultant,$80k - $200k,consulting,5mo
-Telcoin,https://web3.career/software-engineer-rust-telcoin/10827,Software Engineer: Rust,$75k - $190k,dev:rust,5mo
-Telcoin,https://web3.career/application-security-engineer-telcoin/10826,Application Security Engineer,,dev:security:rust,5mo
-Symbiont,https://web3.career/blockchain-platform-engineer-symbiont/10825,Blockchain Platform Engineer,$65k - $160k,dev:blockchain:node,5mo
-SuperRare Labs,https://web3.career/product-designer-superrarelabs/10824,Product Designer,$80k - $150k,design:non tech:ethereum:nft,5mo
-SuperRare Labs,https://web3.career/swag-merchandising-coordinator-superrarelabs/10823,Swag Merchandising Coordinator,$70k - $158k,ethereum:nft,5mo
-SuperRare Labs,https://web3.career/seo-manager-superrarelabs/10822,SEO Manager,,seo:non tech:ethereum:nft,5mo
-SuperRare Labs,https://web3.career/head-of-performance-marketing-superrarelabs/10821,Head of Performance Marketing,$70k - $158k,executive:marketing:non tech:ethereum:nft,5mo
-SuperRare Labs,https://web3.career/brand-and-marketing-copywriter-superrarelabs/10820,Brand and Marketing Copywriter,$25k - $96k,marketing:non tech:copywriting:ethereum:nft,5mo
-SuperRare Labs,https://web3.career/frontend-engineer-superrarelabs/10819,Frontend Engineer,$50k - $144k,dev:front end:react:ethereum:nft,5mo
-SuperRare Labs,https://web3.career/devops-engineer-superrarelabs/10818,DevOps Engineer,$95k - $145k,devops:dev:ethereum:nft:golang,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Binance,https://web3.career/ui-ux-designer-binance-chain-binance/11484,Remote,UI/UX Designer (Binance Chain),$50k - $135k,design:non tech:remote,5mo
+Binance,https://web3.career/junior-soc-security-engineer-binance/11483,"Singapore,
+Singapore",Junior SOC Security Engineer,$45k - $180k,dev:junior:entry level:security,5mo
+Binance,https://web3.career/product-manager-binance-chain-binance/11482,Remote,Product Manager (Binance Chain),$115k - $175k,product manager:non tech:remote,5mo
+FreshCut,https://web3.career/senior-frontend-engineer-freshcut/11481,"Los Angeles,
+United States",Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:javascript,5mo
+Binance,https://web3.career/golang-developer-fresh-junior-binance/11480,"Singapore,
+Singapore",Golang Developer - Fresh/Junior,,dev:golang:junior:entry level,5mo
+Binance,https://web3.career/security-engineer-developer-internship-binance/11479,"Singapore,
+Singapore",Security Engineer Developer (Internship),$12k - $33k,dev:intern:entry level:security,5mo
+Binance,https://web3.career/junior-devops-engineer-binance/11478,"Singapore,
+Singapore",Junior DevOps Engineer,,devops:dev:junior:entry level,5mo
+Galaxy Digital Services,https://web3.career/analyst-strategic-solutions-galaxydigitalservices/11477,,"Analyst, Strategic Solutions",$40k - $120k,analyst,5mo
+Kraken Digital Asset Exchange,https://web3.career/hr-generalist-emea-visa-immigration-specialist-kraken/11476,Remote,HR Generalist EMEA- (Visa & Immigration Specialist),$60k - $120k,hr:non tech:remote,5mo
+Kraken Digital Asset Exchange,https://web3.career/program-coordinator-kraken/11475,United States,Program Coordinator,,,5mo
+Binance,https://web3.career/junior-data-analyst-binance/11474,"Singapore,
+Singapore",Junior Data Analyst,,analyst:data science:junior:entry level,5mo
+Binance,https://web3.career/marketing-manager-binance-earn-defi-knowledge-required-binance/11473,Europe,Marketing Manager - Binance Earn (DeFi knowledge required),$60k - $140k,marketing:non tech:defi,5mo
+Kraken Digital Asset Exchange,https://web3.career/crypto-research-analyst-kraken/11472,Remote,Crypto Research Analyst,,analyst:crypto:remote,5mo
+Binance,https://web3.career/smart-contract-security-engineer-intern-binance/11471,"Singapore,
+Singapore",Smart Contract Security Engineer (Intern),$12k - $33k,dev:intern:entry level:security:smart contract,5mo
+Immutable,https://web3.career/head-of-design-immutable/11470,"Sydney,
+Australia",Head of Design,,executive:design:non tech,5mo
+OpenSea,https://web3.career/hrbp-opensea/11469,Remote,HRBP,$56k - $160k,remote,5mo
+OpenSea,https://web3.career/head-of-l-d-opensea/11468,Remote,Head of L&D,$79k - $200k,executive:remote,5mo
+BitGo,https://web3.career/product-marketing-manager-bitgo/11467,"New York,
+United States",Product Marketing Manager,$45k - $130k,marketing:non tech,5mo
+Figment,https://web3.career/staking-product-technical-analyst-figment/11466,"Toronto,
+Canada",Staking Product Technical Analyst,$40k - $120k,analyst,5mo
+Coinsquare,https://web3.career/senior-ux-designer-coinsquare/11465,"Toronto,
+Canada",Senior UX Designer,$60k - $120k,design:non tech:senior:ethereum,5mo
+Coinsquare,https://web3.career/director-ux-coinsquare/11464,"Toronto,
+Canada","Director, UX",,executive:design:non tech:ethereum,5mo
+Public,https://web3.career/user-acquisition-manager-paid-social-public/11463,"New York,
+United States",User Acquisition Manager - Paid Social,$45k - $130k,marketing:non tech,5mo
+BitGo,https://web3.career/product-marketing-manager-bitgo/11462,"Palo Alto,
+United States",Product Marketing Manager,$45k - $130k,marketing:non tech,5mo
+CoinFlip,https://web3.career/director-fp-a-coinflip/11461,"Chicago,
+United States","Director, FP&A",$70k - $180k,executive,5mo
+nft42,https://web3.career/project-manager-bd-nft42/11460,Remote,Project Manager (BD),$55k - $75k,project manager:non tech:nft:remote,5mo
+Coinme,https://web3.career/senior-web-developer-remote-optional-coinme/11459,"Seattle,
+United States",Senior Web Developer (Remote Optional),$85k - $200k,remote:dev:senior:react,5mo
+GSR,https://web3.career/m-a-and-investment-analyst-gsr/11457,"London,
+United Kingdom",M&A and Investment Analyst,,analyst:finance,5mo
+Chainalysis,https://web3.career/sales-director-us-west-chainalysis/11456,"New York,
+United States","Sales Director, US West",$40k - $150k,executive:sales:non tech,5mo
+Bitcoin Depot,https://web3.career/account-manager-bitcoindepot/11455,"Atlanta,
+United States",Account Manager,,account manager:ethereum,5mo
+Newton,https://web3.career/customer-success-team-lead-newton/11454,"Vancouver,
+Canada",Customer Success Team Lead,$25k - $35k,customer support:lead,5mo
+Newton,https://web3.career/customer-success-team-lead-newton/11453,"Montreal,
+Canada",Customer Success Team Lead,$25k - $35k,customer support:lead,5mo
+Newton,https://web3.career/customer-success-team-lead-newton/11452,"Toronto,
+Canada",Customer Success Team Lead,$25k - $35k,customer support:lead,5mo
+cLabs,https://web3.career/solutions-engineer-cbdc-solutions-provo-clabs/11451,Remote,"Solutions Engineer, CBDC Solutions/Provo",$65k - $180k,dev:remote,5mo
+Foundry,https://web3.career/crypto-recruiter-foundrydigital/11450,"New York,
+United States",Crypto Recruiter,$30k - $50k,recruiter:non tech:crypto,5mo
+Figment,https://web3.career/legal-associate-figment/11449,"Toronto,
+Canada",Legal Associate,$24k - $140k,legal,5mo

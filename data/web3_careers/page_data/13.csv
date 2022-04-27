@@ -1,36 +1,58 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Binance,https://web3.career/senior-product-manager-kyc-binance/26084,Senior Product Manager - KYC,,kyc:product manager:non tech:senior,6d
-Binance,https://web3.career/api-product-expert-binance/26083,API Product Expert,$60k - $170k,api:remote,6d
-Binance,https://web3.career/business-data-analyst-latam-binance/26082,Business Data Analyst - Latam,$36k - $85k,analyst:data science,6d
-Espeo Software,https://web3.career/senior-blockchain-developer-espeo/26081,Senior Blockchain Developer,$80k - $200k,dev:senior:blockchain:solidity:node,6d
-Polygon,https://web3.career/pr-coordinator-enterprise-and-defi-polygon/26080,PR Coordinator (Enterprise and DeFi),$60k - $140k,marketing:non tech:defi:remote:ethereum,6d
-CI&T,https://web3.career/blockchain-and-nodejs-developer-sr-ciandt/26079,Blockchain and NodeJS Developer Sr,$56k - $155k,dev:javascript:node:blockchain:solidity,6d
-Bento Box Entertainment,https://web3.career/nft-senior-producer-bento-box-entertainment/26078,NFT Senior Producer,$90k - $200k,senior:nft,6d
-Parity Technologies,https://web3.career/devsecops-lead-parity/26077,DevSecOps Lead,$95k - $200k,lead:remote,6d
-Consensys,https://web3.career/social-media-associate-metamask-consensys/26076,Social Media Associate (MetaMask),$35k - $110k,social media:non tech:remote:ethereum,6d
-Paradigm,https://web3.career/systems-administrator-paradigm-xyz/26075,Systems Administrator,$150k - $200k,sys admin,6d
-Improbable,https://web3.career/finance-business-partner-improbable/26074,Finance Business Partner,$40k - $150k,finance,6d
-Foxit Software,https://web3.career/devops-engineer-foxitsoftware/26073,DevOps Engineer,$95k - $145k,devops:dev:solidity,6d
-Braintrust,https://web3.career/senior-ux-writer-content-designer-remote-braintrust/26072,Senior UX Writer/Content Designer [REMOTE],$50k - $150k,remote:design:non tech:senior,6d
-Ethereum Push Notification Service,https://web3.career/business-development-specialist-ethereum-push-notification-service/26071,Business Development Specialist,$0k,sales:non tech:ethereum,6d
-Ethereum Push Notification Service,https://web3.career/marketing-manager-ethereum-push-notification-service/26070,Marketing Manager,$0k,marketing:non tech:ethereum,6d
-Ethereum Foundation,https://web3.career/web3-engineer-ethereum-foundation/26069,Web3 Engineer,$0k,dev:remote:react:solidity:ethereum,6d
-CANDY,https://web3.career/manager-engineering-candy/26068,"Manager, Engineering",$67k - $175k,react:nextjs,6d
-Polygon,https://web3.career/senior-technical-recruiter-polygon/26067,Senior Technical Recruiter,$40k - $70k,recruiter:non tech:senior:ethereum,6d
-Polygon,https://web3.career/recruiting-manager-polygon/26066,Recruiting Manager,,recruiter:non tech:ethereum,6d
-Chainstack,https://web3.career/technical-operations-manager-remote-chainstack/26065,Technical Operations Manager (remote),$80k - $110k,remote:operations,6d
-Syndica,https://web3.career/senior-fullstack-engineer-syndica/26064,Senior Fullstack Engineer,$90k - $200k,dev:full stack:senior:remote:react,6d
-Syndica,https://web3.career/senior-go-rust-engineer-syndica/26063,Senior Go/Rust Engineer,$40k - $160k,dev:golang:rust:senior:remote,6d
-Solana Foundation,https://web3.career/general-manager-growth-vietnam-solanafoundation/26062,"General Manager Growth, Vietnam",$70k - $158k,executive:marketing:non tech:solana,6d
-Solana Foundation,https://web3.career/general-manager-growth-indonesia-solanafoundation/26061,"General Manager Growth, Indonesia",$70k - $158k,executive:marketing:non tech:solana,6d
-Solana Foundation,https://web3.career/general-manager-growth-india-solanafoundation/26060,"General Manager Growth, India",$70k - $158k,executive:marketing:non tech:solana,6d
-Fizol,https://web3.career/web3-developer-fizol/26059,Web3 Developer,$0k,dev:react:react native:solidity:ethereum,6d
-NAHC Limited,https://web3.career/product-uxui-designer-nahc/26058,Product UXUI Designer,$60k - $150k,design:non tech:nft,6d
-NAHC Limited,https://web3.career/data-scientist-nahc/26056,Data Scientist,$50k - $150k,data science:nft,6d
-Binance,https://web3.career/incident-manager-binance/26055,Incident Manager,$50k - $150k,,7d
-NAHC Limited,https://web3.career/marketing-analyst-user-acquisition-nahc/26054,Marketing Analyst (User Acquisition),,analyst:marketing:non tech,7d
-NAHC Limited,https://web3.career/account-manager-metaverse-nft-gamefi-nahc/26053,Account Manager (Metaverse / NFT / GameFi),,account manager:metaverse:nft,7d
-Okcoin,https://web3.career/manager-business-recruiting-okcoin/26052,"Manager, Business Recruiting",$40k - $70k,recruiter:non tech,7d
-Nova,https://web3.career/nova-global-ambassador-program-nova/26051,Nova Global Ambassador Program,$80k - $180k,remote:solana,7d
-TreasureDAO,https://web3.career/front-end-developer-treasuredao/26050,Front-End Developer,,dev:front end:remote:node:nextjs,7d
-Aptos,https://web3.career/strategy-associate-aptoslabs/26048,Strategy Associate,$50k - $150k,,7d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Crypto.com,https://web3.career/junior-account-manager-emea-seeking-graduates-or-entry-level-applicant-crypto/26662,Switzerland,Junior Account Manager - EMEA - Seeking Graduates or Entry level Applicant,,account manager:junior:entry level,5d
+Crypto.com,https://web3.career/senior-frontend-developer-new-venture-global-fintech-startup-crypto/26661,"Hong Kong,
+Hong Kong",Senior Frontend Developer (New Venture) - Global Fintech Startup,,dev:finance:front end:senior,5d
+Crypto.com,https://web3.career/devops-engineer-global-fintech-startup-crypto/26660,"London,
+United Kingdom",DevOps Engineer - Global Fintech Startup,,devops:dev:finance,5d
+Crypto.com,https://web3.career/backend-engineer-business-automation-global-fintech-startup-crypto/26659,"Hong Kong,
+Hong Kong",Backend Engineer (Business Automation) - Global Fintech Startup,$170k - $250k,backend:dev:finance:javascript:node,5d
+Crypto.com,https://web3.career/devops-engineer-crypto/26658,Taiwan,DevOps Engineer,$60k - $180k,devops:dev,5d
+Crypto.com,https://web3.career/quality-assurance-engineer-global-fintech-startup-crypto/26657,"Dublin,
+Ireland",Quality Assurance Engineer - Global Fintech startup,,dev:finance:quality assurance,5d
+Crypto.com,https://web3.career/backend-engineer-business-automation-global-fintech-startup-crypto/26656,"London,
+United Kingdom",Backend Engineer (Business Automation) - Global Fintech Startup,$170k - $250k,backend:dev:finance,5d
+Crypto.com,https://web3.career/product-manager-associate-product-manager-crypto/26655,"Hong Kong,
+Hong Kong",Product Manager / Associate Product Manager,$67k - $160k,product manager:non tech,5d
+Crypto.com,https://web3.career/senior-motion-graphics-designer-core-team-crypto/26654,"Singapore,
+Singapore",Senior Motion Graphics Designer (Core Team),$11k - $80k,design:non tech:vfx:senior:nft,5d
+Terraform Labs,https://web3.career/software-engineer-nebula-terra/26653,Remote,Software Engineer (Nebula),$65k - $150k,dev:remote:ethereum,5d
+Crypto.com,https://web3.career/blockchain-developer-evangelist-crypto/26652,"Hong Kong,
+Hong Kong",Blockchain Developer Evangelist,$50k - $160k,dev:blockchain,5d
+Gnosis,https://web3.career/web3-event-manager-m-f-d-gnosis/26651,"Lisbon,
+Portugal",Web3 Event Manager (m/f/d),,events manager:non tech:ethereum,5d
+Crypto.com,https://web3.career/art-director-nft-global-fintech-startup-crypto/26650,"Hong Kong,
+Hong Kong",Art Director (NFT) - Global Fintech Startup,$120k - $225k,executive:finance:nft,5d
+Crypto.com,https://web3.career/senior-3d-artist-nft-crypto/26649,"Singapore,
+Singapore",Senior 3D Artist (NFT),,vfx:non tech:senior:nft,5d
+Crypto.com,https://web3.career/blockchain-security-engineer-backend-javascript-ireland-crypto/26648,"Singapore,
+Singapore",Blockchain Security Engineer (Backend) - Javascript (Ireland),$60k - $140k,backend:dev:javascript:security:blockchain,5d
+Crypto.com,https://web3.career/defi-engineer-crypto/26647,"Hong Kong,
+Hong Kong",DeFi Engineer,$70k - $200k,dev:defi,5d
+Crypto.com,https://web3.career/insights-and-strategy-manager-nft-crypto/26646,"Hong Kong,
+Hong Kong",Insights and Strategy Manager (NFT),$55k - $150k,nft,5d
+Polygon,https://web3.career/senior-blockchain-engineer-polygon-edge-polygon/26645,Any,Senior Blockchain Engineer - Polygon Edge,$80k - $200k,dev:senior:blockchain:remote:ethereum,5d
+Polygon,https://web3.career/senior-business-development-manager-apac-polygon/26644,APAC,Senior Business Development Manager – APAC,$50k - $150k,sales:non tech:senior:ethereum,5d
+Polygon,https://web3.career/business-development-manager-vietnam-polygon/26643,APAC,Business Development Manager – Vietnam,$29k - $43k,sales:non tech:ethereum,5d
+Polygon,https://web3.career/business-development-manager-south-korea-polygon/26642,APAC,Business Development Manager – South Korea,$29k - $43k,sales:non tech:ethereum,5d
+Polygon,https://web3.career/business-development-associate-eu-polygon/26641,Europe,Business Development Associate – EU,$29k - $43k,sales:non tech:ethereum,5d
+Crypto.com,https://web3.career/application-support-engineer-global-fintech-startup-crypto/26640,"London,
+United Kingdom",Application Support Engineer - Global Fintech Startup,,dev:finance:customer support,5d
+Crypto.com,https://web3.career/head-of-finance-global-fintech-startup-crypto/26639,"London,
+United Kingdom",Head of Finance - Global Fintech Startup,$90k - $180k,executive:finance,5d
+Crypto.com,https://web3.career/product-designer-internal-tools-global-fintech-startup-crypto/26638,"Hong Kong,
+Hong Kong",Product Designer (Internal Tools) - Global Fintech Startup,,design:non tech:finance,5d
+Crypto.com,https://web3.career/senior-motion-graphics-designer-core-team-crypto/26637,"Tokyo,
+Japan",Senior Motion Graphics Designer (Core Team),$11k - $80k,design:non tech:vfx:senior:nft,5d
+Crypto.com,https://web3.career/vp-marketing-nft-marketplace-crypto/26636,United States,"VP, Marketing - NFT Marketplace",$70k - $158k,marketing:non tech:executive:nft,5d
+WOO Network,https://web3.career/rust-developer-orderly-network-woonetwork/26635,"Taipei,
+Taiwan",Rust Developer (Orderly Network),$80k - $200k,dev:rust:solana,5d
+Crypto.com,https://web3.career/creative-director-nft-crypto/26634,"Singapore,
+Singapore",Creative Director (NFT),$63k - $180k,executive:nft,5d
+Crypto.com,https://web3.career/community-manager-based-in-canada-crypto/26633,Canada,Community Manager (Based in Canada),$40k - $105k,community manager:non tech,5d
+Crypto.com,https://web3.career/senior-software-engineer-business-automation-crypto/26632,"Sofia,
+Bulgaria",Senior Software Engineer (Business Automation),$70k - $180k,dev:senior:react:javascript:ruby,5d
+Crypto.com,https://web3.career/product-manager-defi-crypto/26631,Germany,Product Manager - DeFi,$100k - $175k,product manager:non tech:defi:remote,5d
+Thesis*,https://web3.career/director-of-finance-thesis-thesis/26630,,Director of Finance - Thesis,$90k - $180k,executive:finance,5d
+Aptos,https://web3.career/product-manager-defi-tradfi-aptos-5/26629,United States,"Product Manager, DeFi & TradFi",$100k - $175k,product manager:non tech:defi,5d
+Binance,https://web3.career/government-affairs-manager-nigeria-binance/26628,"Lagos,
+Nigeria",Government Affairs Manager - Nigeria,$50k - $150k,,5d

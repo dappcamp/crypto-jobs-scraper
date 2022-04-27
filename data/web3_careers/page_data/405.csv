@@ -1,36 +1,49 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Decent Labs,https://web3.career/entrepreneur-in-residence-remote-decentlabs/9095,Entrepreneur in Residence [Remote],$56k - $160k,remote,5mo
-Decent Labs,https://web3.career/head-of-sales-remote-decentlabs/9094,Head of Sales [Remote],$40k - $150k,executive:remote:sales:non tech,5mo
-Decent Labs,https://web3.career/senior-full-stack-developer-remote-decentlabs/9093,Senior Full Stack Developer [Remote],$70k - $200k,remote:dev:full stack:senior,5mo
-Decent Labs,https://web3.career/engineering-manager-remote-decentlabs/9092,Engineering Manager [Remote],$79k - $200k,executive:remote,5mo
-Decent Labs,https://web3.career/user-interface-designer-remote-decentlabs/9091,User Interface Designer [Remote],$50k - $135k,remote:design:non tech,5mo
-CoinFlip,https://web3.career/sr-product-manager-web-platform-and-technology-coinflip/9090,"Sr. Product Manager, Web Platform and Technology",$80k - $150k,product manager:non tech:senior,5mo
-CoinFlip,https://web3.career/sr-product-manager-mobile-platform-and-technology-coinflip/9089,"Sr. Product Manager, Mobile Platform and Technology",,mobile:product manager:non tech:senior,5mo
-CoinFlip,https://web3.career/software-engineer-java-coinflip/9088,Software Engineer - Java,$33k - $140k,dev:java,5mo
-CoinFlip,https://web3.career/senior-product-manager-master-data-management-coinflip/9087,Senior Product Manager - Master Data Management,$80k - $150k,product manager:non tech:senior,5mo
-CoinFlip,https://web3.career/mobile-software-engineer-ios-coinflip/9086,Mobile Software Engineer - IOS,$51k - $109k,dev:ios:mobile,5mo
-CoinFlip,https://web3.career/aws-devops-architect-coinflip/9085,AWS DevOps Architect,,architecture:devops,5mo
-CoinFlip,https://web3.career/aws-customer-data-and-identity-management-architect-coinflip/9084,AWS Customer Data and Identity Management Architect,$67k - $180k,architecture,5mo
-CoinFlip,https://web3.career/recruiting-coordinator-coinflip/9083,Recruiting Coordinator,$40k - $70k,recruiter:non tech,5mo
-CoinFlip,https://web3.career/paid-media-manager-coinflip/9082,Paid Media Manager,,,5mo
-CoinFlip,https://web3.career/manager-product-marketing-coinflip/9081,"Manager, Product Marketing",$45k - $130k,marketing:non tech,5mo
-CoinFlip,https://web3.career/manager-graphic-design-coinflip/9080,"Manager, Graphic Design",$50k - $150k,design:non tech,5mo
-CoinFlip,https://web3.career/director-communications-and-content-coinflip/9079,"Director, Communications and Content",$70k - $180k,executive,5mo
-CoinFlip,https://web3.career/customer-support-agent-coinflip/9078,Customer Support Agent,$40k - $80k,customer support,5mo
-CoinFlip,https://web3.career/anti-money-laundering-associate-coinflip/9077,Anti Money Laundering Associate,,,5mo
-BlockSwap,https://web3.career/full-stack-engineer-frontend-blockswap/9076,Full Stack Engineer - Frontend,$65k - $150k,dev:front end:full stack:solidity:nft,5mo
-BlockSwap,https://web3.career/bd-protocol-integration-blockswap/9075,BD & Protocol Integration,$56k - $165k,nft:remote,5mo
-Bitski,https://web3.career/social-media-manager-bitski/9074,💯 Social Media Manager,$35k - $75k,social media:non tech:nft,5mo
-Bitski,https://web3.career/community-manager-bitski/9073,🌎 Community Manager,$35k - $101k,community manager:non tech:nft,5mo
-Bitski,https://web3.career/senior-frontend-engineer-bitski/9072,👾 Senior Frontend Engineer,$70k - $190k,dev:front end:senior:nft,5mo
-Bitski,https://web3.career/senior-data-engineer-bitski/9071,👾 Senior Data Engineer,$130k - $160k,data science:dev:senior:nft:rust,5mo
-Bitski,https://web3.career/senior-backend-engineer-bitski/9070,👾 Senior Backend Engineer,$70k - $200k,backend:dev:senior:nft,5mo
-Bitski,https://web3.career/senior-mobile-engineer-android-bitski/9069,👾 📱 Senior Mobile Engineer - Android,,android:mobile:dev:senior:nft,5mo
-Bitski,https://web3.career/senior-site-reliability-engineer-bitski/9068,👾 📟 Senior Site Reliability Engineer,$150k - $200k,dev:sys admin:senior:nft,5mo
-Bitski,https://web3.career/lead-site-reliability-engineer-bitski/9067,👾 📟 Lead Site Reliability Engineer,,dev:lead:sys admin:nft,5mo
-Bitski,https://web3.career/open-application-bitski/9066,💯 Open Application,$55k - $150k,nft,5mo
-Async Art,https://web3.career/product-manager-asyncart/9065,Product Manager,$69k - $160k,product manager:non tech:nft:remote,5mo
-Async Art,https://web3.career/social-media-marketing-intern-asyncart/9064,Social Media Marketing Intern,$24k - $48k,intern:entry level:marketing:non tech:social media,5mo
-Async Art,https://web3.career/backend-developer-node-js-asyncart/9063,Backend Developer (Node.js),$65k - $150k,javascript:backend:dev:node:nft,5mo
-3Box Labs,https://web3.career/product-manager-developer-experience-3box/9062,Product Manager: Developer Experience,$135k - $175k,dev:product manager:non tech:remote,5mo
-3Box Labs,https://web3.career/talent-lead-3box/9061,Talent Lead,$40k - $70k,lead:recruiter:non tech:remote,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Immutable,https://web3.career/head-of-product-immutable/9581,"Sydney,
+Australia",Head of Product,$135k - $170k,executive:product manager:non tech,6mo
+Immutable,https://web3.career/associate-producer-immutable/9580,"Sydney,
+Australia",Associate Producer,,,6mo
+Immutable,https://web3.career/head-of-tokens-immutable/9579,Remote,Head of Tokens,$50k - $158k,executive:ethereum:nft:remote,6mo
+Immutable,https://web3.career/general-counsel-immutable/9578,"Sydney,
+Australia",General Counsel,,legal:ethereum,6mo
+Immutable,https://web3.career/did-we-miss-you-immutable/9577,"Sydney,
+Australia",Did we miss you?,,,6mo
+Immutable,https://web3.career/head-of-community-immutable/9576,Remote,Head of Community,$45k - $150k,executive:community manager:non tech:ethereum:remote,6mo
+Immutable,https://web3.career/solutions-consultant-immutable/9575,"Sydney,
+Australia",Solutions Consultant,$40k - $60k,consulting:ethereum,6mo
+Immutable,https://web3.career/lead-solutions-consultant-immutable/9574,"Sydney,
+Australia",Lead Solutions Consultant,,consulting:lead:ethereum,6mo
+Immutable,https://web3.career/head-of-customer-support-immutable/9573,"Sydney,
+Australia",Head of Customer Support,,executive:customer support:nft,6mo
+Immutable,https://web3.career/head-of-marketing-guild-of-guardians-immutable/9572,Remote,Head of Marketing (Guild of Guardians),$70k - $158k,executive:marketing:non tech:remote,6mo
+Immutable,https://web3.career/junior-game-developer-unity-immutable/9571,"Sydney,
+Australia",Junior Game Developer (Unity),,dev:game dev:junior:entry level,6mo
+Immutable,https://web3.career/lead-game-designer-immutable/9570,Remote,Lead Game Designer,$26k - $150k,design:non tech:game dev:lead:remote,6mo
+Immutable,https://web3.career/junior-game-designer-immutable/9569,"Sydney,
+Australia",Junior Game Designer,$26k - $150k,design:non tech:game dev:junior:entry level,6mo
+Immutable,https://web3.career/talent-sourcer-immutable/9568,"Sydney,
+Australia",Talent Sourcer,,recruiter:non tech:ethereum,6mo
+Immutable,https://web3.career/talent-acquisition-lead-gtm-immutable/9567,"Sydney,
+Australia",Talent Acquisition Lead (GTM),$40k - $70k,lead:recruiter:non tech:ethereum,6mo
+Holaplex,https://web3.career/senior-fullstack-software-engineer-holaplex/9566,Remote,Senior Fullstack Software Engineer,$70k - $180k,dev:full stack:senior:react:solana,6mo
+Holaplex,https://web3.career/support-liaison-holaplex/9565,Remote,Support Liaison,,customer support:nft:remote,6mo
+Holaplex,https://web3.career/manager-of-technical-support-holaplex/9564,Remote,Manager of Technical Support,,customer support:nft:remote,6mo
+Holaplex,https://web3.career/community-manager-holaplex/9563,Remote,Community Manager,$35k - $101k,community manager:non tech:nft:remote,6mo
+Holaplex,https://web3.career/business-development-executive-holaplex/9562,Remote,Business Development Executive,$40k - $150k,sales:non tech:executive:nft:remote,6mo
+Hinata Foundation,https://web3.career/blockchain-engineer-hinata/9561,Remote,Blockchain Engineer,$33k - $120k,dev:blockchain:ethereum:nft:remote,6mo
+Hinata Foundation,https://web3.career/social-media-strategist-hinata/9560,Remote,Social Media Strategist,$35k - $110k,social media:non tech:remote,6mo
+Harmony,https://web3.career/sr-software-engineer-cloud-amer-timezones-harmony/9559,Remote,Sr. Software Engineer - Cloud (AMER Timezones),,cloud:dev:senior:remote,6mo
+Harmony,https://web3.career/software-engineer-harmony/9558,Remote,Software Engineer,$63k - $160k,dev:solidity:ethereum:javascript:rust,6mo
+Harmony,https://web3.career/fintech-engineer-for-cross-border-finance-applications-fiat-integrations-harmony/9557,Remote,Fintech Engineer for Cross-Border Finance Applications & Fiat Integrations,$40k - $120k,dev:finance:react:solidity:ethereum,6mo
+Harmony,https://web3.career/developer-relations-engineer-remote-harmony/9556,Remote,Developer Relations Engineer (Remote),,remote:customer support:dev:ethereum,6mo
+Harmony,https://web3.career/cryptography-engineer-for-zero-knowledge-proofs-and-privacy-applications-harmony/9555,Remote,Cryptography Engineer for Zero-Knowledge Proofs and Privacy Applications,$63k - $160k,dev:solidity:ethereum:javascript:golang,6mo
+Harmony,https://web3.career/compiler-engineer-harmony/9554,Remote,Compiler Engineer,$63k - $160k,dev:solidity:ethereum:remote,6mo
+Harmony,https://web3.career/blockchain-protocol-researcher-harmony/9553,Remote,Blockchain Protocol Researcher,$60k - $120k,blockchain:solidity:ethereum:remote,6mo
+Harmony,https://web3.career/social-media-manager-harmony/9552,Remote,Social Media Manager,$35k - $110k,social media:non tech:remote,6mo
+Harmony,https://web3.career/operations-associate-part-time-harmony/9551,Remote,Operations Associate (Part Time),,operations:part time:ethereum:nft:remote,6mo
+Harmony,https://web3.career/content-strategist-harmony/9550,Remote,Content Strategist,$56k - $160k,remote,6mo
+Harmony,https://web3.career/asia-lead-harmony/9549,Remote,Asia Lead,$95k - $200k,lead:remote,6mo
+GSR,https://web3.career/trading-operations-gsr/9548,"New York,
+United States",Trading Operations,$60k - $200k,operations,6mo
+GSR,https://web3.career/quantitative-trader-associate-gsr/9547,"Singapore,
+Singapore","Quantitative Trader, Associate",$31k - $37k,trader,6mo

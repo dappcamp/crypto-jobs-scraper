@@ -1,36 +1,51 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Careers at Paxful,https://web3.career/senior-qa-automation-engineer-paxful/652,Senior QA Automation Engineer,$30k - $50k,dev:quality assurance:senior,7mo
-Careers at Paxful,https://web3.career/senior-python-developer-wallet-paxful/651,Senior Python Developer - Wallet,$79k - $200k,dev:python:senior,7mo
-Careers at Paxful,https://web3.career/senior-infrastructure-engineer-paxful/650,Senior Infrastructure Engineer,,dev:senior:php,7mo
-Careers at Paxful,https://web3.career/qa-automation-engineer-php-marketplace-paxful/649,"QA Automation Engineer, PHP - Marketplace",,dev:php:quality assurance,7mo
-Careers at Paxful,https://web3.career/full-stack-developer-marketplace-paxful/648,Full stack Developer - Marketplace,$65k - $180k,dev:full stack:react:php,7mo
-Careers at Paxful,https://web3.career/full-stack-developer-marketing-paxful/647,Full Stack developer - Marketing,,dev:full stack:marketing:non tech:react,7mo
-Careers at Paxful,https://web3.career/full-stack-developer-api-paxful/646,Full Stack Developer - API,,api:dev:full stack:react,7mo
-Careers at Paxful,https://web3.career/full-stack-developer-paxful/645,Full Stack Developer,$65k - $180k,dev:full stack:react:php,7mo
-Careers at Paxful,https://web3.career/automation-release-qa-engineer-paxful/644,Automation & Release QA Engineer,,dev:quality assurance:php,7mo
-Careers at Paxful,https://web3.career/verification-analyst-paxful/643,Verification Analyst,$40k - $120k,analyst,7mo
-Careers at Paxful,https://web3.career/director-uk-mlro-paxful/642,Director - UK MLRO,$70k - $180k,executive,7mo
-Careers at Paxful,https://web3.career/associate-compliance-aml-paxful/641,"Associate, Compliance - AML",,compliance,7mo
-Careers at Paxful,https://web3.career/data-analyst-paxful/640,Data Analyst,$36k - $72k,analyst:data science,7mo
-Paradigm,https://web3.career/quantitative-strategist-remote-paradigm62/639,Quantitative Strategist - Remote,$50k - $135k,remote:data science,7mo
-Paradigm,https://web3.career/liquidity-management-associate-remote-paradigm62/638,Liquidity Management Associate - Remote,$29k - $108k,remote:sales:non tech,7mo
-Paradigm,https://web3.career/liquidity-management-associate-mandarin-speaking-remote-paradigm62/637,Liquidity Management Associate (Mandarin Speaking) - Remote,$29k - $108k,remote:sales:non tech,7mo
-Paradigm,https://web3.career/director-of-institutional-sales-and-trading-remote-paradigm62/636,Director of Institutional Sales and Trading - Remote,$40k - $150k,remote:executive:sales:non tech,7mo
-Paradigm,https://web3.career/product-manager-remote-paradigm62/635,Product Manager - Remote,$115k - $175k,remote:product manager:non tech,7mo
-Paradigm,https://web3.career/growth-research-lead-trading-market-structure-remote-paradigm62/634,Growth - Research Lead (Trading & Market Structure) - Remote,$25k - $120k,remote:marketing:non tech:lead,7mo
-Paradigm,https://web3.career/senior-automation-engineer-remote-paradigm62/633,Senior Automation Engineer - Remote,$85k - $200k,remote:dev:senior:javascript,7mo
-Paradigm,https://web3.career/product-support-engineer-remote-paradigm62/632,Product Support Engineer - Remote,,remote:dev:customer support:react,7mo
-Okcoin,https://web3.career/product-operations-manager-growth-okcoin/626,"Product Operations Manager, Growth",,marketing:non tech:operations,7mo
-Okcoin,https://web3.career/product-manager-payments-okcoin/625,"Product Manager, Payments",$69k - $160k,product manager:non tech,7mo
-Okcoin,https://web3.career/product-manager-growth-tools-okcoin/624,"Product Manager, Growth Tools",,marketing:non tech:product manager,7mo
-Okcoin,https://web3.career/product-manager-growth-okcoin/623,"Product Manager, Growth",,marketing:non tech:product manager,7mo
-Okcoin,https://web3.career/product-manager-fraud-risk-okcoin/622,"Product Manager, Fraud & Risk",,security:product manager:non tech,7mo
-Okcoin,https://web3.career/product-manager-consumer-identity-okcoin/621,"Product Manager, Consumer Identity",$69k - $160k,product manager:non tech,7mo
-Okcoin,https://web3.career/product-manager-asset-listings-okcoin/620,"Product Manager, Asset Listings",$69k - $160k,product manager:non tech,7mo
-Okcoin,https://web3.career/director-product-management-mobile-retail-okcoin/619,"Director Product Management, Mobile & Retail",,executive:mobile,7mo
-Okcoin,https://web3.career/director-of-analytics-okcoin/618,Director of Analytics,$50k - $130k,stats:executive,7mo
-Okcoin,https://web3.career/technical-recruiter-okcoin/617,Technical Recruiter,$40k - $70k,recruiter:non tech,7mo
-Okcoin,https://web3.career/sr-total-rewards-manager-okcoin/616,Sr. Total Rewards Manager,$78k - $200k,senior,7mo
-Okcoin,https://web3.career/sr-global-payroll-analyst-okcoin/615,Sr. Global Payroll Analyst,,analyst:accounting:senior,7mo
-Okcoin,https://web3.career/product-recruiter-okcoin/614,Product Recruiter,$40k - $70k,recruiter:non tech,7mo
-Okcoin,https://web3.career/hr-coordinator-okcoin/613,HR Coordinator,$60k - $150k,hr:non tech,7mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Anchorage Digital,https://web3.career/senior-trader-anchorage/1197,"Singapore,
+Singapore",Senior Trader,,senior:trader,7mo
+Gauntlet Networks,https://web3.career/simulation-data-scientist-gauntlet/1196,Remote,Simulation Data Scientist,$50k - $135k,data science:remote,7mo
+Chainlink Labs,https://web3.career/senior-software-engineer-data-feeds-chainlink/1195,Remote,"Senior Software Engineer, Data Feeds",$80k - $200k,dev:senior:solidity:golang:remote,7mo
+Ava Labs,https://web3.career/engineering-manager-avalabs/1194,"San Francisco,
+United States",Engineering Manager,$70k - $180k,executive,7mo
+Centrifuge GmbH,https://web3.career/campaign-marketer-centrifuge/1193,Remote,Campaign Marketer,$25k - $120k,marketing:non tech:remote,7mo
+HQ Digital,https://web3.career/venture-associate-hqdigital/1192,"New York,
+United States","Venture, Associate",,,7mo
+Chainlink Labs,https://web3.career/head-of-communications-chainlink/1191,Remote,Head of Communications,$79k - $200k,executive:remote,7mo
+Chainlink Labs,https://web3.career/developer-advocate-chainlink/1190,Remote,Developer Advocate,$65k - $180k,dev:remote,7mo
+WOO Network,https://web3.career/devops-engineer-woonetwork/1189,"Taipei,
+Taiwan",DevOps Engineer,$70k - $180k,devops:dev,7mo
+GSR,https://web3.career/software-engineer-senior-software-engineer-associate-vp-gsr/1188,"Singapore,
+Singapore","Software Engineer / Senior Software Engineer, Associate / VP",$60k - $250k,dev:senior:executive,7mo
+Async Art,https://web3.career/customer-experience-specialist-asyncart/1187,Remote,Customer Experience Specialist,,customer support:nft:remote,7mo
+Gauntlet Networks,https://web3.career/backend-engineer-gauntlet/1186,Remote,Backend Engineer,$60k - $180k,backend:dev:remote,7mo
+Chainlink Labs,https://web3.career/software-engineer-blockchain-integrations-chainlink/1185,Remote,"Software Engineer, Blockchain Integrations",$52k - $160k,dev:blockchain:solidity:golang:remote,7mo
+Gauntlet Networks,https://web3.career/senior-simulation-data-scientist-gauntlet/1184,Remote,Senior Simulation Data Scientist,,data science:senior:remote,7mo
+RabbitHole,https://web3.career/senior-product-manager-rabbitholestudios/1183,Remote,Senior Product Manager,$80k - $150k,product manager:non tech:senior:remote,7mo
+Kraken Digital Asset Exchange,https://web3.career/senior-product-manager-earn-platform-kraken/1182,Remote,"Senior Product Manager, Earn Platform",$80k - $150k,product manager:non tech:senior:nft:remote,7mo
+Compound,https://web3.career/compound-treasury-director-of-marketing-compound-2/1181,Remote,Compound Treasury - Director of Marketing,$70k - $158k,executive:marketing:non tech:remote,7mo
+WOO Network,https://web3.career/growth-operation-specialist-woonetwork/1180,"Taipei,
+Taiwan",Growth Operation Specialist,$45k - $130k,marketing:non tech,7mo
+Bitwise Asset Management,https://web3.career/head-of-field-marketing-bitwiseinvestments/1179,"San Francisco,
+United States",Head of Field Marketing,$70k - $158k,executive:marketing:non tech,7mo
+Decent Labs,https://web3.career/program-manager-remote-decentlabs/1178,"Austin,
+United States",Program Manager [Remote],$79k - $200k,remote:executive,7mo
+CoinFlip,https://web3.career/senior-java-architect-coinflip/1177,"Chicago,
+United States",Senior Java Architect,,architecture:java:senior,7mo
+Chainlink Labs,https://web3.career/customer-success-manager-apac-chainlink/1176,Remote,Customer Success Manager (APAC),,sales:non tech:customer support:remote,7mo
+Revolut,https://web3.career/product-owner-crypto-revolut/1175,"London,
+United Kingdom",Product Owner (Crypto),$60k - $160k,product manager:non tech:crypto,7mo
+Wintermute,https://web3.career/c-trading-platform-developer-wintermute-trading/1174,"London,
+United Kingdom",C++ Trading Platform Developer,$100k - $150k,c:c plus plus:dev,7mo
+BlockSwap,https://web3.career/protocol-documentation-tech-blockswap/1173,Remote,Protocol documentation (Tech),$56k - $165k,nft:remote,7mo
+Acala,https://web3.career/global-general-counsel-acala/1172,Remote,Global General Counsel,,legal:rust:remote,7mo
+Energi Core Limited,https://web3.career/community-support-representative-energicorelimited/1171,"New York,
+United States",Community Support Representative,,community manager:non tech:customer support:ethereum,7mo
+Energi Core Limited,https://web3.career/social-media-engineer-specialist-energicorelimited/1170,"New York,
+United States",Social Media Engineer Specialist,,dev:social media:non tech:ethereum,7mo
+Gauntlet Networks,https://web3.career/front-end-full-stack-engineer-gauntlet/1169,Remote,Front-End / Full Stack Engineer,$65k - $150k,dev:front end:full stack:remote,7mo
+Wintermute,https://web3.career/product-manager-wintermute-trading/1168,"London,
+United Kingdom",Product Manager,$69k - $160k,product manager:non tech,7mo
+Stacked,https://web3.career/smart-contract-engineer-rust-remote-us-stacked-invest/1167,Remote,Smart Contract Engineer - Rust (Remote US),$70k - $180k,remote:dev:rust:smart contract:solidity,7mo
+Maple,https://web3.career/senior-solidity-engineer-maple-finance/1166,Remote,Senior Solidity Engineer,$80k - $200k,dev:senior:solidity:remote,7mo
+"SundaeSwap Labs, Inc.",https://web3.career/lead-product-design-sundaeswap/1165,Remote,Lead Product Design,$40k - $190k,design:non tech:lead:remote,7mo
+Wintermute,https://web3.career/venture-investments-and-m-a-director-wintermute-trading/1164,"London,
+United Kingdom",Venture Investments and M&A Director,$70k - $180k,executive,7mo
+Gauntlet Networks,https://web3.career/content-strategist-gauntlet/1163,Remote,Content Strategist,$56k - $160k,remote,7mo

@@ -1,36 +1,58 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-SuperLayer,https://web3.career/general-manager-joint-ventures-superlayer/25787,"General Manager, Joint Ventures",$79k - $200k,executive:remote,9d
-SuperLayer,https://web3.career/founding-product-manager-wallet-superlayer/25786,"Founding Product Manager, Wallet",$67k - $160k,product manager:non tech,9d
-SuperLayer,https://web3.career/founding-product-manager-dex-superlayer/25785,"Founding Product Manager, DEX",$67k - $160k,product manager:non tech,9d
-SuperLayer,https://web3.career/developer-relations-advocate-rly-network-association-superlayer/25784,Developer Relations Advocate - RLY Network Association,,customer support:dev:remote:solidity:javascript,9d
-Stellar Development Foundation,https://web3.career/content-marketing-manager-stellar/25783,Content Marketing Manager,$45k - $125k,marketing:non tech,9d
-Stellar Development Foundation,https://web3.career/content-marketing-manager-stellar/25782,Content Marketing Manager,$45k - $125k,marketing:non tech,9d
-KOHO,https://web3.career/product-lead-crypto-remote-koho/25781,"Product Lead, Crypto - Remote",$25k - $79k,remote:lead:crypto,9d
-SALT,https://web3.career/senior-software-engineer-saltlending/25779,Senior Software Engineer,$70k - $180k,dev:senior:react:ethereum:node,9d
-Blockchain.com,https://web3.career/director-of-accounting-policy-and-reporting-blockchain/25777,Director of Accounting Policy and Reporting,$120k - $150k,accounting:executive,9d
-Voodoo,https://web3.career/hr-projects-manager-voodoo/25776,HR Projects Manager,,hr:non tech:project manager,9d
-CoinFlip,https://web3.career/director-knowledge-management-coinflip/25775,"Director, Knowledge Management",$70k - $180k,executive,9d
-Okcoin,https://web3.career/technical-sourcer-okcoin/25765,Technical Sourcer,$40k - $70k,recruiter:non tech,9d
-Braintrust,https://web3.career/sr-php-developer-remote-braintrust/25760,Sr. PHP Developer [Remote],,remote:dev:php:senior,9d
-Genies,https://web3.career/head-of-studio-genies/25759,Head of Studio,$63k - $180k,executive:nft,9d
-Wirex Limited,https://web3.career/system-administrator-wirexlimited/25758,System Administrator,$150k - $200k,sys admin,9d
-Chainalysis,https://web3.career/customer-success-manager-india-chainalysis/25757,"Customer Success Manager, India",$40k - $45k,sales:non tech:customer support,9d
-Parity Technologies,https://web3.career/engineering-manager-delivery-services-parity/25754,Engineering Manager - Delivery Services,,executive:remote:rust,9d
-Chainalysis,https://web3.career/sdr-manager-emea-chainalysis/25753,"SDR Manager, EMEA",$50k - $155k,,9d
-Mathrix,https://web3.career/defi-developer-mathrix/25752,DeFi Developer,$100k - $250k,dev:defi:solidity:ethereum,9d
-Parity Technologies,https://web3.career/senior-public-relations-manager-parity/25751,Senior Public Relations Manager,$46k - $109k,marketing:non tech:senior:remote,9d
-Chainalysis,https://web3.career/cybercrimes-investigator-defi-focused-hebrew-speaker-chainalysis/25750,Cybercrimes investigator - DeFi focused (Hebrew speaker),$65k - $160k,defi,9d
-Hashstack Finance,https://web3.career/marketing-manager-defi-hashstack/25749,Marketing manager - Defi,$19k - $35k,marketing:non tech:defi,9d
-Material10,https://web3.career/3d-artist-metatribesstudios/25747,3D Artist,$11k - $12k,vfx:non tech:remote,9d
-Parity Technologies,https://web3.career/product-marketing-manager-parity/25746,Product Marketing Manager,$25k - $120k,marketing:non tech:remote,9d
-Parity Technologies,https://web3.career/ecosystem-marketing-manager-parity/25745,Ecosystem Marketing Manager,$25k - $120k,marketing:non tech:remote,9d
-Consensys,https://web3.career/technical-sourcer-blockchain-emea-consensys/25744,Technical Sourcer - Blockchain (EMEA),,recruiter:non tech:blockchain:remote:ethereum,9d
-Gnosis,https://web3.career/visual-content-creator-m-f-d-gnosis/25743,Visual Content Creator (m/f/d),,vfx:non tech:ethereum,9d
-Qubit9 GmbH,https://web3.career/senior-data-analyst-f-d-m-qubit9/25742,Senior Data Analyst f/d/m,,analyst:data science:senior,9d
-CoinGecko,https://web3.career/lead-product-manager-l4-coingecko/25740,Lead Product Manager (L4),,lead:product manager:non tech:remote,9d
-GSR,https://web3.career/legal-counsel-associate-gsr/25739,"Legal Counsel, Associate",$24k - $140k,legal,9d
-Reality Cards,https://web3.career/influencer-marketer-for-nft-project-reality-cards/25738,Influencer marketer for NFT project,$45k - $55k,marketing:non tech:nft,9d
-SADA,https://web3.career/staff-security-engineer-sre-sada/25737,Staff Security Engineer (SRE),$95k - $250k,dev:security:senior:java,9d
-Chainalysis,https://web3.career/field-marketing-manager-apac-chainalysis/25735,"Field Marketing Manager, APAC",$45k - $125k,marketing:non tech,9d
-Chainalysis,https://web3.career/field-marketing-manager-anz-chainalysis/25734,"Field Marketing Manager, ANZ",$45k - $125k,marketing:non tech,9d
-Immutable,https://web3.career/head-of-community-gods-unchained-immutable/25732,Head of Community (Gods Unchained),$45k - $150k,executive:community manager:non tech:ethereum,9d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+TransferGo,https://web3.career/financial-crime-investigator-transfergo/26394,Poland,Financial Crime Investigator,$40k - $175k,finance,8d
+Galaxy Digital Services,https://web3.career/executive-assistant-to-director-of-firmwide-research-galaxydigitalservices/26393,,Executive Assistant to Director of Firmwide Research,$70k - $180k,executive,8d
+Braintrust,https://web3.career/principal-full-stack-software-engineer-remote-braintrust/26392,"San Francisco,
+United States",Principal Full Stack Software Engineer [REMOTE],$70k - $200k,remote:dev:full stack:executive:javascript,8d
+Nifty's Inc.,https://web3.career/communications-pr-media-manager-niftysinc/26390,"Miami,
+United States",Communications & PR/Media Manager,$50k - $135k,marketing:non tech:nft,8d
+BitGo,https://web3.career/engineering-manager-defi-bitgo/26389,"Toronto,
+Canada","Engineering Manager, DeFi",$70k - $180k,executive:defi,8d
+Bitcoin Depot,https://web3.career/senior-hr-generalist-bitcoindepot/26388,"Atlanta,
+United States",Senior HR Generalist,,hr:non tech:senior:ethereum,8d
+TransferGo,https://web3.career/financial-crime-investigator-transfergo/26387,Lithuania,Financial Crime Investigator,$40k - $175k,finance,8d
+Braintrust,https://web3.career/senior-full-stack-software-engineer-remote-braintrust/26386,"San Francisco,
+United States",Senior Full Stack Software Engineer [REMOTE],$70k - $200k,remote:dev:full stack:senior:javascript,8d
+Nexo,https://web3.career/aml-compliance-associate-corporate-clients-nexo/26384,"Sofia,
+Bulgaria",AML Compliance Associate (Corporate Clients),,compliance,8d
+CI&T,https://web3.career/job-6563-nigeria-blockchain-and-nodejs-developer-senior-ciandt/26383,Nigeria,[Job-6563] Nigeria Blockchain and NodeJS Developer Senior,$56k - $155k,dev:javascript:node:senior:blockchain,8d
+Crossmint.io | Making NFT's Accessible to Everyone,https://web3.career/developer-relations-lead-crossmint/26382,"Miami,
+United States",Developer Relations Lead,,customer support:dev:lead:web3js:react,8d
+Tokemak,https://web3.career/web3-executive-assistant-tokemak/26381,Remote,Web3 Executive Assistant,$70k - $100k,executive:remote:events manager:analyst:defi,8d
+Chronicled.com,https://web3.career/director-of-engineering-platform-chronicled-2/26380,Remote,"Director of Engineering, Platform",$79k - $200k,executive:remote,8d
+BlockFi,https://web3.career/fraud-ops-manager-blockfi/26378,"New York,
+United States",Fraud Ops Manager,$95k - $200k,security,8d
+Blockdaemon,https://web3.career/executive-administrative-assistant-blockdaemon/26376,Remote,Executive Administrative Assistant,$79k - $200k,executive:remote,8d
+Ripple,https://web3.career/senior-blockchain-software-engineer-ripplex-ripple/26375,"New York,
+United States","Senior Blockchain Software Engineer, RippleX",$80k - $200k,dev:senior:blockchain:golang,8d
+Wintermute,https://web3.career/product-marketing-manager-wintermute-trading/26374,Remote,Product Marketing Manager,$25k - $120k,marketing:non tech:remote:node,8d
+CoinFlip,https://web3.career/customer-support-agent-coinflip/26373,"Chicago,
+United States",Customer Support Agent,$40k - $80k,customer support,8d
+SALT,https://web3.career/accounting-intern-saltlending/26372,"Chicago,
+United States",Accounting Intern,,accounting:intern:entry level,8d
+Ripple,https://web3.career/senior-blockchain-software-engineer-clio-ripplex-ripple/26370,"New York,
+United States","Senior Blockchain Software Engineer, Clio, RippleX",$80k - $200k,dev:senior:blockchain:java:golang,8d
+Chainlink Labs,https://web3.career/senior-events-marketing-manager-general-events-chainlink/26369,Remote,Senior Events Marketing Manager (General Events),$46k - $109k,marketing:non tech:senior:remote,8d
+Okcoin,https://web3.career/compliance-manager-global-licensing-okcoin/26368,"San Francisco,
+United States","Compliance Manager, Global Licensing",,compliance,8d
+Onlife,https://web3.career/java-software-engineer-onlife/26366,Remote,Java Software Engineer,$33k - $160k,dev:java:remote,8d
+Ripple,https://web3.career/research-associate-ripple-impact-summer-2022-ripple/26365,"London,
+United Kingdom","Research Associate, Ripple Impact (Summer 2022)",$50k - $150k,,8d
+CoinDesk & TradeBlock Opportunities,https://web3.career/digital-account-manager-coindesk/26363,"New York,
+United States",Digital Account Manager,$140k - $180k,account manager,8d
+Chainalysis,https://web3.career/director-global-sales-compensation-chainalysis/26362,"New York,
+United States",Director Global Sales Compensation,$40k - $150k,executive:sales:non tech,8d
+Chainalysis,https://web3.career/head-of-field-marketing-emea-chainalysis/26361,"London,
+United Kingdom","Head of Field Marketing, EMEA",$70k - $158k,executive:marketing:non tech,8d
+CANDY,https://web3.career/lead-business-operations-associate-analytics-candy/26360,"New York,
+United States",Lead Business Operations Associate - Analytics,,stats:lead:operations,8d
+SwissBorg,https://web3.career/gaming-guild-junior-product-designer-remote-swissborg/26359,"All locations,",Gaming Guild Junior product designer (Remote),$50k - $150k,remote:design:non tech:game dev:junior,8d
+"Palm NFT Studio, Inc.",https://web3.career/tax-manager-palmnftstudioinc/26358,"New York,
+United States",Tax Manager,$120k - $150k,accounting:nft,8d
+Bit Hotel,https://web3.career/game-developer-nft-play-to-earn-game-bit-hotel/26357,"Amsterdam,
+Netherlands",Game Developer | NFT Play-to-Earn Game,$60k - $100k,dev:game dev:nft,8d
+Nansen.ai,https://web3.career/vp-of-operations-operations-nansen/26356,"Singapore,
+Singapore",VP of Operations (Operations),$150k - $230k,operations:executive,8d
+SupraOracles,https://web3.career/qa-engineer-ecosystem-supraoracles/26355,"New York,
+United States",QA Engineer - Ecosystem,$40k - $150k,dev:quality assurance:javascript:node:rust,8d
+Sperax,https://web3.career/frontend-engineer-remote-sperax/26354,Europe,Frontend Engineer (Remote),$30k - $140k,remote:dev:front end,8d
+Rarible,https://web3.career/legal-counsel-rarible/26353,Remote,Legal Counsel,,legal:remote:nft,8d

@@ -1,36 +1,55 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Ferrum Network,https://web3.career/blockchain-engineer-cosmos-golang-ferrumnetwork/25694,Blockchain Engineer /Cosmos/GoLang,$40k - $150k,dev:golang:blockchain,9d
-Braintrust,https://web3.career/back-end-developer-ruby-on-rails-remote-braintrust/25691,"Back End Developer, Ruby on Rails [Remote]",$60k - $180k,remote:backend:dev:ruby,9d
-Braintrust,https://web3.career/service-designer-remote-braintrust/25690,Service Designer [Remote],$50k - $135k,remote:design:non tech,9d
-Braintrust,https://web3.career/product-ux-designer-remote-braintrust/25689,Product / UX Designer [REMOTE],$50k - $135k,remote:design:non tech,9d
-Braintrust,https://web3.career/senior-api-designer-engineer-blockchain-team-remote-braintrust/25688,Senior API Designer Engineer (Blockchain Team) [Remote],,remote:api:design:non tech:dev,9d
-Braintrust,https://web3.career/senior-data-modeler-engineer-blockchain-team-remote-braintrust/25687,Senior Data Modeler Engineer (Blockchain Team) [Remote],$89k - $200k,remote:dev:senior:blockchain:java,9d
-Eternal,https://web3.career/full-stack-web-developer-eternal/25686,Full-Stack Web Developer,$120k - $220k,dev:full stack:game dev:remote:solidity,9d
-Careers at Paxful,https://web3.career/ux-ui-designer-mobile-team-paxful/25685,"UX/UI Designer, Mobile Team",,design:non tech:mobile:remote,9d
-playline,https://web3.career/sales-representative-customer-service-discord-moderator-playline/25683,sales representative/ Customer service/ Discord moderator,$40k - $45k,customer support:sales:non tech:nft:crypto,10d
-Applied Blockchain,https://web3.career/qa-engineer-applied-blockchain/25681,QA Engineer,$0k,dev:quality assurance:react:javascript,10d
-R3,https://web3.career/senior-devops-solutions-engineer-r3-com/25680,Senior DevOps Solutions Engineer,$120k - $200k,devops:dev:senior,10d
-Metrics Recruitment Inc,https://web3.career/full-stack-engineer-blockchain-metricsrecruitment/25679,Full Stack Engineer - Blockchain,$50k - $150k,dev:full stack:blockchain:remote:nft,10d
-OpenSea,https://web3.career/technical-accounting-reporting-manager-opensea/25678,Technical Accounting & Reporting Manager,$11k - $25k,accounting:remote,10d
-OpenSea,https://web3.career/sr-corporate-strategy-manager-opensea/25677,Sr. Corporate Strategy Manager,$85k - $200k,senior:remote,10d
-Polygon,https://web3.career/senior-protocol-engineer-polygon/25676,Senior Protocol Engineer,,dev:senior:remote:rust:backend,10d
-Propellyr,https://web3.career/backend-software-engineer-blockchain-and-big-data-propellyr/25674,Backend Software Engineer (Blockchain and Big Data),$20k - $40k,backend:big data:dev:blockchain:java,10d
-Thorwallet,https://web3.career/full-stack-engineer-blockchain-thorwallet/25673,Full Stack Engineer (Blockchain),$50k - $80k,dev:full stack:blockchain:react:react native,10d
-dApp Auditing & Consulting,https://web3.career/remote-freelance-solana-smart-contract-expert-s-for-nft-related-projects-dapp-auditing-consulting/25672,Remote & Freelance: SOLANA smart contract expert(s) for NFT related projects,$0k,remote:nft:smart contract:solana,10d
-Immutable,https://web3.career/game-analyst-immutable/25671,Game Analyst,$50k - $120k,analyst:game dev:remote:ethereum:nft,10d
-Immutable,https://web3.career/head-of-communications-studio-immutable/25670,Head of Communications (Studio),$79k - $158k,executive:remote:ethereum,10d
-Subspace Labs,https://web3.career/protocol-research-intern-subspacelabs/25669,Protocol Research Intern,$24k - $48k,intern:entry level:remote,10d
-dYdX,https://web3.career/product-manager-dydx/25668,Product Manager,$67k - $160k,product manager:non tech,10d
-The Block,https://web3.career/senior-product-designer-theblockcrypto/25667,Senior Product Designer,$60k - $120k,design:non tech:senior:remote,10d
-Chainalysis,https://web3.career/investigator-chainalysis/25666,Investigator,$50k - $158k,,10d
-Binance,https://web3.career/global-affiliate-manager-binance/25665,Global Affiliate Manager,$25k - $120k,marketing:non tech:remote,10d
-GSR,https://web3.career/senior-software-engineer-c-cryptocurrency-trading-singapore-gsr/25664,Senior Software Engineer (C++) - Cryptocurrency Trading - Singapore,$100k - $150k,c:c plus plus:dev:senior:crypto,10d
-Sperax,https://web3.career/associate-product-manager-remote-sperax/25663,Associate Product Manager (Remote),$115k - $175k,remote:product manager:non tech,10d
-Ripple,https://web3.career/senior-manager-aml-cft-sanctions-compliance-singapore-ripple/25662,Senior Manager AML/CFT & Sanctions Compliance - Singapore,,compliance:senior,10d
-Pathrise,https://web3.career/blockchain-developer-mentor-part-time-pathrise/25661,Blockchain Developer Mentor (Part-time),$11k - $25k,dev:part time:blockchain:remote,10d
-Binance,https://web3.career/frontend-developer-risk-binance/25660,Frontend Developer - Risk,$50k - $150k,dev:front end,10d
-cLabs,https://web3.career/product-marketing-manager-clabs/25659,Product Marketing Manager,$25k - $120k,marketing:non tech:remote,10d
-COCO,https://web3.career/blockchain-developer-remote-coco-13/25658,Blockchain Developer (Remote),$31k - $39k,remote:dev:blockchain:solidity:solana,10d
-Bitfury,https://web3.career/legal-counsel-crystal-remote-bitfury/25657,Legal Counsel - Crystal (Remote),,legal:remote,10d
-Voodoo,https://web3.career/senior-game-artist-blitz-voodoo/25656,Senior Game Artist - Blitz,$70k - $150k,game dev:senior,10d
-VolumeFi,https://web3.career/full-stack-engineer-volume-finance/25655,Full Stack Engineer,$70k - $200k,dev:full stack:remote:solana:ethereum,10d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Polygon,https://web3.career/senior-recruiter-polygon/26313,United States,Senior Recruiter,$40k - $70k,recruiter:non tech:senior:ethereum,8d
+Polygon,https://web3.career/director-talent-acquisition-polygon/26312,United States,"Director, Talent Acquisition",,executive:recruiter:non tech:ethereum,8d
+LayerZero Labs,https://web3.career/backend-engineer-layerzerolabs/26311,"Vancouver,
+Canada",Backend Engineer,$56k - $180k,backend:dev,8d
+Cake Pte Ltd,https://web3.career/senior-product-manager-cakedefi/26310,"Singapore,
+Singapore",Senior Product Manager,$80k - $150k,product manager:non tech:senior,8d
+Cool Cats NFT,https://web3.career/game-level-designer-unity-cool-cats-nft/26309,"Austin,
+United States",Game / Level Designer | Unity,$80k - $120k,design:non tech:game dev:nft,8d
+Ethereum Foundation,https://web3.career/people-operations-lead-ethereum-foundation/26308,Remote,People Operations Lead,$0k,lead:operations:remote:ethereum,8d
+Chainalysis,https://web3.career/crypto-ecosystem-research-intern-chainalysis/26305,"New York,
+United States",Crypto Ecosystem Research Intern,$15k - $46k,intern:entry level:crypto:ethereum,8d
+Shard Labs,https://web3.career/javascript-typescript-developer-shardlabs/26304,Remote,JavaScript / TypeScript Developer,$60k - $180k,dev:javascript:remote:web3js:react,8d
+Chainstack,https://web3.career/public-relations-manager-pr-manager-remote-chainstack/26302,Remote,Public Relations Manager - PR Manager (remote),$25k - $120k,marketing:non tech:remote,8d
+Chainstack,https://web3.career/social-media-manager-remote-chainstack/26301,Remote,Social Media Manager (remote),$35k - $110k,remote:social media:non tech,8d
+Nansen.ai,https://web3.career/vp-of-engineering-engineering-nansen/26300,"Berlin,
+Germany",VP of Engineering (Engineering),$79k - $200k,executive:remote,8d
+BLK LUV [org],https://web3.career/nonprofit-blockchain-game-dev-nft-web-3-intern-unpaid-blk-luv-org/26299,"Atlanta,
+United States",Nonprofit Blockchain Game Dev NFT Web 3 Intern (Unpaid),$0k,dev:game dev:intern:entry level:blockchain,8d
+Tron,https://web3.career/content-marketing-lead-rainberry/26298,"San Francisco,
+United States",Content Marketing Lead,$50k - $120k,lead:marketing:non tech,8d
+Braintrust,https://web3.career/sr-devops-engineer-braintrust/26297,"San Francisco,
+United States",Sr DevOps Engineer,$50k - $100k,devops:dev:golang,9d
+Braintrust,https://web3.career/smart-contract-developer-solidity-nft-remote-braintrust/26296,"San Francisco,
+United States","Smart Contract Developer (Solidity, NFT) [Remote]",$90k - $180k,remote:dev:nft:smart contract:solidity,9d
+Dispatch,https://web3.career/partnerships-dispatch/26295,Remote,Partnerships,$29k - $108k,sales:non tech:remote:solana,9d
+Dispatch,https://web3.career/data-engineer-dispatch/26294,Remote,Data Engineer,,data science:dev:remote:node:rust,9d
+Dispatch,https://web3.career/growth-community-manager-dispatch/26293,Remote,Growth + Community Manager,$45k - $150k,community manager:non tech:marketing:remote:solana,9d
+Dispatch,https://web3.career/backend-engineer-dispatch/26292,Remote,Backend Engineer,$60k - $180k,backend:dev:remote:node:solana,9d
+CANDY,https://web3.career/vfx-producer-candy/26291,"New York,
+United States",VFX Producer,$11k - $80k,vfx:non tech,9d
+Bittrex,https://web3.career/vp-finance-bittrex/26290,Remote,"VP, Finance",$150k - $225k,finance:executive:remote,9d
+Braintrust,https://web3.career/full-stack-engineer-mobile-react-native-nodejs-remote-braintrust/26289,,Full Stack Engineer (Mobile -- React Native + NodeJS) [REMOTE],$70k - $200k,remote:dev:full stack:mobile:javascript,9d
+Nansen.ai,https://web3.career/internship-product-nansen/26288,"Atlanta,
+United States","Internship, Product",,intern:entry level,9d
+Optimism,https://web3.career/partnerships-manager-nfts-optimism/26287,,"Partnerships Manager, NFTs",$40k - $180k,sales:non tech:nft,9d
+Optimism,https://web3.career/partnerships-manager-defi-optimism/26286,,"Partnerships Manager, DeFi",$79k - $140k,sales:non tech:defi:ethereum,9d
+Chainalysis,https://web3.career/senior-product-counsel-chainalysis/26285,"New York,
+United States",Senior Product Counsel,,legal:senior,9d
+CANDY,https://web3.career/creative-director-candy/26284,"New York,
+United States",Creative Director,$70k - $180k,executive,9d
+CANDY,https://web3.career/3d-generalist-lighting-texturing-and-compositing-candy/26283,"New York,
+United States","3D Generalist (Lighting, Texturing and Compositing)",$11k - $80k,vfx:non tech,9d
+Autograph,https://web3.career/head-of-irl-autograph/26282,"Santa Monica,
+United States",Head of IRL,$63k - $180k,executive:nft,9d
+,https://web3.career/product-marketing-manager-travala/26281,"Hanoi,
+Vietnam",Product Marketing Manager,$45k - $125k,marketing:non tech,9d
+Havas Mango,https://web3.career/metaverse-internship-havas-mango/26280,Remote,Metaverse Internship,,intern:entry level:metaverse:remote:marketing,9d
+CoinFlip,https://web3.career/qa-engineer-coinflip/26279,"Chicago,
+United States",QA Engineer,$50k - $150k,dev:quality assurance,9d
+Repool (YC S21),https://web3.career/content-marketing-writer-market-commentary-equities-and-crypto-repool/26278,"New York,
+United States","Content Marketing/Writer (Market Commentary, Equities and Crypto)",$75k - $120k,marketing:non tech:crypto,9d
+Gallery.online,https://web3.career/advisor-in-nft-and-blockchain-market-gallery-online/26277,"San Francisco,
+United States",Advisor in NFT and Blockchain Market,$60k - $70k,blockchain:nft,9d
+Polygon,https://web3.career/technical-content-creator-polygon/26276,Any,Technical Content Creator,$60k - $146k,remote:ethereum,9d

@@ -1,36 +1,52 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Ripple,https://web3.career/software-engineer-machine-learning-ripple/10782,"Software Engineer, Machine Learning",,dev:machine learning:java,5mo
-Ripple,https://web3.career/senior-software-engineer-liquidity-ripple/10781,"Senior Software Engineer, Liquidity",,dev:sales:non tech:senior:java,5mo
-Ripple,https://web3.career/senior-software-engineer-liquidity-ripple/10780,"Senior Software Engineer, Liquidity",,dev:sales:non tech:senior:java,5mo
-Ripple,https://web3.career/business-development-manager-ripple/10779,Business Development Manager,$26k - $140k,sales:non tech,5mo
-RECUR,https://web3.career/ui-designer-remote-recur/10778,UI Designer (Remote),$50k - $135k,remote:design:non tech:ethereum:nft,5mo
-RECUR,https://web3.career/senior-product-designer-remote-recur/10777,Senior Product Designer (Remote),$50k - $135k,remote:design:non tech:senior:ethereum,5mo
-RECUR,https://web3.career/technical-recruiter-remote-recur/10776,Technical Recruiter (Remote),,remote:recruiter:non tech:ethereum:nft,5mo
-RECUR,https://web3.career/senior-technical-recruiter-remote-recur/10775,Senior Technical Recruiter (Remote),,remote:recruiter:non tech:senior:ethereum,5mo
-RECUR,https://web3.career/people-operations-specialist-remote-recur/10774,People Operations Specialist (Remote),,remote:operations:ethereum,5mo
-RECUR,https://web3.career/contract-recruiter-remote-recur/10773,Contract Recruiter (Remote),,remote:recruiter:non tech:ethereum,5mo
-RECUR,https://web3.career/business-recruiter-remote-recur/10772,Business Recruiter (Remote),,remote:recruiter:non tech:ethereum,5mo
-RECUR,https://web3.career/sr-manager-email-marketing-remote-recur/10771,"Sr. Manager, Email Marketing (Remote)",$25k - $120k,remote:marketing:non tech:senior:ethereum,5mo
-RECUR,https://web3.career/sr-designer-marketing-remote-recur/10770,"Sr. Designer, Marketing (Remote)",$50k - $135k,remote:design:non tech:marketing:senior,5mo
-RECUR,https://web3.career/sr-copywriter-remote-recur/10769,Sr. Copywriter (Remote),,remote:copywriting:senior:ethereum,5mo
-RECUR,https://web3.career/marketing-program-manager-toys-and-collectibles-remote-recur/10768,"Marketing Program Manager, Toys and Collectibles (Remote)",$25k - $120k,remote:marketing:non tech:executive:ethereum,5mo
-RECUR,https://web3.career/marketing-program-manager-sports-remote-recur/10767,"Marketing Program Manager, Sports (Remote)",$25k - $120k,remote:marketing:non tech:executive:ethereum,5mo
-RECUR,https://web3.career/director-of-social-media-remote-recur/10766,Director of Social Media (Remote),$45k - $150k,remote:executive:social media:non tech:ethereum,5mo
-RECUR,https://web3.career/director-influencer-marketing-remote-recur/10765,"Director, Influencer Marketing (Remote)",$45k - $158k,remote:executive:marketing:non tech:ethereum,5mo
-RECUR,https://web3.career/senior-product-manager-games-engagement-remote-recur/10764,"Senior Product Manager, Games & Engagement (Remote)",$115k - $175k,remote:product manager:non tech:senior:ethereum,5mo
-RECUR,https://web3.career/product-manager-games-engagement-remote-recur/10763,"Product Manager, Games & Engagement (Remote)",$115k - $175k,remote:product manager:non tech:ethereum:nft,5mo
-RECUR,https://web3.career/producer-sports-remote-recur/10762,"Producer, Sports (Remote)",$79k - $158k,remote:ethereum:nft,5mo
-RECUR,https://web3.career/producer-film-remote-recur/10761,"Producer, Film (Remote)",$79k - $158k,remote:ethereum:nft,5mo
-RECUR,https://web3.career/director-of-product-games-engagement-remote-recur/10760,"Director of Product, Games & Engagement (Remote)",$140k - $180k,remote:executive:product manager:non tech:ethereum,5mo
-RECUR,https://web3.career/associate-producer-sports-remote-recur/10759,"Associate Producer, Sports (Remote)",$79k - $158k,remote:ethereum:nft,5mo
-RECUR,https://web3.career/senior-full-stack-engineer-business-applications-remote-recur/10758,Senior Full Stack Engineer - Business Applications (Remote),$70k - $200k,remote:dev:full stack:senior:nft,5mo
-RECUR,https://web3.career/customer-experience-analyst-remote-recur/10757,Customer Experience Analyst (Remote),$40k - $95k,remote:analyst:customer support:ethereum:nft,5mo
-RECUR,https://web3.career/junior-designer-remote-recur/10756,Junior Designer (Remote),$50k - $135k,remote:design:non tech:junior:entry level,5mo
-RECUR,https://web3.career/community-manager-remote-recur/10755,Community Manager (Remote),$40k - $101k,remote:community manager:non tech:ethereum:nft,5mo
-RECUR,https://web3.career/vp-brand-management-remote-recur/10754,"VP, Brand Management (Remote)",$25k - $120k,remote:marketing:non tech:executive:ethereum,5mo
-RECUR,https://web3.career/senior-director-film-and-character-remote-recur/10753,"Senior Director, Film and Character (Remote)",$95k - $250k,remote:executive:senior:ethereum:nft,5mo
-RECUR,https://web3.career/senior-brand-manager-character-remote-recur/10752,"Senior Brand Manager, Character (Remote)",$25k - $120k,remote:marketing:non tech:senior:ethereum,5mo
-RECUR,https://web3.career/licensing-coordinator-brand-management-athlete-partnership-remote-recur/10751,"Licensing Coordinator, Brand Management & Athlete Partnership (Remote)",$29k - $108k,remote:sales:non tech:marketing:ethereum,5mo
-RECUR,https://web3.career/director-viacom-remote-recur/10750,"Director, Viacom (Remote)",$79k - $158k,remote:executive:ethereum:nft,5mo
-RECUR,https://web3.career/brand-manager-star-trek-remote-recur/10749,"Brand Manager, Star Trek (Remote)",$25k - $120k,remote:marketing:non tech:ethereum:nft,5mo
-RECUR,https://web3.career/brand-manager-paramount-remote-recur/10748,"Brand Manager, Paramount (Remote)",$25k - $120k,remote:marketing:non tech:ethereum:nft,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+OpenSea,https://web3.career/executive-assistant-opensea/11397,Remote,Executive Assistant,$79k - $200k,executive:remote,5mo
+ETHGlobal,https://web3.career/irl-event-manager-ethglobal/11396,Remote,IRL Event Manager,,events manager:non tech:remote,5mo
+ETHGlobal,https://web3.career/visual-designer-illustrator-ethglobal/11395,Remote,Visual Designer / Illustrator,$65k - $80k,design:non tech:illustrator:remote,5mo
+ETHGlobal,https://web3.career/social-media-manager-ethglobal/11394,Remote,Social Media Manager,$35k - $110k,social media:non tech:remote,5mo
+ETHGlobal,https://web3.career/recruiting-coordinator-ethglobal/11393,Remote,Recruiting Coordinator,,recruiter:non tech:remote,5mo
+ETHGlobal,https://web3.career/hacker-success-ethglobal/11392,Remote,Hacker Success,$25k - $120k,marketing:non tech:remote,5mo
+ETHGlobal,https://web3.career/event-manager-ethglobal/11391,Remote,Event Manager,,events manager:non tech:remote,5mo
+Ripple,https://web3.career/software-engineer-liquidity-new-grad-ripple/11390,"San Francisco,
+United States","Software Engineer, Liquidity (New Grad)",,dev:sales:non tech:react:javascript,5mo
+BitGo,https://web3.career/technical-recruiter-bitgo/11389,"Palo Alto,
+United States",Technical Recruiter,$40k - $70k,recruiter:non tech,5mo
+BitGo,https://web3.career/technical-recruiter-bitgo/11388,"Austin,
+United States",Technical Recruiter,$40k - $70k,recruiter:non tech,5mo
+BitGo,https://web3.career/technical-recruiter-bitgo/11387,"New York,
+United States",Technical Recruiter,$40k - $70k,recruiter:non tech,5mo
+ETHGlobal,https://web3.career/video-production-engineer-ethglobal/11385,Remote,Video Production Engineer,,dev:video:remote,5mo
+ETHGlobal,https://web3.career/head-of-growth-ethglobal/11384,Remote,Head of Growth,$70k - $158k,executive:marketing:non tech:remote,5mo
+ApeSwap,https://web3.career/senior-react-web3-developer-apeswap/11383,Remote,Senior React/Web3 Developer,$90k - $120k,dev:javascript:react:senior:vue,5mo
+Floating Point Group,https://web3.career/technical-recruiter-fpg/11382,United States,Technical Recruiter,$40k - $70k,recruiter:non tech,5mo
+CoinDesk & TradeBlock Opportunities,https://web3.career/workplace-experience-manager-coindesk/11381,"New York,
+United States",Workplace Experience Manager,,,5mo
+cLabs,https://web3.career/software-engineer-new-grad-clabs/11380,Remote,"Software Engineer, New Grad",$65k - $180k,dev:remote,5mo
+MetaStreet Labs,https://web3.career/senior-ux-ui-designer-metastreet-labs/11379,Remote,Senior UX UI Designer,$60k - $90k,design:non tech:senior:nft:remote,5mo
+Paradigm,https://web3.career/finance-associate-paradigm-xyz/11378,"San Francisco,
+United States",Finance Associate,$40k - $150k,finance,5mo
+OpenSea,https://web3.career/ios-engineer-opensea/11377,Remote,iOS Engineer,$51k - $109k,dev:ios:mobile:remote,5mo
+OpenSea,https://web3.career/data-scientist-opensea/11376,Remote,Data Scientist,$50k - $135k,data science:remote,5mo
+OpenSea,https://web3.career/data-engineer-opensea/11375,Remote,Data Engineer,,data science:dev:remote,5mo
+Tron,https://web3.career/community-manager-rainberry/11373,"San Francisco,
+United States",Community Manager,$40k - $100k,community manager:non tech,5mo
+HQ Digital,https://web3.career/people-operations-analyst-hqdigital/11372,United States,People Operations Analyst,,analyst:operations,5mo
+DFINITY,https://web3.career/engineering-leadership-dfinity/11371,"Palo Alto,
+United States",Engineering Leadership,,,5mo
+DFINITY,https://web3.career/engineering-leadership-dfinity/11370,"Zurich,
+Switzerland",Engineering Leadership,,,5mo
+BitGo,https://web3.career/associate-institutional-sales-bitgo/11368,"New York,
+United States",Associate - Institutional Sales,$26k - $140k,sales:non tech,5mo
+Ripple,https://web3.career/test-automation-engineer-libraries-ripplex-ripple/11367,"San Francisco,
+United States","Test Automation Engineer - Libraries, RippleX",$11k - $130k,dev:javascript:java,5mo
+RECUR,https://web3.career/general-manager-remote-recur/11365,,General Manager (Remote),$79k - $158k,executive:remote:ethereum:nft,5mo
+MobileCoin,https://web3.career/paralegal-mobilecoin/11364,,Paralegal,,,5mo
+Figure,https://web3.career/director-of-talent-acquisition-figure/11363,"San Francisco,
+United States",Director of Talent Acquisition,,executive:recruiter:non tech,5mo
+Bittrex,https://web3.career/software-design-engineer-bittrex/11362,"Washington,
+United States",Software Design Engineer,$80k - $150k,design:non tech:dev,5mo
+Ripple,https://web3.career/test-automation-engineer-sidechains-ripplex-ripple/11360,"San Francisco,
+United States","Test Automation Engineer - SideChains, RippleX",$60k - $180k,dev,5mo
+Ripple,https://web3.career/test-automation-engineer-ripplex-ripple/11359,"San Francisco,
+United States","Test Automation Engineer, RippleX",$60k - $180k,dev,5mo
+Ripple,https://web3.career/test-automation-engineer-cbdc-ripplex-ripple/11358,"San Francisco,
+United States","Test Automation Engineer - CBDC, RippleX",$33k - $140k,dev:java,5mo

@@ -1,36 +1,60 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Gluwa,https://web3.career/vp-of-marketing-gluwa/13690,VP of Marketing,$70k - $158k,marketing:non tech:executive:ethereum,5mo
-Satya Cars,https://web3.career/blockchain-developer-satyacars/13689,Blockchain Developer,$52k - $160k,dev:blockchain:solidity:ethereum:javascript,5mo
-Impossible Finance,https://web3.career/smart-contract-engineer-impossiblefinance/13688,Smart Contract Engineer,$0k,dev:smart contract:solidity:remote,5mo
-Chainalysis,https://web3.career/sales-development-representative-emea-spanish-speaking-chainalysis/13685,"Sales Development Representative, EMEA (Spanish Speaking)",$26k - $140k,sales:non tech,5mo
-Chainalysis,https://web3.career/sales-development-representative-emea-dutch-speaking-chainalysis/13684,"Sales Development Representative, EMEA (Dutch Speaking)",$26k - $140k,sales:non tech,5mo
-Crypto.com,https://web3.career/customer-experience-associate-with-english-and-spanish-night-shifts-crypto-com/13683,Customer Experience Associate with English and Spanish (Night Shifts),$40k - $80k,customer support,5mo
-ChainSafe Systems,https://web3.career/senior-technical-recruiter-chainsafesystems/13682,Senior Technical Recruiter,$40k - $70k,recruiter:non tech:senior:remote,5mo
-Chainalysis,https://web3.career/associate-account-executive-emea-russian-speaking-chainalysis/13680,"Associate Account Executive, EMEA (Russian Speaking)",$70k - $180k,executive,5mo
-Chainalysis,https://web3.career/associate-account-executive-emea-polish-speaking-chainalysis/13679,"Associate Account Executive, EMEA (Polish Speaking)",$70k - $180k,executive,5mo
-Chainalysis,https://web3.career/associate-account-executive-emea-hebrew-speaking-chainalysis/13678,"Associate Account Executive, EMEA (Hebrew Speaking)",$70k - $180k,executive,5mo
-Chainalysis,https://web3.career/associate-account-executive-emea-french-speaking-chainalysis/13677,"Associate Account Executive, EMEA (French Speaking)",$70k - $180k,executive,5mo
-Crypto.com,https://web3.career/strategy-new-ventures-associate-portfolio-management-focus-crypto-com/13676,Strategy & New Ventures Associate (portfolio management focus),$40k - $150k,finance,5mo
-Binance,https://web3.career/data-protection-project-manager-europe-binance/13674,Data Protection Project Manager - Europe,$56k - $150k,project manager:non tech:remote,5mo
-Tangany,https://web3.career/working-student-backend-software-engineer-or-web-services-developer-w-m-d-en-de-3422008-working-student-backend-software-engineer-or-web-services-developer-w-m-d-en-de/13673,Working Student Backend Software Engineer or Web Services Developer (w/m/d) [EN/DE],$65k - $125k,backend:dev:ethereum:javascript:node,5mo
-OKEx,https://web3.career/human-resources-manager-generalist-remote-okex/13672,Human Resources Manager (Generalist) - Remote,$56k - $160k,remote,5mo
-Crypto.com,https://web3.career/security-operations-center-tier-1-analyst-hk-crypto-com/13671,Security Operations Center - Tier 1 Analyst (HK),,analyst:operations:security,5mo
-ONCARE GmbH,https://web3.career/senior-blockchain-developer-hyperleder-fabric-f-m-d-medical-industry-3370876-senior-blockchain-developer-hyperleder-fabric-f-m-d-medical-industry/13670,Senior Blockchain Developer Hyperleder Fabric (f/m/d) - Medical Industry,$80k - $200k,dev:senior:blockchain:javascript:node,5mo
-Immutable,https://web3.career/producer-mid-senior-immutable/13669,Producer (Mid/Senior),$80k - $200k,senior:ethereum,5mo
-Crypto.com,https://web3.career/ui-developer-global-fintech-startup-crypto-com/13668,UI Developer - Global Fintech Startup,,dev:finance:design:non tech:react,5mo
-BitGo,https://web3.career/project-manager-compliance-tech-bitgo/13666,Project Manager (Compliance Tech.),,compliance:project manager:non tech,5mo
-Crypto.com,https://web3.career/product-marketing-manager-crypto-exchange-crypto-com/13665,"Product Marketing Manager, Crypto Exchange",$46k - $140k,marketing:non tech:crypto:nft,5mo
-Sygnum Bank AG,https://web3.career/technology-intern-cio-office-sygnum/13664,Technology Intern - CIO Office,,intern:entry level:ethereum,5mo
-Figure,https://web3.career/senior-front-end-software-engineer-digital-funds-services-figure/13663,"Senior Front-End Software Engineer, Digital Funds Services",$70k - $190k,dev:front end:senior:react,5mo
-Feedel Ventures,https://web3.career/senior-blockchain-developer-solidity-rust-algorand-feedelventures/13661,"Senior Blockchain Developer (Solidity, RUST, Algorand)",$170k - $250k,dev:rust:senior:blockchain:solidity,5mo
-Crypto.com,https://web3.career/risk-systems-manager-crypto-com/13660,Risk Systems Manager,,,5mo
-MoonPay,https://web3.career/payment-partnerships-manager-us-moonpay/13659,Payment Partnerships Manager (US),$100k - $180k,sales:non tech:nft,5mo
-MoonPay,https://web3.career/payment-partnerships-manager-emea-moonpay/13658,Payment Partnerships Manager (EMEA),$100k - $180k,sales:non tech:nft,5mo
-Satoshis Games,https://web3.career/project-manager-producer-satoshis-games/13657,Project Manager / Producer,$50k - $60k,project manager:non tech,5mo
-Satoshis Games,https://web3.career/growth-hacker-satoshis-games/13656,Growth Hacker,$40k - $60k,marketing:non tech,5mo
-Satoshis Games,https://web3.career/qa-engineer-satoshis-games/13655,QA Engineer,$40k - $50k,dev:quality assurance:javascript,5mo
-Satoshis Games,https://web3.career/front-end-web-3-react-developer-satoshis-games/13654,Front-End Web 3 React Developer,$50k - $60k,dev:front end:javascript:react:ethereum,5mo
-Satoshis Games,https://web3.career/ux-ui-designer-satoshis-games/13653,UX/UI Designer,$35k - $50k,design:non tech,5mo
-Pivot + Edge,https://web3.career/visual-product-designer-pivotandedge/13652,Visual/Product Designer,$45k - $135k,design:non tech:javascript,5mo
-Nuri,https://web3.career/chief-product-officer-cpo-nuri/13651,Chief Product Officer (CPO),$79k - $200k,executive:remote,5mo
-Opera,https://web3.career/qa-engineer-for-crypto-opera/13650,QA Engineer for Crypto,$62k - $10k,dev:quality assurance:crypto:remote,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Autograph,https://web3.career/business-development-director-autograph/14441,"Santa Monica,
+United States",Business Development Director,$40k - $150k,sales:non tech:executive:nft,4mo
+Flylance,https://web3.career/blockchain-developer-hyperledger-fabric-flylance/14440,"New York,
+United States",Blockchain Developer (Hyperledger Fabric),$50k - $130k,dev:blockchain:react:ethereum:javascript,4mo
+Voice,https://web3.career/senior-blockchain-software-engineer-voice-8/14437,"New York,
+United States",Senior Blockchain Software Engineer,$80k - $200k,dev:senior:blockchain:solidity:solana,4mo
+Mansa,https://web3.career/director-blockchain-crypto-stealth-video-streaming-company/14436,"Los Angeles,
+United States",Director - Blockchain & Crypto,$0k,executive:blockchain:crypto:nft,4mo
+Ripple,https://web3.career/university-recruiter-ripple/14435,"San Francisco,
+United States",University Recruiter,$40k - $70k,recruiter:non tech,4mo
+Sacred Finance,https://web3.career/defi-strategist-sacred-finance-1/14434,"Singapore,
+Singapore",DeFi Strategist,$60k - $80k,defi:solidity:ethereum,4mo
+Crypto.com,https://web3.career/trading-data-analyst-quant-trading-global-fintech-startup-crypto-com/14433,Remote,"Trading Data Analyst, Quant Trading - Global Fintech Startup",,analyst:data science:finance:remote,4mo
+ARXUM GmbH,https://web3.career/software-developer-customer-projects-m-f-d-3481022-software-developer-customer-projects-m-f-d/14432,Remote,"Software Developer Customer Projects (m,f,d)",$60k - $180k,dev:javascript:remote,4mo
+RECUR,https://web3.career/gaming-producer-sports-remote-recur/14427,"Los Angeles,
+United States",Gaming Producer - Sports (Remote),,remote:game dev:ethereum:nft,4mo
+MoonPay,https://web3.career/sourcing-specialist-technology-moonpay/14426,"London,
+United Kingdom",Sourcing Specialist (Technology),,,4mo
+BitGo,https://web3.career/technical-support-engineer-weekend-shift-bitgo/14425,"Palo Alto,
+United States",Technical Support Engineer - Weekend Shift,$90k - $140k,dev:customer support,4mo
+BitGo,https://web3.career/technical-support-engineer-bitgo/14424,"New York,
+United States",Technical Support Engineer,$90k - $140k,dev:customer support,4mo
+BitGo,https://web3.career/technical-support-engineer-bitgo/14423,"Palo Alto,
+United States",Technical Support Engineer,$90k - $140k,dev:customer support,4mo
+Binance,https://web3.career/data-application-lead-binance/14421,Remote,Data Application Lead,$95k - $200k,lead:remote,4mo
+Blockstream,https://web3.career/sales-operations-manager-blockstream/14419,"New York,
+United States",Sales Operations Manager,,operations:sales:non tech,4mo
+Syndica.io,https://web3.career/solidity-smart-contract-engineer-syndica-io/14418,"Houston,
+United States",Solidity/Smart Contract Engineer,$0k,dev:smart contract:solidity:web3js:solana,4mo
+Web3 Foundation,https://web3.career/technical-grants-lead-web3foundation/14417,Remote,Technical Grants Lead,$100k - $180k,lead:javascript:rust:remote,4mo
+Electron Labs,https://web3.career/blockchain-engineer-rust-golang-atomlabs/14416,India,Blockchain Engineer : rust/golang,$40k - $50k,dev:golang:rust:blockchain:solidity,4mo
+Binance,https://web3.career/senior-search-engineer-architect-binance/14415,Remote,Senior Search Engineer/Architect,,architecture:dev:senior:remote,4mo
+Web3 Foundation,https://web3.career/technical-customer-support-part-time-web3foundation/14414,Remote,Technical Customer Support (Part-time),,customer support:part time:remote,4mo
+Figment,https://web3.career/technical-project-manager-figment/14413,"Toronto,
+Canada",Technical Project Manager,$50k - $150k,project manager:non tech,4mo
+Crypto.com,https://web3.career/it-support-engineer-sg-crypto-com/14411,"Singapore,
+Singapore",IT Support Engineer (SG),$90k - $140k,dev:customer support,4mo
+Voice,https://web3.career/senior-blockchain-software-engineer-voice/14410,"New York,
+United States",Senior Blockchain Software Engineer,$80k - $200k,dev:senior:blockchain:solidity:solana,4mo
+Wintermute,https://web3.career/senior-finance-analyst-wintermute-trading/14407,"London,
+United Kingdom",Senior Finance Analyst,,analyst:finance:senior,4mo
+Voice,https://web3.career/senior-blockchain-software-engineer-voice/14406,"New York,
+United States",Senior Blockchain Software Engineer,$80k - $200k,dev:senior:blockchain:solidity:solana,4mo
+Comitium,https://web3.career/blockchain-developer-comitium/14405,United Kingdom,Blockchain Developer,$0k,dev:blockchain,4mo
+StockX,https://web3.career/senior-manager-content-stockx/14403,"Detroit,
+United States","Senior Manager, Content",$90k - $200k,senior:nft,4mo
+OpenSea,https://web3.career/director-of-corporate-development-opensea/14401,Remote,Director of Corporate Development,$79k - $200k,executive:remote,4mo
+CoinFlip,https://web3.career/social-media-digital-community-manager-coinflip/14400,"Chicago,
+United States",Social Media & Digital Community Manager,$45k - $100k,community manager:non tech:social media,4mo
+RECUR,https://web3.career/gaming-producer-film-remote-recur/14399,"Los Angeles,
+United States",Gaming Producer - Film (Remote),,remote:game dev:ethereum:nft,4mo
+RECUR,https://web3.career/principal-devops-engineer-remote-recur/14398,"Boston,
+United States",Principal DevOps Engineer (Remote),$95k - $180k,remote:devops:dev:executive:nft,4mo
+Careers at Paxful,https://web3.career/tech-lead-kyc-paxful/14397,"Saint Petersburg,
+Russia",Tech Lead - KYC,,kyc:lead:tech lead:react:php,4mo
+Figure,https://web3.career/product-counsel-blockchain-payments-and-lending-figure/14396,"New York,
+United States","Product Counsel - Blockchain, Payments and Lending",,legal:blockchain,4mo
+LATOKEN,https://web3.career/analyst-latoken/14395,Remote,Analyst,$50k - $120k,analyst:nft:remote,4mo
+Mysten Labs,https://web3.career/software-engineer-rust-remote-europe-mystenlabs/14394,Remote,"Software Engineer, Rust (Remote, Europe)",$70k - $180k,remote:dev:rust,4mo

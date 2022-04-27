@@ -1,36 +1,71 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Blockchain,https://web3.career/social-media-manager-blockchain/7292,Social Media Manager,$33k - $85k,social media:non tech,7mo
-0x,https://web3.career/software-engineer-blockchain-0x/7291,Software Engineer — Blockchain,$52k - $160k,dev:blockchain:solidity:ethereum:golang,7mo
-Figure,https://web3.career/staff-software-engineer-ethereum-integration-figure/7290,"Staff Software Engineer, Ethereum Integration",$63k - $160k,dev:solidity:ethereum:javascript:java,7mo
-Blockchain,https://web3.career/senior-software-engineer-payments-blockchain/7289,"Senior Software Engineer, Payments",$130k - $160k,dev:senior:scala:java,7mo
-Blockchain,https://web3.career/senior-software-engineer-exchange-blockchain/7288,"Senior Software Engineer, Exchange",$50k - $200k,dev:senior:java,7mo
-Blockchain,https://web3.career/affiliate-partnership-manager-blockchain/7287,Affiliate Partnership Manager,$100k - $200k,sales:non tech:marketing,7mo
-Blockchain,https://web3.career/product-communications-lead-blockchain/7286,Product Communications Lead,$60k - $200k,lead,7mo
-Amun,https://web3.career/blockchain-developer-amun/7285,Blockchain Developer,$52k - $160k,dev:blockchain:solidity:solana:ethereum,7mo
-Blockchain,https://web3.career/product-manager-blockchain/7284,Product Manager,$69k - $160k,product manager:non tech,7mo
-Figure,https://web3.career/compliance-analyst-figure/7283,Compliance Analyst,,compliance:analyst,7mo
-Paxful,https://web3.career/senior-product-manager-mobile-paxful/7281,Senior Product Manager - Mobile,,mobile:product manager:non tech:senior:react,7mo
-U410,https://web3.career/cryptocurrency-infrastructure-engineer-u410/7280,Cryptocurrency Infrastructure Engineer,$90k - $433k,dev:crypto:rust,7mo
-Blockchain,https://web3.career/junior-executive-assistant-ceo-office-blockchain/7279,Junior Executive Assistant - CEO office,,executive:junior:entry level,7mo
-Okcoin,https://web3.career/legal-operations-analyst-okcoin/7277,Legal Operations Analyst,,analyst:legal:operations,7mo
-Rainberry,https://web3.career/product-designer-rainberry/7269,Product Designer,$50k - $150k,design:non tech,7mo
-Bitgo,https://web3.career/university-recruiter-bitgo/7267,University Recruiter,$40k - $70k,recruiter:non tech,7mo
-Recur,https://web3.career/senior-devops-engineer-remote-recur/7266,Senior DevOps Engineer (Remote),$95k - $180k,remote:devops:dev:senior:ethereum,7mo
-Econetwork,https://web3.career/content-editor-econetwork/7265,Content Editor,$13k - $45k,copywriting,7mo
-Paradigm62,https://web3.career/head-of-marketing-remote-paradigm62/7263,Head of Marketing - Remote,$45k - $158k,executive:remote:marketing:non tech,7mo
-Okcoin,https://web3.career/software-engineer-onchain-defi-okcoin/7262,"Software Engineer, Onchain / Defi",$95k - $260k,dev:defi:java,7mo
-Bitcoindepot,https://web3.career/sales-enablement-manager-bitcoindepot/7261,Sales Enablement Manager,$29k - $43k,sales:non tech:ethereum,7mo
-Foundrydigital,https://web3.career/mining-advisory-analyst-foundrydigital/7259,Mining Advisory Analyst,,analyst:scala,7mo
-Amun,https://web3.career/etf-operations-analyst-amun/7258,ETF Operations Analyst,,analyst:finance:operations,7mo
-Bitmex,https://web3.career/it-support-manager-bitmex/7256,IT Support Manager,$40k - $80k,customer support,7mo
-Amun,https://web3.career/vp-of-product-amun/7255,VP of Product,$135k - $170k,product manager:non tech:executive,7mo
-Fpg,https://web3.career/defi-software-engineer-fpg/7252,DeFi Software Engineer,$100k - $250k,dev:defi:solidity,7mo
-0x,https://web3.career/product-manager-0x-api-0x/7251,Product Manager - 0x API,,api:product manager:non tech:ethereum,7mo
-Figment,https://web3.career/rewards-analyst-figment/7250,Rewards Analyst,$40k - $120k,analyst,7mo
-Kava,https://web3.career/content-specialist-kava/7249,Content Specialist,$25k - $96k,marketing:non tech:copywriting,7mo
-Cakedefi,https://web3.career/marketing-editor-cakedefi/7248,Marketing Editor,$45k - $130k,marketing:non tech,7mo
-Gluwa,https://web3.career/technical-writer-blockchain-api-gluwa/7247,"Technical Writer (Blockchain, API)",,api:analyst:blockchain:ethereum,7mo
-Coindesk,https://web3.career/technology-reporter-blockchain-protocols-coindesk/7243,"Technology Reporter, Blockchain Protocols",$60k - $120k,blockchain:ethereum:node,7mo
-Moonpay,https://web3.career/compliance-operations-analyst-singapore-moonpay/7241,"Compliance Operations Analyst, Singapore 🇸🇬",,compliance:analyst:operations,7mo
-Chainalysis,https://web3.career/senior-engineering-manager-investments-chainalysis/7239,"Senior Engineering Manager, Investments",$46k - $110k,executive:senior,7mo
-Foundrydigital,https://web3.career/mining-technical-lead-foundrydigital/7238,Mining Technical Lead,$96k - $220k,lead:tech lead,7mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+MoonPay,https://web3.career/it-security-engineer-moonpay/545,"London,
+United Kingdom",IT Security Engineer,$95k - $250k,dev:security,7mo
+MoonPay,https://web3.career/senior-ux-designer-moonpay/544,"London,
+United Kingdom",Senior UX Designer,$60k - $120k,design:non tech:senior,7mo
+MoonPay,https://web3.career/senior-ui-designer-moonpay/543,"London,
+United Kingdom",Senior UI Designer,$60k - $120k,design:non tech:senior,7mo
+MoonPay,https://web3.career/senior-product-manager-moonpay/542,"London,
+United Kingdom",Senior Product Manager,$80k - $150k,product manager:non tech:senior,7mo
+MoonPay,https://web3.career/senior-product-designer-moonpay/541,"London,
+United Kingdom",Senior Product Designer,$60k - $120k,design:non tech:senior,7mo
+MoonPay,https://web3.career/head-of-total-reward-moonpay/540,"London,
+United Kingdom",Head of Total Reward,$70k - $180k,executive,7mo
+MoonPay,https://web3.career/global-hr-manager-moonpay/539,"London,
+United Kingdom",Global HR Manager,$60k - $150k,hr:non tech,7mo
+MoonPay,https://web3.career/seo-lead-moonpay/538,"London,
+United Kingdom",SEO Lead,,lead:seo:non tech,7mo
+MoonPay,https://web3.career/senior-brand-marketing-manager-moonpay/537,"London,
+United Kingdom",Senior Brand Marketing Manager,$46k - $109k,marketing:non tech:senior,7mo
+MoonPay,https://web3.career/performance-marketing-manager-moonpay/536,"London,
+United Kingdom",Performance Marketing Manager,$45k - $130k,marketing:non tech,7mo
+MoonPay,https://web3.career/senior-account-manager-moonpay/535,"Singapore,
+Singapore",Senior Account Manager,,account manager:senior,7mo
+MoonPay,https://web3.career/fp-a-associate-eu-moonpay/534,"London,
+United Kingdom",FP&A Associate (EU),,,7mo
+MoonPay,https://web3.career/bookkeeper-eu-moonpay/533,"London,
+United Kingdom",Bookkeeper (EU),$25k - $150k,accounting,7mo
+MoonPay,https://web3.career/senior-blockchain-engineer-ethereum-moonpay/532,"London,
+United Kingdom",Senior Blockchain Engineer (Ethereum),$80k - $200k,dev:senior:blockchain:solidity:ethereum,7mo
+MoonPay,https://web3.career/senior-data-engineer-moonpay/531,"London,
+United Kingdom",Senior Data Engineer,$130k - $160k,data science:dev:senior,7mo
+MoonPay,https://web3.career/senior-data-analyst-moonpay/530,"London,
+United Kingdom",Senior Data Analyst,,analyst:data science:senior,7mo
+MoonPay,https://web3.career/data-engineer-moonpay/529,"London,
+United Kingdom",Data Engineer,$70k - $160k,data science:dev,7mo
+MoonPay,https://web3.career/compliance-operations-analyst-us-moonpay/528,"New York,
+United States","Compliance Operations Analyst, US 🇺🇸",,compliance:analyst:operations,7mo
+MoonPay,https://web3.career/compliance-operations-analyst-uk-moonpay/527,"London,
+United Kingdom","Compliance Operations Analyst, UK 🇬🇧",,compliance:analyst:operations,7mo
+MoonPay,https://web3.career/compliance-operations-analyst-ireland-moonpay/526,"Dublin,
+Ireland","Compliance Operations Analyst, Ireland 🇮🇪",,compliance:analyst:operations,7mo
+Kava Labs,https://web3.career/developer-support-engineer-kava/525,"San Francisco,
+United States",Developer Support Engineer,,dev:customer support:ethereum:golang,7mo
+Kava Labs,https://web3.career/executive-assistant-kava/524,"Portland,
+United States",Executive Assistant,$70k - $180k,executive,7mo
+Kava Labs,https://web3.career/business-development-asia-kava/523,"Shanghai,
+China","Business Development, Asia",$26k - $140k,sales:non tech,7mo
+Kava Labs,https://web3.career/social-media-and-growth-hacker-manager-kava/522,"San Francisco,
+United States",Social Media and Growth Hacker Manager,$28k - $100k,marketing:non tech:social media,7mo
+Kava Labs,https://web3.career/motion-designer-kava/521,"San Francisco,
+United States",Motion Designer,$50k - $150k,design:non tech,7mo
+Kava Labs,https://web3.career/director-of-communications-kava/520,"San Francisco,
+United States",Director of Communications,$70k - $180k,executive,7mo
+Kava Labs,https://web3.career/senior-finance-manager-kava/519,"San Francisco,
+United States",Senior Finance Manager,$50k - $150k,finance:senior,7mo
+Gnosis,https://web3.career/senior-frontend-engineer-react-js-m-w-d-gnosis/517,"Berlin,
+Germany",Senior Frontend Engineer (React.js) (m/w/d),$50k - $140k,javascript:dev:front end:react:senior,7mo
+Gnosis,https://web3.career/marketing-lead-m-w-d-gnosis/516,"Berlin,
+Germany",Marketing Lead (m/w/d),$50k - $120k,lead:marketing:non tech:node:remote,7mo
+Gnosis,https://web3.career/hr-generalist-hr-m-w-d-gnosis/515,"Berlin,
+Germany",HR Generalist - HR (m/w/d),,hr:non tech:node:remote,7mo
+Gnosis,https://web3.career/legal-counsel-m-w-d-gnosis/514,"Berlin,
+Germany",Legal Counsel (m/w/d),,legal:ethereum:remote,7mo
+Gnosis,https://web3.career/hr-generalist-operations-m-w-d-gnosis/513,"Berlin,
+Germany",HR Generalist - Operations (m/w/d),,hr:non tech:operations:ethereum:node,7mo
+Gnosis,https://web3.career/devops-engineer-m-w-d-gnosis/512,"Berlin,
+Germany",DevOps Engineer (m/w/d),$95k - $145k,devops:dev:ethereum:remote,7mo
+Gnosis,https://web3.career/data-analyst-m-w-d-gnosis/511,"Berlin,
+Germany",Data Analyst (m/w/d),,analyst:data science:ethereum:javascript:rust,7mo
+Gluwa,https://web3.career/user-interface-designer-gluwa/510,"San Francisco,
+United States",User Interface Designer,$80k - $150k,design:non tech:ethereum,7mo

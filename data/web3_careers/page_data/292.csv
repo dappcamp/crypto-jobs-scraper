@@ -1,36 +1,54 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Consensys,https://web3.career/protocol-debugging-engineer-consensys/14077,Protocol & Debugging Engineer,$63k - $160k,dev:solidity:ethereum:javascript:node,4mo
-Consensys,https://web3.career/lead-software-engineer-consensys/14076,Lead Software Engineer,$100k - $200k,dev:lead:solidity:ethereum:golang,4mo
-Consensys,https://web3.career/data-engineer-remote-consensys/14075,Data Engineer (Remote),,remote:data science:dev:ethereum:java,4mo
-Consensys,https://web3.career/data-engineer-remote-consensys/14074,Data Engineer (Remote),,remote:data science:dev:ethereum:java,4mo
-Consensys,https://web3.career/data-engineer-remote-consensys/14073,Data Engineer (Remote),,remote:data science:dev:ethereum:java,4mo
-Consensys,https://web3.career/data-engineer-remote-consensys/14072,Data Engineer (Remote),,remote:data science:dev:ethereum:java,4mo
-Consensys,https://web3.career/data-engineer-remote-consensys/14071,Data Engineer (Remote),,remote:data science:dev:ethereum:java,4mo
-Consensys,https://web3.career/data-engineer-remote-consensys/14070,Data Engineer (Remote),,remote:data science:dev:ethereum:java,4mo
-Consensys,https://web3.career/data-engineer-dataorg-consensys/14069,Data Engineer (DataOrg),,data science:dev:ethereum:remote,4mo
-Consensys,https://web3.career/business-operations-analyst-consensys/14068,Business Operations Analyst,,analyst:operations:ethereum:remote,4mo
-Wirex Limited,https://web3.career/senior-android-developer-wirexlimited/14067,Senior Android Developer,,android:mobile:dev:senior,4mo
-GSR,https://web3.career/enterprise-technology-it-engineer-associate-singapore-gsr/14062,"Enterprise Technology IT Engineer, Associate - Singapore",$60k - $180k,dev,4mo
-GSR,https://web3.career/enterprise-technology-it-engineer-associate-new-york-gsr/14061,"Enterprise Technology IT Engineer, Associate - New York",$60k - $180k,dev,4mo
-Mythical Games,https://web3.career/data-engineer-mythicalgames/14060,Data Engineer,$70k - $160k,data science:dev,4mo
-Qubit9 GmbH,https://web3.career/general-management-entrepreneurship-resident-m-w-d-cloud-blockchain-qubit9/14059,General Management & Entrepreneurship Resident (m/w/d) - Cloud & Blockchain,$109k - $13k,cloud:blockchain,4mo
-Binance,https://web3.career/dispute-analyst-p2p-europe-binance/14057,Dispute Analyst - P2P (Europe),$45k - $120k,analyst:remote,4mo
-Binance,https://web3.career/data-analyst-nft-binance/14056,Data Analyst（NFT）,$36k - $120k,analyst:data science:nft:remote,4mo
-Baserank,https://web3.career/junior-quantitative-crypto-asset-analyst-baserank/14054,Junior Quantitative Crypto Asset Analyst,$10k - $13k,analyst:junior:entry level:crypto:ethereum,4mo
-Linum Labs,https://web3.career/blockchain-community-manager-south-africa-linum-labs/14053,Blockchain Community Manager South Africa,$15k - $30k,community manager:non tech:blockchain:ethereum,4mo
-Nuri,https://web3.career/working-student-intern-fp-a-visiting-analyst-nuri/14052,Working Student/Intern FP&A Visiting Analyst,$20k - $30k,analyst:intern:entry level:remote,4mo
-Kraken Digital Asset Exchange,https://web3.career/business-admin-for-the-director-of-compliance-kraken/14051,Business Admin for the Director of Compliance,,compliance:executive,4mo
-Sygnum Bank AG,https://web3.career/security-operations-engineer-zurich-or-lausanne-sygnum/14050,"Security Operations Engineer, Zurich or Lausanne",,dev:operations:security:ethereum,4mo
-Autonomous,https://web3.career/constant-growth-fresher-autonomous/14047,[Constant] Growth Fresher,$55k - $140k,marketing:non tech:nft:remote,4mo
-SwissBorg,https://web3.career/senior-product-designer-remote-swissborg/14046,Senior Product Designer (Remote),$50k - $135k,remote:design:non tech:senior,4mo
-ModSquad,https://web3.career/content-moderation-nft-related-discord-community-modsquad/14044,Content Moderation - NFT-related Discord Community,$35k - $101k,community manager:non tech:nft:remote,4mo
-MetaMask,https://web3.career/sr-blockchain-engineer-truffle-developer-experience-tooling-metamask/14043,Sr. Blockchain Engineer (Truffle Developer Experience & Tooling),$80k - $200k,dev:senior:blockchain:solidity:ethereum,4mo
-Binance,https://web3.career/java-developer-europe-binance/14042,Java Developer (Europe),$35k - $180k,dev:java:remote,4mo
-Next Big Thing AG,https://web3.career/junior-social-media-manager-f-m-x-nextbigthing/14041,Junior Social Media Manager (f/m/x),,junior:entry level:social media:non tech:remote,4mo
-Pocket Worlds,https://web3.career/frontend-developer-pocketworlds/14038,Frontend Developer,$50k - $144k,dev:front end:react:nft:javascript,4mo
-Web3 Foundation,https://web3.career/security-operations-engineer-web3foundation/14035,Security Operations Engineer,,dev:operations:security:rust,4mo
-Cake Pte Ltd,https://web3.career/product-manager-cakedefi/14034,Product Manager,$69k - $160k,product manager:non tech,4mo
-Sygnum Bank AG,https://web3.career/senior-project-manager-sygnum/14033,Senior Project Manager,,project manager:non tech:senior:ethereum,4mo
-Immutable,https://web3.career/talent-acquisition-lead-people-ops-finance-immutable/14032,"Talent Acquisition Lead (People, Ops & Finance)",,finance:lead:recruiter:non tech:ethereum,4mo
-Chainlink Labs,https://web3.career/strategic-programs-manager-chainlink/14031,Strategic Programs Manager,$56k - $160k,remote,4mo
-Ondo Finance,https://web3.career/senior-front-end-engineer-web3-ondofinance/14028,Senior Front-End Engineer (Web3),$70k - $190k,dev:front end:senior:remote,4mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+IOTA Foundation,https://web3.career/senior-devops-engineer-iota/14759,Remote,(Senior) DevOps Engineer,$120k - $200k,devops:dev:senior:golang:remote,4mo
+BASIC®,https://web3.career/fullstack-crypto-engineer-us-remote-basic/14758,Remote,Fullstack Crypto Engineer - US Remote,$70k - $200k,remote:dev:full stack:crypto:react,4mo
+Binance,https://web3.career/senior-fraud-risk-analyst-binance/14757,Remote,Senior Fraud Risk Analyst,$150k - $185k,analyst:security:senior:remote,4mo
+Sygnum Bank AG,https://web3.career/digital-assets-operations-team-leader-singapore-sygnum/14755,"Singapore,
+Singapore","Digital Assets Operations Team Leader, Singapore",,finance:lead:operations:ethereum,4mo
+Sygnum Bank AG,https://web3.career/tech-lead-blockchain-protocol-staking-sygnum/14753,Switzerland,Tech Lead - Blockchain Protocol & Staking,$78k - $118k,lead:tech lead:blockchain:react:javascript,4mo
+Polygon,https://web3.career/vp-of-engineering-polygon/14752,Remote,VP of Engineering,$79k - $158k,executive:ethereum:remote,4mo
+Axoni,https://web3.career/software-engineer-axoni/14751,Remote,Software Engineer,$65k - $180k,dev:remote,4mo
+Ramp,https://web3.career/senior-frontend-engineer-rampnetwork/14750,"Warsaw,
+Poland",Senior Frontend Engineer,$70k - $190k,dev:front end:senior:web3js:react,4mo
+Crypto.com,https://web3.career/human-resources-generalist-global-fintech-startup-crypto-com/14749,"Miami,
+United States",Human Resources Generalist - Global Fintech Startup,$120k - $225k,finance:nft,4mo
+Textile,https://web3.career/blockchain-engineer-textile/14747,Remote,Blockchain Engineer,$90k - $170k,dev:blockchain:solidity:golang:rust,4mo
+Textile,https://web3.career/backend-api-engineer-textile/14746,Remote,Backend API Engineer,$90k - $170k,api:backend:dev:solidity:golang,4mo
+Next Big Thing AG,https://web3.career/sales-manager-f-m-x-for-zero-defects-our-saas-startup-in-the-field-of-industrial-quality-management-nextbigthing/14745,"Berlin,
+Germany","Sales Manager (f/m/x) for ZERO defects, our SaaS startup in the field of industrial quality management",$30k - $100k,saas:sales:non tech:remote,4mo
+Nuri,https://web3.career/application-security-engineer-nuri/14744,"Berlin,
+Germany",Application Security Engineer,$95k - $250k,dev:security:remote,4mo
+Textile,https://web3.career/ecosystem-partner-manager-textile/14742,Remote,Ecosystem Partner Manager,$90k - $150k,nft:remote,4mo
+Finoa GmbH,https://web3.career/blockchain-integration-engineer-m-f-d-finoa/14738,"Berlin,
+Germany",Blockchain Integration Engineer (m/f/d),$70k - $190k,dev:blockchain:remote,4mo
+cLabs,https://web3.career/technical-program-manager-clabs/14737,Remote,Technical Program Manager,$79k - $200k,executive:remote,4mo
+Chainlink Labs,https://web3.career/marketing-coordinator-chainlink/14736,Remote,Marketing Coordinator,$25k - $120k,marketing:non tech:remote,4mo
+Bitski,https://web3.career/technical-copy-writer-bitski/14735,"San Francisco,
+United States",Technical Copy Writer,$55k - $150k,nft,4mo
+Chainalysis,https://web3.career/compliance-advisory-lead-chainalysis/14734,"New York,
+United States",Compliance Advisory Lead,,compliance:lead,4mo
+Chainalysis,https://web3.career/associate-marketing-manager-north-american-public-sector-chainalysis/14733,"Washington,
+United States","Associate Marketing Manager, North American Public Sector",$45k - $130k,marketing:non tech,4mo
+Chainalysis,https://web3.career/engineering-manager-investigations-and-intelligence-chainalysis/14732,"Copenhagen,
+Denmark","Engineering Manager, Investigations and Intelligence",$70k - $180k,executive,4mo
+Textile,https://web3.career/blockchain-engineer-textileio/14730,Remote,Blockchain Engineer,$52k - $160k,dev:blockchain:solidity:ethereum:remote,4mo
+MobileCoin,https://web3.career/senior-software-engineer-fog-mobilecoin/14729,"San Francisco,
+United States","Senior Software Engineer, Fog",$120k - $210k,dev:senior:rust,4mo
+Clarity Protocol,https://web3.career/web3-senior-backend-developer-go-solidity-clarity-protocol/14728,Netherlands,"Web3 Senior Backend Developer (Go, Solidity)",$0k,backend:dev:golang:senior:solidity,4mo
+Nuri,https://web3.career/data-engineer-nuri/14727,"Berlin,
+Germany",Data Engineer,,data science:dev:remote,4mo
+Nansen.ai,https://web3.career/social-media-intern-marketing-nansen/14724,"Berlin,
+Germany",Social Media Intern (Marketing),$24k - $48k,intern:entry level:marketing:non tech:social media,4mo
+NEAR,https://web3.career/director-of-business-operations-near/14723,"New York,
+United States",Director of Business Operations,$150k - $230k,executive:operations,4mo
+Vaultoro,https://web3.career/lead-engineer-defi-blockchain-vaultoro/14722,United Kingdom,Lead Engineer (DeFi/ Blockchain),$100k - $160k,dev:lead:blockchain:defi:solidity,4mo
+Time Space Ventures,https://web3.career/blockchain-developer-time-space-ventures/14721,India,Blockchain developer,$46k - $117k,dev:blockchain:solidity:ethereum:nft,4mo
+Filecoin Foundation,https://web3.career/social-media-manager-remote-filecoin/14720,"San Francisco,
+United States",Social Media Manager (Remote),$35k - $110k,remote:social media:non tech,4mo
+Public,https://web3.career/operations-analyst-public/14719,United States,Operations Analyst,,analyst:operations,4mo
+Mojito,https://web3.career/senior-software-engineer-frontend-mojito/14717,United States,Senior Software Engineer - Frontend,$70k - $190k,dev:front end:senior:react:solidity,4mo
+Blockdaemon,https://web3.career/technical-business-analyst-blockdaemon/14715,"San Francisco,
+United States",Technical Business Analyst,,analyst:node,4mo
+Blockdaemon,https://web3.career/learning-development-program-manager-blockdaemon/14714,"San Francisco,
+United States",Learning & Development Program Manager,$70k - $180k,executive,4mo
+Blockdaemon,https://web3.career/communications-lead-blockdaemon/14713,"San Francisco,
+United States",Communications Lead,$60k - $200k,lead,4mo

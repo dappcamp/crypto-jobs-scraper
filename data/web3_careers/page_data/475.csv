@@ -1,36 +1,51 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Blockchain.com,https://web3.career/head-of-tax-blockchain/225,Head of Tax,$120k - $150k,executive:accounting,7mo
-Blockchain.com,https://web3.career/global-assistant-controller-blockchain/224,Global Assistant Controller,,finance:legal,7mo
-Blockchain.com,https://web3.career/finance-operations-payment-specialist-blockchain/223,Finance Operations Payment Specialist,$55k - $200k,finance:operations,7mo
-Blockchain.com,https://web3.career/finance-data-analyst-blockchain/222,Finance Data Analyst,,analyst:data science:finance,7mo
-Blockchain.com,https://web3.career/equity-payroll-manager-blockchain/221,Equity & Payroll Manager,$25k - $150k,accounting,7mo
-Blockchain.com,https://web3.career/accounting-manager-blockchain/220,Accounting Manager,$25k - $150k,accounting,7mo
-Blockchain.com,https://web3.career/senior-cyber-threat-intelligence-analyst-blockchain/219,Senior Cyber Threat Intelligence Analyst,$150k - $185k,security:analyst:senior,7mo
-Blockchain.com,https://web3.career/senior-software-engineer-low-latency-blockchain/218,"Senior Software Engineer, Low Latency",$50k - $200k,dev:senior:java,7mo
-Blockchain.com,https://web3.career/senior-front-end-engineer-lithuania-blockchain/217,Senior Front End Engineer (Lithuania),$70k - $190k,dev:front end:senior:react:javascript,7mo
-Blockchain.com,https://web3.career/senior-front-end-engineer-blockchain/216,Senior Front End Engineer,$70k - $190k,dev:front end:senior:react:javascript,7mo
-Blockchain.com,https://web3.career/front-end-engineer-lithuania-blockchain/215,Front End Engineer (Lithuania),$50k - $144k,dev:front end:react:javascript,7mo
-Blockchain.com,https://web3.career/front-end-engineer-blockchain/214,Front End Engineer,$50k - $144k,dev:front end:react:javascript,7mo
-Blockchain.com,https://web3.career/software-engineer-explorer-data-products-blockchain/213,"Software Engineer, Explorer & Data Products",$60k - $158k,dev:ethereum,7mo
-Blockchain.com,https://web3.career/senior-software-engineer-explorer-data-products-blockchain/212,"Senior Software Engineer, Explorer & Data Products",$80k - $200k,dev:senior:ethereum,7mo
-Blockchain.com,https://web3.career/front-end-engineer-explorer-data-products-blockchain/211,"Front End Engineer, Explorer & Data Products",$50k - $144k,dev:front end:react:javascript,7mo
-Blockchain.com,https://web3.career/data-engineer-explorer-data-products-blockchain/210,"Data Engineer, Explorer & Data Products",$130k - $160k,data science:dev:scala:java,7mo
-Blockchain.com,https://web3.career/software-engineer-platform-lithuania-blockchain/209,"Software Engineer, Platform (Lithuania)",,dev:scala:java,7mo
-Blockchain.com,https://web3.career/software-engineer-platform-blockchain/208,"Software Engineer, Platform",,dev:scala:java,7mo
-Blockchain.com,https://web3.career/software-engineer-core-blockchain/207,"Software Engineer, Core",,dev:scala:java,7mo
-Blockchain.com,https://web3.career/senior-software-engineer-risk-fraud-blockchain/206,"Senior Software Engineer, Risk & Fraud",$95k - $250k,dev:security:senior:scala:java,7mo
-Blockchain.com,https://web3.career/senior-software-engineer-platform-lithuania-blockchain/205,"Senior Software Engineer, Platform (Lithuania)",$130k - $160k,dev:senior:scala:java,7mo
-Blockchain.com,https://web3.career/senior-software-engineer-platform-blockchain/204,"Senior Software Engineer, Platform",$130k - $160k,dev:senior:scala:java,7mo
-Blockchain.com,https://web3.career/senior-software-engineer-custody-blockchain/203,"Senior Software Engineer, Custody",$130k - $160k,dev:senior:scala:java,7mo
-Blockchain.com,https://web3.career/senior-software-engineer-core-blockchain/202,"Senior Software Engineer, Core",$130k - $160k,dev:senior:scala:java,7mo
-Blockchain.com,https://web3.career/senior-data-scientist-risk-fraud-blockchain/201,Senior Data Scientist - Risk & Fraud,,data science:security:senior,7mo
-Blockchain.com,https://web3.career/data-analyst-blockchain/200,Data Analyst,$36k - $72k,analyst:data science,7mo
-Blockchain.com,https://web3.career/prime-services-associate-blockchain/199,Prime Services Associate,$25k - $150k,accounting,7mo
-Blockchain.com,https://web3.career/kyc-onboarding-program-manager-blockchain/198,KYC Onboarding Program Manager,,kyc:executive,7mo
-Blockchain.com,https://web3.career/customer-success-associate-blockchain/197,Customer Success Associate,$40k - $80k,customer support,7mo
-Blockchain.com,https://web3.career/monitoring-and-reporting-lead-uk-emea-and-row-blockchain/196,"Monitoring and Reporting Lead, UK, EMEA and ROW",$60k - $200k,lead,7mo
-Blockchain.com,https://web3.career/kyc-onboarding-lead-uk-emea-and-row-blockchain/195,"KYC Onboarding Lead, UK, EMEA and ROW",,kyc:lead,7mo
-Blockchain.com,https://web3.career/kyc-onboarding-lead-americas-blockchain/194,"KYC Onboarding Lead, Americas",,kyc:lead,7mo
-BitMEX,https://web3.career/human-resources-information-system-analyst-bitmex/193,Human Resources Information System Analyst,$40k - $120k,analyst,7mo
-BitMEX,https://web3.career/ux-product-designer-bitmex/192,UX Product Designer,$50k - $150k,design:non tech,7mo
-BitMEX,https://web3.career/ux-product-designer-bitmex/191,UX Product Designer,$50k - $150k,design:non tech,7mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Galaxy Digital Services,https://web3.career/gdib-associate-galaxydigitalservices/858,,GDIB Associate,,finance:legal,7mo
+Thesis*,https://web3.career/sr-back-end-engineer-web3-tally-thesis/857,,Sr. Back End Engineer Web3 - Tally,$70k - $200k,backend:dev:senior,7mo
+CoinFlip,https://web3.career/corporate-social-responsibility-diversity-equity-inclusion-manager-coinflip/855,"Chicago,
+United States","Corporate Social Responsibility, Diversity, Equity, & Inclusion Manager",$45k - $130k,marketing:non tech,7mo
+Kraken Digital Asset Exchange,https://web3.career/head-of-research-cf-benchmarks-kraken/854,Remote,Head of Research - CF Benchmarks,$79k - $200k,executive:remote,7mo
+Tendermint,https://web3.career/design-manager-remote-tendermint/853,Remote,Design Manager - Remote,,remote:executive:design:non tech,7mo
+Bitpanda,https://web3.career/regulatory-reporting-specialist-m-f-d-bitpanda/852,"Vienna,
+Austria",Regulatory Reporting Specialist (m/f/d),$24k - $140k,legal,7mo
+SwissBorg,https://web3.career/retention-manager-remote-swissborg/851,"Lisbon,
+Portugal",Retention Manager (Remote),$25k - $120k,remote:marketing:non tech:product manager,7mo
+Stacked,https://web3.career/react-native-engineer-remote-us-stacked-invest/850,Remote,React Native Engineer (Remote - US),$65k - $120k,remote:dev:react native:mobile:javascript,7mo
+Bitpanda,https://web3.career/community-specialist-german-english-f-m-d-bitpanda/849,"Vienna,
+Austria",Community Specialist - German/English (f/m/d),$40k - $100k,community manager:non tech,7mo
+FTX US,https://web3.career/administrative-assistant-part-time-ftxus/847,"Berkeley, CA",Administrative Assistant (Part Time),$11k - $25k,part time,7mo
+Binance,https://web3.career/regulatory-legal-counsel-ukraine-binance/846,"Kiev,
+Ukraine",Regulatory Legal Counsel (Ukraine),$24k - $140k,legal,7mo
+Binance,https://web3.career/project-manager-customer-service-binance/845,South East Asia,Project Manager (Customer Service),,customer support:project manager:non tech,7mo
+Chainlink Labs,https://web3.career/data-scientist-data-feeds-chainlink/844,Remote,"Data Scientist, Data Feeds",,data science:solidity:golang:remote,7mo
+Binance,https://web3.career/senior-recruiter-talent-acquisition-specialist-binance/843,"Dubai,
+United Arab Emirates",Senior Recruiter / Talent Acquisition Specialist,$40k - $70k,recruiter:non tech:senior,7mo
+CoinFlip,https://web3.career/specialist-accounts-payable-coinflip/842,"Chicago,
+United States","Specialist, Accounts Payable",$120k - $150k,finance:accounting,7mo
+CoinFlip,https://web3.career/senior-it-project-manager-coinflip/841,"Chicago,
+United States",Senior IT Project Manager,,project manager:non tech:senior,7mo
+Kraken Digital Asset Exchange,https://web3.career/head-of-design-strategy-kraken/840,"Singapore,
+Singapore",Head of Design Strategy,,executive:design:non tech,7mo
+Nuvalence,https://web3.career/senior-blockchain-engineer-nuvalence/839,Remote,Senior Blockchain Engineer,$80k - $200k,dev:senior:blockchain:remote,7mo
+Revolut,https://web3.career/head-of-acquiring-operations-revolut/838,United Kingdom,Head of Acquiring Operations,$150k - $230k,executive:operations,7mo
+Notabene,https://web3.career/product-manager-crypto-companies-database-notabene/837,"New York,
+United States",Product Manager (Crypto Companies Database),$60k - $160k,product manager:non tech:crypto,7mo
+Anchorage Digital,https://web3.career/client-operations-associate-anchorage/835,Remote,Client Operations Associate,$60k - $200k,operations,7mo
+Centrifuge GmbH,https://web3.career/institutional-capital-lead-centrifuge/834,Remote,Institutional Capital Lead,$95k - $200k,lead:remote,7mo
+Tendermint,https://web3.career/human-resources-business-partner-remote-tendermint/833,"San Francisco,
+United States",Human Resources Business Partner - Remote,$56k - $160k,remote,7mo
+Binance,https://web3.career/office-manager-hr-generalist-binance/831,"Dubai,
+United Arab Emirates",Office Manager / HR Generalist,$60k - $150k,hr:non tech,7mo
+Kraken Digital Asset Exchange,https://web3.career/vulnerability-management-specialist-kraken/829,Remote,Vulnerability Management Specialist,$95k - $250k,security:remote,7mo
+Kraken Digital Asset Exchange,https://web3.career/content-writer-product-marketing-kraken/828,Remote,Content Writer - Product Marketing,$25k - $96k,copywriting:marketing:non tech:remote,7mo
+Messari,https://web3.career/research-hub-associate-messari/827,Remote,Research Hub Associate,$39k - $56k,junior:remote,7mo
+Kraken Digital Asset Exchange,https://web3.career/data-governance-manager-data-kraken/826,Remote,"Data Governance Manager, Data",$80k - $110k,operations:remote,7mo
+Binance,https://web3.career/front-end-web-developer-binance/825,Asia,Front-end Web Developer,$50k - $150k,dev:front end,7mo
+Kraken Digital Asset Exchange,https://web3.career/german-multilingual-support-specialist-kraken/824,Remote,German Multilingual Support Specialist,$40k - $80k,customer support:remote,7mo
+Messari,https://web3.career/messari-hub-research-analyst-messari/823,Remote,Messari Hub Research Analyst,$45k - $120k,analyst:remote,7mo
+Binance,https://web3.career/social-trading-ops-user-growth-manager-binance/822,Asia,Social Trading Ops / User Growth Manager,$45k - $130k,marketing:non tech,7mo
+Binance,https://web3.career/growth-manager-poland-binance/821,"Warsaw,
+Poland",Growth Manager - Poland,$45k - $130k,marketing:non tech,7mo
+StageOne,https://web3.career/senior-platform-server-engineer-stageone/820,"Austin,
+United States",Senior Platform Server Engineer,$80k - $200k,dev:senior,7mo
+GSR,https://web3.career/head-of-data-vice-president-director-gsr/818,"London,
+United Kingdom","Head of Data, Vice President/Director",,executive:data science:java,7mo

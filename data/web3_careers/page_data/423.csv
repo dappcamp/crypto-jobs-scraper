@@ -1,36 +1,50 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Flipside Crypto,https://web3.career/full-stack-engineer-flipsidecrypto/8662,Full Stack Engineer,$65k - $180k,dev:full stack:react:node,6mo
-Emurgo,https://web3.career/full-stack-developer-enterprise-emurgo/8661,Full Stack Developer - Enterprise,$65k - $180k,dev:full stack:react:javascript:node,6mo
-SRLabs,https://web3.career/security-engineer-blockchain-srlabs/8660,Security Engineer - Blockchain,,dev:security:blockchain,6mo
-Zero Hash,https://web3.career/senior-software-engineer-blockchain-zero-hash/8659,Senior Software Engineer (Blockchain),$80k - $200k,dev:senior:blockchain:golang,6mo
-LATOKEN,https://web3.career/blockchain-developer-latoken/8658,Blockchain Developer,$26k - $87k,dev:blockchain:java:remote,6mo
-Coin98 Finance,https://web3.career/illustrator-coin98/8657,Illustrator,$25k - $75k,illustrator,6mo
-Clain,https://web3.career/sales-manager-clain/8656,Sales Manager,$26k - $140k,sales:non tech,6mo
-Anghami,https://web3.career/crypto-digital-assets-lead-anghami/8655,Crypto & Digital Assets Lead,,finance:lead:crypto:solidity:ethereum,6mo
-Anghami,https://web3.career/crypto-digital-assets-lead-anghami/8654,Crypto & Digital Assets Lead,,finance:lead:crypto:solidity:ethereum,6mo
-LATOKEN,https://web3.career/developer-backend-blockchain-integration-latoken/8653,Developer Backend (Blockchain integration),$60k - $180k,backend:dev:blockchain:solidity:node,6mo
-Coin98 Finance,https://web3.career/graphic-designer-middle-and-senior-level-coin98/8652,Graphic Designer (Middle and Senior level),$60k - $120k,design:non tech:senior,6mo
-Terraform Labs,https://web3.career/full-stack-engineer-terra/8651,Full-stack Engineer,$39k - $200k,dev:full stack:solidity:ethereum:remote,6mo
-Coin98 Finance,https://web3.career/analyst-editor-marginatm-coin98/8650,Analyst Editor - MarginATM,$40k - $120k,analyst,6mo
-LATOKEN,https://web3.career/it-recruiter-junior-latoken/8649,IT Recruiter Junior,,junior:entry level:recruiter:non tech,6mo
-Transak,https://web3.career/blockchain-developer-transak-inc/8648,Blockchain Developer,$50k - $130k,dev:blockchain:react:solidity:ethereum,6mo
-Bitwave,https://web3.career/senior-smart-contract-developer-bitwave/8647,Senior Smart Contract Developer,$120k - $250k,dev:senior:smart contract:solidity:ethereum,6mo
-REposit,https://web3.career/senior-dapp-defi-developer-reposit/8646,Senior dApp/DeFi Developer,,dev:senior:dapp:defi:react,6mo
-LATOKEN,https://web3.career/investment-analyst-latoken/8645,Investment Analyst,,analyst:finance,6mo
-Coin98 Finance,https://web3.career/research-analyst-intern-coin98/8644,Research Analyst Intern,$20k - $30k,analyst:intern:entry level:remote,6mo
-Coin98 Finance,https://web3.career/research-analyst-coin98/8643,Research Analyst,$45k - $120k,analyst:remote,6mo
-Opera,https://web3.career/go-developer-opera/8642,Go Developer,$40k - $134k,dev:golang:ethereum:node,6mo
-Coin98 Finance,https://web3.career/blockchain-developer-coin98/8641,Blockchain Developer,$50k - $120k,dev:blockchain:javascript:java,6mo
-Immunefi,https://web3.career/smart-contract-engineer-immunefi/8640,Smart Contract Engineer,$72k - $200k,dev:smart contract:solidity:ethereum:remote,6mo
-Opera,https://web3.career/android-developer-crypto-opera/8639,Android Developer - Crypto,,android:mobile:dev:crypto:ethereum,6mo
-Foxbit,https://web3.career/backend-engineer-senior-foxbit/8638,Backend Engineer - Senior,$70k - $200k,backend:dev:senior:react:ruby,6mo
-Swyftx,https://web3.career/qa-engineer-swyftx/8637,QA Engineer,$50k - $150k,dev:quality assurance:react,6mo
-AccelOne,https://web3.career/qa-engineer-accelone/8636,QA Engineer,$40k - $150k,dev:quality assurance:javascript,6mo
-LATOKEN,https://web3.career/product-analyst-latoken/8635,Product Analyst,$40k - $120k,analyst,6mo
-LATOKEN,https://web3.career/head-of-quality-assurance-latoken/8633,Head of Quality Assurance,$140k - $180k,executive:java,6mo
-Opera,https://web3.career/global-social-media-manager-opera/8632,Global Social Media Manager,$33k - $85k,social media:non tech,6mo
-LATOKEN,https://web3.career/quantitative-developer-latoken/8631,Quantitative Developer,$33k - $140k,dev:java,6mo
-LATOKEN,https://web3.career/liquidity-support-lead-listings-latoken/8630,Liquidity Support Lead (Listings),,lead:sales:non tech:customer support,6mo
-SRLabs,https://web3.career/security-engineer-srlabs/8629,Security Engineer,$95k - $250k,dev:security,6mo
-LATOKEN,https://web3.career/product-manager-deposits-and-staking-payments-latoken/8628,Product Manager Deposits and Staking Payments,$69k - $160k,product manager:non tech,6mo
-Smith + Crown,https://web3.career/blockchain-analyst-smith-crown/8627,Blockchain Analyst,$60k - $104k,analyst:blockchain:remote,6mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+AML Software,https://web3.career/full-stack-developer-amlsoftware/2461,Remote,Full Stack Developer,$50k,dev:full stack:react:vue:remote,6mo
+kollect.me,https://web3.career/cto-head-of-engineering-kollect-me/2460,Remote,CTO Head of Engineering,$45k,executive:react:nft:ruby:node,6mo
+AML Software,https://web3.career/full-stack-developer-aml-software/2459,Canada,Full Stack Developer,$100k - $150k,dev:full stack:react:vue,6mo
+kollect.me,https://web3.career/cto-head-of-engineering-kollect-me/2458,Remote,CTO Head of Engineering,$90k - $120k,executive:react:nft:ruby:node,6mo
+Coinbase,https://web3.career/content-strategist-coinbase/2457,Remote,Content Strategist,$56k - $160k,remote,6mo
+Coinbase,https://web3.career/community-operations-incidents-and-escalations-analyst-customer-support-coinbase/2456,Remote,"Community Operations Incidents and Escalations Analyst, Customer Support",,analyst:community manager:non tech:customer support:operations,6mo
+Kraken Digital Asset Exchange,https://web3.career/frontend-engineer-react-cryptowatch-kraken/2455,Remote,"Frontend Engineer - React, Cryptowatch",$50k - $140k,dev:front end:javascript:react:remote,6mo
+Chainalysis,https://web3.career/senior-solutions-architect-chainalysis/2454,"New York,
+United States",Senior Solutions Architect,$80k,architecture:senior,6mo
+BitGo,https://web3.career/offensive-security-engineer-bitgo/2453,"Palo Alto,
+United States",Offensive Security Engineer,,dev:security:ruby,6mo
+0x,https://web3.career/software-engineer-matcha-0x/2452,"San Francisco,
+United States",Software Engineer — Matcha,$57k - $140k,dev:react:ethereum:javascript:nextjs,6mo
+Binance,https://web3.career/senior-android-developer-p2p-binance/2451,Vietnam,Senior Android Developer (P2P),,android:mobile:dev:senior,6mo
+Binance,https://web3.career/senior-blockchain-devops-engineer-binance/2450,"Singapore,
+Singapore",Senior Blockchain DevOps Engineer,$120k - $200k,devops:dev:senior:blockchain,6mo
+Kraken Digital Asset Exchange,https://web3.career/senior-qa-analyst-mobile-cryptowatch-kraken/2449,Remote,"Senior QA Analyst - Mobile, Cryptowatch",,analyst:mobile:quality assurance:senior:remote,6mo
+Binance,https://web3.career/ui-ux-designer-mini-program-binance/2448,Asia,UI/UX Designer - Mini Program,$50k - $150k,design:non tech,6mo
+Bitwise Asset Management,https://web3.career/crypto-research-analyst-smart-contract-platforms-web3-specialist-bitwiseinvestments/2447,Remote,Crypto Research Analyst: Smart Contract Platforms & Web3 Specialist,,analyst:crypto:smart contract:remote,6mo
+Okcoin,https://web3.career/italian-customer-service-representative-okcoin/2446,"Gżira, Gzira, Malta",Italian Customer Service Representative,$40k - $80k,customer support,6mo
+Kraken Digital Asset Exchange,https://web3.career/full-stack-ui-engineer-trading-technology-kraken/2445,Remote,Full Stack (UI) Engineer - Trading Technology,$65k - $100k,dev:full stack:design:non tech:remote,6mo
+Figure,https://web3.career/senior-software-engineer-provenance-blockchain-figure/2444,"New York,
+United States","Senior Software Engineer, Provenance Blockchain",$80k - $200k,dev:senior:blockchain:java:golang,6mo
+MoonPay,https://web3.career/senior-growth-marketing-manager-moonpay/2443,"London,
+United Kingdom",Senior Growth Marketing Manager,$46k - $109k,marketing:non tech:senior,6mo
+Foundry,https://web3.career/crypto-staking-engineer-coop-intern-foundrydigital/2442,"New York,
+United States",Crypto Staking Engineer - Coop/Intern,$12k - $33k,dev:intern:entry level:crypto:node,6mo
+Kraken Digital Asset Exchange,https://web3.career/full-stack-software-engineer-go-trading-technologies-kraken/2441,Remote,Full Stack Software Engineer (Go) - Trading Technologies,$65k - $134k,dev:full stack:golang:remote,6mo
+OpenSea,https://web3.career/recruiter-opensea/2440,Remote,Recruiter,,recruiter:non tech:remote,6mo
+Figure,https://web3.career/senior-software-engineer-provenance-blockchain-banking-figure/2439,United States,"Senior Software Engineer, Provenance Blockchain Banking",,finance:dev:senior:blockchain:react,6mo
+CoinDesk & TradeBlock Opportunities,https://web3.career/head-of-index-research-tradeblock-coindesk/2438,United States,"Head of Index Research, TradeBlock",$70k - $180k,executive,6mo
+Supply Chain Wizard,https://web3.career/senior-sales-development-specialist-sales-development-manager-supplychainwizard/2437,"Izmir,
+Turkey",Senior Sales Development Specialist / Sales Development Manager,$50k - $150k,sales:non tech:senior,6mo
+Mythical Games,https://web3.career/lead-game-product-manager-blankos-block-party-mythicalgames/2436,"Los Angeles,
+United States",Lead Game Product Manager - Blankos Block Party,,game dev:lead:product manager:non tech,6mo
+Ripple,https://web3.career/senior-data-scientist-product-insights-ripplex-ripple/2435,"San Francisco,
+United States","Senior Data Scientist, Product Insights (RippleX)",$130k - $160k,data science:senior,6mo
+Chainalysis,https://web3.career/enterprise-account-executive-west-chainalysis/2434,"New York,
+United States","Enterprise Account Executive, West",$70k - $180k,executive,6mo
+Kraken Digital Asset Exchange,https://web3.career/operational-resiliency-incident-specialist-us-pacific-time-kraken/2432,United States,Operational Resiliency Incident Specialist - US Pacific Time,$60k - $200k,operations,6mo
+Okcoin,https://web3.career/head-of-sales-london-okcoin/2431,"London,
+United Kingdom","Head of Sales, London",$40k - $150k,executive:sales:non tech,6mo
+Kraken Digital Asset Exchange,https://web3.career/senior-frontend-engineer-internal-tools-kraken/2430,Remote,Senior Frontend Engineer - Internal Tools,$70k - $190k,dev:front end:senior:react:nextjs,6mo
+Xpansiv,https://web3.career/product-manager-xpansiv-20/2429,Remote,Product Manager,,product manager:non tech:react:scala:remote,6mo
+Okcoin,https://web3.career/director-of-payments-engineering-okcoin/2428,"San Francisco,
+United States",Director of Payments Engineering,$70k - $180k,executive,6mo
+GSR,https://web3.career/software-engineer-senior-software-engineer-risk-associate-vp-gsr/2427,"London,
+United Kingdom",Software Engineer / Senior Software Engineer - Risk - Associate / VP,$60k - $250k,dev:senior:executive,6mo
+Careers at Paxful,https://web3.career/verification-associate-paxful/2426,Philippines,Verification Associate,,,6mo

@@ -1,36 +1,50 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Rolla,https://web3.career/senior-frontend-engineer-defi-rolla/8524,Senior Frontend Engineer • DeFi,$70k - $130k,dev:front end:senior:defi:react,6mo
-SORAMITSU,https://web3.career/team-leader-remote-soramitsu/8523,Team Leader (Remote),$96k - $200k,remote:lead:solidity:java:rust,6mo
-Auth0,https://web3.career/senior-software-engineer-core-crypto-auth0/8522,"Senior Software Engineer, Core Crypto",$90k - $160k,dev:senior:crypto:node:golang,6mo
-Numbrs,https://web3.career/senior-blockchain-ios-engineer-numbrs/8521,Senior Blockchain iOS Engineer,$51k - $109k,dev:ios:mobile:senior:blockchain,6mo
-Numbrs,https://web3.career/senior-blockchain-android-engineer-numbrs/8520,Senior Blockchain Android Engineer,,android:mobile:dev:senior:blockchain,6mo
-n.exchange,https://web3.career/senior-python-developer-django-rest-framework-n-exchange/8519,Senior Python Developer - Django Rest Framework,$79k - $112k,dev:python:senior:ethereum:golang,6mo
-CANDY,https://web3.career/vp-ecommerce-candy/8517,"VP, eCommerce",$56k - $400k,ecommerce:executive,6mo
-Protocol Labs,https://web3.career/people-operations-manager-protocol/8512,People Operations Manager,$80k - $110k,operations:remote,6mo
-cLabs,https://web3.career/commerce-product-intern-spring-summer-2022-clabs/8511,Commerce Product Intern (Spring/Summer 2022),$24k - $48k,intern:entry level:remote,6mo
-Newton,https://web3.career/site-reliability-engineer-newton/8510,Site Reliability Engineer,$150k - $200k,dev:sys admin,6mo
-Binance,https://web3.career/campus-programme-manager-binance/8509,Campus Programme Manager,,,6mo
-Bitfinex,https://web3.career/blockchain-integration-specialist-remote-spain-bitfinex/8508,Blockchain Integration Specialist (Remote Spain),$60k - $150k,remote:blockchain:solidity:ethereum:javascript,6mo
-Change,https://web3.career/tech-lead-changeinvest/8506,Tech Lead,$96k - $220k,lead:tech lead,6mo
-Tendermint,https://web3.career/creative-director-remote-tendermint/8505,Creative Director - Remote,$79k - $200k,remote:executive,6mo
-SwissBorg,https://web3.career/site-reliability-engineer-sre-remote-swissborg/8500,Site Reliability Engineer (SRE) - Remote,$150k - $200k,remote:dev:sys admin:senior,6mo
-Binance,https://web3.career/ios-developer-swift-mid-to-senior-binance/8499,iOS Developer (Swift; Mid to Senior),$51k - $109k,dev:ios:mobile:senior:swift,6mo
-Newton,https://web3.career/site-reliability-engineer-newton/8498,Site Reliability Engineer,$150k - $200k,dev:sys admin,6mo
-Binance,https://web3.career/compliance-officer-custody-hong-kong-sar-binance/8497,Compliance Officer (Custody) - Hong Kong SAR,,compliance,6mo
-Tendermint,https://web3.career/recruiting-coordinator-admin-remote-tendermint/8496,Recruiting Coordinator / Admin - Remote,,remote:recruiter:non tech,6mo
-Binance,https://web3.career/live-streaming-operations-manager-specialist-binance/8495,Live Streaming Operations Manager/Specialist,$60k - $200k,operations,6mo
-Binance,https://web3.career/it-support-specialist-latam-binance/8494,IT Support Specialist - Latam,$40k - $80k,customer support,6mo
-Kraken Digital Asset Exchange,https://web3.career/accounting-policy-manager-kraken/8493,Accounting Policy Manager,$25k - $150k,accounting,6mo
-Binance,https://web3.career/channel-operations-specialist-fiat-binance/8492,Channel Operations Specialist (FIAT),$60k - $200k,operations,6mo
-Decent Labs,https://web3.career/vp-product-strategy-operations-remote-decentlabs/8491,"VP, Product Strategy & Operations [Remote]",,remote:operations:executive,6mo
-Binance,https://web3.career/multimedia-design-intern-binance/8490,Multimedia Design Intern,$18k - $28k,design:non tech:intern:entry level,6mo
-Bitwise Asset Management,https://web3.career/active-portfolio-manager-sf-or-ny-area-bitwiseinvestments/8489,Active Portfolio Manager (SF or NY Area),$40k - $150k,finance,6mo
-Change,https://web3.career/lead-devops-engineer-changeinvest/8479,Lead DevOps Engineer,$60k - $100k,devops:dev:lead,6mo
-Immutable,https://web3.career/head-of-community-immutable/8476,Head of Community,$45k - $150k,executive:community manager:non tech,6mo
-MobileCoin,https://web3.career/vp-engineering-mobilecoin/8475,"VP, Engineering",$200k - $400k,executive:react:javascript:java,6mo
-Anchorage Digital,https://web3.career/engineering-manager-anchorage/8474,Engineering Manager,$70k - $180k,executive,6mo
-cLabs,https://web3.career/economics-product-intern-spring-summer-2022-clabs/8473,Economics Product Intern (Spring/Summer 2022),$24k - $48k,intern:entry level:remote,6mo
-Chainalysis,https://web3.career/account-executive-department-of-justice-chainalysis/8472,"Account Executive, Department of Justice",$70k - $180k,executive,6mo
-Stardust Cards Corporation,https://web3.career/devops-engineer-security-focus-stardust/8471,DevOps engineer (Security Focus),$95k - $250k,devops:dev:security:remote,6mo
-Binance,https://web3.career/product-manager-risk-platform-binance/8470,Product Manager (Risk Platform),$69k - $160k,product manager:non tech,6mo
-Binance,https://web3.career/hris-specialist-binance/8469,HRIS Specialist,,,6mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Coinbase,https://web3.career/sr-software-engineer-mulesoft-integrations-enterprise-applications-architecture-coinbase/2351,Remote,"Sr. Software Engineer (Mulesoft) Integrations, Enterprise Applications & Architecture",$50k - $200k,dev:senior:java:golang:remote,6mo
+Coinbase,https://web3.career/senior-sw-engineer-integrations-enterprise-apps-coinbase/2350,Remote,"Senior SW Engineer, Integrations, Enterprise Apps",$50k - $200k,dev:senior:java:golang:remote,6mo
+BitGo,https://web3.career/senior-software-engineer-javascript-sdk-bitgo/2349,"Palo Alto,
+United States","Senior Software Engineer, Javascript SDK",$80k - $200k,dev:javascript:senior,6mo
+Shakepay,https://web3.career/securities-compliance-representative-remote-canada-shakepay/2348,"Montreal,
+Canada",Securities Compliance Representative (Remote - Canada),,compliance:remote,6mo
+Gnosis,https://web3.career/senior-production-reliability-engineer-m-w-d-gnosis/2347,"Berlin,
+Germany",Senior Production / Reliability Engineer (m/w/d),$150k - $200k,dev:sys admin:senior:ethereum:rust,6mo
+Coinbase,https://web3.career/senior-software-engineer-database-reliability-coinbase/2346,Remote,Senior Software Engineer - Database Reliability,$150k - $200k,dev:sys admin:senior:ruby:golang,6mo
+Coinbase,https://web3.career/qa-analyst-cold-storage-custody-coinbase/2345,"Dublin,
+Ireland","QA Analyst, Cold Storage (Custody)",,analyst:quality assurance,6mo
+Coinbase,https://web3.career/senior-manager-of-recruiting-coordination-ops-coinbase/2344,Remote,Senior Manager of Recruiting Coordination Ops,$40k - $70k,recruiter:non tech:senior:remote,6mo
+Coinbase,https://web3.career/engineering-manager-client-foundations-coinbase/2343,Remote,"Engineering Manager, Client Foundations",$115k - $150k,executive:react:react native:remote,6mo
+Coinbase,https://web3.career/international-benefits-senior-manager-coinbase/2342,"Bangalore,
+India",International Benefits Senior Manager,$78k - $200k,senior,6mo
+Binance,https://web3.career/growth-marketing-specialist-p2p-binance/2341,Asia,Growth Marketing Specialist - P2P,$45k - $130k,marketing:non tech,6mo
+RECUR,https://web3.career/associate-producer-film-remote-recur/2339,"Miami,
+United States","Associate Producer, Film (Remote)",$79k - $158k,remote:ethereum:nft,6mo
+Coinbase,https://web3.career/program-manager-strategic-programs-coinbase/2337,Remote,"Program Manager, Strategic Programs",$79k - $200k,executive:remote,6mo
+Coinbase,https://web3.career/senior-program-manager-strategic-programs-coinbase/2336,Remote,"Senior Program Manager, Strategic Programs",$95k - $250k,executive:senior:remote,6mo
+Coinbase,https://web3.career/staff-software-engineer-coinbase/2335,Remote,Staff Software Engineer,$65k - $120k,dev:ethereum:ruby:golang:remote,6mo
+Coinbase,https://web3.career/customer-support-analyst-coinbase/2334,"Dublin,
+Ireland",Customer Support Analyst,$15k - $95k,analyst:customer support,6mo
+Coinbase,https://web3.career/support-analyst-coinbase/2333,Remote,Support Analyst,$40k - $95k,analyst:customer support:remote,6mo
+Bitwise Asset Management,https://web3.career/active-portfolio-manager-ny-or-sf-area-bitwiseinvestments/2332,"New York,
+United States",Active Portfolio Manager (NY or SF Area),$40k - $150k,finance,6mo
+Coinbase,https://web3.career/staff-software-engineer-database-reliability-coinbase/2331,Remote,Staff Software Engineer - Database Reliability,,dev:sys admin:ruby:golang:remote,6mo
+Coinbase,https://web3.career/senior-program-manager-asset-listings-coinbase/2330,Remote,"Senior Program Manager, Asset Listings",$95k - $250k,executive:senior:remote,6mo
+Coinbase,https://web3.career/technical-program-manager-data-coinbase/2329,Remote,"Technical Program Manager, Data",$79k - $200k,executive:remote,6mo
+Coinbase,https://web3.career/head-of-growth-data-science-coinbase/2328,Remote,Head of Growth Data Science,,executive:data science:marketing:non tech:remote,6mo
+Coinbase,https://web3.career/director-technical-program-management-infra-developer-programs-coinbase/2327,Remote,"Director, Technical Program Management (Infra & Developer Programs)",$95k - $300k,dev:executive:remote,6mo
+Coinbase,https://web3.career/talent-intelligence-manager-coinbase/2326,Remote,Talent Intelligence Manager,,recruiter:non tech:remote,6mo
+Coinbase,https://web3.career/employee-referrals-program-manager-coinbase/2325,Remote,"Employee Referrals, Program Manager",$79k - $200k,executive:remote,6mo
+Coinbase,https://web3.career/protocol-operations-analyst-coinbase/2324,Remote,Protocol Operations Analyst,,analyst:operations:remote,6mo
+Coinbase,https://web3.career/incidents-and-escalations-manager-customer-support-coinbase/2323,Remote,"Incidents and Escalations Manager, Customer Support",$40k - $80k,customer support:remote,6mo
+Vauld,https://web3.career/market-analyst-vauld/2321,"Bengaluru,
+India",Market Analyst,$40k - $120k,analyst,6mo
+Amun 21Shares,https://web3.career/business-strategy-manager-tokens-amun/2320,"New York,
+United States","Business Strategy Manager, Tokens",,,6mo
+Stardust Cards Corporation,https://web3.career/developer-operations-engineer-security-focus-stardust/2317,Remote,Developer Operations Engineer (Security Focus),,dev:operations:security:remote,6mo
+Polychain Capital,https://web3.career/defi-engineer-polychaincapital/2316,"San Francisco,
+United States",DeFi Engineer,$50k - $160k,dev:defi:solana,6mo
+Binance,https://web3.career/talent-development-manager-binance/2315,Asia,Talent Development Manager,$40k - $70k,recruiter:non tech,6mo
+GameStop,https://web3.career/sr-software-engineer-nft-platform-remote-gamestop/2314,"Seattle,
+United States",Sr Software Engineer – NFT Platform [REMOTE],$90k - $180k,remote:dev:nft:react:ethereum,6mo
+GameStop,https://web3.career/product-owner-head-of-web3-gaming-remote-gamestop/2313,"Seattle,
+United States",Product Owner - Head of Web3 Gaming [REMOTE],$135k - $170k,executive:product manager:non tech:remote:game dev,6mo
+GameStop,https://web3.career/director-of-product-marketing-nft-platform-remote-gamestop/2312,"Seattle,
+United States",Director of Product Marketing – NFT Platform [REMOTE],$45k - $158k,remote:executive:marketing:non tech:product manager,6mo

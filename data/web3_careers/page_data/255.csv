@@ -1,36 +1,58 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Caiz Holding AG,https://web3.career/compliance-manager-3577201-compliance-manager/15791,Compliance Manager,$47k,compliance:remote,4mo
-Brinc,https://web3.career/developer-relations-evangelist-blockchain-nft-accelerator-program-brinc/15789,Developer Relations Evangelist - Blockchain & NFT Accelerator Program,,customer support:dev:blockchain:nft:solidity,4mo
-UBIRCH,https://web3.career/embedded-developer-f-x-m-berlin-germany-3538009-embedded-developer-f-x-m-berlin-germany-utm_source-google_jobs_apply-pid-bce1fbd2f366390046fc/15788,Embedded Developer (F/X/M) (Berlin/Germany),,dev:embedded:remote:golang:rust,4mo
-NFT,https://web3.career/startup-co-founder-cto-f-m-d-3576093-startup-co-founder-and-cto-f-m-d-at-stealth-nft-venture/15787,Startup Co-Founder & CTO (f/m/d),$79k - $180k,executive:nft:remote:java:cto,4mo
-Crypto.com,https://web3.career/product-operations-associate-crypto-com/15786,Product Operations Associate,,operations:nft,4mo
-Binance,https://web3.career/blockchain-developer-bundle-africa-binance/15784,Blockchain Developer - Bundle Africa,$70k - $190k,dev:blockchain:remote,4mo
-TKKR,https://web3.career/community-manager-remote-tkkr/15783,Community Manager (Remote),$40k - $101k,remote:community manager:non tech:nft,4mo
-"Genesis Global Trading, Inc.",https://web3.career/transaction-monitoring-and-blockchain-analytics-specialist-genesisglobaltrading-inc/15781,Transaction Monitoring and Blockchain Analytics Specialist,$360k - $500k,stats:blockchain,4mo
-Ledger,https://web3.career/product-manager-vault-ledger-enterprise-solutions-ledger/15779,Product Manager Vault - Ledger Enterprise Solutions,$69k - $160k,product manager:non tech,4mo
-Satoshis Games,https://web3.career/cfo-satoshis-games/15778,CFO,$60k - $80k,finance,4mo
-Satoshis Games,https://web3.career/solidity-engineer-senior-satoshis-games/15777,Solidity Engineer Senior,$79k - $101k,dev:senior:solidity:ethereum,4mo
-Satoshis Games,https://web3.career/backend-developer-senior-node-js-satoshis-games/15776,Backend developer senior (Node.js),$45k - $67k,javascript:backend:dev:node:senior,4mo
-Satoshis Games,https://web3.career/backend-developer-junior-satoshis-games/15775,Backend developer junior,$28k - $39k,backend:dev:junior:entry level:react,4mo
-Satoshis Games,https://web3.career/3d-artist-satoshis-games/15774,3D Artist,$30k - $50k,vfx,4mo
-reNFT,https://web3.career/frontend-engineer-renft/15773,Frontend Engineer,$70k - $150k,dev:front end:react:nft:remote,4mo
-Finoa GmbH,https://web3.career/backend-engineer-m-f-d-finoa/15772,Backend Engineer (m/f/d),$60k - $180k,backend:dev:remote,4mo
-Nuri,https://web3.career/senior-software-engineer-platform-golang-nuri/15771,Senior Software Engineer - Platform (Golang),$65k - $150k,dev:golang:senior:remote,4mo
-IOTA Foundation,https://web3.career/senior-software-engineer-go-remote-iota/15770,Senior Software Engineer - Go - Remote,$22k - $150k,remote:dev:golang:senior:ethereum,4mo
-Binance,https://web3.career/compliance-officer-bundle-africa-binance/15769,Compliance Officer - Bundle Africa,,compliance:remote,4mo
-Nuri,https://web3.career/people-operations-manager-nuri/15768,People Operations Manager,$80k - $110k,operations:remote,4mo
-Highlight,https://web3.career/senior-smart-contract-blockchain-software-engineer-highlight-xyz/15767,Senior Smart Contract Blockchain Software Engineer,$80k - $150k,dev:senior:blockchain:smart contract,4mo
-Sygnum Bank AG,https://web3.career/ui-engineer-sygnum/15766,UI Engineer,$80k - $150k,dev:design:non tech,4mo
-Sygnum Bank AG,https://web3.career/senior-operations-specialist-sygnum/15765,Senior Operations Specialist,,operations:senior:ethereum,4mo
-Brinc,https://web3.career/developer-relations-manager-blockchain-nft-accelerator-program-brinc/15764,Developer Relations Manager - Blockchain & NFT Accelerator Program,,customer support:dev:blockchain:nft:solidity,4mo
-TradeStars,https://web3.career/frontend-developer-crypto-blockchain-remote-tradestars/15763,Frontend Developer - Crypto / Blockchain (Remote),$22k - $120k,remote:dev:front end:blockchain:crypto,4mo
-Brinc,https://web3.career/developer-relations-manager-blockchain-nft-accelerator-program-brinc/15761,Developer Relations Manager - Blockchain & NFT Accelerator Program,,customer support:dev:blockchain:nft:solidity,4mo
-Vertalo,https://web3.career/scrum-master-vertalo/15760,Scrum Master,,scrum,4mo
-O(1) Labs,https://web3.career/head-of-marketing-o1labs/15759,Head of Marketing,$70k - $158k,executive:marketing:non tech,4mo
-Horizon Blockchain Games,https://web3.career/community-customer-support-specialist-remote-horizon-blockchain-games/15758,Community & Customer Support Specialist - Remote,$40k - $101k,remote:community manager:non tech:customer support:ethereum,4mo
-Horizon Blockchain Games,https://web3.career/customer-support-manager-skyweaver-sequence-remote-horizon-blockchain-games/15757,"Customer Support Manager, Skyweaver + Sequence - Remote",,remote:customer support:ethereum:nft,4mo
-Nuri,https://web3.career/data-engineer-nuri/15755,Data Engineer,,data science:dev:remote,4mo
-Ascend Group,https://web3.career/lead-smart-contracts-engineering-blockchain-ascend-bit-ascend/15753,Lead Smart Contracts Engineering (Blockchain) - Ascend Bit,$30k - $70k,lead:blockchain:smart contract:solidity:java,4mo
-Nuri,https://web3.career/senior-crm-manager-nuri/15751,Senior CRM Manager,,crm:senior:remote,4mo
-Vertalo,https://web3.career/back-end-developer-vertalo/15749,Back-End Developer,$60k - $180k,backend:dev,4mo
-BitGo,https://web3.career/director-of-events-marketing-bitgo/15747,Director of Events Marketing,$70k - $158k,executive:marketing:non tech,4mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+CoinList,https://web3.career/trust-and-safety-analyst-coinlist/16462,"San Francisco,
+United States",Trust and Safety Analyst,$36k - $185k,analyst:solana,4mo
+DISQO,https://web3.career/sr-security-engineer-identity-access-management-remote-us-disqo/16461,Remote,"Sr. Security Engineer, Identity & Access Management - (Remote, US)",$95k - $250k,remote:dev:security:senior,4mo
+DeFiner Inc,https://web3.career/definer-ambassador-remote-definerinc/16459,United States,DeFiner Ambassador (Remote),$56k - $160k,remote,4mo
+ONCARE GmbH,https://web3.career/blockchain-developer-f-m-d-medical-industry-3642296-blockchain-developer-f-m-d-medical-industry/16458,Remote,Blockchain Developer (f/m/d) - Medical Industry,$50k - $120k,dev:blockchain:javascript:node:remote,4mo
+Blocknative,https://web3.career/director-of-people-success-blocknative/16456,Remote,Director of People Success,$79k - $180k,executive:remote:nft,4mo
+Bittrex,https://web3.career/risk-compliance-program-manager-bittrex/16455,"Washington,
+United States",Risk & Compliance Program Manager,,compliance:executive,4mo
+Bittrex,https://web3.career/senior-software-development-engineer-in-test-bittrex/16454,"Washington,
+United States",Senior Software Development Engineer in Test,$30k - $50k,quality assurance:dev:senior,4mo
+Kraken Digital Asset Exchange,https://web3.career/administrative-assistant-kraken/16453,Remote,Administrative Assistant,$56k - $160k,remote,4mo
+Next Big Thing AG,https://web3.career/founder-entrepreneur-machine-learning-f-m-x-nextbigthing/16452,"Berlin,
+Germany",Founder / Entrepreneur - Machine Learning (f/m/x),,executive:machine learning:remote,4mo
+Atomic,https://web3.career/junior-community-manager-part-time-atomic/16450,Remote,Junior Community Manager (Part-Time),,community manager:non tech:junior:entry level:part time,4mo
+Sygnum Bank AG,https://web3.career/internship-clients-sygnum/16448,Switzerland,Internship – Clients,,intern:entry level:ethereum,4mo
+Atomic,https://web3.career/web3-fullstack-engineer-atomic/16447,Remote,Web3 Fullstack Engineer,$70k - $200k,dev:full stack:remote:nft,4mo
+Autograph,https://web3.career/office-manager-autograph/16446,"Santa Monica,
+United States",Office Manager,$55k - $150k,nft,4mo
+Braintrust,https://web3.career/react-native-ui-mobile-developer-braintrust/16442,"San Francisco,
+United States",React Native UI Mobile developer,$65k - $200k,dev:mobile:react native:javascript:react,4mo
+Bitfinex,https://web3.career/kyc-analyst-remote-bitfinex/16441,"Buenos Aires,
+Argentina",KYC Analyst [Remote],,kyc:remote:analyst,4mo
+RabbitHole,https://web3.career/engineering-manager-rabbitholestudios/16440,Remote,Engineering Manager,$90k - $150k,executive:remote:react:solidity:ethereum,4mo
+Next Big Thing AG,https://web3.career/business-development-specialist-m-f-d-nextbigthing/16439,"Berlin,
+Germany",Business Development Specialist (m/f/d),$29k - $108k,sales:non tech:remote,4mo
+Binance,https://web3.career/customer-service-and-social-media-specialist-cmc-binance/16437,Remote,Customer Service and Social Media Specialist-CMC,,customer support:social media:non tech:remote,4mo
+Newton,https://web3.career/paid-ad-specialist-canada-wide-remote-newton/16436,"Toronto,
+Canada",Paid Ad Specialist - Canada Wide - Remote,$56k - $160k,remote,4mo
+Newton,https://web3.career/off-site-seo-specialist-canada-wide-remote-newton/16435,"Toronto,
+Canada",Off-site SEO Specialist - Canada Wide - Remote,,remote:seo:non tech,4mo
+Newton,https://web3.career/marketing-automation-manager-canada-wide-remote-newton/16434,"Toronto,
+Canada",Marketing Automation Manager - Canada Wide - Remote,$25k - $120k,remote:marketing:non tech,4mo
+Newton,https://web3.career/growth-marketer-canada-wide-remote-newton/16433,"Toronto,
+Canada",Growth Marketer - Canada Wide - Remote,$25k - $120k,remote:marketing:non tech,4mo
+Newton,https://web3.career/copywriter-canada-wide-remote-newton/16432,"Toronto,
+Canada",Copywriter - Canada Wide - Remote,$25k - $30k,remote:copywriting,4mo
+Newton,https://web3.career/content-marketer-content-writer-canada-wide-remote-newton/16431,"Toronto,
+Canada",Content Marketer / Content Writer - Canada Wide - Remote,$25k - $30k,remote:copywriting:marketing:non tech,4mo
+Newton,https://web3.career/business-developer-partnerships-manager-canada-wide-remote-newton/16430,"Toronto,
+Canada",Business Developer / Partnerships Manager - Canada Wide - Remote,$29k - $108k,remote:sales:non tech:dev,4mo
+Newton,https://web3.career/affiliate-marketing-manager-canada-wide-remote-newton/16429,"Toronto,
+Canada",Affiliate Marketing Manager - Canada Wide - Remote,$25k - $120k,remote:marketing:non tech,4mo
+CoinFlip,https://web3.career/front-desk-office-assistant-coinflip/16428,"Chicago,
+United States",Front Desk/Office Assistant,,,4mo
+BlockFi,https://web3.career/institutional-sales-and-relationship-senior-manager-blockfi/16426,"New York,
+United States",Institutional Sales and Relationship Senior Manager,$50k - $150k,sales:non tech:senior,4mo
+Bitcoin Depot,https://web3.career/full-stack-engineer-bitcoindepot/16425,"Atlanta,
+United States",Full Stack Engineer,$65k - $180k,dev:full stack:react:ethereum:node,4mo
+Forbes,https://web3.career/senior-software-engineer-api-forbes/16424,Remote,Senior Software Engineer - API,,api:dev:senior:java:remote,4mo
+RECUR,https://web3.career/principal-data-engineer-remote-recur/16423,"Boston,
+United States",Principal Data Engineer (Remote),,remote:data science:dev:executive,4mo
+RECUR,https://web3.career/hands-on-data-engineering-manager-remote-recur/16422,"Boston,
+United States",Hands-on Data Engineering Manager (Remote),$79k - $200k,executive:remote,4mo
+Feedel Ventures,https://web3.career/blockchain-developer-feedelventures/16419,Netherlands,Blockchain Developer,$33k - $67k,dev:blockchain:web3js:solidity:ethereum,4mo
+Sygnum Bank AG,https://web3.career/part-time-junior-position-in-legal-compliance-strategic-initiatives-60-80-sygnum/16414,Switzerland,"Part-Time Junior Position in Legal, Compliance & Strategic Initiatives (60-80%)",,compliance:junior:entry level:legal:part time,4mo
+Figment,https://web3.career/principal-red-team-operator-figment/16413,"Toronto,
+Canada",Principal Red Team Operator,,executive:ruby:java,4mo

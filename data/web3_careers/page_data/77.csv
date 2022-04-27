@@ -1,36 +1,56 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Okcoin,https://web3.career/staff-software-engineer-risk-okcoin/23489,"Staff Software Engineer, Risk",$50k - $200k,dev:java:rust,1mo
-Okcoin,https://web3.career/software-engineer-risk-okcoin/23488,"Software Engineer, Risk",$33k - $140k,dev:java,1mo
-Figure,https://web3.career/senior-software-engineer-anti-fraud-remote-figure/23487,"Senior Software Engineer, Anti-Fraud (Remote)",$95k - $250k,remote:dev:security:senior,1mo
-PDAX,https://web3.career/customer-success-associate-remote-pdax/23485,Customer Success Associate (Remote),$40k - $80k,remote:customer support,1mo
-Wachsman,https://web3.career/deputy-managing-director-strategic-communications-wachsman/23484,Deputy Managing Director (Strategic Communications),$70k - $180k,executive,1mo
-WOMBO.ai,https://web3.career/head-of-crypto-strategy-wombo-ai/23483,Head of Crypto Strategy,$79k - $158k,executive:crypto:remote,1mo
-Binance,https://web3.career/global-internal-communications-lead-binance/23482,Global Internal Communications Lead,$95k - $200k,lead:remote,1mo
-Binance,https://web3.career/senior-editor-content-specialist-binance/23481,Senior Editor/ Content Specialist,$25k - $96k,marketing:non tech:copywriting:senior:remote,1mo
-Parity Technologies,https://web3.career/org-strategy-graphic-designer-parity/23480,Org Strategy Graphic Designer,$50k - $135k,design:non tech:remote,1mo
-Nuri,https://web3.career/senior-talent-acquisition-manager-tech-nuri/23479,Senior Talent Acquisition Manager - TECH,$40k - $70k,senior:recruiter:non tech:remote,1mo
-Tron,https://web3.career/interpreter-and-translator-rainberry/23478,Interpreter and Translator,,translator,1mo
-Tron,https://web3.career/hr-data-analytics-manager-rainberry/23477,HR Data & Analytics Manager,,stats:hr:non tech,1mo
-Binance,https://web3.career/personal-assistant-binance/23476,Personal Assistant,,,1mo
-Cherry Ventures,https://web3.career/backend-devops-engineer-go-aws-defi-remote-role-brahma-cherryvc/23475,Backend/DevOps Engineer (Go/AWS) - DeFi - REMOTE ROLE (Brahma),,remote:backend:devops:dev:golang,1mo
-RECUR,https://web3.career/assistant-controller-recur/23474,Assistant Controller,,finance:legal:ethereum,1mo
-Chainalysis,https://web3.career/regional-sales-director-mena-chainalysis/23473,"Regional Sales Director, MENA",$40k - $150k,executive:sales:non tech,1mo
-Witnet Foundation,https://web3.career/smart-contracts-developer-solidity-witnet-foundation-1/23472,Smart Contracts Developer (Solidity),$40k - $60k,dev:smart contract:solidity:ethereum:javascript,1mo
-Braintrust,https://web3.career/senior-devops-engineer-braintrust/23471,Senior Devops Engineer,$120k - $200k,devops:dev:senior:ethereum,1mo
-Referrals Only,https://web3.career/senior-ruby-engineer-thoughtworksreferral/23468,Senior Ruby Engineer,$32k - $113k,dev:ruby:senior:react:solidity,1mo
-Burnt Finance,https://web3.career/head-of-tiktok-burnt-finance-1/23467,Head of TikTok,$63k - $180k,executive:nft,1mo
-Hedge Labs,https://web3.career/community-lead-hedge-labs/23466,Community Lead,$40k - $65k,community manager:non tech:lead:solana,1mo
-Wirex Limited,https://web3.career/finance-associate-wirexlimited/23464,Finance Associate,$40k - $150k,finance,1mo
-RECUR,https://web3.career/security-engineer-recur/23463,Security Engineer,,dev:security:nft:javascript:java,1mo
-Figure,https://web3.career/staff-software-engineer-anti-fraud-remote-figure/23462,"Staff Software Engineer, Anti-Fraud (remote)",$95k - $250k,remote:dev:security,1mo
-Referrals Only,https://web3.career/senior-consultant-business-analyst-fs-cards-payments-thoughtworksreferral/23461,"Senior Consultant, Business Analyst (FS/Cards & Payments)",,analyst:consulting:senior:remote,1mo
-Metal,https://web3.career/aml-analyst-remote-metalpay/23460,AML Analyst (Remote),$45k - $120k,remote:analyst,1mo
-Maple,https://web3.career/head-of-capital-markets-maple-finance/23459,Head of Capital Markets,$79k - $200k,executive:remote,1mo
-Cake Pte Ltd,https://web3.career/qa-automation-engineer-cakedefi/23458,QA Automation Engineer,$40k - $150k,dev:quality assurance:javascript,1mo
-BitGo,https://web3.career/associate-digital-asset-sales-research-us-bitgo/23457,Associate - Digital Asset Sales & Research (US),$100k - $180k,sales:non tech:nft,1mo
-Hedge Labs,https://web3.career/web3-software-engineer-hedge-labs/23456,Web3 Software Engineer,$33k - $200k,dev:web3js:solana:javascript:rust,1mo
-Hedge Labs,https://web3.career/defi-degen-hedge-labs/23454,DeFi Degen,$50k - $160k,defi:solana,1mo
-Taurus SA,https://web3.career/software-engineer-frontend-taurusgroup/23453,Software engineer (frontend),$50k - $150k,dev:front end,1mo
-Ready Player Me,https://web3.career/senior-tools-engineer-unity-ready-player-me/23452,Senior Tools Engineer (Unity),$70k - $115k,dev:game dev:senior:metaverse:remote,1mo
-Bitfury,https://web3.career/senior-legal-counsel-corporate-transactional-lawyer-remote-bitfury/23451,Senior Legal Counsel - Corporate Transactional Lawyer (Remote),,legal:remote:senior,1mo
-Bitfury,https://web3.career/senior-legal-counsel-corporate-transactional-lawyer-remote-bitfury/23450,Senior Legal Counsel - Corporate Transactional Lawyer (Remote),,legal:remote:senior,1mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Analog,https://web3.career/blockchain-research-analyst-analog/24063,"San Francisco,
+United States",Blockchain Research Analyst,$60k - $104k,analyst:blockchain,1mo
+Chainalysis,https://web3.career/senior-account-executive-public-sector-taiwan-chainalysis/24062,Taiwan,"Senior Account Executive, Public Sector, Taiwan",$46k - $110k,executive:senior,1mo
+Chainalysis,https://web3.career/associate-account-executive-japan-chainalysis/24061,"Tokyo,
+Japan","Associate Account Executive, Japan",$70k - $180k,executive,1mo
+Ledger,https://web3.career/engineering-project-manager-ledger/24060,"Paris,
+France",Engineering Project Manager,$50k - $150k,project manager:non tech,1mo
+Aldrin,https://web3.career/mobile-ux-ui-designer-web3-wallet-remote-aldrin/24058,Remote,Mobile UX/UI Designer Web3 Wallet (Remote),$50k - $135k,remote:design:non tech:mobile:solana,1mo
+TFL Tech FZCO,https://web3.career/solidity-smart-contract-engineer-tfl-tech-fzco/24057,Remote,Solidity / Smart Contract Engineer,$70k - $120k,dev:smart contract:solidity:remote,1mo
+Next Big Thing AG,https://web3.career/founder-entrepreneur-machine-learning-f-m-x-nextbigthing/24056,"Berlin,
+Germany",Founder / Entrepreneur - Machine Learning (f/m/x),,executive:machine learning:remote,1mo
+Gnosis,https://web3.career/dao-coordination-lead-m-w-d-gnosis/24055,"Lisbon,
+Portugal",DAO Coordination Lead (m/w/d),$78k - $200k,lead:ethereum:node,1mo
+Opyn,https://web3.career/staff-smart-contract-engineer-opyn-4/24053,"New York,
+United States","Staff, Smart Contract Engineer",$180k - $240k,dev:smart contract:solidity:solana:ethereum,1mo
+Sygnum Bank AG,https://web3.career/people-operations-manager-sygnum/24052,Switzerland,People Operations Manager,$60k - $200k,operations,1mo
+Disrupt Network,https://web3.career/marketing-executive-disrupt-network/24051,,Marketing Executive,$0k,executive:marketing:non tech,1mo
+Galaxy Digital Services,https://web3.career/mifi-associate-vp-galaxydigitalservices/24050,,MiFi Associate/VP,$70k - $180k,executive,1mo
+Next Big Thing,https://web3.career/sales-manager-european-market-nextbigthingag2/24049,"Berlin,
+Germany",Sales Manager - European market,$26k - $140k,sales:non tech,1mo
+Spring Labs,https://web3.career/sr-account-executive-fintech-springlabs/24048,Nationwide,Sr. Account Executive (FinTech),,executive:finance:senior,1mo
+ConsenSys Inc,https://web3.career/developer-community-manager-consensysinc/24047,"New York,
+United States",Developer Community Manager,,community manager:non tech:dev:ethereum:javascript,1mo
+The Block,https://web3.career/product-manager-newsletters-theblockcrypto/24046,Remote,"Product Manager, Newsletters",$115k - $175k,product manager:non tech:remote,1mo
+BitGo,https://web3.career/brand-designer-bitgo/24045,"Palo Alto,
+United States",Brand Designer,,marketing:non tech:design,1mo
+Ripple,https://web3.career/senior-revenue-and-technical-accountant-ripple/24044,"San Francisco,
+United States",Senior Revenue and Technical Accountant,$80k - $110k,accounting:senior,1mo
+Ripple,https://web3.career/manager-global-payroll-ripple/24043,"San Francisco,
+United States","Manager, Global Payroll",$25k - $150k,accounting,1mo
+Ripple,https://web3.career/director-global-payroll-ripple/24042,"San Francisco,
+United States","Director, Global Payroll",$120k - $150k,executive:accounting,1mo
+Okcoin,https://web3.career/product-designer-retail-okcoin/24041,"San Francisco,
+United States","Product Designer, Retail",$50k - $150k,design:non tech,1mo
+Galaxy Digital Services,https://web3.career/2022-mining-intern-galaxydigitalservices/24039,,2022 Mining Intern,,intern:entry level,1mo
+OKX,https://web3.career/hr-business-partner-okx/24038,"Singapore,
+Singapore",HR Business Partner,$60k - $150k,hr:non tech,1mo
+Gemini,https://web3.career/director-brand-strategy-uk-europe-gemini/24037,United Kingdom,"Director, Brand Strategy - UK / Europe",$70k - $158k,marketing:non tech:executive,1mo
+Satoshis Games,https://web3.career/social-media-marketing-manager-satoshis-games/24036,United States,Social Media Marketing Manager,$25k - $35k,marketing:non tech:social media,1mo
+Satoshis Games,https://web3.career/community-manager-satoshis-games/24035,United States,Community Manager,$25k - $35k,community manager:non tech:nft,1mo
+SeedInvest,https://web3.career/performance-marketing-manager-seedinvest-seedinvest/24034,"Boston,
+United States","Performance Marketing Manager, SeedInvest",$45k - $130k,marketing:non tech,1mo
+OKX,https://web3.career/senior-manager-organization-talent-development-okx/24033,"Singapore,
+Singapore","Senior Manager, Organization & Talent Development",$40k - $70k,senior:recruiter:non tech,1mo
+GIANT Connect,https://web3.career/lead-product-manager-payments-and-custody-giantconnect/24032,"San Francisco,
+United States","Lead Product Manager, Payments and Custody",,lead:product manager:non tech,1mo
+Virtually Human Studio,https://web3.career/product-manager-remote-vhslab/24031,APAC,Product Manager (Remote),$115k - $175k,remote:product manager:non tech:nft,1mo
+Chainlink Labs,https://web3.career/regional-lead-of-cefi-us-emea-chainlink/24030,Remote,Regional Lead of CeFi - US/EMEA,$95k - $200k,lead:remote,1mo
+Validity Labs AG,https://web3.career/devops-engineer-m-f-d-remote-or-zurich-validitylabs/24029,,DevOps Engineer (m/f/d) Remote or Zurich,$95k - $180k,remote:devops:dev,1mo
+Next Big Thing AG,https://web3.career/cto-f-m-x-in-the-blockchain-space-nextbigthing/24028,"Berlin,
+Germany",CTO (f/m/x) in the Blockchain space,$100k - $300k,cto:executive:blockchain:remote:react,1mo
+SALT,https://web3.career/aml-compliance-manager-saltlending/24027,"Chicago,
+United States",AML Compliance Manager,,compliance,1mo
+SADA,https://web3.career/staff-site-reliability-engineer-sada/24026,"Montreal,
+Canada",Staff Site Reliability Engineer,$150k - $200k,dev:sys admin:java,1mo

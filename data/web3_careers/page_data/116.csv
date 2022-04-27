@@ -1,36 +1,50 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-CANDY,https://web3.career/vp-people-candy/21942,"VP, People",$70k - $180k,executive,2mo
-CANDY,https://web3.career/chief-of-staff-candy/21941,Chief of Staff,,executive:recruiter:non tech,2mo
-CANDY,https://web3.career/fraud-analyst-candy/21940,Fraud Analyst,$150k - $185k,analyst:security:nft,2mo
-CANDY,https://web3.career/customer-experience-quality-assurance-specialist-candy/21939,Customer Experience Quality Assurance Specialist,$40k - $80k,customer support,2mo
-CANDY,https://web3.career/customer-experience-associate-candy/21938,Customer Experience Associate,,customer support:nft,2mo
-CANDY,https://web3.career/vfx-producer-candy/21937,VFX Producer,$13k - $50k,vfx,2mo
-CANDY,https://web3.career/3d-generalist-lighting-texturing-and-compositing-candy/21936,"3D Generalist (Lighting, Texturing and Compositing)",$13k - $50k,vfx,2mo
-CANDY,https://web3.career/3d-generalist-lighting-texturing-and-compositing-candy/21935,"3D Generalist (Lighting, Texturing and Compositing)",$13k - $50k,vfx,2mo
-CANDY,https://web3.career/account-manager-brand-partnerships-sports-candy/21934,Account Manager - Brand Partnerships (Sports),,sales:non tech:account manager:marketing,2mo
-CANDY,https://web3.career/account-director-brand-partnerships-sports-candy/21933,Account Director - Brand Partnerships (Sports),$100k - $200k,sales:non tech:marketing:executive,2mo
-CANDY,https://web3.career/account-associate-brand-partnerships-sports-candy/21932,Account Associate - Brand Partnerships (Sports),$100k - $200k,sales:non tech:marketing,2mo
-Loop Crypto,https://web3.career/senior-full-stack-engineer-loop-crypto/21931,Senior Full Stack Engineer,$140k - $220k,dev:full stack:senior:react:node,2mo
-Bitfinex,https://web3.career/blockchain-integration-specialist-remote-bitfinex/21930,Blockchain Integration Specialist (Remote),$60k - $120k,remote:blockchain:solidity:ethereum:javascript,2mo
-Set Labs,https://web3.career/product-manager-setlabs/21928,Product Manager,$80k - $150k,product manager:non tech:ethereum,2mo
-Loop Crypto,https://web3.career/front-end-engineer-loop-crypto/21927,Front-End Engineer,$130k - $200k,dev:front end:react,2mo
-Finoa GmbH,https://web3.career/senior-staking-engineer-berlin-porto-f-m-d-finoa/21926,Senior Staking Engineer - Berlin / Porto (f/m/d),$85k - $200k,dev:senior:remote:node,2mo
-Sygnum Bank AG,https://web3.career/risk-officer-sygnum/21925,Risk Officer,$60k - $150k,ethereum,2mo
-Binance,https://web3.career/mobile-security-engineer-ios-binance/21924,Mobile Security Engineer (iOS),$51k - $109k,dev:ios:mobile:security,2mo
-Binance,https://web3.career/marketing-operations-intern-vietnam-binance/21923,Marketing Operations Intern - Vietnam,$24k - $48k,intern:entry level:marketing:non tech:operations,2mo
-Esri,https://web3.career/java-software-engineer-security-esri/21921,Java Software Engineer - Security,,dev:java:security:remote,2mo
-Okcoin,https://web3.career/software-engineer-otc-trading-services-okcoin/21920,Software Engineer - OTC Trading Services,$33k - $140k,dev:java,2mo
-Okcoin,https://web3.career/engineering-recruiting-lead-okcoin/21919,Engineering Recruiting Lead,$40k - $70k,lead:recruiter:non tech,2mo
-Figure,https://web3.career/people-operations-internship-figure/21918,People Operations Internship,,intern:entry level:operations,2mo
-Cake Pte Ltd,https://web3.career/recruiter-cakedefi/21917,Recruiter,$40k - $70k,recruiter:non tech,2mo
-Ava Labs,https://web3.career/senior-technical-product-manager-corex-avalabs/21916,Senior Technical Product Manager (CoreX),$80k - $150k,product manager:non tech:senior:node,2mo
-Crypto.com,https://web3.career/quant-developer-derivative-trading-team-crypto-com/21915,Quant Developer - Derivative Trading Team,$60k - $180k,dev,2mo
-[email protected],https://web3.career/lead-developer-typescript-node-js-valr/21914,Lead Developer - TypeScript/Node.js,$100k - $200k,javascript:dev:lead:node:remote,2mo
-Binance,https://web3.career/social-media-and-community-intern-specialist-binance/21913,Social Media and Community Intern/Specialist,,community manager:non tech:intern:entry level:social media,2mo
-Chainalysis,https://web3.career/senior-engineer-platform-chainalysis/21912,"Senior Engineer, Platform",$80k - $200k,dev:senior,2mo
-BitGo,https://web3.career/erm-director-risk-incidents-bitgo/21911,ERM Director - Risk Incidents,$70k - $180k,executive,2mo
-Binance,https://web3.career/financial-derivatives-business-development-manager-binance/21910,Financial Derivatives Business Development Manager,$40k - $140k,sales:non tech:finance,2mo
-FRAKT,https://web3.career/head-of-marketing-frakt/21909,Head of Marketing,$70k - $158k,executive:marketing:non tech:remote:solana,2mo
-Blockchain.com,https://web3.career/senior-data-protection-specialist-blockchain/21908,Senior Data Protection Specialist,$78k - $200k,senior,2mo
-Bitcoin Depot,https://web3.career/sales-enablement-manager-bitcoindepot/21907,Sales Enablement Manager,$29k - $43k,sales:non tech:ethereum,2mo
-Figure,https://web3.career/director-data-analytics-marketing-figure/21906,"Director, Data Analytics - Marketing",,stats:executive:marketing:non tech,2mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Shakudo,https://web3.career/web-3-community-manager-shakudo/22501,Remote,Web 3 Community Manager,$50k - $110k,community manager:non tech:remote:social media,2mo
+Revolut,https://web3.career/mid-senior-lead-ios-software-engineers-crypto-revolut/22499,United Kingdom,Mid/ Senior/ Lead iOS Software Engineers - Crypto,,ios:mobile:lead:senior:dev,2mo
+Revolut,https://web3.career/mid-senior-android-software-engineer-crypto-revolut/22498,United Kingdom,Mid/ Senior Android Software Engineer - Crypto,,android:mobile:dev:senior:crypto,2mo
+Binance,https://web3.career/litigation-and-privacy-paralegal-europe-binance/22497,Remote,Litigation and Privacy Paralegal - Europe,,legal:remote,2mo
+Revolut,https://web3.career/mid-senior-lead-backend-engineers-java-crypto-revolut/22495,United Kingdom,Mid/Senior/Lead Backend Engineers (Java) - Crypto,$140k - $180k,backend:java:lead:senior:crypto,2mo
+Sytac,https://web3.career/junior-medior-backend-developer-sytac/22494,"Amsterdam,
+Netherlands",Junior/Medior Backend Developer,$28k - $39k,backend:dev:junior:entry level:java,2mo
+etika,https://web3.career/software-engineer-etika/22493,"Manchester,
+United Kingdom",Software Engineer,$60k - $180k,dev:react:node,2mo
+"Loyalty Juggernaut, Inc",https://web3.career/product-engineer-automation-api-testing-lji/22492,"Hyderabad,
+India",Product Engineer (Automation/API Testing),$60k - $160k,api:dev:java,2mo
+Chilipay Limited,https://web3.career/senior-creative-designer-usa-chiliz/22491,"Miami,
+United States",Senior Creative Designer - USA,$60k - $120k,design:non tech:senior,2mo
+Bitkub,https://web3.career/project-manager-bitkub-online-bitkub/22490,"Bangkok,
+Thailand",Project Manager - Bitkub Online,$80k - $150k,project manager:non tech:ethereum:node:php,2mo
+Africhange Technologies Ltd.,https://web3.career/software-developer-ruby-on-rails-remote-afteam/22489,"Lagos,
+Nigeria",Software Developer (Ruby on Rails)-Remote,$65k - $113k,remote:dev:ruby,2mo
+Toposware,https://web3.career/distributed-systems-engineer-blockchain-toposware/22488,"Boston,
+United States",Distributed Systems Engineer (Blockchain),,dev:sys admin:blockchain:rust,2mo
+Uphold,https://web3.career/senior-finops-analyst-uphold/22487,"San Francisco,
+United States",Senior FinOps Analyst,$150k - $185k,analyst:senior:javascript,2mo
+Celsius,https://web3.career/compliance-analyst-celsius/22486,"Tel Aviv,
+Israel",Compliance Analyst,,compliance:analyst,2mo
+Delphi Digital,https://web3.career/senior-recruiter-delphidigital/22485,Remote,Senior Recruiter,$40k - $70k,recruiter:non tech:senior:remote,2mo
+IOTA Foundation,https://web3.career/senior-ux-designer-iota/22483,Remote,(Senior) UX Designer,$60k - $120k,design:non tech:senior:remote,2mo
+Aurora Labs,https://web3.career/qa-engineer-auroraisnear/22482,Remote,QA Engineer,,dev:quality assurance:remote:ethereum:javascript,2mo
+Bitt Inc.,https://web3.career/software-architect-bitt/22481,United States,Software Architect,,architecture:dev:javascript,2mo
+IntellectEU,https://web3.career/smart-contract-developer-daml-intellecteu/22480,Ukraine,Smart Contract Developer (DAML),$65k - $180k,dev:smart contract:ethereum:scala:java,2mo
+Cartesi,https://web3.career/fullstack-developers-cartesi/22479,Remote,Fullstack Developers,$39k - $150k,full stack:remote:solidity,2mo
+Verra,https://web3.career/software-engineer-or-senior-software-engineer-remote-worldwide-verra/22478,United States,Software Engineer or Senior Software Engineer (Remote - Worldwide),$85k - $200k,remote:dev:senior,2mo
+Aurora Labs,https://web3.career/business-development-manager-defi-auroraisnear/22477,Remote,Business Development Manager/DeFi,$79k - $140k,sales:non tech:defi:remote:ethereum,2mo
+Ethereum,https://web3.career/networking-engineer-ethereum/22476,Remote,Networking Engineer,$60k - $150k,dev:remote:ethereum,2mo
+Aurora Labs,https://web3.career/blockchain-bridge-engineer-auroraisnear/22475,Remote,Blockchain/Bridge Engineer,$70k - $190k,dev:blockchain:remote:solidity:solana,2mo
+Aurora Labs,https://web3.career/blockchain-evm-engineer-auroraisnear/22474,Remote,Blockchain/EVM Engineer,$70k - $190k,dev:blockchain:remote:solidity:solana,2mo
+Balancer Labs,https://web3.career/operations-partner-balancer-labs-1/22473,Remote,Operations Partner,$80k - $110k,operations:remote,2mo
+CHIBI CLASH,https://web3.career/growth-marketing-lead-chibi-clash/22472,"Vancouver,
+Canada",Growth Marketing Lead,$50k - $75k,marketing:non tech:lead:nft,2mo
+Aldrin,https://web3.career/senior-react-native-mobile-developer-web3-remote-aldrin/22471,"Warsaw,
+Poland",Senior React Native Mobile Developer Web3 (Remote),$65k - $180k,remote:dev:mobile:react native:javascript,2mo
+Caiz Development GmbH,https://web3.career/chief-marketing-officer-caiz-development/22470,"Frankfurt,
+Germany",Chief Marketing Officer,$70k - $158k,executive:marketing:non tech:remote,2mo
+Aldrin,https://web3.career/senior-react-native-mobile-developer-web3-remote-aldrin/22469,Remote,Senior React Native Mobile Developer Web3 (Remote),$65k - $180k,remote:dev:mobile:react native:javascript,2mo
+PartyHat Capital,https://web3.career/smart-contract-engineer-partyhat-capital/22468,"Montreal,
+Canada",Smart Contract Engineer,$70k - $120k,dev:smart contract:web3js:ethereum:golang,2mo
+Mnemonic,https://web3.career/senior-site-reliability-engineer-mnemonic/22462,Remote,Senior Site Reliability Engineer,$150k - $180k,dev:sys admin:senior:remote:devops,2mo
+Nuri,https://web3.career/senior-software-engineer-react-native-nuri/22467,"Berlin,
+Germany",(Senior) Software Engineer - React Native,$65k - $200k,dev:react native:mobile:javascript:react,2mo
+PolyCrypt,https://web3.career/core-developer-perun/22466,Remote,Core Developer,$50k - $200k,dev:java:rust:remote,2mo
+Binance,https://web3.career/business-development-manager-nft-entertainment-fashion-binance/22465,Remote,Business Development Manager (NFT) - Entertainment & Fashion,$100k - $180k,sales:non tech:nft:remote,2mo

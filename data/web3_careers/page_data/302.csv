@@ -1,36 +1,62 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Online Growth Team,https://web3.career/independent-sales-rep-saas-crypto-online-growth-team/13545,Independent Sales Rep (SaaS/ Crypto),$30k - $100k,saas:sales:non tech:crypto,5mo
-Cross River Bank,https://web3.career/sr-research-associate-crypto-crossriverbank/13544,"Sr Research Associate, Crypto",$39k - $140k,crypto,5mo
-Sygnum Bank AG,https://web3.career/junior-relationship-manager-private-banking-100-sygnum/13542,Junior Relationship Manager – Private Banking (100%),$40k - $67k,finance:junior:entry level:marketing:non tech,5mo
-cLabs,https://web3.career/head-of-risk-and-compliance-celo-foundation-clabs/13540,"Head of Risk and Compliance, Celo Foundation",,compliance:executive:remote,5mo
-Sygnum Bank AG,https://web3.career/solution-architect-80-100-sygnum/13539,Solution Architect 80-100%,$80k,architecture:ethereum:javascript:java:golang,5mo
-Sygnum Bank AG,https://web3.career/ceo-office-internship-sygnum/13538,CEO Office Internship,,executive:intern:entry level:ethereum,5mo
-TKKR,https://web3.career/front-end-engineer-tkkr/13536,Front-End Engineer,$50k - $144k,dev:front end:react:javascript,5mo
-Sygnum Bank AG,https://web3.career/head-of-sales-and-client-services-sygnum/13534,Head of Sales and Client Services,$40k - $150k,executive:sales:non tech:ethereum,5mo
-Chainalysis,https://web3.career/account-executive-public-sector-nordics-chainalysis/13533,"Account Executive, Public Sector, Nordics",$70k - $180k,executive,5mo
-Chainalysis,https://web3.career/account-executive-private-sector-iberia-chainalysis/13532,"Account Executive, Private Sector, Iberia",$70k - $180k,executive,5mo
-Chainalysis,https://web3.career/account-executive-private-sector-benelux-chainalysis/13531,"Account Executive, Private Sector, Benelux",$70k - $180k,executive,5mo
-Sygnum Bank AG,https://web3.career/assistant-relationship-manager-funds-hedge-funds-100-sygnum/13530,Assistant Relationship Manager – Funds / Hedge Funds (100%),$48k - $120k,marketing:non tech:ethereum,5mo
-Sygnum Bank AG,https://web3.career/credit-lending-analyst-sygnum/13529,Credit & Lending Analyst,$45k - $185k,analyst:ethereum,5mo
-Binance,https://web3.career/finance-manager-binance/13528,Finance Manager,$40k - $150k,finance,5mo
-Crypto.com,https://web3.career/customer-experience-quality-assurance-analyst-with-french-crypto-com/13527,Customer Experience Quality Assurance Analyst with French,$15k - $95k,analyst:customer support,5mo
-Axoni,https://web3.career/kubernetes-engineer-axoni/13525,Kubernetes Engineer,$65k - $180k,dev:remote,5mo
-Sygnum Bank AG,https://web3.career/assistant-relationship-manager-funds-hedge-funds-100-sygnum/13524,Assistant Relationship Manager – Funds / Hedge Funds (100%),$48k - $120k,marketing:non tech:ethereum,5mo
-Sygnum Bank AG,https://web3.career/associate-legal-regtech-sygnum/13523,"Associate, Legal & RegTech",$24k - $140k,legal,5mo
-SwissBorg,https://web3.career/2d-marketing-designer-swissborg/13522,2D Marketing Designer,,design:non tech:marketing,5mo
-Okcoin,https://web3.career/regional-site-director-okcoin/13520,Regional Site Director,$70k - $180k,executive,5mo
-MoonPay,https://web3.career/solutions-engineer-moonpay/13519,Solutions Engineer,$60k - $180k,dev,5mo
-Crypto.com,https://web3.career/customer-experience-quality-assurance-analyst-with-italian-crypto-com/13518,Customer Experience Quality Assurance Analyst with Italian,$15k - $95k,analyst:customer support,5mo
-Okcoin,https://web3.career/spanish-customer-service-representative-okcoin/13514,Spanish Customer Service Representative,$40k - $80k,customer support:remote,5mo
-Chainalysis,https://web3.career/associate-account-executive-emea-chainalysis/13513,"Associate Account Executive, EMEA",$70k - $180k,executive,5mo
-Veracity Protocol,https://web3.career/head-of-product-cv-ml-bridge-to-physical-veracity-protocol/13512,Head of Product – CV/ML bridge to physical,$140k - $180k,executive:product manager:non tech:nft:remote,5mo
-GSR,https://web3.career/blockchain-infrastructure-reliability-engineer-new-york-gsr/13509,Blockchain Infrastructure / Reliability Engineer - New York,,dev:sys admin:blockchain,5mo
-ElevenYellow,https://web3.career/product-marketing-manager-elevenyellow/13508,Product Marketing Manager,$50k - $100k,marketing:non tech:nft:remote,5mo
-Tangany,https://web3.career/junior-senior-sales-key-account-manager-m-f-d-munich-remote-3387454-junior-senior-sales-and-key-account-manager-m-f-d-munich-remote/13505,(Junior / Senior) Sales & Key Account Manager m/f/d Munich/Remote,,remote:account manager:junior:entry level:sales,5mo
-Rebellion Pay,https://web3.career/ux-ui-designer-full-remote-or-office-at-your-convenience-rebellionpay/13504,UX / UI Designer - Full Remote or Office (At your convenience),$50k - $135k,remote:design:non tech,5mo
-Binance,https://web3.career/fraud-risk-operation-binance/13503,Fraud & Risk Operation,$95k - $200k,security,5mo
-ModSquad,https://web3.career/content-and-engagement-moderation-blockchain-for-nfts-modsquad/13502,Content and Engagement Moderation - Blockchain for NFTs,$90k - $190k,blockchain:nft:remote,5mo
-OKEx,https://web3.career/localization-project-manager-okex/13501,Localization Project Manager,$50k - $150k,project manager:non tech,5mo
-Next Big Thing AG,https://web3.career/sales-manager-f-m-x-for-zero-defects-our-saas-startup-in-the-field-of-industrial-quality-management-nextbigthing/13500,"Sales Manager (f/m/x) for ZERO defects, our SaaS startup in the field of industrial quality management",$30k - $100k,saas:sales:non tech:remote,5mo
-Immutable,https://web3.career/game-lead-executive-producer-immutable/13499,Game Lead / Executive Producer,,executive:game dev:lead,5mo
-Crypto.com,https://web3.career/customer-experience-quality-assurance-analyst-with-polish-crypto-com/13498,Customer Experience Quality Assurance Analyst with Polish,$15k - $95k,analyst:customer support,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Pocket Worlds,https://web3.career/senior-frontend-developer-remote-pocketworlds/14304,"Zagreb,
+Croatia",Senior Frontend Developer [Remote],$22k - $120k,remote:dev:front end:senior:react,5mo
+Nuri,https://web3.career/site-reliability-engineer-sre-nuri/14303,"Berlin,
+Germany",Site Reliability Engineer (SRE),$150k - $200k,dev:sys admin:senior:remote,5mo
+Pocket Worlds,https://web3.career/senior-frontend-developer-remote-pocketworlds/14299,"Barcelona,
+Spain",Senior Frontend Developer [Remote],$22k - $120k,remote:dev:front end:senior:react,5mo
+Pocket Worlds,https://web3.career/senior-frontend-developer-remote-pocketworlds/14298,"Kiev,
+Ukraine",Senior Frontend Developer [Remote],$22k - $120k,remote:dev:front end:senior:react,5mo
+CryptoGoGos,https://web3.career/product-manager-3474747-product-manager-at-crypto-start-up/14297,"Berlin,
+Germany",Product Manager,$45k - $67k,product manager:non tech:crypto:nft:remote,5mo
+Nansen.ai,https://web3.career/internship-product-nansen/14296,"Atlanta,
+United States","Internship, Product",,intern:entry level,5mo
+Foundation,https://web3.career/senior-software-engineer-fullstack-with-foundation/14295,Remote,Senior Software Engineer — Fullstack,$70k - $180k,dev:full stack:senior:nft:remote,5mo
+Foundation,https://web3.career/senior-software-engineer-frontend-with-foundation/14294,Remote,Senior Software Engineer — Frontend,$70k - $190k,dev:front end:senior:nft:remote,5mo
+Crypto.com,https://web3.career/data-privacy-analyst-crypto-com/14293,"Sofia,
+Bulgaria",Data Privacy Analyst,$40k - $120k,analyst,5mo
+Altoros,https://web3.career/193-fullstack-javascript-developer-blockchain-altoros/14292,"Santa Fe,
+Argentina",(193) Fullstack Javascript Developer | Blockchain,$65k - $180k,dev:full stack:javascript:blockchain:react,5mo
+Curve Labs,https://web3.career/web3-ui-designer-m-w-d-curve-labs/14291,"Berlin,
+Germany",Web3 UI Designer (m/w/d),$45k - $79k,design:non tech:javascript:remote,5mo
+Crypto.com,https://web3.career/blockchain-security-project-manager-jp-crypto-com/14290,"Tokyo,
+Japan",Blockchain Security Project Manager (JP),,project manager:non tech:security:blockchain:nft,5mo
+FTX TR,https://web3.career/content-manager-ftxtr/14289,Turkey,Content Manager,$25k - $96k,marketing:non tech:copywriting,5mo
+Mysten Labs,https://web3.career/software-engineer-cryptography-remote-europe-mystenlabs/14288,Remote,"Software Engineer, Cryptography (Remote, Europe)",$65k - $180k,remote:dev,5mo
+Pocket Worlds,https://web3.career/senior-frontend-developer-remote-pocketworlds/14285,"Warsaw,
+Poland",Senior Frontend Developer [Remote],$22k - $120k,remote:dev:front end:senior:react,5mo
+Sygnum Bank AG,https://web3.career/site-reliability-engineer-sygnum/14282,Switzerland,Site Reliability Engineer,$150k - $200k,dev:sys admin:java,5mo
+Reach,https://web3.career/social-media-community-manager-blockchain-defi-gaming-reach-sh/14281,"Boston,
+United States",Social Media & Community Manager - Blockchain/DeFi/Gaming,$65k - $75k,community manager:non tech:game dev:social media:blockchain,5mo
+MetaMask,https://web3.career/product-analyst-web3-identity-metamask/14280,United States,Product Analyst - Web3 Identity,$45k - $185k,analyst:ethereum,5mo
+Nansen.ai,https://web3.career/internship-attribution-nansen/14279,"New York,
+United States","Internship, Attribution",,intern:entry level:ethereum,5mo
+Queueco,https://web3.career/defi-algorithmic-trader-queueco/14278,"London,
+United Kingdom",DeFi Algorithmic Trader,,trader:defi:ethereum,5mo
+Republic Realm,https://web3.career/metaverse-nft-social-media-community-manager-republicrealm/14273,"New York,
+United States",Metaverse & NFT Social Media Community Manager,$0k,community manager:non tech:metaverse:social media:nft,5mo
+BitGo,https://web3.career/senior-software-engineer-javascript-sdk-bitgo/14272,"Toronto,
+Canada","Senior Software Engineer, Javascript SDK",$80k - $200k,dev:javascript:senior,5mo
+BitGo,https://web3.career/senior-software-engineer-backend-blockchain-integration-team-bitgo/14271,"Toronto,
+Canada","Senior Software Engineer (Backend), Blockchain Integration Team",$70k - $200k,backend:dev:senior:blockchain:react,5mo
+BitGo,https://web3.career/senior-blockchain-engineer-coins-team-bitgo/14270,"Palo Alto,
+United States","Senior Blockchain Engineer, Coins Team",$80k - $200k,dev:senior:blockchain:solidity:ethereum,5mo
+BitGo,https://web3.career/blockchain-engineer-customer-excellence-bitgo/14269,"Toronto,
+Canada",Blockchain Engineer - Customer Excellence,$33k - $120k,dev:blockchain:ethereum:javascript:java,5mo
+Nuri,https://web3.career/senior-talent-acquisition-manager-tech-nuri/14268,"Berlin,
+Germany",Senior Talent Acquisition Manager - TECH,$40k - $70k,senior:recruiter:non tech:remote,5mo
+StockX,https://web3.career/senior-product-manager-nft-stockx/14267,"Detroit,
+United States",Senior Product Manager - NFT,$80k - $150k,product manager:non tech:senior:nft,5mo
+CryptoGoGos,https://web3.career/lead-frontend-developer-react-3475302-lead-frontend-developer-react-at-crypto-start-up/14266,"Berlin,
+Germany",Lead Frontend Developer (React),$56k - $79k,dev:front end:lead:javascript:react,5mo
+Crypto.com,https://web3.career/blockchain-security-engineeer-backend-rust-jp-crypto-com/14265,"Tokyo,
+Japan",Blockchain Security Engineeer - Backend (Rust) (JP),,backend:rust:security:blockchain:ethereum,5mo
+IOTA Foundation,https://web3.career/senior-software-engineer-go-remote-iota/14263,Remote,Senior Software Engineer - Go - Remote,$22k - $150k,remote:dev:golang:senior:ethereum,5mo
+Brix,https://web3.career/rust-developer-for-developing-a-blockchain-network-as-a-co-founder-brixinternet/14262,United States,Rust Developer for developing a blockchain network as a Co-Founder,$0k,dev:executive:rust:blockchain,5mo
+Advanced Blockchain,https://web3.career/qa-engineer-advanced-blockchain-2/14261,"Berlin,
+Germany",QA Engineer,$0k,dev:quality assurance:javascript:remote,5mo
+Fleek,https://web3.career/web3-backend-protocol-engineer-fleekhq/14260,"New York,
+United States",Web3 Backend / Protocol Engineer,$80k - $125k,backend:dev:ethereum:javascript:golang,5mo
+Crypto.com,https://web3.career/blockchain-security-engineeer-backend-rust-hk-crypto-com/14259,"Hong Kong,
+Hong Kong",Blockchain Security Engineeer - Backend (Rust) (HK),,backend:rust:security:blockchain:ethereum,5mo
+Sygnum Bank AG,https://web3.career/security-operations-engineer-zurich-or-lausanne-sygnum/14258,Switzerland,"Security Operations Engineer, Zurich or Lausanne",,dev:operations:security:ethereum,5mo

@@ -1,36 +1,68 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-CoinList,https://web3.career/customer-support-analyst-social-media-contract-coinlist/10317,Customer Support Analyst (Social Media) [Contract],,analyst:customer support:social media:non tech:solana,5mo
-CoinList,https://web3.career/customer-support-analyst-europe-contract-coinlist/10316,"Customer Support Analyst, Europe [Contract]",,analyst:customer support:solana,5mo
-CoinList,https://web3.career/customer-support-analyst-asia-pacific-region-contract-coinlist/10315,"Customer Support Analyst, Asia Pacific Region [Contract]",,analyst:customer support:solana,5mo
-CoinList,https://web3.career/customer-support-analyst-americas-contract-coinlist/10314,"Customer Support Analyst, Americas [Contract]",,analyst:customer support:solana,5mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/technical-recruitment-specialist-coindesk/10313,Technical Recruitment Specialist,$40k - $70k,recruiter:non tech,5mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/editor-podcasts-audio-coindesk/10312,"Editor, Podcasts & Audio",$60k - $150k,ethereum,5mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/cdtv-video-production-associate-coindesk-coindesk/10311,"CDTV Video Production Associate, CoinDesk",,video,5mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/news-editor-europe-coindesk/10310,News Editor - Europe,$50k - $150k,react:remote,5mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/senior-content-marketing-manager-coindesk-indexes-coindesk/10309,"Senior Content Marketing Manager, CoinDesk Indexes",$46k - $109k,marketing:non tech:senior,5mo
-Clearmatics,https://web3.career/lead-software-engineer-blockchain-golang-clearmatics/10308,"Lead Software Engineer - Blockchain, Golang",$70k - $180k,dev:golang:lead:blockchain:solidity,5mo
-Clearmatics,https://web3.career/cryptography-engineer-research-blockchain-clearmatics/10307,"Cryptography Engineer - Research, Blockchain",$33k - $120k,dev:blockchain:ethereum:rust,5mo
-Clearmatics,https://web3.career/general-applications-clearmatics/10306,General Applications,$60k - $150k,ethereum,5mo
-Chainalysis,https://web3.career/training-specialist-us-chainalysis/10305,"Training Specialist, US",,education,5mo
-Chainalysis,https://web3.career/training-specialist-apac-korean-speaking-chainalysis/10304,"Training Specialist, APAC (Korean-speaking)",,education,5mo
-Chainalysis,https://web3.career/training-specialist-apac-japanese-speaking-chainalysis/10303,"Training Specialist, APAC (Japanese-speaking)",,education,5mo
-Chainalysis,https://web3.career/senior-solutions-architect-netherlands-chainalysis/10302,"Senior Solutions Architect, Netherlands",$80k,architecture:senior,5mo
-Chainalysis,https://web3.career/senior-solutions-architect-dach-chainalysis/10301,"Senior Solutions Architect, DACH",,architecture:senior:remote,5mo
-Chainalysis,https://web3.career/strategic-alliance-manager-chainalysis/10300,Strategic Alliance Manager,,,5mo
-Chainalysis,https://web3.career/senior-sales-development-representative-emea-chainalysis/10299,Senior Sales Development Representative - EMEA,$50k - $150k,sales:non tech:senior,5mo
-Chainalysis,https://web3.career/senior-enterprise-account-executive-financial-institutions-south-east-asia-chainalysis/10298,"Senior Enterprise Account Executive, Financial Institutions, South East Asia",,executive:finance:senior,5mo
-Chainalysis,https://web3.career/senior-enterprise-account-executive-financial-institutions-apac-chainalysis/10297,"Senior Enterprise Account Executive, Financial Institutions, APAC",,executive:finance:senior,5mo
-Chainalysis,https://web3.career/senior-account-executive-india-chainalysis/10296,"Senior Account Executive, India",$46k - $110k,executive:senior,5mo
-Chainalysis,https://web3.career/senior-account-executive-government-chainalysis/10295,"Senior Account Executive, Government",$46k - $110k,executive:senior,5mo
-Chainalysis,https://web3.career/senior-account-executive-dach-chainalysis/10294,"Senior Account Executive, DACH",$95k - $250k,executive:senior:remote,5mo
-Chainalysis,https://web3.career/senior-account-executive-commercial-france-chainalysis/10293,"Senior Account Executive, Commercial - France",$46k - $110k,executive:senior,5mo
-Chainalysis,https://web3.career/sales-development-representative-chainalysis/10292,Sales Development Representative,$26k - $140k,sales:non tech,5mo
-Chainalysis,https://web3.career/regional-sales-director-chainalysis/10291,Regional Sales Director,$40k - $150k,executive:sales:non tech,5mo
-Chainalysis,https://web3.career/regional-channel-manager-apac-chainalysis/10290,"Regional Channel Manager, APAC",,,5mo
-Chainalysis,https://web3.career/inside-sales-representative-chainalysis/10289,Inside Sales Representative,$26k - $140k,sales:non tech,5mo
-Chainalysis,https://web3.career/enterprise-account-executive-cryptocurrency-businesses-apac-chainalysis/10288,"Enterprise Account Executive, Cryptocurrency Businesses, APAC",$50k - $158k,executive:crypto,5mo
-Chainalysis,https://web3.career/director-revenue-enablement-chainalysis/10287,"Director, Revenue Enablement",$70k - $180k,executive,5mo
-Chainalysis,https://web3.career/business-development-representative-emea-chainalysis/10286,"Business Development Representative, EMEA",$26k - $140k,sales:non tech,5mo
-Chainalysis,https://web3.career/business-development-representative-chainalysis/10285,Business Development Representative,$26k - $140k,sales:non tech,5mo
-Chainalysis,https://web3.career/business-development-representative-chainalysis/10284,Business Development Representative,$26k - $140k,sales:non tech,5mo
-Chainalysis,https://web3.career/associate-account-executive-apac-chainalysis/10283,"Associate Account Executive, APAC",$70k - $180k,executive,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Telcoin,https://web3.career/software-engineer-rust-telcoin/10827,"Los Angeles,
+United States",Software Engineer: Rust,$75k - $190k,dev:rust,6mo
+Telcoin,https://web3.career/application-security-engineer-telcoin/10826,"Los Angeles,
+United States",Application Security Engineer,,dev:security:rust,6mo
+Symbiont,https://web3.career/blockchain-platform-engineer-symbiont/10825,,Blockchain Platform Engineer,$65k - $160k,dev:blockchain:node,6mo
+SuperRare Labs,https://web3.career/product-designer-superrarelabs/10824,"New York,
+United States",Product Designer,$80k - $150k,design:non tech:ethereum:nft,6mo
+SuperRare Labs,https://web3.career/swag-merchandising-coordinator-superrarelabs/10823,"New York,
+United States",Swag Merchandising Coordinator,$70k - $158k,ethereum:nft,6mo
+SuperRare Labs,https://web3.career/seo-manager-superrarelabs/10822,"New York,
+United States",SEO Manager,,seo:non tech:ethereum:nft,6mo
+SuperRare Labs,https://web3.career/head-of-performance-marketing-superrarelabs/10821,"New York,
+United States",Head of Performance Marketing,$70k - $158k,executive:marketing:non tech:ethereum:nft,6mo
+SuperRare Labs,https://web3.career/brand-and-marketing-copywriter-superrarelabs/10820,"New York,
+United States",Brand and Marketing Copywriter,$25k - $96k,marketing:non tech:copywriting:ethereum:nft,6mo
+SuperRare Labs,https://web3.career/frontend-engineer-superrarelabs/10819,"New York,
+United States",Frontend Engineer,$50k - $144k,dev:front end:react:ethereum:nft,6mo
+SuperRare Labs,https://web3.career/devops-engineer-superrarelabs/10818,"New York,
+United States",DevOps Engineer,$95k - $145k,devops:dev:ethereum:nft:golang,6mo
+SuperRare Labs,https://web3.career/associate-editor-superrarelabs/10817,"New York,
+United States",Associate Editor,$70k - $158k,ethereum:nft,6mo
+SuperRare Labs,https://web3.career/product-support-specialist-superrarelabs/10816,"New York,
+United States",Product Support Specialist,,customer support:ethereum:nft,6mo
+SuperLayer,https://web3.career/founding-product-manager-superlayer/10815,,Founding Product Manager,$69k - $160k,product manager:non tech,6mo
+SuperLayer,https://web3.career/chief-financial-officer-superlayer/10814,,Chief Financial Officer,$90k - $200k,executive:finance,6mo
+Stellar Development Foundation,https://web3.career/investment-associate-stellar/10813,"San Francisco,
+United States",Investment Associate,$40k - $150k,finance,6mo
+Stellar Development Foundation,https://web3.career/investment-associate-stellar/10812,"New York,
+United States",Investment Associate,$40k - $150k,finance,6mo
+Stellar Development Foundation,https://web3.career/accountant-stellar/10811,"San Francisco,
+United States",Accountant,$25k - $150k,accounting,6mo
+Stellar Development Foundation,https://web3.career/staff-software-engineer-stellar/10810,"New York,
+United States",Staff Software Engineer,$11k - $130k,dev:javascript:java:rust,6mo
+Stellar Development Foundation,https://web3.career/staff-software-engineer-stellar/10809,"San Francisco,
+United States",Staff Software Engineer,$11k - $130k,dev:javascript:java:rust,6mo
+Stellar Development Foundation,https://web3.career/staff-software-engineer-stellar/10808,"San Francisco,
+United States",Staff Software Engineer,$11k - $130k,dev:javascript:java:rust,6mo
+Stellar Development Foundation,https://web3.career/protocol-architect-stellar/10807,"San Francisco,
+United States",Protocol Architect,$67k - $180k,architecture,6mo
+Stellar Development Foundation,https://web3.career/protocol-architect-stellar/10806,"San Francisco,
+ United States",Protocol Architect,$67k - $180k,architecture,6mo
+Stellar Development Foundation,https://web3.career/protocol-architect-stellar/10805,"New York,
+United States",Protocol Architect,$67k - $180k,architecture,6mo
+Stellar Development Foundation,https://web3.career/site-reliability-engineer-stellar/10804,"San Francisco,
+United States",Site Reliability Engineer,,dev:sys admin:ruby,6mo
+Stellar Development Foundation,https://web3.career/senior-application-security-engineer-stellar/10803,"New York,
+United States",Senior Application Security Engineer,$95k - $250k,dev:security:senior:react:golang,6mo
+Stellar Development Foundation,https://web3.career/senior-application-security-engineer-stellar/10802,"San Francisco,
+United States",Senior Application Security Engineer,$95k - $250k,dev:security:senior:react:golang,6mo
+Stellar Development Foundation,https://web3.career/engineering-manager-horizon-stellar/10801,"San Francisco,
+United States","Engineering Manager, Horizon",$70k - $180k,executive,6mo
+Stellar Development Foundation,https://web3.career/engineering-manager-horizon-stellar/10800,"New York,
+United States","Engineering Manager, Horizon",$70k - $180k,executive,6mo
+Stellar Development Foundation,https://web3.career/engineering-manager-horizon-stellar/10799,"San Francisco,
+United States","Engineering Manager, Horizon",$70k - $180k,executive,6mo
+Stellar Development Foundation,https://web3.career/backend-engineer-stellar/10798,"San Francisco,
+United States",Backend Engineer,$60k - $160k,backend:dev:java:rust,6mo
+Stellar Development Foundation,https://web3.career/backend-engineer-stellar/10797,"New York,
+United States",Backend Engineer,$60k - $160k,backend:dev:java:rust,6mo
+Stellar Development Foundation,https://web3.career/senior-c-engineer-stellar/10796,"New York,
+United States",Senior C++ Engineer,$100k - $150k,c:c plus plus:dev:senior,6mo
+Stellar Development Foundation,https://web3.career/senior-c-engineer-stellar/10795,"San Francisco,
+United States",Senior C++ Engineer,$100k - $150k,c:c plus plus:dev:senior,6mo
+Stellar Development Foundation,https://web3.career/senior-c-engineer-stellar/10794,"San Francisco,
+United States",Senior C++ Engineer,$100k - $150k,c:c plus plus:dev:senior,6mo
+Stellar Development Foundation,https://web3.career/technical-content-specialist-stellar/10793,"San Francisco,
+United States",Technical Content Specialist,$25k - $96k,marketing:non tech:copywriting:react:javascript,6mo

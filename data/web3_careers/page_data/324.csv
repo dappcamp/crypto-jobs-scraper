@@ -1,36 +1,62 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Binance,https://web3.career/senior-security-operations-engineer-soc-binance/12699,Senior Security Operations Engineer (SOC),,dev:operations:security:senior:remote,5mo
-Nansen.ai,https://web3.career/data-quality-engineer-attribution-nansen/12698,Data Quality Engineer (Attribution),$60k - $158k,dev:ethereum,5mo
-Binance,https://web3.career/senior-hr-operations-specialist-binance/12697,Senior HR Operations Specialist,,hr:non tech:operations:senior,5mo
-Binance,https://web3.career/data-protection-engineer-binance/12696,Data Protection Engineer,$60k - $180k,dev,5mo
-Binance,https://web3.career/web-architect-junior-fresh-binance/12695,Web Architect - Junior/Fresh,,architecture:junior:entry level,5mo
-Binance,https://web3.career/backend-leader-payment-binance/12694,Backend Leader - Payment,$140k - $500k,backend:lead,5mo
-Figment,https://web3.career/marketing-assistant-figment/12693,Marketing Assistant,$45k - $130k,marketing:non tech,5mo
-Blockchain.com,https://web3.career/financial-operations-controller-oracle-blockchain/12692,Financial Operations Controller (Oracle),,legal:finance:operations,5mo
-Blockchain.com,https://web3.career/latam-controller-blockchain/12691,LATAM Controller,$24k - $140k,legal,5mo
-Blockchain.com,https://web3.career/finance-operations-associate-blockchain/12690,Finance Operations Associate,$55k - $200k,finance:operations,5mo
-Cloudflare,https://web3.career/software-engineer-web3-cloudflare/12689,Software Engineer Web3,$60k - $150k,dev:ethereum:remote,5mo
-Sperax,https://web3.career/sr-front-end-engineer-react-remote-or-onsite-sperax/12688,Sr. Front End Engineer (React) (Remote or Onsite),$22k - $120k,remote:dev:front end:javascript:react,5mo
-Sperax,https://web3.career/marketing-director-remote-or-onsite-defi-sperax/12687,Marketing Director (Remote or Onsite) (DeFi),$45k - $158k,remote:executive:marketing:non tech:defi,5mo
-IOVLabs,https://web3.career/senior-tech-recruiter-iovlabs/12686,Senior Tech Recruiter,$40k - $70k,recruiter:non tech:senior:remote,5mo
-Consensys,https://web3.career/product-marketing-manager-metamask-consensys/12685,Product Marketing Manager (MetaMask),$48k - $120k,marketing:non tech:ethereum:remote,5mo
-Acronis,https://web3.career/senior-python-developer-cloud-integrations-3364478-senior-python-developer-cloud-integrations/12684,Senior Python Developer (Cloud Integrations),,cloud:dev:python:senior:php,5mo
-AccelOne,https://web3.career/sr-xamarin-developer-accelone/12682,Sr. Xamarin Developer,,dev:senior:xamarin,5mo
-Loft Orbital Solutions,https://web3.career/frontend-engineer-senior-loftorbital/12680,Frontend Engineer (Senior),$70k - $190k,dev:front end:senior:javascript:vue,5mo
-Dept,https://web3.career/fullstack-engineer-crypto-denmark-remote-dept/12678,Fullstack Engineer (Crypto) - Denmark Remote,$70k - $200k,remote:dev:full stack:crypto:react,5mo
-IOTA Foundation,https://web3.career/app-developer-firefly-iota/12676,App Developer - Firefly,$56k - $160k,dev:react:javascript:rust,5mo
-Nuri,https://web3.career/senior-talent-acquisition-manager-tech-nuri/12674,Senior Talent Acquisition Manager - TECH,$40k - $70k,senior:recruiter:non tech:remote,5mo
-Nansen.ai,https://web3.career/product-owner-smart-alerts-product-nansen/12672,"Product Owner, Smart Alerts (Product)",$69k - $160k,product manager:non tech,5mo
-Nansen.ai,https://web3.career/product-designer-product-nansen/12671,Product Designer (Product),$50k - $135k,design:non tech:remote,5mo
-Nansen.ai,https://web3.career/public-relations-manager-marketing-nansen/12670,Public Relations Manager (Marketing),$45k - $130k,marketing:non tech,5mo
-Dept,https://web3.career/fullstack-engineer-crypto-remote-dept/12669,Fullstack Engineer Crypto - Remote,$70k - $200k,remote:dev:full stack:crypto:react,5mo
-Binance,https://web3.career/senior-hr-operations-specialist-binance/12668,Senior HR Operations Specialist,,hr:non tech:operations:senior,5mo
-Nansen.ai,https://web3.career/affiliate-marketing-manager-marketing-nansen/12667,Affiliate Marketing Manager (Marketing),$25k - $120k,marketing:non tech:remote,5mo
-Binance,https://web3.career/spot-trading-operations-senior-specialist-binance/12666,Spot Trading Operations Senior Specialist,,operations:senior,5mo
-Binance,https://web3.career/product-manager-kyc-kyb-binance/12665,Product Manager (KYC/KYB),,kyc:product manager:non tech:remote,5mo
-Nansen.ai,https://web3.career/venture-analyst-alpha-nansen/12664,Venture Analyst (Alpha),$36k - $120k,analyst:nft,5mo
-Nansen.ai,https://web3.career/internship-alpha-nansen/12663,"Internship, Alpha",,intern:entry level,5mo
-Nansen.ai,https://web3.career/research-engineer-attribution-nansen/12662,Research Engineer (Attribution),$63k - $160k,dev:solidity:ethereum:remote,5mo
-Nansen.ai,https://web3.career/data-engineer-nft-nansen/12661,Data Engineer (NFT),$70k - $150k,data science:dev:nft:solidity:remote,5mo
-Immutable,https://web3.career/senior-talent-acquisition-partner-product-immutable/12660,Senior Talent Acquisition Partner (Product),$40k - $70k,senior:recruiter:non tech:ethereum,5mo
-Foundation,https://web3.career/senior-product-designer-design-systems-with-foundation/12658,Senior Product Designer — Design Systems,$60k - $120k,design:non tech:senior:remote,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+CANDY,https://web3.career/technical-recruiter-entry-level-candy/13230,"New York,
+United States",Technical Recruiter (Entry-Level),$40k - $70k,recruiter:non tech,5mo
+Blockdaemon,https://web3.career/accounting-manager-blockdaemon/13229,"Los Angeles,
+United States",Accounting Manager,$25k - $150k,accounting,5mo
+Crypto.com,https://web3.career/devops-engineer-global-fintech-startup-crypto-com/13227,United States,DevOps Engineer - Global Fintech Startup,,devops:dev:finance:javascript:node,5mo
+Coinsquare,https://web3.career/chief-anti-money-laundering-officer-camlo-coinsquare/13226,"Toronto,
+Canada",Chief Anti Money Laundering Officer (CAMLO),$79k - $158k,executive:ethereum,5mo
+BlockFi,https://web3.career/underwriting-manager-blockfi/13225,"New York,
+United States",Underwriting Manager,,,5mo
+Crypto.com,https://web3.career/cards-portfolio-manager-crypto-com/13222,"Singapore,
+Singapore",Cards Portfolio Manager,$120k - $225k,finance:nft,5mo
+Amun 21Shares,https://web3.career/blockchain-architect-amun/13221,"New York,
+United States",Blockchain Architect,$80k,architecture:blockchain:solidity:solana:ethereum,5mo
+Chainalysis,https://web3.career/account-executive-government-and-commercial-sub-saharan-africa-dubai-based-chainalysis/13220,"Dubai,
+United Arab Emirates","Account Executive, Government and Commercial, Sub-Saharan Africa (Dubai Based)",$70k - $180k,executive,5mo
+Chainalysis,https://web3.career/account-executive-commercial-iberia-chainalysis/13219,"Madrid,
+Spain","Account Executive, Commercial, Iberia",$70k - $180k,executive,5mo
+Kraken Digital Asset Exchange,https://web3.career/product-strategy-manager-kraken/13218,Remote,Product Strategy Manager,$56k - $160k,remote,5mo
+11:FS,https://web3.career/principal-competitor-strategist-11fs/13217,"London,
+United Kingdom",Principal Competitor Strategist,$70k - $180k,executive,5mo
+Aave,https://web3.career/events-coordinator-aave/13216,"London,
+United Kingdom",Events Coordinator,,,5mo
+Aave,https://web3.career/senior-product-designer-aave/13215,"New York,
+United States",Senior Product Designer,$60k - $120k,design:non tech:senior,5mo
+Aave,https://web3.career/social-media-manager-aave/13214,"London,
+United Kingdom",Social Media Manager,$33k - $85k,social media:non tech,5mo
+Aave,https://web3.career/copy-editor-aave/13213,"London,
+United Kingdom",Copy Editor,,,5mo
+Staked,https://web3.career/web3-engineer-remote-staked/13212,"San Francisco,
+United States",Web3 Engineer (Remote),$80k - $165k,remote:dev:vue,5mo
+Crypto.com,https://web3.career/global-payment-partnerships-head-of-europe-crypto-com/13211,United Kingdom,Global Payment Partnerships - Head of Europe,$40k - $150k,executive:sales:non tech,5mo
+Binance,https://web3.career/marketing-manager-esport-binance/13210,Remote,Marketing Manager (eSport),$25k - $120k,marketing:non tech:remote,5mo
+Fuel Labs,https://web3.career/senior-designer-part-time-fuellabs/13209,Remote,Senior Designer [Part Time],,design:non tech:part time:senior:remote,5mo
+Amazon,https://web3.career/senior-software-development-manager-amazon-managed-blockchain-amazon/13208,"New York,
+United States",Senior Software Development Manager - Amazon Managed Blockchain,,amazon:senior:dev:blockchain:ethereum,5mo
+Amazon,https://web3.career/senior-technical-writer-amazon/13207,"Seattle,
+United States",Senior Technical Writer,,senior:analyst:ethereum:ruby:php,5mo
+Amazon,https://web3.career/senior-software-development-engineer-aws-blockchain-amazon/13206,"Seattle,
+United States",Senior Software Development Engineer - AWS Blockchain,,dev:senior:blockchain:ethereum:java,5mo
+Amazon,https://web3.career/global-technical-lead-blockchain-amazon/13205,"Seattle,
+United States",Global Technical Lead - Blockchain,$120k - $160k,lead:tech lead:blockchain,5mo
+Sherbet,https://web3.career/senior-full-stack-developer-sherbet/13204,Remote,Senior Full Stack Developer,$90k - $100k,dev:full stack:senior:nft:javascript,5mo
+Amazon,https://web3.career/senior-partner-solutions-architect-blockchain-amazon/13203,"San Francisco,
+United States","Senior Partner Solutions Architect, Blockchain",,architecture:senior:blockchain:ethereum:java,5mo
+Amazon,https://web3.career/software-development-engineer-ii-aws-blockchain-amazon/13202,"Seattle,
+United States",Software Development Engineer II - AWS Blockchain,,dev:blockchain:ethereum:java,5mo
+Binance,https://web3.career/business-development-manager-binance/13201,Remote,Business Development Manager,$29k - $108k,sales:non tech:remote,5mo
+WOO Network,https://web3.career/blockchain-engineer-woo-network-2/13200,"Warsaw,
+Poland",Blockchain Engineer,$52k - $160k,dev:blockchain:solidity:solana:ethereum,5mo
+Nuri,https://web3.career/agile-coach-nuri/13199,"Berlin,
+Germany",Agile Coach,$56k - $160k,remote,5mo
+Chainalysis,https://web3.career/account-executive-public-sector-uk-i-chainalysis/13198,"London,
+United Kingdom","Account Executive, Public Sector, UK/I",$70k - $180k,executive,5mo
+Energi Core Limited,https://web3.career/legal-counsel-part-time-energicorelimited/13196,"New York,
+United States",Legal Counsel (part-time),,legal:part time:ethereum,5mo
+Crypto.com,https://web3.career/head-of-compliance-mlro-uk-crypto-com/13195,United Kingdom,Head of Compliance & MLRO - UK,,compliance:executive,5mo
+Fuel Labs,https://web3.career/application-engineer-rust-fuellabs/13194,Remote,Application Engineer [Rust],$70k - $180k,dev:rust:remote,5mo
+CoinGecko,https://web3.career/digital-marketing-lead-l4-coin-gecko/13193,"Selangor,
+Malaysia",Digital Marketing Lead (L4),$50k - $120k,lead:marketing:non tech,5mo
+Ondo Finance,https://web3.career/marketing-manager-ondo-finance/13192,"New York,
+United States",Marketing Manager,$80k - $140k,marketing:non tech,5mo

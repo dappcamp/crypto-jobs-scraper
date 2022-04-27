@@ -1,36 +1,51 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-peaq,https://web3.career/creative-director-m-w-d-3634322-creative-director-m-w-d-remote-utm_source-google_jobs_apply-pid-bce1fbd2f366390046fc/17046,Creative Director (m/w/d),$79k - $200k,executive:remote,3mo
-Caiz Holding AG,https://web3.career/unix-linux-system-administrator-3689080-unix-linux-system-administrator/17044,UNIX/LINUX System Administrator,,linux:sys admin:remote,3mo
-GSR,https://web3.career/senior-software-engineer-vice-president-risk-singapore-gsr/17043,Senior Software Engineer - Vice President - Risk - Singapore,$80k - $200k,dev:senior,3mo
-Coinsquare,https://web3.career/detection-engineer-coinsquare/17042,Detection Engineer,$60k - $158k,dev:ethereum,3mo
-Parity Technologies,https://web3.career/release-automation-engineer-parity/17037,Release Automation Engineer,$70k - $180k,dev:remote:rust,3mo
-Nonceblox,https://web3.career/technical-lead-full-stack-and-blockchain-nonceblox-tech/17034,Technical Lead - Full Stack and Blockchain,$78k - $15k,full stack:lead:tech lead:blockchain:react,3mo
-Polygon,https://web3.career/sfhalfha-polygon/17032,sfhalfha,$60k - $145k,remote:ethereum,3mo
-Stripe,https://web3.career/backend-api-engineer-crypto-stripe/17031,Backend API Engineer Crypto,,api:backend:dev:crypto:remote,3mo
-Bitfinex,https://web3.career/project-manager-remote-ireland-bitfinex/17030,Project Manager (Remote Ireland),$56k - $150k,remote:project manager:non tech,3mo
-Polygon,https://web3.career/program-manager-polygon/17029,Program Manager,$79k - $158k,executive:remote:ethereum,3mo
-Ripple,https://web3.career/institutional-markets-team-coordinator-ripple/17028,Institutional Markets Team Coordinator,,,3mo
-actus ag Steuerberatung,https://web3.career/software-engineer-3692840-software-engineer/17025,Software Engineer,$35k - $180k,dev:java:remote,3mo
-SwissBorg,https://web3.career/french-senior-kyc-analyst-remote-in-estonia-swissborg/17024,French Senior KYC Analyst (Remote in Estonia),,kyc:remote:analyst:senior,3mo
-Galaxy Digital Services,https://web3.career/director-vice-president-finance-galaxydigitalservices/17022,"Director / Vice President, Finance",$40k - $225k,executive:finance:remote,3mo
-SwissBorg,https://web3.career/french-senior-kyc-analyst-remote-in-portugal-swissborg/17021,French Senior KYC Analyst (Remote in Portugal),,kyc:remote:analyst:senior,3mo
-SORAMITSU,https://web3.career/substrate-runtime-developer-soramitsu/17020,Substrate runtime Developer,$65k - $180k,remote:dev,3mo
-Coinme,https://web3.career/business-development-analyst-coinme/17019,Business Development Analyst,,analyst:sales:non tech,3mo
-Binance,https://web3.career/senior-accountant-europe-binance/17018,Senior Accountant - Europe,,accounting:senior:remote,3mo
-Rarible,https://web3.career/product-marketing-manager-jd-rarible/17017,Product Marketing Manager JD,$25k - $120k,marketing:non tech:remote:ethereum:nft,3mo
-Polygon,https://web3.career/marketing-lead-polygon/17016,Marketing Lead,$50k - $120k,lead:marketing:non tech:remote:ethereum,3mo
-Polygon,https://web3.career/game-analyst-polygon/17015,Game Analyst,$50k - $120k,analyst:game dev:remote:ethereum,3mo
-DeGate,https://web3.career/qa-engineer-degate/17014,QA Engineer,$65k - $150k,dev:quality assurance:ethereum:remote,3mo
-Toptal,https://web3.career/senior-ethereum-developer-toptal/17013,Senior Ethereum Developer,,ethereum:blockchain:dev:senior:remote,3mo
-ZKX,https://web3.career/graphic-designer-zkx/17012,Graphic Designer,$30k - $50k,design:non tech,3mo
-Binance,https://web3.career/senior-accountant-apac-binance/17011,Senior Accountant - APAC,,accounting:senior:remote,3mo
-peaq,https://web3.career/creative-director-m-w-d-remote-3634322-creative-director-m-w-d-remote-utm_source-google_jobs_apply-pid-bce1fbd2f366390046fc/17009,"Creative Director (m/w/d), REMOTE",$79k - $200k,remote:executive,3mo
-Caiz Holding AG,https://web3.career/office-assistant-for-management-3648189-office-assistant-for-management/17008,Office Assistant for Management,$56k - $160k,remote,3mo
-Ramp,https://web3.career/communications-and-community-manager-rampnetwork/17007,Communications and Community Manager,$40k - $100k,community manager:non tech,3mo
-Binance,https://web3.career/product-manager-australia-binance/17006,Product Manager - Australia,$115k - $175k,product manager:non tech:remote,3mo
-Wildlife Studios,https://web3.career/blockchain-game-engineer-wildlifestudios/17005,Blockchain Game Engineer,$100k - $130k,dev:game dev:blockchain:remote,3mo
-BitGo,https://web3.career/technical-support-engineer-apac-bitgo/17004,Technical Support Engineer (APAC),$90k - $140k,dev:customer support,3mo
-BitGo,https://web3.career/customer-success-manager-bitgo/17003,Customer Success Manager,,sales:non tech:customer support,3mo
-BitGo,https://web3.career/customer-success-manager-bitgo/17002,Customer Success Manager,,sales:non tech:customer support,3mo
-BitGo,https://web3.career/customer-success-manager-bitgo/17001,Customer Success Manager,,sales:non tech:customer support,3mo
-IOTA Foundation,https://web3.career/junior-software-developer-remote-iota/17000,(Junior) Software Developer (Remote),$39k - $56k,remote:dev:junior:entry level:react,3mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+SwissBorg,https://web3.career/web-designer-remote-swissborg/17683,"Berlin,
+Germany",Web Designer (Remote),$50k - $135k,remote:design:non tech,3mo
+SwissBorg,https://web3.career/web-designer-remote-swissborg/17682,"Stockholm,
+Sweden",Web Designer (Remote),$50k - $135k,remote:design:non tech,3mo
+Shakepay,https://web3.career/product-manager-lending-remote-canada-shakepay/17681,"Montreal,
+Canada","Product Manager, Lending - Remote (Canada)",$115k - $175k,remote:product manager:non tech,3mo
+Shakepay,https://web3.career/product-manager-payments-remote-canada-shakepay/17680,"Montreal,
+Canada",Product Manager - Payments (Remote - Canada),$115k - $175k,remote:product manager:non tech,3mo
+Shakepay,https://web3.career/product-manager-internal-tools-remote-canada-shakepay/17679,"Montreal,
+Canada",Product Manager - Internal Tools (Remote - Canada),$115k - $175k,remote:product manager:non tech,3mo
+Shakepay,https://web3.career/talent-lead-remote-canada-shakepay/17678,"Montreal,
+Canada",Talent Lead (Remote - Canada),,remote:lead:recruiter:non tech,3mo
+Shakepay,https://web3.career/head-of-engineering-remote-canada-shakepay/17677,"Montreal,
+Canada",Head of Engineering (Remote - Canada),$79k - $200k,executive:remote,3mo
+Shakepay,https://web3.career/communications-policy-lead-remote-canada-shakepay/17676,"Montreal,
+Canada",Communications & Policy Lead (Remote - Canada),$95k - $200k,remote:lead,3mo
+Change,https://web3.career/senior-security-operations-engineer-changeinvest/17674,"Tallinn,
+Estonia",Senior Security Operations Engineer,,dev:operations:security:senior,3mo
+Change,https://web3.career/senior-information-security-specialist-changeinvest/17673,"Tallinn,
+Estonia",Senior Information Security Specialist,$95k - $250k,security:senior,3mo
+Chainlink Labs,https://web3.career/engineering-manager-engineering-operations-chainlink/17672,Remote,"Engineering Manager, Engineering Operations",,executive:operations:remote,3mo
+Centrifuge GmbH,https://web3.career/technical-operations-manager-centrifuge/17671,Remote,Technical Operations Manager,$80k - $110k,operations:remote,3mo
+Polygon,https://web3.career/senior-blockchain-engineer-polygon/17669,Remote,Senior Blockchain Engineer,$80k - $200k,dev:senior:blockchain:remote:ethereum,3mo
+Polygon,https://web3.career/blockchain-engineer-polygon/17668,Remote,Blockchain Engineer,$70k - $190k,dev:blockchain:remote:ethereum,3mo
+Polygon,https://web3.career/web2-marketing-lead-polygon/17667,India,Web2 Marketing Lead,$50k - $120k,lead:marketing:non tech:ethereum,3mo
+OpenSea,https://web3.career/m-a-integrations-lead-opensea/17666,Remote,M&A Integrations Lead,$95k - $200k,lead:remote,3mo
+OpenSea,https://web3.career/sr-user-researcher-opensea/17665,Remote,Sr. User Researcher,$80k - $200k,senior:remote,3mo
+OpenSea,https://web3.career/sr-content-designer-opensea/17664,Remote,Sr. Content Designer,$60k - $120k,design:non tech:senior:remote,3mo
+CoinFlip,https://web3.career/manager-director-of-devops-coinflip/17663,Remote,Manager/Director of DEVOPS,$95k - $250k,devops:executive:remote,3mo
+CoinFlip,https://web3.career/full-stack-react-developer-coinflip/17662,Remote,Full Stack React Developer,$65k - $180k,dev:full stack:javascript:react:remote,3mo
+CoinFlip,https://web3.career/personal-assistant-coinflip/17661,"Chicago,
+United States",Personal Assistant,,,3mo
+Async Art,https://web3.career/multimedia-content-creator-asyncart/17660,Remote,Multimedia Content Creator,$56k - $165k,remote:nft,3mo
+Async Art,https://web3.career/digital-media-specialist-asyncart/17659,Remote,Digital Media Specialist,$56k - $165k,remote:nft,3mo
+Async Art,https://web3.career/content-writer-asyncart/17658,Remote,Content Writer,,copywriting:remote:nft,3mo
+Async Art,https://web3.career/content-marketing-specialist-asyncart/17657,Remote,Content Marketing Specialist,$25k - $120k,marketing:non tech:remote:nft,3mo
+Metaplex Studios,https://web3.career/head-of-marketing-metaplexstudios/17656,United States,Head of Marketing,$70k - $158k,executive:marketing:non tech:solana:nft,3mo
+Metaplex Studios,https://web3.career/product-manager-core-protocol-metaplexstudios/17655,United States,"Product Manager, Core Protocol",,product manager:non tech:solana:nft,3mo
+Metaplex Studios,https://web3.career/product-manager-developer-experience-metaplexstudios/17654,United States,"Product Manager, Developer Experience",$135k - $175k,dev:product manager:non tech:solana:nft,3mo
+Metaplex Studios,https://web3.career/head-of-people-metaplexstudios/17653,United States,Head of People,$100k - $180k,executive:solana:nft,3mo
+Metaplex Studios,https://web3.career/senior-ios-developer-metaplexstudios/17652,United States,Senior iOS Developer,$51k - $109k,dev:ios:mobile:senior:solana,3mo
+Metaplex Studios,https://web3.career/senior-android-developer-metaplexstudios/17651,United States,Senior Android Developer,,android:mobile:dev:senior:solana,3mo
+Tap Finance,https://web3.career/software-engineer-front-end-tap-finance/17650,"Singapore,
+Singapore","Software Engineer, Front-End",$50k - $144k,dev:front end:react:solana:javascript,3mo
+Worldcoin.org,https://web3.career/senior-infrastructure-engineer-worldcoinorg/17649,"San Francisco,
+United States",Senior Infrastructure Engineer,$65k - $150k,dev:senior:golang,3mo
+Wirex Limited,https://web3.career/product-designer-wirexlimited/17648,"Kiev,
+Ukraine",Product Designer,$50k - $150k,design:non tech,3mo
+Wirex Limited,https://web3.career/lead-product-designer-wirexlimited/17647,"Kiev,
+Ukraine",Lead Product Designer,$40k - $190k,design:non tech:lead,3mo

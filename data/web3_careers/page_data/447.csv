@@ -1,36 +1,51 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Kraken Digital Asset Exchange,https://web3.career/director-global-compensation-kraken/7600,Director Global Compensation,$79k - $200k,executive:remote,6mo
-Binance,https://web3.career/institutional-sales-relationship-manager-japanese-speaking-binance/7599,Institutional Sales & Relationship Manager (Japanese Speaking),$100k - $200k,marketing:non tech:sales,6mo
-Binance,https://web3.career/binance-research-analyst-blockchain-research-binance/7598,Binance Research Analyst (Blockchain Research),$60k - $104k,analyst:blockchain,6mo
-Sepana,https://web3.career/vp-r-d-sepana/7596,VP R&D,,executive:solidity:remote,6mo
-GSR,https://web3.career/senior-support-engineer-associate-senior-associate-gsr/7595,"Senior Support Engineer, Associate/Senior Associate",,dev:senior:customer support,6mo
-SwissBorg,https://web3.career/french-customer-service-agent-remote-swissborg/7594,French Customer Service Agent (Remote),$40k - $80k,remote:customer support,6mo
-VaynerMedia LLC,https://web3.career/social-media-community-manager-vaynermedia/7593,Social Media & Community Manager,$45k - $100k,community manager:non tech:social media:nft,6mo
-Ledger,https://web3.career/technical-customer-success-specialist-german-speaking-ledger/7592,Technical Customer Success Specialist - German speaking,$40k - $80k,customer support,6mo
-Gnosis,https://web3.career/senior-devops-engineer-m-w-d-gnosis/7591,Senior DevOps Engineer (m/w/d),$120k - $200k,devops:dev:senior:ethereum:rust,6mo
-Chainlink Labs,https://web3.career/people-systems-director-chainlink/7589,People Systems Director,$79k - $200k,executive:remote,6mo
-GSR,https://web3.career/quantitative-trader-options-systematic-volatility-trading-gsr/7588,Quantitative Trader (Options) - Systematic Volatility Trading,$31k - $37k,trader,6mo
-Binance,https://web3.career/quality-assurance-qa-engineer-binance/7587,Quality Assurance (QA) Engineer,$50k - $150k,dev:quality assurance,6mo
-GSR,https://web3.career/quantitative-trader-new-york-thursday-to-sunday-gsr/7586,Quantitative Trader - New York (Thursday to Sunday),$31k - $37k,trader,6mo
-Binance,https://web3.career/growth-product-manager-crm-cms-binance/7584,"Growth Product Manager (CRM, CMS)",,crm:marketing:non tech:product manager,6mo
-Blockdaemon,https://web3.career/sales-director-uk-blockdaemon/7583,"Sales Director, UK",$40k - $150k,executive:sales:non tech,6mo
-OKEx,https://web3.career/product-manager-api-okex/7582,Product Manager - API,,api:product manager:non tech,6mo
-Blockdaemon,https://web3.career/sales-director-singapore-blockdaemon/7581,"Sales Director, Singapore",$40k - $150k,executive:sales:non tech,6mo
-Binance,https://web3.career/data-warehouse-engineer-binance/7580,Data Warehouse Engineer,$60k - $180k,dev,6mo
-Binance,https://web3.career/bd-manager-kol-partnerships-binance/7579,BD Manager (KOL & Partnerships),$26k - $140k,sales:non tech,6mo
-Bitcoin Depot,https://web3.career/bank-secrecy-act-officer-bitcoindepot/7577,Bank Secrecy Act Officer,$40k - $150k,finance,6mo
-Holaplex,https://web3.career/senior-product-designer-holaplex/7576,Senior Product Designer,$60k - $120k,design:non tech:senior:nft:remote,6mo
-Kava Labs,https://web3.career/business-development-manager-north-america-kava/7575,"Business Development Manager, North America",$26k - $140k,sales:non tech,6mo
-BitGo,https://web3.career/senior-software-engineer-sdk-blockchain-bitgo/7574,"Senior Software Engineer (SDK), Blockchain",$80k - $200k,dev:senior:blockchain:javascript,6mo
-Kraken Digital Asset Exchange,https://web3.career/finance-associate-kraken-bank-kraken/7573,Finance Associate - Kraken Bank,$40k - $150k,finance,6mo
-Coin Metrics,https://web3.career/business-analyst-coinmetrics/7572,Business Analyst,$40k - $120k,analyst,6mo
-Kraken Digital Asset Exchange,https://web3.career/director-security-and-technology-m-a-kraken/7571,"Director, Security and Technology M&A",$95k - $250k,executive:security:remote,6mo
-Kraken Digital Asset Exchange,https://web3.career/information-security-manager-kraken-bank-kraken/7569,Information Security Manager - Kraken Bank,,finance:security,6mo
-Revolut,https://web3.career/senior-crypto-community-manager-revolut/7568,Senior Crypto Community Manager,,community manager:non tech:senior:crypto,6mo
-DeSo Foundation,https://web3.career/coo-deso/7567,COO,$60k - $80k,operations:ethereum,6mo
-11:FS,https://web3.career/strategy-director-cryptocurrency-11fs/7566,Strategy Director - Cryptocurrency,$50k - $158k,executive:crypto,6mo
-VaynerMedia LLC,https://web3.career/nft-resident-vaynermedia/7565,NFT Resident,$55k - $150k,nft,6mo
-Metal,https://web3.career/blockchain-community-manager-metalpay/7564,Blockchain Community Manager,$15k - $75k,community manager:non tech:blockchain:remote,6mo
-Acala,https://web3.career/blockchain-product-manager-acala/7563,Blockchain Product Manager,$35k - $120k,product manager:non tech:blockchain:ethereum:rust,6mo
-Bitwise Asset Management,https://web3.career/crypto-research-analyst-layer-1-layer-2-web3-specialist-bitwiseinvestments/7561,"Crypto Research Analyst: Layer 1, Layer 2, Web3 Specialist",$20k - $120k,analyst:crypto,6mo
-Binance,https://web3.career/risk-manager-crypto-products-binance/7559,Risk Manager (crypto products),$39k - $140k,crypto,6mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Coinbase,https://web3.career/senior-site-reliability-engineer-coinbase/8230,,Senior Site Reliability Engineer,$150k - $200k,dev:sys admin:senior:ruby,6mo
+Coinbase,https://web3.career/staff-frontend-engineer-coinbase/8229,,Staff Frontend Engineer,$50k - $144k,dev:front end:react:react native:javascript,6mo
+Coinbase,https://web3.career/senior-frontend-engineer-coinbase/8228,,Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:react native,6mo
+Coinbase,https://web3.career/senior-software-engineer-data-platform-coinbase/8227,,"Senior Software Engineer, Data Platform",$130k - $160k,dev:senior:scala:java,6mo
+Coinbase,https://web3.career/senior-machine-learning-engineer-coinbase/8226,,Senior Machine Learning Engineer,,dev:machine learning:senior,6mo
+Coinbase,https://web3.career/staff-software-engineer-coinbase/8225,,Staff Software Engineer,$65k - $120k,dev:ethereum:ruby:golang,6mo
+Coinbase,https://web3.career/software-engineer-coinbase/8224,,Software Engineer,$65k - $120k,dev:ethereum:ruby:golang,6mo
+Coinbase,https://web3.career/senior-backend-engineer-coinbase/8223,,Senior Backend Engineer,$70k - $200k,backend:dev:senior:ethereum:ruby,6mo
+Coinbase,https://web3.career/senior-staff-engineer-coinbase/8222,,Senior Staff Engineer,$80k - $200k,dev:senior,6mo
+Coinbase,https://web3.career/staff-product-designer-coinbase/8221,,Staff Product Designer,$50k - $150k,design:non tech,6mo
+Coinbase,https://web3.career/senior-user-researcher-coinbase/8220,,Senior User Researcher,$78k - $200k,senior,6mo
+Coinbase,https://web3.career/senior-product-designer-coinbase/8219,,Senior Product Designer,$60k - $120k,design:non tech:senior,6mo
+Coinbase,https://web3.career/senior-manager-product-design-coinbase/8218,,"Senior Manager, Product Design",$60k - $120k,design:non tech:senior,6mo
+Coinbase,https://web3.career/senior-content-designer-india-coinbase/8217,,"Senior Content Designer, India",$60k - $120k,design:non tech:senior,6mo
+Coinbase,https://web3.career/product-designer-coinbase/8216,,Product Designer,$50k - $150k,design:non tech,6mo
+Coinbase,https://web3.career/frontend-engineer-coinbase/8215,,Frontend Engineer,$50k - $144k,dev:front end:react:react native:javascript,6mo
+Acala,https://web3.career/ux-ui-designer-acala/8214,"Auckland,
+New Zealand",UX/UI Designer,,design:non tech:rust,6mo
+Mint Songs,https://web3.career/blockchain-engineer-mint-songs/8213,Remote,Blockchain Engineer,$50k - $130k,dev:blockchain:react:solidity:javascript,6mo
+Aragon Association,https://web3.career/senior-full-stack-engineer-vocdoni-remote-aragon/8212,Remote,Senior Full-stack engineer (Vocdoni) - Remote,$70k - $200k,remote:dev:full stack:senior,6mo
+GSR,https://web3.career/smart-contract-engineer-solidity-gsr/8211,Remote,Smart Contract Engineer (Solidity),$72k - $200k,dev:smart contract:solidity:remote,6mo
+Kooku Recruiting Partners,https://web3.career/senior-ux-designer-kooku/8209,"Berlin,
+Germany",Senior UX-Designer,$60k - $120k,design:non tech:senior,6mo
+CoinDCX,https://web3.career/vp-product-engineering-coindcx/8208,"Mumbai,
+India",VP - Product Engineering,$45k - $120k,executive:ruby,6mo
+CoinDCX,https://web3.career/engineering-leader-coindcx/8207,"Mumbai,
+India",Engineering Leader,$60k - $200k,lead,6mo
+INNOPAY,https://web3.career/junior-consultant-innopay/8206,"Amsterdam,
+Netherlands",Junior Consultant,,consulting:junior:entry level,6mo
+Unocoin,https://web3.career/graphics-and-web-designing-intern-unocoin/8205,"Bangalore,
+India",Graphics and Web Designing Intern,,intern:entry level,6mo
+Bitfinex,https://web3.career/internal-communications-ops-manager-remote-bitfinex/8204,"Madrid,
+Spain",Internal Communications Ops Manager (Remote),$56k - $160k,remote,6mo
+Motion Miracles,https://web3.career/ui-ux-designer-motionmiracles/8203,"Singapore,
+Singapore",UI/UX Designer,$45k - $135k,design:non tech:javascript,6mo
+Bitfinex,https://web3.career/project-manager-europe-remote-uk-bitfinex/8202,"London,
+United Kingdom",Project Manager (Europe Remote) - UK,$56k - $150k,remote:project manager:non tech,6mo
+Bitfinex,https://web3.career/operations-assistant-remote-bitfinex/8201,"Madrid,
+Spain",Operations Assistant (Remote),$80k - $110k,remote:operations,6mo
+Interlay,https://web3.career/head-of-business-development-interlay/8200,"London,
+United Kingdom",Head of Business Development,$40k - $150k,executive:sales:non tech,6mo
+Ramp,https://web3.career/data-engineer-blockchain-product-analytics-rampnetwork/8199,"Warsaw,
+Poland",Data Engineer (Blockchain Product Analytics),,stats:data science:dev:blockchain:java,6mo
+Flying Bisons,https://web3.career/frontend-developer-blockchain-flyingbisons1/8198,"Warsaw,
+Poland",Frontend Developer (Blockchain),$33k - $190k,dev:front end:blockchain:web3js:react,6mo
+BOTS by RevenYOU,https://web3.career/influencer-manager-bots/8197,Haarlem,Influencer Manager,,,6mo
+Bitfinex,https://web3.career/blockchain-integration-specialist-remote-bitfinex/8196,"London,
+United Kingdom",Blockchain Integration Specialist (Remote),$60k - $150k,remote:blockchain:solidity:ethereum:javascript,6mo
+MakerDAO,https://web3.career/senior-engineer-oazo-makerdao/8195,"Warsaw,
+Poland",Senior Engineer - Oazo,$70k - $180k,dev:senior:react:solidity:ethereum,6mo

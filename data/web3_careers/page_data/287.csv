@@ -1,36 +1,55 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Dapper,https://web3.career/senior-staff-software-engineer-dapper-wallet-ethereum-dapper/14332,Senior / Staff Software Engineer – Dapper Wallet (Ethereum),,dev:senior:ethereum:javascript:node,4mo
-Crypto.com,https://web3.career/blockchain-security-engineeer-backend-rust-sg-crypto-com/14331,Blockchain Security Engineeer - Backend (Rust) (SG),,backend:rust:security:blockchain:ethereum,4mo
-WOO Network,https://web3.career/country-manager-latam-woonetwork/14329,Country Manager - LATAM,,,4mo
-Finoa GmbH,https://web3.career/backend-engineer-m-f-d-finoa/14328,Backend Engineer (m/f/d),$60k - $180k,backend:dev:remote,4mo
-WOO Network,https://web3.career/country-manager-russia-woonetwork/14327,Country Manager - Russia,,,4mo
-WOO Network,https://web3.career/legal-counsel-woonetwork/14326,Legal Counsel,$24k - $140k,legal,4mo
-INBRO AG,https://web3.career/freelancer-3412029-freelancer/14318,Freelancer,,,4mo
-0xA Technologies,https://web3.career/defi-full-stack-engineer-0xa-technologies/14317,DeFi Full Stack Engineer,$93k - $134k,dev:full stack:defi:react:ethereum,4mo
-Next Big Thing AG,https://web3.career/venture-developer-company-builder-f-m-x-nextbigthing/14316,Venture Developer / Company Builder (f/m/x),$65k - $180k,dev:remote,4mo
-Nuri,https://web3.career/team-lead-engineering-golang-nuri/14315,Team Lead Engineering (Golang),,golang:lead:react:javascript:node,4mo
-Ramp,https://web3.career/product-manager-rampnetwork/14314,Product Manager,$69k - $160k,product manager:non tech,4mo
-Immutable,https://web3.career/solutions-engineer-immutable/14313,Solutions Engineer,$60k - $150k,dev:ethereum:remote,4mo
-Sygnum Bank AG,https://web3.career/head-portfolio-management-and-execution-sygnum/14312,Head Portfolio Management and Execution,$120k - $150k,executive:finance:ethereum,4mo
-Next Big Thing AG,https://web3.career/venture-developer-company-builder-f-m-x-nextbigthing/14311,Venture Developer / Company Builder (f/m/x),$65k - $180k,dev:remote,4mo
-Nuromedia GmbH,https://web3.career/intern-m-f-d-3481130-intern-m-f-d/14310,Intern (m/f/d),$24k - $48k,intern:entry level:remote,4mo
-Next Big Thing AG,https://web3.career/entrepreneur-in-residence-f-m-x-accelerating-the-sensor-revolution-nextbigthing/14309,Entrepreneur in Residence (f/m/x) - Accelerating the Sensor Revolution,$56k - $160k,remote,4mo
-Nuri,https://web3.career/senior-ux-designer-nuri/14307,Senior UX Designer,$60k - $120k,design:non tech:senior:remote,4mo
-Spacemesh,https://web3.career/product-manager-blockchain-apps-spacemesh/14306,Product Manager - Blockchain Apps,$70k - $120k,product manager:non tech:blockchain,4mo
-Caiz Holding AG,https://web3.career/compliance-manager-3480371-compliance-manager/14305,Compliance Manager,$47k,compliance:remote,4mo
-Pocket Worlds,https://web3.career/senior-frontend-developer-remote-pocketworlds/14304,Senior Frontend Developer [Remote],$22k - $120k,remote:dev:front end:senior:react,4mo
-Nuri,https://web3.career/site-reliability-engineer-sre-nuri/14303,Site Reliability Engineer (SRE),$150k - $200k,dev:sys admin:senior:remote,4mo
-Pocket Worlds,https://web3.career/senior-frontend-developer-remote-pocketworlds/14299,Senior Frontend Developer [Remote],$22k - $120k,remote:dev:front end:senior:react,4mo
-Pocket Worlds,https://web3.career/senior-frontend-developer-remote-pocketworlds/14298,Senior Frontend Developer [Remote],$22k - $120k,remote:dev:front end:senior:react,4mo
-CryptoGoGos,https://web3.career/product-manager-3474747-product-manager-at-crypto-start-up/14297,Product Manager,$45k - $67k,product manager:non tech:crypto:nft:remote,4mo
-Nansen.ai,https://web3.career/internship-product-nansen/14296,"Internship, Product",,intern:entry level,4mo
-Foundation,https://web3.career/senior-software-engineer-fullstack-with-foundation/14295,Senior Software Engineer — Fullstack,$70k - $180k,dev:full stack:senior:nft:remote,4mo
-Foundation,https://web3.career/senior-software-engineer-frontend-with-foundation/14294,Senior Software Engineer — Frontend,$70k - $190k,dev:front end:senior:nft:remote,4mo
-Crypto.com,https://web3.career/data-privacy-analyst-crypto-com/14293,Data Privacy Analyst,$40k - $120k,analyst,4mo
-Altoros,https://web3.career/193-fullstack-javascript-developer-blockchain-altoros/14292,(193) Fullstack Javascript Developer | Blockchain,$65k - $180k,dev:full stack:javascript:blockchain:react,4mo
-Curve Labs,https://web3.career/web3-ui-designer-m-w-d-curve-labs/14291,Web3 UI Designer (m/w/d),$45k - $79k,design:non tech:javascript:remote,4mo
-Crypto.com,https://web3.career/blockchain-security-project-manager-jp-crypto-com/14290,Blockchain Security Project Manager (JP),,project manager:non tech:security:blockchain:nft,4mo
-FTX TR,https://web3.career/content-manager-ftxtr/14289,Content Manager,$25k - $96k,marketing:non tech:copywriting,4mo
-Mysten Labs,https://web3.career/software-engineer-cryptography-remote-europe-mystenlabs/14288,"Software Engineer, Cryptography (Remote, Europe)",$65k - $180k,remote:dev,4mo
-Pocket Worlds,https://web3.career/senior-frontend-developer-remote-pocketworlds/14285,Senior Frontend Developer [Remote],$22k - $120k,remote:dev:front end:senior:react,4mo
-Sygnum Bank AG,https://web3.career/site-reliability-engineer-sygnum/14282,Site Reliability Engineer,$150k - $200k,dev:sys admin:java,4mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Phantom,https://web3.career/engineering-manager-phantomapp/14976,"San Francisco,
+United States",Engineering Manager,$130k - $200k,executive:solana,4mo
+Phantom,https://web3.career/security-engineer-phantomapp/14975,"San Francisco,
+United States",Security Engineer,$130k - $200k,dev:security:solana:javascript,4mo
+Phantom,https://web3.career/software-engineer-mobile-phantomapp/14974,"San Francisco,
+United States",Software Engineer – Mobile,$130k - $200k,dev:mobile:react:react native:solidity,4mo
+Phantom,https://web3.career/software-engineer-full-stack-phantomapp/14973,"San Francisco,
+United States",Software Engineer – Full-Stack,$130k - $200k,dev:full stack:react:solidity:solana,4mo
+Phantom,https://web3.career/software-engineer-frontend-phantomapp/14972,"San Francisco,
+United States",Software Engineer – Frontend,$130k - $200k,dev:front end:react:solidity:solana,4mo
+Jito Labs,https://web3.career/software-engineer-jito-labs/14971,"San Francisco,
+United States",Software Engineer,$150k - $200k,dev:solana:java:rust,4mo
+Jito Labs,https://web3.career/senior-software-engineer-jito-labs/14970,"Austin,
+United States",Senior Software Engineer,$160k - $220k,dev:senior:solana:rust,4mo
+e^{i} ventures,https://web3.career/data-scientist-ei-ventures/14969,Remote,Data Scientist,$100k - $160k,data science:remote,4mo
+Audius,https://web3.career/remote-software-engineer-core-systems-audiusproject/14968,"San Francisco,
+United States",Remote Software Engineer - Core Systems,$80k - $170k,remote:dev:solidity:solana:ethereum,4mo
+Swim,https://web3.career/frontend-engineer-swim/14967,Remote,Frontend Engineer,$50k - $144k,dev:front end:react:solana:javascript,4mo
+Swim,https://web3.career/smart-contract-engineer-swim/14966,Remote,Smart Contract Engineer,$90k - $200k,dev:smart contract:solana:rust:remote,4mo
+Metaplex Studios,https://web3.career/senior-cloud-engineer-metaplexstudios/14965,United States,Senior Cloud Engineer,,cloud:dev:senior:solana:nft,4mo
+Binance,https://web3.career/junior-operations-specialist-business-operating-system-access-control-binance/14964,Remote,"Junior Operations Specialist, Business Operating System Access Control",,junior:entry level:operations:remote,4mo
+Binance,https://web3.career/business-development-director-binance/14963,Remote,Business Development Director,$40k - $150k,sales:non tech:executive:remote,4mo
+Binance,https://web3.career/marketing-manager-binance-card-and-pay-binance/14962,Remote,Marketing Manager (Binance Card and Pay),$25k - $120k,marketing:non tech:remote,4mo
+CoinGecko,https://web3.career/senior-operations-associate-l3-coin-gecko/14960,"Selangor,
+Malaysia",Senior Operations Associate (L3),,operations:senior,4mo
+CoinGecko,https://web3.career/mid-level-operations-associate-l2-coin-gecko/14959,"Selangor,
+Malaysia",Mid-Level Operations Associate (L2),$60k - $200k,operations,4mo
+Aleo Systems,https://web3.career/senior-protocol-engineer-aleosystems/14958,Remote,Senior Protocol Engineer,$80k - $200k,dev:senior:ethereum:rust:remote,4mo
+myVideodesign,https://web3.career/full-stack-developer-co-founder-for-ai-based-saas-startup-3538658-full-stack-developer-co-founder-for-ai-based-saas-startup/14957,Remote,Full Stack Developer / Co-Founder for AI-based SaaS Startup,$50k - $300k,dev:executive:full stack:saas:react,4mo
+IOTA Foundation,https://web3.career/ux-designer-remote-iota/14956,Remote,UX Designer - remote,$50k - $135k,remote:design:non tech,4mo
+DIMO,https://web3.career/smart-contract-engineer-dimo-zone/14955,"Detroit,
+United States",Smart Contract Engineer,$140k - $180k,dev:smart contract:nft:rust,4mo
+Espeo Software,https://web3.career/delivery-manager-project-manager-espeo/14954,Remote,Delivery Manager / Project Manager,$140k - $200k,dev:executive:project manager:non tech:remote,4mo
+Sygnum Bank AG,https://web3.career/senior-project-manager-sygnum/14950,"Singapore,
+Singapore",Senior Project Manager,,project manager:non tech:senior:ethereum,4mo
+Aleo Systems,https://web3.career/senior-compiler-engineer-aleosystems/14949,Remote,Senior Compiler Engineer,$80k - $200k,dev:senior:ethereum:rust:remote,4mo
+Web3 Foundation,https://web3.career/security-operations-engineer-web3foundation/14948,"Zug,
+Switzerland",Security Operations Engineer,,dev:operations:security:rust,4mo
+WOO Network,https://web3.career/it-administrator-woonetwork/14947,"Taipei,
+Taiwan",IT Administrator,,,4mo
+Findora,https://web3.career/hardware-acceleration-of-blockchain-applications-master-s-internship-on-site-findora/14946,"Menlo Park,
+United States",Hardware Acceleration of Blockchain Applications - Master's Internship (on-site),,hardware:intern:entry level:blockchain,4mo
+Feedel Ventures,https://web3.career/cto-defi-e-commerce-startup-feedelventures/14945,Estonia,CTO (DeFi e-Commerce Startup),$45k - $67k,executive:ecommerce:defi:react:nft,4mo
+Symbiont,https://web3.career/fp-a-accounting-manager-symbiont/14944,Remote,FP&A Accounting Manager,$11k - $25k,accounting:remote,4mo
+Symbiont,https://web3.career/corporate-controller-symbiont/14943,Remote,Corporate Controller,,legal:remote,4mo
+W3BCLOUD,https://web3.career/finance-manager-blockchain-crypto-usa-remote-based-location-w3bcloud/14942,"Los Angeles,
+United States",Finance Manager - Blockchain/Crypto (USA/Remote Based Location),$50k - $225k,remote:finance:blockchain:crypto,4mo
+OpenSea,https://web3.career/head-of-policy-government-affairs-opensea/14941,Remote,Head of Policy & Government Affairs,$79k - $180k,executive:remote:nft,4mo
+Crusoe,https://web3.career/staff-software-engineer-crypto-crusoe-energy-systems/14939,"San Francisco,
+United States",Staff Software Engineer - Crypto,$95k - $250k,dev:crypto:java:rust,4mo
+NEAR,https://web3.career/software-engineer-zero-knowledge-near/14937,"San Francisco,
+United States","Software Engineer, Zero-Knowledge",$60k - $120k,dev:web3js:ethereum:rust,4mo
+Brave,https://web3.career/front-end-engineer-brave-wallet-brave/14935,"San Francisco,
+United States",Front End Engineer / Brave Wallet,$50k - $144k,dev:front end:react:javascript,4mo

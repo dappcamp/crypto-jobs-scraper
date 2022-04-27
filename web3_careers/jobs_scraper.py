@@ -34,7 +34,8 @@ class JobScraper:
     def export_page_data(page_num, job_data):
         with open(f"../data/web3_careers/page_data/{page_num}.csv", "a", newline="") as file:
             writer = csv.writer(file)
-            writer.writerow(["Company Name", "Job Link", "Job Title", "Salary Range", "Tags", "Posted Before"])
+            writer.writerow(
+                ["Company Name", "Job Link", "Job Location", "Job Title", "Salary Range", "Tags", "Posted Before"])
 
             for row in job_data:
                 writer.writerow(row)
@@ -86,7 +87,6 @@ class JobScraper:
         while True:
             company_job_data = []
             link = base_link.rstrip("/") + f"?page={requested_page_num}"
-            print(link)
 
             resp = requests.get(link)
             soup = BeautifulSoup(resp.content, 'html5lib')
@@ -105,6 +105,7 @@ class JobScraper:
                 try:
                     data_points = job_row.find_all("td")
                     job_details = data_points[0].find("div").find_all("div", attrs={"class": "d-flex"})[0]
+                    job_location = self.clean_text(data_points[1].text)
                     job_title = self.clean_text(job_details.find_all("div")[0].text)
                     job_link = "https://web3.career" + job_details.find_all("div")[0].find("a").attrs["href"]
                     company_name = self.clean_text(job_details.find_all("div")[1].text)
@@ -114,7 +115,8 @@ class JobScraper:
                     tags = ":".join([self.clean_text(tag.text) for tag in tags])
                     posted_before = self.clean_text(data_points[3].text)
 
-                    company_job_data.append([company_name, job_link, job_title, salary_range, tags, posted_before])
+                    company_job_data.append(
+                        [company_name, job_link, job_location, job_title, salary_range, tags, posted_before])
 
                 except Exception as exp:
                     print("[ERROR] Job not added")

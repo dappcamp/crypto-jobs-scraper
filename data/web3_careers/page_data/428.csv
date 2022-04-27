@@ -1,36 +1,43 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Coinbase,https://web3.career/group-product-manager-coinbase/8432,Group Product Manager,$69k - $160k,product manager:non tech,6mo
-Coinbase,https://web3.career/director-technical-program-management-infra-developer-programs-coinbase/8431,"Director, Technical Program Management (Infra & Developer Programs)",$70k - $300k,dev:executive,6mo
-Coinbase,https://web3.career/director-technical-program-management-coinbase/8430,"Director, Technical Program Management",$70k - $180k,executive,6mo
-Coinbase,https://web3.career/director-product-coinbase/8429,"Director, Product",$70k - $180k,executive,6mo
-Coinbase,https://web3.career/director-product-coinbase/8428,"Director, Product",$70k - $180k,executive,6mo
-Coinbase,https://web3.career/director-product-coinbase/8427,"Director, Product",$70k - $180k,executive,6mo
-Coinbase,https://web3.career/technical-sourcer-remote-coinbase/8426,Technical Sourcer (Remote),,remote:recruiter:non tech,6mo
-Coinbase,https://web3.career/technical-sourcer-contract-coinbase/8425,Technical Sourcer - Contract,$40k - $70k,recruiter:non tech,6mo
-Coinbase,https://web3.career/technical-sourcer-coinbase/8424,Technical Sourcer,$40k - $70k,recruiter:non tech,6mo
-Coinbase,https://web3.career/technical-recruiter-coinbase/8423,Technical Recruiter,$40k - $70k,recruiter:non tech,6mo
-Coinbase,https://web3.career/technical-recruiter-coinbase/8422,Technical Recruiter,$40k - $70k,recruiter:non tech,6mo
-Coinbase,https://web3.career/talent-intelligence-manager-coinbase/8421,Talent Intelligence Manager,$40k - $70k,recruiter:non tech,6mo
-Coinbase,https://web3.career/sourcing-pod-lead-coinbase/8420,Sourcing Pod Lead,$60k - $200k,lead,6mo
-Coinbase,https://web3.career/senior-technical-sourcer-contract-coinbase/8419,Senior Technical Sourcer - Contract,$40k - $70k,recruiter:non tech:senior,6mo
-Coinbase,https://web3.career/senior-technical-sourcer-coinbase/8418,Senior Technical Sourcer,$40k - $70k,recruiter:non tech:senior,6mo
-Coinbase,https://web3.career/senior-technical-sourcer-coinbase/8417,Senior Technical Sourcer,$40k - $70k,recruiter:non tech:senior,6mo
-Coinbase,https://web3.career/senior-technical-recruiter-coinbase/8416,Senior Technical Recruiter,$40k - $70k,recruiter:non tech:senior,6mo
-Coinbase,https://web3.career/senior-technical-recruiter-coinbase/8415,Senior Technical Recruiter,$40k - $70k,recruiter:non tech:senior,6mo
-Coinbase,https://web3.career/senior-technical-recruiter-coinbase/8414,Senior Technical Recruiter,$40k - $70k,recruiter:non tech:senior,6mo
-Coinbase,https://web3.career/senior-technical-recruiter-coinbase/8413,Senior Technical Recruiter,$40k - $70k,recruiter:non tech:senior,6mo
-Coinbase,https://web3.career/senior-talent-program-manager-technical-recruiting-coinbase/8412,"Senior Talent Program Manager, Technical Recruiting",,executive:recruiter:non tech:senior,6mo
-Coinbase,https://web3.career/senior-talent-management-specialist-coinbase/8411,Senior Talent Management Specialist,$40k - $70k,senior:recruiter:non tech,6mo
-Coinbase,https://web3.career/senior-recruiter-business-coinbase/8410,"Senior Recruiter, Business",$40k - $70k,recruiter:non tech:senior,6mo
-Coinbase,https://web3.career/senior-recruiter-coinbase/8409,Senior Recruiter,$40k - $70k,recruiter:non tech:senior,6mo
-Coinbase,https://web3.career/senior-program-manager-international-expansion-coinbase/8408,"Senior Program Manager, International Expansion",$46k - $110k,executive:senior,6mo
-Coinbase,https://web3.career/senior-manager-university-recruiting-coinbase/8407,"Senior Manager, University Recruiting",$40k - $70k,recruiter:non tech:senior,6mo
-Coinbase,https://web3.career/senior-manager-technical-learning-coinbase/8406,"Senior Manager, Technical Learning",$32k - $52k,senior:javascript:ruby,6mo
-Coinbase,https://web3.career/senior-manager-of-recruiting-coordination-ops-coinbase/8405,Senior Manager of Recruiting Coordination Ops,$40k - $70k,recruiter:non tech:senior,6mo
-Coinbase,https://web3.career/recruiter-business-coinbase/8404,"Recruiter, Business",$40k - $70k,recruiter:non tech,6mo
-Coinbase,https://web3.career/principal-technical-executive-sourcer-coinbase/8403,Principal Technical Executive Sourcer,,recruiter:non tech:executive,6mo
-Coinbase,https://web3.career/manager-international-candidate-experience-recruiting-coordination-coinbase/8402,"Manager, International Candidate Experience (Recruiting Coordination)",$40k - $70k,recruiter:non tech,6mo
-Coinbase,https://web3.career/learning-development-program-manager-emea-apac-coinbase/8401,"Learning & Development Program Manager, EMEA & APAC",$70k - $180k,executive,6mo
-Coinbase,https://web3.career/international-benefits-senior-manager-coinbase/8400,International Benefits Senior Manager,$78k - $200k,senior,6mo
-Coinbase,https://web3.career/international-benefits-senior-manager-coinbase/8399,International Benefits Senior Manager,$78k - $200k,senior,6mo
-Coinbase,https://web3.career/hr-m-a-program-manager-coinbase/8398,HR M&A Program Manager,,hr:non tech:executive,6mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Coinbase,https://web3.career/staff-blockchain-engineer-smart-contract-coinbase/2275,Remote,Staff Blockchain Engineer - Smart Contract,$50k - $150k,dev:blockchain:smart contract:solidity:ethereum,6mo
+Coinbase,https://web3.career/senior-backend-engineer-coinbase/2274,Remote,Senior Backend Engineer,$70k - $200k,backend:dev:senior:ethereum:ruby,6mo
+Coinbase,https://web3.career/protocol-engineer-bison-trails-coinbase/2273,Remote,Protocol Engineer-Bison Trails,$80k - $160k,dev:node:rust:remote,6mo
+Coinbase,https://web3.career/site-reliability-engineer-institutional-coinbase/2272,"London,
+United Kingdom",Site Reliability Engineer - Institutional,,dev:sys admin:ruby,6mo
+Coinbase,https://web3.career/senior-product-designer-coinbase/2271,Remote,Senior Product Designer,$60k - $120k,design:non tech:senior:remote,6mo
+Coinbase,https://web3.career/senior-content-designer-platform-coinbase/2270,Remote,"Senior Content Designer, Platform",$60k - $120k,design:non tech:senior:remote,6mo
+Coinbase,https://web3.career/product-designer-coinbase/2269,Remote,Product Designer,$50k - $135k,design:non tech:remote,6mo
+Coinbase,https://web3.career/product-designer-coinbase/2268,Remote,Product Designer,$50k - $135k,design:non tech:remote,6mo
+Coinbase,https://web3.career/manager-product-design-coinbase/2267,Remote,"Manager, Product Design",$50k - $135k,design:non tech:remote,6mo
+Coinbase,https://web3.career/technical-account-manager-apac-coinbase/2266,Remote,Technical Account Manager (APAC),,account manager:remote,6mo
+Coinbase,https://web3.career/scheduler-coinbase/2265,"Manila,
+Philippines",Scheduler,,,6mo
+Coinbase,https://web3.career/sr-program-manager-customer-support-coinbase/2264,Remote,Sr. Program Manager - Customer Support,,customer support:executive:senior:remote,6mo
+Coinbase,https://web3.career/quality-analyst-customer-experience-operations-coinbase/2263,"Tokyo,
+Japan","Quality Analyst, Customer Experience Operations",,analyst:customer support:operations,6mo
+Coinbase,https://web3.career/quality-analyst-customer-experience-coinbase/2262,Remote,"Quality Analyst, Customer Experience",$40k - $95k,analyst:customer support:remote,6mo
+Coinbase,https://web3.career/onboarding-analyst-coinbase/2261,Remote,Onboarding Analyst,$45k - $120k,analyst:remote,6mo
+Coinbase,https://web3.career/l-d-specialist-lead-retail-coinbase/2260,"Manila,
+Philippines","L&D Specialist/Lead, Retail",$60k - $200k,lead,6mo
+Coinbase,https://web3.career/l-d-specialist-lead-retail-coinbase/2259,"Dublin,
+Ireland","L&D Specialist/Lead, Retail",$60k - $200k,lead,6mo
+Coinbase,https://web3.career/l-d-specialist-lead-retail-coinbase/2258,Remote,"L&D Specialist/Lead, Retail",$95k - $200k,lead:remote,6mo
+Coinbase,https://web3.career/l-d-specialist-lead-institutional-remote-usa-coinbase/2257,Remote,"L&D Specialist/Lead, Institutional (Remote - USA)",$95k - $200k,remote:lead,6mo
+Coinbase,https://web3.career/institutional-support-analyst-coinbase/2256,Remote,Institutional Support Analyst,$40k - $95k,analyst:customer support:remote,6mo
+Coinbase,https://web3.career/customer-support-analyst-wallet-and-vault-coinbase/2255,"Manila,
+Philippines","Customer Support Analyst, Wallet and Vault",$15k - $95k,analyst:customer support,6mo
+Coinbase,https://web3.career/customer-support-analyst-coinbase/2254,"Manila,
+Philippines",Customer Support Analyst,$15k - $95k,analyst:customer support,6mo
+Coinbase,https://web3.career/senior-product-manager-coinbase/2253,Remote,Senior Product Manager,$80k - $150k,product manager:non tech:senior:remote,6mo
+Coinbase,https://web3.career/director-product-coinbase/2252,Remote,"Director, Product",$79k - $200k,executive:remote,6mo
+Coinbase,https://web3.career/senior-technical-recruiter-coinbase/2251,Remote,Senior Technical Recruiter,$40k - $70k,recruiter:non tech:senior:remote,6mo
+Coinbase,https://web3.career/sw-engineer-hr-workday-functional-enterprise-apps-coinbase/2250,Remote,"SW Engineer, HR (Workday Functional), Enterprise Apps",$100k - $150k,dev:hr:non tech:remote,6mo
+Coinbase,https://web3.career/sr-system-analyst-anaplan-finance-platform-coinbase/2249,Remote,"Sr. System Analyst (Anaplan), Finance Platform",,analyst:finance:senior:remote,6mo
+Coinbase,https://web3.career/senior-engineering-manager-crypto-asset-addition-coinbase/2248,Remote,"Senior Engineering Manager, Crypto Asset Addition",$46k - $109k,executive:senior:crypto:remote,6mo
+Coinbase,https://web3.career/senior-site-reliability-engineer-coinbase/2247,Remote,Senior Site Reliability Engineer,$150k - $200k,dev:sys admin:senior:ruby:remote,6mo
+Coinbase,https://web3.career/staff-frontend-engineer-coinbase/2246,Remote,Staff Frontend Engineer,$50k - $144k,dev:front end:react:react native:javascript,6mo
+Coinbase,https://web3.career/software-engineer-coinbase/2245,Remote,Software Engineer,$65k - $120k,dev:ethereum:ruby:golang:remote,6mo
+Coinbase,https://web3.career/senior-backend-engineer-coinbase/2244,Remote,Senior Backend Engineer,$70k - $200k,backend:dev:senior:ethereum:ruby,6mo
+Coinbase,https://web3.career/senior-staff-engineer-coinbase/2243,Remote,Senior Staff Engineer,$85k - $200k,dev:senior:remote,6mo
+Coinbase,https://web3.career/staff-product-designer-coinbase/2242,Remote,Staff Product Designer,$50k - $135k,design:non tech:remote,6mo
+Coinbase,https://web3.career/senior-manager-product-design-coinbase/2241,Remote,"Senior Manager, Product Design",$60k - $120k,design:non tech:senior:remote,6mo

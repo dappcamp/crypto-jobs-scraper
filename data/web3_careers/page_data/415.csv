@@ -1,36 +1,58 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Coinbase,https://web3.career/scheduler-coinbase/2265,Scheduler,,,5mo
-Coinbase,https://web3.career/sr-program-manager-customer-support-coinbase/2264,Sr. Program Manager - Customer Support,,customer support:executive:senior:remote,5mo
-Coinbase,https://web3.career/quality-analyst-customer-experience-operations-coinbase/2263,"Quality Analyst, Customer Experience Operations",,analyst:customer support:operations,5mo
-Coinbase,https://web3.career/quality-analyst-customer-experience-coinbase/2262,"Quality Analyst, Customer Experience",$40k - $95k,analyst:customer support:remote,5mo
-Coinbase,https://web3.career/onboarding-analyst-coinbase/2261,Onboarding Analyst,$45k - $120k,analyst:remote,5mo
-Coinbase,https://web3.career/l-d-specialist-lead-retail-coinbase/2260,"L&D Specialist/Lead, Retail",$60k - $200k,lead,5mo
-Coinbase,https://web3.career/l-d-specialist-lead-retail-coinbase/2259,"L&D Specialist/Lead, Retail",$60k - $200k,lead,5mo
-Coinbase,https://web3.career/l-d-specialist-lead-retail-coinbase/2258,"L&D Specialist/Lead, Retail",$95k - $200k,lead:remote,5mo
-Coinbase,https://web3.career/l-d-specialist-lead-institutional-remote-usa-coinbase/2257,"L&D Specialist/Lead, Institutional (Remote - USA)",$95k - $200k,remote:lead,5mo
-Coinbase,https://web3.career/institutional-support-analyst-coinbase/2256,Institutional Support Analyst,$40k - $95k,analyst:customer support:remote,5mo
-Coinbase,https://web3.career/customer-support-analyst-wallet-and-vault-coinbase/2255,"Customer Support Analyst, Wallet and Vault",$15k - $95k,analyst:customer support,5mo
-Coinbase,https://web3.career/customer-support-analyst-coinbase/2254,Customer Support Analyst,$15k - $95k,analyst:customer support,5mo
-Coinbase,https://web3.career/senior-product-manager-coinbase/2253,Senior Product Manager,$80k - $150k,product manager:non tech:senior:remote,5mo
-Coinbase,https://web3.career/director-product-coinbase/2252,"Director, Product",$79k - $200k,executive:remote,5mo
-Coinbase,https://web3.career/senior-technical-recruiter-coinbase/2251,Senior Technical Recruiter,$40k - $70k,recruiter:non tech:senior:remote,5mo
-Coinbase,https://web3.career/sw-engineer-hr-workday-functional-enterprise-apps-coinbase/2250,"SW Engineer, HR (Workday Functional), Enterprise Apps",$100k - $150k,dev:hr:non tech:remote,5mo
-Coinbase,https://web3.career/sr-system-analyst-anaplan-finance-platform-coinbase/2249,"Sr. System Analyst (Anaplan), Finance Platform",,analyst:finance:senior:remote,5mo
-Coinbase,https://web3.career/senior-engineering-manager-crypto-asset-addition-coinbase/2248,"Senior Engineering Manager, Crypto Asset Addition",$46k - $109k,executive:senior:crypto:remote,5mo
-Coinbase,https://web3.career/senior-site-reliability-engineer-coinbase/2247,Senior Site Reliability Engineer,$150k - $200k,dev:sys admin:senior:ruby:remote,5mo
-Coinbase,https://web3.career/staff-frontend-engineer-coinbase/2246,Staff Frontend Engineer,$50k - $144k,dev:front end:react:react native:javascript,5mo
-Coinbase,https://web3.career/software-engineer-coinbase/2245,Software Engineer,$65k - $120k,dev:ethereum:ruby:golang:remote,5mo
-Coinbase,https://web3.career/senior-backend-engineer-coinbase/2244,Senior Backend Engineer,$70k - $200k,backend:dev:senior:ethereum:ruby,5mo
-Coinbase,https://web3.career/senior-staff-engineer-coinbase/2243,Senior Staff Engineer,$85k - $200k,dev:senior:remote,5mo
-Coinbase,https://web3.career/staff-product-designer-coinbase/2242,Staff Product Designer,$50k - $135k,design:non tech:remote,5mo
-Coinbase,https://web3.career/senior-manager-product-design-coinbase/2241,"Senior Manager, Product Design",$60k - $120k,design:non tech:senior:remote,5mo
-Coinbase,https://web3.career/product-designer-coinbase/2240,Product Designer,$50k - $135k,design:non tech:remote,5mo
-Coinbase,https://web3.career/senior-machine-learning-engineer-coinbase/2239,Senior Machine Learning Engineer,,dev:machine learning:senior:remote,5mo
-Coinbase,https://web3.career/staff-product-designer-coinbase/2238,Staff Product Designer,$50k - $135k,design:non tech:remote,5mo
-Coinbase,https://web3.career/staff-product-designer-coinbase/2237,Staff Product Designer,$50k - $135k,design:non tech:remote,5mo
-Coinbase,https://web3.career/staff-product-designer-coinbase/2236,Staff Product Designer,$50k - $135k,design:non tech:remote,5mo
-Coinbase,https://web3.career/staff-product-designer-coinbase/2235,Staff Product Designer,$50k - $135k,design:non tech:remote,5mo
-Coinbase,https://web3.career/staff-software-engineer-coinbase/2234,Staff Software Engineer,$65k - $120k,dev:ethereum:ruby:golang:remote,5mo
-Coinbase,https://web3.career/group-product-manager-coinbase/2233,Group Product Manager,$115k - $175k,product manager:non tech:remote,5mo
-Coinbase,https://web3.career/prime-account-manager-apac-coinbase/2232,"Prime Account Manager, APAC",,account manager:remote,5mo
-Coinbase,https://web3.career/engineering-manager-backend-coinbase/2231,"Engineering Manager, Backend",$140k - $180k,executive:backend:remote,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Alchemy,https://web3.career/customer-product-engineer-alchemy/9231,Remote,Customer Product Engineer,$65k - $180k,dev:remote,6mo
+Acala,https://web3.career/your-role-not-listed-here-acala/9230,"Auckland,
+New Zealand",Your role not listed here?,$70k - $180k,rust,6mo
+Acala,https://web3.career/office-administrator-acala/9229,"Auckland,
+New Zealand",Office Administrator,$70k - $180k,rust,6mo
+Acala,https://web3.career/rust-engineer-acala/9228,Remote,Rust Engineer,$70k - $180k,dev:rust:remote,6mo
+Acala,https://web3.career/qa-automation-engineer-acala/9227,Remote,QA Automation Engineer,$50k - $150k,dev:quality assurance:react:solidity:node,6mo
+Vauld,https://web3.career/product-manager-vauld/9226,"Bengaluru,
+India",Product Manager,$69k - $160k,product manager:non tech,6mo
+Vauld,https://web3.career/avp-marketing-vauld/9225,"Bengaluru,
+India",AVP Marketing,$45k - $130k,marketing:non tech,6mo
+Vauld,https://web3.career/technical-analysts-vauld/9224,"Bengaluru,
+India",Technical Analysts,$40k - $120k,analyst,6mo
+Vauld,https://web3.career/crypto-journalist-vauld/9223,"Bengaluru,
+India",Crypto Journalist,$39k - $140k,crypto,6mo
+Vauld,https://web3.career/legal-manager-vauld/9222,"Bengaluru,
+India",Legal Manager,$24k - $140k,legal,6mo
+Vauld,https://web3.career/company-secretary-vauld/9221,"Bengaluru,
+India",Company Secretary,,,6mo
+Vauld,https://web3.career/executive-assistant-to-the-ceo-vauld/9220,"Bengaluru,
+India",Executive Assistant to the CEO,$70k - $180k,executive,6mo
+Vauld,https://web3.career/director-of-banking-partnerships-vauld/9219,"Bengaluru,
+India",Director of Banking Partnerships,$40k - $140k,sales:non tech:finance:executive,6mo
+Vauld,https://web3.career/sdet-ui-app-automation-and-manual-testing-vauld/9218,"Bengaluru,
+India",SDET - (UI/App Automation and Manual Testing),$50k - $150k,design:non tech,6mo
+Vauld,https://web3.career/sdet-backend-automation-and-manual-testing-vauld/9217,"Bengaluru,
+India",SDET - (Backend Automation and Manual Testing),$65k - $180k,backend,6mo
+Vauld,https://web3.career/mobile-developer-vauld/9216,"Bengaluru,
+India",Mobile Developer,$65k - $200k,dev:mobile,6mo
+Vauld,https://web3.career/lead-frontend-engineer-vauld/9215,"Bengaluru,
+India",Lead Frontend Engineer,$56k - $79k,dev:front end:lead:react:javascript,6mo
+Vauld,https://web3.career/frontend-engineer-vauld/9214,"Bengaluru,
+India",Frontend Engineer,$50k - $144k,dev:front end:react:javascript,6mo
+Vauld,https://web3.career/senior-backend-engineer-vauld/9213,"Bengaluru,
+India",Senior Backend Engineer,$70k - $200k,backend:dev:senior:node:golang,6mo
+Vauld,https://web3.career/lead-backend-engineer-vauld/9212,"Bengaluru,
+India",Lead Backend Engineer,$100k - $180k,backend:dev:lead:node:golang,6mo
+Vauld,https://web3.career/lead-ux-designer-vauld/9211,"Bengaluru,
+India",Lead UX Designer,$40k - $190k,design:non tech:lead,6mo
+Vauld,https://web3.career/senior-data-engineer-vauld/9210,"Bengaluru,
+India",Senior Data Engineer,$130k - $160k,data science:dev:senior,6mo
+Vauld,https://web3.career/customer-support-shift-lead-vauld/9209,"Bengaluru,
+India",Customer Support Shift Lead,$25k - $35k,customer support:lead,6mo
+Vauld,https://web3.career/customer-support-quality-analyst-vauld/9208,"Bengaluru,
+India",Customer Support Quality Analyst,$15k - $95k,analyst:customer support,6mo
+Vauld,https://web3.career/customer-support-associate-vauld/9207,"Bengaluru,
+India",Customer Support Associate,$40k - $80k,customer support,6mo
+Torus Labs,https://web3.career/ux-designer-toruslabs/9185,HQ,UX Designer,$50k - $150k,design:non tech,6mo
+Torus Labs,https://web3.career/software-development-engineer-in-test-sdet-62k-130k-toruslabs/9184,HQ,Software Development Engineer in Test (SDET) - $62k - $130k,$50k - $150k,quality assurance:dev:react:javascript:vue,6mo
+Torus Labs,https://web3.career/full-stack-web-developer-javascript-typescript-golang-92k-160k-toruslabs/9183,HQ,Full Stack Web Developer (Javascript/Typescript/Golang) - $92k - $160k,$65k - $134k,dev:full stack:golang:javascript:react,6mo
+Torus Labs,https://web3.career/technical-content-writer-toruslabs/9182,HQ,Technical Content Writer,,copywriting:ethereum,6mo
+Torus Labs,https://web3.career/marketing-lead-toruslabs/9181,HQ,Marketing Lead,$50k - $120k,lead:marketing:non tech:ethereum,6mo
+Torus Labs,https://web3.career/developer-relations-92k-160k-toruslabs/9180,HQ,Developer Relations - $92k - $160k,,customer support:dev:ethereum,6mo
+Torus Labs,https://web3.career/business-development-toruslabs/9179,HQ,Business Development,$29k - $43k,sales:non tech:ethereum,6mo
+Rarible,https://web3.career/product-manager-protocol-rarible/9178,Remote,Product Manager (Protocol),$69k - $160k,product manager:non tech:nft:remote,6mo
+Rarible,https://web3.career/product-manager-rarible/9177,Remote,Product Manager,$69k - $160k,product manager:non tech:nft:remote,6mo
+Rarible,https://web3.career/senior-product-marketing-manager-rarible/9176,Remote,Senior Product Marketing Manager,$46k - $109k,marketing:non tech:senior:nft:remote,6mo

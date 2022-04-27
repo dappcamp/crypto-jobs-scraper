@@ -1,36 +1,67 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Coinbase,https://web3.career/manager-account-management-emea-coinbase/2160,"Manager, Account Management (EMEA)",,,6mo
-Coinbase,https://web3.career/senior-user-researcher-coinbase/2159,Senior User Researcher,$80k - $200k,senior:remote,6mo
-Coinbase,https://web3.career/senior-program-manager-international-expansion-coinbase/2158,"Senior Program Manager, International Expansion",$95k - $250k,executive:senior:remote,6mo
-Coinbase,https://web3.career/group-product-manager-security-engineering-coinbase/2157,"Group Product Manager, Security Engineering",,product manager:non tech:security:remote,6mo
-Coinbase,https://web3.career/nft-creator-success-manager-coinbase/2156,NFT Creator Success Manager,$100k - $180k,sales:non tech:nft:remote,6mo
-Ripple,https://web3.career/senior-software-engineer-data-ripple/2155,"Senior Software Engineer, Data",$50k - $200k,dev:senior:java,6mo
-Kraken Digital Asset Exchange,https://web3.career/executive-assistant-chief-legal-office-kraken/2151,Executive Assistant - Chief Legal Office,,executive:legal,6mo
-Chorus One,https://web3.career/software-engineer-rust-chorusone/2150,Software Engineer (Rust),$90k - $150k,dev:rust:solidity:solana:golang,6mo
-Coinme,https://web3.career/senior-full-stack-engineer-remote-optional-coinme/8891,Senior Full Stack Engineer (Remote Optional),$70k - $200k,remote:dev:full stack:senior:react,6mo
-BlockFi,https://web3.career/technical-project-manager-security-blockfi/8890,"Technical Project Manager, Security",,project manager:non tech:security,6mo
-Messari,https://web3.career/senior-technical-recruiter-messari/8887,Senior Technical Recruiter,$40k - $70k,recruiter:non tech:senior:remote,6mo
-Figure,https://web3.career/operations-analyst-figure-equity-solutions-figure/8886,"Operations Analyst, Figure Equity Solutions",,analyst:operations,6mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/marketing-director-coindesk-coindesk/8885,"Marketing Director, CoinDesk",$70k - $158k,executive:marketing:non tech,6mo
-Bitwise Asset Management,https://web3.career/investor-relations-associate-ny-or-sf-area-bitwiseinvestments/8884,Investor Relations Associate (NY or SF Area),$40k - $150k,finance,6mo
-Chainlink Labs,https://web3.career/senior-visual-designer-chainlink/8883,Senior Visual Designer,$60k - $120k,design:non tech:senior:remote,6mo
-Chainlink Labs,https://web3.career/senior-product-manager-cross-chain-chainlink/8882,Senior Product Manager - Cross-Chain,$80k - $150k,product manager:non tech:senior:remote,6mo
-Chainlink Labs,https://web3.career/blockchain-project-community-sme-chainlink/8881,Blockchain Project Community SME,$15k - $75k,community manager:non tech:blockchain:remote,6mo
-Binance,https://web3.career/senior-site-reliability-engineer-sre-binance/8879,Senior Site Reliability Engineer (SRE),$150k - $200k,dev:sys admin:senior,6mo
-Maple,https://web3.career/senior-full-stack-web-developer-maple-finance/8878,Senior Full Stack Web Developer,$70k - $180k,dev:full stack:senior:react:ethereum,6mo
-HQ Digital,https://web3.career/associate-private-banking-hqdigital/8877,"Associate, Private Banking",$40k - $150k,finance,6mo
-Blockdaemon,https://web3.career/corporate-recruiter-blockdaemon/8871,Corporate Recruiter,$40k - $70k,recruiter:non tech,6mo
-WOO Network,https://web3.career/legal-intern-woonetwork/8870,Legal Intern,,intern:entry level:legal,6mo
-Bittrex,https://web3.career/frontend-sdet-engineer-i-bittrex/8867,Frontend SDET Engineer I,$50k - $144k,dev:front end:react:javascript:java,6mo
-BitGo,https://web3.career/solutions-architect-bitgo/8866,Solutions Architect,,architecture:java:rust,6mo
-Blockdaemon,https://web3.career/events-manager-blockdaemon/8863,Events Manager,,events manager:non tech,6mo
-SwissBorg,https://web3.career/treasury-manager-swissborg/8861,Treasury Manager,$40k - $150k,finance,6mo
-Amun 21Shares,https://web3.career/us-legal-associate-amun/8860,US Legal Associate,$24k - $140k,legal,6mo
-Binance,https://web3.career/customer-service-specialist-french-english-binance/8859,Customer Service Specialist - (French/English),$40k - $80k,customer support,6mo
-WOO Network,https://web3.career/frontend-engineer-vuejs-woonetwork/8858,Frontend Engineer - Vuejs,$50k - $140k,dev:front end:javascript:vue:solana,6mo
-Immutable,https://web3.career/software-engineer-immutable/8857,Software Engineer,$70k - $150k,dev:ethereum:nft,6mo
-Kraken Digital Asset Exchange,https://web3.career/manager-internal-communications-kraken/8856,"Manager, Internal Communications",,,6mo
-Binance,https://web3.career/data-scientist-nlu-binance/8855,Data Scientist - NLU,$50k - $150k,data science,6mo
-Kraken Digital Asset Exchange,https://web3.career/executive-assistant-business-operations-kraken/8854,Executive Assistant - Business Operations,$150k - $230k,executive:operations,6mo
-Kraken Digital Asset Exchange,https://web3.career/live-chat-support-specialist-kraken/8853,Live Chat Support Specialist,$40k - $80k,customer support:remote,6mo
-Binance,https://web3.career/java-developer-binance/8852,Java Developer,$33k - $140k,dev:java,6mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+ExPopulus,https://web3.career/pr-manager-games-marketplace-expopulus/9105,"San Francisco,
+United States",PR Manager - Games & Marketplace,$45k - $130k,marketing:non tech,6mo
+ExPopulus,https://web3.career/marketing-operations-manager-expopulus/9104,"San Francisco,
+United States",Marketing Operations Manager,,marketing:non tech:operations,6mo
+ExPopulus,https://web3.career/marketing-analyst-games-marketplace-expopulus/9103,"San Francisco,
+United States",Marketing Analyst - Games & Marketplace,,analyst:marketing:non tech,6mo
+ExPopulus,https://web3.career/influencer-manager-expopulus/9102,"San Francisco,
+United States",Influencer Manager,,,6mo
+ExPopulus,https://web3.career/unity-game-developer-expopulus/9101,"San Francisco,
+United States",Unity Game Developer,$70k - $150k,dev:game dev,6mo
+ExPopulus,https://web3.career/typescript-developer-expopulus/9100,"San Francisco,
+United States",Typescript Developer,$60k - $180k,dev,6mo
+ExPopulus,https://web3.career/solana-blockchain-developer-expopulus/9099,"San Francisco,
+United States",Solana Blockchain Developer,$50k - $170k,dev:blockchain,6mo
+ExPopulus,https://web3.career/technical-video-game-designer-expopulus/9098,"San Francisco,
+United States",Technical Video Game Designer,$26k - $150k,design:non tech:game dev:video,6mo
+ExPopulus,https://web3.career/lead-ux-ui-designer-expopulus/9097,"San Francisco,
+United States",Lead UX/UI Designer,$40k - $190k,design:non tech:lead,6mo
+ExPopulus,https://web3.career/graphic-designer-expopulus/9096,"San Francisco,
+United States",Graphic Designer,$50k - $150k,design:non tech,6mo
+Decent Labs,https://web3.career/entrepreneur-in-residence-remote-decentlabs/9095,"Miami,
+United States",Entrepreneur in Residence [Remote],$56k - $160k,remote,6mo
+Decent Labs,https://web3.career/head-of-sales-remote-decentlabs/9094,"Miami,
+United States",Head of Sales [Remote],$40k - $150k,executive:remote:sales:non tech,6mo
+Decent Labs,https://web3.career/senior-full-stack-developer-remote-decentlabs/9093,"Miami,
+United States",Senior Full Stack Developer [Remote],$70k - $200k,remote:dev:full stack:senior,6mo
+Decent Labs,https://web3.career/engineering-manager-remote-decentlabs/9092,"Miami,
+United States",Engineering Manager [Remote],$79k - $200k,executive:remote,6mo
+Decent Labs,https://web3.career/user-interface-designer-remote-decentlabs/9091,"Miami,
+United States",User Interface Designer [Remote],$50k - $135k,remote:design:non tech,6mo
+CoinFlip,https://web3.career/sr-product-manager-web-platform-and-technology-coinflip/9090,"Chicago,
+United States","Sr. Product Manager, Web Platform and Technology",$80k - $150k,product manager:non tech:senior,6mo
+CoinFlip,https://web3.career/sr-product-manager-mobile-platform-and-technology-coinflip/9089,"Chicago,
+United States","Sr. Product Manager, Mobile Platform and Technology",,mobile:product manager:non tech:senior,6mo
+CoinFlip,https://web3.career/software-engineer-java-coinflip/9088,"Chicago,
+United States",Software Engineer - Java,$33k - $140k,dev:java,6mo
+CoinFlip,https://web3.career/senior-product-manager-master-data-management-coinflip/9087,"Chicago,
+United States",Senior Product Manager - Master Data Management,$80k - $150k,product manager:non tech:senior,6mo
+CoinFlip,https://web3.career/mobile-software-engineer-ios-coinflip/9086,"Chicago,
+United States",Mobile Software Engineer - IOS,$51k - $109k,dev:ios:mobile,6mo
+CoinFlip,https://web3.career/aws-devops-architect-coinflip/9085,"Tampa, FL",AWS DevOps Architect,,architecture:devops,6mo
+CoinFlip,https://web3.career/aws-customer-data-and-identity-management-architect-coinflip/9084,"Tampa, FL",AWS Customer Data and Identity Management Architect,$67k - $180k,architecture,6mo
+CoinFlip,https://web3.career/recruiting-coordinator-coinflip/9083,"Chicago,
+United States",Recruiting Coordinator,$40k - $70k,recruiter:non tech,6mo
+CoinFlip,https://web3.career/paid-media-manager-coinflip/9082,"Chicago,
+United States",Paid Media Manager,,,6mo
+CoinFlip,https://web3.career/manager-product-marketing-coinflip/9081,"Chicago,
+United States","Manager, Product Marketing",$45k - $130k,marketing:non tech,6mo
+CoinFlip,https://web3.career/manager-graphic-design-coinflip/9080,"Chicago,
+United States","Manager, Graphic Design",$50k - $150k,design:non tech,6mo
+CoinFlip,https://web3.career/director-communications-and-content-coinflip/9079,"Chicago,
+United States","Director, Communications and Content",$70k - $180k,executive,6mo
+CoinFlip,https://web3.career/customer-support-agent-coinflip/9078,"Chicago,
+United States",Customer Support Agent,$40k - $80k,customer support,6mo
+CoinFlip,https://web3.career/anti-money-laundering-associate-coinflip/9077,"Chicago,
+United States",Anti Money Laundering Associate,,,6mo
+BlockSwap,https://web3.career/full-stack-engineer-frontend-blockswap/9076,Remote,Full Stack Engineer - Frontend,$65k - $150k,dev:front end:full stack:solidity:nft,6mo
+BlockSwap,https://web3.career/bd-protocol-integration-blockswap/9075,Remote,BD & Protocol Integration,$56k - $165k,nft:remote,6mo
+Bitski,https://web3.career/social-media-manager-bitski/9074,"San Francisco,
+United States",💯 Social Media Manager,$35k - $75k,social media:non tech:nft,6mo
+Bitski,https://web3.career/community-manager-bitski/9073,"San Francisco,
+United States",🌎 Community Manager,$35k - $101k,community manager:non tech:nft,6mo
+Bitski,https://web3.career/senior-frontend-engineer-bitski/9072,"San Francisco,
+United States",👾 Senior Frontend Engineer,$70k - $190k,dev:front end:senior:nft,6mo
+Bitski,https://web3.career/senior-data-engineer-bitski/9071,"San Francisco,
+United States",👾 Senior Data Engineer,$130k - $160k,data science:dev:senior:nft:rust,6mo

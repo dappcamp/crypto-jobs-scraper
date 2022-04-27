@@ -1,36 +1,57 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-MetaMask,https://web3.career/ux-researcher-metamask/17128,UX Researcher,$80k - $150k,design:non tech:ethereum,3mo
-MetaMask,https://web3.career/product-designer-metamask/17127,Product Designer,$80k - $150k,design:non tech:ethereum,3mo
-Kronos Research,https://web3.career/technical-project-manager-kronosresearch/17126,Technical Project Manager,$56k - $150k,project manager:non tech:remote,3mo
-Dojo Fish NFT,https://web3.career/social-media-manager-and-growth-hacker-dojo-fish-nft/17125,Social Media Manager and Growth Hacker,$35k - $55k,marketing:non tech:social media:nft,3mo
-Mobilum,https://web3.career/marketing-manager-crypto-mobilum-1/17124,Marketing Manager - Crypto,$0k,marketing:non tech:crypto,3mo
-RECUR,https://web3.career/sanctions-associate-remote-recur/17122,Sanctions Associate (Remote),$79k - $158k,remote:ethereum:nft,3mo
-RECUR,https://web3.career/kyc-associate-remote-recur/17121,KYC Associate (Remote),,kyc:remote:ethereum:nft,3mo
-BitGo,https://web3.career/demand-generation-director-bitgo/17120,Demand Generation Director,$70k - $180k,executive,3mo
-BitGo,https://web3.career/demand-generation-director-bitgo/17119,Demand Generation Director,$70k - $180k,executive,3mo
-Mizar,https://web3.career/blockchain-developer-mizar-2/17118,Blockchain Developer,$100k - $180k,dev:blockchain:solidity:javascript:rust,3mo
-Crypto.com,https://web3.career/security-data-architect-us-crypto-com/17117,Security Data Architect (US),,architecture:security:nft:ruby,3mo
-Quidax,https://web3.career/product-manager-order-book-and-custody-quidax/17115,Product Manager Order Book and Custody,$115k - $175k,product manager:non tech:remote,3mo
-Genopets,https://web3.career/game-mechanics-designer-genopets/17114,Game Mechanics Designer,$26k - $150k,design:non tech:game dev:remote:solana,3mo
-Genopets,https://web3.career/game-narrative-designer-genopets/17113,Game Narrative Designer,$26k - $150k,design:non tech:game dev:remote:solana,3mo
-Genopets,https://web3.career/3d-technical-artist-genopets/17112,3D Technical Artist,,vfx:remote:solana,3mo
-Monarch Gaming (Genopets),https://web3.career/blockchain-engineer-genopets/17111,Blockchain Engineer,$56k - $160k,dev:blockchain:solana:nft,3mo
-Monarch Gaming (Genopets),https://web3.career/full-stack-software-engineer-genopets/17110,Full-Stack Software Engineer,$100k - $200k,dev:full stack:solana:nft,3mo
-Monarch Gaming (Genopets),https://web3.career/game-narrative-designer-genopets/17109,Game Narrative Designer,$26k - $150k,design:non tech:game dev:solana:nft,3mo
-Monarch Gaming (Genopets),https://web3.career/social-media-manager-genopets/17108,Social Media Manager,,social media:non tech:solana:nft,3mo
-NEAR,https://web3.career/technical-recruiter-near/17105,Technical Recruiter,$40k - $70k,recruiter:non tech,3mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/head-of-finance-tradeblock-coindesk/17104,"Head of Finance, TradeBlock",$90k - $200k,executive:finance,3mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/head-of-people-tradeblock-coindesk/17103,"Head of People, TradeBlock",$70k - $180k,executive,3mo
-GSR,https://web3.career/risk-quant-analyst-market-credit-risk-analyst-or-associate-gsr/17101,"Risk Quant Analyst (Market & Credit Risk), Analyst or Associate",$40k - $120k,analyst,3mo
-GSR,https://web3.career/risk-quant-analyst-market-credit-risk-analyst-or-associate-gsr/17100,"Risk Quant Analyst (Market & Credit Risk), Analyst or Associate",$40k - $120k,analyst,3mo
-GSR,https://web3.career/risk-quant-analyst-market-credit-risk-analyst-or-associate-gsr/17099,"Risk Quant Analyst (Market & Credit Risk), Analyst or Associate",$40k - $120k,analyst,3mo
-GSR,https://web3.career/hft-risk-manager-vice-president-gsr/17098,"HFT Risk Manager, Vice President",,,3mo
-GSR,https://web3.career/hft-risk-manager-vice-president-gsr/17097,"HFT Risk Manager, Vice President",,,3mo
-GSR,https://web3.career/hft-risk-manager-vice-president-gsr/17096,"HFT Risk Manager, Vice President",,,3mo
-Chainlink Labs,https://web3.career/marketing-director-integrated-campaigns-chainlink/17095,"Marketing Director, Integrated Campaigns",$70k - $158k,executive:marketing:non tech:remote,3mo
-MRGN Labs,https://web3.career/senior-blockchain-engineer-mrgn-labs/17094,Senior Blockchain Engineer,$80k - $200k,dev:senior:blockchain:remote:solana,3mo
-MRGN Labs,https://web3.career/senior-software-engineer-backend-mrgn-labs/17093,Senior Software Engineer - Backend,$70k - $200k,backend:dev:senior:remote:solana,3mo
-Ripple,https://web3.career/senior-software-engineer-full-stack-ripple/17092,"Senior Software Engineer, Full-Stack",$70k - $180k,dev:full stack:senior:react:java,3mo
-Stardust Cards Corporation,https://web3.career/customer-success-manager-stardust/17091,Customer Success Manager,,sales:non tech:customer support:remote:nft,3mo
-Telcoin,https://web3.career/writer-researcher-philippines-telcoin/17090,Writer-Researcher - Philippines,,,3mo
-Telcoin,https://web3.career/marketing-manager-singapore-telcoin/17089,Marketing Manager - Singapore,$45k - $130k,marketing:non tech,3mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Chainlink Labs,https://web3.career/director-industry-specialist-insurance-chainlink/17776,Remote,"Director, Industry Specialist, Insurance",$79k - $200k,executive:remote,3mo
+Chainlink Labs,https://web3.career/director-industry-specialist-carbon-esg-chainlink/17775,Remote,"Director, Industry Specialist, Carbon/ESG",$79k - $200k,executive:remote,3mo
+MRGN Labs,https://web3.career/senior-blockchain-engineer-mrgn-labs/17774,Remote,Senior Blockchain Engineer,$80k - $200k,dev:senior:blockchain:remote:solana,3mo
+MRGN Labs,https://web3.career/senior-software-engineer-backend-mrgn-labs/17773,Remote,Senior Software Engineer - Backend,$70k - $200k,backend:dev:senior:remote:solana,3mo
+Kava Labs,https://web3.career/sourcer-kava/17772,United States,Sourcer,$40k - $70k,recruiter:non tech,3mo
+CoinList,https://web3.career/compliance-manager-kyc-coinlist/17771,"San Francisco,
+United States",Compliance Manager - KYC,,compliance:kyc:solana,3mo
+CoinList,https://web3.career/compliance-associate-regulatory-affairs-coinlist/17770,"San Francisco,
+United States",Compliance Associate - Regulatory Affairs,,compliance:legal:solana,3mo
+Blockstream,https://web3.career/cryptographic-engineer-blockstream/17769,"San Francisco,
+United States",Cryptographic Engineer,$75k - $190k,dev:rust,3mo
+Constellation Network,https://web3.career/hybrid-front-end-developer-stargazer-wallet-constellationnetwork/17768,Remote,Hybrid Front End Developer - Stargazer Wallet,$22k - $120k,dev:front end:remote,3mo
+Polygon,https://web3.career/polygon-studios-polygon-ecosystem-fund-portfolio-manager-polygon/17767,Remote,Polygon Studios/Polygon Ecosystem Fund Portfolio Manager,,finance:remote:ethereum,3mo
+Polygon,https://web3.career/polygon-ecosystem-fund-content-creator-polygon/17766,Remote,Polygon Ecosystem Fund Content Creator,$60k - $145k,remote:ethereum,3mo
+Tap Finance,https://web3.career/software-engineer-front-end-tap-finance/17765,"Singapore,
+Singapore","Software Engineer, Front-End",$50k - $144k,dev:front end:react:solana:javascript,3mo
+Figment,https://web3.career/backend-golang-software-engineer-figment/17764,"Toronto,
+Canada",Backend Golang Software Engineer,$33k - $160k,backend:dev:golang:rust,3mo
+Chainalysis,https://web3.career/senior-solutions-architect-public-sector-chainalysis/17763,"New York,
+United States","Senior Solutions Architect, Public Sector",$80k,architecture:senior,3mo
+Chainalysis,https://web3.career/legal-director-corporate-chainalysis/17762,"New York,
+United States","Legal Director, Corporate",,executive:legal,3mo
+Chainalysis,https://web3.career/software-engineer-student-worker-aarhus-chainalysis/17761,Denmark,"Software Engineer, Student Worker (Aarhus)",$60k - $180k,dev,3mo
+Ava Labs,https://web3.career/customer-success-manager-avalabs/17759,"New York,
+United States",Customer Success Manager,,sales:non tech:customer support,3mo
+Crypto.com,https://web3.career/senior-network-security-engineer-security-infrastructure-crypto-com/17757,"Miami,
+United States","(Senior) Network & Security Engineer, Security Infrastructure",$95k - $250k,dev:security:senior:nft,3mo
+Gluwa,https://web3.career/backend-engineering-manager-net-gluwa/17756,"San Francisco,
+United States",Backend Engineering Manager (.NET),,executive:dot net:backend:ethereum,3mo
+ZAUBAR,https://web3.career/internship-augmented-immersive-reality-tester-qa-berlin-germany-3749957-internship-augmented-und-immersive-reality-tester-qa-berlin-germany-utm_source-google_jobs_apply-pid-bce1fbd2f366390046fc/17755,"Berlin,
+Germany","Internship: Augmented & Immersive Reality Tester (QA) - Berlin, Germany",,intern:entry level:quality assurance,3mo
+Polygon,https://web3.career/infrastructure-engineer-polygon/17754,Remote,Infrastructure Engineer,$60k - $150k,dev:remote:ethereum,3mo
+Floating Point Group,https://web3.career/trading-and-operations-analyst-fpg/17753,"Singapore,
+Singapore",Trading and Operations Analyst,,analyst:operations,3mo
+Sygnum Bank AG,https://web3.career/tech-lead-blockchain-protocol-staking-sygnum/17751,Switzerland,Tech Lead - Blockchain Protocol & Staking,$78k - $118k,lead:tech lead:blockchain:react:javascript,3mo
+WOO Network,https://web3.career/cryptocurrency-trader-woonetwork/17750,"Warsaw,
+Poland",Cryptocurrency Trader,$31k - $37k,trader:crypto,3mo
+Shakepay,https://web3.career/it-operations-engineer-remote-canada-shakepay/17748,"Montreal,
+Canada",IT Operations Engineer (Remote - Canada),,remote:dev:operations,3mo
+GSR,https://web3.career/ui-software-engineer-associate-cryptocurrency-trading-gsr/17746,"New York,
+United States","UI Software Engineer, Associate - Cryptocurrency Trading",$80k - $150k,dev:design:non tech:crypto,3mo
+GSR,https://web3.career/ui-software-engineer-associate-cryptocurrency-trading-gsr/17745,"Malaga,
+Spain","UI Software Engineer, Associate - Cryptocurrency Trading",$80k - $150k,dev:design:non tech:crypto,3mo
+GSR,https://web3.career/ui-software-engineer-associate-cryptocurrency-trading-gsr/17744,"London,
+United Kingdom","UI Software Engineer, Associate - Cryptocurrency Trading",$80k - $150k,dev:design:non tech:crypto,3mo
+GSR,https://web3.career/defi-smart-contract-engineer-solidity-rust-gsr/17743,"London,
+United Kingdom",DeFi - Smart Contract Engineer (Solidity/Rust),$100k - $160k,dev:rust:defi:smart contract:solidity,3mo
+Metaplex Studios,https://web3.career/controller-head-of-accounting-metaplexstudios/17742,United States,Controller / Head of Accounting,,executive:accounting:legal,3mo
+Metaplex Studios,https://web3.career/senior-financial-analyst-metaplexstudios/17741,United States,Senior Financial Analyst,,analyst:finance:senior,3mo
+Boson Protocol,https://web3.career/project-account-manager-bosonprotocol/17740,"London,
+United Kingdom",Project & Account Manager,,account manager,3mo
+Chainflux,https://web3.career/blockchain-developer-chainflux-3/17739,"Bengaluru,
+India",Blockchain Developer,$93k - $26k,dev:blockchain:javascript,3mo
+Crypto.com,https://web3.career/frontend-software-engineer-ops-panel-crypto-com/17738,United Kingdom,"Frontend Software Engineer, Ops Panel",$50k - $144k,dev:front end:react:nft:javascript,3mo
+Airschool,https://web3.career/web3-developer-smart-contracts-engineer-airschool/17737,"Singapore,
+Singapore",Web3 Developer/Smart Contracts Engineer,$0k,dev:smart contract:react:solidity:ethereum,3mo

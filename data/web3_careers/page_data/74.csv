@@ -1,36 +1,52 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Terraform Labs,https://web3.career/communications-associate-terra/23604,Communications Associate,$60k - $145k,remote:ethereum,1mo
-Upside,https://web3.career/senior-solidity-developer-upside/23603,Senior Solidity Developer,$100k - $150k,dev:senior:solidity,1mo
-Public,https://web3.career/product-manager-global-onboarding-public/23602,"Product Manager, Global Onboarding",$69k - $160k,product manager:non tech,1mo
-Gnosis,https://web3.career/senior-data-engineer-gnosis/23601,Senior Data Engineer,$130k - $160k,data science:dev:senior:remote:ethereum,1mo
-Ledger,https://web3.career/product-owner-hardware-wallet-ledger/23600,Product Owner Hardware Wallet,,product manager:non tech:hardware,1mo
-Ledger,https://web3.career/industrialization-and-test-engineer-ledger/23599,Industrialization and Test Engineer,$60k - $180k,dev,1mo
-Binance,https://web3.career/community-operation-intern-binance/23598,Community Operation Intern,,community manager:non tech:intern:entry level:remote,1mo
-Binance,https://web3.career/bnb-chain-community-manager-india-binance/23597,BNB Chain Community Manager (India),$40k - $100k,community manager:non tech,1mo
-Alchemy,https://web3.career/alchemy-analyst-alchemy/23596,Alchemy Analyst,$45k - $120k,analyst:remote,1mo
-Saber,https://web3.career/founding-frontend-engineer-saber/23595,Founding Frontend Engineer,$22k - $120k,dev:front end:remote:react:solana,1mo
-PolySign & Standard Custody,https://web3.career/senior-technical-product-manager-polysign/23594,Senior Technical Product Manager,$80k - $150k,product manager:non tech:senior,1mo
-Figment,https://web3.career/web-developer-figment/23593,Web Developer,$56k - $160k,dev:react:javascript:nextjs,1mo
-Secfi,https://web3.career/investment-manager-secfi/23592,Investment Manager,$40k - $150k,finance,1mo
-Binance,https://web3.career/hr-operations-intern-binance/23591,HR Operations Intern,,hr:non tech:intern:entry level:operations,1mo
-Binance,https://web3.career/research-analyst-intern-macro-industry-research-binance/23590,Research Analyst Intern (Macro/Industry Research),$20k - $30k,analyst:intern:entry level:remote,1mo
-DROPPS,https://web3.career/solidity-web3-developer-dropps/23589,Solidity/Web3 developer,$70k - $130k,dev:solidity:smart contract,1mo
-VivSoft Technologies,https://web3.career/business-analyst-vivsoft/23588,Business Analyst,$40k - $120k,analyst,1mo
-Custodia Bank,https://web3.career/bitcoin-software-engineer-remote-custodiabank/23587,Bitcoin Software Engineer (Remote),,remote:dev:btc,1mo
-questW,https://web3.career/principal-software-engineer-questw/23586,Principal Software Engineer,$200k - $400k,dev:executive:react,1mo
-Okcoin,https://web3.career/chatbot-specialist-okcoin/23585,Chatbot Specialist,,chatbot,1mo
-Okcoin,https://web3.career/chatbot-specialist-okcoin/23584,Chatbot Specialist,,chatbot,1mo
-Figure,https://web3.career/principal-machine-learning-engineer-figure/23583,Principal Machine Learning Engineer,,dev:machine learning:executive,1mo
-Figure,https://web3.career/principal-data-analyst-figure/23582,Principal Data Analyst,,analyst:data science:executive,1mo
-Chainalysis,https://web3.career/account-executive-private-sector-singapore-chainalysis/23581,"Account Executive, Private Sector, Singapore",$70k - $180k,executive,1mo
-Chainalysis,https://web3.career/account-executive-private-sector-india-chainalysis/23580,"Account Executive, Private Sector, India",$70k - $180k,executive,1mo
-Chainalysis,https://web3.career/account-executive-malaysia-chainalysis/23579,"Account Executive, Malaysia",$70k - $180k,executive,1mo
-Blockdaemon,https://web3.career/strategic-finance-manager-blockdaemon/23578,Strategic Finance Manager,$40k - $150k,finance,1mo
-Ava Labs,https://web3.career/nodejs-application-security-engineer-avalabs/23577,NodeJS Application Security Engineer,$60k - $155k,dev:javascript:node:security:solidity,1mo
-Binance,https://web3.career/financial-accountant-anz-binance/23576,Financial Accountant - ANZ,$120k - $150k,accounting:finance,1mo
-Binance,https://web3.career/manager-product-and-growth-strategy-binance/23575,Manager - Product and Growth Strategy,$25k - $120k,marketing:non tech:remote,1mo
-Binance,https://web3.career/social-media-specialist-binance/23574,Social Media Specialist,$35k - $110k,social media:non tech:remote,1mo
-Ethereum Foundation,https://web3.career/marketing-ops-manager-ethereumfoundation/23573,Marketing Ops Manager,$25k - $120k,marketing:non tech:remote:ethereum,1mo
-Figure,https://web3.career/principal-data-scientist-figure/23571,Principal Data Scientist,,data science:executive,1mo
-Figure,https://web3.career/data-engineer-figure/23570,Data Engineer,$130k - $160k,data science:dev:scala,1mo
-Chainalysis,https://web3.career/senior-data-engineer-investments-chainalysis/23569,"Senior Data Engineer, Investments",$130k - $160k,data science:dev:senior:scala:java,1mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+METALABS,https://web3.career/marketing-manager-dubai-uae-metalabs/24183,"Dubai,
+United Arab Emirates","Marketing Manager - Dubai, UAE",$95k - $130k,marketing:non tech:social media:nft,1mo
+Virtually Human Studio,https://web3.career/data-engineer-remote-vhslab/24182,United States,Data Engineer (Remote),,remote:data science:dev:nft,1mo
+Hydraswap,https://web3.career/talent-acquisition-coordinator-global-fintech-startup-crypto-hydraswap/24181,"Singapore,
+Singapore",Talent Acquisition Coordinator - Global Fintech Startup (Crypto),$0k,finance:recruiter:non tech:crypto,1mo
+Binance,https://web3.career/financial-controller-crypto-pe-fund-binance/24180,Europe,"Financial Controller, Crypto PE Fund",,legal:finance:crypto,1mo
+Binance,https://web3.career/ui-designer-binance/24179,Asia,UI Designer,$50k - $150k,design:non tech,1mo
+Binance,https://web3.career/regulatory-counsel-apac-binance/24178,Asia,Regulatory Counsel - APAC,$24k - $140k,legal,1mo
+Binance,https://web3.career/netsuite-administrator-binance/24177,"Singapore,
+Singapore",Netsuite Administrator,,,1mo
+SADA,https://web3.career/staff-site-reliability-engineer-sada/24175,"Vancouver,
+Canada",Staff Site Reliability Engineer,$150k - $200k,dev:sys admin:java,1mo
+Terraform Labs,https://web3.career/program-manager-grants-terra/24174,Remote,"Program Manager, Grants",$79k - $158k,executive:remote:ethereum,1mo
+Keyrock,https://web3.career/algo-developer-rust-remote-possible-keyrock/24173,"Brussels,
+Belgium",Algo Developer Rust (Remote possible),$70k - $180k,remote:dev:rust:node,1mo
+Whatnot,https://web3.career/nft-gtm-manager-whatnot/24172,,NFT GTM Manager,$55k - $150k,nft,1mo
+LIONSCOUT GROUP,https://web3.career/full-stack-developer-java-oder-net-lionscout/24171,Bern Schweiz,Full Stack Developer (Java oder .NET),,dot net:dev:full stack:java,1mo
+Taurus SA,https://web3.career/hr-generalist-80-100-taurusgroup/24170,"Geneva,
+Switzerland",HR generalist (80-100%),$60k - $150k,hr:non tech,1mo
+IOTA Foundation,https://web3.career/app-developer-firefly-iota/24169,,App Developer - Firefly,$56k - $160k,dev:react:javascript:rust,1mo
+VaynerMedia LLC,https://web3.career/vaynernft-account-director-vaynermedia/24168,"New York,
+United States","VaynerNFT, Account Director",$63k - $180k,executive:nft,1mo
+OKX,https://web3.career/organization-development-manager-sr-manager-okx/24167,"Hong Kong,
+Hong Kong",Organization Development Manager/ Sr. Manager,$78k - $200k,senior,1mo
+Serotonin,https://web3.career/designer-serotonin/24166,Remote,Designer,$50k - $135k,design:non tech:remote,1mo
+Asset Living,https://web3.career/leasing-manager-solana-condominiums-assetliving/24165,"Mesa,
+United States",Leasing Manager- Solana Condominiums,,,1mo
+Blokhaus,https://web3.career/regional-business-development-lead-contract-blokhaus/24164,"Los Angeles,
+United States",Regional Business Development Lead (Contract),,sales:non tech:lead,1mo
+soonami.io GmbH,https://web3.career/co-founder-soonami/24163,,Co-Founder,$70k - $180k,executive,1mo
+Virtually Human Studio,https://web3.career/data-engineer-remote-vhslab/24162,APAC,Data Engineer (Remote),,remote:data science:dev:nft,1mo
+Quai Network,https://web3.career/senior-accountant-blockchain-quai-network/24161,"Austin,
+United States",Senior Accountant - Blockchain,$80k - $110k,accounting:senior:blockchain,1mo
+Elwood Technologies,https://web3.career/crypto-trading-support-elwoodtechnologies/24160,,Crypto Trading Support,$25k - $35k,customer support:crypto,1mo
+Fractal,https://web3.career/mint-designer-fractal-is/24159,WAGMI,Mint Designer,$100k - $150k,design:non tech:solana:nft,1mo
+Consensys,https://web3.career/product-manager-developer-experience-consensys/24157,Remote,"Product Manager, Developer Experience",$135k - $175k,dev:product manager:non tech:remote:ethereum,1mo
+Consensys,https://web3.career/principal-technical-product-manager-platform-services-consensys/24156,Remote,"Principal Technical Product Manager, Platform Services",$135k - $170k,executive:product manager:non tech:remote:ethereum,1mo
+Fractal,https://web3.career/frontend-engineer-react-fractal-is/24155,WAGMI,Frontend Engineer (React),$50k - $140k,dev:front end:javascript:react:solana,1mo
+Analog,https://web3.career/senior-substrate-rust-engineer-analog/24154,"San Francisco,
+United States",Senior Substrate/Rust Engineer,$120k - $210k,dev:rust:senior,1mo
+METALABS,https://web3.career/full-stack-developer-dubai-uae-metalabs/24153,"Dubai,
+United Arab Emirates","Full Stack Developer - Dubai, UAE",$65k - $95k,dev:metaverse:nft:javascript:php,1mo
+Energi Core Limited,https://web3.career/blockchain-developer-energicorelimited/24152,"Dubai,
+United Arab Emirates",Blockchain Developer,$52k - $160k,dev:blockchain:solidity:ethereum:node,1mo
+METALABS,https://web3.career/chief-technology-officer-cto-dubai-uae-metalabs/24151,"Dubai,
+United Arab Emirates","Chief Technology Officer (CTO) - Dubai, UAE",$200k - $300k,cto:dev:executive:react:blockchain,1mo
+Grayscale Investments,https://web3.career/commercial-counsel-grayscaleinvestments/24150,United States,Commercial Counsel,$24k - $140k,legal,1mo
+peaq,https://web3.career/product-designer-m-w-d-peaq/24149,,Product Designer (m/w/d),$50k - $150k,design:non tech,1mo
+Spring Labs,https://web3.career/cryptographic-engineer-springlabs/24148,Nationwide,Cryptographic Engineer,$60k - $180k,dev,1mo
+Fluree,https://web3.career/full-stack-developer-fluree/24147,"Salem,
+India",Full Stack Developer,$65k - $180k,dev:full stack:react:javascript:java,1mo

@@ -1,36 +1,55 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Coinsquare,https://web3.career/site-reliability-engineer-coinsquare/770,Site Reliability Engineer,,dev:sys admin:ethereum,6mo
-SwissBorg,https://web3.career/site-reliability-engineer-sre-remote-swissborg/769,Site Reliability Engineer (SRE) - Remote,$150k - $200k,remote:dev:sys admin:senior,6mo
-Chainlink Labs,https://web3.career/executive-recruiter-chainlink/768,Executive Recruiter,,executive:recruiter:non tech:remote,6mo
-Binance,https://web3.career/game-publishing-community-development-director-binance/766,Game Publishing & Community Development Director,$45k - $150k,community manager:non tech:executive:game dev,6mo
-cLabs,https://web3.career/senior-legal-counsel-clabs/765,Senior Legal Counsel,,legal:senior:remote,6mo
-Chainlink Labs,https://web3.career/data-analyst-data-feeds-chainlink/764,"Data Analyst, Data Feeds",,analyst:data science:solidity:golang:remote,6mo
-WOO Network,https://web3.career/information-security-engineer-woonetwork/760,Information Security Engineer,$95k - $250k,dev:security,6mo
-CoinList,https://web3.career/litigation-associate-coinlist/758,Litigation Associate,$24k - $140k,legal,6mo
-Localcoin,https://web3.career/regional-sales-executive-california-localcoin/757,Regional Sales Executive (California),$40k - $150k,executive:sales:non tech,6mo
-Stellar Development Foundation,https://web3.career/developer-advocate-stellar/756,Developer Advocate,$56k - $150k,dev:javascript,6mo
-BitMEX,https://web3.career/site-reliability-engineer-database-messaging-bitmex/755,Site Reliability Engineer: Database & Messaging,$150k - $200k,dev:sys admin,6mo
-Galaxy Digital Services,https://web3.career/gdib-analyst-galaxydigitalservices/754,GDIB Analyst,,analyst:finance:legal,6mo
-Foundry,https://web3.career/assistant-controller-foundrydigital/753,Assistant Controller,,finance:legal,6mo
-Chainalysis,https://web3.career/engineer-fullstack-chainalysis/752,"Engineer, Fullstack",$65k - $180k,dev:full stack:react:javascript:java,6mo
-Chainalysis,https://web3.career/account-executive-air-force-chainalysis/751,"Account Executive, Air Force",$70k - $180k,executive,6mo
-Chainalysis,https://web3.career/training-specialist-us-spanish-or-portuguese-speaking-chainalysis/750,"Training Specialist, US (Spanish or Portuguese speaking)",,education,6mo
-BitGo,https://web3.career/software-engineer-backend-blockchain-integration-team-bitgo/748,"Software Engineer (Backend), Blockchain Integration Team",$60k - $180k,backend:dev:blockchain:react:node,6mo
-Clearmatics,https://web3.career/senior-software-engineer-layer-1-ethereum-clearmatics/747,"Senior Software Engineer - Layer 1, Ethereum",$80k - $200k,dev:senior:solidity:ethereum:node,6mo
-Figure,https://web3.career/senior-mobile-software-engineer-provenance-blockchain-figure/746,"Senior Mobile Software Engineer, Provenance Blockchain",$120k - $200k,dev:mobile:senior:blockchain,6mo
-CANDY,https://web3.career/senior-blockchain-engineer-smart-contracts-candy/745,Senior Blockchain Engineer (Smart Contracts),$80k - $200k,dev:senior:blockchain:smart contract:solidity,6mo
-CANDY,https://web3.career/customer-experience-associate-candy/742,Customer Experience Associate,,customer support:nft,6mo
-Chainalysis,https://web3.career/senior-product-manager-chainalysis/740,Senior Product Manager,$80k - $150k,product manager:non tech:senior,6mo
-Chainalysis,https://web3.career/senior-engineer-protocol-research-chainalysis/739,"Senior Engineer, Protocol Research",$80k - $200k,dev:senior:ethereum:node:scala,6mo
-StageOne,https://web3.career/server-engineer-stageone/738,Server Engineer,$70k - $175k,dev:nft,7mo
-CoinGecko,https://web3.career/react-native-engineer-coin-gecko/736,React Native Engineer,$65k - $200k,dev:react native:mobile:javascript:react,7mo
-The Block,https://web3.career/senior-infrastructure-engineer-theblockcrypto/735,Senior Infrastructure Engineer,$85k - $200k,dev:senior:remote,7mo
-Revolut,https://web3.career/senior-lead-blockchain-software-engineer-solidity-python-java-germany-remotely-revolut/734,Senior/Lead Blockchain Software Engineer (Solidity & Python/Java) - Germany Remotely,$30k - $180k,dev:java:lead:python:senior,7mo
-Akash Network,https://web3.career/head-of-ecosystem-growth-akashnetwork/733,Head of Ecosystem Growth,$70k - $158k,executive:marketing:non tech:remote,7mo
-Findora,https://web3.career/vp-of-ecosystem-development-findora/732,VP of Ecosystem Development,,executive:javascript:rust:remote,7mo
-CoinFlip,https://web3.career/senior-blockchain-engineer-coinflip/730,Senior Blockchain Engineer,$80k - $200k,dev:senior:blockchain,7mo
-Offchain Labs,https://web3.career/blockchain-developer-offchainlabs/729,Blockchain Developer,$33k - $120k,dev:blockchain:ethereum:remote,7mo
-Auth0,https://web3.career/senior-software-engineer-core-crypto-auth0/728,"Senior Software Engineer, Core Crypto",$85k - $200k,remote:dev:senior:crypto:golang,7mo
-Sherbet,https://web3.career/full-stack-web3-developer-sherbet/725,Full Stack Web3 Developer,$60k - $90k,dev:full stack:javascript:remote,7mo
-Unit 410,https://web3.career/controller-u410/724,Controller,$24k - $140k,legal,7mo
-RECUR,https://web3.career/vp-of-product-remote-recur/723,VP of Product (Remote),$115k - $175k,remote:product manager:non tech:executive:ethereum,7mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+DappRadar,https://web3.career/backend-software-engineer-php-remote-dappradar/7385,Lithuania,Backend Software Engineer (PHP) (Remote),$60k - $180k,remote:backend:dev:php:node,6mo
+Figure,https://web3.career/staff-software-engineer-customer-success-portal-figure/7384,United States,"Staff Software Engineer, Customer Success Portal",,customer support:dev:java,6mo
+Binance,https://web3.career/quality-assurance-manager-customer-service-binance/7383,Asia,Quality Assurance Manager - Customer Service,$40k - $80k,customer support,6mo
+Amun 21Shares,https://web3.career/product-manager-web-amun/7382,,"Product Manager, Web",$69k - $160k,product manager:non tech,6mo
+Binance,https://web3.career/senior-php-developer-binance/7381,"Toronto,
+Canada",Senior PHP Developer,,dev:php:senior:java,6mo
+Kraken Digital Asset Exchange,https://web3.career/senior-product-manager-kraken/7380,Remote,Senior Product Manager,$80k - $150k,product manager:non tech:senior:remote,6mo
+WOO Network,https://web3.career/backend-engineer-python-woonetwork/7379,"Warsaw,
+Poland",Backend Engineer - Python,,backend:dev:python:solana,6mo
+Parity Technologies,https://web3.career/travel-and-events-lead-m-f-d-parity/7375,"Berlin,
+Germany",Travel and Events Lead (m/f/d),$95k - $200k,lead:remote,6mo
+Bitpanda,https://web3.career/senior-talent-acquisition-partner-f-m-d-tech-bitpanda/7373,"Barcelona,
+Spain",Senior Talent Acquisition Partner (f/m/d) - Tech,$40k - $70k,senior:recruiter:non tech,6mo
+Parity Technologies,https://web3.career/operations-team-assistant-m-f-d-parity/7368,"Berlin,
+Germany",Operations Team Assistant (m/f/d),$80k - $110k,operations:remote,6mo
+Binance,https://web3.career/project-manager-tech-binance/7358,Asia,Project manager (Tech),$50k - $150k,project manager:non tech,6mo
+Rheinmetall,https://web3.career/case-camp-2-0-rheinmetall/1346,,Case Camp 2.0,$33k - $160k,remote:java,7mo
+Scalable Path,https://web3.career/solidity-smart-contract-developer-with-nft-experience-scalable-path/1345,,Solidity Smart Contract Developer with NFT Experience,$90k - $180k,remote:dev:nft:smart contract:solidity,7mo
+DFINITY,https://web3.career/markets-analyst-intern-institutional-partnerships-dfinity/1342,"Palo Alto,
+United States","Markets Analyst Intern, Institutional Partnerships",,sales:non tech:analyst:intern:entry level,7mo
+Nifty's Inc.,https://web3.career/ux-designer-niftysinc/1338,"New York,
+United States",UX Designer,$50k - $150k,design:non tech,7mo
+NEAR,https://web3.career/communications-marketing-manager-near/1337,"New York,
+United States",Communications & Marketing Manager,$45k - $130k,marketing:non tech,7mo
+Islands,https://web3.career/community-manager-islands/1330,Remote,Community Manager,$40k - $101k,community manager:non tech:remote,7mo
+Coin Metrics,https://web3.career/risk-management-compliance-lead-coinmetrics/1329,"Boston,
+United States",RISK MANAGEMENT & COMPLIANCE LEAD,,compliance:lead,7mo
+Messari,https://web3.career/governance-analyst-messari/1328,Remote,Governance Analyst,$45k - $120k,analyst:remote,7mo
+Chainalysis,https://web3.career/senior-engineer-data-chainalysis/1327,"New York,
+United States","Senior Engineer, Data",$80k - $200k,dev:senior:ethereum:node:scala,7mo
+Kraken Digital Asset Exchange,https://web3.career/senior-technical-recruiter-kraken/1324,Remote,Senior Technical Recruiter,$40k - $70k,recruiter:non tech:senior:remote,7mo
+Chainalysis,https://web3.career/sales-engineer-chainalysis/1323,"New York,
+United States",Sales Engineer,,dev:sales:non tech,7mo
+Chainalysis,https://web3.career/enterprise-account-executive-east-chainalysis/1322,"New York,
+United States","Enterprise Account Executive, East",$70k - $180k,executive,7mo
+Kraken Digital Asset Exchange,https://web3.career/lead-technical-recruiter-kraken/1321,Remote,Lead Technical Recruiter,$40k - $70k,lead:recruiter:non tech:remote,7mo
+CoinGecko,https://web3.career/senior-digital-marketing-associate-l3-coin-gecko/1320,"Selangor,
+Malaysia",Senior Digital Marketing Associate (L3),$46k - $109k,marketing:non tech:senior,7mo
+Okcoin,https://web3.career/growth-marketing-manager-okcoin/1319,"San Francisco,
+United States",Growth Marketing Manager,$48k - $120k,marketing:non tech:ethereum,7mo
+Amun 21Shares,https://web3.career/vp-compliance-amun/1318,,"VP, Compliance",,compliance:executive,7mo
+Chainlink Labs,https://web3.career/compensation-and-benefits-manager-chainlink/1316,Remote,Compensation and Benefits Manager,$56k - $160k,remote,7mo
+Chainlink Labs,https://web3.career/head-of-solutions-chainlink/1315,Remote,Head of Solutions,$79k - $200k,executive:remote,7mo
+Bitfury,https://web3.career/product-lead-crystal-blockchain-bitfury/1313,"London,
+United Kingdom",Product Lead (Crystal Blockchain),$35k - $160k,lead:blockchain,7mo
+GSR,https://web3.career/defi-full-stack-engineer-python-java-c-gsr/1312,"Los Angeles,
+United States",DeFi - Full Stack Engineer (Python/Java/C++),$100k - $150k,c:c plus plus:dev:full stack:java,7mo
+Symbiont,https://web3.career/applications-engineer-symbiont/1309,"Amsterdam,
+Netherlands",Applications Engineer,$57k - $160k,dev:react,7mo
+Binance,https://web3.career/technical-recruiter-talent-acquisition-specialist-mid-senior-lead-binance/1307,"Tel Aviv,
+Israel",Technical Recruiter / Talent Acquisition Specialist (Mid/Senior/Lead),$40k - $70k,lead:recruiter:non tech:senior,7mo
+Anchorage Digital,https://web3.career/university-recruiting-lead-anchorage/1305,"Indianapolis,
+United States",University Recruiting Lead,$40k - $70k,lead:recruiter:non tech,7mo
+Binance,https://web3.career/technical-recruiter-talent-acquisition-specialist-mid-senior-lead-binance/1304,Europe,Technical Recruiter / Talent Acquisition Specialist (Mid/Senior/Lead),$40k - $70k,lead:recruiter:non tech:senior,7mo

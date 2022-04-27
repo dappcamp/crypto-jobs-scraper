@@ -1,36 +1,51 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Chainlink Labs,https://web3.career/devops-engineer-europe-chainlink/9361,DevOps Engineer - Europe,$95k - $180k,devops:dev:remote,5mo
-Chainlink Labs,https://web3.career/vp-of-brand-marketing-chainlink/9360,VP of Brand Marketing,$70k - $158k,marketing:non tech:executive:remote,5mo
-Chainlink Labs,https://web3.career/technical-product-marketing-manager-chainlink/9359,Technical Product Marketing Manager,$25k - $120k,marketing:non tech:remote,5mo
-Chainlink Labs,https://web3.career/technical-content-marketer-chainlink/9358,Technical Content Marketer,$25k - $120k,marketing:non tech:remote,5mo
-Chainlink Labs,https://web3.career/social-media-specialist-chainlink/9357,Social Media Specialist,$35k - $110k,social media:non tech:remote,5mo
-Chainlink Labs,https://web3.career/senior-director-of-growth-marketing-chainlink/9356,Senior Director of Growth Marketing,$70k - $158k,executive:marketing:non tech:senior:remote,5mo
-Chainlink Labs,https://web3.career/director-marketing-operations-chainlink/9355,"Director, Marketing Operations",$70k - $158k,executive:marketing:non tech:operations:remote,5mo
-Chainlink Labs,https://web3.career/director-customer-marketing-chainlink/9354,"Director, Customer Marketing",$70k - $158k,executive:marketing:non tech:remote,5mo
-Chainlink Labs,https://web3.career/developer-marketing-program-manager-chainlink/9353,Developer Marketing Program Manager,$85k - $120k,dev:marketing:non tech:executive:remote,5mo
-Chainlink Labs,https://web3.career/solutions-architect-chainlink/9352,Solutions Architect,$67k - $300k,architecture:remote,5mo
-Chainlink Labs,https://web3.career/grant-program-associate-chainlink/9351,Grant Program Associate,$56k - $160k,remote,5mo
-Chainlink Labs,https://web3.career/global-lead-of-customer-success-chainlink/9350,Global Lead of Customer Success,$25k - $35k,customer support:lead:remote,5mo
-Chainlink Labs,https://web3.career/data-partnerships-manager-chainlink/9349,Data Partnerships Manager,$29k - $108k,sales:non tech:remote,5mo
-Chainlink Labs,https://web3.career/senior-fp-a-associate-chainlink/9348,Senior FP&A Associate,$80k - $200k,senior:remote,5mo
-Chainlink Labs,https://web3.career/fp-a-director-chainlink/9347,FP&A Director,$79k - $200k,executive:remote,5mo
-Chainlink Labs,https://web3.career/financial-accountant-chainlink/9346,Financial Accountant,,accounting:finance:remote,5mo
-Chainlink Labs,https://web3.career/finance-systems-architect-chainlink/9345,Finance Systems Architect,,architecture:finance:remote,5mo
-Chainlink Labs,https://web3.career/business-applications-engineer-finance-chainlink/9344,Business Applications Engineer - Finance,,dev:finance:remote,5mo
-Chainlink Labs,https://web3.career/accounts-payable-analyst-chainlink/9343,Accounts Payable Analyst,,analyst:finance:accounting:remote,5mo
-Chainlink Labs,https://web3.career/solutions-engineer-chainlink/9342,Solutions Engineer,$80k - $170k,dev:solidity:remote,5mo
-Chainlink Labs,https://web3.career/software-development-engineer-in-test-chainlink/9341,Software Development Engineer in Test,$80k - $180k,quality assurance:dev:solidity:golang:remote,5mo
-Chainlink Labs,https://web3.career/smart-contract-auditor-chainlink/9340,Smart Contract Auditor,$60k - $110k,smart contract:solidity:golang:remote,5mo
-Chainlink Labs,https://web3.career/senior-software-engineer-ui-chainlink/9339,"Senior Software Engineer, UI",,dev:senior:design:non tech:remote,5mo
-Chainlink Labs,https://web3.career/senior-software-engineer-golang-chainlink/9338,"Senior Software Engineer, Golang",$65k - $150k,dev:golang:senior:solidity:remote,5mo
-Chainlink Labs,https://web3.career/senior-software-engineer-data-engineer-golang-chainlink/9337,"Senior Software Engineer / Data Engineer, Golang",,data science:dev:golang:senior:solidity,5mo
-Chainlink Labs,https://web3.career/senior-software-engineer-golang-typescript-chainlink/9336,Senior Software Engineer - Golang / TypeScript,$65k - $150k,dev:golang:senior:solidity:node,5mo
-Chainlink Labs,https://web3.career/senior-devops-engineer-gcp-chainlink/9335,Senior DevOps Engineer - GCP,$120k - $200k,devops:dev:senior:remote,5mo
-Chainlink Labs,https://web3.career/security-engineering-manager-chainlink/9334,Security Engineering Manager,$95k - $250k,executive:security:remote,5mo
-Chainlink Labs,https://web3.career/research-engineer-chainlink/9333,Research Engineer,$65k - $180k,dev:remote,5mo
-Chainlink Labs,https://web3.career/release-engineer-chainlink/9332,Release Engineer,$65k - $180k,dev:remote,5mo
-Chainlink Labs,https://web3.career/qa-engineer-chainlink/9331,QA Engineer,$80k - $180k,dev:quality assurance:solidity:golang:remote,5mo
-Chainlink Labs,https://web3.career/observability-engineer-chainlink/9330,Observability Engineer,$65k - $180k,dev:remote,5mo
-Chainlink Labs,https://web3.career/network-systems-admin-chainlink/9329,Network & Systems Admin,$56k - $160k,remote,5mo
-Chainlink Labs,https://web3.career/lead-software-engineer-in-test-typescript-go-chainlink/9328,Lead Software Engineer in Test - Typescript/Go,$100k - $180k,quality assurance:dev:golang:lead:solidity,5mo
-Chainlink Labs,https://web3.career/it-technical-program-manager-chainlink/9327,IT Technical Program Manager,$79k - $200k,executive:remote,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+The Block,https://web3.career/account-executive-new-business-theblockcrypto/9871,Remote,"Account Executive, New Business",$79k - $200k,executive:remote,6mo
+The Block,https://web3.career/research-intern-theblockcrypto/9870,"New York,
+United States",Research Intern,,intern:entry level,6mo
+The Block,https://web3.career/research-analyst-services-team-theblockcrypto/9869,Remote,Research Analyst - Services Team,$45k - $120k,analyst:remote,6mo
+The Block,https://web3.career/research-analyst-reports-team-theblockcrypto/9868,Remote,Research Analyst - Reports Team,$45k - $120k,analyst:remote,6mo
+The Block,https://web3.career/research-analyst-content-team-theblockcrypto/9867,Remote,Research Analyst - Content Team,$45k - $120k,analyst:remote,6mo
+The Block,https://web3.career/research-analyst-company-intelligence-team-theblockcrypto/9866,"New York,
+United States",Research Analyst - Company Intelligence Team,$40k - $120k,analyst,6mo
+The Block,https://web3.career/research-analyst-asset-research-team-theblockcrypto/9865,Remote,Research Analyst - Asset Research Team,$45k - $120k,analyst:remote,6mo
+The Block,https://web3.career/sr-product-engineer-nodejs-theblockcrypto/9864,Remote,Sr. Product Engineer (Nodejs),$60k - $155k,dev:javascript:node:senior:remote,6mo
+The Block,https://web3.career/site-reliability-engineer-theblockcrypto/9863,Remote,Site Reliability Engineer,$150k - $200k,dev:sys admin:remote,6mo
+The Block,https://web3.career/senior-product-manager-theblockcrypto/9862,Remote,Senior Product Manager,$80k - $150k,product manager:non tech:senior:remote,6mo
+The Block,https://web3.career/senior-product-engineer-theblockcrypto/9861,Remote,Senior Product Engineer,$85k - $200k,dev:senior:remote,6mo
+The Block,https://web3.career/senior-data-engineer-theblockcrypto/9860,Remote,Senior Data Engineer,$130k - $160k,data science:dev:senior:remote,6mo
+The Block,https://web3.career/security-engineer-theblockcrypto/9859,Remote,Security Engineer,$95k - $250k,dev:security:remote,6mo
+The Block,https://web3.career/qa-automation-engineer-theblockcrypto/9858,Remote,QA Automation Engineer,,dev:quality assurance:remote,6mo
+The Block,https://web3.career/product-engineer-theblockcrypto/9857,Remote,Product Engineer,$65k - $180k,dev:remote,6mo
+The Block,https://web3.career/controller-theblockcrypto/9856,Remote,Controller,,legal:remote,6mo
+The Block,https://web3.career/associate-director-business-operations-theblockcrypto/9855,Remote,"Associate Director, Business Operations",,executive:operations:remote,6mo
+The Block,https://web3.career/weekend-editor-theblockcrypto/9854,Remote,Weekend Editor,$25k - $30k,copywriting:remote,6mo
+The Block,https://web3.career/journalist-reporter-theblockcrypto/9853,Remote,Journalist / Reporter,$56k - $160k,remote,6mo
+The Block,https://web3.career/fintech-reporter-theblockcrypto/9852,Remote,Fintech Reporter,$40k - $100k,finance:remote,6mo
+Tendermint,https://web3.career/senior-project-manager-remote-tendermint/9851,"Berlin,
+Germany",Senior Project Manager - Remote,$56k - $150k,remote:project manager:non tech:senior,6mo
+Tendermint,https://web3.career/sr-engineering-manager-remote-tendermint/9850,"San Francisco,
+United States",Sr. Engineering Manager - Remote,$95k - $250k,executive:remote:senior,6mo
+Tendermint,https://web3.career/head-of-strategic-partnerships-tendermint/9849,"San Francisco,
+United States",Head of Strategic Partnerships,$40k - $150k,executive:sales:non tech,6mo
+Tendermint,https://web3.career/technical-recruiter-remote-tendermint/9848,"Berlin,
+Germany",Technical Recruiter - Remote,,remote:recruiter:non tech,6mo
+Tendermint,https://web3.career/sr-backend-engineer-tendermint/9847,"San Francisco,
+United States",Sr. Backend Engineer,$70k - $200k,backend:dev:senior,6mo
+Tendermint,https://web3.career/senior-front-end-developer-remote-tendermint/9846,Remote,Senior Front-end Developer - Remote,$22k - $120k,remote:dev:front end:senior,6mo
+Tendermint,https://web3.career/devops-sre-engineer-remote-tendermint/9845,"Berlin,
+Germany",DevOps/SRE engineer - Remote,$95k - $180k,remote:devops:dev:senior,6mo
+Tendermint,https://web3.career/blockchain-protocol-engineer-remote-tendermint/9844,"Berlin,
+Germany",Blockchain Protocol Engineer - Remote,$70k - $190k,remote:dev:blockchain,6mo
+Tendermint,https://web3.career/blockchain-engineer-remote-tendermint/9843,"Berlin,
+Germany",Blockchain Engineer - Remote,$70k - $190k,remote:dev:blockchain,6mo
+Tendermint,https://web3.career/blockchain-devops-engineer-remote-tendermint/9842,"San Francisco,
+United States",Blockchain DevOps Engineer - Remote,$95k - $180k,remote:devops:dev:blockchain,6mo
+Tendermint,https://web3.career/product-designer-remote-tendermint/9841,"Berlin,
+Germany",Product Designer - Remote,$50k - $135k,remote:design:non tech,6mo
+Tendermint,https://web3.career/front-end-web-developer-remote-tendermint/9840,"Berlin,
+Germany",Front End Web Developer - Remote,$22k - $120k,remote:dev:front end,6mo
+SwissBorg,https://web3.career/spontaneous-application-swissborg/9839,Remote,Spontaneous Application,$56k - $160k,remote,6mo
+SwissBorg,https://web3.career/senior-product-designer-remote-swissborg/9838,"Milan,
+Italy",Senior Product Designer (Remote),$50k - $135k,remote:design:non tech:senior,6mo
+SwissBorg,https://web3.career/talent-acquisition-partner-remote-swissborg/9837,"Lisbon,
+Portugal",Talent Acquisition Partner (Remote),,remote:recruiter:non tech,6mo

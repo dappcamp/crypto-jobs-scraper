@@ -1,36 +1,53 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-BitGo,https://web3.career/technical-sourcer-bitgo/13137,Technical Sourcer,$40k - $70k,recruiter:non tech,5mo
-Kraken Digital Asset Exchange,https://web3.career/senior-product-strategy-manager-kraken/13136,Senior Product Strategy Manager,$80k - $200k,senior:remote,5mo
-Paradigm,https://web3.career/finance-associate-paradigm-xyz/13135,Finance Associate,$40k - $150k,finance,5mo
-Figure,https://web3.career/senior-product-designer-figure-tech-figure/13134,"Senior Product Designer, Figure Tech",$60k - $120k,design:non tech:senior,5mo
-Figure,https://web3.career/lead-product-designer-figure/13133,Lead Product Designer,$40k - $190k,design:non tech:lead,5mo
-Crypto.com,https://web3.career/it-support-engineer-ireland-crypto-com/13132,IT Support Engineer (Ireland),$90k - $140k,dev:customer support,5mo
-Finoa GmbH,https://web3.career/backend-engineer-m-f-d-finoa/13131,Backend Engineer (m/f/d),$60k - $180k,backend:dev:remote,5mo
-Ledger,https://web3.career/hardware-engineer-ledger/13130,Hardware Engineer,,dev:hardware,5mo
-Binance,https://web3.career/knowledge-management-manager-binance/13129,Knowledge Management Manager,,,5mo
-DFINITY,https://web3.career/senior-manager-corporate-strategy-dfinity/13128,"Senior Manager, Corporate Strategy",$78k - $200k,senior,5mo
-BitGo,https://web3.career/software-engineer-data-billing-bitgo/13127,"Software Engineer, Data & Billing",$60k - $180k,dev:react:node:java,5mo
-Amun 21Shares,https://web3.career/dev-ops-engineer-amun/13126,Dev Ops Engineer,,dev:devops:react:node:vue,5mo
-Ramp,https://web3.career/partner-care-specialist-rampnetwork/13123,Partner Care Specialist,,,5mo
-Sygnum Bank AG,https://web3.career/junior-onboarding-specialist-sygnum/13122,Junior Onboarding Specialist,$45k - $56k,junior:entry level:ethereum,5mo
-ONCARE GmbH,https://web3.career/blockchain-developer-f-m-d-medical-industry-3359268-blockchain-developer-f-m-d-medical-industry/13119,Blockchain Developer (f/m/d) - Medical Industry,$50k - $120k,dev:blockchain:javascript:node:remote,5mo
-Amazon,https://web3.career/software-development-engineer-iii-aws-blockchain-amazon/13118,Software Development Engineer III - AWS Blockchain,,dev:blockchain:ethereum:java,5mo
-Gemmy,https://web3.career/co-founder-web3-social-media-gemmy/13117,Co founder Web3 Social Media,$45k - $150k,executive:social media:non tech:remote,5mo
-CANDY,https://web3.career/people-operations-coordinator-candy/13116,People Operations Coordinator,$60k - $200k,operations,5mo
-Brave,https://web3.career/security-and-cryptography-engineer-brave/13115,Security and Cryptography Engineer,$130k - $200k,dev:security:javascript:ruby:node,5mo
-wappier,https://web3.career/blockchain-product-owner-solution-architect-remote-wappier/13114,Blockchain Product Owner/Solution Architect (Remote),$115k - $175k,product manager:non tech:remote:architecture:blockchain,5mo
-Arcadia,https://web3.career/rust-blockchain-developer-arcadia/13113,Rust Blockchain Developer,$79k - $190k,dev:rust:blockchain:solidity:nft,5mo
-Bitcoin.com,https://web3.career/crypto-news-journalist-bitcoin-com/13112,Crypto News Journalist,$56k - $158k,crypto:ethereum,5mo
-Ethereum Push Notification Service,https://web3.career/rockstar-intern-ethereum-push-notification-service/13111,Rockstar Intern,$0k,intern:entry level:ethereum,5mo
-Ethereum Push Notification Service,https://web3.career/business-development-specialist-ethereum-push-notification-service/13110,Business Development Specialist,$0k,sales:non tech:ethereum,5mo
-Figment,https://web3.career/assistant-controller-figment/13109,Assistant Controller,,finance:legal,5mo
-OKEx,https://web3.career/social-media-marketing-manager-okex/13108,Social Media Marketing Manager,$28k - $100k,marketing:non tech:social media,5mo
-OKEx,https://web3.career/mobile-marketing-manager-okex/13107,Mobile Marketing Manager,,marketing:non tech:mobile,5mo
-Okcoin,https://web3.career/product-designer-okcoin/13106,Product Designer,$50k - $150k,design:non tech,5mo
-Okcoin,https://web3.career/product-designer-okcoin/13105,Product Designer,$50k - $150k,design:non tech,5mo
-Localcoin,https://web3.career/chief-financial-officer-cfo-localcoin/13104,Chief Financial Officer (CFO),$90k - $200k,finance:executive,5mo
-CoinList,https://web3.career/operations-analyst-token-sales-coinlist/13103,"Operations Analyst, Token Sales",,analyst:operations:sales:non tech:solana,5mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/headline-news-senior-editor-coindesk/13102,Headline News Senior Editor,$70k - $180k,senior:react,5mo
-Chainalysis,https://web3.career/account-executive-commercial-uk-i-chainalysis/13101,"Account Executive, Commercial, UK/I",$70k - $180k,executive,5mo
-Bitcoin Depot,https://web3.career/graphic-designer-bitcoindepot/13100,Graphic Designer,$50k - $150k,design:non tech,5mo
-Bitcoin Depot,https://web3.career/content-writer-bitcoindepot/13099,Content Writer,$13k - $45k,copywriting,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+VolumeFi,https://web3.career/defi-partnerships-manager-volumefi/13747,United States,DeFi Partnerships Manager,$79k - $140k,sales:non tech:defi:ethereum,5mo
+Foundry,https://web3.career/product-manager-blockchain-infrastructure-foundrydigital/13745,"New York,
+United States",Product Manager - Blockchain Infrastructure,$35k - $120k,product manager:non tech:blockchain,5mo
+Advanced Blockchain,https://web3.career/content-creative-advanced-blockchain-2/13743,"Berlin,
+Germany",Content Creative,$0k,copywriting:remote,5mo
+Kraken Digital Asset Exchange,https://web3.career/public-relations-associate-us-kraken/13742,Remote,Public Relations Associate - US,$25k - $120k,marketing:non tech:remote,5mo
+Localcoin,https://web3.career/director-of-sales-localcoin/13740,"Toronto,
+Canada",Director of Sales,$40k - $150k,executive:sales:non tech,5mo
+Cartesi,https://web3.career/fully-remote-blockchain-engineers-cartesi/13739,Remote,Fully Remote Blockchain Engineers,$60k - $120k,remote:blockchain:solidity:ethereum:php,5mo
+Chainlink Labs,https://web3.career/customer-success-manager-chainlink/13738,Remote,Customer Success Manager,,sales:non tech:customer support:remote,5mo
+RECUR,https://web3.career/marketing-creative-director-recur-remote-recur/13737,Remote,"Marketing Creative Director, RECUR (Remote)",$45k - $158k,remote:executive:marketing:non tech:ethereum,5mo
+RECUR,https://web3.career/marketing-creative-director-characters-entertainment-remote-recur/13736,Remote,"Marketing Creative Director, Characters/Entertainment (Remote)",$45k - $158k,remote:executive:marketing:non tech:ethereum,5mo
+Okcoin,https://web3.career/product-design-manager-okcoin/13735,"San Francisco,
+United States",Product Design Manager,,executive:design:non tech,5mo
+Okcoin,https://web3.career/product-design-manager-okcoin/13734,"Singapore,
+Singapore",Product Design Manager,,executive:design:non tech,5mo
+Okcoin,https://web3.career/product-design-manager-okcoin/13733,"Sydney,
+Australia",Product Design Manager,,executive:design:non tech,5mo
+Coinme,https://web3.career/product-manager-latin-america-coinme/13732,"Seattle,
+United States",Product Manager - Latin America,$69k - $160k,product manager:non tech,5mo
+Amun 21Shares,https://web3.career/ux-copywriter-amun/13731,"New York,
+United States",UX Copywriter,,copywriting:design:non tech,5mo
+Cere Network,https://web3.career/blockchain-engineer-cere-network/13730,Remote,Blockchain Engineer,$100k - $125k,dev:blockchain:solidity:ethereum:nft,5mo
+RECUR,https://web3.career/senior-product-manager-risk-compliance-recur/13729,"Miami,
+United States","Senior Product Manager, Risk & Compliance",,compliance:product manager:non tech:senior:ethereum,5mo
+RECUR,https://web3.career/marketing-motion-designer-recur-remote-recur/13728,Remote,"Marketing Motion Designer, RECUR (Remote)",$50k - $135k,remote:design:non tech:marketing:ethereum,5mo
+RECUR,https://web3.career/marketing-motion-designer-characters-entertainment-remote-recur/13727,Remote,"Marketing Motion Designer, Characters/Entertainment (Remote)",$50k - $135k,remote:design:non tech:marketing:ethereum,5mo
+RECUR,https://web3.career/marketing-associate-designer-recur-remote-recur/13726,Remote,"Marketing Associate Designer, RECUR (Remote)",$50k - $135k,remote:design:non tech:marketing:ethereum,5mo
+RECUR,https://web3.career/marketing-associate-designer-characters-entertainment-remote-recur/13725,Remote,"Marketing Associate Designer, Characters/Entertainment (Remote)",$50k - $135k,remote:design:non tech:marketing:ethereum,5mo
+BitGo,https://web3.career/legal-counsel-bitgo-gmbh-bitgo/13723,"Frankfurt,
+Germany",Legal Counsel (BitGo GmbH),,legal:remote,5mo
+Bitcoin Depot,https://web3.career/marketing-manager-paid-search-tampa-bitcoindepot/13722,United States,Marketing Manager – Paid Search (Tampa),$45k - $130k,marketing:non tech,5mo
+Bitcoin Depot,https://web3.career/marketing-manager-paid-search-dallas-bitcoindepot/13721,"Dallas,
+United States",Marketing Manager – Paid Search (Dallas),$45k - $130k,marketing:non tech,5mo
+Bitcoin Depot,https://web3.career/marketing-manager-paid-search-charlotte-bitcoindepot/13720,"Charlotte,
+United States",Marketing Manager – Paid Search (Charlotte),$45k - $130k,marketing:non tech,5mo
+Bitcoin Depot,https://web3.career/marketing-manager-paid-search-austin-bitcoindepot/13719,"Austin,
+United States",Marketing Manager – Paid Search (Austin),$45k - $130k,marketing:non tech,5mo
+Crypto.com,https://web3.career/technical-analyst-crypto-com/13718,"Sofia,
+Bulgaria",Technical Analyst,$40k - $120k,analyst,5mo
+block42 Blockchain Company,https://web3.career/social-media-specialist-block42/13717,Austria,Social Media Specialist,$56k - $65k,social media:non tech,5mo
+Mysten Labs,https://web3.career/software-engineer-rust-remote-mystenlabs/13716,Remote,"Software Engineer, Rust (Remote)",$70k - $180k,remote:dev:rust,5mo
+DFINITY,https://web3.career/senior-analyst-financial-markets-and-strategy-dfinity/13715,"Palo Alto,
+United States","Senior Analyst, Financial Markets and Strategy",,analyst:finance:senior,5mo
+Point Network,https://web3.career/blockchain-engineers-remote-point-network/13714,"Singapore,
+Singapore",Blockchain Engineers - Remote,$0k,remote:blockchain:solidity:rust,5mo
+0xPragma,https://web3.career/crypto-twitter-genius-0xpragma/13713,"Berlin,
+Germany",Crypto Twitter Genius,$35k - $40k,social media:non tech:crypto:nft:remote,5mo
+Spring Labs,https://web3.career/sr-software-engineer-springlabs/13710,Remote,Sr. Software Engineer,$85k - $200k,dev:senior:remote,5mo
+RECUR,https://web3.career/marketing-motion-designer-sports-remote-recur/13709,Remote,"Marketing Motion Designer, Sports (Remote)",$50k - $135k,remote:design:non tech:marketing:ethereum,5mo
+RECUR,https://web3.career/associate-designer-sports-remote-recur/13708,Remote,"Associate Designer, Sports (Remote)",$50k - $135k,remote:design:non tech:ethereum:nft,5mo
+Reality Cards,https://web3.career/growth-manager-for-nft-project-reality-cards/13707,United Kingdom,Growth Manager for NFT project,$65k - $100k,marketing:non tech:nft:ethereum,5mo

@@ -1,36 +1,62 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Coinbase,https://web3.career/senior-staff-engineer-coinbase/8222,Senior Staff Engineer,$80k - $200k,dev:senior,6mo
-Coinbase,https://web3.career/staff-product-designer-coinbase/8221,Staff Product Designer,$50k - $150k,design:non tech,6mo
-Coinbase,https://web3.career/senior-user-researcher-coinbase/8220,Senior User Researcher,$78k - $200k,senior,6mo
-Coinbase,https://web3.career/senior-product-designer-coinbase/8219,Senior Product Designer,$60k - $120k,design:non tech:senior,6mo
-Coinbase,https://web3.career/senior-manager-product-design-coinbase/8218,"Senior Manager, Product Design",$60k - $120k,design:non tech:senior,6mo
-Coinbase,https://web3.career/senior-content-designer-india-coinbase/8217,"Senior Content Designer, India",$60k - $120k,design:non tech:senior,6mo
-Coinbase,https://web3.career/product-designer-coinbase/8216,Product Designer,$50k - $150k,design:non tech,6mo
-Coinbase,https://web3.career/frontend-engineer-coinbase/8215,Frontend Engineer,$50k - $144k,dev:front end:react:react native:javascript,6mo
-Acala,https://web3.career/ux-ui-designer-acala/8214,UX/UI Designer,,design:non tech:rust,6mo
-Mint Songs,https://web3.career/blockchain-engineer-mint-songs/8213,Blockchain Engineer,$50k - $130k,dev:blockchain:react:solidity:javascript,6mo
-Aragon Association,https://web3.career/senior-full-stack-engineer-vocdoni-remote-aragon/8212,Senior Full-stack engineer (Vocdoni) - Remote,$70k - $200k,remote:dev:full stack:senior,6mo
-GSR,https://web3.career/smart-contract-engineer-solidity-gsr/8211,Smart Contract Engineer (Solidity),$72k - $200k,dev:smart contract:solidity:remote,6mo
-Kooku Recruiting Partners,https://web3.career/senior-ux-designer-kooku/8209,Senior UX-Designer,$60k - $120k,design:non tech:senior,6mo
-CoinDCX,https://web3.career/vp-product-engineering-coindcx/8208,VP - Product Engineering,$45k - $120k,executive:ruby,6mo
-CoinDCX,https://web3.career/engineering-leader-coindcx/8207,Engineering Leader,$60k - $200k,lead,6mo
-INNOPAY,https://web3.career/junior-consultant-innopay/8206,Junior Consultant,,consulting:junior:entry level,6mo
-Unocoin,https://web3.career/graphics-and-web-designing-intern-unocoin/8205,Graphics and Web Designing Intern,,intern:entry level,6mo
-Bitfinex,https://web3.career/internal-communications-ops-manager-remote-bitfinex/8204,Internal Communications Ops Manager (Remote),$56k - $160k,remote,6mo
-Motion Miracles,https://web3.career/ui-ux-designer-motionmiracles/8203,UI/UX Designer,$45k - $135k,design:non tech:javascript,6mo
-Bitfinex,https://web3.career/project-manager-europe-remote-uk-bitfinex/8202,Project Manager (Europe Remote) - UK,$56k - $150k,remote:project manager:non tech,6mo
-Bitfinex,https://web3.career/operations-assistant-remote-bitfinex/8201,Operations Assistant (Remote),$80k - $110k,remote:operations,6mo
-Interlay,https://web3.career/head-of-business-development-interlay/8200,Head of Business Development,$40k - $150k,executive:sales:non tech,6mo
-Ramp,https://web3.career/data-engineer-blockchain-product-analytics-rampnetwork/8199,Data Engineer (Blockchain Product Analytics),,stats:data science:dev:blockchain:java,6mo
-Flying Bisons,https://web3.career/frontend-developer-blockchain-flyingbisons1/8198,Frontend Developer (Blockchain),$33k - $190k,dev:front end:blockchain:web3js:react,6mo
-BOTS by RevenYOU,https://web3.career/influencer-manager-bots/8197,Influencer Manager,,,6mo
-Bitfinex,https://web3.career/blockchain-integration-specialist-remote-bitfinex/8196,Blockchain Integration Specialist (Remote),$60k - $150k,remote:blockchain:solidity:ethereum:javascript,6mo
-MakerDAO,https://web3.career/senior-engineer-oazo-makerdao/8195,Senior Engineer - Oazo,$70k - $180k,dev:senior:react:solidity:ethereum,6mo
-Blockdaemon,https://web3.career/head-of-recruiting-blockdaemon/8189,Head of Recruiting,,executive:recruiter:non tech,6mo
-Provenance Foundation,https://web3.career/digital-marketing-and-communications-manager-provenance/8188,Digital Marketing and Communications Manager,$45k - $130k,marketing:non tech,6mo
-SuperLayer,https://web3.career/head-of-marketing-superlayer/8187,Head of Marketing,$70k - $158k,executive:marketing:non tech:remote,6mo
-BitGo,https://web3.career/data-analyst-bitgo/8179,Data Analyst,,analyst:data science:javascript:scala:java,6mo
-Ledger,https://web3.career/engineering-manager-b2c-ledger/8178,Engineering Manager B2C,$130k - $150k,c:c plus plus:executive,6mo
-WOO Network,https://web3.career/devops-engineer-woonetwork/8177,DevOps Engineer,$70k - $180k,devops:dev,6mo
-Kraken Digital Asset Exchange,https://web3.career/tax-planning-controversy-manager-us-kraken/8176,Tax Planning & Controversy Manager - US,$25k - $150k,accounting,6mo
-Ledger,https://web3.career/crypto-specialist-ledger/8175,Crypto Specialist,$39k - $140k,crypto,6mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+GSR,https://web3.career/site-reliability-engineer-associate-senior-associate-singapore-gsr/8757,"Singapore,
+Singapore","Site Reliability Engineer, Associate/Senior Associate - Singapore",$150k - $200k,dev:sys admin:senior,6mo
+Kraken Digital Asset Exchange,https://web3.career/low-code-no-code-engineer-kraken/8756,Remote,Low-Code/No-Code Engineer,$65k - $180k,dev:remote,6mo
+Ripple,https://web3.career/senior-software-engineer-liquidity-ripple/8755,"Reykjavik,
+Iceland","Senior Software Engineer, Liquidity",,dev:sales:non tech:senior:java,6mo
+BitGo,https://web3.career/project-coordinator-compliance-tech-bitgo/8753,"Kota,
+India",Project Coordinator (Compliance Tech.),,compliance,6mo
+BitMEX,https://web3.career/trader-assistant-bitmex/8752,"Hong Kong,
+Hong Kong",Trader Assistant,$31k - $37k,trader,6mo
+Kraken Digital Asset Exchange,https://web3.career/executive-assistant-kraken/8751,United States,Executive Assistant,$70k - $180k,executive,6mo
+GSR,https://web3.career/senior-recruiter-associate-vice-president-gsr/8750,"London,
+United Kingdom","Senior Recruiter, Associate / Vice President",$40k - $70k,recruiter:non tech:senior,6mo
+Chainalysis,https://web3.career/instructional-designer-producer-chainalysis/8749,"New York,
+United States",Instructional Designer & Producer,$50k - $150k,design:non tech,6mo
+Boson Protocol,https://web3.career/community-manager-projects-bosonprotocol/8748,"London,
+United Kingdom",Community Manager - Projects,$35k - $101k,community manager:non tech:nft,6mo
+GSR,https://web3.career/blockchain-infrastructure-reliability-engineer-gsr/8747,Remote,Blockchain Infrastructure / Reliability Engineer,,dev:sys admin:blockchain:remote,6mo
+Localcoin,https://web3.career/data-engineer-localcoin/8745,"Toronto,
+Canada",Data Engineer,$70k - $160k,data science:dev,6mo
+Binance,https://web3.career/finance-business-partner-binance/8744,"Taipei,
+Taiwan",Finance Business Partner,$40k - $150k,finance,6mo
+Ripple,https://web3.career/staff-software-engineer-liquidity-finance-trading-ripple/8743,"Reykjavik,
+Iceland","Staff Software Engineer, Liquidity (Finance/Trading)",,dev:finance:sales:non tech:java,6mo
+Ripple,https://web3.career/business-development-manager-ripplex-ripple/8742,"London,
+United Kingdom","Business Development Manager, RippleX",$26k - $140k,sales:non tech,6mo
+Ripple,https://web3.career/senior-data-engineer-ripple/8728,"San Francisco,
+United States",Senior Data Engineer,$130k - $160k,data science:dev:senior:java,6mo
+Localcoin,https://web3.career/administrative-assistant-localcoin/8727,"Toronto,
+Canada",Administrative Assistant,,,6mo
+Newton,https://web3.career/senior-backend-developer-newton/8726,"Vancouver,
+Canada",Senior Backend Developer,$70k - $200k,backend:dev:senior:node:java,6mo
+Localcoin,https://web3.career/cash-reconciliation-analyst-localcoin/8725,"Toronto,
+Canada",Cash Reconciliation Analyst,$40k - $120k,analyst,6mo
+Localcoin,https://web3.career/operations-manager-localcoin/8724,"Toronto,
+Canada",Operations Manager,$60k - $200k,operations,6mo
+Ripple,https://web3.career/staff-software-engineer-liquidity-finance-trading-ripple/8723,"London,
+United Kingdom","Staff Software Engineer, Liquidity (Finance/Trading)",,dev:finance:sales:non tech:java,6mo
+Ripple,https://web3.career/business-development-manager-ripplex-ripple/8722,,"Business Development Manager, RippleX",$26k - $140k,sales:non tech,6mo
+Clain,https://web3.career/qa-automation-engineer-clain/8721,"Lima,
+Peru",QA Automation Engineer,$50k - $150k,dev:quality assurance,6mo
+LATOKEN,https://web3.career/developer-backend-payment-services-latoken/8720,"London,
+United Kingdom",Developer Backend (Payment services),$65k - $180k,backend:dev:nft:node:java,6mo
+Nexo,https://web3.career/risk-analyst-nexo/8719,"Sofia,
+Bulgaria",Risk Analyst,$40k - $120k,analyst,6mo
+LATOKEN,https://web3.career/social-media-manager-and-designer-latoken/8718,Remote,Social Media Manager and Designer,,design:non tech:social media:remote,6mo
+Nexo,https://web3.career/java-developer-nexo/8717,"Sofia,
+Bulgaria",Java Developer,$33k - $145k,dev:java:node:php,6mo
+DEX Labs,https://web3.career/rust-engineer-dex-labs/8716,"New York,
+United States",Rust Engineer,$80k - $200k,dev:rust:solidity,6mo
+Interchain,https://web3.career/grants-engineer-interchain-gmbh/8715,"Berlin,
+Germany",Grants Engineer,$69k - $160k,dev:javascript:rust,6mo
+Symbridge,https://web3.career/full-stack-engineer-symbridge/8714,Greenwich US,Full Stack Engineer,$65k - $180k,dev:full stack:javascript:node,6mo
+LATOKEN,https://web3.career/head-of-analytics-latoken/8713,"Moscow,
+Russia",Head of Analytics,$50k - $130k,executive:stats,6mo
+Makara,https://web3.career/principal-designer-makara/8712,"Seattle,
+United States",Principal Designer,,design:non tech:executive,6mo
+LATOKEN,https://web3.career/frontend-team-lead-c-react-js-latoken/8711,"London,
+United Kingdom","Frontend Team Lead (C#, React, JS)",,c:c sharp:c plus plus:javascript:front end,6mo
+Emurgo,https://web3.career/backend-engineer-rust-emurgo/8710,Remote,Backend Engineer (Rust),$50k - $140k,backend:dev:rust:node:remote,6mo
+Coinomi,https://web3.career/blockchain-software-engineer-coinomi/8709,Thành phố Hồ Chí Minh VN,Blockchain Software Engineer,$50k - $120k,dev:blockchain:javascript:java,6mo
+Infinite Capital,https://web3.career/cryptocurrency-technical-analyst-infinite-capital/8708,US,Cryptocurrency Technical Analyst,$160k - $240k,analyst:crypto:solidity:nft,6mo

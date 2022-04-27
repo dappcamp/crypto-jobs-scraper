@@ -1,36 +1,56 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-BitMEX,https://web3.career/product-designer-systems-bitmex/190,Product Designer - Systems,$50k - $150k,design:non tech,7mo
-BitMEX,https://web3.career/product-designer-systems-bitmex/189,Product Designer - Systems,$50k - $150k,design:non tech,7mo
-BitMEX,https://web3.career/quantitative-developer-trading-engine-bitmex/188,Quantitative Developer - Trading Engine,$33k - $140k,dev:java,7mo
-BitMEX,https://web3.career/quantitative-developer-trading-engine-bitmex/187,Quantitative Developer - Trading Engine,$33k - $140k,dev:java,7mo
-BitMEX,https://web3.career/python-developer-blockchain-wallets-bitmex/186,Python Developer - Blockchain & Wallets,,dev:python:blockchain,7mo
-BitMEX,https://web3.career/security-penetration-tester-bitmex/185,Security Penetration Tester,$95k - $200k,security,7mo
-BitMEX,https://web3.career/security-penetration-tester-bitmex/184,Security Penetration Tester,$95k - $200k,security,7mo
-BitMEX,https://web3.career/security-assurance-analyst-bitmex/183,Security Assurance Analyst,$60k - $185k,analyst:security,7mo
-BitMEX,https://web3.career/detection-response-engineer-bitmex/182,Detection & Response Engineer,$33k - $87k,dev:ruby:golang,7mo
-BitMEX,https://web3.career/detection-response-engineer-bitmex/181,Detection & Response Engineer,$33k - $87k,dev:ruby:golang,7mo
-BitMEX,https://web3.career/trader-bitmex/180,Trader,$31k - $37k,trader,7mo
-BitMEX,https://web3.career/senior-quant-trader-bitmex/179,Senior Quant Trader,,senior:trader,7mo
-BitMEX,https://web3.career/senior-risk-manager-bitmex/178,Senior Risk Manager,$78k - $200k,senior,7mo
-BitMEX,https://web3.career/senior-software-engineer-digital-technology-bitmex/177,Senior Software Engineer - Digital Technology,$70k - $180k,dev:senior:react,7mo
-BitMEX,https://web3.career/senior-software-engineer-digital-technology-bitmex/176,Senior Software Engineer - Digital Technology,$70k - $180k,dev:senior:react,7mo
-BitMEX,https://web3.career/trading-applications-product-manager-web-mobile-bitmex/175,Trading Applications Product Manager - Web/Mobile,,mobile:product manager:non tech,7mo
-BitMEX,https://web3.career/product-manager-web-mobile-bitmex/174,Product Manager - Web/Mobile,,mobile:product manager:non tech,7mo
-BitMEX,https://web3.career/product-manager-trading-app-web-mobile-bitmex/173,Product Manager - Trading App (Web/Mobile),,mobile:product manager:non tech,7mo
-BitMEX,https://web3.career/product-manager-trading-api-bitmex/172,Product Manager - Trading API,,api:product manager:non tech,7mo
-BitMEX,https://web3.career/product-manager-custody-integration-bitmex/171,Product Manager - Custody Integration,$69k - $160k,product manager:non tech,7mo
-BitMEX,https://web3.career/business-manager-trading-platform-bitmex/170,Business Manager - Trading Platform,$50k - $150k,project manager:non tech,7mo
-BitMEX,https://web3.career/compliance-operations-specialist-bitmex/169,Compliance Operations Specialist,,compliance:operations,7mo
-BitMEX,https://web3.career/client-due-diligence-operations-analyst-bitmex/168,Client Due Diligence Operations Analyst,,analyst:operations,7mo
-BitMEX,https://web3.career/sports-esports-sponsorships-manager-bitmex/167,Sports & eSports Sponsorships Manager,$80k - $120k,esports,7mo
-BitMEX,https://web3.career/sports-esports-sponsorships-manager-bitmex/166,Sports & eSports Sponsorships Manager,$80k - $120k,esports,7mo
-BitMEX,https://web3.career/social-media-manager-bitmex/165,Social Media Manager,$33k - $85k,social media:non tech,7mo
-BitMEX,https://web3.career/growth-marketing-manager-bitmex/164,Growth Marketing Manager,$45k - $130k,marketing:non tech,7mo
-BitMEX,https://web3.career/growth-marketing-manager-bitmex/163,Growth Marketing Manager,$25k - $120k,marketing:non tech:remote,7mo
-BitMEX,https://web3.career/digital-marketing-content-writer-bitmex/162,Digital Marketing Content Writer,$25k - $96k,copywriting:marketing:non tech,7mo
-BitMEX,https://web3.career/digital-graphics-designer-bitmex/161,Digital Graphics Designer,$50k - $150k,design:non tech,7mo
-BitMEX,https://web3.career/cx-designer-bitmex/160,CX Designer,$50k - $150k,design:non tech,7mo
-BitMEX,https://web3.career/campaign-manager-bitmex/159,Campaign Manager,$45k - $130k,marketing:non tech,7mo
-BitMEX,https://web3.career/brand-manager-bitmex/158,Brand Manager,$45k - $130k,marketing:non tech,7mo
-BitMEX,https://web3.career/brand-manager-bitmex/157,Brand Manager,$45k - $130k,marketing:non tech,7mo
-BitMEX,https://web3.career/it-support-engineer-tier-3-bitmex/156,IT Support Engineer (Tier 3),$90k - $140k,dev:customer support,7mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+OpenSea,https://web3.career/program-manager-legal-opensea/817,Remote,"Program Manager, Legal",,legal:executive:remote,7mo
+StageOne,https://web3.career/graphic-designer-stageone/816,"Austin,
+United States",Graphic Designer,$50k - $150k,design:non tech,7mo
+Revolut,https://web3.career/senior-lead-blockchain-software-engineer-solidity-python-java-russia-remotely-revolut/815,"Moscow,
+Russia",Senior/Lead Blockchain Software Engineer (Solidity & Python/Java) - Russia Remotely,$30k - $180k,dev:java:lead:python:senior,7mo
+Axoni,https://web3.career/sr-network-engineer-axoni/813,Remote,Sr. Network Engineer,$85k - $200k,dev:senior:remote,7mo
+Akash Network,https://web3.career/technical-grant-manager-akashnetwork/812,Remote,Technical Grant Manager,$40k - $101k,community manager:non tech:remote,7mo
+SwissBorg,https://web3.career/payments-product-operations-specialist-swissborg/811,"Lisbon,
+Portugal",Payments Product Operations Specialist,$60k - $200k,operations,7mo
+CoinGecko,https://web3.career/digital-marketing-associate-l1-coin-gecko/810,"Selangor,
+Malaysia",Digital Marketing Associate (L1),$45k - $130k,marketing:non tech,7mo
+Tendermint,https://web3.career/customer-support-agent-tendermint/809,"Berlin,
+Germany",Customer Support Agent,$40k - $80k,customer support,7mo
+StageOne,https://web3.career/product-manager-blockchain-products-and-games-stageone/808,"Austin,
+United States","Product Manager, Blockchain Products and Games",$35k - $120k,product manager:non tech:blockchain,7mo
+Metaview Entertainment,https://web3.career/senior-frontend-engineer-metaviewentertainment/807,"Los Angeles,
+United States",Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:javascript,7mo
+CoinGecko,https://web3.career/ui-ux-designer-coin-gecko/806,"Selangor,
+Malaysia",UI/UX Designer,$45k - $135k,design:non tech:javascript,7mo
+Binance,https://web3.career/operations-intern-binance/805,Asia,Operations Intern,,intern:entry level:operations,7mo
+SwissBorg,https://web3.career/payments-officer-swissborg/804,"Lisbon,
+Portugal",Payments Officer,,finance:legal,7mo
+The Block,https://web3.career/data-analyst-data-research-team-theblockcrypto/803,Remote,Data Analyst - Data Research Team,$45k - $120k,analyst:data science:remote,7mo
+CoinGecko,https://web3.career/internship-product-coin-gecko/802,"Selangor,
+Malaysia",Internship (Product),,intern:entry level,7mo
+CoinGecko,https://web3.career/operations-associate-coin-gecko/801,"Selangor,
+Malaysia",Operations Associate,$60k - $200k,operations,7mo
+Islands,https://web3.career/crypto-engineer-islands/800,Remote,Crypto Engineer,$56k - $110k,dev:crypto:ethereum:remote,7mo
+Chainlink Labs,https://web3.career/tax-manager-international-tax-chainlink/799,Remote,"Tax Manager, International Tax",$11k - $25k,accounting:remote,7mo
+CoinGecko,https://web3.career/internship-market-research-coin-gecko/798,"Selangor,
+Malaysia",Internship (Market Research),$24k - $48k,intern:entry level:marketing:non tech,7mo
+CoinGecko,https://web3.career/senior-software-engineer-l3-coin-gecko/797,Remote,Senior Software Engineer (L3),$70k - $180k,dev:senior:react:solidity:ethereum,7mo
+Binance,https://web3.career/senior-multimedia-creative-designer-binance/796,"Singapore,
+Singapore",Senior Multimedia Creative Designer,$60k - $120k,design:non tech:senior,7mo
+CoinGecko,https://web3.career/mobile-lead-coin-gecko/795,Remote,Mobile Lead,,lead:mobile:react:react native:solidity,7mo
+Xpansiv,https://web3.career/product-manager-xpansiv-20/789,Remote,Product Manager,,product manager:non tech:react:scala:remote,7mo
+Connext,https://web3.career/growth-marketing-manager-connext-network/788,Remote,Growth Marketing Manager,$48k - $120k,marketing:non tech:ethereum:remote,7mo
+Vauld,https://web3.career/senior-ux-designer-vauld/787,"Bengaluru,
+India",Senior UX Designer,$60k - $120k,design:non tech:senior,7mo
+Kraken Digital Asset Exchange,https://web3.career/content-writer-growth-marketing-kraken/785,Remote,Content Writer - Growth Marketing,$25k - $96k,copywriting:marketing:non tech:remote,7mo
+SwissBorg,https://web3.career/accountant-remote-swissborg/784,Luxembourg,Accountant (Remote),$11k - $25k,remote:accounting,7mo
+Binance,https://web3.career/product-marketing-manager-binance/782,"Singapore,
+Singapore",Product Marketing Manager,$45k - $130k,marketing:non tech,7mo
+Binance,https://web3.career/business-development-manager-binance/781,"Singapore,
+Singapore",Business Development Manager,$26k - $140k,sales:non tech,7mo
+Binance,https://web3.career/community-manager-binance/780,"Singapore,
+Singapore",Community Manager,$40k - $100k,community manager:non tech,7mo
+The Block,https://web3.career/senior-ux-designer-theblockcrypto/779,Remote,Senior UX Designer,$60k - $120k,design:non tech:senior:remote,7mo
+CoinGecko,https://web3.career/software-engineer-devops-coin-gecko/778,Remote,Software Engineer (DevOps),$95k - $180k,devops:dev:remote,7mo
+StageOne,https://web3.career/ui-ux-designer-stageone/777,"Austin,
+United States",UI/UX Designer,$50k - $150k,design:non tech,7mo
+CoinGecko,https://web3.career/internship-creative-producer-coin-gecko/776,"Selangor,
+Malaysia",Internship (Creative Producer),,intern:entry level,7mo
+Ledger,https://web3.career/sdk-software-engineer-ledger-live-ledger/775,"Paris,
+France",SDK Software Engineer - Ledger Live,$60k - $180k,dev,7mo

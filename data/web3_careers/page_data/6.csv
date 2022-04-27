@@ -1,36 +1,57 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Bit Hotel,https://web3.career/game-developer-nft-play-to-earn-game-bit-hotel/26357,Game Developer | NFT Play-to-Earn Game,$60k - $100k,dev:game dev:nft,2d
-Nansen.ai,https://web3.career/vp-of-operations-operations-nansen/26356,VP of Operations (Operations),$150k - $230k,operations:executive,2d
-SupraOracles,https://web3.career/qa-engineer-ecosystem-supraoracles/26355,QA Engineer - Ecosystem,$40k - $150k,dev:quality assurance:javascript:node:rust,2d
-Sperax,https://web3.career/frontend-engineer-remote-sperax/26354,Frontend Engineer (Remote),$30k - $140k,remote:dev:front end,2d
-Rarible,https://web3.career/legal-counsel-rarible/26353,Legal Counsel,,legal:remote:nft,2d
-Injective Labs,https://web3.career/hr-generalist-injectivelabs/26352,HR Generalist,$60k - $120k,hr:non tech:remote,2d
-SwissBorg,https://web3.career/gaming-guild-illustrator-graphic-designer-remote-swissborg/26351,Gaming Guild Illustrator/graphic designer (Remote),$50k - $150k,remote:design:non tech:game dev:illustrator,2d
-SwissBorg,https://web3.career/gaming-guild-business-developer-remote-swissborg/26350,Gaming Guild Business developer (Remote),$70k - $200k,remote:dev:game dev,2d
-SwissBorg,https://web3.career/gaming-guild-happiness-manager-remote-swissborg/26349,Gaming Guild Happiness Manager (Remote),,remote:game dev:customer support,2d
-Qubit9 GmbH,https://web3.career/senior-data-engineer-m-f-d-qubit9/26348,Senior Data Engineer m/f/d,$130k - $160k,data science:dev:senior,2d
-Uniswap Labs,https://web3.career/financial-controller-uniswaplabs/26345,Financial Controller,,legal:finance,2d
-SwissBorg,https://web3.career/gaming-guild-product-manager-remote-swissborg/26344,Gaming Guild Product manager (Remote),$110k - $160k,remote:game dev:product manager:non tech,2d
-SwissBorg,https://web3.career/gaming-guild-growth-hacker-remote-swissborg/26343,Gaming Guild Growth hacker (Remote),$40k - $65k,remote:game dev:marketing:non tech,2d
-Gate.io,https://web3.career/bd-manager-gamefi-gate-io/26342,BD Manager（GameFi）,$55k - $150k,nft,2d
-Chainalysis,https://web3.career/public-sector-training-manager-emea-chainalysis/26341,"Public Sector Training Manager, EMEA",,education,2d
-Groma,https://web3.career/leasing-agent-groma/26340,Leasing Agent,$50k - $150k,,2d
-Voodoo,https://web3.career/lead-influence-marketing-manager-voodoo/26339,Lead Influence Marketing Manager,$50k - $120k,lead:marketing:non tech,2d
-Immutable,https://web3.career/marketing-lead-new-games-immutable/26338,Marketing Lead (New Games),$50k - $120k,lead:marketing:non tech:remote:ethereum,2d
-Binance,https://web3.career/content-writer-academy-binance/26337,Content Writer - Academy,$25k - $105k,copywriting:non tech:remote,2d
-Optimism,https://web3.career/partnerships-manager-exchanges-and-wallets-optimism/26336,"Partnerships Manager, Exchanges and Wallets",$29k - $43k,sales:non tech:ethereum,2d
-SwissBorg,https://web3.career/junior-product-designer-swissborg/26335,Junior product designer,,design:non tech:junior:entry level,2d
-Chainalysis,https://web3.career/senior-data-scientist-chainalysis/26333,Senior Data Scientist,$130k - $160k,data science:senior,2d
-Binance,https://web3.career/pr-director-public-affairs-brazil-binance/26332,PR Director - Public Affairs (Brazil),$70k - $158k,marketing:non tech:executive,2d
-SwissBorg,https://web3.career/business-developer-remote-swissborg/26331,Business developer (Remote),$70k - $180k,remote:dev,2d
-Binance,https://web3.career/bd-manager-defi-financial-services-bnb-chain-binance/26330,"BD Manager, DeFi & Financial Services - BNB Chain",$60k - $175k,finance:defi,2d
-SwissBorg,https://web3.career/xborg-illustrator-graphic-designer-swissborg/26329,XBorg illustrator/graphic designer,$65k - $80k,design:non tech:illustrator:nft,2d
-Rarible,https://web3.career/head-of-events-rarible/26328,Head of Events,$79k - $180k,executive:remote:nft,2d
-Binance,https://web3.career/hr-operations-intern-binance/26327,HR Operations Intern,,hr:non tech:intern:entry level:operations,2d
-Immutable,https://web3.career/product-marketing-lead-guild-of-guardians-immutable/26326,Product Marketing Lead (Guild of Guardians),$50k - $120k,lead:marketing:non tech:ethereum,2d
-Crystal Blockchain Analytics,https://web3.career/directory-researcher-remote-crystal/26325,Directory Researcher (Remote),$56k - $160k,remote,2d
-Wintermute,https://web3.career/trading-devops-engineer-wintermute-trading/26324,Trading DevOps Engineer,$60k - $180k,devops:dev,2d
-Polygon,https://web3.career/email-marketer-remote-polygon/26323,Email Marketer (REMOTE),$25k - $120k,remote:marketing:non tech:ethereum,2d
-Polygon,https://web3.career/developer-advocate-europe-remote-polygon/26322,"Developer Advocate, Europe (REMOTE)",$65k - $150k,remote:dev:ethereum,2d
-Polygon,https://web3.career/associate-institutional-marketing-polygon/26321,"Associate, Institutional Marketing",$25k - $120k,marketing:non tech:remote:ethereum,2d
-Cake DeFi,https://web3.career/head-of-brand-communications-cake-defi-1/26320,Head of Brand & Communications,$70k - $158k,executive:marketing:non tech,2d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Crypto.com,https://web3.career/blockchain-security-engineer-backend-javascript-sg-crypto/26928,"Singapore,
+Singapore",Blockchain Security Engineer (Backend) - Javascript (SG),$60k - $140k,backend:dev:javascript:security:blockchain,1d
+Crypto.com,https://web3.career/product-manager-defi-crypto/26927,"Singapore,
+Singapore",Product Manager - DeFi,$100k - $175k,product manager:non tech:defi,1d
+NEAR,https://web3.career/community-manager-developer-relations-near/26926,"San Francisco,
+United States","Community Manager, Developer Relations",$20k - $40k,community manager:non tech:customer support:dev,1d
+CoinList,https://web3.career/senior-application-security-engineer-coinlist/26925,"San Francisco,
+United States",Senior Application Security Engineer,$95k - $250k,dev:security:senior:solana:ruby,1d
+CoinList,https://web3.career/operations-analyst-lending-coinlist/26924,"San Francisco,
+United States","Operations Analyst, Lending",,analyst:operations:solana,1d
+CANDY,https://web3.career/senior-graphic-designer-creative-candy/26922,"New York,
+United States",Senior Graphic Designer (Creative),$60k - $120k,design:non tech:senior:nft,1d
+CoinList,https://web3.career/data-engineer-coinlist/26921,"San Francisco,
+United States",Data Engineer,,data science:dev:solana,1d
+Okcoin,https://web3.career/social-media-manager-okcoin/26920,"San Francisco,
+United States",Social Media Manager,$33k - $85k,social media:non tech,1d
+Data Mynt,https://web3.career/crypto-payments-enterprise-sales-development-rep-cryptopayments_/26919,Mexico,Crypto Payments Enterprise Sales Development Rep,$30k - $60k,sales:non tech:crypto,1d
+Autonomous,https://web3.career/growth-marketing-manager-blockchain-metaverse-product-autonomousdotai/26918,"Ho Chi Minh City,
+Vietnam",Growth Marketing Manager (Blockchain Metaverse Product),$40k - $75k,marketing:non tech:metaverse:blockchain:nft,1d
+Data Mynt,https://web3.career/blockchain-developer-cryptopayments_/26917,United States,Blockchain Developer,$90k - $140k,dev:blockchain:solidity:rust,1d
+The Block,https://web3.career/strategic-business-development-associate-theblockcrypto/26916,Remote,Strategic Business Development Associate,$29k - $108k,sales:non tech:remote,1d
+Coinsquare,https://web3.career/data-engineer-coinsquare/26915,"Toronto,
+Canada",Data Engineer,,data science:dev:ethereum,1d
+Solana Foundation,https://web3.career/grants-operations-manager-solanafoundation/26914,,Grants Operations Manager,,operations:solana,1d
+Laser Wallet,https://web3.career/ui-ux-designer-laser-wallet/26913,Remote,UI / UX DESIGNER,$40k - $80k,design:non tech:remote:crypto:mobile,1d
+Amun 21Shares,https://web3.career/associate-product-designer-amun/26912,"New York,
+United States",Associate Product Designer,$50k - $150k,design:non tech,1d
+SwissBorg,https://web3.career/growth-hacker-coin-thematics-remote-swissborg/26911,Remote,Growth Hacker - Coin & Thematics (Remote),$25k - $120k,remote:marketing:non tech,1d
+Vauld,https://web3.career/principal-engineer-mobile-vauld/26910,"Bengaluru,
+India",Principal Engineer - Mobile,,dev:mobile:executive,1d
+CoinFlip,https://web3.career/principle-data-scientist-digital-products-coinflip/26909,"Chicago,
+United States",Principle Data Scientist - Digital Products,$50k - $150k,data science,1d
+CoinFlip,https://web3.career/principal-data-scientist-pricing-marketing-coinflip/26908,"Chicago,
+United States",Principal Data Scientist - Pricing & Marketing,,data science:marketing:non tech:executive,1d
+Coin Metrics,https://web3.career/sr-index-quantitative-analyst-coinmetrics/26907,"Chicago,
+United States",SR. INDEX QUANTITATIVE ANALYST,$150k - $185k,analyst:senior,2d
+Polygon,https://web3.career/product-strategy-lead-web-experience-polygon/26906,Any,Product Strategy Lead - Web Experience,$56k - $118k,lead:remote:ethereum,2d
+Polygon,https://web3.career/art-director-3d-polygon/26905,APAC,Art Director - 3D,,vfx:non tech:executive:ethereum,2d
+Chainalysis,https://web3.career/field-marketing-manager-dach-chainalysis/26903,"Berlin,
+Germany","Field Marketing Manager, DACH",$25k - $120k,marketing:non tech:remote,2d
+OKX,https://web3.career/senior-product-manager-payment-okx/26902,"Singapore,
+Singapore",Senior Product Manager-Payment,$80k - $150k,product manager:non tech:senior,2d
+WOO Network,https://web3.career/accounting-payroll-specialist-woonetwork/26901,"Warsaw,
+Poland",Accounting & Payroll Specialist,$25k - $150k,accounting,2d
+Secfi,https://web3.career/investment-manager-secfi/26900,Remote,Investment Manager,$40k - $175k,finance:remote,2d
+Polygon,https://web3.career/country-manager-_-growth-and-marketing-canada-polygon/26899,Canada,Country Manager _ Growth and Marketing : Canada,$48k - $120k,marketing:non tech:ethereum,2d
+Polygon,https://web3.career/country-manager-_-growth-marketing-uae-polygon/26898,UAE,Country Manager _ Growth & Marketing (UAE),$48k - $120k,marketing:non tech:ethereum,2d
+Polygon,https://web3.career/country-manager-_-growth-marketing-australia-polygon/26897,Australia,Country Manager _ Growth & Marketing (Australia),$48k - $120k,marketing:non tech:ethereum,2d
+Polygon,https://web3.career/country-manager-_-growth-marketing-brazil-polygon/26896,Brazil,Country Manager _ Growth & Marketing : Brazil,$48k - $120k,marketing:non tech:ethereum,2d
+Polygon,https://web3.career/country-manager-_-growth-marketing-argentina-polygon/26895,Argentina,Country Manager _ Growth & Marketing : Argentina,$48k - $120k,marketing:non tech:ethereum,2d
+Parity Technologies,https://web3.career/devsecops-lead-parity/26894,"Berlin,
+Germany",DevSecOps Lead,$95k - $200k,lead:remote,2d
+Gro,https://web3.career/frontend-engineering-gro/26893,"London,
+United Kingdom",Frontend [Engineering],$36k - $125k,front end:web3js:react:ethereum,2d
+Voodoo,https://web3.career/senior-unity-developer-hyper-casual-games-voodoo/26892,"Bucharest,
+Romania",Senior Unity Developer - Hyper Casual Games,$80k - $200k,dev:senior,2d

@@ -1,36 +1,57 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-WOO Network,https://web3.career/global-business-development-woonetwork/13298,Global Business Development,$26k - $140k,sales:non tech,5mo
-Crypto.com,https://web3.career/cards-portfolio-manager-crypto-com/13297,Cards Portfolio Manager,$120k - $225k,finance:nft,5mo
-OKEx,https://web3.career/seo-copywriter-russian-okex/13296,SEO Copywriter (Russian),,copywriting:seo:non tech,5mo
-Dept,https://web3.career/fullstack-engineer-crypto-argentina-remote-dept/13293,Fullstack Engineer Crypto- Argentina Remote,$70k - $200k,remote:dev:full stack:crypto:react,5mo
-VolumeFi,https://web3.career/distributed-computing-engineer-volume-finance/13292,Distributed Computing Engineer,$63k - $160k,dev:solidity:ethereum:golang:rust,5mo
-Eco,https://web3.career/growth-operations-associate-econetwork/13291,Growth & Operations Associate,,marketing:non tech:operations:remote,5mo
-Eco,https://web3.career/user-acquisition-lead-econetwork/13290,User Acquisition Lead,$50k - $120k,lead:marketing:non tech:remote,5mo
-BitGo,https://web3.career/associate-institutional-sales-emea-bitgo/13289,Associate - Institutional Sales (EMEA),$26k - $140k,sales:non tech,5mo
-Alchemy,https://web3.career/product-manager-alchemy/13288,Product Manager,$69k - $160k,product manager:non tech,5mo
-Tron,https://web3.career/head-of-compliance-rainberry/13287,Head of Compliance,,compliance:executive,5mo
-Tron,https://web3.career/compliance-manager-rainberry/13286,Compliance Manager,,compliance,5mo
-BitGo,https://web3.career/control-room-marketing-compliance-bitgo/13285,Control Room & Marketing Compliance,,compliance:marketing:non tech,5mo
-Figure,https://web3.career/staff-front-end-engineer-growth-tech-figure/13284,"Staff Front-End Engineer, Growth Tech",,dev:front end:marketing:non tech:react,5mo
-Sygnum Bank AG,https://web3.career/digital-assets-operations-team-leader-singapore-sygnum/13282,"Digital Assets Operations Team Leader, Singapore",,finance:lead:operations:ethereum,5mo
-Poloniex Crypto Exchange,https://web3.career/software-engineer-ii-tools-team-poloniex-crypto-exchange/13281,"Software Engineer II, Tools team",$0k,dev:react:javascript:node:php,5mo
-IOTA Foundation,https://web3.career/mobile-app-developer-android-and-or-ios-firefly-iota/13280,Mobile App Developer (Android and/or iOS) - Firefly,,android:mobile:dev:ios:react,5mo
-Optimism,https://web3.career/senior-technical-product-manager-optimism/13279,Senior Technical Product Manager,$80k - $150k,product manager:non tech:senior:ethereum:remote,5mo
-Binance,https://web3.career/lead-java-engineer-binance/13278,Lead Java Engineer,$30k - $180k,dev:java:lead,5mo
-FTX US,https://web3.career/institutional-account-executive-ftxus/13277,Institutional Account Executive,$70k - $180k,executive,5mo
-FTX US,https://web3.career/institutional-account-executive-ftxus/13276,Institutional Account Executive,$70k - $180k,executive,5mo
-RECUR,https://web3.career/sr-manager-finance-remote-recur/13275,"Sr. Manager, Finance (Remote)",,remote:finance:senior,5mo
-Okcoin,https://web3.career/recovery-specialist-loss-risk-prevention-okcoin/13274,"Recovery Specialist, Loss & Risk Prevention",,,5mo
-Kava Labs,https://web3.career/director-of-marketing-kava/13273,Director of Marketing,$70k - $158k,executive:marketing:non tech,5mo
-Idle Finance,https://web3.career/solidity-developer-idle-finance-1/13272,Solidity Developer,$48k - $128k,dev:solidity,5mo
-Dept,https://web3.career/fullstack-engineer-crypto-croatia-remote-dept/13271,Fullstack Engineer Crypto - Croatia Remote,$70k - $200k,remote:dev:full stack:crypto:react,5mo
-Binance,https://web3.career/localization-qa-specialist-binance/13270,Localization QA Specialist,,quality assurance:remote,5mo
-Optimism,https://web3.career/recruiter-optimism/13267,Recruiter,,recruiter:non tech:ethereum:remote,5mo
-Binance,https://web3.career/java-developer-payment-philippines-binance/13266,Java Developer - Payment (Philippines),$33k - $140k,dev:java,5mo
-Optimism,https://web3.career/integrations-engineer-optimism/13265,Integrations Engineer,$63k - $160k,dev:solidity:ethereum:javascript:remote,5mo
-Binance,https://web3.career/java-developer-dubai-binance/13264,Java Developer (Dubai),$33k - $140k,dev:java,5mo
-Bitwise Asset Management,https://web3.career/director-of-etf-etp-capital-markets-bitwiseinvestments/13263,Director of ETF & ETP Capital Markets,$90k - $200k,executive:finance,5mo
-Bitwise Asset Management,https://web3.career/director-of-etf-etp-capital-markets-bitwiseinvestments/13262,Director of ETF & ETP Capital Markets,$40k - $225k,executive:finance:remote,5mo
-Bitwise Asset Management,https://web3.career/director-of-etf-etp-capital-markets-bitwiseinvestments/13261,Director of ETF & ETP Capital Markets,$90k - $200k,executive:finance,5mo
-Holaplex,https://web3.career/brand-strategist-holaplex/13260,Brand Strategist,$55k - $140k,marketing:non tech:nft:remote,5mo
-RECUR,https://web3.career/senior-game-designer-remote-recur/13258,Senior Game Designer (Remote),$50k - $135k,remote:design:non tech:game dev:senior,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Brave,https://web3.career/research-engineer-brave/13974,"London,
+United Kingdom",Research Engineer,$75k - $190k,dev:rust,5mo
+ELONGATE,https://web3.career/blockchain-developer-elongate-1/13973,United Kingdom,Blockchain Developer,$0k,dev:blockchain:web3js:solidity:php,5mo
+Parity Technologies,https://web3.career/rust-core-developer-solidity-compiler-parity/13969,"Berlin,
+Germany",Rust Core Developer - Solidity Compiler,$80k - $200k,dev:rust:solidity:ethereum:remote,5mo
+Parity Technologies,https://web3.career/rust-core-developer-smart-contract-platform-parity/13968,"Berlin,
+Germany",Rust Core Developer - Smart Contract Platform,$80k - $200k,dev:rust:smart contract:ethereum:remote,5mo
+MoonPay,https://web3.career/analyst-ceo-office-moonpay/13967,Remote,"Analyst, CEO Office",,analyst:executive:remote,5mo
+BlockFi,https://web3.career/qa-tester-blockfi/13965,"London,
+United Kingdom",QA Tester,$62k - $150k,quality assurance,5mo
+Chainlink Labs,https://web3.career/senior-tax-analyst-chainlink/13961,Remote,Senior Tax Analyst,,analyst:senior:accounting:remote,5mo
+MomentRanks,https://web3.career/senior-frontend-engineer-momentranks/13956,Remote,Senior Frontend Engineer,$180k - $240k,dev:front end:senior:web3js:react,5mo
+Ripple,https://web3.career/product-manager-ripplex-cbdc-ripple/13954,"New York,
+United States","Product Manager, RippleX - CBDC",$69k - $160k,product manager:non tech,5mo
+Ripple,https://web3.career/product-manager-ripplex-cbdc-ripple/13953,"London,
+United Kingdom","Product Manager, RippleX - CBDC",$69k - $160k,product manager:non tech,5mo
+Crypto.com,https://web3.career/operations-manager-cards-payments-brazil-crypto-com/13952,Brazil,Operations Manager ( Cards/Payments) - Brazil,$60k - $200k,operations,5mo
+Oropocket,https://web3.career/partnership-head-crypto-blockchain-industry-ethx/13951,"Delhi,
+India",Partnership Head (Crypto/blockchain industry),$26k - $39k,executive:sales:non tech:blockchain:crypto,5mo
+Crypto Finance AG,https://web3.career/content-specialist-cryptofinanceag/13950,"Zurich,
+Switzerland",Content Specialist,$25k - $96k,marketing:non tech:copywriting,5mo
+Nuri,https://web3.career/principal-software-engineer-golang-nuri/13949,"Berlin,
+Germany",Principal Software Engineer (GoLang),,dev:golang:executive:remote,5mo
+Bitfury,https://web3.career/legal-counsel-crystal-remote-bitfury/13947,"Amsterdam,
+Netherlands",Legal Counsel - Crystal (Remote),,legal:remote,5mo
+GSR,https://web3.career/software-engineer-core-platform-associate-vp-london-gsr/13946,"London,
+United Kingdom",Software Engineer Core Platform - Associate/VP - London,$70k - $300k,dev:executive,5mo
+Bitfury,https://web3.career/construction-engineer-for-bitfury-data-centers-nam-remote-bitfury/13939,"Toronto,
+Canada","Construction engineer for Bitfury Data Centers (NAM, Remote)",$65k - $180k,remote:dev,5mo
+Bitfury,https://web3.career/construction-engineer-for-bitfury-data-centers-nam-remote-bitfury/13938,"Austin,
+United States","Construction engineer for Bitfury Data Centers (NAM, Remote)",$65k - $180k,remote:dev,5mo
+Crypto.com,https://web3.career/graduate-quant-trader-quant-trading-team-global-fintech-startup-crypto-com/13937,Remote,"Graduate Quant Trader, Quant Trading Team - Global Fintech Startup",,intern:entry level:finance:trader:java,5mo
+IO Global,https://web3.career/software-engineer-solidity-python-ioglobal/13936,Remote,Software Engineer (Solidity + Python),,dev:python:solidity:ethereum:javascript,5mo
+SwissBorg,https://web3.career/social-media-specialist-cryptonitestv-remote-swissborg/13935,"Paris,
+France",Social Media Specialist (CryptonitesTV) - Remote,$35k - $110k,remote:social media:non tech,5mo
+OnJuno,https://web3.career/backend-developer-onjuno/13933,"Bengaluru,
+India",Backend Developer,$60k - $180k,backend:dev,5mo
+Ramp,https://web3.career/lead-product-designer-rampnetwork/13929,"Warsaw,
+Poland",Lead Product Designer,$40k - $190k,design:non tech:lead,5mo
+Ledger,https://web3.career/nft-studio-director-integration-program-lead-ledger/13928,"Paris,
+France",NFT Studio Director & Integration Program Lead,$140k - $200k,executive:lead:nft,5mo
+Vauld,https://web3.career/content-editors-vauld/13926,"Bengaluru,
+India",Content Editors,,,5mo
+Next Big Thing AG,https://web3.career/mobile-developer-nextbigthing/13921,"Berlin,
+Germany",Mobile Developer,$65k - $200k,dev:mobile:javascript:java:remote,5mo
+Ramp,https://web3.career/sales-executive-rampnetwork/13919,"Warsaw,
+Poland",Sales Executive,$40k - $150k,executive:sales:non tech,5mo
+Polygon,https://web3.career/head-of-event-polygon/13918,Remote,Head of Event,,events manager:non tech:executive:ethereum:remote,5mo
+Ripple,https://web3.career/staff-database-engineer-ripple/13916,"San Francisco,
+United States",Staff Database Engineer,$33k - $113k,dev:ruby,5mo
+Consensys,https://web3.career/womenhack-nyc-consensys/13913,Remote,WomenHack NYC,$60k - $145k,ethereum:remote,5mo
+Consensys,https://web3.career/product-marketing-manager-consensys/13912,Remote,Product Marketing Manager,$48k - $120k,marketing:non tech:ethereum:remote,5mo
+Consensys,https://web3.career/digital-marketing-associate-consensys/13911,Remote,Digital Marketing Associate,$48k - $120k,marketing:non tech:ethereum:remote,5mo
+Consensys,https://web3.career/community-engineer-consensys-protocols-consensys/13910,Remote,Community Engineer (ConsenSys Protocols),,community manager:non tech:dev:ethereum:javascript,5mo
+Consensys,https://web3.career/bootcamp-security-auditors-consensys/13909,Remote,Bootcamp Security Auditors,$150k - $185k,security:solidity:ethereum:javascript:node,5mo
+Consensys,https://web3.career/academy-operations-lead-consensys/13908,Remote,Academy Operations Lead,,lead:operations:ethereum:remote,5mo

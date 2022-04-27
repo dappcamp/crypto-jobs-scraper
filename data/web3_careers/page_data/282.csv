@@ -1,36 +1,69 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Events Board,https://web3.career/crypto-talent-pool-flowtraderevents/14550,Crypto Talent Pool,$30k - $50k,recruiter:non tech:crypto:remote,4mo
-DeGate,https://web3.career/blockchain-devops-engineer-degate/14549,Blockchain DevOps Engineer,$59k - $80k,devops:dev:blockchain:ethereum:remote,4mo
-BitMEX,https://web3.career/senior-software-engineer-custody-engineering-python-blockchain-wallets-bitmex/14548,"Senior Software Engineer - Custody Engineering ( Python, Blockchain & Wallets )",$79k - $200k,dev:python:senior:blockchain,4mo
-DeGate,https://web3.career/blockchain-security-engineer-degate/14547,Blockchain Security Engineer,,dev:security:blockchain:solidity:ethereum,4mo
-Colonia,https://web3.career/cofounder-blockchain-engineer-designer-colonia-1/14546,Cofounder Blockchain Engineer / Designer,$0k,executive:design:non tech:dev:blockchain,4mo
-Vendible,https://web3.career/computer-engineer-blockchain-vendible/14545,Computer Engineer - Blockchain,$100k - $180k,dev:blockchain,4mo
-Reactions,https://web3.career/front-end-engineer-web3-reactions-wtf/14544,Front-end Engineer (Web3),$0k,dev:front end:react,4mo
-Crypto.com,https://web3.career/application-security-support-singapore-crypto-com/14543,Application Security Support - Singapore,,security:customer support,4mo
-Sygnum Bank AG,https://web3.career/ui-engineer-sygnum/14541,UI Engineer,$80k - $150k,dev:design:non tech,4mo
-Pontoro Inc.,https://web3.career/blockchain-developer-pontoro/14539,Blockchain Developer,$70k - $190k,dev:blockchain:remote,4mo
-PolySign & Standard Custody,https://web3.career/senior-analyst-bsa-aml-transaction-monitoring-reporting-polysign/14538,"Senior Analyst, BSA/AML Transaction Monitoring & Reporting",$150k - $185k,analyst:senior,4mo
-Careers at Paxful,https://web3.career/customer-experience-content-specialist-paxful/14537,"Customer Experience, Content Specialist",$25k - $96k,marketing:non tech:copywriting:customer support,4mo
-TrueLayer,https://web3.career/senior-full-stack-engineer-crypto-r-d-truelayer/14536,Senior Full Stack Engineer - Crypto R&D,$70k - $180k,dev:full stack:senior:crypto:scala,4mo
-Bitgreen,https://web3.career/crypto-engineer-rust-polkadot-bitgreen/14535,Crypto Engineer - Rust / Polkadot,$0k,dev:rust:crypto,4mo
-Chainalysis,https://web3.career/customer-success-manager-commercial-uk-chainalysis/14530,"Customer Success Manager, Commercial, UK",,sales:non tech:customer support,4mo
-Bittrex,https://web3.career/product-owner-wallet-operations-bittrex/14529,"Product Owner, Wallet Operations",,product manager:non tech:operations:node,4mo
-Bittrex,https://web3.career/release-manager-devops-bittrex/14528,"Release Manager, DevOps",$70k - $180k,devops,4mo
-Solana Digital,https://web3.career/tech-lead-net-angularjs-immediate-joiner-solana-digital/14527,Tech Lead - .Net/AngularJS-Immediate Joiner,$15k - $23k,dot net:lead:tech lead:solana,4mo
-BullPerks,https://web3.career/crypto-accountant-bullperks-1/14526,Crypto Accountant,$24k - $45k,accounting:crypto,4mo
-Finoa GmbH,https://web3.career/legal-counsel-m-f-div-finoa/14525,Legal Counsel (m/f/div),,legal:remote,4mo
-Finoa GmbH,https://web3.career/senior-institutional-sales-manager-m-f-div-finoa/14524,(Senior) Institutional Sales Manager (m/f/div),$50k - $150k,sales:non tech:senior:remote,4mo
-Finoa GmbH,https://web3.career/it-intern-m-f-div-finoa/14523,IT Intern (m/f/div),$24k - $48k,intern:entry level:remote,4mo
-Blockchain.com,https://web3.career/backend-software-engineer-blockchain/14518,Backend Software Engineer,$28k - $120k,backend:dev:react:nft:node,4mo
-Sisu Network,https://web3.career/blockchain-cofounder-community-builder-sisu-network-1/14517,Blockchain Cofounder - Community Builder,$12k,executive:community manager:non tech:blockchain:nft,4mo
-BullPerks,https://web3.career/blockchain-developer-bullperks-1/14516,Blockchain Developer,$24k - $45k,dev:blockchain:solidity:rust,4mo
-Chainlink Labs,https://web3.career/solutions-consultant-data-providers-chainlink/14515,Solutions Consultant (Data Providers),,consulting:remote,4mo
-BitGo,https://web3.career/people-operations-coordinator-bitgo/14514,People Operations Coordinator,$60k - $200k,operations,4mo
-RECUR,https://web3.career/senior-communications-manager-sports-remote-recur/14513,"Senior Communications Manager, Sports (Remote)",$25k - $120k,marketing:non tech:remote:senior:ethereum,4mo
-RECUR,https://web3.career/senior-communications-manager-recur-remote-recur/14512,"Senior Communications Manager, RECUR (Remote)",$25k - $120k,marketing:non tech:remote:senior:ethereum,4mo
-RECUR,https://web3.career/senior-communications-manager-characters-entertainment-remote-recur/14511,"Senior Communications Manager, Characters/Entertainment (Remote)",$25k - $120k,marketing:non tech:remote:senior:ethereum,4mo
-BitMEX,https://web3.career/software-engineer-custody-engineering-python-blockchain-wallets-bitmex/14508,"Software Engineer - Custody Engineering ( Python, Blockchain & Wallets)",,dev:python:blockchain,4mo
-Giddy,https://web3.career/blockchain-developer-giddy/14507,Blockchain Developer,$52k - $160k,dev:blockchain:solidity:remote,4mo
-RECUR,https://web3.career/social-media-manager-sports-remote-recur/14506,"Social Media Manager, Sports (Remote)",$35k - $110k,remote:social media:non tech:ethereum:nft,4mo
-RECUR,https://web3.career/social-media-manager-recur-remote-recur/14505,"Social Media Manager, RECUR (Remote)",$35k - $110k,remote:social media:non tech:ethereum:nft,4mo
-RECUR,https://web3.career/social-media-manager-characters-entertainment-remote-recur/14504,"Social Media Manager, Characters/Entertainment (Remote)",$35k - $110k,remote:social media:non tech:ethereum:nft,4mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Alchemy,https://web3.career/devops-engineer-developer-tooling-alchemy/15223,"San Francisco,
+United States",DevOps Engineer (Developer Tooling),$70k - $180k,dev:devops,4mo
+Alchemy,https://web3.career/data-scientist-alchemy/15222,"San Francisco,
+United States",Data Scientist,$50k - $150k,data science,4mo
+Alchemy,https://web3.career/data-engineer-alchemy/15221,"San Francisco,
+United States",Data Engineer,$70k - $160k,data science:dev,4mo
+Alchemy,https://web3.career/customer-product-engineer-alchemy/15220,"San Francisco,
+United States",Customer Product Engineer,$60k - $180k,dev,4mo
+Alchemy,https://web3.career/backend-engineer-supernode-alchemy/15219,"San Francisco,
+United States",Backend Engineer (Supernode),$70k - $200k,backend:dev:node:java,4mo
+Alchemy,https://web3.career/backend-engineer-platform-alchemy/15218,"San Francisco,
+United States",Backend Engineer (Platform),$60k - $180k,backend:dev,4mo
+Alchemy,https://web3.career/backend-engineer-multi-region-infrastructure-alchemy/15217,"San Francisco,
+United States",Backend Engineer (Multi-Region Infrastructure),$60k - $180k,backend:dev,4mo
+Alchemy,https://web3.career/backend-engineer-multi-chain-alchemy/15216,"San Francisco,
+United States",Backend Engineer (Multi-Chain),$70k - $200k,backend:dev:node:java,4mo
+Alchemy,https://web3.career/backend-engineer-java-alchemy/15215,"San Francisco,
+United States",Backend Engineer (Java),$60k - $160k,backend:dev:java,4mo
+Alchemy,https://web3.career/backend-engineer-general-alchemy/15214,"San Francisco,
+United States",Backend Engineer (General),$70k - $200k,backend:dev:node:java,4mo
+Alchemy,https://web3.career/backend-engineer-experiments-alchemy/15213,"San Francisco,
+United States",Backend Engineer (Experiments),$60k - $180k,backend:dev,4mo
+Alchemy,https://web3.career/senior-visual-designer-alchemy/15212,"San Francisco,
+United States",Senior Visual Designer,$60k - $120k,design:non tech:senior,4mo
+Chainlink Labs,https://web3.career/senior-devops-engineer-gcp-chainlink-labs/15211,United States,Senior DevOps Engineer - GCP,$120k - $200k,devops:dev:senior:web3js:node,4mo
+Chainlink Labs,https://web3.career/security-engineering-manager-chainlink-labs/15210,"New York,
+United States",Security Engineering Manager,$95k - $250k,executive:security,4mo
+Chainlink Labs,https://web3.career/research-engineer-chainlink-labs/15209,"Gothenburg,
+Sweden",Research Engineer,$100k - $180k,dev:solidity:rust,4mo
+Chainlink Labs,https://web3.career/release-engineer-chainlink-labs/15208,"San Francisco,
+United States",Release Engineer,$80k - $160k,dev:node,4mo
+Chainlink Labs,https://web3.career/qa-engineer-chainlink-labs/15207,"New York,
+United States",QA Engineer,$80k - $180k,dev:quality assurance:solidity:javascript:golang,4mo
+Chainlink Labs,https://web3.career/observability-engineer-chainlink-labs/15206,"New York,
+United States",Observability Engineer,$33k - $140k,dev:java,4mo
+Chainlink Labs,https://web3.career/network-systems-admin-chainlink-labs/15205,"Gothenburg,
+Sweden",Network & Systems Admin,$100k - $180k,,4mo
+Chainlink Labs,https://web3.career/lead-software-engineer-in-test-typescript-go-chainlink-labs/15204,"San Francisco,
+United States",Lead Software Engineer in Test - Typescript/Go,$100k - $180k,quality assurance:dev:golang:lead:solidity,4mo
+Chainlink Labs,https://web3.career/full-stack-developer-chainlink-labs/15203,"Sydney,
+Australia",Full Stack Developer,$65k - $180k,dev:full stack,4mo
+Chainlink Labs,https://web3.career/engineering-manager-chainlink-labs/15202,"Gothenburg,
+Sweden",Engineering Manager,$80k - $160k,executive,4mo
+Chainlink Labs,https://web3.career/developer-events-manager-chainlink-labs/15201,"New York,
+United States",Developer Events Manager,,events manager:non tech:dev:ethereum,4mo
+Chainlink Labs,https://web3.career/developer-advocate-chainlink-china-chainlink-labs/15200,"Shanghai,
+China","Developer Advocate, Chainlink China",$40k - $120k,dev:solidity:ethereum:javascript:golang,4mo
+Chainlink Labs,https://web3.career/devops-engineer-europe-chainlink-labs/15199,United Kingdom,DevOps Engineer - Europe,,devops:dev:web3js:node,4mo
+Chainlink Labs,https://web3.career/devops-engineer-chainlink-labs/15198,"Gothenburg,
+Sweden",DevOps Engineer,$80k - $160k,devops:dev:node,4mo
+Chainlink Labs,https://web3.career/data-scientist-data-feeds-chainlink-labs/15197,"San Francisco,
+United States","Data Scientist, Data Feeds",,data science:solidity:golang,4mo
+Chainlink Labs,https://web3.career/data-scientist-chainlink-labs/15196,"Berlin,
+Germany",Data Scientist,,data science:remote:web3js:solidity:golang,4mo
+Chainlink Labs,https://web3.career/data-engineer-observability-chainlink-labs/15195,"New York,
+United States","Data Engineer, Observability",,data science:dev:java,4mo
+Chainlink Labs,https://web3.career/blockchain-systems-admin-ops-chainlink-labs/15194,"Boston,
+United States",Blockchain Systems Admin/ Ops,$50k - $120k,blockchain:ethereum:node,4mo
+Chainlink Labs,https://web3.career/big-data-engineer-chainlink-labs/15193,"Boston,
+United States",Big Data Engineer,,big data:data science:dev:scala:java,4mo
+Chainlink Labs,https://web3.career/automation-and-process-design-leader-chainlink-labs/15192,"Austin,
+United States",Automation and Process Design Leader,$40k - $190k,design:non tech:lead,4mo
+Chainlink Labs,https://web3.career/senior-ux-researcher-chainlink-labs/15191,"New York,
+United States",Senior UX Researcher,$60k - $120k,senior:design:non tech,4mo
+Chainlink Labs,https://web3.career/senior-product-designer-chainlink-labs/15190,"New York,
+United States",Senior Product Designer,$60k - $120k,design:non tech:senior,4mo
+Chainlink Labs,https://web3.career/senior-brand-designer-chainlink-labs/15189,"New York,
+United States",Senior Brand Designer,,marketing:non tech:design:senior,4mo

@@ -1,36 +1,61 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Gemini,https://web3.career/director-brand-strategy-uk-europe-gemini/24037,"Director, Brand Strategy - UK / Europe",$70k - $158k,marketing:non tech:executive,28d
-Satoshis Games,https://web3.career/social-media-marketing-manager-satoshis-games/24036,Social Media Marketing Manager,$25k - $35k,marketing:non tech:social media,28d
-Satoshis Games,https://web3.career/community-manager-satoshis-games/24035,Community Manager,$25k - $35k,community manager:non tech:nft,28d
-SeedInvest,https://web3.career/performance-marketing-manager-seedinvest-seedinvest/24034,"Performance Marketing Manager, SeedInvest",$45k - $130k,marketing:non tech,28d
-OKX,https://web3.career/senior-manager-organization-talent-development-okx/24033,"Senior Manager, Organization & Talent Development",$40k - $70k,senior:recruiter:non tech,28d
-GIANT Connect,https://web3.career/lead-product-manager-payments-and-custody-giantconnect/24032,"Lead Product Manager, Payments and Custody",,lead:product manager:non tech,28d
-Virtually Human Studio,https://web3.career/product-manager-remote-vhslab/24031,Product Manager (Remote),$115k - $175k,remote:product manager:non tech:nft,28d
-Chainlink Labs,https://web3.career/regional-lead-of-cefi-us-emea-chainlink/24030,Regional Lead of CeFi - US/EMEA,$95k - $200k,lead:remote,28d
-Validity Labs AG,https://web3.career/devops-engineer-m-f-d-remote-or-zurich-validitylabs/24029,DevOps Engineer (m/f/d) Remote or Zurich,$95k - $180k,remote:devops:dev,28d
-Next Big Thing AG,https://web3.career/cto-f-m-x-in-the-blockchain-space-nextbigthing/24028,CTO (f/m/x) in the Blockchain space,$100k - $300k,cto:executive:blockchain:remote:react,28d
-SALT,https://web3.career/aml-compliance-manager-saltlending/24027,AML Compliance Manager,,compliance,28d
-SADA,https://web3.career/staff-site-reliability-engineer-sada/24026,Staff Site Reliability Engineer,$150k - $200k,dev:sys admin:java,28d
-Nuri,https://web3.career/site-reliability-engineer-sre-nuri/24025,Site Reliability Engineer (SRE),$150k - $200k,dev:sys admin:senior:remote,28d
-GIANT Connect,https://web3.career/lead-product-manager-tokenomics-giantconnect/24024,"Lead Product Manager, Tokenomics",,lead:product manager:non tech,28d
-Massless Corp,https://web3.career/frontend-developer-masslesscorp/24023,Frontend Developer,$50k - $144k,dev:front end:react:nft:nextjs,28d
-Massless Corp,https://web3.career/web3-developer-solidity-masslesscorp/24022,Web3 Developer (Solidity),$67k - $200k,dev:solidity:react:ethereum:nft,28d
-Polysynth,https://web3.career/sr-sales-bd-manager-polysynth/24021,Sr. Sales / BD Manager,$50k - $100k,sales:non tech:senior,28d
-Web3Auth,https://web3.career/senior-product-designer-remote-torus-2/24020,Senior Product Designer - Remote,$60k - $100k,remote:design:non tech:senior,28d
-Web3Auth,https://web3.career/devops-engineer-remote-torus-2/24019,Devops Engineer - Remote,$95k - $180k,remote:devops:dev:ruby,28d
-Web3Auth,https://web3.career/senior-software-engineer-full-stack-javascript-typescript-golang-remote-torus-2/24018,Senior Software Engineer (Full stack Javascript/Typescript/Golang) REMOTE,$65k - $124k,remote:dev:full stack:golang:javascript,28d
-Solana Labs,https://web3.career/solana-payments-intern-solana/24017,Solana Payments intern,,intern:entry level:solana,28d
-CoinList,https://web3.career/it-admin-coinlist/24016,IT Admin,$78k - $180k,solana,28d
-CoinList,https://web3.career/quantitative-analyst-payments-coinlist/24015,"Quantitative Analyst, Payments",$36k - $185k,analyst:solana,28d
-Aureka,https://web3.career/web3-0-solidity-back-end-developer-co-founder-for-an-ambitious-start-up-platform-with-tools-that-are-bringing-a-unique-extended-value-to-the-nft-market-aureka/24014,"Web3.0 / solidity / back end developer / co-founder - for an ambitious start-up platform with tools that are bringing a unique, extended value to the NFT market",$0k,backend:dev:executive:nft:solidity,28d
-Binance,https://web3.career/senior-finance-manager-m-a-binance/24013,"Senior Finance Manager, M&A",$50k - $150k,finance:senior,29d
-Figure,https://web3.career/lead-product-designer-figure-marketplace-figure/24011,"Lead Product Designer, Figure Marketplace",$40k - $190k,design:non tech:lead,29d
-DFINITY,https://web3.career/digital-marketing-manager-dfinity/24010,Digital Marketing Manager,$45k - $130k,marketing:non tech,29d
-Analog,https://web3.career/product-manager-web3-analog-6/24009,Product Manager - Web3,$60k - $140k,product manager:non tech,29d
-R3,https://web3.career/developer-evangelist-r3-com/24007,Developer Evangelist,$60k - $180k,dev,29d
-FPT Deutschland GmbH,https://web3.career/senior-full-stack-developer-m-f-d-fger/24006,Senior Full-Stack Developer (m/f/d),$70k - $180k,dev:full stack:senior,29d
-R3,https://web3.career/professional-services-delivery-manager-r3-com/24005,Professional Services Delivery Manager,$70k - $300k,dev:executive,29d
-Ledger,https://web3.career/learning-development-manager-ledger/24004,Learning & Development Manager,,,29d
-Binance,https://web3.career/global-equity-compensation-specialist-binance/24003,Global Equity Compensation Specialist,,,29d
-Binance,https://web3.career/senior-finance-manager-m-a-binance/24002,"Senior Finance Manager, M&A",$50k - $150k,finance:senior,29d
-Binance,https://web3.career/product-management-intern-binance/24001,Product Management Intern,,intern:entry level,29d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Ledger,https://web3.career/director-of-audience-and-awareness-ledger/24675,"Paris,
+France",Director of Audience and Awareness,$70k - $180k,executive,26d
+Mycelium,https://web3.career/product-designer-myc-xyz/24674,"Melbourne,
+Australia",Product Designer,$80k - $150k,design:non tech:ethereum,26d
+Web3 Labs,https://web3.career/rust-developer-web3labs/24673,United Kingdom,Rust Developer,$65k - $100k,dev:rust:solidity:ethereum:java,26d
+Blockchain.com,https://web3.career/trading-system-support-engineer-blockchain/24672,"Singapore,
+Singapore",Trading System Support Engineer,,dev:customer support:react:javascript,26d
+"Palm NFT Studio, Inc.",https://web3.career/engineering-manager-palmnftstudioinc/24671,"New York,
+United States",Engineering Manager,$85k - $300k,executive:web3js:solidity:ethereum:nft,26d
+CANDY,https://web3.career/it-support-associate-candy/24670,"New York,
+United States",IT Support Associate,$40k - $80k,customer support,26d
+Binance,https://web3.career/government-affairs-portugal-binance/24668,"Lisbon,
+Portugal",Government Affairs - Portugal,,,26d
+Binance,https://web3.career/business-analyst-intern-binance/24667,"Paris,
+France",Business Analyst Intern,$20k - $30k,analyst:intern:entry level,26d
+Binance,https://web3.career/marketing-analyst-latam-binance/24666,Latin America,Marketing Analyst - Latam,,analyst:marketing:non tech,26d
+Binance,https://web3.career/product-management-intern-binance/24665,"Paris,
+France",Product Management Intern,,intern:entry level,26d
+Binance,https://web3.career/data-analytics-manager-marketing-latam-binance/24663,Latin America,Data Analytics Manager (Marketing) - Latam,,stats:marketing:non tech,26d
+Stellar Development Foundation,https://web3.career/head-of-investments-stellar/24661,"New York,
+United States",Head of Investments,$70k - $180k,executive,26d
+Stellar Development Foundation,https://web3.career/head-of-investments-stellar/24660,"San Francisco,
+United States",Head of Investments,$70k - $180k,executive,26d
+Stellar Development Foundation,https://web3.career/product-counsel-stellar/24659,"San Francisco,
+United States",Product Counsel,$24k - $140k,legal,26d
+Stellar Development Foundation,https://web3.career/product-counsel-stellar/24658,"New York,
+United States",Product Counsel,$24k - $140k,legal,26d
+Funders USA,https://web3.career/president-vice-president-blockchain-space-startup-funders-usa-1/24657,United States,President/Vice President Blockchain / Space Startup,$250k,blockchain,26d
+Chain,https://web3.career/videographer-chain/24656,Remote,Videographer,$56k - $160k,remote,26d
+Binance,https://web3.career/security-auditor-mobile-binance/24655,Europe,Security Auditor (Mobile),,mobile:security,26d
+Crystal Blockchain Analytics,https://web3.career/senior-lead-python-developer-crystal-remote-crystal/24654,Poland,Senior/Lead Python Developer - Crystal (Remote),$100k - $200k,remote:dev:lead:python:senior,26d
+Brave,https://web3.career/security-researcher-brave/24653,"London,
+United Kingdom",Security Researcher,$150k - $185k,security:javascript:rust,26d
+Binance,https://web3.career/it-support-engineer-binance/24652,Europe,IT Support Engineer,$90k - $140k,dev:customer support,26d
+BlockFi,https://web3.career/strategic-finance-associate-blockfi/24651,"New York,
+United States",Strategic Finance Associate,$40k - $150k,finance,26d
+Coin Homes,https://web3.career/defi-research-associate-coinhomes/24650,"Los Angeles,
+United States",DeFi Research Associate,$100k - $140k,defi,27d
+Chain,https://web3.career/people-operations-manager-chain/24649,Remote,People Operations Manager,$80k - $110k,operations:remote,27d
+Stellar Development Foundation,https://web3.career/senior-protocol-engineer-stellar/24648,"New York,
+United States",Senior Protocol Engineer,$120k - $210k,dev:senior:rust,27d
+Kosen Labs,https://web3.career/head-of-blockchain-engineering-kosenlabs/24646,"San Jose,
+Costa Rica",Head of Blockchain Engineering,$0k,executive:blockchain:solidity,27d
+Kosen Labs,https://web3.career/blockchain-engineer-globally-remote-kosenlabs/24645,"San Jose,
+Costa Rica",Blockchain Engineer (Globally remote),$0k,remote:dev:blockchain:web3js:solidity,27d
+Braintrust,https://web3.career/full-stack-developer-remote-braintrust/24643,"San Francisco,
+United States",Full Stack Developer [Remote],$70k - $200k,remote:dev:full stack:react:ethereum,27d
+Chainalysis,https://web3.career/director-global-channel-sales-chainalysis/24642,"Washington,
+United States","Director, Global Channel Sales",$40k - $150k,executive:sales:non tech,27d
+BlockFi,https://web3.career/senior-software-engineer-ios-credit-card-blockfi/24641,"London,
+United Kingdom","Senior Software Engineer (iOS), Credit Card",$51k - $109k,dev:ios:mobile:senior,27d
+BlockFi,https://web3.career/senior-software-engineer-ios-credit-card-blockfi/24640,"New York,
+United States","Senior Software Engineer (iOS), Credit Card",$51k - $109k,dev:ios:mobile:senior,27d
+Aldrin,https://web3.career/rust-developer-web3-remote-aldrin/24638,Remote,Rust Developer Web3 (Remote),$70k - $180k,remote:dev:rust:solana:golang,27d
+BlockFi,https://web3.career/staff-software-engineer-golang-blockfi/24637,"London,
+United Kingdom","Staff Software Engineer, Golang",$40k - $160k,dev:golang:rust,27d
+BlockFi,https://web3.career/senior-staff-software-engineer-golang-blockfi/24636,"New York,
+United States","Senior Staff Software Engineer, Golang",$65k - $150k,dev:golang:senior:rust,27d
+BlockFi,https://web3.career/senior-staff-software-engineer-golang-blockfi/24635,"London,
+United Kingdom","Senior Staff Software Engineer, Golang",$65k - $150k,dev:golang:senior:rust,27d

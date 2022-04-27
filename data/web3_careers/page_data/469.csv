@@ -1,36 +1,50 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Okcoin,https://web3.career/content-design-manager-okcoin/577,Content Design Manager,,executive:design:non tech,7mo
-Okcoin,https://web3.career/content-designer-okcoin/576,Content Designer,$50k - $150k,design:non tech,7mo
-Okcoin,https://web3.career/content-designer-okcoin/575,Content Designer,$50k - $150k,design:non tech,7mo
-Okcoin,https://web3.career/content-designer-okcoin/574,Content Designer,$50k - $150k,design:non tech,7mo
-Okcoin,https://web3.career/executive-assistant-okcoin/573,Executive Assistant,$70k - $180k,executive,7mo
-Okcoin,https://web3.career/chief-of-staff-okcoin/572,Chief of Staff,,executive:recruiter:non tech,7mo
-Okcoin,https://web3.career/staff-engineer-payment-engineering-okcoin/571,"Staff Engineer, Payment Engineering",$50k - $200k,dev:java:rust,7mo
-Okcoin,https://web3.career/software-engineer-trading-services-okcoin/570,"Software Engineer, Trading Services",$33k - $140k,dev:java,7mo
-Okcoin,https://web3.career/software-engineer-platform-okcoin/569,"Software Engineer, Platform",$33k - $140k,dev:java,7mo
-Okcoin,https://web3.career/software-engineer-payments-okcoin/568,"Software Engineer, Payments",$33k - $140k,dev:java,7mo
-Okcoin,https://web3.career/software-engineer-ios-okcoin/567,"Software Engineer, iOS",$51k - $109k,dev:ios:mobile,7mo
-Okcoin,https://web3.career/software-engineer-global-liquidity-okcoin/566,"Software Engineer, Global Liquidity",,dev:sales:non tech:java,7mo
-Okcoin,https://web3.career/software-engineer-defi-services-okcoin/565,"Software Engineer, DeFi Services",$18k - $90k,dev:defi:web3js:java:rust,7mo
-Okcoin,https://web3.career/software-engineer-client-connectivity-okcoin/564,"Software Engineer, Client Connectivity",$33k - $140k,dev:java,7mo
-Okcoin,https://web3.career/software-engineer-android-okcoin/563,"Software Engineer, Android",,android:mobile:dev:java,7mo
-Okcoin,https://web3.career/senior-software-engineer-devops-okcoin/562,"Senior Software Engineer, DevOps",$120k - $200k,devops:dev:senior,7mo
-Okcoin,https://web3.career/director-of-payment-engineering-okcoin/561,Director of Payment Engineering,$70k - $180k,executive,7mo
-Okcoin,https://web3.career/spanish-customer-service-representative-okcoin/560,Spanish Customer Service Representative,$40k - $80k,customer support,7mo
-Okcoin,https://web3.career/operational-excellence-specialist-okcoin/559,Operational Excellence Specialist,$60k - $200k,operations,7mo
-Okcoin,https://web3.career/cs-technology-and-tools-manager-okcoin/558,CS Technology and Tools Manager,,,7mo
-Okcoin,https://web3.career/workforce-management-lead-contract-okcoin/557,Workforce Management Lead (Contract),$60k - $200k,lead,7mo
-Okcoin,https://web3.career/sr-manager-risk-portfolio-okcoin/556,"Sr. Manager, Risk Portfolio",$50k - $150k,finance:senior,7mo
-Okcoin,https://web3.career/fraud-investigator-okcoin/555,Fraud Investigator,$95k - $200k,security,7mo
-Okcoin,https://web3.career/director-of-controls-okcoin/554,Director of Controls,$70k - $180k,executive,7mo
-Okcoin,https://web3.career/compliance-analyst-okcoin/553,Compliance Analyst,,compliance:analyst,7mo
-Okcoin,https://web3.career/aml-fraud-investigator-okcoin/552,AML/Fraud Investigator,$95k - $200k,security,7mo
-Okcoin,https://web3.career/institutional-sales-manager-okcoin/551,Institutional Sales Manager,$26k - $140k,sales:non tech,7mo
-Okcoin,https://web3.career/head-of-sales-europe-okcoin/550,"Head of Sales, Europe",$40k - $150k,executive:sales:non tech,7mo
-Okcoin,https://web3.career/head-of-partnerships-payments-okcoin/549,"Head of Partnerships, Payments",$40k - $150k,executive:sales:non tech,7mo
-Okcoin,https://web3.career/head-of-institutional-sales-north-america-okcoin/548,"Head of Institutional Sales, North America",$40k - $150k,executive:sales:non tech,7mo
-Okcoin,https://web3.career/general-manager-europe-okcoin/547,"General Manager, Europe",$70k - $180k,executive,7mo
-MoonPay,https://web3.career/senior-it-security-engineer-moonpay/546,Senior IT Security Engineer,$95k - $250k,dev:security:senior,7mo
-MoonPay,https://web3.career/it-security-engineer-moonpay/545,IT Security Engineer,$95k - $250k,dev:security,7mo
-MoonPay,https://web3.career/senior-ux-designer-moonpay/544,Senior UX Designer,$60k - $120k,design:non tech:senior,7mo
-MoonPay,https://web3.career/senior-ui-designer-moonpay/543,Senior UI Designer,$60k - $120k,design:non tech:senior,7mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Syntropy,https://web3.career/front-end-developer-syntropynet/1101,Remote,Front-end Developer,$50k - $144k,dev:front end:react:javascript:remote,7mo
+"LOG-NET, Inc.",https://web3.career/director-compliance-and-security-lognet/1100,United States,"Director, Compliance and Security",,compliance:executive:security,7mo
+Syntropy,https://web3.career/senior-devops-engineer-syntropynet/1099,Remote,Senior DevOps Engineer,$120k - $200k,devops:dev:senior:node:rust,7mo
+Syntropy,https://web3.career/senior-sales-engineer-syntropynet/1098,Remote,Senior Sales Engineer,,dev:sales:non tech:senior:remote,7mo
+Syntropy,https://web3.career/user-acquisition-specialist-ppc-syntropynet/1097,Remote,User Acquisition Specialist (PPC),$25k - $120k,marketing:non tech:remote,7mo
+Yellow Card Financial,https://web3.career/technical-product-owner-yellowcard/1096,Remote,Technical Product Owner,$115k - $175k,product manager:non tech:remote,7mo
+VSC,https://web3.career/remote-communications-strategist-1-3-years-experience-remote-vscconsulting/1095,"New York,
+United States",Remote: Communications Strategist (1-3 years experience) [remote],$25k - $120k,marketing:non tech:remote,7mo
+BC Technology (Hong Kong) Limited,https://web3.career/senior-associate-accounting-bcgroup/1094,"Hong Kong,
+Hong Kong","Senior Associate, Accounting",$80k - $110k,accounting:senior,7mo
+"Loyalty Juggernaut, Inc",https://web3.career/product-engineer-lji/1093,"Hyderabad,
+India",Product Engineer,$11k - $130k,dev:javascript:java,7mo
+IOTA Foundation,https://web3.career/art-director-iota/1092,Remote,Art Director,$79k - $200k,executive:remote,7mo
+VSC,https://web3.career/remote-public-relations-account-manager-5-years-experience-remote-vscconsulting/1091,"New York,
+United States",Remote: Public Relations Account Manager (5+ years experience) [remote],$25k - $120k,marketing:non tech:remote:account manager,7mo
+Syntropy,https://web3.career/technical-copywriter-syntropynet/1090,Remote,Technical Copywriter,$25k - $30k,copywriting:remote,7mo
+IOTA Foundation,https://web3.career/head-of-people-and-culture-iota/1089,Remote,Head of People and Culture,$79k - $200k,executive:remote,7mo
+US Cloud,https://web3.career/microsoft-systems-engineer-1st-shift-uscloud/1087,St. Louis,Microsoft Systems Engineer - 1st shift,$150k - $200k,dev:sys admin,7mo
+IOTA Foundation,https://web3.career/senior-devops-engineer-iota/1086,Remote,(Senior) DevOps Engineer,$120k - $200k,devops:dev:senior:golang:remote,7mo
+Syntropy,https://web3.career/talent-acquisition-specialist-syntropynet/1085,Remote,Talent Acquisition Specialist,,recruiter:non tech:remote,7mo
+quarkslab,https://web3.career/ingenieur-reverse-android-confirme-senior-h-f-senior-android-reverse-engineer-quarkslab/1084,"Paris,
+France",Ingénieur Reverse Android Confirmé / Senior (H/F) - Senior Android Reverse Engineer,,android:mobile:dev:senior,7mo
+quarkslab,https://web3.career/ingenieur-reverse-ios-confirme-senior-h-f-senior-ios-reverse-engineer-quarkslab/1083,"Paris,
+France",Ingénieur Reverse iOS Confirmé / Senior (H/F) - Senior iOS Reverse Engineer,$51k - $109k,dev:ios:mobile:senior,7mo
+BC Technology (Hong Kong) Limited,https://web3.career/manager-senior-manager-account-management-bcgroup/1082,"Mexico City,
+Mexico","Manager/Senior Manager, Account Management",$78k - $200k,senior,7mo
+HYAS Infosec Inc.,https://web3.career/director-of-intelligence-services-hyas/1081,Canada,Director of Intelligence Services,$70k - $180k,executive,7mo
+Kryha,https://web3.career/full-stack-developer-entry-level-kryhaio/1080,"Amsterdam,
+Netherlands",Full Stack Developer (entry-level),$65k - $180k,dev:full stack:react:javascript:node,7mo
+Supply Chain Wizard,https://web3.career/key-account-executive-supplychainwizard/1079,United States,Key Account Executive,$70k - $180k,executive,7mo
+Invictus Capital,https://web3.career/qa-engineer-invictuscapital/1078,"Cape Town,
+South Africa",QA Engineer,$80k - $180k,dev:quality assurance:solidity:ethereum:javascript,7mo
+Cinneamhain Ventures,https://web3.career/principal-junior-partner-cehv/1077,United States,Principal / Junior Partner,,junior:entry level:executive,7mo
+Verra,https://web3.career/program-manager-energy-remote-worldwide-verra/1076,United States,"Program Manager, Energy (remote - worldwide)",$79k - $200k,remote:executive,7mo
+Exness Global Limited,https://web3.career/head-of-software-development-cy-exness/1075,"Lima,
+Peru",Head of Software Development (CY),$70k - $300k,executive:dev,7mo
+IOTA Foundation,https://web3.career/product-owner-researcher-east-africa-iota/1074,Remote,Product Owner / Researcher - East Africa,$115k - $175k,product manager:non tech:remote,7mo
+EZ Blockchain,https://web3.career/administrative-assistant-ezblockchain/1073,"Houston,
+United States",Administrative assistant,,,7mo
+Incredulous Labs Ltd.,https://web3.career/solidity-team-lead-incredulous/1072,Germany,Solidity Team Lead,$96k - $200k,lead:solidity:remote,7mo
+Exness Global Limited,https://web3.career/payment-analyst-hrcy-5843-exness/1071,"Lima,
+Peru",Payment Analyst (HRCY-5843),$40k - $120k,analyst,7mo
+Celsius,https://web3.career/marketing-opportunities-celsius/1070,"New York,
+United States",Marketing Opportunities,$45k - $130k,marketing:non tech,7mo
+EZ Blockchain,https://web3.career/computer-technician-ezblockchain/1069,Moab,Computer Technician,,,7mo
+Uphold,https://web3.career/senior-third-party-risk-analyst-uphold/1068,"London,
+United Kingdom",Senior Third Party Risk Analyst,$150k - $185k,analyst:senior,7mo
+Exness Global Limited,https://web3.career/senior-market-strategist-vietnam-hrcy-3285-exness/1067,Southeast Asia,Senior Market Strategist (Vietnam) (HRCY-3285),$78k - $200k,senior,7mo
+Verra,https://web3.career/director-financial-innovations-remote-worldwide-verra/1066,United States,"Director, Financial Innovations (remote - worldwide)",$40k - $225k,remote:executive:finance,7mo

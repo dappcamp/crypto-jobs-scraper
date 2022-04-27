@@ -1,36 +1,64 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Validity Labs AG,https://web3.career/pr-texter-content-creator-for-tech-blockchain-topics-3350389-pr-texter-content-creator-for-tech-and-blockchain-topics/12601,PR / Texter / Content Creator for Tech & Blockchain topics,$13k - $100k,marketing:non tech:blockchain,5mo
-Parcel,https://web3.career/full-stack-engineer-parcel/12600,Full Stack Engineer,,dev:full stack:react:solidity:nft,5mo
-Figure,https://web3.career/product-manager-figure-marketplace-figure/12599,"Product Manager, Figure Marketplace",$69k - $160k,product manager:non tech,5mo
-Chainlink Labs,https://web3.career/solutions-architect-price-feeds-chainlink/12598,Solutions Architect (Price Feeds),$67k - $300k,architecture:remote,5mo
-Chainlink Labs,https://web3.career/technical-program-manager-infrastructure-chainlink/12597,"Technical Program Manager, Infrastructure",$79k - $200k,executive:remote,5mo
-NEAR,https://web3.career/software-engineer-node-experience-near/12596,"Software Engineer, Node Experience",$60k - $155k,dev:javascript:node:rust,5mo
-BitGo,https://web3.career/director-institutional-sales-latam-region-bitgo/12595,Director - Institutional Sales (LATAM Region),$40k - $150k,executive:sales:non tech,5mo
-BitGo,https://web3.career/director-institutional-sales-latam-region-bitgo/12594,Director - Institutional Sales (LATAM Region),$40k - $150k,executive:sales:non tech,5mo
-BitGo,https://web3.career/director-institutional-sales-latam-region-bitgo/12593,Director - Institutional Sales (LATAM Region),$40k - $150k,executive:sales:non tech,5mo
-BitGo,https://web3.career/associate-institutional-sales-latam-region-bitgo/12592,Associate - Institutional Sales (LATAM Region),$26k - $140k,sales:non tech,5mo
-BitGo,https://web3.career/associate-institutional-sales-latam-region-bitgo/12591,Associate - Institutional Sales (LATAM Region),$26k - $140k,sales:non tech,5mo
-BitGo,https://web3.career/associate-institutional-sales-latam-region-bitgo/12590,Associate - Institutional Sales (LATAM Region),$26k - $140k,sales:non tech,5mo
-GSR,https://web3.career/compliance-officer-associate-gsr/12589,"Compliance Officer, Associate",,compliance,5mo
-OpenSea,https://web3.career/discord-community-moderator-opensea/12588,Discord Community Moderator,$35k - $101k,community manager:non tech:nft:remote,5mo
-BitGo,https://web3.career/director-institutional-sales-latam-region-bitgo/12585,Director - Institutional Sales (LATAM Region),$40k - $150k,executive:sales:non tech,5mo
-BitGo,https://web3.career/associate-institutional-sales-latam-region-bitgo/12584,Associate - Institutional Sales (LATAM Region),$26k - $140k,sales:non tech,5mo
-Chainlink Labs,https://web3.career/director-marketing-operations-chainlink/12583,"Director, Marketing Operations",$70k - $158k,executive:marketing:non tech:operations:remote,5mo
-Okcoin,https://web3.career/product-analyst-intern-okcoin/12582,"Product Analyst, Intern",$20k - $30k,analyst:intern:entry level,5mo
-Localcoin,https://web3.career/operations-coordinator-cash-in-transit-cit-localcoin/12581,"Operations Coordinator, Cash-in-Transit (CIT)",$60k - $200k,operations,5mo
-Pyth Network,https://web3.career/integration-specialist-pythnetwork/12579,Integration Specialist,$56k - $160k,remote,5mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/coindesk-chinese-editor-ny-coindesk/12578,CoinDesk Chinese Editor - NY,,,5mo
-Yieldside,https://web3.career/cryptocurrency-defi-analyst-yieldside/12577,Cryptocurrency (DeFi) Analyst,$80k - $100k,analyst:crypto:defi:ethereum,5mo
-Covalent,https://web3.career/blockchain-engineer-covalenthq/12576,Blockchain Engineer,$98k - $118k,dev:blockchain:solidity,5mo
-Pendle,https://web3.career/solidity-developer-pendle_finance/12575,Solidity Developer,$50k - $120k,dev:solidity:ethereum:ruby,5mo
-Injective Labs,https://web3.career/senior-defi-blockchain-developer-injective-labs/12573,Senior DeFi/Blockchain Developer,$0k,dev:senior:blockchain:defi:ethereum,5mo
-Set Labs,https://web3.career/defi-researcher-setprotocol/12572,DeFi Researcher,$90k - $160k,defi,5mo
-Sublime Finance,https://web3.career/solidity-developer-sublime-7/12571,Solidity Developer,$30k - $110k,dev:solidity:react:javascript:node,5mo
-Parity Technologies,https://web3.career/office-manager-m-f-d-parity/12569,Office Manager (m/f/d),$56k - $160k,remote,5mo
-BitGo,https://web3.career/technical-security-program-manager-bitgo/12566,Technical Security Program Manager,$95k - $250k,executive:security,5mo
-cLabs,https://web3.career/hr-business-partner-clabs/12565,HR Business Partner,$60k - $120k,hr:non tech:remote,5mo
-Parity Technologies,https://web3.career/internal-tools-developer-m-f-d-parity/12564,Internal Tools Developer (m/f/d),$69k - $160k,dev:javascript:rust:remote,5mo
-BlockFi,https://web3.career/director-of-market-risk-blockfi/12563,Director of Market Risk,$70k - $180k,executive,5mo
-SwissBorg,https://web3.career/legal-counsel-regulatory-remote-swissborg/12562,Legal Counsel Regulatory (Remote),,legal:remote,5mo
-SwissBorg,https://web3.career/legal-counsel-regulatory-remote-swissborg/12561,Legal Counsel Regulatory (Remote),,legal:remote,5mo
-SwissBorg,https://web3.career/legal-counsel-regulatory-remote-swissborg/12560,Legal Counsel Regulatory (Remote),,legal:remote,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Okcoin,https://web3.career/design-program-manager-okcoin/13155,"San Francisco,
+United States",Design Program Manager,,design:non tech:executive,5mo
+Candao,https://web3.career/crypto-copywriter-candao-3/13152,Poland,Crypto copywriter,$0k,copywriting:crypto:nft:dao,5mo
+CANDY,https://web3.career/manager-people-and-culture-hrbp-candy/13151,"New York,
+United States","Manager, People and Culture (HRBP)",,,5mo
+BlockFi,https://web3.career/director-of-quantitative-risk-blockfi/13150,"New York,
+United States",Director of Quantitative Risk,$70k - $180k,executive,5mo
+Poloniex Crypto Exchange,https://web3.career/digital-crypto-marketing-associate-poloniex-crypto-exchange/13149,"Boston,
+United States",Digital Crypto Marketing Associate,$60k - $80k,marketing:non tech:crypto,5mo
+Sapien,https://web3.career/senior-backend-engineer-web3-blockchain-sapien-social-platform/13148,"Denver,
+United States",Senior Backend Engineer (Web3/Blockchain),$80k - $100k,backend:dev:senior:blockchain:solidity,5mo
+Bitfinex,https://web3.career/senior-backend-developer-node-remote-fr-bitfinex/13146,"Paris,
+France",Senior Backend Developer - Node (Remote) FR,$60k - $180k,remote:backend:dev:javascript:node,5mo
+BitGo,https://web3.career/director-institutional-sales-emea-bitgo/13145,"London,
+United Kingdom",Director - Institutional Sales (EMEA),$40k - $150k,executive:sales:non tech,5mo
+BitGo,https://web3.career/director-institutional-sales-apac-bitgo/13144,"Singapore,
+Singapore",Director - Institutional Sales (APAC),$40k - $150k,executive:sales:non tech,5mo
+BitGo,https://web3.career/associate-institutional-sales-apac-bitgo/13143,"Singapore,
+Singapore",Associate - Institutional Sales (APAC),$26k - $140k,sales:non tech,5mo
+Wintermute,https://web3.career/product-manager-institutional-trading-wintermute-trading/13142,"London,
+United Kingdom","Product Manager, Institutional Trading",$69k - $160k,product manager:non tech,5mo
+Gauntlet Networks,https://web3.career/director-of-people-gauntlet/13141,Remote,Director of People,$79k - $200k,executive:remote,5mo
+BitGo,https://web3.career/technical-sourcer-bitgo/13139,"New York,
+United States",Technical Sourcer,$40k - $70k,recruiter:non tech,5mo
+BitGo,https://web3.career/technical-sourcer-bitgo/13138,"Austin,
+United States",Technical Sourcer,$40k - $70k,recruiter:non tech,5mo
+BitGo,https://web3.career/technical-sourcer-bitgo/13137,"San Francisco,
+United States",Technical Sourcer,$40k - $70k,recruiter:non tech,5mo
+Kraken Digital Asset Exchange,https://web3.career/senior-product-strategy-manager-kraken/13136,Remote,Senior Product Strategy Manager,$80k - $200k,senior:remote,5mo
+Paradigm,https://web3.career/finance-associate-paradigm-xyz/13135,"San Francisco,
+United States",Finance Associate,$40k - $150k,finance,5mo
+Figure,https://web3.career/senior-product-designer-figure-tech-figure/13134,"San Francisco,
+United States","Senior Product Designer, Figure Tech",$60k - $120k,design:non tech:senior,5mo
+Figure,https://web3.career/lead-product-designer-figure/13133,"San Francisco,
+United States",Lead Product Designer,$40k - $190k,design:non tech:lead,5mo
+Crypto.com,https://web3.career/it-support-engineer-ireland-crypto-com/13132,"Dublin,
+Ireland",IT Support Engineer (Ireland),$90k - $140k,dev:customer support,5mo
+Finoa GmbH,https://web3.career/backend-engineer-m-f-d-finoa/13131,"Berlin,
+Germany",Backend Engineer (m/f/d),$60k - $180k,backend:dev:remote,5mo
+Ledger,https://web3.career/hardware-engineer-ledger/13130,"Paris,
+France",Hardware Engineer,,dev:hardware,5mo
+Binance,https://web3.career/knowledge-management-manager-binance/13129,"Singapore,
+Singapore",Knowledge Management Manager,,,5mo
+DFINITY,https://web3.career/senior-manager-corporate-strategy-dfinity/13128,"Palo Alto,
+United States","Senior Manager, Corporate Strategy",$78k - $200k,senior,5mo
+BitGo,https://web3.career/software-engineer-data-billing-bitgo/13127,"Palo Alto,
+United States","Software Engineer, Data & Billing",$60k - $180k,dev:react:node:java,5mo
+Amun 21Shares,https://web3.career/dev-ops-engineer-amun/13126,"New York,
+United States",Dev Ops Engineer,,dev:devops:react:node:vue,5mo
+Ramp,https://web3.career/partner-care-specialist-rampnetwork/13123,"Warsaw,
+Poland",Partner Care Specialist,,,5mo
+Sygnum Bank AG,https://web3.career/junior-onboarding-specialist-sygnum/13122,Switzerland,Junior Onboarding Specialist,$45k - $56k,junior:entry level:ethereum,5mo
+ONCARE GmbH,https://web3.career/blockchain-developer-f-m-d-medical-industry-3359268-blockchain-developer-f-m-d-medical-industry/13119,Remote,Blockchain Developer (f/m/d) - Medical Industry,$50k - $120k,dev:blockchain:javascript:node:remote,5mo
+Amazon,https://web3.career/software-development-engineer-iii-aws-blockchain-amazon/13118,"Redmond,
+United States",Software Development Engineer III - AWS Blockchain,,dev:blockchain:ethereum:java,5mo
+Gemmy,https://web3.career/co-founder-web3-social-media-gemmy/13117,Remote,Co founder Web3 Social Media,$45k - $150k,executive:social media:non tech:remote,5mo
+CANDY,https://web3.career/people-operations-coordinator-candy/13116,"New York,
+United States",People Operations Coordinator,$60k - $200k,operations,5mo
+Brave,https://web3.career/security-and-cryptography-engineer-brave/13115,"San Francisco,
+United States",Security and Cryptography Engineer,$130k - $200k,dev:security:javascript:ruby:node,5mo
+wappier,https://web3.career/blockchain-product-owner-solution-architect-remote-wappier/13114,Greece,Blockchain Product Owner/Solution Architect (Remote),$115k - $175k,product manager:non tech:remote:architecture:blockchain,5mo
+Arcadia,https://web3.career/rust-blockchain-developer-arcadia/13113,"Dallas,
+United States",Rust Blockchain Developer,$79k - $190k,dev:rust:blockchain:solidity:nft,5mo

@@ -1,36 +1,55 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Chainalysis,https://web3.career/associate-field-marketing-manager-north-american-public-sector-chainalysis/18628,"Associate Field Marketing Manager, North American Public Sector",$45k - $130k,marketing:non tech,3mo
-Chainalysis,https://web3.career/product-data-analyst-finance-chainalysis/18627,"Product Data Analyst, Finance",,analyst:data science:finance,3mo
-Chainalysis,https://web3.career/customer-support-specialist-north-america-chainalysis/18626,"Customer Support Specialist, North America",$40k - $80k,customer support,3mo
-ZAUBAR,https://web3.career/verkaufer-saas-software-3828010-verkaeufer-saas-software/18625,Verkäufer SaaS-Software,,saas:dev:remote,3mo
-Next Big Thing AG,https://web3.career/iot-lead-f-m-x-nextbigthing/18624,IoT Lead (f/m/x),$95k - $200k,lead:remote,3mo
-CoinFlip,https://web3.career/security-architect-coinflip/18623,Security Architect,,architecture:security,3mo
-RECUR,https://web3.career/product-manager-royalties-finance-remote-recur/18621,"Product Manager, Royalties & Finance (Remote)",,remote:finance:product manager:non tech:ethereum,3mo
-RECUR,https://web3.career/product-analyst-remote-recur/18620,Product Analyst (Remote),$45k - $55k,remote:analyst:ethereum:nft,3mo
-Okcoin,https://web3.career/usa-compliance-analyst-okcoin/18619,USA Compliance Analyst,,compliance:analyst,3mo
-CANDY,https://web3.career/senior-unity-engineer-candy/18618,Senior Unity Engineer,$90k - $200k,dev:senior:nft,3mo
-Crypto.com,https://web3.career/quantitative-researcher-derivative-trading-global-fintech-startup-crypto-com/18617,"Quantitative Researcher, Derivative Trading - Global Fintech startup",,finance:javascript:remote,3mo
-CoinFlip,https://web3.career/project-manager-legal-coinflip/18614,"Project Manager, Legal",,legal:project manager:non tech,3mo
-CoinFlip,https://web3.career/information-governance-manager-coinflip/18613,Information Governance Manager,,,3mo
-Ripple,https://web3.career/director-business-development-carbon-markets-ripplex-ripple/18611,"Director, Business Development, Carbon Markets (RippleX)",$40k - $150k,sales:non tech:executive,3mo
-Brave,https://web3.career/user-support-engineer-brave/18610,User Support Engineer,,dev:customer support:remote,3mo
-Next Big Thing AG,https://web3.career/founder-entrepreneur-machine-learning-f-m-x-nextbigthing/18609,Founder / Entrepreneur - Machine Learning (f/m/x),,executive:machine learning:remote,3mo
-Caiz Holding AG,https://web3.career/social-media-manager-3832264-social-media-manager/18608,Social Media Manager,$33k - $85k,social media:non tech,3mo
-Binance,https://web3.career/senior-analyst-bsc-binance/18607,Senior Analyst - BSC,,analyst:senior:remote,3mo
-MRGN Labs,https://web3.career/community-lead-mrgn-labs/18606,Community Lead,$40k - $65k,community manager:non tech:lead:remote:solana,3mo
-ZKX,https://web3.career/senior-software-developer-back-end-typescript-nodejs-zkx/18605,Senior Software Developer Back end Typescript NodeJS,$50k - $120k,backend:dev:javascript:node:senior,3mo
-Ripple,https://web3.career/senior-product-marketing-manager-ripplenet-product-marketing-payments-ripple/18603,"Senior Product Marketing Manager, RippleNet Product Marketing, Payments",$46k - $109k,marketing:non tech:senior,3mo
-Ripple,https://web3.career/senior-software-engineer-clio-ripplex-ripple/18602,"Senior Software Engineer - Clio, RippleX",$50k - $200k,dev:senior:java:golang:rust,3mo
-Ripple,https://web3.career/director-business-development-carbon-markets-ripplex-ripple/18601,"Director, Business Development, Carbon Markets (RippleX)",$40k - $150k,sales:non tech:executive,3mo
-Polygon,https://web3.career/head-of-on-chain-strategy-polygon/18599,Head of On-Chain Strategy,$79k - $158k,executive:remote:ethereum,3mo
-FTX US,https://web3.career/software-engineering-client-unity-ftx-gaming-ftxus/18598,Software Engineering - Client / Unity - FTX Gaming,$70k - $150k,game dev:dev:remote,3mo
-FTX US,https://web3.career/software-engineer-c-ftx-gaming-ftxus/18597,Software Engineer - C# - FTX Gaming,,c:c sharp:c plus plus:dev:game dev,3mo
-Blockchain.com,https://web3.career/head-of-trading-operation-blockchain/18596,Head of Trading Operation,$70k - $180k,executive,3mo
-Ensemble,https://web3.career/commmunity-manager-ensemble/18591,Commmunity Manager,$15k - $20k,remote:community manager:non technical:nft,3mo
-Galaxy Digital Services,https://web3.career/analyst-associate-operations-galaxydigitalservices/18594,"Analyst/Associate, Operations",,analyst:operations:remote,3mo
-GSR,https://web3.career/senior-data-engineer-cryptocurrency-trading-defi-blockchain-new-york-gsr/18593,Senior Data Engineer - Cryptocurrency Trading / DeFi / Blockchain - New York,$130k - $160k,data science:dev:senior:blockchain:crypto,3mo
-OnJuno,https://web3.career/risk-manager-onjuno/18592,Risk Manager,,,3mo
-Solana Labs,https://web3.career/sr-data-scientist-solana/18588,Sr. Data Scientist,,data science:senior:solana:remote,3mo
-Finoa GmbH,https://web3.career/head-of-data-science-and-analytics-m-f-d-finoagmbh/18582,Head of Data Science and Analytics (m/f/d),,executive:stats:data science,3mo
-Sygnum Bank AG,https://web3.career/solutions-architect-custody-defi-sygnum/18581,Solutions Architect – Custody & DeFi,,architecture:defi:web3js:javascript,3mo
-Coin Metrics,https://web3.career/technical-project-manager-coinmetrics/18579,TECHNICAL PROJECT MANAGER,$50k - $150k,project manager:non tech,3mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+the NFT Company,https://web3.career/project-manager-the-nft-company/19311,"Los Angeles,
+United States",Project Manager,$0k,project manager:non tech:nft,3mo
+Hedge Labs,https://web3.career/defi-community-growth-marketing-hedge-labs/19310,"Miami,
+United States",DeFi Community Growth Marketing,$60k - $140k,community manager:non tech:marketing:defi:solana,3mo
+Celo Foundation,https://web3.career/philippines-ecosystem-lead-celofoundation/19308,Remote,Philippines Ecosystem Lead,$95k - $200k,lead:remote,3mo
+OG NFT,https://web3.career/co-founder-web3-software-engineer-og-nft/19307,United States,Co-founder & web3 Software Engineer,$0k,dev:executive:web3js:solidity:nft,3mo
+Gemini,https://web3.career/product-designer-design-gemini/19303,United States,"Product Designer, Design",$45k - $135k,design:non tech:javascript,3mo
+Mycelium,https://web3.career/ux-designer-myc-xyz/19302,"Melbourne,
+Australia",UX Designer,$80k - $150k,design:non tech:ethereum:node,3mo
+BitGo,https://web3.career/senior-blockchain-engineer-customer-excellence-bitgo/19301,United States,Senior Blockchain Engineer - Customer Excellence,$80k - $200k,dev:senior:blockchain:react:javascript,3mo
+BitGo,https://web3.career/senior-blockchain-engineer-customer-excellence-bitgo/19300,"Toronto,
+Canada",Senior Blockchain Engineer - Customer Excellence,$80k - $200k,dev:senior:blockchain:react:javascript,3mo
+Celo Foundation,https://web3.career/marcom-coordinator-celofoundation/19299,Remote,Marcom Coordinator,$56k - $160k,remote,3mo
+Syndicate,https://web3.career/sr-solidity-engineer-syndicate-protocol/19298,United States,Sr. Solidity Engineer,$0k,dev:senior:solidity,3mo
+Nuri,https://web3.career/senior-software-engineer-react-native-nuri/19296,"Berlin,
+Germany",(Senior) Software Engineer - React Native,$65k - $200k,dev:react native:mobile:javascript:react,3mo
+CryptoSlam,https://web3.career/marketing-manager-nfts-remote-cryptoslam/19295,Remote,Marketing Manager - NFTs (Remote),$25k - $120k,remote:marketing:non tech:nft,3mo
+Binance,https://web3.career/translator-english-arabic-binance/19293,Remote,Translator (English/Arabic),,translator:remote,3mo
+Founders Factory,https://web3.career/founder-ceo-project-lime-foundersfactory/19292,Remote,Founder/CEO - Project Lime,$79k - $200k,executive:remote,3mo
+SALT,https://web3.career/product-manager-apis-saltlending/19291,"Chicago,
+United States",Product Manager - APIs,$69k - $160k,product manager:non tech,3mo
+Zigy,https://web3.career/backend-engineer-nft-backend-zigy-1/19290,"Delhi,
+India",Backend Engineer (NFT + Backend),$7k - $9k,backend:dev:nft:react:react native,3mo
+Hedge Labs,https://web3.career/smart-contract-software-engineer-rust-hedge-labs/19289,"Miami,
+United States",Smart Contract Software Engineer (Rust),$120k - $200k,dev:rust:smart contract:web3js:solana,3mo
+Sytac,https://web3.career/senior-devops-cloud-engineer-sytac/19287,"Amsterdam,
+Netherlands",Senior DevOps Cloud Engineer,,cloud:devops:dev:senior,3mo
+Sytac,https://web3.career/senior-data-engineer-sytac/19286,"Amsterdam,
+Netherlands",Senior Data Engineer,$130k - $160k,data science:dev:senior:scala:golang,3mo
+Jambb,https://web3.career/lead-full-stack-engineer-jambb/19284,"Boston,
+United States",Lead Full Stack Engineer,$100k - $200k,dev:full stack:lead:react:solidity,3mo
+Staking Rewards,https://web3.career/senior-cryptoasset-research-analyst-staking-rewards/19283,Remote,Senior Cryptoasset Research Analyst,,analyst:senior:remote,3mo
+OpenSea,https://web3.career/learning-experience-designer-opensea/19282,Remote,Learning Experience Designer,$50k - $135k,design:non tech:remote,3mo
+NetObjex,https://web3.career/blockchain-developer-netobjex-1/19281,India,Blockchain Developer,$0k,dev:blockchain:react:ethereum:java,3mo
+Vendia,https://web3.career/senior-community-manager-vendia/19280,Remote,Senior Community Manager,,community manager:non tech:senior:remote,3mo
+Okcoin,https://web3.career/quality-engineer-okcoin/19278,"San Francisco,
+United States",Quality Engineer,$60k - $180k,dev,3mo
+Celo Foundation,https://web3.career/sr-business-analyst-crypto-celofoundation/19277,Remote,Sr. Business Analyst - Crypto,,analyst:senior:crypto:remote,3mo
+The TIE,https://web3.career/data-scientist-crypto-thetie/19276,"New York,
+United States",Data Scientist (Crypto),$15k - $120k,data science:crypto,3mo
+Passbase,https://web3.career/developer-relations-manager-passbase/19275,"Berlin,
+Germany",Developer Relations Manager,,customer support:dev:remote,3mo
+Cameo,https://web3.career/director-of-accounting-cameo/19274,"Chicago,
+United States",Director of Accounting,$120k - $150k,accounting:executive,3mo
+cLabs,https://web3.career/partner-engineering-lead-clabs/19272,Remote,Partner Engineering Lead,$95k - $200k,lead:remote,3mo
+RECUR,https://web3.career/people-operations-business-partner-engineering-and-product-remote-recur/19271,"Boston,
+United States",People Operations Business Partner - Engineering and Product (Remote),$80k - $110k,remote:operations,3mo
+Bittrex,https://web3.career/senior-security-engineer-bittrex/19270,"Washington,
+United States",Senior Security Engineer,$95k - $250k,dev:security:senior,3mo
+Bittrex,https://web3.career/security-analyst-bittrex/19269,"Washington,
+United States",Security Analyst,$60k - $185k,analyst:security,3mo
+Celo Foundation,https://web3.career/argentina-ecosystem-lead-celofoundation/19268,Remote,Argentina Ecosystem Lead,$95k - $200k,lead:remote,3mo
+Loaded Money,https://web3.career/marketing-brand-manager-fintech-defi-loadedmo/19267,"Chicago,
+United States",Marketing & Brand Manager - FinTech & DeFi,$60k - $100k,marketing:non tech:finance:defi,3mo

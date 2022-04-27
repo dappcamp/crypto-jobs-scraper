@@ -1,36 +1,56 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Solend,https://web3.career/senior-software-engineer-full-stack-solend/25825,"Senior Software Engineer, Full Stack",$90k - $200k,dev:full stack:senior:remote:react,8d
-Credain,https://web3.career/co-founder-cto-fintech-blockchain-early-stage-credain/25824,Co-founder / CTO - Fintech - blockchain - early stage,$0k - $24k,cto:executive:finance:blockchain,8d
-Bitpanda,https://web3.career/senior-talent-acquisition-partner-product-bitpanda/25823,(Senior) Talent Acquisition Partner - Product,$40k - $70k,senior:recruiter:non tech,8d
-Bitpanda,https://web3.career/customer-service-representative-bitpanda-custody-bitpanda/25822,Customer Service Representative - Bitpanda Custody,$40k - $80k,customer support,8d
-Genies,https://web3.career/junior-character-technical-director-genies/25821,Junior Character Technical Director,,executive:junior:entry level:nft,8d
-Genies,https://web3.career/concept-artist-genies/25820,Concept Artist,$55k - $158k,nft,8d
-Nansen.ai,https://web3.career/director-of-accounting-nansen/25819,Director of Accounting,$120k - $150k,accounting:executive,8d
-Injective Labs,https://web3.career/devops-engineer-injectivelabs/25818,DevOps Engineer,$60k - $180k,devops:dev,8d
-SwissBorg,https://web3.career/growth-hacker-defi-remote-swissborg/25817,Growth Hacker - DeFi (Remote),$25k - $120k,remote:marketing:non tech:defi,8d
-Crypto.com,https://web3.career/regulatory-compliance-assurance-and-risk-management-manager-apac-crypto-com/25816,Regulatory Compliance Assurance and Risk Management - Manager (APAC),,compliance:legal,8d
-Crypto.com,https://web3.career/growth-analytics-lead-global-fintech-startup-crypto-com/25815,Growth Analytics Lead - Global Fintech Startup,,stats:finance:marketing:non tech:lead,8d
-DoinGud,https://web3.career/senior-web3-frontend-engineer-doingud/25814,Senior Web3 Frontend Engineer,$70k - $200k,dev:front end:senior:react:solidity,8d
-Paro.io,https://web3.career/crypto-controller-remote-projects-paro-io/25813,Crypto Controller- Remote Projects,,remote:legal:crypto,8d
-Defy Trends,https://web3.career/data-scientist-analyst-blockchain-defy-trends/25812,Data Scientist/Analyst Blockchain,$50k - $85k,analyst:data science:blockchain,8d
-Defy Trends,https://web3.career/blockchain-engineer-token-team-defy-trends/25811,Blockchain Engineer (Token Team),$70k - $110k,dev:blockchain:react:solidity:ethereum,8d
-Bitpanda,https://web3.career/senior-talent-acquisition-partner-commercial-bitpanda/25810,(Senior) Talent Acquisition Partner - Commercial,$40k - $70k,senior:recruiter:non tech,8d
-Amun 21Shares,https://web3.career/data-engineer-amun/25808,Data Engineer,,data science:dev:react:node:scala,8d
-Braintrust,https://web3.career/senior-back-end-engineer-remote-braintrust/25807,Senior Back-End Engineer [REMOTE],$60k - $180k,remote:backend:dev:senior:react,8d
-Stardust Cards Corporation,https://web3.career/engineering-manager-api-backend-stardust/25806,Engineering Manager (API / Backend),,executive:api:backend:remote:nft,8d
-Ferrum Network,https://web3.career/community-manager-for-blockchain-company-ferrumnetwork/25805,Community Manager for Blockchain Company,$15k - $75k,community manager:non tech:blockchain,8d
-Verified,https://web3.career/devops-engineer-blockchain-platform-defiblockchain/25804,DevOps Engineer (Blockchain platform),$20k - $30k,devops:dev:blockchain:ethereum,8d
-Verified,https://web3.career/open-source-contributor-for-new-blockchain-protocol-defiblockchain/25803,Open source contributor for new blockchain protocol,$20k - $50k,blockchain,8d
-Braintrust,https://web3.career/database-architect-firebase-gcp-remote-braintrust/25801,Database Architect (Firebase + GCP) [REMOTE],,remote:architecture:firebase,8d
-Upshot,https://web3.career/sr-product-designer-upshot-io/25800,Sr. Product Designer,$60k - $120k,design:non tech:senior:remote:nft,8d
-Bitpanda,https://web3.career/head-of-pantos-blockchain-technology-bitpanda/25799,Head of Pantos - Blockchain Technology,$46k - $200k,executive:blockchain,8d
-Bitpanda,https://web3.career/engineering-manager-blockchain-bitpanda/25798,Engineering Manager - Blockchain,,executive:blockchain:php:java:golang,8d
-Polygon,https://web3.career/mis-it-engineer-apac-remote-polygon/25797,MIS IT Engineer - APAC (Remote),$65k - $150k,remote:dev:ethereum,8d
-OpenSea,https://web3.career/hr-coordinator-opensea/25796,HR Coordinator,$60k - $120k,hr:non tech:remote,8d
-Mythical Games,https://web3.career/in-house-counsel-mythicalgames/25795,In-House Counsel,$24k - $140k,legal,9d
-Braintrust,https://web3.career/communication-designer-remote-braintrust/25794,Communication Designer [Remote],$50k - $135k,remote:design:non tech,9d
-Open Earth Foundation,https://web3.career/dlt-web3-engineer-building-decentralized-climate-solutions-open-earth-foundation/25793,DLT & Web3 Engineer: Building Decentralized Climate Solutions,$65k - $120k,dev:remote:devops:blockchain:web3js,9d
-Tron,https://web3.career/c-developer-rainberry/25792,C++ Developer,$100k - $150k,c:c plus plus:dev:javascript:node,9d
-Blockchain.com,https://web3.career/people-associate-blockchain/25790,People Associate,$50k - $155k,,9d
-Newton,https://web3.career/senior-react-native-engineer-austin-tx-newton/25789,"Senior React Native Engineer - Austin,TX",$65k - $200k,dev:react native:mobile:javascript:react,9d
-Consensys,https://web3.career/non-technical-template-consensys/25788,Non-Technical Template,$60k - $146k,remote:ethereum,9d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Ledger,https://web3.career/people-business-partner-us-ledger/26432,"New York,
+United States",People Business Partner (US),$50k - $150k,,7d
+Aurora,https://web3.career/technical-recruiter-aurora-dev/26431,Remote,Technical Recruiter,,recruiter:non tech:remote,7d
+Binance,https://web3.career/government-affairs-manager-canada-binance/26430,Canada,Government Affairs Manager - Canada,$50k - $150k,,7d
+Binance,https://web3.career/foreign-exchange-manager-binance/26429,"Singapore,
+Singapore",Foreign Exchange Manager,$50k - $150k,,7d
+Aurora,https://web3.career/devrel-aurora-dev/26428,Remote,DevRel,$60k - $150k,remote:solidity:ethereum,7d
+Raydium,https://web3.career/uiux-designer-raydium/26427,Remote,UIUX Designer,$50k - $150k,design:non tech:remote:solana,7d
+Crypto.com,https://web3.career/research-analyst-editor-global-fintech-startup-crypto-com/26426,Australia,Research Analyst (Editor) - Global Fintech Startup,,analyst:finance,7d
+Crypto.com,https://web3.career/product-manager-global-fintech-startup-crypto-com/26425,Turkey,Product Manager - Global Fintech Startup,,finance:product manager:non tech,7d
+W3BCLOUD,https://web3.career/finance-manager-blockchain-crypto-usa-remote-based-location-w3bcloud/26424,"New York,
+United States",Finance Manager - Blockchain/Crypto (USA/Remote Based Location),$150k - $225k,remote:finance:blockchain:crypto,7d
+Applied Blockchain,https://web3.career/javascript-technical-lead-appliedblockchain/26423,"Porto,
+Portugal",Javascript Technical Lead,$78k - $200k,javascript:lead:tech lead:react:ruby,7d
+Paro.io,https://web3.career/crypto-bookkeeper-remote-projects-paro-io/26422,"Albuquerque,
+United States",Crypto Bookkeeper - Remote Projects,$11k - $25k,remote:accounting:crypto,7d
+Energi Core Limited,https://web3.career/business-development-generalist-sports-energicorelimited/26420,"Barcelona,
+Spain",Business Development Generalist - Sports,$29k - $43k,sales:non tech:ethereum:nft,7d
+Chainalysis,https://web3.career/senior-account-executive-public-sector-asean-chainalysis/26419,"Singapore,
+Singapore","Senior Account Executive, Public Sector (ASEAN)",$46k - $175k,executive:senior,7d
+Chainalysis,https://web3.career/customer-support-specialist-apac-chainalysis/26418,"Singapore,
+Singapore","Customer Support Specialist, APAC",$40k - $80k,customer support,7d
+Chainalysis,https://web3.career/associate-account-executive-south-korea-chainalysis/26417,"Seoul,
+South Korea","Associate Account Executive, South Korea",$70k - $180k,executive,7d
+Solarisbank,https://web3.career/operational-risk-manager-solarisbank/26416,"Berlin,
+Germany",Operational Risk Manager,,finance:operations:remote,7d
+Tokemak,https://web3.career/executive-assistant-web3-tokemak-3/26415,"Miami,
+United States",Executive Assistant (Web3),$70k - $100k,executive,7d
+MetaMask,https://web3.career/global-head-of-developer-and-community-experience-metamask/26414,United States,Global Head of Developer and Community Experience,$45k - $150k,executive:community manager:non tech:dev:ethereum,7d
+CoinList,https://web3.career/data-engineer-coinlist/26413,Remote,Data Engineer,,data science:dev:remote:solana,7d
+Kraken Digital Asset Exchange,https://web3.career/engineering-manager-crypto-payments-kraken/26412,Remote,Engineering Manager - Crypto Payments,$79k - $175k,executive:crypto:remote,7d
+Nestcoin,https://web3.career/associate-ux-researcher-nestcoin/26410,Remote,Associate UX Researcher,$50k - $150k,design:non tech:remote,7d
+Forta Job Board,https://web3.career/security-researcher-forta/26409,,Security Researcher,$150k - $185k,security:solidity:ethereum,7d
+Aurora,https://web3.career/blockchain-bridge-engineer-aurora-dev/26408,Remote,Blockchain/Bridge Engineer,$65k - $190k,dev:blockchain:remote:solidity:solana,7d
+Chainstack,https://web3.career/performance-marketing-manager-chainstack/26407,Remote,Performance marketing manager,$25k - $120k,marketing:non tech:remote,7d
+Tangible,https://web3.career/data-scientist-for-unique-blockchain-marketplace-tangible-8/26406,"Los Angeles,
+United States",Data Scientist for Unique Blockchain Marketplace,$100k - $120k,data science:blockchain,7d
+Polygon,https://web3.career/director-talent-acquisition-polygon/26405,United States,"Director, Talent Acquisition",,executive:recruiter:non tech:ethereum,7d
+Figment,https://web3.career/senior-product-manager-trading-experience-figment/26404,"Toronto,
+Canada","Senior Product Manager, Trading Experience",$80k - $150k,product manager:non tech:senior,7d
+Figment,https://web3.career/senior-product-manager-figment/26403,"Toronto,
+Canada",Senior Product Manager,$80k - $150k,product manager:non tech:senior,7d
+Figment,https://web3.career/product-manager-figment/26402,"Toronto,
+Canada",Product Manager,$67k - $160k,product manager:non tech,7d
+Figment,https://web3.career/product-lead-growth-figment/26401,"Toronto,
+Canada","Product Lead, Growth",$50k - $120k,marketing:non tech:lead,7d
+Figment,https://web3.career/principal-product-designer-figment/26399,"Toronto,
+Canada",Principal Product Designer,,design:non tech:executive,7d
+Blockchain.com,https://web3.career/lead-gaming-partnerships-blockchain/26398,"Los Angeles,
+United States","Lead, Gaming Partnerships",$135k - $150k,sales:non tech:game dev:lead,7d
+Alembics,https://web3.career/full-stack-web3-developer-alembics/26397,"San Francisco,
+United States",Full Stack Web3 Developer,$90k - $120k,dev:full stack:react:react native:solidity,8d
+Aurora,https://web3.career/blockchain-evm-engineer-aurora-dev/26396,Remote,Blockchain/EVM Engineer,$65k - $190k,dev:blockchain:remote:solidity:solana,8d
+Figment,https://web3.career/senior-product-designer-figment/26395,"Toronto,
+Canada",Senior Product Designer,$60k - $120k,design:non tech:senior,8d

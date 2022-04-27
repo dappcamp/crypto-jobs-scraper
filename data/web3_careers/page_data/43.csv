@@ -1,36 +1,54 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-OnJuno,https://web3.career/software-developer-in-test-onjuno/24884,Software Developer in Test,$50k - $150k,quality assurance:dev,19d
-OnJuno,https://web3.career/frontend-developer-onjuno/24883,Frontend Developer,$50k - $150k,dev:front end,19d
-OnJuno,https://web3.career/data-engineer-onjuno/24882,Data Engineer,$70k - $160k,data science:dev,19d
-OnJuno,https://web3.career/android-developer-onjuno/24881,Android Developer,,android:mobile:dev,19d
-OnJuno,https://web3.career/head-of-growth-marketing-onjuno/24880,Head of Growth Marketing,$70k - $158k,executive:marketing:non tech,19d
-OnJuno,https://web3.career/senior-accountant-onjuno/24879,Senior Accountant,$80k - $110k,accounting:senior,19d
-OnJuno,https://web3.career/head-of-finance-onjuno/24878,Head of Finance,$90k - $200k,executive:finance,19d
-Notabene,https://web3.career/product-operations-associate-notabene/24877,Product Operations Associate,$60k - $200k,operations,19d
-Ex Populus,https://web3.career/art-director-video-games-expopulus/24876,Art Director - Video Games,,executive:video,19d
-CoinFlip,https://web3.career/software-engineering-manager-coinflip/24875,Software Engineering Manager,$70k - $300k,executive:dev,19d
-CoinFlip,https://web3.career/ios-developer-coinflip/24874,iOS Developer,$51k - $109k,dev:ios:mobile,19d
-CoinFlip,https://web3.career/android-engineer-coinflip/24873,Android Engineer,,android:mobile:dev,19d
-CoinFlip,https://web3.career/sales-intern-coinflip/24872,Sales Intern,$29k - $43k,intern:entry level:sales:non tech,19d
-CoinFlip,https://web3.career/talent-acquisition-coordinator-coinflip/24871,Talent Acquisition Coordinator,$40k - $70k,recruiter:non tech,19d
-CoinFlip,https://web3.career/human-resources-intern-coinflip/24870,Human Resources Intern,,intern:entry level,19d
-CoinFlip,https://web3.career/hr-generalist-coinflip/24869,HR Generalist,$60k - $150k,hr:non tech,19d
-CoinFlip,https://web3.career/executive-and-personal-assistant-coinflip/24868,Executive and Personal Assistant,$70k - $180k,executive,19d
-CoinFlip,https://web3.career/procurement-manager-coinflip/24867,Procurement Manager,,,19d
-CoinFlip,https://web3.career/marketing-intern-coinflip/24866,Marketing Intern,$24k - $48k,intern:entry level:marketing:non tech,19d
-CoinFlip,https://web3.career/marketing-coordinator-coinflip/24865,Marketing Coordinator,$45k - $130k,marketing:non tech,19d
-CoinFlip,https://web3.career/director-treasury-coinflip/24864,"Director, Treasury",$70k - $180k,executive,19d
-CoinFlip,https://web3.career/technical-support-specialist-coinflip/24863,Technical Support Specialist,$40k - $80k,customer support,19d
-CoinFlip,https://web3.career/experience-center-representative-coinflip/24862,Experience Center Representative,,,19d
-CoinFlip,https://web3.career/anti-money-laundering-associate-coinflip/24861,Anti Money Laundering Associate,,,19d
-CoinFlip,https://web3.career/senior-data-analyst-coinflip/24860,Senior Data Analyst,,analyst:data science:senior,19d
-Async Art,https://web3.career/business-development-lead-asyncart/24859,Business Development Lead,,sales:non tech:lead:remote:nft,19d
-Foundation,https://web3.career/trust-safety-operations-analyst-with-foundation/24858,Trust & Safety Operations Analyst,,analyst:operations:remote,19d
-Foundation,https://web3.career/finance-lead-with-foundation/24857,Finance Lead,,finance:lead:remote,19d
-Aragon Association,https://web3.career/senior-devops-engineer-aragon/24856,Senior Devops Engineer,$120k - $200k,devops:dev:senior:remote:solidity,19d
-Binance,https://web3.career/office-manager-administrator-brazil-binance/24854,Office Manager/Administrator - Brazil,$56k - $150k,react,19d
-Xsolla,https://web3.career/product-owner-web3c-inventory-xsolla/24853,Product Owner (Web3c Inventory),,c:c plus plus:product manager:non tech:nft,19d
-Crypto.com,https://web3.career/latam-tax-senior-manager-global-fintech-startup-crypto-com/24850,LATAM Tax Senior Manager - Global Fintech Startup,,finance:senior:accounting,19d
-Crypto.com,https://web3.career/information-security-compliance-manager-crypto-com/24849,Information Security Compliance Manager,,compliance:security,19d
-Tatum,https://web3.career/senior-backend-developer-for-blockchain-platform-tatum/24848,Senior Backend Developer for Blockchain platform,$70k - $200k,backend:dev:senior:blockchain:javascript,19d
-Crypto.com,https://web3.career/onboarding-coordinator-crypto-com/24847,Onboarding Coordinator,,,19d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Decentral Games,https://web3.career/executive-assistant-decentralgames/25458,"Los Angeles,
+United States",Executive Assistant,$63k - $180k,executive:nft,19d
+Decentral Games,https://web3.career/head-of-growth-decentralgames/25457,United States,Head of Growth,$70k - $158k,executive:marketing:non tech:nft,19d
+Decentral Games,https://web3.career/head-of-people-decentralgames/25456,United States,Head of People,$63k - $180k,executive:nft,19d
+Decentral Games,https://web3.career/technical-content-writer-decentralgames/25455,"Los Angeles,
+United States",Technical Content Writer,,copywriting:solidity:ethereum:nft,19d
+Polysynth,https://web3.career/software-engineer-nodejs-3-years-polysynth/25454,"Delhi,
+India",Software Engineer - Nodejs (3+ years),$23k - $39k,dev:javascript:node,19d
+Polysynth,https://web3.career/community-manager-polysynth/25453,India,Community Manager,$78k - $13k,community manager:non tech,19d
+Polysynth,https://web3.career/senior-brand-specialist-polysynth/25452,India,Senior Brand Specialist,$78k - $13k,marketing:non tech:senior,19d
+Polysynth,https://web3.career/senior-seo-specialist-polysynth/25451,India,Senior SEO Specialist,$78k - $13k,senior:seo:non tech,19d
+Braintrust,https://web3.career/qa-analyst-remote-braintrust/25450,"San Francisco,
+United States",QA Analyst [Remote],,remote:analyst:quality assurance,19d
+Solend,https://web3.career/product-designer-solend/25449,Remote,Product Designer,$50k - $135k,design:non tech:remote:solana,19d
+Cerebellum Network,https://web3.career/payroll-hr-coordinator-cere-network/25447,Remote,Payroll HR Coordinator,,hr:non tech:accounting:remote:nft,19d
+Findora,https://web3.career/ui-ux-designer-findora/25446,"Menlo Park,
+United States",UI/UX Designer,$50k - $150k,design:non tech,19d
+Stellar Development Foundation,https://web3.career/security-engineering-manager-stellar/25445,"San Francisco,
+United States",Security Engineering Manager,,executive:security:ruby,19d
+Snickerdoodle Labs,https://web3.career/bd-partnerships-lead-snickerdoodlelabs/25444,"San Jose,
+Costa Rica",BD & Partnerships Lead,,sales:non tech:lead:nft,19d
+UniJoin.io,https://web3.career/searching-crypto-specialized-marketing-experts-for-lead-generation-unijoin-io/25443,Remote,Searching Crypto specialized Marketing Experts For Lead Generation,$0k - $20k,lead:marketing:non tech:crypto:remote,19d
+LayerZero Labs,https://web3.career/frontend-engineer-layerzerolabs/25442,"Vancouver,
+Canada",Frontend Engineer,$50k - $144k,dev:front end:react:rust,20d
+Bitcoin Depot,https://web3.career/enhanced-due-diligence-manager-bitcoindepot/25439,"Atlanta,
+United States",Enhanced Due Diligence Manager,,,20d
+Stellar Development Foundation,https://web3.career/head-of-product-stellar/25438,"San Francisco,
+United States",Head of Product,$135k - $170k,executive:product manager:non tech,20d
+Stellar Development Foundation,https://web3.career/head-of-product-stellar/25437,"New York,
+United States",Head of Product,$135k - $170k,executive:product manager:non tech,20d
+Blocknative,https://web3.career/director-of-product-marketing-blocknative/25436,Remote,Director of Product Marketing,$70k - $158k,executive:marketing:non tech:product manager:remote,20d
+Chainlink Labs,https://web3.career/technical-program-manager-node-operations-chainlink/25434,Remote,"Technical Program Manager, Node Operations",,javascript:node:operations:executive:remote,20d
+Chainlink Labs,https://web3.career/data-scientist-simulation-chainlink/25433,Remote,"Data Scientist, Simulation",$50k - $135k,data science:remote,20d
+CoinFlip,https://web3.career/security-analyst-coinflip/25432,"Chicago,
+United States",Security Analyst,$60k - $185k,analyst:security,20d
+Chainalysis,https://web3.career/regional-channel-manager-emea-chainalysis/25430,"London,
+United Kingdom","Regional Channel Manager, EMEA",,,20d
+Bittrex,https://web3.career/accounting-manager-bittrex/25429,"Washington,
+United States",Accounting Manager,$25k - $150k,accounting,20d
+BitGo,https://web3.career/data-quality-analyst-bitgo/25428,"Bangalore,
+India",Data Quality Analyst,$40k - $120k,analyst,20d
+SuperRare Labs,https://web3.career/lead-brand-designer-superrarelabs/25427,"New York,
+United States",Lead Brand Designer,,marketing:non tech:design:lead:nft,20d
+Figment,https://web3.career/channel-reporting-analyst-figment/25426,"Toronto,
+Canada",Channel Reporting Analyst,$150k - $185k,analyst:javascript,20d
+Bittrex,https://web3.career/senior-accounting-manager-bittrex/25425,"Washington,
+United States",Senior Accounting Manager,$80k - $110k,accounting:senior,20d
+Cerebellum Network,https://web3.career/product-designer-cere-network/25424,Remote,Product Designer,$50k - $135k,design:non tech:remote:nft,20d
+Chronicled.com,https://web3.career/implementation-consultant-chronicled-2/25423,Remote,Implementation Consultant,,consulting:remote,20d
+Chronicled.com,https://web3.career/principal-software-engineer-backend-chronicled-2/25422,Remote,"Principal Software Engineer, Backend",$140k - $300k,backend:dev:executive:remote,20d
+Chronicled.com,https://web3.career/principal-software-engineer-backend-chronicled-2/25421,Remote,"Principal Software Engineer, Backend",$140k - $300k,backend:dev:executive:remote,20d
+Chronicled.com,https://web3.career/principal-software-engineer-backend-chronicled-2/25420,Remote,"Principal Software Engineer, Backend",$140k - $300k,backend:dev:executive:remote,20d
+Binance,https://web3.career/product-designer-instant-messaging-binance/25417,Asia,Product Designer - Instant Messaging,$50k - $150k,design:non tech,20d

@@ -1,36 +1,65 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Parity Technologies,https://web3.career/technical-content-creator-parity/14915,Technical Content Creator,$56k - $160k,remote,4mo
-MoonPay,https://web3.career/react-native-mobile-engineer-contract-moonpay/14914,React Native Mobile Engineer (contract),$65k - $200k,dev:mobile:react native:javascript:react,4mo
-RECUR,https://web3.career/senior-accountant-remote-recur/14913,Senior Accountant (Remote),,remote:accounting:senior:ethereum:nft,4mo
-Triplebyte,https://web3.career/subject-matter-expert-blockchain-triplebyte/14912,Subject Matter Expert-Blockchain,$60k - $170k,blockchain:remote,4mo
-SwissBorg,https://web3.career/backoffice-operations-specialist-swissborg/14911,BackOffice Operations Specialist,$60k - $200k,operations,4mo
-Brahma Finance,https://web3.career/senior-product-designer-defi-brahma-finance/14909,Senior Product Designer - DeFi,$30k - $60k,design:non tech:senior:defi:react,4mo
-Brahma Finance,https://web3.career/senior-backend-engineer-defi-brahma-finance/14908,Senior Backend Engineer - DeFi,$30k - $100k,backend:dev:senior:defi,4mo
-Massive,https://web3.career/blockchain-research-intern-joinmassive/14907,Blockchain Research Intern,$0k,intern:entry level:blockchain:node,4mo
-Sygnum Bank AG,https://web3.career/vp-asset-management-sales-sygnum/14905,"VP, Asset Management Sales",$40k - $150k,sales:non tech:executive:ethereum,4mo
-Change,https://web3.career/office-manager-changeinvest/14904,Office Manager,,,4mo
-Acronis,https://web3.career/senior-python-developer-cloud-integrations-3530591-senior-python-developer-cloud-integrations/14903,Senior Python Developer (Cloud Integrations),,cloud:dev:python:senior:php,4mo
-Careers at Paxful,https://web3.career/product-manager-infosec-team-paxful/14901,Product Manager - InfoSec Team,,security:product manager:non tech,4mo
-Next Big Thing AG,https://web3.career/working-student-design-m-f-x-nextbigthing/14900,Working Student Design (m/f/x),$50k - $135k,design:non tech:remote,4mo
-Crypto.com,https://web3.career/product-operations-associate-fresh-grads-are-welcome-crypto-com/14899,Product Operations Associate - Fresh grads are welcome,,operations:junior:interm,4mo
-Consensys,https://web3.career/learning-and-development-specialist-consensys/14898,Learning and Development Specialist,,,4mo
-OKEx,https://web3.career/receptionist-administration-assistant-okex/14897,Receptionist & Administration Assistant,,,4mo
-Retail Ecommerce Ventures,https://web3.career/experienced-blockchain-developer-retail-ecommerce-ventures-1/14896,Experienced Blockchain Developer,$75k - $100k,dev:blockchain:solidity,4mo
-Sygnum Bank AG,https://web3.career/security-operations-engineer-zurich-or-lausanne-sygnum/14894,"Security Operations Engineer, Zurich or Lausanne",,dev:operations:security,4mo
-Sygnum Bank AG,https://web3.career/head-of-tokenization-sygnum/14893,Head of Tokenization,$70k - $180k,executive,4mo
-Nuri,https://web3.career/engineering-manager-nuri/14891,Engineering Manager,$79k - $200k,executive:remote,4mo
-Sygnum Bank AG,https://web3.career/full-stack-tech-lead-singapore-sygnum/14890,"Full-stack Tech Lead, Singapore",$78k - $120k,full stack:lead:tech lead:react,4mo
-Techteams,https://web3.career/mid-level-backend-engineer-techteams/14886,Mid-level Backend Engineer,$60k - $180k,backend:dev,4mo
-Autonomy Network,https://web3.career/crypto-community-manager-autonomy-network-1/14885,Crypto Community Manager,$56k - $101k,community manager:non tech:crypto:remote:nft,4mo
-Crypto.com,https://web3.career/paralegal-global-fintech-startup-crypto-com/14884,Paralegal - Global Fintech Startup,$120k - $225k,finance:nft,4mo
-Sygnum Bank AG,https://web3.career/discretionary-investment-manager-sygnum/14883,Discretionary Investment Manager,$15k - $150k,finance:ethereum,4mo
-Crypto.com,https://web3.career/global-talent-acquisition-manager-fintech-start-up-crypto-com/14882,Global Talent Acquisition Manager - Fintech Start-up,,finance:recruiter:non tech,4mo
-Sygnum Bank AG,https://web3.career/information-security-risk-manager-sygnum/14880,Information Security Risk Manager,$95k - $200k,security,4mo
-Sygnum Bank AG,https://web3.career/head-of-external-asset-management-singapore-sygnum/14879,"Head of External Asset Management, Singapore",$79k - $158k,executive:ethereum,4mo
-Binance,https://web3.career/senior-recruiter-product-and-design-binance/14878,Senior Recruiter (Product and Design),,design:non tech:recruiter:senior:remote,4mo
-Crypto.com,https://web3.career/financial-crimes-manager-crypto-com/14877,Financial Crimes Manager,$150k - $225k,finance:nft:remote,4mo
-Binance,https://web3.career/risk-backend-developer-junior-fresh-binance/14875,Risk Backend Developer (Junior/Fresh),$28k - $39k,backend:dev:junior:entry level,4mo
-Polygon,https://web3.career/entrepreneur-in-residence-polygon/14874,Entrepreneur-in-residence,$60k - $145k,remote:ethereum,4mo
-myVideodesign,https://web3.career/full-stack-developer-co-founder-for-ai-based-saas-startup-3447452-full-stack-developer-co-founder-for-ai-based-saas-startup/14871,Full Stack Developer / Co-Founder for AI-based SaaS Startup,$50k - $300k,dev:executive:full stack:saas:react,4mo
-Sygnum Bank AG,https://web3.career/site-reliability-engineer-sygnum/14870,Site Reliability Engineer,$150k - $200k,dev:sys admin:java,4mo
-Tangany,https://web3.career/working-student-backend-software-engineer-or-web-services-developer-w-m-d-en-de-3529469-working-student-backend-software-engineer-or-web-services-developer-w-m-d-en-de/14869,Working Student Backend Software Engineer or Web Services Developer (w/m/d) [EN/DE],$65k - $125k,backend:dev:ethereum:javascript:node,4mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Salad Ventures,https://web3.career/blockchain-developer-salad-ventures/15567,"Singapore,
+Singapore",Blockchain Developer,$0k,dev:blockchain:react:javascript:node,4mo
+CANDY,https://web3.career/senior-full-stack-developer-candy/15566,"New York,
+United States",Senior Full-Stack Developer,$70k - $180k,dev:full stack:senior:nft:javascript,4mo
+CANDY,https://web3.career/senior-frontend-engineer-candy/15565,"New York,
+United States",Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:javascript,4mo
+CANDY,https://web3.career/senior-blockchain-engineer-smart-contracts-candy/15564,"New York,
+United States",Senior Blockchain Engineer (Smart Contracts),$80k - $200k,dev:senior:blockchain:smart contract:solidity,4mo
+CANDY,https://web3.career/senior-backend-engineer-candy/15563,"New York,
+United States",Senior Backend Engineer,$70k - $200k,backend:dev:senior:java,4mo
+CANDY,https://web3.career/data-scientist-candy/15562,"New York,
+United States",Data Scientist,$50k - $150k,data science:nft,4mo
+CANDY,https://web3.career/vp-product-candy/15561,"New York,
+United States","VP, Product",$63k - $180k,executive:nft,4mo
+CANDY,https://web3.career/user-experience-researcher-candy/15560,"New York,
+United States",User Experience Researcher,$60k - $150k,design:non tech:nft,4mo
+CANDY,https://web3.career/senior-product-manager-candy/15559,"New York,
+United States",Senior Product Manager,$80k - $150k,product manager:non tech:senior,4mo
+CANDY,https://web3.career/technical-recruiter-entry-level-candy/15558,"New York,
+United States",Technical Recruiter (Entry-Level),$40k - $70k,recruiter:non tech,4mo
+CANDY,https://web3.career/business-operations-associate-candy/15557,"New York,
+United States",Business Operations Associate,$60k - $200k,operations,4mo
+CANDY,https://web3.career/senior-user-experience-designer-candy/15556,"New York,
+United States",Senior User Experience Designer,$60k - $120k,design:non tech:senior:nft:javascript,4mo
+CANDY,https://web3.career/customer-experience-associate-candy/15555,"New York,
+United States",Customer Experience Associate,,customer support:nft,4mo
+CANDY,https://web3.career/senior-video-editor-candy/15554,"New York,
+United States",Senior Video Editor,,senior:video,4mo
+CANDY,https://web3.career/senior-sound-designer-candy/15553,"New York,
+United States",Senior Sound Designer,$60k - $120k,design:non tech:senior,4mo
+CANDY,https://web3.career/senior-motion-graphic-designer-candy/15552,"New York,
+United States",Senior Motion Graphic Designer,$60k - $120k,design:non tech:senior:nft,4mo
+CANDY,https://web3.career/3d-modeler-candy/15551,"New York,
+United States",3D Modeler,$13k - $50k,vfx,4mo
+CANDY,https://web3.career/3d-animator-candy/15550,"New York,
+United States",3D Animator,,vfx:video,4mo
+CANDY,https://web3.career/strategic-account-manager-sports-candy/15549,"New York,
+United States",Strategic Account Manager (Sports),,account manager,4mo
+CANDY,https://web3.career/strategic-account-director-sports-candy/15548,"New York,
+United States",Strategic Account Director (Sports),$70k - $180k,executive,4mo
+Maple,https://web3.career/senior-rust-engineer-maple-finance/15546,Remote,Senior Rust Engineer,$120k - $210k,dev:rust:senior:remote:solidity,4mo
+Maple,https://web3.career/marketing-executive-maple-finance/15545,Remote,Marketing Executive,$70k - $158k,executive:marketing:non tech:remote,4mo
+Blockswap,https://web3.career/community-lead-blockswap/15544,Remote,Community Lead,$40k - $65k,community manager:non tech:lead:remote:nft,4mo
+Localcoin,https://web3.career/web-developer-localcoin/15543,"Toronto,
+Canada",Web Developer,$56k - $160k,dev:react:javascript,4mo
+Localcoin,https://web3.career/social-paid-media-specialist-localcoin/15542,"Toronto,
+Canada",Social & Paid Media Specialist,,,4mo
+Sygnum Bank AG,https://web3.career/business-intelligence-analyst-sygnum/15541,Switzerland,Business Intelligence Analyst,$45k - $185k,analyst:ethereum,4mo
+Set Labs,https://web3.career/senior-product-designer-setlabs/15540,"San Francisco,
+United States",Senior Product Designer,$60k - $120k,design:non tech:senior:ethereum,4mo
+Foundry,https://web3.career/hr-manager-foundrydigital/15539,"New York,
+United States",HR Manager,$60k - $150k,hr:non tech,4mo
+CoinDesk & TradeBlock Opportunities,https://web3.career/senior-index-research-analyst-coindesk/15538,Remote,Senior Index Research Analyst,,analyst:senior:remote,4mo
+Bitcoin Depot,https://web3.career/software-development-manager-bitcoindepot/15536,"Atlanta,
+United States",Software Development Manager,$57k - $140k,dev:react:ethereum:node,4mo
+SwissBorg,https://web3.career/web-developer-remote-swissborg/15535,"Amsterdam,
+Netherlands",Web Developer (Remote),$65k - $180k,remote:dev,4mo
+SwissBorg,https://web3.career/web-developer-remote-swissborg/15534,"Berlin,
+Germany",Web Developer (Remote),$65k - $180k,remote:dev,4mo
+SwissBorg,https://web3.career/web-developer-remote-swissborg/15533,"Barcelona,
+Spain",Web Developer (Remote),$65k - $180k,remote:dev,4mo
+0x,https://web3.career/senior-software-engineer-head-of-defi-0x/15532,"San Francisco,
+United States",Senior Software Engineer // Head of DeFi,$60k - $250k,executive:dev:senior:defi:ethereum,4mo
+bloXmove,https://web3.career/lead-architect-3472475-lead-architect-utm_source-google_jobs_apply-pid-bce1fbd2f366390046fc/15531,Remote,Lead Architect,,architecture:lead:remote,4mo

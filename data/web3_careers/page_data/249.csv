@@ -1,36 +1,54 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-WonderBlocks Labs,https://web3.career/frontend-engineer-nft-rewards-marketplace-wonderblocks-labs/16086,Frontend Engineer - NFT Rewards Marketplace,$0k,dev:front end:nft:javascript,4mo
-Crystal Blockchain Analytics,https://web3.career/sales-executive-remote-crystal/16083,Sales Executive (Remote),$40k - $150k,remote:executive:sales:non tech,4mo
-Crystal Blockchain Analytics,https://web3.career/senior-backend-developer-go-solidity-crystal/16082,"Senior Backend Developer (Go, Solidity)",$33k - $160k,backend:dev:golang:senior:solidity,4mo
-Rarible,https://web3.career/partner-manager-rarible/16081,Partner Manager,$56k - $165k,remote:nft,4mo
-NUTS Finance,https://web3.career/full-stack-engineer-web3-defi-nutsfinance/16080,Full-Stack Engineer (Web3 & DeFi),$140k - $180k,dev:full stack:defi:react,4mo
-Nuri,https://web3.career/application-security-engineer-nuri/16079,Application Security Engineer,$95k - $250k,dev:security:remote,4mo
-Crystal Blockchain Analytics,https://web3.career/chief-revenue-officer-cro-crystal/16076,Chief Revenue Officer (CRO),$70k - $180k,executive,4mo
-Crystal Blockchain Analytics,https://web3.career/sales-executive-nam-remote-crystal/16075,Sales Executive (NAM) - Remote,$40k - $150k,remote:executive:sales:non tech,4mo
-Crystal Blockchain Analytics,https://web3.career/content-research-lead-crystal/16074,Content Research Lead,$60k - $200k,lead,4mo
-Crystal Blockchain Analytics,https://web3.career/customer-success-representative-remote-crystal/16069,Customer Success Representative (Remote),$40k - $80k,remote:customer support,4mo
-peaq,https://web3.career/community-manager-m-f-d-remote-3582662-community-manager-m-f-d-remote/16065,"Community Manager (m/f/d), REMOTE",$40k - $101k,remote:community manager:non tech,4mo
-Crystal Blockchain Analytics,https://web3.career/senior-lead-python-developer-crystal/16064,Senior/Lead Python Developer,$140k - $180k,dev:lead:python:senior,4mo
-Crystal Blockchain Analytics,https://web3.career/senior-qa-automation-engineer-remote-crystal/16063,Senior QA Automation Engineer (remote),,remote:dev:quality assurance:senior:java,4mo
-Crystal Blockchain Analytics,https://web3.career/performance-marketing-manager-crystal/16062,Performance Marketing Manager,$45k - $130k,marketing:non tech,4mo
-Crystal Blockchain Analytics,https://web3.career/qa-manual-engineer-remote-crystal/16061,QA Manual Engineer (remote),,remote:dev:quality assurance,4mo
-Crystal Blockchain Analytics,https://web3.career/customer-success-representative-remote-crystal/16060,Customer Success Representative (Remote),$40k - $80k,remote:customer support,4mo
-Gemini,https://web3.career/ux-research-manager-gemini/16059,UX Research Manager,$50k - $150k,design:non tech,4mo
-OKEx,https://web3.career/talent-acquisition-manager-okex/16057,Talent Acquisition Manager,$40k - $70k,recruiter:non tech,4mo
-NUTS Finance,https://web3.career/product-manager-web3-defi-nutsfinance/16056,Product Manager (Web3 & DeFi),$100k - $150k,product manager:non tech:defi,4mo
-Braintrust,https://web3.career/braintrust-growth-marketing-manager-part-time-braintrust/16055,Braintrust | Growth Marketing Manager (Part-time),,marketing:non tech:part time,4mo
-Crystal Blockchain Analytics,https://web3.career/sales-executive-nam-remote-crystal/16054,Sales Executive (NAM) - Remote,$40k - $150k,remote:executive:sales:non tech,4mo
-Aver,https://web3.career/marketing-brand-lead-aver/16053,Marketing & Brand Lead,$50k - $120k,marketing:non tech:lead:remote:solana,4mo
-Elwood Technologies,https://web3.career/sales-director-elwoodtechnologies/16052,Sales Director,$40k - $150k,executive:sales:non tech:remote,4mo
-LATOKEN,https://web3.career/analyst-remote-latoken/16051,Analyst (remote),$50k - $120k,remote:analyst:nft,4mo
-Crystal Blockchain Analytics,https://web3.career/frontend-developer-wordpress-crystal/16050,Frontend Developer (WordPress),,dev:front end:wordpress,4mo
-BytePitch - Software Labs,https://web3.career/blockchain-software-engineer-full-time-contractor-bytepitch-softwarelabs/16049,Blockchain Software Engineer - Full Time Contractor,$89k - $142k,dev:full time:blockchain:solidity:ethereum,4mo
-Elwood Technologies,https://web3.career/technical-account-manager-elwoodtechnologies/16048,Technical Account Manager,,account manager,4mo
-Kraken Digital Asset Exchange,https://web3.career/seo-manager-kraken/16047,SEO Manager,,seo:non tech:remote,4mo
-Crystal Blockchain Analytics,https://web3.career/devops-linux-system-administrator-crystal/16042,DevOps/Linux System Administrator,,devops:linux:sys admin:golang,4mo
-Crystal Blockchain Analytics,https://web3.career/customer-success-representative-remote-crystal/16041,Customer Success Representative (Remote),$40k - $80k,remote:customer support,4mo
-Crystal Blockchain Analytics,https://web3.career/sales-executive-remote-crystal/16040,Sales Executive (Remote),$40k - $150k,remote:executive:sales:non tech,4mo
-Binance,https://web3.career/nft-analyst-intern-nft-gamefi-binance/16039,NFT Analyst Intern (NFT/GameFi),$20k - $30k,analyst:intern:entry level:nft:remote,4mo
-W3BCLOUD,https://web3.career/finance-manager-blockchain-crypto-usa-remote-based-location-w3bcloud/16038,Finance Manager - Blockchain/Crypto (USA/Remote Based Location),$50k - $225k,remote:finance:blockchain:crypto,4mo
-Elwood Technologies,https://web3.career/technical-implementation-engineer-elwoodtechnologies/16037,Technical Implementation Engineer,$60k - $180k,dev,4mo
-Elwood Technologies,https://web3.career/technical-account-manager-elwoodtechnologies/16036,Technical Account Manager,,account manager,4mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Blocksize Capital GmbH,https://web3.career/quality-assurance-cypress-partially-or-fully-remote-3668321-quality-assurance-cypress-partially-or-fully-remote/16762,Remote,Quality Assurance Cypress (partially or fully remote),$33k - $50k,remote:react:javascript:golang,4mo
+Bitaccess,https://web3.career/software-engineer-bitcoin-crypto-blockchain-bitaccess/16761,"Toronto,
+Canada","Software Engineer - Bitcoin, Crypto & Blockchain",,dev:btc:blockchain:crypto:ethereum,4mo
+Binance,https://web3.career/junior-data-analyst-intern-binance/16757,"Singapore,
+Singapore",Junior Data Analyst (Intern),,analyst:data science:intern:entry level:junior,4mo
+Optimism,https://web3.career/developer-advocate-optimism/16756,Remote,Developer Advocate,$63k - $160k,dev:solidity:ethereum:remote,4mo
+SimplSo,https://web3.career/solana-rust-developer-simplso/16754,"Ahmedabad,
+India",Solana/Rust Developer,$62k - $11k,dev:rust:solana,4mo
+Nuri,https://web3.career/strategy-operations-associate-nuri/16753,"Berlin,
+Germany",Strategy & Operations Associate,$80k - $110k,operations:remote,4mo
+Acria UG (haftungsbeschränkt),https://web3.career/marketing-intern-great-salary-great-team-apply-today-3666962-marketing-intern-great-salary-great-team-apply-today/16752,Remote,"Marketing Intern - Great salary, great team! Apply today.",$3k,intern:entry level:marketing:non tech:ethereum,4mo
+Binance,https://web3.career/senior-back-end-java-developer-binance-gift-card-binance/16751,Remote,Senior Back-End / Java Developer (Binance Gift Card),$60k - $160k,backend:dev:java:senior:remote,4mo
+SIDESTREAM,https://web3.career/new-things-working-student-3662479-new-things-working-student/16750,Remote,New Things Working Student,$0k,remote,4mo
+Nuri,https://web3.career/senior-software-engineer-platform-golang-nuri/16749,"Berlin,
+Germany",Senior Software Engineer - Platform (Golang),$65k - $150k,dev:golang:senior:remote,4mo
+REAPP,https://web3.career/blockchain-expert-reapp-1/16746,India,Blockchain Expert,$15k - $23k,blockchain:javascript:java,4mo
+BCGDV,https://web3.career/chief-product-officer-fine-arts-digital-venture-bcgdv/16745,"Zurich,
+Switzerland",Chief Product Officer - Fine arts digital venture,$70k - $180k,executive,4mo
+Sygnum Bank AG,https://web3.career/marketing-intern-sygnum/16744,Switzerland,Marketing Intern,$24k - $48k,intern:entry level:marketing:non tech:ethereum,4mo
+IOTA Foundation,https://web3.career/senior-software-engineer-go-remote-iota/16743,Remote,Senior Software Engineer - Go - Remote,$22k - $150k,remote:dev:golang:senior:ethereum,4mo
+THIS IS! Digital Media Group,https://web3.career/frontend-developer-bangalore-india-thisisdmg/16741,Remote,"Frontend Developer (Bangalore, India)",$50k - $140k,dev:front end:javascript:remote,4mo
+ARXUM GmbH,https://web3.career/software-developer-customer-projects-m-f-d-3665487-software-developer-customer-projects-m-f-d/16740,Remote,"Software Developer Customer Projects (m,f,d)",$60k - $180k,dev:javascript:remote,4mo
+MRGN Labs,https://web3.career/senior-blockchain-engineer-mrgn-labs/16738,Remote,Senior Blockchain Engineer,$80k - $200k,dev:senior:blockchain:remote:solana,4mo
+MRGN Labs,https://web3.career/senior-software-engineer-backend-mrgn-labs/16737,Remote,Senior Software Engineer - Backend,$70k - $200k,backend:dev:senior:remote:solana,4mo
+500px,https://web3.career/community-manager-content-500px/16735,"Toronto,
+Canada","Community Manager, Content",$35k - $101k,community manager:non tech:nft,4mo
+the NFT Company,https://web3.career/sr-marketing-manager-the-nft-company/16733,"Los Angeles,
+United States",Sr Marketing Manager,$110k - $150k,marketing:non tech:nft,4mo
+Eluvio,https://web3.career/software-engineer-api-test-and-support-blockchain-media-eluv-io/16732,United States,Software Engineer - API Test and Support (Blockchain/Media),,api:dev:customer support:blockchain:javascript,4mo
+Ledger,https://web3.career/qa-engineer-sdet-ledger-b2c-ledger/16731,"Paris,
+France",QA Engineer/ SDET - Ledger B2C,$100k - $150k,c:c plus plus:dev:quality assurance,4mo
+Hype Partners,https://web3.career/community-games-campaigns-builder-hypepartners/16727,"Berlin,
+Germany",Community Games/Campaigns Builder,$40k - $100k,community manager:non tech,4mo
+Nas Academy,https://web3.career/crypto-community-manager-nasacademy/16723,"Manila,
+Philippines",Crypto Community Manager,$35k - $100k,community manager:non tech:crypto:nft,4mo
+Finoa GmbH,https://web3.career/expansion-manager-m-f-div-finoagmbh/16722,"Berlin,
+Germany",Expansion Manager (m/f/div),,,4mo
+Blokhaus,https://web3.career/graphic-designer-blokhaus/16720,"New York,
+United States",Graphic Designer,$80k - $135k,design:non tech:react,4mo
+Change,https://web3.career/senior-dealer-changeinvest/16719,"Tallinn,
+Estonia",Senior Dealer,$78k - $200k,senior,4mo
+Crypto.com,https://web3.career/head-of-risk-turkey-crypto-com/16718,Turkey,"Head of Risk, Turkey",$63k - $180k,executive:nft,4mo
+Sygnum Bank AG,https://web3.career/svp-compliance-sygnum/16717,"Singapore,
+Singapore","SVP, Compliance",,compliance,4mo
+Blokhaus,https://web3.career/operations-manager-blokhaus/16715,"New York,
+United States",Operations Manager,$60k - $200k,operations,4mo
+Optimism,https://web3.career/marketing-lead-optimism/16714,Remote,Marketing Lead,$50k - $120k,lead:marketing:non tech:remote:ethereum,4mo
+Auros,https://web3.career/junior-traders-hft-crypto-auros-1/16713,"New York,
+United States",JUNIOR TRADERS – HFT / CRYPTO,$60k - $140k,junior:entry level:crypto,4mo
+OnChain Labs,https://web3.career/software-developer-solidity-developer-onchain-labs/16712,India,Software Developer/Solidity Developer,$0k,dev:solidity:nft:javascript,4mo
+iVE.ONE,https://web3.career/senior-institutional-sales-relationship-manager-m-f-d-3659173-senior-institutional-sales-and-relationship-manager-m-f-d/16711,"Frankfurt,
+Germany",Senior Institutional Sales & Relationship Manager (m/f/d),$100k - $200k,marketing:non tech:sales:senior:remote,4mo
+TaxBit,https://web3.career/staff-blockchain-engineer-taxbit/16710,United States,Staff Blockchain Engineer,$50k - $130k,dev:blockchain:react:solidity:javascript,4mo

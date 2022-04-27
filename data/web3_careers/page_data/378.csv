@@ -1,36 +1,57 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Blockchain.com,https://web3.career/ios-engineer-blockchain/10072,iOS Engineer,$51k - $109k,dev:ios:mobile,5mo
-Blockchain.com,https://web3.career/android-engineer-blockchain/10071,Android Engineer,,android:mobile:dev:java,5mo
-Blockchain.com,https://web3.career/latin-american-compliance-and-kyc-specialist-blockchain/10070,Latin American Compliance and KYC Specialist,,compliance:kyc,5mo
-Blockchain.com,https://web3.career/kyc-specialist-americas-blockchain/10069,"KYC Specialist, Americas",,kyc,5mo
-Blockchain.com,https://web3.career/head-of-compliance-mlro-uk-emea-blockchain/10068,"Head of Compliance & MLRO, UK & EMEA",,compliance:executive,5mo
-Blockchain.com,https://web3.career/head-of-compliance-americas-blockchain/10067,"Head of Compliance, Americas",,compliance:executive,5mo
-Bittrex,https://web3.career/senior-product-manager-trading-bittrex/10066,Senior Product Manager - Trading,$80k - $150k,product manager:non tech:senior:javascript,5mo
-Bittrex,https://web3.career/senior-product-manager-platform-bittrex/10065,Senior Product Manager - Platform,$80k - $150k,product manager:non tech:senior,5mo
-Bittrex,https://web3.career/product-owner-internal-tools-bittrex/10064,Product Owner - Internal Tools,,product manager:non tech:javascript,5mo
-Bittrex,https://web3.career/solutions-engineer-bittrex/10063,Solutions Engineer,$56k - $150k,dev:javascript,5mo
-Bittrex,https://web3.career/senior-customer-support-analyst-social-media-bittrex/10062,Senior Customer Support Analyst - Social Media,,analyst:customer support:senior:social media:non tech,5mo
-Bittrex,https://web3.career/operations-program-manager-bittrex/10061,Operations Program Manager,$150k - $230k,operations:executive,5mo
-Bittrex,https://web3.career/customer-support-compliance-analyst-bittrex/10060,Customer Support Compliance Analyst,,compliance:analyst:customer support,5mo
-Bittrex,https://web3.career/customer-support-analyst-bittrex/10059,Customer Support Analyst,$15k - $95k,analyst:customer support,5mo
-Bittrex,https://web3.career/contract-recruiter-bittrex/10058,Contract Recruiter,$40k - $70k,recruiter:non tech,5mo
-Bittrex,https://web3.career/wallet-devops-engineer-bittrex/10057,Wallet DevOps Engineer,$150k - $200k,devops:dev:javascript:java,5mo
-Bittrex,https://web3.career/solution-integration-engineer-bittrex/10056,Solution Integration Engineer,$67k - $180k,dev:solidity,5mo
-Bittrex,https://web3.career/software-engineer-wallets-sde2-bittrex/10055,Software Engineer - Wallets SDE2,$33k - $140k,dev:java,5mo
-Bittrex,https://web3.career/software-engineer-wallets-bittrex/10054,Software Engineer - Wallets,$11k - $130k,dev:javascript:java,5mo
-Bittrex,https://web3.career/software-engineer-iv-backend-bittrex/10053,Software Engineer IV - Backend,$60k - $160k,backend:dev:java,5mo
-Bittrex,https://web3.career/software-engineer-iii-backend-bittrex/10052,Software Engineer III - Backend,$60k - $160k,backend:dev:java,5mo
-Bittrex,https://web3.career/software-engineer-ii-backend-bittrex/10051,Software Engineer II - Backend,$60k - $160k,backend:dev:java,5mo
-Bittrex,https://web3.career/software-engineer-frontend-bittrex/10050,Software Engineer - Frontend,$50k - $140k,dev:front end:javascript,5mo
-Bittrex,https://web3.career/senior-software-engineer-mobile-sde3-bittrex/10049,Senior Software Engineer - Mobile (SDE3),$120k - $200k,dev:mobile:senior:react:react native,5mo
-Bittrex,https://web3.career/senior-software-engineer-internal-tools-bittrex/10048,Senior Software Engineer - (Internal Tools),$80k - $200k,dev:senior:javascript,5mo
-Bittrex,https://web3.career/senior-software-engineer-frontend-bittrex/10047,Senior Software Engineer - Frontend,$70k - $190k,dev:front end:senior:javascript,5mo
-Bittrex,https://web3.career/senior-frontend-sdet-bittrex/10046,Senior Frontend SDET,,front end:senior:java,5mo
-Bittrex,https://web3.career/data-scientist-bittrex/10045,Data Scientist,$50k - $150k,data science,5mo
-Bittrex,https://web3.career/ux-researcher-bittrex/10044,UX Researcher,$50k - $150k,design:non tech,5mo
-Bittrex,https://web3.career/sar-writer-analyst-bittrex/10043,SAR Writer-Analyst,$40k - $120k,analyst,5mo
-BitGo,https://web3.career/data-analyst-bitgo/10042,Data Analyst,,analyst:data science:javascript:scala:java,5mo
-BitGo,https://web3.career/recruiting-coordinator-contract-bitgo/10041,Recruiting Coordinator (contract),$40k - $70k,recruiter:non tech,5mo
-BitGo,https://web3.career/recruiter-generalist-contract-bitgo/10040,Recruiter Generalist - Contract,$40k - $70k,recruiter:non tech,5mo
-BitGo,https://web3.career/recruiter-generalist-contract-bitgo/10039,Recruiter Generalist - Contract,$40k - $70k,recruiter:non tech,5mo
-BitGo,https://web3.career/aml-analyst-nyc-bitgo/10038,AML Analyst (NYC),$40k - $120k,analyst,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+NEAR,https://web3.career/engineering-manager-contract-runtime-near/10582,"San Francisco,
+United States","Engineering Manager, Contract Runtime",,executive:ethereum:rust,6mo
+NEAR,https://web3.career/engineer-contract-runtime-near/10581,,"Engineer, Contract Runtime",$75k - $190k,dev:rust,6mo
+NEAR,https://web3.career/core-engineer-near/10580,Remote,Core Engineer,$70k - $180k,dev:rust:remote,6mo
+NEAR,https://web3.career/technical-writer-education-near/10579,"Zug,
+Switzerland",Technical Writer - Education,,education:analyst,6mo
+NEAR,https://web3.career/software-engineer-education-near/10578,"Zug,
+Switzerland",Software Engineer - Education,,education:dev:solana:ethereum:javascript,6mo
+NEAR,https://web3.career/project-manager-near/10577,"San Francisco,
+United States",Project Manager,$50k - $150k,project manager:non tech,6mo
+NEAR,https://web3.career/instructor-education-near/10576,"Zug,
+Switzerland","Instructor, Education",,education:teaching,6mo
+NEAR,https://web3.career/head-of-developer-relations-near/10575,"San Francisco,
+United States",Head of Developer Relations,,executive:customer support:dev,6mo
+NEAR,https://web3.career/director-of-investments-owc-near/10574,"San Francisco,
+United States",Director of Investments - OWC,$70k - $180k,executive,6mo
+NEAR,https://web3.career/director-of-finance-owc-near/10573,"Los Angeles,
+United States",Director of Finance - OWC,$90k - $200k,executive:finance,6mo
+NEAR,https://web3.career/developer-relations-near/10572,"San Francisco,
+United States",Developer Relations,$90k - $140k,customer support:dev,6mo
+MoonPay,https://web3.career/senior-vulnerability-engineer-moonpay/10571,Remote,Senior Vulnerability Engineer,$95k - $250k,security:dev:senior:remote,6mo
+MoonPay,https://web3.career/senior-techops-engineer-moonpay/10570,"London,
+United Kingdom",Senior TechOps Engineer,$80k - $200k,dev:senior,6mo
+MoonPay,https://web3.career/senior-product-security-engineer-mobile-moonpay/10569,"Miami,
+United States",Senior Product Security Engineer - Mobile,,dev:mobile:security:senior:react,6mo
+MoonPay,https://web3.career/senior-incident-response-engineer-moonpay/10568,"Barcelona,
+Spain",Senior Incident Response Engineer,$80k - $200k,dev:senior,6mo
+MoonPay,https://web3.career/senior-partnerships-marketing-manager-moonpay/10567,"London,
+United Kingdom",Senior Partnerships Marketing Manager,$100k - $200k,sales:non tech:marketing:senior,6mo
+MoonPay,https://web3.career/senior-business-development-manager-moonpay/10566,Remote,Senior Business Development Manager,$50k - $150k,sales:non tech:senior:remote,6mo
+MoonPay,https://web3.career/growth-associate-moonpay/10565,"Miami,
+United States",Growth Associate,$45k - $130k,marketing:non tech,6mo
+Mojito,https://web3.career/talent-recruiter-mojito/10564,"New York,
+United States",Talent Recruiter,$51k - $70k,recruiter:non tech:nft,6mo
+Mojito,https://web3.career/software-engineer-site-reliability-devops-mojito/10563,"New York,
+United States",Software Engineer - Site Reliability / DevOps,$150k - $180k,devops:dev:sys admin:ethereum:nft,6mo
+Mojito,https://web3.career/senior-software-engineer-fullstack-mojito/10562,Remote,Senior Software Engineer - Fullstack,$70k - $180k,dev:full stack:senior:web3js:react,6mo
+Mojito,https://web3.career/project-manager-mojito/10561,"New York,
+United States",Project Manager,$55k - $75k,project manager:non tech:nft,6mo
+Mojito,https://web3.career/engineering-manager-mojito/10560,"New York,
+United States",Engineering Manager,$45k - $120k,executive:react:nft,6mo
+MobileCoin,https://web3.career/controller-mobilecoin/10559,,Controller,$24k - $140k,legal,6mo
+MobileCoin,https://web3.career/site-reliability-engineer-mobilecoin/10558,United States,Site Reliability Engineer,,dev:sys admin:node:rust,6mo
+MobileCoin,https://web3.career/senior-software-engineer-consensus-mobilecoin/10557,United States,"Senior Software Engineer, Consensus",$120k - $210k,dev:senior:rust,6mo
+MobileCoin,https://web3.career/manager-engineering-mobilecoin/10556,,"Manager, Engineering",,,6mo
+MobileCoin,https://web3.career/ios-engineer-mobilecoin/10555,United States,iOS Engineer,$51k - $109k,dev:ios:mobile,6mo
+MobileCoin,https://web3.career/full-stack-engineer-mobilecoin/10554,,Full-stack Engineer,$65k - $180k,dev:full stack:react:java:rust,6mo
+MobileCoin,https://web3.career/flutter-engineer-mobilecoin/10553,,Flutter Engineer,$18k - $28k,dev:flutter,6mo
+MobileCoin,https://web3.career/director-engineering-mobilecoin/10552,,"Director, Engineering",,executive:rust,6mo
+MobileCoin,https://web3.career/cryptographer-mobilecoin/10551,"San Francisco,
+United States",Cryptographer,$70k - $180k,rust,6mo
+MobileCoin,https://web3.career/android-engineer-mobilecoin/10550,,Android Engineer,,android:mobile:dev:java,6mo
+MobileCoin,https://web3.career/customer-success-associate-mobilecoin/10549,"San Francisco,
+United States",Customer Success Associate,$40k - $80k,customer support,6mo
+MobileCoin,https://web3.career/developer-relations-ambassador-mobilecoin/10548,"San Francisco,
+United States",Developer Relations Ambassador,$90k - $140k,customer support:dev,6mo

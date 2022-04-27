@@ -1,36 +1,50 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-CANDY,https://web3.career/technical-recruiter-candy/21977,Technical Recruiter,$40k - $70k,recruiter:non tech,2mo
-CANDY,https://web3.career/senior-technical-sourcer-candy/21976,Senior Technical Sourcer,$40k - $70k,recruiter:non tech:senior,2mo
-CANDY,https://web3.career/senior-technical-recruiter-candy/21975,Senior Technical Recruiter,$40k - $70k,recruiter:non tech:senior,2mo
-CANDY,https://web3.career/recruitment-brand-marketing-manager-candy/21974,Recruitment Brand Marketing Manager,,marketing:non tech:recruiter,2mo
-CANDY,https://web3.career/recruitment-brand-marketing-manager-candy/21973,Recruitment Brand Marketing Manager,,marketing:non tech:recruiter,2mo
-CANDY,https://web3.career/manager-people-and-culture-hrbp-candy/21972,"Manager, People and Culture (HRBP)",,,2mo
-CANDY,https://web3.career/junior-technical-recruiter-candy/21971,Junior Technical Recruiter,,junior:entry level:recruiter:non tech,2mo
-CANDY,https://web3.career/executive-assistant-candy/21970,Executive Assistant,$70k - $180k,executive,2mo
-CANDY,https://web3.career/senior-business-operations-associate-sports-candy/21969,Senior Business Operations Associate - Sports,,operations:senior,2mo
-CANDY,https://web3.career/ecommerce-site-ops-associate-candy/21968,eCommerce Site Ops Associate,$220k - $400k,ecommerce:react:javascript,2mo
-CANDY,https://web3.career/ecommerce-business-analyst-candy/21967,eCommerce Business Analyst,,analyst:ecommerce:react:javascript,2mo
-CANDY,https://web3.career/sr-manager-pr-communications-candy/21966,"Sr. Manager, PR & Communications",$46k - $109k,marketing:non tech:senior,2mo
-CANDY,https://web3.career/senior-marketing-manager-social-platforms-candy/21965,Senior Marketing Manager (Social Platforms),$46k - $109k,marketing:non tech:senior,2mo
-CANDY,https://web3.career/senior-marketing-manager-forums-and-communities-candy/21964,Senior Marketing Manager (Forums and Communities),$46k - $109k,marketing:non tech:senior,2mo
-CANDY,https://web3.career/senior-marketing-copywriter-candy/21963,Senior Marketing Copywriter,$25k - $96k,copywriting:marketing:non tech:senior,2mo
-CANDY,https://web3.career/marketing-creative-director-candy/21962,Marketing Creative Director,$70k - $158k,executive:marketing:non tech,2mo
-CANDY,https://web3.career/marketing-art-director-candy/21961,Marketing Art Director,$70k - $158k,executive:marketing:non tech,2mo
-CANDY,https://web3.career/content-marketing-associate-motorsports-candy/21960,Content Marketing Associate (Motorsports),$45k - $130k,marketing:non tech,2mo
-CANDY,https://web3.career/content-marketing-associate-motorsports-candy/21959,Content Marketing Associate (Motorsports),$45k - $130k,marketing:non tech,2mo
-CANDY,https://web3.career/content-marketing-associate-motorsports-candy/21958,Content Marketing Associate (Motorsports),$45k - $130k,marketing:non tech,2mo
-CANDY,https://web3.career/content-marketing-associate-candy/21957,Content Marketing Associate,$45k - $130k,marketing:non tech,2mo
-CANDY,https://web3.career/senior-paralegal-candy/21956,Senior Paralegal,$78k - $200k,senior,2mo
-CANDY,https://web3.career/operations-internship-full-time-candy/21955,Operations Internship (Full Time),,full time:intern:entry level:operations,2mo
-CANDY,https://web3.career/hr-internship-full-time-candy/21954,HR Internship (Full-Time),,full time:hr:non tech:intern:entry level,2mo
-CANDY,https://web3.career/engineering-internship-full-year-candy/21953,Engineering Internship (Full-Year),$18k - $28k,intern:entry level:react:nft,2mo
-CANDY,https://web3.career/staff-ar-engineer-candy/21952,Staff AR Engineer,$60k - $180k,dev,2mo
-CANDY,https://web3.career/senior-user-experience-designer-candy/21951,Senior User Experience Designer,$60k - $120k,design:non tech:senior:nft:javascript,2mo
-CANDY,https://web3.career/senior-unity-engineer-candy/21950,Senior Unity Engineer,$90k - $200k,dev:senior:nft,2mo
-CANDY,https://web3.career/senior-design-operations-associate-candy/21949,Senior Design Operations Associate,,design:non tech:operations:senior,2mo
-CANDY,https://web3.career/executive-producer-gaming-products-candy/21948,Executive Producer (Gaming Products),$135k - $160k,executive:game dev:nft,2mo
-CANDY,https://web3.career/design-director-gaming-products-candy/21947,Design Director (Gaming Products),,design:non tech:executive:game dev:nft,2mo
-Voice,https://web3.career/legal-operations-generalist-voice/21946,Legal Operations Generalist,,legal:operations:nft,2mo
-Ripple,https://web3.career/director-global-aml-investigations-ripple/21945,"Director, Global AML Investigations",$70k - $180k,executive,2mo
-Ripple,https://web3.career/senior-product-manager-liquidity-platform-ripple/21944,"Senior Product Manager, Liquidity Platform",,sales:non tech:product manager:senior,2mo
-Polychain Capital,https://web3.career/executive-assistant-polychaincapital/21943,Executive Assistant,$70k - $180k,executive,2mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Voodoo,https://web3.career/blockchain-developer-voodoo/22541,"Paris,
+France",Blockchain Developer,$50k - $170k,dev:blockchain,2mo
+Cross River,https://web3.career/software-engineer-crypto-lending-cross-river/22513,Remote,"Software Engineer, Crypto Lending",$95k - $145k,full stack:react:golang:node:java,2mo
+AnbotoLabs,https://web3.career/full-stack-developer-python-anbotolabs/22540,Remote,"Full-Stack Developer, Python",,dev:full stack:python:react:javascript,2mo
+bloXroute Labs,https://web3.career/marketing-manager-remote-blox-route/22539,"Los Angeles,
+United States",Marketing Manager (remote),$25k - $120k,remote:marketing:non tech:ethereum,2mo
+Consensys,https://web3.career/lead-content-designer-consensys/22538,Remote,Lead Content Designer,$40k - $190k,design:non tech:lead:remote:ethereum,2mo
+Consensys,https://web3.career/head-of-design-consensys/22537,Remote,Head of Design,,executive:design:non tech:remote:ethereum,2mo
+Consensys,https://web3.career/business-operations-core-process-manager-consensys/22536,Remote,Business Operations Core Process Manager,,operations:remote:ethereum,2mo
+Mozart,https://web3.career/founding-solidity-engineer-mozartaudio-1/22535,United States,Founding Solidity Engineer,$120k - $200k,dev:solidity:node,2mo
+soonami.io GmbH,https://web3.career/product-manager-soonami/22534,Remote,Product Manager,$115k - $175k,product manager:non tech:remote,2mo
+Bloxxon AG,https://web3.career/bloxxon-vp-of-engineering-bloxxon/22533,"Berlin,
+Germany",Bloxxon VP of Engineering,$90k - $150k,executive:remote:react,2mo
+AlphaTurtle.xyz,https://web3.career/blockchain-nft-marketing-community-working-student-m-f-x-alphaturtle/22532,Remote,Blockchain & NFT Marketing/ Community Working Student (m/f/x),$45k - $150k,community manager:non tech:marketing:blockchain:nft,2mo
+Drift Protocol,https://web3.career/quant-researcher-drift-protocol/22531,Remote,Quant Researcher,$43k - $150k,remote:react:solana:rust,2mo
+Ripple,https://web3.career/corporate-controller-director-ireland-ripple/22530,United Kingdom,Corporate Controller (Director) - Ireland,,legal:executive,2mo
+FPT Deutschland GmbH,https://web3.career/sap-ewm-consultant-m-f-d-fger/22529,"Essen,
+Germany",SAP EWM consultant (m/f/d),,consulting:remote,2mo
+Tangany,https://web3.career/head-of-crypto-cloud-and-devops-engineer-tangany/22528,"Munich,
+Germany",Head Of (Crypto) Cloud and DevOps Engineer,,executive:cloud:devops:dev:crypto,2mo
+SideShift.ai,https://web3.career/frontend-developer-sideshift-ai/22527,Remote,Frontend Developer,$40k - $70k,dev:front end:remote:react:javascript,2mo
+MetaMask,https://web3.career/lead-content-designer-metamask/22525,United States,Lead Content Designer,$40k - $190k,design:non tech:lead:ethereum,2mo
+MetaMask,https://web3.career/head-of-design-metamask/22524,United States,Head of Design,,executive:design:non tech:ethereum,2mo
+Acyclic Labs,https://web3.career/blockchain-monk-acyclic/22523,"Bengaluru,
+India",Blockchain Monk,$10k - $39k,blockchain:solana:ethereum:golang:rust,2mo
+Wachsman,https://web3.career/hr-operations-manager-wachsman/22522,"Singapore,
+Singapore",HR & Operations Manager,,hr:non tech:operations,2mo
+SuperRare Labs,https://web3.career/director-of-community-superrarelabs/22521,"New York,
+United States",Director of Community,$45k - $150k,community manager:non tech:executive:ethereum:nft,2mo
+Dcentral,https://web3.career/cto-for-a-blockchain-web-3-company-dcentral/22520,"New York,
+United States",CTO (for a Blockchain / Web 3 Company),$120k - $200k,executive:blockchain:solana:ethereum:cto,2mo
+Anchorage Digital,https://web3.career/member-of-client-partnerships-client-integrations-anchorage/22519,Remote,"Member of Client Partnerships, Client Integrations",$29k - $108k,sales:non tech:remote,2mo
+Tangany,https://web3.career/cloud-and-software-security-engineer-tangany/22518,Remote,Cloud and Software Security Engineer,,cloud:dev:security:ethereum:remote,2mo
+Virtually Human Studio,https://web3.career/multimedia-specialist-vhslab/22517,"Melbourne,
+Australia",Multimedia Specialist,$55k - $150k,nft,2mo
+IOTA Foundation,https://web3.career/software-engineer-identity-tokenization-and-sc-germany-remote-iota/22516,Remote,"Software Engineer - Identity, Tokenization and SC - Germany (Remote)",$50k - $150k,remote:dev:react:javascript:java,2mo
+GOGO Protocol,https://web3.career/recruiter-cryptogogos/22514,"Berlin,
+Germany",Recruiter,$30k - $50k,recruiter:non tech:crypto:remote,2mo
+Alpha Audits,https://web3.career/solidity-auditor-engineer-alpha-audits-1/22512,"Austin,
+United States",Solidity Auditor/Engineer,$140k - $180k,dev:solidity,2mo
+ZAUBAR,https://web3.career/xr-designer-let-apos-s-take-the-metaverse-to-the-streets-zaubar/22510,"Berlin,
+Germany",XR Designer (Let&apos;s take the metaverse to the streets 🛸),$65k - $80k,design:non tech:metaverse:remote,2mo
+myTalenscout GmbH,https://web3.career/linux-crack-m-f-d-in-munich-wanted-for-web-3-0-infrastructure-mytalentscout/22509,Remote,Linux Crack (m/f/d) in Munich wanted for Web 3.0-Infrastructure!,$84k - $107k,linux:node:remote,2mo
+GOGO Protocol,https://web3.career/cto-vp-engineering-cryptogogos/22508,"Berlin,
+Germany",CTO / VP Engineering,$79k - $158k,executive:crypto:remote:solidity:ethereum,2mo
+Sygnum Bank AG,https://web3.career/vp-credit-lending-sygnum/22505,Switzerland,VP Credit & Lending,$79k - $158k,executive:ethereum,2mo
+soonami.io GmbH,https://web3.career/web-ui-ux-designer-soonami/22504,Remote,Web UI/UX Designer,$50k - $135k,design:non tech:remote,2mo
+IOVLabs,https://web3.career/data-architect-iovlabs/22503,Remote,Data Architect,$67k - $300k,architecture:remote,2mo
+Synapse International,https://web3.career/blockchain-architect-synapseint/22502,Remote,Blockchain Architect,$50k - $300k,architecture:blockchain:remote:solana:java,2mo

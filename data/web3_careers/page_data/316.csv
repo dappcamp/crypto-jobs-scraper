@@ -1,36 +1,56 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Advanced Blockchain,https://web3.career/content-writer-defi-advanced-blockchain-2/12988,Content Writer - DeFi,$0k,copywriting:defi,5mo
-Polygon(Previously Matic Network),https://web3.career/blockchain-strategy-analyst-matic-network/12987,Blockchain Strategy Analyst,$60k - $104k,analyst:blockchain,5mo
-Somish Blockchain Labs,https://web3.career/blockchain-developer-ethereum-somish/12986,Blockchain Developer (Ethereum),$40k - $107k,dev:blockchain:web3js:solidity:ethereum,5mo
-QuillHash Technologies,https://web3.career/blockchain-business-development-sales-quillhash/12985,Blockchain Business Development & Sales,$78k - $10k,sales:non tech:blockchain,5mo
-Biconomy,https://web3.career/lead-blockchain-engineer-biconomy/12984,Lead Blockchain Engineer,$30k - $160k,dev:lead:blockchain:solidity:ethereum,5mo
-LoanSnap,https://web3.career/blockchain-engineer-loansnap/12983,Blockchain Engineer,$150k - $200k,dev:blockchain,5mo
-Fidelity Investments,https://web3.career/crypto-analyst-fidelity-investments/12982,Crypto Analyst,$450k - $530k,analyst:crypto,5mo
-McKinley & Rice,https://web3.career/blockchain-developer-ipfs-or-ethereum-mckinley-rice-1/12981,Blockchain Developer (IPFS or Ethereum),$11k - $32k,dev:blockchain:ethereum:javascript:java,5mo
-Notional Finance,https://web3.career/core-blockchain-developer-notional-finance/12979,Core Blockchain Developer,$150k - $175k,dev:blockchain:solidity:ethereum,5mo
-Enso Labs,https://web3.career/content-communications-lead-defi-blockchain-enso-labs/12978,Content Communications Lead - DeFi/Blockchain,$30k - $70k,lead:blockchain:defi,5mo
-Synesis One,https://web3.career/blockchain-engineer-rust-solana-synesis-one/12977,Blockchain Engineer (Rust/Solana),$100k,dev:rust:blockchain:solana:nft,5mo
-Altonomy,https://web3.career/blockchain-developer-altonomy/12976,Blockchain Developer,$80k - $120k,dev:blockchain:solidity:ethereum:javascript,5mo
-BirthVenue,https://web3.career/blockchain-intern-birthvenue/12975,Blockchain Intern,$0k,intern:entry level:blockchain:ethereum:node,5mo
-150 Bond,https://web3.career/crypto-comms-specialist-account-exec-manager-and-director-roles-150-bond/12974,Crypto Comms Specialist (Account Exec/ Manager and Director roles),$40k - $120k,executive:crypto,5mo
-Enso Labs,https://web3.career/senior-react-js-front-end-engineer-defi-blockchain-enso-labs/12973,Senior React.js Front End Engineer - DeFi/Blockchain,$90k - $150k,javascript:dev:front end:react:senior,5mo
-Yup,https://web3.career/blockchain-engineer-yupteam/12972,Blockchain Engineer,$180k - $260k,dev:blockchain,5mo
-Commonwealth Labs,https://web3.career/blockchain-engineer-solidity-commonwealth-labs-commonwealth-labs/12971,Blockchain Engineer (Solidity) - Commonwealth Labs,$130k - $200k,dev:blockchain:solidity:golang:rust,5mo
-QuillHash Technologies,https://web3.career/ethereum-defi-blockchain-developer-solidity-quillhash/12970,Ethereum/DeFI Blockchain Developer | Solidity,$13k - $28k,dev:blockchain:defi:solidity:ethereum,5mo
-Coinbase,https://web3.career/community-manager-crypto-intelligence-coinbase/12969,"Community Manager, Crypto Intelligence",$35k - $100k,community manager:non tech:crypto,5mo
-Chainlink Labs,https://web3.career/solidity-engineer-chainlink-labs/12968,Solidity Engineer,$54k - $150k,dev:solidity:javascript,5mo
-Parallel Finance,https://web3.career/senior-solidity-engineer-parallel-finance/12967,Senior Solidity Engineer,$120k - $200k,dev:senior:solidity:ethereum,5mo
-APWine,https://web3.career/experienced-solidity-developer-apwine/12966,Experienced Solidity Developer,$120k - $150k,dev:solidity:ethereum,5mo
-Coin,https://web3.career/nft-blockchain-developer-coindefi/12965,NFT Blockchain Developer,$40k - $120k,dev:blockchain:nft:solidity:ethereum,5mo
-TokenMinds,https://web3.career/blockchain-developer-remote-tokenminds/12964,Blockchain Developer (Remote),$70k - $190k,remote:dev:blockchain:java,5mo
-block42 Blockchain Company,https://web3.career/senior-blockchain-engineer-full-time-remote-block42/12963,"Senior Blockchain Engineer, full-time, remote",$89k - $142k,remote:dev:full time:senior:blockchain,5mo
-Oropocket,https://web3.career/blockchain-developer-ethx/12962,Blockchain Developer,$7k - $10k,dev:blockchain:solidity:ethereum,5mo
-Commonwealth Labs,https://web3.career/blockchain-engineer-rust-commonwealth-labs-commonwealth-labs/12961,Blockchain Engineer (Rust) - Commonwealth Labs,$130k - $200k,dev:rust:blockchain:solidity:golang,5mo
-Arcana Network,https://web3.career/solidity-blockchain-developer-arcana-network/12960,Solidity/Blockchain Developer,$32k - $52k,dev:blockchain:solidity:golang,5mo
-ZenLedger,https://web3.career/crypto-full-stack-software-engineer-with-back-end-emphasis-us-remote-ok-zenledger-2/12959,Crypto Full Stack Software Engineer with Back-End Emphasis [US Remote OK],$175k - $250k,remote:backend:dev:full stack:crypto,5mo
-DefiQ,https://web3.career/solidity-developer-defiq/12958,Solidity Developer,$130k - $180k,dev:solidity:ethereum,5mo
-Plexus,https://web3.career/senior-solidity-engineer-defi-blockchain-plexus-14/12957,Senior Solidity Engineer - DeFi/Blockchain,$150k - $200k,dev:senior:blockchain:defi:solidity,5mo
-SolRazr,https://web3.career/solana-developer-solrazr/12956,Solana Developer,$75k - $100k,dev:solana:rust,5mo
-Injective Labs,https://web3.career/crypto-analyst-intern-injective-labs/12955,Crypto Analyst Intern,$20k - $30k,analyst:intern:entry level:crypto,5mo
-Injective Labs,https://web3.career/golang-blockchain-engineer-injective-labs/12954,Golang/Blockchain Engineer,$260k - $340k,dev:golang:blockchain:solidity:ethereum,5mo
-Crypto.com,https://web3.career/compliance-officer-and-mlro-ireland-crypto-com/12953,"Compliance Officer and MLRO, Ireland",,compliance,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Hopin,https://web3.career/lead-full-stack-engineer-node-js-hopin/13561,Remote,Lead Full-Stack Engineer (Node.js),$65k - $180k,javascript:dev:full stack:lead:node,5mo
+Shakepay,https://web3.career/talent-sourcer-remote-canada-shakepay/13560,"Montreal,
+Canada",Talent Sourcer (Remote - Canada),,remote:recruiter:non tech,5mo
+Shakepay,https://web3.career/hr-generalist-remote-canada-shakepay/13559,"Montreal,
+Canada",HR Generalist (Remote - Canada),$60k - $120k,remote:hr:non tech,5mo
+Coinme,https://web3.career/data-engineer-remote-optional-coinme/13558,"Seattle,
+United States",Data Engineer (Remote Optional),,remote:data science:dev:java,5mo
+Republic Realm,https://web3.career/blockchain-engineer-nfts-republicrealm/13557,"New York,
+United States","Blockchain Engineer, NFTs",$0k,dev:blockchain:nft:solidity:ethereum,5mo
+CryptoGoGos,https://web3.career/blockchain-developer-3424897-blockchain-developer-at-crypto-start-up/13556,"Berlin,
+Germany",Blockchain Developer,$65k - $160k,dev:blockchain:crypto:solidity:ethereum,5mo
+Bittrex,https://web3.career/senior-product-manager-fiat-payments-bittrex/13554,"Washington,
+United States",Senior Product Manager - Fiat Payments,$80k - $150k,product manager:non tech:senior:javascript,5mo
+Bittrex,https://web3.career/product-owner-mobile-trading-app-bittrex/13553,"Washington,
+United States",Product Owner – Mobile Trading App,,product manager:non tech:mobile:javascript,5mo
+Bittrex,https://web3.career/product-owner-fiat-payments-bittrex/13552,"Washington,
+United States",Product Owner - Fiat Payments,,product manager:non tech:javascript,5mo
+CoinFlip,https://web3.career/hr-director-coinflip/13551,"Chicago,
+United States",HR Director,,executive:hr:non tech,5mo
+Sygnum Bank AG,https://web3.career/junior-relationship-manager-private-banking-100-sygnum/13550,Switzerland,Junior Relationship Manager – Private Banking (100%),$40k - $67k,finance:junior:entry level:marketing:non tech,5mo
+Constellation Network,https://web3.career/protocol-engineer-constellationnetwork/13549,Remote,Protocol Engineer,$65k - $180k,dev:remote,5mo
+Constellation Network,https://web3.career/machine-learning-engineer-constellationnetwork/13548,Remote,Machine Learning Engineer,$140k - $180k,dev:machine learning:remote,5mo
+Constellation Network,https://web3.career/data-engineer-constellationnetwork/13547,Remote,Data Engineer,,data science:dev:remote,5mo
+Figment,https://web3.career/proof-of-stake-revenue-analyst-figment/13546,"Toronto,
+Canada",Proof of Stake Revenue Analyst,$40k - $120k,analyst,5mo
+Online Growth Team,https://web3.career/independent-sales-rep-saas-crypto-online-growth-team/13545,United States,Independent Sales Rep (SaaS/ Crypto),$30k - $100k,saas:sales:non tech:crypto,5mo
+Cross River Bank,https://web3.career/sr-research-associate-crypto-crossriverbank/13544,United States,"Sr Research Associate, Crypto",$39k - $140k,crypto,5mo
+Sygnum Bank AG,https://web3.career/junior-relationship-manager-private-banking-100-sygnum/13542,Switzerland,Junior Relationship Manager – Private Banking (100%),$40k - $67k,finance:junior:entry level:marketing:non tech,5mo
+cLabs,https://web3.career/head-of-risk-and-compliance-celo-foundation-clabs/13540,Remote,"Head of Risk and Compliance, Celo Foundation",,compliance:executive:remote,5mo
+Sygnum Bank AG,https://web3.career/solution-architect-80-100-sygnum/13539,Switzerland,Solution Architect 80-100%,$80k,architecture:ethereum:javascript:java:golang,5mo
+Sygnum Bank AG,https://web3.career/ceo-office-internship-sygnum/13538,Switzerland,CEO Office Internship,,executive:intern:entry level:ethereum,5mo
+TKKR,https://web3.career/front-end-engineer-tkkr/13536,"New York,
+United States",Front-End Engineer,$50k - $144k,dev:front end:react:javascript,5mo
+Sygnum Bank AG,https://web3.career/head-of-sales-and-client-services-sygnum/13534,"Singapore,
+Singapore",Head of Sales and Client Services,$40k - $150k,executive:sales:non tech:ethereum,5mo
+Chainalysis,https://web3.career/account-executive-public-sector-nordics-chainalysis/13533,"Copenhagen,
+Denmark","Account Executive, Public Sector, Nordics",$70k - $180k,executive,5mo
+Chainalysis,https://web3.career/account-executive-private-sector-iberia-chainalysis/13532,"Madrid,
+Spain","Account Executive, Private Sector, Iberia",$70k - $180k,executive,5mo
+Chainalysis,https://web3.career/account-executive-private-sector-benelux-chainalysis/13531,"Amsterdam,
+Netherlands","Account Executive, Private Sector, Benelux",$70k - $180k,executive,5mo
+Sygnum Bank AG,https://web3.career/assistant-relationship-manager-funds-hedge-funds-100-sygnum/13530,Switzerland,Assistant Relationship Manager – Funds / Hedge Funds (100%),$48k - $120k,marketing:non tech:ethereum,5mo
+Sygnum Bank AG,https://web3.career/credit-lending-analyst-sygnum/13529,Switzerland,Credit & Lending Analyst,$45k - $185k,analyst:ethereum,5mo
+Binance,https://web3.career/finance-manager-binance/13528,"Dubai,
+United Arab Emirates",Finance Manager,$40k - $150k,finance,5mo
+Crypto.com,https://web3.career/customer-experience-quality-assurance-analyst-with-french-crypto-com/13527,"Sofia,
+Bulgaria",Customer Experience Quality Assurance Analyst with French,$15k - $95k,analyst:customer support,5mo
+Axoni,https://web3.career/kubernetes-engineer-axoni/13525,Remote,Kubernetes Engineer,$65k - $180k,dev:remote,5mo
+Sygnum Bank AG,https://web3.career/assistant-relationship-manager-funds-hedge-funds-100-sygnum/13524,Switzerland,Assistant Relationship Manager – Funds / Hedge Funds (100%),$48k - $120k,marketing:non tech:ethereum,5mo
+Sygnum Bank AG,https://web3.career/associate-legal-regtech-sygnum/13523,"Singapore,
+Singapore","Associate, Legal & RegTech",$24k - $140k,legal,5mo
+SwissBorg,https://web3.career/2d-marketing-designer-swissborg/13522,"Lisbon,
+Portugal",2D Marketing Designer,,design:non tech:marketing,5mo
+Okcoin,https://web3.career/regional-site-director-okcoin/13520,"Dublin,
+Ireland",Regional Site Director,$70k - $180k,executive,5mo

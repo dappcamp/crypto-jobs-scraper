@@ -1,36 +1,61 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Ledger,https://web3.career/product-marketing-manager-cards-ledger/23644,"Product Marketing Manager, Cards",$55k - $140k,marketing:non tech:nft,1mo
-Voodoo,https://web3.career/product-manager-blockchain-voodoo/23643,Product Manager - Blockchain,$35k - $120k,product manager:non tech:blockchain,1mo
-FPT Deutschland GmbH,https://web3.career/customer-cloud-solution-lead-fger/23641,Customer Cloud Solution Lead,,cloud:lead:remote,1mo
-Binance,https://web3.career/data-product-manager-binance/23640,Data Product Manager,$115k - $175k,product manager:non tech:remote,1mo
-Terraform Labs,https://web3.career/general-job-terra/23639,General Job,$60k - $145k,remote:ethereum,1mo
-Archimed,https://web3.career/data-scientist-for-nft-metaverse-analytics-archimed-ai/23638,Data Scientist for NFT & Metaverse Analytics,$80k - $150k,stats:data science:metaverse:nft,1mo
-Big Time Studios Ltd,https://web3.career/blockchain-developer-bigtime/23636,Blockchain Developer,$70k - $190k,dev:blockchain:remote,1mo
-Subspace Labs,https://web3.career/director-of-people-and-culture-subspacelabs/23635,Director of People and Culture,$79k - $200k,executive:remote,1mo
-Revolut,https://web3.career/senior-blockchain-software-engineer-revolut/23634,Senior Blockchain Software Engineer,$80k - $200k,dev:senior:blockchain:solidity:scala,1mo
-Uphold,https://web3.career/junior-finops-analyst-uphold/23633,Junior FinOps Analyst,$10k - $13k,analyst:junior:entry level:javascript,1mo
-Voodoo,https://web3.career/game-developer-hyper-casual-gaming-voodoo/23631,Game Developer - Hyper Casual Gaming,$70k - $150k,dev:game dev:remote,1mo
-Crystal Blockchain Analytics,https://web3.career/intelligence-trends-and-analysis-manager-remote-crystal/23630,Intelligence Trends and Analysis Manager (Remote),$56k - $160k,remote,1mo
-SADA,https://web3.career/senior-staff-solutions-architect-sre-sada/23629,Senior Staff Solutions Architect (SRE),$80k,architecture:senior,1mo
-Quidax,https://web3.career/retention-manager-quidax/23628,Retention Manager,,marketing:non tech:product manager:remote,1mo
-Lykke Business AG,https://web3.career/senior-project-manager-lead-lykke-business/23627,Senior Project Manager Lead,,lead:project manager:non tech:senior:remote,1mo
-Binance,https://web3.career/product-lead-fiat-binance/23626,Product Lead - Fiat,$95k - $200k,lead:remote,1mo
-Binance,https://web3.career/office-manager-administrator-binance/23625,Office Manager/Administrator,$56k - $160k,remote,1mo
-Binance,https://web3.career/director-vp-of-product-binance/23624,Director/VP of Product,$135k - $170k,executive:product manager:non tech:remote,1mo
-nft42,https://web3.career/social-media-community-manager-nft42/23623,Social Media + Community Manager,$45k - $100k,community manager:non tech:social media:remote:nft,1mo
-nft42,https://web3.career/marketing-analyst-nft42/23622,Marketing Analyst,,analyst:marketing:non tech:remote:nft,1mo
-nft42,https://web3.career/discord-moderator-nft42/23621,Discord Moderator,$56k - $165k,remote:nft,1mo
-Maple,https://web3.career/technical-recruiter-maple-finance/23620,Technical Recruiter,,recruiter:non tech:remote,1mo
-Parallel Finance,https://web3.career/pr-manager-parallel/23619,PR Manager,$25k - $120k,marketing:non tech:remote,1mo
-Bittrex,https://web3.career/senior-full-stack-software-engineer-internal-tools-bittrex/23617,Senior Full Stack Software Engineer - (Internal Tools),$70k - $180k,dev:full stack:senior:javascript,1mo
-Binance,https://web3.career/business-data-analyst-europe-market-binance/23616,Business Data Analyst - Europe Market,$36k - $72k,analyst:data science,1mo
-Binance,https://web3.career/devops-engineer-cloud-data-platform-specialist-binance/23615,DevOps Engineer - Cloud Data Platform Specialist,,cloud:devops:dev:remote,1mo
-Foundry,https://web3.career/product-manager-machine-learning-and-ai-initiatives-foundrydigital/23613,Product Manager – Machine Learning and AI Initiatives,,machine learning:product manager:non tech,1mo
-Custodia Bank,https://web3.career/chief-technology-officer-remote-custodiabank/23612,Chief Technology Officer (Remote),$79k - $300k,remote:cto:executive,1mo
-Ledger,https://web3.career/qa-engineer-web-ledger/23611,QA Engineer - Web,$50k - $150k,dev:quality assurance,1mo
-Minterest Finance,https://web3.career/chief-marketing-officer-nextleveldefi/23610,Chief Marketing Officer,$90k - $180k,executive:marketing:non tech,1mo
-Morningstar Ventures,https://web3.career/full-stack-developer-remote-60k-90k-per-annum-morningstarventures/23609,Full-Stack Developer - Remote ($60k-$90k per annum),$60k - $90k,remote:dev:full stack:react:ruby,1mo
-Binance,https://web3.career/ios-engineer-security-team-binance/23608,iOS Engineer (Security Team),$51k - $109k,dev:ios:mobile:security:remote,1mo
-Request,https://web3.career/senior-front-end-engineer-request/23607,Senior front end engineer,$70k - $190k,dev:front end:senior:remote,1mo
-Ledger,https://web3.career/cro-specialist-ledger/23606,CRO Specialist,,,1mo
-Binance,https://web3.career/growth-marketing-director-bnb-chain-binance/23605,Growth Marketing Director - BNB Chain,$70k - $158k,executive:marketing:non tech:remote,1mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+BlockFi,https://web3.career/director-of-client-relationship-management-retail-hnw-segment-blockfi/24221,"New York,
+United States",Director of Client Relationship Management - - Retail HNW Segment,$70k - $180k,executive,1mo
+Ledger,https://web3.career/team-lead-front-end-software-engineer-ledger-live-ledger/24220,"London,
+United Kingdom",Team Lead Front-End Software Engineer - Ledger Live,$56k - $79k,dev:front end:lead:react,1mo
+Ledger,https://web3.career/developer-experience-js-software-engineer-dx-ledger-live-ledger/24219,"London,
+United Kingdom",Developer Experience - JS Software Engineer (DX) - Ledger Live,$56k - $160k,javascript:dev:react:react native,1mo
+Chain,https://web3.career/systems-architect-chain/24218,Remote,Systems Architect,$67k - $300k,architecture:remote,1mo
+Analog,https://web3.career/front-end-engineer-analog/24217,"San Francisco,
+United States",Front-end Engineer,$50k - $150k,dev:front end,1mo
+RDX Works,https://web3.career/devops-engineer-rdx-works/24216,Remote,DevOps Engineer,$70k - $130k,devops:dev,1mo
+Figure,https://web3.career/payments-and-blockchain-compliance-director-figure/24215,"San Francisco,
+United States",Payments and Blockchain Compliance Director,,compliance:executive:blockchain,1mo
+Eco,https://web3.career/customer-operations-lead-econetwork/24214,,Customer Operations Lead,,lead:operations,1mo
+Energi Core,https://web3.career/blockchain-developer-energi-cryptocurrency-2/24211,"Bhopal,
+India",Blockchain Developer,$52k - $160k,dev:blockchain:solidity:ethereum:node,1mo
+Nixet,https://web3.career/solana-blockchain-engineer-nixet/24210,"Bengaluru,
+India",Solana Blockchain Engineer,$10k - $23k,dev:blockchain:solana:nft:rust,1mo
+RDX Works,https://web3.career/senior-net-developer-rdx-works/24209,Remote,Senior .NET Developer,$70k - $150k,dot net:dev:senior,1mo
+Ripple,https://web3.career/director-ripplenet-payments-ripple/24208,"San Francisco,
+United States","Director, RippleNet Payments",$70k - $180k,executive,1mo
+Gluwa,https://web3.career/senior-product-marketing-manager-gluwa/24207,"San Francisco,
+United States",Senior Product Marketing Manager,$46k - $109k,marketing:non tech:senior:ethereum,1mo
+Bittrex,https://web3.career/support-chatbot-specialist-bittrex/24206,"Washington,
+United States",Support Chatbot Specialist,,chatbot:customer support,1mo
+Terraform Labs,https://web3.career/r-d-engineer-terra/24205,Remote,R&D Engineer,$60k - $150k,dev:remote:ethereum,1mo
+Virtually Human Studio,https://web3.career/senior-data-analyst-vhslab/24204,United States,Senior Data Analyst,,analyst:data science:senior:nft,1mo
+CoinDesk & TradeBlock Opportunities,https://web3.career/coindesk-senior-producer-weekly-shows-special-projects-coindesk/24203,"New York,
+United States","CoinDesk Senior Producer, Weekly Shows & Special Projects",$78k - $200k,senior,1mo
+Brave,https://web3.career/account-manager-brave/24202,"San Francisco,
+United States",Account Manager,,account manager:javascript,1mo
+Trapesys,https://web3.career/web3-integration-expert-polygon-edge-trapesys/24200,Remote,Web3 Integration Expert - Polygon Edge,$40k - $95k,customer support:analyst:remote,1mo
+Secfi,https://web3.career/investment-manager-secfi/24199,"New York,
+United States",Investment Manager,$40k - $150k,finance,1mo
+Fractional,https://web3.career/senior-technical-recruiter-us-remote-et-ftc/24198,United States,Senior Technical Recruiter - US Remote (ET),,remote:recruiter:non tech:senior,1mo
+Genies,https://web3.career/lead-technical-recruiter-genies/24197,"Los Angeles,
+United States",Lead Technical Recruiter,$40k - $70k,lead:recruiter:non tech:nft,1mo
+Virtually Human Studio,https://web3.career/engineering-manager-remote-vhslab/24196,APAC,Engineering Manager (Remote),$79k - $180k,executive:remote:nft,1mo
+Trapesys,https://web3.career/senior-blockchain-engineer-polygon-edge-trapesys/24195,Remote,Senior Blockchain Engineer - Polygon Edge,$85k - $300k,dev:senior:blockchain:remote,1mo
+Bitfury,https://web3.career/product-marketing-manager-crystal-blockchain-bitfury/24194,"Amsterdam,
+Netherlands",Product Marketing Manager (Crystal Blockchain),$13k - $100k,marketing:non tech:blockchain,1mo
+Disco,https://web3.career/senior-ux-researcher-discoxyz/24193,"New York,
+United States",Senior UX Researcher,$60k - $120k,senior:design:non tech,1mo
+Binance,https://web3.career/office-manager-administrator-binance/24192,"Cape Town,
+South Africa",Office Manager/Administrator,,,1mo
+Analog,https://web3.career/community-manager-analog/24191,"San Francisco,
+United States",Community Manager,$40k - $100k,community manager:non tech,1mo
+Virtually Human Studio,https://web3.career/devops-security-architect-remote-vhslab/24190,"Sydney,
+Australia",DevOps Security Architect (Remote),,remote:architecture:devops:security:nft,1mo
+Virtually Human Studio,https://web3.career/backend-engineer-node-js-remote-vhslab/24189,"Sydney,
+Australia",Backend Engineer - Node.js (Remote),$70k - $150k,remote:javascript:backend:dev:node,1mo
+METALABS,https://web3.career/community-mods-dubai-uae-metalabs/24188,"Dubai,
+United Arab Emirates","Community Mods - Dubai, UAE",$25k - $40k,community manger:social media:marketing:non tech,1mo
+METALABS,https://web3.career/social-media-manager-dubai-uae-metalabs/24187,"Dubai,
+United Arab Emirates","Social Media Manager - Dubai, UAE",$50k - $70k,social media:non tech:marketing,1mo
+METALABS,https://web3.career/producer-dubai-uae-metalabs/24186,"Dubai,
+United Arab Emirates","Producer - Dubai, UAE",$55k - $75k,non tech:project manager:nft:blocklchain:metaverse,1mo
+METALABS,https://web3.career/community-manager-dubai-uae-metalabs/24185,"Dubai,
+United Arab Emirates","Community Manager - Dubai, UAE",$45k - $80k,community manager:non tech:social media:marketing,1mo
+METALABS,https://web3.career/solidity-developer-dubai-uae-metalabs/24184,"Dubai,
+United Arab Emirates","Solidity Developer - Dubai, UAE",$65k - $100k,dev:solidity:smart contract:blockchain:nft,1mo

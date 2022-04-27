@@ -1,36 +1,68 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Coin Metrics,https://web3.career/site-reliability-engineer-sre-coinmetrics/10352,SITE RELIABILITY ENGINEER (SRE),$150k - $200k,dev:sys admin:senior:ethereum:node,5mo
-Coin Metrics,https://web3.career/data-scientist-coinmetrics/10351,DATA SCIENTIST,$50k - $150k,data science,5mo
-Coin Metrics,https://web3.career/cryptoasset-index-analyst-coinmetrics/10350,CRYPTOASSET INDEX ANALYST,$40k - $120k,analyst,5mo
-Coin Metrics,https://web3.career/business-analyst-indexes-coinmetrics/10349,BUSINESS ANALYST INDEXES,$40k - $120k,analyst,5mo
-Coin Metrics,https://web3.career/join-coin-metrics-talent-community-coinmetrics/10348,JOIN COIN METRICS TALENT COMMUNITY,,community manager:non tech:recruiter:ethereum,5mo
-Coin Metrics,https://web3.career/technical-project-manager-coinmetrics/10347,TECHNICAL PROJECT MANAGER,$50k - $150k,project manager:non tech,5mo
-Coin Metrics,https://web3.career/frontend-software-engineer-coinmetrics/10346,Frontend Software Engineer,$50k - $144k,dev:front end:react:javascript,5mo
-Coin Metrics,https://web3.career/data-quality-engineer-coinmetrics/10345,DATA QUALITY ENGINEER,$33k - $140k,dev:java,5mo
-Coin Metrics,https://web3.career/backend-software-engineer-coinmetrics/10344,BACKEND SOFTWARE ENGINEER,$60k - $160k,backend:dev:java,5mo
-Coin Metrics,https://web3.career/customer-success-coinmetrics/10343,CUSTOMER SUCCESS,$40k - $80k,customer support,5mo
-Coinme,https://web3.career/product-marketing-manager-remote-optional-coinme/10342,Product Marketing Manager (Remote Optional),$25k - $120k,remote:marketing:non tech,5mo
-Coinme,https://web3.career/content-manager-remote-optional-coinme/10341,Content Manager (Remote Optional),$25k - $120k,remote:marketing:non tech:copywriting,5mo
-Coinme,https://web3.career/general-counsel-and-corp-secretary-remote-coinme/10340,General Counsel and Corp Secretary (Remote),,legal:remote,5mo
-Coinme,https://web3.career/technical-writer-remote-optional-coinme/10339,Technical Writer (Remote Optional),$45k - $120k,remote:analyst,5mo
-Coinme,https://web3.career/software-engineer-1-remote-optional-coinme/10338,Software Engineer 1 (Remote Optional),$50k - $150k,remote:dev:react:node:java,5mo
-Coinme,https://web3.career/senior-security-engineer-remote-optional-coinme/10337,Senior Security Engineer (Remote Optional),$95k - $250k,remote:dev:security:senior,5mo
-Coinme,https://web3.career/senior-java-software-engineer-network-remote-optional-coinme/10336,Senior Java Software Engineer - Network (Remote Optional),$35k - $180k,remote:dev:java:senior:golang,5mo
-CoinList,https://web3.career/business-operations-associate-coinlist/10335,Business Operations Associate,,operations:solana,5mo
-CoinList,https://web3.career/software-engineer-coinlist/10334,Software Engineer,$73k - $200k,dev:react:solana,5mo
-CoinList,https://web3.career/site-reliability-engineer-coinlist/10333,Site Reliability Engineer,,dev:sys admin:react:solana,5mo
-CoinList,https://web3.career/senior-trading-engineer-coinlist/10332,Senior Trading Engineer,$70k - $180k,dev:senior:react:solana:javascript,5mo
-CoinList,https://web3.career/senior-security-engineer-coinlist/10331,Senior Security Engineer,$95k - $250k,dev:security:senior,5mo
-CoinList,https://web3.career/senior-exchange-engineer-coinlist/10330,Senior Exchange Engineer,$90k - $220k,dev:senior:solana:node,5mo
-CoinList,https://web3.career/senior-data-engineer-coinlist/10329,Senior Data Engineer,$130k - $160k,data science:dev:senior:solana,5mo
-CoinList,https://web3.career/protocol-engineer-coinlist/10328,Protocol Engineer,$75k - $200k,dev:solana,5mo
-CoinList,https://web3.career/product-designer-coinlist/10327,Product Designer,$100k - $150k,design:non tech:solana,5mo
-CoinList,https://web3.career/head-of-lending-coinlist/10326,Head of Lending,$85k - $180k,executive:solana,5mo
-CoinList,https://web3.career/wallets-support-analyst-coinlist/10325,Wallets Support Analyst,,analyst:customer support:solana,5mo
-CoinList,https://web3.career/office-manager-and-executive-assistant-coinlist/10324,Office Manager and Executive Assistant,$70k - $180k,executive,5mo
-CoinList,https://web3.career/exchange-data-analyst-coinlist/10323,Exchange Data Analyst,$36k - $72k,analyst:data science,5mo
-CoinList,https://web3.career/performance-marketing-associate-coinlist/10322,Performance Marketing Associate,$45k - $130k,marketing:non tech,5mo
-CoinList,https://web3.career/product-counsel-coinlist/10321,Product Counsel,$24k - $140k,legal,5mo
-CoinList,https://web3.career/onboarding-verification-specialist-contract-role-coinlist/10320,Onboarding/Verification Specialist [Contract Role],,,5mo
-CoinList,https://web3.career/legal-and-compliance-operations-specialist-coinlist/10319,Legal and Compliance Operations Specialist,,compliance:legal:operations,5mo
-CoinList,https://web3.career/assistant-controller-coinlist/10318,Assistant Controller,,finance:legal,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Wirex Limited,https://web3.career/qa-engineer-back-end-wirexlimited/10862,"Kiev,
+Ukraine",QA Engineer (Back-end),,backend:dev:quality assurance,6mo
+Wirex Limited,https://web3.career/senior-technical-product-owner-wirexlimited/10861,"Kiev,
+Ukraine",Senior Technical Product Owner,$80k - $150k,product manager:non tech:senior,6mo
+Wirex Limited,https://web3.career/domain-coordinator-b2c-wirexlimited/10860,"Kiev,
+Ukraine",Domain Coordinator B2C,$100k - $150k,c:c plus plus,6mo
+Wirex Limited,https://web3.career/senior-it-recruiter-wirexlimited/10859,"Kiev,
+Ukraine",Senior IT Recruiter,$40k - $70k,recruiter:non tech:senior,6mo
+Wirex Limited,https://web3.career/total-rewards-specialist-wirexlimited/10858,"Kiev,
+Ukraine",Total Rewards Specialist,,,6mo
+Wirex Limited,https://web3.career/pe-accountant-wirexlimited/10857,"Kiev,
+Ukraine",PE Accountant,$25k - $150k,accounting,6mo
+Wirex Limited,https://web3.career/cyber-security-engineer-wirexlimited/10856,"Kiev,
+Ukraine",Cyber Security Engineer,,dev:security:ruby:php:java,6mo
+Wirex Limited,https://web3.career/net-back-end-developer-wirexlimited/10855,"Kiev,
+Ukraine",.NET Back-end Developer,,dot net:backend:dev,6mo
+Wirex Limited,https://web3.career/middle-net-back-end-developer-wirexlimited/10854,"Kiev,
+Ukraine",Middle .NET Back-end Developer,,dot net:backend:dev,6mo
+Wirex Limited,https://web3.career/junior-net-back-end-developer-wirexlimited/10853,"Kiev,
+Ukraine",Junior .Net Back-end Developer,,dot net:backend:dev:junior:entry level,6mo
+Wirex Limited,https://web3.career/affiliate-marketing-manager-wirexlimited/10852,"London,
+United Kingdom",Affiliate Marketing Manager,$45k - $130k,marketing:non tech,6mo
+Wirex Limited,https://web3.career/paralegal-wirexlimited/10851,"London,
+United Kingdom",Paralegal,,,6mo
+Wirex Limited,https://web3.career/global-cfo-wirexlimited/10850,"London,
+United Kingdom",Global CFO,$40k - $150k,finance,6mo
+Wirex Limited,https://web3.career/head-of-risk-and-governance-wirexlimited/10849,"London,
+United Kingdom",Head of Risk and Governance,$70k - $180k,executive,6mo
+Wirex Limited,https://web3.career/head-of-internal-audit-wirexlimited/10848,"London,
+United Kingdom",Head of Internal Audit,$70k - $180k,executive,6mo
+Voice,https://web3.career/senior-product-designer-voice/10847,"New York,
+United States",Senior Product Designer,$60k - $120k,design:non tech:senior:nft,6mo
+Voice,https://web3.career/product-designer-voice/10846,"New York,
+United States",Product Designer,$60k - $150k,design:non tech:nft:javascript,6mo
+Voice,https://web3.career/graphic-designer-voice/10845,"New York,
+United States",Graphic Designer,$60k - $150k,design:non tech:nft,6mo
+Voice,https://web3.career/senior-tech-recruiter-voice/10844,"New York,
+United States",Senior Tech Recruiter,$40k - $70k,recruiter:non tech:senior:nft,6mo
+Voice,https://web3.career/don-t-see-what-you-are-looking-for-voice/10843,"New York,
+United States",Don't See What You Are Looking For?,$55k - $150k,nft,6mo
+Voice,https://web3.career/software-engineer-voice/10842,"New York,
+United States",Software Engineer,$60k - $180k,dev:react:nft:javascript:node,6mo
+Voice,https://web3.career/senior-frontend-engineer-voice/10841,"New York,
+United States",Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:nft,6mo
+Voice,https://web3.career/data-analyst-voice/10840,"New York,
+United States",Data Analyst,$36k - $120k,analyst:data science:nft,6mo
+Voice,https://web3.career/manager-corporate-technology-voice/10839,"New York,
+United States","Manager, Corporate Technology",$55k - $150k,nft,6mo
+Valora Inc,https://web3.career/sr-product-manager-valorainc/10838,"San Francisco,
+United States",Sr. Product Manager,$80k - $150k,product manager:non tech:senior,6mo
+Valora Inc,https://web3.career/senior-product-designer-valorainc/10837,"San Francisco,
+United States",Senior Product Designer,$60k - $120k,design:non tech:senior,6mo
+Valora Inc,https://web3.career/head-of-product-valorainc/10836,"San Francisco,
+United States",Head of Product,$135k - $170k,executive:product manager:non tech,6mo
+Valora Inc,https://web3.career/lead-recruiter-valorainc/10835,"San Francisco,
+United States",Lead Recruiter,$40k - $70k,lead:recruiter:non tech,6mo
+Valora Inc,https://web3.career/principal-engineer-valorainc/10834,"San Francisco,
+United States",Principal Engineer,$200k - $400k,dev:executive:react:react native:solidity,6mo
+Valora Inc,https://web3.career/full-stack-engineer-valorainc/10833,"San Francisco,
+United States",Full Stack Engineer,$65k - $180k,dev:full stack:react:react native:solidity,6mo
+Valora Inc,https://web3.career/engineering-manager-valorainc/10832,"San Francisco,
+United States",Engineering Manager,$115k - $150k,executive:react:react native:solidity,6mo
+Thesis*,https://web3.career/head-of-growth-tally-thesis/10831,,Head Of Growth - Tally,$70k - $158k,executive:marketing:non tech,6mo
+Thesis*,https://web3.career/community-manager-tally-thesis/10830,,Community Manager - Tally,$40k - $100k,community manager:non tech,6mo
+Thesis*,https://web3.career/smart-contracts-engineer-tally-thesis/10829,,Smart Contracts Engineer - Tally,$72k - $200k,dev:smart contract:solidity:javascript,6mo
+Telcoin,https://web3.career/managing-consultant-telcoin/10828,"Singapore,
+Singapore",Managing Consultant,$80k - $200k,consulting,6mo

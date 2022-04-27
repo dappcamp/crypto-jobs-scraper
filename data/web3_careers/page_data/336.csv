@@ -1,36 +1,57 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Kudo Money,https://web3.career/blockchain-developer-smart-contracts-kudo-money/12153,Blockchain Developer (Smart Contracts),$16k - $80k,dev:blockchain:smart contract:solidity:ethereum,5mo
-Yearn.finance,https://web3.career/smart-contract-engineer-yearn-finance-1/12152,Smart Contract Engineer,$0k,dev:smart contract:solidity:ethereum:javascript,5mo
-Polychain Monsters,https://web3.career/senior-smart-contract-developer-m-f-o-polychain-monsters/12151,[Senior-]Smart Contract Developer (m/f/o),$0k,dev:senior:smart contract:solidity:nft,5mo
-Bond180,https://web3.career/ethereum-smart-contracts-developer-bond180/12150,Ethereum Smart Contracts Developer,$10k - $40k,dev:smart contract:ethereum,5mo
-Alongside Finance,https://web3.career/smart-contract-engineer-solidity-alongside-finance/12149,Smart Contract Engineer (Solidity),$100k - $150k,dev:smart contract:solidity:react:react native,5mo
-Thesis,https://web3.career/smart-contracts-engineer-tally-thesis-co/12148,Smart Contracts Engineer - Tally,$72k - $200k,dev:smart contract:solidity:javascript,5mo
-Showtime,https://web3.career/senior-smart-contract-engineer-showtime-technologies/12147,Senior Smart Contract Engineer,$120k - $250k,dev:senior:smart contract:solidity:nft,5mo
-Ava Labs,https://web3.career/smart-contracts-engineer-avalabs/12146,Smart Contracts Engineer,$80k - $180k,dev:smart contract:react:solidity:javascript,5mo
-Nayms,https://web3.career/smart-contract-developer-nayms-1/12145,Smart Contract Developer,$0k,dev:smart contract:solidity,5mo
-HaloDAO,https://web3.career/smart-contract-developer-halodao/12144,Smart Contract Developer,$0k,dev:smart contract:solidity:dao,5mo
-Brinc Finance,https://web3.career/smart-contract-developer-brinc-finance/12141,Smart Contract Developer,$120k - $200k,dev:smart contract:solidity:ethereum,5mo
-Ava Labs,https://web3.career/smart-contracts-engineer-avalabs/12140,Smart Contracts Engineer,$80k - $180k,dev:smart contract:react:solidity:javascript,5mo
-QuillHash Technologies,https://web3.career/blockchain-smart-contract-development-intern-quillhash/12139,Blockchain Smart Contract Development Intern,$31k - $46k,intern:entry level:blockchain:smart contract:solidity,5mo
-Rigor,https://web3.career/senior-smart-contract-engineer-rigor-4/12138,Senior Smart Contract Engineer,$250k - $300k,dev:senior:smart contract:solidity:remote,5mo
-Spring Labs,https://web3.career/smart-contract-engineer-spring-labs/12137,Smart Contract Engineer,$65k - $180k,dev:smart contract:ethereum,5mo
-Tokn Music,https://web3.career/smart-contract-developer-toknmusic/12136,Smart Contract Developer,$1k - $12k,dev:smart contract:solidity:nft,5mo
-BOLT Global,https://web3.career/smart-contract-developer-bolt-global-1/12135,Smart Contract Developer,$72k - $200k,dev:smart contract:solidity:ethereum,5mo
-Otis,https://web3.career/senior-smart-contract-engineer-solidity-withotis/12134,Senior Smart Contract Engineer - Solidity,$120k - $250k,dev:senior:smart contract:solidity:ethereum,5mo
-Ondo Finance,https://web3.career/smart-contract-engineer-ondo-finance/12133,Smart Contract Engineer,$140k - $220k,dev:smart contract:react:solidity,5mo
-Chestr Labs,https://web3.career/smart-contract-engineer-solidity-chestr-labs/12132,Smart Contract Engineer (Solidity),$100k - $160k,dev:smart contract:solidity:ethereum:nft,5mo
-BlockSwap network,https://web3.career/smart-contract-engineer-blockswap/12131,Smart Contract Engineer,$140k - $180k,dev:smart contract:solidity:ethereum:nft,5mo
-Enya.ai,https://web3.career/senior-smart-contract-engineer-enyaai/12130,Senior Smart Contract Engineer,$0k,dev:senior:smart contract:web3js:solidity,5mo
-Monax,https://web3.career/smart-contract-engineer-monaxhq/12129,Smart Contract Engineer,$80k - $140k,dev:smart contract:react:solidity:solana,5mo
-Gemini,https://web3.career/software-engineer-nifty-gateway-smart-contracts-gemini/12128,"Software Engineer, Nifty Gateway - Smart Contracts",$72k - $200k,dev:smart contract:solidity:ethereum,5mo
-PUNDI X LABS,https://web3.career/blockchain-smart-contract-lead-developer-pundi-x-labs-2/12127,Blockchain/Smart Contract Lead Developer,$30k - $70k,dev:lead:blockchain:smart contract:solana,5mo
-ViewFin Canada,https://web3.career/smart-contract-developer-viewfin-canada/12126,Smart Contract Developer,$75k,dev:smart contract:solidity:ethereum,5mo
-Monax,https://web3.career/smart-contract-engineer-monaxhq/12125,Smart Contract Engineer,$80k - $134k,dev:smart contract:react:solidity:solana,5mo
-Rubicon,https://web3.career/smart-contract-engineer-rubicon-defi/12124,Smart Contract Engineer,$0k,dev:smart contract:web3js:ethereum:remote,5mo
-Boom.tv,https://web3.career/nft-smart-contract-engineer-boomtv/12123,NFT Smart Contract Engineer,$150k - $200k,dev:nft:smart contract,5mo
-Steel Perlot,https://web3.career/smart-contract-tech-lead-nft-marketplace-starx-steel-perlot/12122,Smart Contract Tech Lead — NFT Marketplace (StarX),$180k - $240k,lead:tech lead:nft:smart contract:react,5mo
-ClayStack,https://web3.career/solidity-audit-on-smart-contract-claystack/12121,Solidity Audit on Smart Contract,$0k,smart contract:solidity,5mo
-Tamago Finance,https://web3.career/smart-contract-engineer-tamago-finance/12120,Smart Contract Engineer,$0k,dev:smart contract:solidity:ethereum,5mo
-Snowball Money,https://web3.career/solidity-smart-contracts-developer-snowballmoney/12119,Solidity Smart Contracts Developer,$100k - $180k,dev:smart contract:solidity:solana:ethereum,5mo
-QuillHash Technologies,https://web3.career/blockchain-smart-contract-auditor-quillaudits-solidity-quillhash/12118,Blockchain Smart Contract Auditor | QuillAudits | Solidity,$26k - $39k,blockchain:smart contract:solidity:nft:javascript,5mo
-dOrg,https://web3.career/smart-contract-engineer-100-remote-dorg-1/12117,Smart Contract Engineer (100% Remote),$80k - $160k,remote:dev:smart contract:solidity,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Crypto.com,https://web3.career/product-designer-internal-tools-global-fintech-startup-crypto-com/12791,Remote,Product Designer (Internal Tools) - Global Fintech Startup,,design:non tech:finance:remote,5mo
+Crypto.com,https://web3.career/site-reliability-engineer-crypto-com/12790,"London,
+United Kingdom",Site Reliability Engineer,$150k - $200k,dev:sys admin,5mo
+RDX Works,https://web3.career/crypto-community-liaison-full-time-paid-opportunity-rdxworks/12789,"London,
+United Kingdom",Crypto Community Liaison - Full Time Paid Opportunity,,community manager:non tech:full time:crypto,5mo
+Bitaccess,https://web3.career/software-engineer-bitcoin-crypto-blockchain-bitaccess/12788,"Toronto,
+Canada","Software Engineer - Bitcoin, Crypto & Blockchain",,dev:btc:blockchain:crypto:ethereum,5mo
+Applied Blockchain,https://web3.career/marketing-manager-appliedblockchain/12787,"Porto,
+Portugal",Marketing Manager,,marketing:non tech:javascript,5mo
+Qredo,https://web3.career/content-writer-blockchain-crypto-europe-qredo/12786,"Amsterdam,
+Netherlands","Content Writer - Blockchain/Crypto, Europe",$30k - $40k,copywriting:blockchain:crypto,5mo
+Crypto.com,https://web3.career/security-compliance-analyst-crypto-com/12785,"Sofia,
+Bulgaria",Security Compliance Analyst,,compliance:analyst:security,5mo
+Mindera,https://web3.career/blockchain-developer-mindera/12784,"Porto,
+Portugal",Blockchain Developer,$52k - $160k,dev:blockchain:solidity:javascript:scala,5mo
+Everledger,https://web3.career/senior-blockchain-engineer-nft-specialist-bengaluru-everledger/12783,"Bengaluru,
+India",Senior Blockchain Engineer (NFT specialist)- Bengaluru,$80k - $200k,dev:senior:blockchain:nft:solidity,5mo
+BytePitch - Software Labs,https://web3.career/blockchain-software-engineer-full-time-contractor-bytepitch-softwarelabs/12782,Brazil,Blockchain Software Engineer - Full Time Contractor,$89k - $142k,dev:full time:blockchain:solidity:ethereum,5mo
+Adoriasoft Inc.,https://web3.career/fullstack-blockchain-developer-for-primex-finance-adoriasoftinc/12781,Remote,Fullstack Blockchain Developer for Primex Finance,,dev:finance:full stack:blockchain:web3js,5mo
+Mirana,https://web3.career/quant-trader-defi-mirana/12780,"Singapore,
+Singapore",Quant Trader (Defi),,trader:defi:java,5mo
+Crypto.com,https://web3.career/smart-contract-auditor-americas-will-consider-rust-golang-developers-crypto-com/12779,United States,Smart Contract Auditor - Americas - (Will consider Rust / GoLang Developers),$70k - $150k,golang:rust:smart contract:solidity:ethereum,5mo
+Mirana,https://web3.career/blockchain-defi-researcher-junior-defi-trading-dex-mirana/12778,"Singapore,
+Singapore","Blockchain/Defi Researcher - Junior (Defi, Trading, Dex)",$109k - $11k,junior:entry level:blockchain:defi:ethereum,5mo
+Crypto.com,https://web3.career/digital-asset-compliance-analyst-crypto-com/12777,"Miami,
+United States",Digital Asset Compliance Analyst,,compliance:analyst:nft,5mo
+Virtually Human Studio,https://web3.career/full-stack-blockchain-engineer-remote-virtuallyhumanstudio/12776,"San Francisco,
+United States",Full-stack Blockchain Engineer (Remote),$70k - $200k,remote:dev:full stack:blockchain:web3js,5mo
+EXANTE,https://web3.career/solidity-developer-stasis-exante/12775,Russia,Solidity Developer- STASIS,$60k - $135k,dev:solidity:web3js:ethereum:javascript,5mo
+Crypto.com,https://web3.career/legal-counsel-litigation-us-crypto-com/12774,"Miami,
+United States","Legal Counsel, Litigation (US)",$24k - $140k,legal,5mo
+TrueLayer,https://web3.career/senior-full-stack-engineer-crypto-r-d-truelayer/12773,"London,
+United Kingdom",Senior Full Stack Engineer - Crypto R&D,$70k - $180k,dev:full stack:senior:crypto:scala,5mo
+Hashstack,https://web3.career/solidity-engineer-ii-hashstack/12772,India,Solidity engineer II,$15k - $39k,dev:solidity:ethereum,5mo
+Bits,https://web3.career/social-media-and-community-manager-for-crypto-nfts-bits-9/12770,United Kingdom,Social Media and Community Manager for Crypto/NFTs,$45k - $100k,community manager:non tech:social media:crypto:nft,5mo
+Wicked-Labs,https://web3.career/co-founder-cto-metaverse-blockchain-gaming-wicked-labs/12769,"Munich,
+Germany",Co-Founder / CTO (Metaverse / Blockchain / Gaming),$0k,executive:game dev:metaverse:blockchain:nft,5mo
+North Island Ventures,https://web3.career/crypto-vc-investor-north-island-ventures/12768,"New York,
+United States",Crypto VC Investor,$150k - $200k,finance:crypto,5mo
+Hashstack,https://web3.career/solidity-engineer-hashstack/12767,India,Solidity engineer,$93k - $19k,dev:solidity:ethereum,5mo
+Futures and Fringes,https://web3.career/freelance-full-stack-web-developer-blockchain-application-futures-and-fringes-2/12766,Canada,Freelance Full Stack Web Developer (Blockchain Application),$56k - $66k,dev:full stack:blockchain:react:nft,5mo
+Alpha Impact,https://web3.career/business-development-intern-crypto-alpha-impact-2/12765,"Singapore,
+Singapore",Business Development Intern (Crypto),$0k,sales:non tech:intern:entry level:crypto,5mo
+Breeder DAO,https://web3.career/marketing-pr-associate-crypto-breeder-dao/12764,Remote,Marketing & PR Associate (Crypto),$36k - $60k,marketing:non tech:crypto:remote:dao,5mo
+Voltz,https://web3.career/senior-solidity-engineer-voltz-1/12763,Remote,Senior Solidity Engineer,$175k - $250k,dev:senior:solidity:ethereum:remote,5mo
+Steel Perlot,https://web3.career/frontend-full-stack-engineer-nft-marketplace-starx-steel-perlot/12762,"Los Angeles,
+United States",Frontend/Full Stack Engineer — NFT Marketplace (StarX),$115k - $150k,dev:front end:full stack:nft:web3js,5mo
+Advanced Blockchain,https://web3.career/senior-frontend-developer-advanced-blockchain-2/12761,"Berlin,
+Germany",Senior Frontend Developer,$0k,dev:front end:senior:react:solidity,5mo
+DMPLE Studio,https://web3.career/blockchain-developer-dmple-studio/12760,"Singapore,
+Singapore",Blockchain Developer,$0k,dev:blockchain:web3js:solidity:ethereum,5mo
+Steel Perlot,https://web3.career/crypto-researcher-steel-perlot-steel-perlot/12759,"New York,
+United States",Crypto Researcher (Steel Perlot),$100k - $130k,crypto,5mo
+Metareach,https://web3.career/chief-blockchain-officer-metareach/12758,United Kingdom,Chief Blockchain Officer,$0k,executive:blockchain:ethereum:java:golang,5mo
+Koinly,https://web3.career/customer-support-team-lead-crypto-remote-koinly/12757,United Kingdom,Customer Support Team Lead/ Crypto / Remote,$25k - $35k,remote:customer support:lead:crypto,5mo
+Berkeley Pharma Tech,https://web3.career/part-time-crypto-currency-engineering-intern-position-remote-internship-equity-compensation-college-freshmen-are-encouraged-to-apply-berkeley-pharma-tech/12756,United States,Part-time Crypto Currency Engineering Intern Position (Remote Internship). Equity Compensation. College freshmen are encouraged to apply!,$0k,remote:intern:entry level:part time:crypto,5mo

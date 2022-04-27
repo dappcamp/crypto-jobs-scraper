@@ -1,36 +1,36 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Kraken Digital Asset Exchange,https://web3.career/senior-technical-project-manager-kraken/7639,Senior Technical Project Manager,,project manager:non tech:senior:remote,6mo
-Kraken Digital Asset Exchange,https://web3.career/senior-site-reliability-engineer-cryptowatch-kraken/7638,Senior Site Reliability Engineer - Cryptowatch,$150k - $200k,dev:sys admin:senior:remote,6mo
-Kraken Digital Asset Exchange,https://web3.career/senior-site-reliability-engineer-banking-kraken/7637,Senior Site Reliability Engineer - Banking,,finance:dev:sys admin:senior:remote,6mo
-Kraken Digital Asset Exchange,https://web3.career/senior-rust-engineer-banking-kraken/7636,Senior Rust Engineer - Banking,,finance:dev:rust:senior:remote,6mo
-Kraken Digital Asset Exchange,https://web3.career/senior-frontend-engineer-react-cryptowatch-kraken/7635,"Senior Frontend Engineer - React, Cryptowatch",$50k - $140k,dev:front end:javascript:react:senior,6mo
-Kraken Digital Asset Exchange,https://web3.career/senior-frontend-engineer-react-native-kraken/7634,Senior Frontend Engineer - React Native,$115k - $120k,dev:front end:react native:mobile:javascript,6mo
-Kraken Digital Asset Exchange,https://web3.career/senior-frontend-engineer-react-emea-kraken/7633,Senior Frontend Engineer - React (EMEA),$50k - $140k,dev:front end:javascript:react:senior,6mo
-Kraken Digital Asset Exchange,https://web3.career/senior-frontend-engineer-react-kraken/7632,Senior Frontend Engineer - React,$50k - $140k,dev:front end:javascript:react:senior,6mo
-Kraken Digital Asset Exchange,https://web3.career/senior-backend-engineer-rust-core-backend-kraken/7631,Senior Backend Engineer - Rust - Core Backend,$50k - $140k,backend:dev:rust:senior:remote,6mo
-Kraken Digital Asset Exchange,https://web3.career/senior-backend-engineer-go-cryptowatch-kraken/7630,"Senior Backend Engineer - Go, Cryptowatch",$33k - $160k,backend:dev:golang:senior:remote,6mo
-Kraken Digital Asset Exchange,https://web3.career/qa-analyst-cryptowatch-kraken/7629,QA Analyst - Cryptowatch,,analyst:quality assurance:remote,6mo
-Kraken Digital Asset Exchange,https://web3.career/operational-resiliency-incident-specialist-us-west-coast-kraken/7628,Operational Resiliency Incident Specialist - US - West Coast,$60k - $200k,operations,6mo
-Kraken Digital Asset Exchange,https://web3.career/junior-full-stack-software-engineer-trading-technology-react-kraken/7627,Junior Full Stack Software Engineer - Trading Technology (React),$39k - $180k,dev:full stack:junior:entry level:javascript,6mo
-Kraken Digital Asset Exchange,https://web3.career/infrastructure-performance-and-security-kraken/7626,Infrastructure - Performance and Security,$95k - $250k,security:remote,6mo
-Kraken Digital Asset Exchange,https://web3.career/full-stack-software-engineer-kraken/7625,Full Stack Software Engineer,$70k - $200k,dev:full stack:remote,6mo
-Kraken Digital Asset Exchange,https://web3.career/frontend-engineer-internal-tools-kraken/7624,Frontend Engineer - Internal Tools,$50k - $144k,dev:front end:react:nextjs:remote,6mo
-Kraken Digital Asset Exchange,https://web3.career/engineering-manager-front-end-kraken/7623,Engineering Manager - Front End,,executive:front end:remote,6mo
-Kraken Digital Asset Exchange,https://web3.career/engineering-manager-banking-products-kraken/7622,Engineering Manager - Banking Products,$40k - $225k,executive:finance:remote,6mo
-Kraken Digital Asset Exchange,https://web3.career/engineer-inf-telemetry-kraken/7621,"Engineer, INF - Telemetry",$65k - $180k,dev:remote,6mo
-Kraken Digital Asset Exchange,https://web3.career/engineer-inf-orchestration-kraken/7620,Engineer - INF - Orchestration,$65k - $180k,dev:remote,6mo
-Kraken Digital Asset Exchange,https://web3.career/devops-engineer-inf-disaster-recovery-kraken/7619,"Devops Engineer, INF - Disaster Recovery",$95k - $180k,devops:dev:remote,6mo
-Kraken Digital Asset Exchange,https://web3.career/core-infrastructure-engineer-devops-kraken/7618,Core Infrastructure Engineer - DevOps,$95k - $180k,devops:dev:remote,6mo
-Kraken Digital Asset Exchange,https://web3.career/big-data-platform-engineer-kraken/7617,Big Data Platform Engineer,$140k - $180k,big data:dev:remote,6mo
-Kraken Digital Asset Exchange,https://web3.career/backend-engineer-kraken-futures-rust-remote-kraken/7616,"Backend Engineer, Kraken Futures - Rust (Remote)",$60k - $180k,remote:backend:dev:rust,6mo
-Kraken Digital Asset Exchange,https://web3.career/backend-engineer-go-cryptowatch-kraken/7615,"Backend Engineer, Go Cryptowatch",$33k - $160k,backend:dev:golang:remote,6mo
-Kraken Digital Asset Exchange,https://web3.career/backend-engineer-rust-core-backend-kraken/7614,Backend Engineer - Rust - Core Backend,$50k - $140k,backend:dev:rust:remote,6mo
-Kraken Digital Asset Exchange,https://web3.career/backend-engineer-fiat-payments-kraken/7613,Backend Engineer - Fiat Payments,$60k - $180k,backend:dev:remote,6mo
-Kraken Digital Asset Exchange,https://web3.career/backend-quant-developer-remote-kraken/7612,Backend / Quant Developer (Remote),$60k - $180k,remote:backend:dev,6mo
-11:FS,https://web3.career/comms-designer-11fs/7609,Comms Designer,$50k - $150k,design:non tech,6mo
-Messari,https://web3.career/director-product-design-messari/7607,"Director, Product Design",,design:non tech:executive:remote,6mo
-Ledger,https://web3.career/senior-web-developer-wordpress-shopify-javascript-ecommerce-ledger/7606,Senior Web Developer (WordPress/Shopify/JavaScript) - Ecommerce,$220k - $400k,dev:ecommerce:javascript:senior:wordpress,6mo
-SuperRare Labs,https://web3.career/senior-data-engineer-superrarelabs/7605,Senior Data Engineer,$130k - $160k,data science:dev:senior:ethereum:nft,6mo
-Chainalysis,https://web3.career/sales-director-latam-spanish-speaking-chainalysis/7604,"Sales Director, LATAM (Spanish speaking)",$40k - $150k,executive:sales:non tech,6mo
-RECUR,https://web3.career/licensing-coordinator-film-remote-recur/7603,"Licensing Coordinator, Film (Remote)",$79k - $158k,remote:ethereum:nft,6mo
-Cake Pte Ltd,https://web3.career/finance-engineering-analyst-cakedefi/7601,Finance Engineering Analyst,,analyst:finance:javascript,6mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Coinbase,https://web3.career/l-d-specialist-lead-institutional-remote-usa-coinbase/8265,,"L&D Specialist/Lead, Institutional (Remote - USA)",$95k - $200k,remote:lead,6mo
+Coinbase,https://web3.career/institutional-support-analyst-coinbase/8264,,Institutional Support Analyst,$15k - $95k,analyst:customer support,6mo
+Coinbase,https://web3.career/institutional-support-analyst-coinbase/8263,,Institutional Support Analyst,$15k - $95k,analyst:customer support,6mo
+Coinbase,https://web3.career/incidents-and-escalations-manager-customer-support-coinbase/8262,,"Incidents and Escalations Manager, Customer Support",$40k - $80k,customer support,6mo
+Coinbase,https://web3.career/incidents-and-escalations-manager-customer-support-coinbase/8261,,"Incidents and Escalations Manager, Customer Support",$40k - $80k,customer support,6mo
+Coinbase,https://web3.career/customer-support-analyst-wallet-and-vault-coinbase/8260,,"Customer Support Analyst, Wallet and Vault",$15k - $95k,analyst:customer support,6mo
+Coinbase,https://web3.career/customer-support-analyst-payment-operations-coinbase/8259,,"Customer Support Analyst, Payment Operations",,analyst:customer support:operations,6mo
+Coinbase,https://web3.career/customer-support-analyst-account-operations-coinbase/8258,,"Customer Support Analyst, Account Operations",,analyst:customer support:operations,6mo
+Coinbase,https://web3.career/customer-support-analyst-coinbase/8257,,Customer Support Analyst,$15k - $95k,analyst:customer support,6mo
+Coinbase,https://web3.career/customer-support-analyst-coinbase/8256,,Customer Support Analyst,$15k - $95k,analyst:customer support,6mo
+Coinbase,https://web3.career/content-strategist-cloud-coinbase/8255,,"Content Strategist, Cloud",$109k - $13k,cloud,6mo
+Coinbase,https://web3.career/content-strategist-coinbase/8254,,Content Strategist,,,6mo
+Coinbase,https://web3.career/community-operations-incidents-and-escalations-analyst-customer-support-coinbase/8253,,"Community Operations Incidents and Escalations Analyst, Customer Support",,analyst:community manager:non tech:customer support:operations,6mo
+Coinbase,https://web3.career/community-operations-incidents-and-escalations-analyst-customer-support-coinbase/8252,,"Community Operations Incidents and Escalations Analyst, Customer Support",,analyst:community manager:non tech:customer support:operations,6mo
+Coinbase,https://web3.career/associate-manager-support-content-strategy-coinbase/8251,,"Associate Manager, Support Content Strategy",$40k - $80k,customer support,6mo
+Coinbase,https://web3.career/associate-manager-complaints-coinbase/8250,,"Associate Manager, Complaints",,,6mo
+Coinbase,https://web3.career/analyst-content-moderation-coinbase/8249,,"Analyst, Content Moderation",$36k - $120k,analyst:nft,6mo
+Coinbase,https://web3.career/senior-product-manager-coinbase/8248,,Senior Product Manager,$80k - $150k,product manager:non tech:senior,6mo
+Coinbase,https://web3.career/group-product-manager-coinbase/8247,,Group Product Manager,$69k - $160k,product manager:non tech,6mo
+Coinbase,https://web3.career/director-product-coinbase/8246,,"Director, Product",$70k - $180k,executive,6mo
+Coinbase,https://web3.career/senior-technical-recruiter-coinbase/8245,,Senior Technical Recruiter,$40k - $70k,recruiter:non tech:senior,6mo
+Coinbase,https://web3.career/international-benefits-senior-manager-coinbase/8244,,International Benefits Senior Manager,$78k - $200k,senior,6mo
+Coinbase,https://web3.career/engineering-recruiting-manager-coinbase/8243,,Engineering Recruiting Manager,$40k - $70k,recruiter:non tech,6mo
+Coinbase,https://web3.career/sw-engineer-hr-workday-functional-enterprise-apps-coinbase/8242,,"SW Engineer, HR (Workday Functional), Enterprise Apps",$100k - $150k,dev:hr:non tech,6mo
+Coinbase,https://web3.career/sr-system-analyst-anaplan-finance-platform-coinbase/8241,,"Sr. System Analyst (Anaplan), Finance Platform",,analyst:finance:senior,6mo
+Coinbase,https://web3.career/sr-sw-engineer-cx-enterprise-apps-coinbase/8240,,"Sr. SW Engineer, CX, Enterprise Apps",$80k - $200k,dev:senior:javascript:java,6mo
+Coinbase,https://web3.career/software-engineer-mulesoft-integrations-marketing-systems-enterprise-applications-architecture-coinbase/8239,,"Software Engineer (Mulesoft) Integrations (Marketing Systems), Enterprise Applications & Architecture",$85k - $120k,dev:marketing:non tech:java:golang,6mo
+Coinbase,https://web3.career/senior-sw-engineer-integrations-enterprise-apps-coinbase/8238,,"Senior SW Engineer, Integrations, Enterprise Apps",$50k - $200k,dev:senior:java:golang,6mo
+Coinbase,https://web3.career/engineering-manager-integrations-development-mulesoft-coinbase/8237,,"Engineering Manager, Integrations & Development - Mulesoft",$70k - $180k,executive,6mo
+Coinbase,https://web3.career/senior-engineering-manager-crypto-asset-addition-coinbase/8236,,"Senior Engineering Manager, Crypto Asset Addition",$46k - $109k,executive:senior:crypto,6mo
+Coinbase,https://web3.career/senior-engineering-manager-backend-coinbase/8235,,"Senior Engineering Manager, Backend",,executive:backend:senior,6mo
+Coinbase,https://web3.career/engineering-manager-crypto-asset-addition-coinbase/8234,,"Engineering Manager, Crypto Asset Addition",$50k - $158k,executive:crypto,6mo
+Coinbase,https://web3.career/engineering-manager-coinbase/8233,,Engineering Manager,$115k - $150k,executive:react:react native:javascript:ruby,6mo
+Coinbase,https://web3.career/director-of-engineering-india-coinbase/8232,,"Director of Engineering, India",$45k - $120k,executive:react:ruby,6mo
+Coinbase,https://web3.career/senior-site-reliability-engineer-coinbase/8231,,Senior Site Reliability Engineer,$150k - $200k,dev:sys admin:senior:ruby,6mo

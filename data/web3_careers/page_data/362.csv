@@ -1,36 +1,60 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-OKEx,https://web3.career/mobile-marketing-manager-okex/10642,Mobile Marketing Manager,,marketing:non tech:mobile,5mo
-OKEx,https://web3.career/marketing-specialist-manager-south-korea-okex/10641,Marketing Specialist/Manager (South Korea),$25k - $120k,marketing:non tech:remote,5mo
-OKEx,https://web3.career/digital-marketing-specialist-social-media-focus-okex/10640,Digital Marketing Specialist (Social Media focus),$28k - $100k,marketing:non tech:social media,5mo
-OKEx,https://web3.career/data-analyst-okex/10639,Data Analyst,$36k - $72k,analyst:data science,5mo
-OKEx,https://web3.career/data-analyst-okex/10638,Data Analyst,$36k - $72k,analyst:data science,5mo
-OKEx,https://web3.career/creative-director-europe-okex/10637,Creative Director - Europe,$70k - $180k,executive,5mo
-OKEx,https://web3.career/creative-director-okex/10636,Creative Director,$70k - $180k,executive,5mo
-OKEx,https://web3.career/senior-legal-counsel-okex/10635,Senior Legal Counsel,,legal:senior,5mo
-OKEx,https://web3.career/graduate-hire-2021-2022-intake-product-engineering-okex/10634,Graduate Hire (2021/2022 Intake) – Product & Engineering,,intern:entry level,5mo
-OKEx,https://web3.career/visual-designer-graphic-video-south-korea-okex/10633,Visual Designer - Graphic + Video (South Korea),,design:non tech:video,5mo
-OKEx,https://web3.career/software-engineer-python-quant-platform-risk-services-okex/10632,Software Engineer - Python (Quant Platform - Risk Services),,dev:python:java,5mo
-OKEx,https://web3.career/software-engineer-python-quant-platform-data-services-okex/10631,Software Engineer - Python (Quant Platform - Data Services),$140k - $200k,dev:python,5mo
-OKEx,https://web3.career/software-engineer-mobile-developer-android-ios-okex/10630,Software Engineer – Mobile Developer (Android/iOS),,android:mobile:dev:ios:javascript,5mo
-OKEx,https://web3.career/software-engineer-java-quant-platform-trading-services-okex/10629,Software Engineer - Java (Quant Platform - Trading Services),$33k - $140k,dev:java,5mo
-OKEx,https://web3.career/software-engineer-java-quant-platform-strategy-services-okex/10628,Software Engineer - Java (Quant Platform - Strategy Services),$33k - $140k,dev:java,5mo
-OKEx,https://web3.career/software-engineer-java-quant-platform-global-liquidity-okex/10627,Software Engineer - Java (Quant Platform - Global Liquidity),,dev:java:sales:non tech,5mo
-OKEx,https://web3.career/software-engineer-java-quant-platform-defi-services-okex/10626,Software Engineer - Java (Quant Platform - DeFi Services),$95k - $260k,dev:java:defi:web3js:rust,5mo
-OKEx,https://web3.career/software-engineer-java-quant-platform-data-services-okex/10625,Software Engineer - Java (Quant Platform - Data Services),$33k - $140k,dev:java,5mo
-OKEx,https://web3.career/software-engineer-java-quant-platform-client-connectivity-okex/10624,Software Engineer - Java (Quant Platform - Client Connectivity),$33k - $140k,dev:java,5mo
-OKEx,https://web3.career/software-engineer-java-exchange-platform-payment-services-okex/10623,Software Engineer - Java (Exchange Platform - Payment Services),$33k - $140k,dev:java,5mo
-OKEx,https://web3.career/software-engineer-java-exchange-platform-financial-product-okex/10622,Software Engineer - Java (Exchange Platform - Financial Product),,dev:finance:java,5mo
-OKEx,https://web3.career/operational-excellence-specialist-remote-okex/10621,Operational Excellence Specialist (Remote),$80k - $110k,remote:operations,5mo
-OKEx,https://web3.career/operational-excellence-specialist-business-transformation-and-continuous-improvement-okex/10620,Operational Excellence Specialist (Business Transformation and Continuous Improvement),$60k - $200k,operations,5mo
-OKEx,https://web3.career/customer-service-south-korea-okex/10619,Customer Service（South Korea）,$40k - $80k,customer support,5mo
-OKEx,https://web3.career/investigator-payments-fraud-okex/10618,Investigator - Payments & Fraud,$95k - $200k,security,5mo
-OKEx,https://web3.career/fraud-risk-compliance-manager-okex/10617,Fraud Risk & Compliance Manager,,compliance:security,5mo
-Okcoin,https://web3.career/product-manager-earn-defi-okcoin/10616,"Product Manager, Earn/Defi",$130k - $175k,product manager:non tech:defi,5mo
-Okcoin,https://web3.career/localization-program-manager-okcoin/10615,Localization Program Manager,$70k - $180k,executive,5mo
-Okcoin,https://web3.career/design-recruiter-okcoin/10614,Design Recruiter,,design:non tech:recruiter,5mo
-Okcoin,https://web3.career/creative-producer-okcoin/10613,Creative Producer,,,5mo
-Okcoin,https://web3.career/senior-fp-a-analyst-okcoin/10612,Senior FP&A Analyst,$150k - $185k,analyst:senior,5mo
-Okcoin,https://web3.career/design-program-manager-okcoin/10611,Design Program Manager,,design:non tech:executive,5mo
-Okcoin,https://web3.career/sr-zendesk-administrator-okcoin/10610,Sr. Zendesk Administrator,$78k - $200k,senior,5mo
-Okcoin,https://web3.career/social-media-representative-customer-service-okcoin/10609,Social Media Representative - Customer Service,,customer support:social media:non tech,5mo
-Okcoin,https://web3.career/social-media-representative-okcoin/10608,Social Media Representative,$33k - $85k,social media:non tech,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Blockchain.com,https://web3.career/growth-marketing-associate-blockchain/11214,"San Francisco,
+United States",Growth Marketing Associate,$45k - $130k,marketing:non tech,5mo
+Blockstream,https://web3.career/head-of-product-design-blockstream/11213,"San Francisco,
+United States",Head of Product Design,,executive:design:non tech:product manager,5mo
+Coin Metrics,https://web3.career/growth-associate-europe-coinmetrics/11212,"London,
+United Kingdom",GROWTH ASSOCIATE- EUROPE,$45k - $130k,marketing:non tech,5mo
+Coin Metrics,https://web3.career/growth-associate-asia-coinmetrics/11211,"Singapore,
+Singapore",GROWTH ASSOCIATE- ASIA,$45k - $130k,marketing:non tech,5mo
+Coin Metrics,https://web3.career/enterprise-growth-europe-coinmetrics/11210,"London,
+United Kingdom",ENTERPRISE GROWTH- EUROPE,$45k - $130k,marketing:non tech,5mo
+Coin Metrics,https://web3.career/enterprise-growth-asia-coinmetrics/11209,"Singapore,
+Singapore",ENTERPRISE GROWTH- ASIA,$45k - $130k,marketing:non tech,5mo
+OpenSea,https://web3.career/android-engineer-opensea/11208,Remote,Android Engineer,,android:mobile:dev:java:remote,5mo
+Ripple,https://web3.career/partner-success-director-ripplex-ripple/11207,"San Francisco,
+United States","Partner Success Director, RippleX",$70k - $180k,executive,5mo
+CoinList,https://web3.career/product-manager-lending-coinlist/11206,"San Francisco,
+United States",Product Manager (Lending),,product manager:non tech:solana,5mo
+Spring Labs,https://web3.career/sr-data-scientist-springlabs/11205,Nationwide,Sr. Data Scientist,$130k - $160k,data science:senior,5mo
+Spring Labs,https://web3.career/frontend-engineer-blockchain-springlabs/11204,Nationwide,Frontend Engineer-Blockchain,$33k - $190k,dev:front end:blockchain,5mo
+Akash Network,https://web3.career/finance-associate-akashnetwork/11203,Remote,Finance Associate,$40k - $100k,finance:remote,5mo
+SuperRare Labs,https://web3.career/sr-product-manager-superrarelabs/11202,"New York,
+United States",Sr. Product Manager,$80k - $150k,product manager:non tech:senior:ethereum:nft,5mo
+CoinList,https://web3.career/technical-recruiter-coinlist/11201,"San Francisco,
+United States",Technical Recruiter,,recruiter:non tech:solana,5mo
+MetaStreet Labs,https://web3.career/senior-front-end-engineer-metastreet-labs/11200,Remote,Senior Front End Engineer,$70k - $100k,dev:front end:senior:react:nft,5mo
+Figure,https://web3.career/head-of-risk-figure/11199,"San Francisco,
+United States",Head of Risk,$70k - $180k,executive,5mo
+Figment,https://web3.career/revenue-accountant-figment/11198,"Toronto,
+Canada",Revenue Accountant,$25k - $150k,accounting,5mo
+Stellar Development Foundation,https://web3.career/technical-program-manager-stellar/11196,"San Francisco,
+United States",Technical Program Manager,$70k - $180k,executive,5mo
+Stellar Development Foundation,https://web3.career/technical-program-manager-stellar/11195,"New York,
+United States",Technical Program Manager,$70k - $180k,executive,5mo
+Stellar Development Foundation,https://web3.career/technical-program-manager-stellar/11194,"San Francisco,
+United States",Technical Program Manager,$70k - $180k,executive,5mo
+Alchemy,https://web3.career/devops-engineer-infrastructure-alchemy/11193,Remote,DevOps Engineer (Infrastructure),$95k - $180k,devops:dev:remote,5mo
+Alchemy,https://web3.career/devops-engineer-developer-tooling-alchemy/11192,Remote,DevOps Engineer (Developer Tooling),$95k - $180k,dev:devops:remote,5mo
+BitGo,https://web3.career/applied-scientist-cryptography-bitgo/11191,"Palo Alto,
+United States",Applied Scientist - Cryptography,$50k - $200k,java:rust,5mo
+Ripple,https://web3.career/director-technical-services-ripple/11190,"San Francisco,
+United States","Director, Technical Services",$70k - $180k,executive,5mo
+Figure,https://web3.career/senior-product-manager-customer-success-portal-figure/11189,"San Francisco,
+United States","Senior Product Manager, Customer Success Portal",,customer support:product manager:non tech:senior,5mo
+Chainalysis,https://web3.career/senior-solutions-architect-semea-chainalysis/11188,"London,
+United Kingdom","Senior Solutions Architect, SEMEA",$80k,architecture:senior,5mo
+Chainalysis,https://web3.career/sales-development-representative-chainalysis/11187,"Singapore,
+Singapore",Sales Development Representative,$26k - $140k,sales:non tech,5mo
+Chainalysis,https://web3.career/sales-development-representative-chainalysis/11186,Australia,Sales Development Representative,$26k - $140k,sales:non tech,5mo
+Parity Technologies,https://web3.career/operations-lead-m-f-d-parity/11185,"Lisbon,
+Portugal",Operations Lead (m/f/d),,lead:operations,5mo
+Parity Technologies,https://web3.career/office-manager-m-f-d-parity/11184,"Lisbon,
+Portugal",Office Manager (m/f/d),,,5mo
+CANDY,https://web3.career/user-experience-researcher-candy/11183,,User Experience Researcher,$60k - $150k,design:non tech:nft,5mo
+Bittrex,https://web3.career/senior-devops-engineer-bittrex/11182,"Washington,
+United States",Senior DevOps Engineer,$120k - $200k,devops:dev:senior,5mo
+Wintermute,https://web3.career/business-development-director-london-singapore-usa-remote-wintermute-trading/11181,Remote,Business Development Director - London/Singapore/USA/Remote,$29k - $108k,remote:sales:non tech:executive,5mo
+Valora Inc,https://web3.career/react-native-engineer-valorainc/11180,"San Francisco,
+United States",React Native Engineer,$65k - $200k,dev:react native:mobile:javascript:react,5mo
+BitGo,https://web3.career/senior-software-engineer-custody-platform-bitgo/11179,Remote,"Senior Software Engineer, Custody Platform",$70k - $200k,dev:senior:node:golang:remote,5mo

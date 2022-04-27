@@ -1,36 +1,49 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Crypto.com,https://web3.career/information-security-governance-manager-hk-crypto-com/25576,Information Security Governance Manager (HK),$95k - $200k,security,12d
-Crypto.com,https://web3.career/security-engineer-penetration-tester-hk-crypto-com/25575,Security Engineer / Penetration Tester (HK),,dev:security:nft,12d
-ClayStack,https://web3.career/community-manager-for-defi-crypto-project-claystack/25574,Community Manager for DeFi - Crypto Project,$35k - $100k,community manager:non tech:crypto:defi,12d
-Paro.io,https://web3.career/crypto-controller-remote-projects-paro-io/25573,Crypto Controller- Remote Projects,,remote:legal:crypto,12d
-Crypto.com,https://web3.career/offensive-security-engineer-sg-crypto-com/25572,Offensive Security Engineer (SG),,dev:security:nft:ruby:java,12d
-Coinbase,https://web3.career/senior-product-illustrator-internationalization-coinbase/25571,"Senior Product Illustrator, Internationalization",,illustrator:senior:remote,12d
-Coinbase,https://web3.career/defi-institutional-structuring-coinbase/25570,DeFi & Institutional Structuring,$72k - $200k,defi:remote,12d
-Pace,https://web3.career/software-engineer-backend-paceapp/25568,Software Engineer (Backend),$56k - $150k,backend:dev:vue,12d
-BlockFi,https://web3.career/financial-operations-analyst-blockfi/25566,Financial Operations Analyst,,analyst:finance:operations,12d
-BitGo,https://web3.career/senior-frontend-engineer-blockchain-team-bitgo/25565,"Senior Frontend Engineer, Blockchain Team",$70k - $190k,dev:front end:senior:blockchain:react,12d
-Prometheus Research Labs,https://web3.career/frontend-engineer-defi-prometheus-research-labs-1/25564,"Frontend Engineer, DeFi",$80k - $160k,dev:front end:defi:react:ethereum,12d
-Prometheus Research Labs,https://web3.career/senior-smart-contracts-engineer-defi-prometheus-research-labs-1/25563,"Senior Smart Contracts Engineer, DeFi",$140k - $220k,dev:senior:defi:smart contract:react,12d
-Voodoo,https://web3.career/senior-ua-associate-voodoo/25562,Senior UA Associate,$78k - $200k,senior,12d
-VolumeFi,https://web3.career/senior-solidity-engineer-volumefi/25561,Senior Solidity Engineer,$300k - $380k,dev:senior:solidity:solana:ethereum,12d
-Polygon,https://web3.career/mis-it-engineer-apac-polygon/25560,MIS/IT Engineer - APAC,$60k - $158k,dev:ethereum,12d
-Provenance Foundation,https://web3.career/vice-president-of-business-development-provenance/25559,Vice President of Business Development,$26k - $140k,sales:non tech,12d
-Provenance Foundation,https://web3.career/director-of-grants-provenance/25558,Director of Grants,$70k - $180k,executive,12d
-Provenance Foundation,https://web3.career/director-of-onboarding-adoption-for-provenance-blockchain-foundation-provenance/25557,Director of Onboarding & Adoption for Provenance Blockchain Foundation,$46k - $200k,executive:blockchain,12d
-Compound,https://web3.career/senior-frontend-engineer-compound-2/25556,Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:solidity,12d
-Chainlink Labs,https://web3.career/web-designer-chainlink/25555,Web Designer,$50k - $135k,design:non tech:remote,12d
-Compound,https://web3.career/director-of-business-development-partnerships-compound-2/25553,Director of Business Development & Partnerships,$40k - $150k,sales:non tech:executive:ethereum,13d
-"Mammoth Media, Inc",https://web3.career/web3-marketing-manager-brand-experiences-mammoth-media-inc/25552,Web3 Marketing Manager - Brand Experiences,,marketing:non tech:remote:nft:copywriting,13d
-Chainalysis,https://web3.career/director-sales-strategy-operations-amer-public-sector-chainalysis/25551,"Director, Sales Strategy Operations - AMER & Public Sector",,executive:operations:sales:non tech,13d
-Chainalysis,https://web3.career/director-global-customer-experience-chainalysis/25549,"Director, Global Customer Experience",,customer support:executive,13d
-Single Grain,https://web3.career/web3-community-manager-contractor-single-grain-1/25548,Web3 Community Manager- Contractor,$50k - $55k,community manager:non tech:nft,13d
-Daoism Systems,https://web3.career/web3-front-end-engineer-daoism-systems/25547,Web3 / Front-End Engineer,$60k - $100k,dev:front end:full time:remote:react,13d
-Snowfork,https://web3.career/blockchain-engineer-snowfork/25546,Blockchain Engineer,$70k - $190k,dev:blockchain:remote,13d
-Okcoin,https://web3.career/senior-product-designer-okcoin/25545,Senior Product Designer,$60k - $120k,design:non tech:senior,13d
-Coinme,https://web3.career/senior-technical-recruiter-remote-optional-coinme/25544,Senior Technical Recruiter (Remote Optional),,remote:recruiter:non tech:senior,13d
-Ava Labs,https://web3.career/frontend-engineer-avalabs/25543,Frontend Engineer,$50k - $144k,dev:front end:react:javascript,13d
-Ava Labs,https://web3.career/devops-engineer-avalabs/25542,DevOps Engineer,$60k - $100k,devops:dev:golang,13d
-VegaX Holdings,https://web3.career/crypto-data-analyst-crypto-quant-researcher-vegax/25541,Crypto Data Analyst (Crypto Quant Researcher),$0k,analyst:data science:crypto,13d
-Single Grain,https://web3.career/web3-social-media-manager-contractor-single-grain-1/25540,Web3 Social Media Manager- Contractor,$50k - $60k,social media:non tech:nft,13d
-Nexo,https://web3.career/senior-contract-and-m-a-specialist-nexo/25539,Senior Contract and M&A Specialist,$78k - $200k,senior,13d
-TransferGo,https://web3.career/financial-crime-investigator-transfergo/25538,Financial Crime Investigator,$40k - $150k,finance,13d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Lever Implementation Training Environment,https://web3.career/senior-manager-design-ops-ui-ux-global-fintech-startup-leverdemo-8/26189,"Hong Kong,
+Hong Kong",Senior/Manager - Design Ops (UI/UX) - Global Fintech Startup,,design:non tech:finance:senior,11d
+Replit,https://web3.career/sr-counsel-agc-head-of-product-privacy-ip-legal-replit/26188,Remote,"Sr Counsel/AGC - Head of Product, Privacy & IP Legal",,legal:executive:product manager:non tech:remote,11d
+OKX,https://web3.career/designops-manager-okx/26187,"Hong Kong,
+Hong Kong",DesignOps Manager,$50k - $155k,,11d
+Xsolla,https://web3.career/unreal-engine-5-developer-xsolla/26186,"Kuala Lumpur,
+Malaysia",Unreal Engine 5 Developer,$70k - $200k,dev:game dev,11d
+Plaid,https://web3.career/experienced-software-engineer-crypto-plaid/26185,Remote,Experienced Software Engineer - Crypto,$90k - $250k,dev:crypto:remote,11d
+Bento Box Entertainment,https://web3.career/nft-senior-producer-bentoboxent/26184,"North Hollywood, CA",NFT Senior Producer,$90k - $200k,senior:nft,11d
+Ecosapiens,https://web3.career/community-manager-ecoverse-ecosapiens/26183,"New York,
+United States","Community Manager, EcoVerse",$125k,community manager:non tech:blockchain:events manager:nft,11d
+CANVAS,https://web3.career/lead-engineer-canvas/26179,Remote,Lead Engineer,$100k - $200k,dev:lead:remote:react,11d
+Tao,https://web3.career/hedge-fund-web3-python-software-engineer-tao/26178,Remote,Hedge Fund Web3 Python Software Engineer,$100k - $400k,dev:python:remote:blockchain:dataops,11d
+Timeswap Labs,https://web3.career/intern-smart-contract-developer-timeswap-labs/26177,Remote,Intern Smart Contract Developer,$0k,dev:intern:entry level:smart contract:remote,11d
+Timeswap Labs,https://web3.career/intern-front-end-developer-defi-timeswap-labs/26176,Remote,Intern - Front End Developer (DeFi),$0k,dev:front end:intern:entry level:defi,11d
+Polygon,https://web3.career/hr-operation-intern-polygon/26175,Remote,HR Operation Intern,,hr:non tech:intern:entry level,11d
+OpenSea,https://web3.career/web3-community-data-scientist-opensea/26174,Remote,Web3 Community Data Scientist,,community manager:non tech:data science,11d
+Rarible,https://web3.career/solana-community-manager-rarible/26173,Remote,Solana Community Manager,,community manager:non tech,11d
+,https://web3.career/community-manager-travala/26172,Australia,Community Manager,$40k - $101k,community manager:non tech,11d
+Binance,https://web3.career/regulatory-reporting-officer-binance/26171,"Milan,
+Italy",Regulatory Reporting Officer,$24k - $140k,legal,11d
+QuickNode,https://web3.career/senior-golang-engineer-quicknode/26170,Remote,Senior GoLang Engineer,$65k - $150k,dev:golang:senior:remote,11d
+CreatorMachine,https://web3.career/blockchain-engineer-solana-near-creatormachine/26169,"San Francisco,
+United States",Blockchain Engineer (Solana/NEAR),$80k - $120k,dev:blockchain:solidity:solana:nft,11d
+Binance,https://web3.career/senior-hr-business-partner-europe-binance/26168,Europe,Senior HR Business Partner (Europe),,hr:non tech:senior,11d
+Genies,https://web3.career/technical-recruiter-genies/26167,"Los Angeles,
+United States",Technical Recruiter,$51k - $70k,recruiter:non tech:nft,11d
+Kraken Digital Asset Exchange,https://web3.career/mev-engineer-staked-kraken/26166,Remote,MEV Engineer - Staked,$60k - $165k,dev:remote:node,11d
+Ethereum Foundation,https://web3.career/web3-engineer-ethereumfoundation/26165,Remote,Web3 Engineer,$65k - $150k,dev:remote:ethereum,11d
+Dark Matter Ventures,https://web3.career/blockchain-full-stack-developer-dark-matter-ventures-2/26164,United Kingdom,Blockchain full-stack developer,$100k - $120k,dev:full stack:blockchain:solidity:java,11d
+Libertex Group,https://web3.career/junior-crypto-research-analyst-libertexgroup/26163,"Saint Petersburg,
+Russia",Junior Crypto Research Analyst,$10k - $13k,analyst:junior:entry level:crypto,11d
+"Exodus Movement, Inc",https://web3.career/blockchain-engineer-assets-exodusmovement-inc/26162,,Blockchain Engineer - Assets,$50k - $120k,dev:blockchain:react:javascript:node,11d
+Brinc,https://web3.career/nft-digital-art-collectibles-accelerator-program-manager-brinc/26161,"Hong Kong,
+Hong Kong",NFT & Digital Art Collectibles Accelerator Program Manager,$63k - $180k,executive:nft,11d
+Brinc,https://web3.career/program-manager-crypto-gaming-guild-p2e-blockchain-nft-gaming-brinc/26160,"Hong Kong,
+Hong Kong",Program Manager - Crypto Gaming Guild (P2E/Blockchain/NFT Gaming),$50k - $160k,game dev:executive:blockchain:crypto:nft,11d
+Libertex Group,https://web3.career/solidity-developer-relocation-to-montenegro-libertexgroup/26159,"Warsaw,
+Poland",Solidity Developer (relocation to Montenegro),$63k - $165k,dev:solidity:ethereum,11d
+Coinbase,https://web3.career/senior-product-manager-devrel-coinbase/26158,Remote,Senior Product Manager - DevRel,$80k - $150k,product manager:non tech:senior:remote:ethereum,11d
+Coinbase,https://web3.career/senior-engineer-blockchain-security-asset-review-coinbase/26157,Remote,"Senior Engineer, Blockchain Security - Asset Review",$95k - $250k,dev:security:senior:blockchain:remote,11d
+Ledger,https://web3.career/senior-sre-system-engineer-ledger/26156,"Paris,
+France",Senior SRE - System Engineer,$150k - $200k,dev:senior:sys admin,11d
+Ripple,https://web3.career/software-engineer-ripplenet-payments-ripple/26155,"San Francisco,
+United States","Software Engineer, RippleNet Payments",$60k - $180k,dev,11d
+,https://web3.career/vp-of-sales-remote-ote-300k-year-ionicpartners/26154,Remote,VP of Sales (Remote) - OTE $300k/year,$29k - $108k,remote:sales:non tech:executive:nft,11d
+Virtually Human Studio,https://web3.career/senior-data-analyst-product-vhslab/26153,APAC,"Senior Data Analyst, Product",,analyst:data science:senior:nft,11d
+MetaMask,https://web3.career/fullstack-engineer-codefi-metamask/26152,United States,Fullstack engineer (Codefi),$80k - $130k,dev:full stack:web3js:react:solidity,11d

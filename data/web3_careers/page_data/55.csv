@@ -1,36 +1,53 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Secret,https://web3.career/smart-contract-engineer-rust-cosmwasm-secret-10/24366,Smart Contract Engineer (Rust + CosmWasm),$120k - $175k,dev:rust:smart contract:nft:ruby,23d
-Ledger,https://web3.career/infrastructure-knowledge-management-officer-ledger/24365,Infrastructure Knowledge Management Officer,,,23d
-Ledger,https://web3.career/tech-lead-back-end-python-ledger-vault-ledger/24364,Tech Lead Back-End (Python) - Ledger Vault,,backend:lead:python:tech lead,23d
-Ledger,https://web3.career/back-end-engineer-python-vault-ledger/24363,Back-End Engineer (Python) - Vault,,backend:dev:python,23d
-Web3Auth,https://web3.career/sdk-unity-unreal-developer-remote-torus-2/24362,SDK (Unity/Unreal) Developer - Remote,$60k - $140k,remote:dev,23d
-Solana Labs,https://web3.career/sr-frontend-engineer-dao-s-solana/24361,Sr. Frontend Engineer - DAO’s,$70k - $190k,dev:front end:senior:react:solana,23d
-NFT Price Floor,https://web3.career/full-stack-engineer-nft-price-floor/24359,Full Stack Engineer,$0k,dev:full stack:nft:javascript:node,23d
-Turnt Gaming,https://web3.career/taunt-battleworld-head-of-community-turnt-gaming/24358,Taunt Battleworld: Head of Community,,executive:community manager:non tech:remote:crypto,23d
-Binance,https://web3.career/marketing-specialist-binance/24357,Marketing Specialist,$45k - $130k,marketing:non tech,23d
-Binance,https://web3.career/business-operations-manager-russian-speaker-binance/24356,Business Operations Manager (Russian speaker),$60k - $200k,operations,23d
-Okcoin,https://web3.career/ux-researcher-retail-okcoin/24355,"UX Researcher, Retail",$50k - $150k,design:non tech,23d
-BlockFi,https://web3.career/marketing-compliance-sr-associate-associate-blockfi/24354,Marketing Compliance Sr Associate/Associate,,compliance:marketing:non tech,23d
-AvatarLife,https://web3.career/blockchain-developer-avatarlife/24353,Blockchain developer,$39k - $65k,dev:blockchain:solidity,23d
-Binance,https://web3.career/control-assurance-lead-binance/24352,Control Assurance Lead,$95k - $200k,lead:remote,24d
-Binance,https://web3.career/operation-manager-finance-products-asia-binance/24351,Operation Manager (Finance Products) - Asia,$40k - $150k,finance,24d
-Tron,https://web3.career/receptionist-rainberry/24350,Receptionist,,,24d
-BlockFi,https://web3.career/senior-content-designer-ii-blockfi/24348,Senior Content Designer II,$60k - $120k,design:non tech:senior,24d
-BlockFi,https://web3.career/compliance-associate-blockfi/24347,Compliance Associate,,compliance,24d
-RECUR,https://web3.career/director-of-product-marketing-recur/24344,Director of Product Marketing,$70k - $158k,executive:marketing:non tech:product manager:ethereum,24d
-BitGo,https://web3.career/prime-analyst-intern-bitgo/24342,Prime Analyst (Intern),$20k - $30k,analyst:intern:entry level:javascript,24d
-BitGo,https://web3.career/compliance-associate-intern-bitgo/24341,Compliance Associate (Intern),,compliance:intern:entry level,24d
-CoinDesk & TradeBlock Opportunities,https://web3.career/multimedia-summer-interns-2022-coindesk/24340,Multimedia Summer Interns 2022,,,24d
-CoinDesk & TradeBlock Opportunities,https://web3.career/editorial-summer-interns-2022-coindesk/24339,Editorial Summer Interns 2022,$56k - $160k,remote,24d
-Stellar Development Foundation,https://web3.career/technical-content-writer-stellar/24338,Technical Content Writer,$13k - $45k,copywriting,24d
-Paradigm,https://web3.career/quantitative-strategist-paradigm62/24337,Quantitative Strategist,$50k - $150k,data science,24d
-NEAR,https://web3.career/technical-program-manager-community-success-applications-dao-near/24336,"Technical Program Manager Community Success, Applications DAO",$45k - $150k,community manager:non tech:executive,24d
-CANDY,https://web3.career/director-of-data-science-candy/24334,Director of Data Science,,data science:executive:nft,24d
-Aldrin,https://web3.career/senior-back-end-developer-web3-remote-aldrin/24333,Senior Back-End Developer Web3 (Remote),$60k - $180k,remote:backend:dev:senior:web3js,24d
-Ripple,https://web3.career/lead-visual-experience-designer-ripple/24332,Lead Visual Experience Designer,$40k - $190k,design:non tech:lead,24d
-Okcoin,https://web3.career/hrbp-okcoin/24331,HRBP,,,24d
-Ava Labs,https://web3.career/sgx-tee-c-application-security-engineer-avalabs/24330,SGX (TEE) C++ Application Security Engineer,$100k - $150k,c:c plus plus:dev:security,24d
-Chainalysis,https://web3.career/executive-admin-sales-chainalysis/24328,"Executive Admin, Sales",$40k - $150k,executive:sales:non tech,24d
-Chainalysis,https://web3.career/intelligence-analyst-chainalysis/24327,Intelligence Analyst,$40k - $120k,analyst,24d
-Cake Pte Ltd,https://web3.career/payroll-accountant-cakedefi/24326,Payroll Accountant,$25k - $150k,accounting,24d
-Improbable,https://web3.career/graduate-games-programmer-improbable/24324,Graduate Games Programmer,$12k - $33k,intern:entry level:dev,24d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Chainlink Labs,https://web3.career/senior-product-designer-chainlink/24980,Remote,Senior Product Designer,$60k - $120k,design:non tech:senior:remote,25d
+Bitwise Asset Management,https://web3.career/business-development-officer-us-based-bitwiseinvestments/24979,"San Francisco,
+United States",Business Development Officer (US Based),$26k - $140k,sales:non tech,25d
+Bitwise Asset Management,https://web3.career/risk-manager-analyst-nyc-or-us-remote-bitwiseinvestments/24978,"New York,
+United States",Risk Manager/Analyst (NYC or US Remote),$45k - $120k,remote:analyst,25d
+Bitwise Asset Management,https://web3.career/investment-analyst-nyc-or-us-remote-bitwiseinvestments/24977,"New York,
+United States",Investment Analyst (NYC or US Remote),,remote:analyst:finance,25d
+Alchemy,https://web3.career/people-ops-alchemy/24976,"New York,
+United States",People Ops,,,25d
+Alchemy,https://web3.career/product-designer-alchemy/24975,"New York,
+United States",Product Designer,$50k - $150k,design:non tech,25d
+Acala,https://web3.career/solidity-engineer-acala/24974,Remote,Solidity Engineer,$80k - $170k,dev:solidity:remote:rust,25d
+Vauld,https://web3.career/lead-product-manager-singapore-vauld/24972,"Singapore,
+Singapore",Lead Product Manager - Singapore,,lead:product manager:non tech,25d
+Vauld,https://web3.career/human-resources-people-partner-vauld/24971,"Bengaluru,
+India",Human Resources - People Partner,,,25d
+Vauld,https://web3.career/principal-engineer-singapore-vauld/24970,"Singapore,
+Singapore",Principal Engineer - Singapore,$200k - $400k,dev:executive:node:java:golang,25d
+Vauld,https://web3.career/lead-ux-designer-singapore-vauld/24969,"Singapore,
+Singapore",Lead UX Designer - Singapore,$40k - $190k,design:non tech:lead,25d
+Vauld,https://web3.career/lead-user-interface-designer-singapore-vauld/24968,"Singapore,
+Singapore",Lead User Interface Designer - Singapore,$40k - $190k,design:non tech:lead,25d
+Vauld,https://web3.career/senior-product-analyst-vauld/24967,"Bengaluru,
+India",Senior Product Analyst,$150k - $185k,analyst:senior,25d
+Vauld,https://web3.career/head-of-compliance-usa-vauld/24966,Remote,Head of Compliance - USA,,compliance:executive:remote,25d
+Web3Auth,https://web3.career/senior-product-designer-remote-toruslabs/24965,HQ,Senior Product Designer - Remote,$50k - $135k,remote:design:non tech:senior,25d
+Rarible,https://web3.career/product-manager-marketplace-rarible/24962,Remote,Product Manager Marketplace,$115k - $175k,product manager:non tech:remote:nft,25d
+Rarible,https://web3.career/assistant-senior-executive-rarible/24961,"Miami,
+United States",Assistant (Senior Executive),,executive:senior:nft,25d
+Rarible,https://web3.career/rarible-protocol-marketing-lead-rarible/24960,Remote,Rarible Protocol Marketing Lead,$50k - $120k,lead:marketing:non tech:remote:nft,25d
+Rarible,https://web3.career/solana-community-manager-rarible/24959,Remote,Solana Community Manager,$40k - $101k,community manager:non tech:remote:solana:nft,25d
+Rarible,https://web3.career/flow-community-manager-rarible/24958,Remote,Flow Community Manager,$40k - $101k,community manager:non tech:remote:nft,25d
+Rarible,https://web3.career/discord-community-manager-rarible/24957,Remote,Discord community manager,$40k - $101k,community manager:non tech:remote:nft,25d
+RabbitHole,https://web3.career/frontend-engineer-rabbitholestudios/24956,Remote,Frontend Engineer,$22k - $120k,dev:front end:remote,25d
+Qubit9 GmbH,https://web3.career/ground-control-manager-office-management-m-w-d-qubit9/24955,"Hamburg,
+Germany",Ground Control Manager / Office Management m/w/d,,,25d
+Qubit9 GmbH,https://web3.career/sre-devops-cloud-cluster-computing-m-w-d-qubit9/24954,"Hamburg,
+Germany",SRE/DevOps (Cloud & Cluster Computing) m/w/d,,cloud:devops:senior,25d
+Qubit9 GmbH,https://web3.career/senior-backend-developer-m-w-d-qubit9/24953,"Hamburg,
+Germany",Senior Backend Developer m/w/d,$70k - $200k,backend:dev:senior,25d
+Polygon,https://web3.career/systems-integration-lead-remote-nightfall-polygon/24952,Europe,Systems Integration Lead (Remote) - Nightfall,$56k - $118k,remote:lead:ethereum,25d
+Polygon,https://web3.career/systems-integration-engineer-remote-nightfall-polygon/24951,Europe,Systems Integration Engineer (Remote) - Nightfall,$60k - $150k,remote:dev:ethereum,25d
+Polygon,https://web3.career/senior-frontend-developer-remote-nightfall-polygon/24950,Europe,Senior Frontend Developer (Remote) - Nightfall,$22k - $120k,remote:dev:front end:senior:ethereum,25d
+Polygon,https://web3.career/program-manager-dev-support-polygon/24949,Any,Program Manager - Dev Support,,dev:executive:customer support:remote:ethereum,25d
+Polygon,https://web3.career/product-manager-nightfall-remote-polygon/24948,Europe,Product Manager - Nightfall (Remote),$115k - $175k,remote:product manager:non tech:ethereum,25d
+Polygon,https://web3.career/product-integration-lead-remote-nightfall-polygon/24947,"Barcelona,
+Spain",Product Integration Lead (Remote) - Nightfall,$56k - $118k,remote:lead:ethereum,25d
+Polygon,https://web3.career/product-integration-engineer-polygon/24946,Europe,Product Integration Engineer,$78k - $155k,dev:ethereum:node,25d
+Polygon,https://web3.career/mobile-developer-flutter-remote-hermez-polygon/24945,"Barcelona,
+Spain",Mobile Developer (Flutter) (Remote) - (Hermez),,remote:dev:flutter:mobile:ethereum,25d
+Polygon,https://web3.career/program-coordinator-polygon/24944,Any,Program Coordinator,$60k - $145k,remote:ethereum,25d
+Polygon,https://web3.career/senior-ui-designer-remote-apac-time-zone-polygon/24943,Any,Senior UI Designer [Remote - APAC time zone],$50k - $135k,remote:design:non tech:senior:ethereum,25d

@@ -1,36 +1,61 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Stacked,https://web3.career/principal-software-engineer-backend-stacked-invest/13886,Principal Software Engineer - Backend,$140k - $300k,backend:dev:executive:remote,4mo
-Immutable,https://web3.career/head-of-product-marketing-immutable/13885,Head of Product Marketing,$70k - $158k,executive:marketing:non tech:product manager:ethereum,4mo
-Crypto.com,https://web3.career/associate-strategy-new-ventures-sg-global-fintech-startup-crypto-com/13884,"Associate, Strategy & New Ventures (SG) - Global Fintech Startup",$40k - $150k,finance,4mo
-Binance,https://web3.career/compliance-manager-mlro-portugal-binance/13881,Compliance Manager/MLRO - Portugal,,compliance,4mo
-Vertalo,https://web3.career/sales-executive-austin-tx-institutional-finance-real-estate-vertalo/13880,"Sales Executive, Austin, TX (Institutional Finance, Real Estate)",$40k - $140k,executive:finance:sales:non tech,4mo
-WOO Network,https://web3.career/business-intelligence-woonetwork/13879,Business Intelligence,,,4mo
-OKEx,https://web3.career/product-manager-fiat-product-okex/13878,Product Manager - Fiat Product,$69k - $160k,product manager:non tech,4mo
-Eco,https://web3.career/technical-recruiter-econetwork/13877,Technical Recruiter,,recruiter:non tech:remote,4mo
-Eco,https://web3.career/recruiting-coordinator-econetwork/13876,Recruiting Coordinator,,recruiter:non tech:remote,4mo
-Next Big Thing AG,https://web3.career/co-founder-and-cpo-f-m-x-nextbigthing/13875,Co-Founder and CPO (f/m/x),$79k - $200k,executive:remote,4mo
-ONCARE GmbH,https://web3.career/blockchain-developer-f-m-d-medical-industry-3453142-blockchain-developer-f-m-d-medical-industry/13871,Blockchain Developer (f/m/d) - Medical Industry,$50k - $120k,dev:blockchain:javascript:node:remote,4mo
-BitGo,https://web3.career/data-analyst-bitgo/13870,Data Analyst,,analyst:data science:javascript:scala:java,4mo
-Kangaroo,https://web3.career/senior-blockchain-engineer-kangaroointeractive/13869,Senior Blockchain Engineer,$100k - $150k,dev:senior:blockchain:react:solidity,4mo
-Crypto.com,https://web3.career/java-developer-exchange-spot-global-fintech-startup-crypto-com/13868,Java Developer (Exchange Spot) - Global Fintech Startup,,dev:finance:java,4mo
-Chainlink Labs,https://web3.career/director-of-index-products-chainlink/13867,Director of Index Products,$79k - $200k,executive:remote,4mo
-Crypto.com,https://web3.career/blockchain-security-engineer-backend-javascript-ireland-crypto-com/13866,Blockchain Security Engineer (Backend) - Javascript (Ireland),$65k - $150k,backend:dev:javascript:security:blockchain,4mo
-Intelli Adv,https://web3.career/crypto-nft-sorare-fantasy-soccer-analyst-trader-intelli-adv/13865,Crypto NFT (Sorare Fantasy Soccer) Analyst & Trader,$31k - $37k,analyst:trader:crypto:nft,4mo
-"SundaeSwap Labs, Inc.",https://web3.career/chief-financial-officer-sundaeswap/13863,Chief Financial Officer,$40k - $225k,executive:finance:remote,4mo
-Spring Labs,https://web3.career/product-manager-springlabs/13862,Product Manager,$69k - $160k,product manager:non tech,4mo
-Chainlink Labs,https://web3.career/data-products-market-analysis-manager-chainlink/13861,Data Products - Market Analysis Manager,$60k - $150k,solana:ethereum:remote,4mo
-Acala,https://web3.career/crypto-content-writer-acala/13860,Crypto Content Writer,,copywriting:crypto:rust:remote,4mo
-Public,https://web3.career/payroll-hr-operations-manager-public/13859,Payroll/HR Operations Manager,,hr:non tech:operations:accounting,4mo
-Public,https://web3.career/web-engineer-public/13858,Web Engineer,$56k - $160k,dev:react:javascript:nextjs,4mo
-Okcoin,https://web3.career/collections-specialist-loss-risk-prevention-okcoin/13857,Collections Specialist (Loss & Risk Prevention),,,4mo
-NEAR,https://web3.career/chief-of-staff-near/13856,Chief of Staff,,executive:recruiter:non tech,4mo
-MoonPay,https://web3.career/it-vendor-management-analyst-moonpay/13855,IT Vendor Management Analyst,$45k - $120k,analyst:remote,4mo
-Eco,https://web3.career/data-engineer-econetwork/13854,Data Engineer,,data science:dev:javascript:ruby:scala,4mo
-BlockFi,https://web3.career/senior-product-manager-onboarding-blockfi/13853,"Senior Product Manager, Onboarding",$80k - $150k,product manager:non tech:senior,4mo
-Bittrex,https://web3.career/technical-project-manager-bittrex/13852,Technical Project Manager,$50k - $150k,project manager:non tech,4mo
-Bittrex,https://web3.career/senior-product-manager-crypto-wallets-bittrex/13851,Senior Product Manager - Crypto Wallets,$80k - $150k,product manager:non tech:senior:crypto:javascript,4mo
-Bittrex,https://web3.career/product-owner-crypto-wallets-bittrex/13850,Product Owner - Crypto Wallets,$60k - $160k,product manager:non tech:crypto:javascript,4mo
-Next Big Thing,https://web3.career/working-student-design-m-f-x-nextbigthingag2/13849,Working Student Design (m/f/x),$50k - $150k,design:non tech,4mo
-HV Capital Manager GmbH,https://web3.career/internship-investing-in-crypto-f-d-m-hvcapital/13847,"Internship, Investing in Crypto (f/d/m)",$15k - $46k,intern:entry level:crypto,4mo
-Etherscan,https://web3.career/net-web-developer-full-stack-etherscan/13845,.NET Web Developer (Full Stack),,dot net:dev:full stack:ethereum:javascript,4mo
-Invisible North,https://web3.career/community-engagement-manager-invisible-north/13841,Community Engagement Manager,,community manager:non tech:remote,4mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Ripple,https://web3.career/director-ripplenet-product-marketing-payments-ripple/14626,"San Francisco,
+United States","Director, RippleNet Product Marketing, Payments",$70k - $158k,executive:marketing:non tech,4mo
+Nifty's Inc.,https://web3.career/head-of-customer-success-niftysinc/14625,"Los Angeles,
+United States",Head of Customer Success,,executive:customer support,4mo
+Figure,https://web3.career/figure-pay-support-specialist-figure/14623,"Charlotte,
+United States",Figure Pay Support Specialist,$40k - $80k,customer support,4mo
+Sygnum Bank AG,https://web3.career/junior-client-services-specialist-sygnum/14622,Switzerland,Junior Client Services Specialist,$45k - $56k,junior:entry level:ethereum,4mo
+Shakepay,https://web3.career/aml-analyst-remote-canada-shakepay/14621,"Montreal,
+Canada",AML Analyst (Remote - Canada),$45k - $120k,remote:analyst,4mo
+Stellar Development Foundation,https://web3.career/data-engineer-stellar/14620,"Austin,
+United States",Data Engineer,,data science:dev:golang,4mo
+NEAR,https://web3.career/technical-recruiter-near/14619,"London,
+United Kingdom",Technical Recruiter,$40k - $70k,recruiter:non tech,4mo
+Caiz Holding AG,https://web3.career/media-pr-manager-3504590-media-and-pr-manager/14617,"Frankfurt,
+Germany",Media & PR Manager,$25k - $120k,marketing:non tech:remote,4mo
+GSR,https://web3.career/us-surveillance-analyst-compliance-gsr/14616,"New York,
+United States","US Surveillance Analyst, Compliance",,compliance:analyst,4mo
+Iron Fish,https://web3.career/cryptographer-ironfish/14615,Remote,Cryptographer,$56k - $130k,react:ethereum:javascript:node:rust,4mo
+Eco,https://web3.career/events-manager-econetwork/14614,Remote,Events Manager,,events manager:non tech:remote,4mo
+Chainalysis,https://web3.career/corporate-security-analyst-chainalysis/14613,"New York,
+United States",Corporate Security Analyst,$60k - $185k,analyst:security,4mo
+RECUR,https://web3.career/director-of-marketing-apac-remote-recur/14610,"Tokyo,
+Japan",Director of Marketing - APAC (Remote),$45k - $158k,remote:executive:marketing:non tech:ethereum,4mo
+RECUR,https://web3.career/director-of-marketing-apac-remote-recur/14609,"Seoul,
+South Korea",Director of Marketing - APAC (Remote),$45k - $158k,remote:executive:marketing:non tech:ethereum,4mo
+RECUR,https://web3.career/manager-web-frontend-engineering-remote-recur/14608,"Boston,
+United States","Manager, Web Frontend Engineering (Remote)",$22k - $120k,remote:front end:react:javascript,4mo
+Okcoin,https://web3.career/content-designer-okcoin/14607,"San Francisco,
+United States",Content Designer,$50k - $150k,design:non tech,4mo
+SALT,https://web3.career/senior-software-engineer-backend-saltlending/14604,Remote,Senior Software Engineer - Backend,$70k - $200k,backend:dev:senior:ethereum:node,4mo
+Chainalysis,https://web3.career/business-development-representative-latam-spanish-speaking-chainalysis/14603,"New York,
+United States","Business Development Representative, LATAM (Spanish Speaking)",$26k - $140k,sales:non tech,4mo
+Everledger,https://web3.career/senior-blockchain-engineer-nft-specialist-uk-everledger/14602,"London,
+United Kingdom",Senior Blockchain Engineer (NFT specialist)- UK,$80k - $200k,dev:senior:blockchain:nft:solidity,4mo
+Chainlink Labs,https://web3.career/marketing-coordinator-chainlink/14598,Remote,Marketing Coordinator,$25k - $120k,marketing:non tech:remote,4mo
+SuperRare Labs,https://web3.career/sr-digital-marketing-manager-superrarelabs/14597,"New York,
+United States",Sr. Digital Marketing Manager,$46k - $109k,marketing:non tech:senior:ethereum:nft,4mo
+Crypto.com,https://web3.career/payroll-specialist-crypto-com/14594,"Sofia,
+Bulgaria",Payroll Specialist,$25k - $150k,accounting,4mo
+Galaxy Digital Services,https://web3.career/talent-acquisition-sourcer-galaxydigitalservices/14591,Remote,Talent Acquisition Sourcer,,recruiter:non tech:remote,4mo
+Offchain Labs,https://web3.career/software-engineer-offchainlabs/14590,Remote,Software Engineer,$60k - $150k,dev:ethereum:remote,4mo
+Boson Protocol,https://web3.career/crypto-financial-director-bosonprotocol/14589,"London,
+United Kingdom",Crypto Financial Director,$90k - $140k,executive:finance:crypto,4mo
+Blockchain.com,https://web3.career/senior-regulatory-counsel-us-blockchain/14588,"Miami,
+United States",Senior Regulatory Counsel (US),,legal:senior,4mo
+Blockchain.com,https://web3.career/defi-engineer-blockchain/14587,"San Francisco,
+United States",DeFi Engineer,$18k - $90k,dev:defi:web3js:solidity:ethereum,4mo
+RECUR,https://web3.career/compliance-associate-remote-philippines-recur/14584,"Manila,
+Philippines",Compliance Associate (Remote - Philippines),,compliance:remote:ethereum:nft,4mo
+RECUR,https://web3.career/compliance-analyst-remote-philippines-recur/14583,"Manila,
+Philippines",Compliance Analyst (Remote - Philippines),,compliance:remote:analyst:ethereum:nft,4mo
+Alumni Ventures Group,https://web3.career/senior-associate-blockchain-fund-alumni-ventures-group-1/14581,"San Francisco,
+United States","Senior Associate, Blockchain Fund",$80k - $190k,senior:blockchain,4mo
+3Box Labs,https://web3.career/devops-engineer-3box/14580,Remote,DevOps Engineer,$95k - $180k,devops:dev:remote,4mo
+Market,https://web3.career/smart-contract-developer-solidity-marketxyz/14579,India,Smart Contract Developer (Solidity),$120k - $200k,dev:smart contract:solidity,4mo
+TokenMinds,https://web3.career/crypto-marketing-manager-tokenminds/14578,"Singapore,
+Singapore",Crypto Marketing Manager,$0k,marketing:non tech:crypto:nft,4mo
+TokenMinds,https://web3.career/crypto-campaign-marketing-manager-remote-tokenminds/14577,"Singapore,
+Singapore",Crypto Campaign Marketing Manager - Remote,$0k,marketing:non tech:remote:crypto,4mo
+Crypto.com,https://web3.career/financial-crimes-manager-french-speaker-crypto-com/14576,Ireland,Financial Crimes Manager French Speaker,$40k - $150k,finance,4mo

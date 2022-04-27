@@ -1,36 +1,60 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-RECUR,https://web3.career/associate-art-director-remote-recur/14027,Associate Art Director (Remote),$79k - $158k,remote:executive:ethereum:nft,4mo
-Okcoin,https://web3.career/vendor-management-program-manager-okcoin/14026,Vendor Management Program Manager,$70k - $180k,executive,4mo
-BitGo,https://web3.career/office-manager-bitgo/14025,Office Manager,,,4mo
-Koinly,https://web3.career/customer-support-specialist-crypto-remote-australia-koinly/14024,Customer Support Specialist/ Crypto / Remote / Australia,$25k - $35k,remote:customer support:crypto,4mo
-Jambb,https://web3.career/video-content-editor-jambb/14023,Video Content Editor,,copywriting:video,4mo
-OpenSea,https://web3.career/social-media-associate-cx-opensea/14019,"Social Media Associate, CX",$35k - $110k,social media:non tech:remote,4mo
-project44,https://web3.career/enterprise-account-executive-3457705-enterprise-account-executive/14013,Enterprise Account Executive,$79k - $200k,executive:remote,4mo
-AccelOne,https://web3.career/sr-wordpress-developer-accelone/14012,Sr. WordPress Developer,,dev:senior:wordpress:remote,4mo
-Flexxy,https://web3.career/front-end-developer-amsterdam-react-flexxy/14011,Front-End Developer | Amsterdam | React,$50k - $140k,dev:front end:javascript:react:php,4mo
-3XM Group,https://web3.career/data-architect-3xmgroup/14009,Data Architect,$67k - $300k,architecture:remote,4mo
-Ondo Finance,https://web3.career/senior-smart-contract-engineer-evm-ecosystem-layer-2-technical-lead-ondofinance/14008,Senior Smart Contract Engineer (EVM Ecosystem/Layer 2) — Technical Lead,$140k - $220k,dev:lead:senior:tech lead:smart contract,4mo
-BlockFi,https://web3.career/senior-director-of-engineering-client-fraud-identity-risk-blockfi/14006,"Senior Director of Engineering, Client Fraud & Identity Risk",$95k - $250k,executive:security:senior,4mo
-Heretic,https://web3.career/senior-director-strategy-heretic-fund/14004,"Senior Director, Strategy",$46k - $110k,executive:senior,4mo
-Ondo Finance,https://web3.career/senior-smart-contract-engineer-solidity-ondofinance/14003,Senior Smart Contract Engineer (Solidity),$120k - $250k,dev:senior:smart contract:solidity:remote,4mo
-ETHGlobal,https://web3.career/backend-engineer-ethglobal/14002,Backend Engineer,$60k - $180k,backend:dev:remote,4mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/director-of-recruiting-tradeblock-coindesk/13984,"Director of Recruiting, TradeBlock",,executive:recruiter:non tech,4mo
-Sygnum Bank AG,https://web3.career/senior-site-reliability-engineer-sygnum/13982,Senior Site Reliability Engineer,$150k - $200k,dev:sys admin:senior:ethereum:java,4mo
-OpenSea,https://web3.career/security-engineer-opensea/13980,Security Engineer,$95k - $250k,dev:security:remote,4mo
-Consensys,https://web3.career/site-reliability-engineer-consensys/13978,Site Reliability Engineer,,dev:sys admin:ethereum:remote,4mo
-Consensys,https://web3.career/executive-assistant-us-west-coast-consensys/13977,Executive Assistant (US West Coast),$79k - $158k,executive:ethereum:remote,4mo
-Brave,https://web3.career/research-engineer-brave/13974,Research Engineer,$75k - $190k,dev:rust,4mo
-ELONGATE,https://web3.career/blockchain-developer-elongate-1/13973,Blockchain Developer,$0k,dev:blockchain:web3js:solidity:php,4mo
-Parity Technologies,https://web3.career/rust-core-developer-solidity-compiler-parity/13969,Rust Core Developer - Solidity Compiler,$80k - $200k,dev:rust:solidity:ethereum:remote,4mo
-Parity Technologies,https://web3.career/rust-core-developer-smart-contract-platform-parity/13968,Rust Core Developer - Smart Contract Platform,$80k - $200k,dev:rust:smart contract:ethereum:remote,4mo
-MoonPay,https://web3.career/analyst-ceo-office-moonpay/13967,"Analyst, CEO Office",,analyst:executive:remote,4mo
-BlockFi,https://web3.career/qa-tester-blockfi/13965,QA Tester,$62k - $150k,quality assurance,4mo
-Chainlink Labs,https://web3.career/senior-tax-analyst-chainlink/13961,Senior Tax Analyst,,analyst:senior:accounting:remote,4mo
-MomentRanks,https://web3.career/senior-frontend-engineer-momentranks/13956,Senior Frontend Engineer,$180k - $240k,dev:front end:senior:web3js:react,4mo
-Ripple,https://web3.career/product-manager-ripplex-cbdc-ripple/13954,"Product Manager, RippleX - CBDC",$69k - $160k,product manager:non tech,4mo
-Ripple,https://web3.career/product-manager-ripplex-cbdc-ripple/13953,"Product Manager, RippleX - CBDC",$69k - $160k,product manager:non tech,4mo
-Crypto.com,https://web3.career/operations-manager-cards-payments-brazil-crypto-com/13952,Operations Manager ( Cards/Payments) - Brazil,$60k - $200k,operations,4mo
-Oropocket,https://web3.career/partnership-head-crypto-blockchain-industry-ethx/13951,Partnership Head (Crypto/blockchain industry),$26k - $39k,executive:sales:non tech:blockchain:crypto,4mo
-Crypto Finance AG,https://web3.career/content-specialist-cryptofinanceag/13950,Content Specialist,$25k - $96k,marketing:non tech:copywriting,4mo
-Nuri,https://web3.career/principal-software-engineer-golang-nuri/13949,Principal Software Engineer (GoLang),,dev:golang:executive:remote,4mo
-Bitfury,https://web3.career/legal-counsel-crystal-remote-bitfury/13947,Legal Counsel - Crystal (Remote),,legal:remote,4mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+THIS IS! Digital Media Group,https://web3.career/project-management-intern-internship-all-gender-thisisdmg/14712,Remote,"Project Management Intern (Internship, all gender)",$24k - $48k,intern:entry level:remote,4mo
+Blockchain.com,https://web3.career/nodejs-software-engineer-blockchain/14709,"Buenos Aires,
+Argentina",NodeJs Software Engineer,$60k - $155k,dev:javascript:node:nft,4mo
+The Block,https://web3.career/podcast-audio-engineer-theblockcrypto/14707,Remote,Podcast Audio Engineer,$65k - $180k,dev:remote,4mo
+Vauld,https://web3.career/head-of-compliance-vauld/14706,"Singapore,
+Singapore",Head of Compliance,,compliance:executive,4mo
+Foundation,https://web3.career/general-counsel-with-foundation/14705,Remote,General Counsel,,legal:remote,4mo
+Binance,https://web3.career/risk-data-engineer-junior-fresh-binance/14701,"Singapore,
+Singapore",Risk Data Engineer(Junior/Fresh),,data science:dev:junior:entry level,4mo
+Binance,https://web3.career/senior-front-end-web-developer-gift-card-binance/14700,Vietnam,Senior Front-End Web Developer (Gift Card),$70k - $190k,dev:front end:senior,4mo
+RECUR,https://web3.career/director-of-marketing-tokyo-apac-remote-recur/14699,"Tokyo,
+Japan",Director of Marketing - Tokyo / APAC (Remote),$45k - $158k,remote:executive:marketing:non tech:ethereum,4mo
+Binance,https://web3.career/app-product-manager-binance/14697,Remote,App Product Manager,$115k - $175k,product manager:non tech:remote,4mo
+Binance,https://web3.career/tool-product-manager-binance/14696,Remote,Tool Product Manager,$115k - $175k,product manager:non tech:remote,4mo
+Tendermint,https://web3.career/cosmos-sdk-application-developer-remote-tendermint/14695,"San Francisco,
+United States",Cosmos SDK Application Developer - Remote,$65k - $180k,remote:dev,4mo
+Crypto.com,https://web3.career/employment-counsel-us-crypto-com/14694,"Miami,
+United States",Employment Counsel (US),,legal:nft,4mo
+Cope.Studio,https://web3.career/blockchain-developer-cope-studio/14693,India,Blockchain Developer,$13k - $15k,dev:blockchain:react:ethereum,4mo
+Nuri,https://web3.career/working-student-customer-support-agent-nuri/14692,"Berlin,
+Germany",Working Student Customer Support Agent,$40k - $80k,customer support:remote,4mo
+Immutable,https://web3.career/lead-engineer-immutable/14691,"Sydney,
+Australia",Lead Engineer,$100k - $200k,dev:lead:ethereum:nft,4mo
+GSR,https://web3.career/2022-graduate-program-trading-and-research-analyst-zug-gsr/14690,"Zug,
+Switzerland","2022 Graduate Program - Trading and Research Analyst, Zug",$20k - $30k,analyst:intern:entry level:react,4mo
+SwissBorg,https://web3.career/fraud-analyst-remote-swissborg/14689,"Lisbon,
+Portugal",Fraud Analyst (Remote),,remote:analyst:security,4mo
+Consensys,https://web3.career/dao-strategist-consensys/14688,Remote,DAO Strategist,$79k - $158k,ethereum:nft:remote,4mo
+Okcoin,https://web3.career/customer-service-manager-okcoin/14687,"Dublin,
+Ireland",Customer Service Manager,$40k - $80k,customer support,4mo
+Okcoin,https://web3.career/manager-risk-operations-okcoin/14686,"Dublin,
+Ireland","Manager, Risk Operations",$60k - $200k,operations,4mo
+Okcoin,https://web3.career/identity-and-onboarding-iao-manager-okcoin/14685,"Dublin,
+Ireland",Identity and Onboarding (IAO) Manager,,,4mo
+Blockchain.com,https://web3.career/ux-product-designer-sr-blockchain/14684,"Buenos Aires,
+Argentina",UX Product Designer -SR,$50k - $150k,design:non tech,4mo
+Nuri,https://web3.career/working-student-it-admin-nuri/14682,"Berlin,
+Germany",Working Student IT Admin,$56k - $160k,remote,4mo
+SwissBorg,https://web3.career/director-of-compliance-swissborg/14681,"Tallinn,
+Estonia",Director of Compliance,,compliance:executive,4mo
+GSR,https://web3.career/2022-graduate-program-trading-and-research-analyst-singapore-gsr/14680,"Singapore,
+Singapore","2022 Graduate Program - Trading and Research Analyst, Singapore",$20k - $30k,analyst:intern:entry level:react,4mo
+GSR,https://web3.career/2022-graduate-program-trading-and-research-new-york-gsr/14679,"New York,
+United States",2022 Graduate Program - Trading and Research - New York,$18k - $28k,intern:entry level:react,4mo
+Amun 21Shares,https://web3.career/research-analyst-amun/14678,"New York,
+United States",Research Analyst,$40k - $120k,analyst,4mo
+Sygnum Bank AG,https://web3.career/tech-lead-software-engineering-sygnum/14677,Switzerland,Tech Lead - Software Engineering,$140k - $220k,lead:dev:tech lead:react,4mo
+GSR,https://web3.career/2022-graduate-program-trading-and-research-analyst-zug-gsr/14676,"Zug,
+Switzerland",2022 Graduate Program - Trading and Research Analyst - Zug,$20k - $30k,analyst:intern:entry level:react,4mo
+Sygnum Bank AG,https://web3.career/tech-lead-blockchain-protocol-staking-sygnum/14675,Switzerland,Tech Lead - Blockchain Protocol & Staking,$78k - $118k,lead:tech lead:blockchain:react:javascript,4mo
+GSR,https://web3.career/gsr-2022-graduate-program-trading-and-research-analyst-new-york-gsr/14674,"New York,
+United States","GSR 2022 Graduate Program - Trading and Research Analyst, New York",$20k - $30k,analyst:intern:entry level:react,4mo
+Tangany,https://web3.career/product-manager-m-f-d-munich-remote-3466601-product-manager-m-f-d-munich-remote/14673,Remote,Product Manager m/f/d Munich/Remote,$115k - $175k,remote:product manager:non tech,4mo
+GSR,https://web3.career/gsr-2022-graduate-program-trading-and-research-analyst-london-gsr/14672,"London,
+United Kingdom","GSR 2022 Graduate Program - Trading and Research Analyst, London",$20k - $30k,analyst:intern:entry level:react,4mo
+Wirex Limited,https://web3.career/senior-solidity-engineer-wirexlimited/14671,"Kiev,
+Ukraine",Senior Solidity Engineer,$80k - $200k,dev:senior:solidity:ethereum,4mo
+Wirex Limited,https://web3.career/senior-rust-developer-wirexlimited/14670,"Kiev,
+Ukraine",Senior Rust Developer,$120k - $210k,dev:rust:senior:solana:javascript,4mo

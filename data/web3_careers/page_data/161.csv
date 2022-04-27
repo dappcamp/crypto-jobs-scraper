@@ -1,36 +1,65 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-questW,https://web3.career/principal-software-engineer-questw/20161,Principal Software Engineer,$200k - $400k,dev:executive:react,2mo
-Acria Foundation,https://web3.career/business-development-intern-acriafoundation/20160,Business Development Intern,$2k,sales:non tech:intern:entry level:ethereum,2mo
-Yield Guild Games,https://web3.career/special-projects-cto-yield-guild-games/20159,Special Projects - CTO,$79k - $300k,executive:remote:cto,2mo
-Binance,https://web3.career/growth-marketing-manager-binance/20158,Growth Marketing Manager,$45k - $130k,marketing:non tech,2mo
-FreshCut,https://web3.career/full-stack-engineer-freshcut/20157,Full-Stack Engineer,$65k - $180k,dev:full stack:react:javascript:nextjs,2mo
-Vauld,https://web3.career/senior-ui-ux-designer-vauld/20156,Senior UI/UX Designer,$60k - $120k,design:non tech:senior,2mo
-peaq,https://web3.career/recruitment-and-hr-assistant-m-f-d-peaq/20155,Recruitment and HR Assistant (m/f/d),$51k - $70k,hr:non tech:recruiter:remote,2mo
-qiibee,https://web3.career/hr-manager-qiibee/20154,HR Manager,$60k - $120k,hr:non tech:remote,2mo
-Lykke Business AG,https://web3.career/lykke-chief-financial-officer-lykke-business/20153,Lykke Chief Financial Officer,$40k - $225k,executive:finance:remote,2mo
-PVT PAY,https://web3.career/co-founder-in-the-area-of-software-development-m-f-d-wanted-in-young-start-up-pvtpay/20152,Co-founder in the area of software development (m/f/d) wanted in young start-up!,$95k - $300k,executive:dev:remote,2mo
-Yield Guild Games,https://web3.career/special-projects-product-manager-business-analyst-yield-guild-games/20151,Special Projects- Product Manager / Business Analyst,,analyst:product manager:non tech:remote,2mo
-Binance,https://web3.career/finance-lead-central-regional-marketing-binance/20150,"Finance lead, Central/Regional Marketing",,finance:lead:marketing:non tech:remote,2mo
-Binance,https://web3.career/python-developer-binance/20149,Python Developer,$140k - $200k,dev:python:remote,2mo
-soonami.io GmbH,https://web3.career/co-founder-soonami/20148,Co-Founder,$79k - $200k,executive:remote,2mo
-Yield Guild Games,https://web3.career/special-projects-blockchain-lead-developer-yield-guild-games/20147,Special Projects- Blockchain Lead Developer,$30k - $160k,dev:lead:blockchain:remote:nft,2mo
-Tangany,https://web3.career/cloud-engineer-w-m-d-tangany/20146,Cloud Engineer (w/m/d),,cloud:dev:node:remote,2mo
-Bonfida,https://web3.career/customer-support-specialist-bonfida/20145,Customer Support Specialist,,customer support:remote:solana,2mo
-Nuri,https://web3.career/performance-marketing-manager-nuri/20144,Performance Marketing Manager,$25k - $120k,marketing:non tech:remote,2mo
-Binance,https://web3.career/graphic-designer-apac-binance/20142,Graphic Designer - APAC,$50k - $135k,design:non tech:remote,2mo
-PolyCrypt,https://web3.career/core-developer-perun/20141,Core Developer,$50k - $67k,dev:java:rust:remote,2mo
-Ultra,https://web3.career/security-engineer-remote-in-europe-or-central-south-america-ultra/20138,Security Engineer - Remote in Europe or Central/South America -,$95k - $250k,remote:dev:security,2mo
-Binance,https://web3.career/regional-community-intern-binance-smart-chain-binance/20137,Regional Community Intern - Binance Smart Chain,,community manager:non tech:intern:entry level:remote,2mo
-Crypto Finance AG,https://web3.career/coo-asset-management-cryptofinanceag/20135,COO Asset Management,$60k - $200k,operations,2mo
-Finoa GmbH,https://web3.career/head-of-data-science-and-analytics-m-f-d-finoa/20131,Head of Data Science and Analytics (m/f/d),,executive:stats:data science:remote,2mo
-Coin98 Finance,https://web3.career/mid-level-senior-graphic-designer-coin98/20130,Mid-Level/ Senior Graphic Designer,$60k - $120k,design:non tech:senior:remote,2mo
-PVT PAY,https://web3.career/co-founder-in-the-area-of-software-development-m-f-d-wanted-in-young-start-up-pvtpay/20129,Co-founder in the area of software development (m/f/d) wanted in young start-up!,$95k - $300k,executive:dev:remote,2mo
-Binance,https://web3.career/senior-legal-counsel-chile-peru-binance/20128,Senior Legal Counsel - Chile & Peru,,legal:senior,2mo
-Binance,https://web3.career/customer-support-representative-japanese-speaking-binance/20127,Customer Support Representative (Japanese speaking),$40k - $80k,customer support,2mo
-Crypto Finance AG,https://web3.career/junior-sales-asset-management-cryptofinanceag/20123,Junior Sales - Asset Management,$78k - $93k,junior:entry level:sales:non tech,2mo
-Taurus SA,https://web3.career/sre-devops-engineer-taurusgroup/20122,SRE / DevOps engineer,$120k - $200k,devops:dev:senior:java,2mo
-ONCARE GmbH,https://web3.career/senior-blockchain-developer-hyperleder-fabric-f-m-d-medical-industry-oncare/20121,Senior Blockchain Developer Hyperleder Fabric (f/m/d) - Medical Industry,$80k - $200k,dev:senior:blockchain:javascript:node,2mo
-Okcoin,https://web3.career/content-writer-okcoin/20120,Content Writer,$13k - $45k,copywriting,2mo
-Okcoin,https://web3.career/content-writer-okcoin/20119,Content Writer,$13k - $45k,copywriting,2mo
-Okcoin,https://web3.career/content-writer-okcoin/20118,Content Writer,$13k - $45k,copywriting,2mo
-Immutable,https://web3.career/external-content-producer-immutable/20117,External Content Producer,$56k - $160k,remote,2mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Ripple,https://web3.career/ripple-markets-intern-summer-2022-intern-ripple/20779,"London,
+United Kingdom",Ripple Markets Intern (Summer 2022 Intern),,intern:entry level,2mo
+Ripple,https://web3.career/ripple-markets-intern-summer-2022-intern-ripple/20778,"Singapore,
+Singapore",Ripple Markets Intern (Summer 2022 Intern),,intern:entry level,2mo
+Directive Games Limited,https://web3.career/solidity-programmer-directivegameslimited/20777,"Reykjavik,
+Iceland",SOLIDITY PROGRAMMER,$63k - $160k,dev:solidity:ethereum,2mo
+Northern Block,https://web3.career/blockchain-software-engineer-northern-block/20776,"Toronto,
+Canada",Blockchain Software Engineer,$63k - $94k,dev:blockchain:react:solidity:ethereum,2mo
+Directive Games Limited,https://web3.career/lead-game-designer-directivegameslimited/20775,"Reykjavik,
+Iceland",LEAD GAME DESIGNER,$26k - $150k,design:non tech:game dev:lead,2mo
+Directive Games Limited,https://web3.career/3d-generalist-directivegameslimited/20774,"Reykjavik,
+Iceland",3D GENERALIST,$13k - $50k,vfx,2mo
+Directive Games Limited,https://web3.career/senior-producer-directivegameslimited/20773,"Reykjavik,
+Iceland",SENIOR PRODUCER,$78k - $200k,senior,2mo
+IOTA Foundation,https://web3.career/social-media-manager-remote-iota/20772,Remote,Social Media Manager (Remote),$35k - $110k,remote:social media:non tech:ethereum,2mo
+Chainalysis,https://web3.career/cybercrimes-investigator-data-science-summer-2022-internship-chainalysis/20771,"Washington,
+United States","Cybercrimes Investigator/Data Science, Summer 2022 Internship",,data science:intern:entry level,2mo
+Brave,https://web3.career/marketing-copywriter-content-strategist-brave/20770,"San Francisco,
+United States",Marketing Copywriter/Content Strategist,$25k - $96k,copywriting:marketing:non tech:javascript,2mo
+BitGo,https://web3.career/project-manager-security-bitgo/20769,"Palo Alto,
+United States","Project Manager, Security",,project manager:non tech:security,2mo
+Crypto.com,https://web3.career/investment-associate-venture-capital-global-fintech-startup-crypto-com/20768,"San Francisco,
+United States",Investment Associate (Venture capital) - Global Fintech Startup,$40k - $150k,finance,2mo
+GrowYourBase,https://web3.career/producer-metaventure-studios-growyourbase/20767,"San Francisco,
+United States",Producer - MetaVenture Studios,$55k - $150k,nft,2mo
+Galaxy Digital Services,https://web3.career/financial-operations-specialist-galaxydigitalservices/20766,Remote,Financial Operations Specialist,,finance:operations:remote,2mo
+Nifty's Inc.,https://web3.career/customer-success-manager-niftysinc/20765,"Los Angeles,
+United States",Customer Success Manager,,sales:non tech:customer support,2mo
+Upstock,https://web3.career/brand-voice-and-copywriting-for-fintech-legaltech-crypto-startup-upstock/20764,"San Francisco,
+United States",Brand voice and copywriting for FinTech/LegalTech Crypto Startup,$62k - $96k,marketing:non tech:copywriting:finance:crypto,2mo
+Crypto.com,https://web3.career/product-operations-associate-crypto-com/20763,United Kingdom,Product Operations Associate,,operations:nft,2mo
+Okcoin,https://web3.career/associate-general-counsel-okcoin/20761,"San Francisco,
+United States",Associate General Counsel,$24k - $140k,legal,2mo
+Mirana,https://web3.career/quant-trader-defi-mirana/20760,"Singapore,
+Singapore",Quant Trader (Defi),,trader:defi:java,2mo
+Metaverse Game Studios,https://web3.career/lead-vfx-artist-metaverse-game-studios/20759,Remote,Lead VFX Artist,,lead:vfx:remote,2mo
+CANDY,https://web3.career/marketing-highlight-assistant-producer-baseball-part-time-seasonal-candy/20757,"Los Angeles,
+United States",Marketing Highlight Assistant Producer- Baseball (Part Time- Seasonal),,marketing:non tech:part time,2mo
+Okcoin,https://web3.career/product-operations-manager-okcoin/20756,"San Francisco,
+United States",Product Operations Manager,$60k - $200k,operations,2mo
+Okcoin,https://web3.career/legal-analyst-okcoin/20755,"San Francisco,
+United States",Legal Analyst,,analyst:legal,2mo
+Gluwa,https://web3.career/head-of-site-reliability-engineering-gluwa/20754,"San Francisco,
+United States",Head of Site Reliability Engineering,,executive:sys admin:ethereum,2mo
+Junglee Games,https://web3.career/web3-engineer-jungleegames/20753,"Bengaluru,
+India",Web3 Engineer,$60k - $180k,dev,2mo
+Crypto.com,https://web3.career/head-of-office-south-korea-crypto-com/20752,"Seoul,
+South Korea","Head of Office, South Korea",$70k - $180k,executive,2mo
+Mirana,https://web3.career/quant-trader-defi-mirana/20751,"Singapore,
+Singapore",Quant Trader (Defi),,trader:defi:java,2mo
+Crypto.com,https://web3.career/frontend-developer-exchange-aus-crypto-com/20750,Australia,Frontend Developer (Exchange) - AUS,$60k - $144k,dev:front end:nft:javascript,2mo
+Telcoin,https://web3.career/software-engineer-rust-preferred-telcoin/20749,"Los Angeles,
+United States",Software Engineer (Rust preferred),$75k - $190k,dev:rust,2mo
+Telcoin,https://web3.career/blockchain-developer-telcoin/20748,"Los Angeles,
+United States",Blockchain Developer,$33k - $120k,dev:blockchain:ethereum:node:rust,2mo
+Kava Labs,https://web3.career/senior-software-engineer-kava/20747,"San Francisco,
+United States",Senior Software Engineer,$50k - $200k,dev:senior:java:golang:rust,2mo
+Ripple,https://web3.career/ripplenet-business-development-intern-ripple/20746,"San Francisco,
+United States",RippleNet Business Development Intern,$29k - $43k,sales:non tech:intern:entry level,2mo
+Crypto.com,https://web3.career/technology-risk-manager-crypto-com/20745,"Singapore,
+Singapore",Technology Risk Manager,$55k - $150k,nft,2mo
+Sygnum Bank AG,https://web3.career/internship-it-infrastructure-services-6-months-sygnum/20744,Switzerland,Internship - IT Infrastructure & Services 6 months,,intern:entry level,2mo
+Blockchain.com,https://web3.career/latin-america-senior-compliance-regulatory-specialist-blockchain/20743,"Buenos Aires,
+Argentina",Latin America Senior Compliance Regulatory Specialist,,compliance:legal:senior,2mo

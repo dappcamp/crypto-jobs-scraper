@@ -1,36 +1,56 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-FreshCut,https://web3.career/community-manager-web3-and-gaming-freshcut/23721,Community Manager (Web3 and Gaming),$65k - $80k,community manager:non tech:game dev,1mo
-Voodoo,https://web3.career/contract-manager-paralegal-voodoo/23719,Contract Manager/Paralegal,,,1mo
-Bitwise Asset Management,https://web3.career/marketing-operations-analytics-associate-bitwiseinvestments/23718,Marketing Operations & Analytics Associate,,stats:marketing:non tech:operations,1mo
-Binance,https://web3.career/senior-finance-controller-binance/23717,Senior Finance Controller,,legal:finance:senior:remote,1mo
-Voodoo,https://web3.career/data-analyst-voodoo/23716,Data Analyst,$36k - $72k,analyst:data science,1mo
-Ledger,https://web3.career/performance-marketing-manager-ledger/23715,Performance Marketing Manager,$45k - $130k,marketing:non tech,1mo
-SwissBorg,https://web3.career/customer-service-agent-swissborg/23714,Customer Service Agent,$40k - $80k,customer support:remote,1mo
-IOTA Foundation,https://web3.career/developer-advocate-iota/23713,Developer Advocate,$65k - $180k,dev:remote,1mo
-ZAUBAR,https://web3.career/ar-game-developer-metaverse-unity-zaubar/23712,"AR Game Developer (Metaverse, Unity)",$70k - $130k,dev:game dev:metaverse:remote,1mo
-Sytac,https://web3.career/medior-mobile-developer-sytac/23711,Medior Mobile Developer,$65k - $200k,dev:mobile,1mo
-LATOKEN,https://web3.career/backend-developer-latoken/23710,Backend Developer,$60k - $180k,backend:dev:remote:solidity:node,1mo
-Konfid.io GmbH,https://web3.career/front-end-developer-mid-senior-konfidio/23709,Front-End Developer - Mid/Senior,$70k - $190k,dev:front end:senior:web3js:solidity,1mo
-micobo GmbH,https://web3.career/technical-project-manager-all-genders-remote-micobo/23708,Technical Project Manager (all genders) - remote,$56k - $150k,remote:project manager:non tech,1mo
-CleanSpark,https://web3.career/facilities-maintenance-technician-cleanspark/23706,Facilities Maintenance Technician,,,1mo
-Bitkub,https://web3.career/android-developer-bitkub/23705,Android Developer,,android:mobile:dev,1mo
-Bitkub,https://web3.career/frontend-developer-react-next-js-bitkub/23704,"Frontend Developer (React, Next.js)",,dev:front end:javascript:react,1mo
-Bitkub,https://web3.career/blockchain-developer-for-kub-chain-bitkub/23703,Blockchain Developer for Kub Chain,,dev:blockchain,1mo
-Bitkub,https://web3.career/blockchain-engineer-intern-bitkub/23702,Blockchain Engineer Intern,,dev:intern:entry level:blockchain,1mo
-Tangany,https://web3.career/backend-crypto-software-developer-tangany/23701,Backend (Crypto) Software Developer,$90k - $250k,backend:dev:crypto:ethereum:javascript,1mo
-Chain,https://web3.career/security-analyst-chain/23700,Security Analyst,,analyst:security:remote,1mo
-Voodoo,https://web3.career/backend-developer-voodoo/23699,Backend Developer,$60k - $180k,backend:dev,1mo
-Binance,https://web3.career/technical-support-engineer-sl3-application-owner-binance/23698,Technical Support Engineer / SL3 Application Owner,$90k - $140k,dev:customer support,1mo
-Elwood Technologies,https://web3.career/crypto-trading-support-elwoodtechnologies/23697,Crypto Trading Support,$25k - $35k,customer support:crypto:remote,1mo
-Flooz,https://web3.career/senior-qa-automation-engineer-f-m-d-remote-flooz/23696,Senior QA Automation Engineer (f/m/d) - Remote,,remote:dev:quality assurance:senior:react,1mo
-Ledger,https://web3.career/senior-hardware-engineering-project-manager-epm-ledger/23695,Senior Hardware Engineering Project Manager (EPM),,hardware:project manager:non tech:senior,1mo
-FreshCut,https://web3.career/senior-product-designer-remote-freshcut/23694,Senior Product Designer (Remote),$50k - $135k,remote:design:non tech:senior,1mo
-OneDegree,https://web3.career/software-engineer-virtual-asset-frontend-onedegree/23693,"Software Engineer, Virtual Asset (Frontend)",$50k - $144k,dev:front end:react:javascript:remote,1mo
-QuickNode,https://web3.career/senior-software-engineer-nft-quicknode/23692,Senior Software Engineer - NFT,$90k - $200k,dev:senior:nft:remote:ethereum,1mo
-SwissBorg,https://web3.career/customer-service-agent-swissborg/23691,Customer Service Agent,$40k - $80k,customer support,1mo
-IOTA Foundation,https://web3.career/product-designer-iota/23690,Product Designer,$50k - $135k,design:non tech:remote,1mo
-Aurory,https://web3.career/frontend-react-developer-aurory/23689,Frontend react developer,$50k - $140k,dev:front end:javascript:react:remote,1mo
-Universe,https://web3.career/e-commerce-fraud-risk-specialist-onuniverse/23688,E-Commerce Fraud & Risk Specialist,,ecommerce:security:remote,1mo
-Zilliqa,https://web3.career/full-stack-developer-zilliqa/23687,Full Stack Developer,$65k - $180k,dev:full stack:react:javascript:node,1mo
-RociFi,https://web3.career/senior-solidity-engineer-rocifi/23686,Senior Solidity Engineer,$80k - $200k,dev:senior:solidity:node:remote,1mo
-Hydraswap,https://web3.career/vp-engineering-hydraswap/23685,VP Engineering,$0k,executive:solana:node:rust,1mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Voodoo,https://web3.career/global-payroll-officer-voodoo/24308,"Paris,
+France",Global Payroll Officer,$25k - $150k,accounting,1mo
+Virtually Human Studio,https://web3.career/full-stack-engineer-react-node-remote-vhslab/24307,APAC,Full Stack Engineer - React/Node (Remote),$70k - $200k,remote:dev:full stack:javascript:node,1mo
+Binance,https://web3.career/senior-finance-manager-m-a-binance/24306,Europe,"Senior Finance Manager, M&A",$50k - $150k,finance:senior,1mo
+Voodoo,https://web3.career/game-artist-hyper-casual-games-voodoo/24305,"Warsaw,
+Poland",Game Artist - Hyper Casual Games,$50k - $150k,game dev,1mo
+Synapse International,https://web3.career/staff-smart-contract-engineer-synapseint/24304,Remote,Staff Smart Contract Engineer,$80k - $200k,dev:smart contract:remote:solidity:solana,1mo
+Virtually Human Studio,https://web3.career/blockchain-engineer-remote-vhslab/24303,United States,Blockchain Engineer (Remote),$70k - $190k,remote:dev:blockchain:solidity:nft,1mo
+Coin Metrics,https://web3.career/frontend-software-engineer-coinmetrics/24302,"Boston,
+United States",Frontend Software Engineer,$50k - $144k,dev:front end:react:javascript,1mo
+Paradigm,https://web3.career/growth-paradigm-portfolio-paradigm-xyz/24301,Remote,Growth - Paradigm Portfolio,$50k - $100k,finance:marketing:non tech:remote,1mo
+Voodoo,https://web3.career/lead-creative-manager-voodoo/24300,"Paris,
+France",Lead Creative Manager,$60k - $200k,lead,1mo
+Binance,https://web3.career/events-manager-brazil-binance/24299,"Sao Paulo,
+Brazil",Events Manager - Brazil,,events manager:non tech,1mo
+GSR,https://web3.career/software-engineer-vice-president-cryptocurrency-trading-london-gsr/24298,"London,
+United Kingdom","Software Engineer, Vice President - Cryptocurrency Trading - London",$60k - $160k,dev:crypto,1mo
+Burnt Finance,https://web3.career/strategic-finance-associate-burnt/24297,"New York,
+United States",Strategic Finance Associate,$40k - $150k,finance,1mo
+Alchemy,https://web3.career/product-marketing-manager-alchemy-amplify-alchemy/24296,Remote,Product Marketing Manager: Alchemy Amplify,$25k - $120k,marketing:non tech:remote,1mo
+Binance,https://web3.career/product-manager-nft-trading-binance/24295,Europe,Product Manager (NFT) - Trading,$69k - $160k,product manager:non tech:nft,1mo
+Ianuly Talent Accelerators,https://web3.career/full-stack-defi-developer-ianulytalentaccelerators/24294,"New York,
+United States",Full Stack Defi Developer,$93k - $150k,dev:full stack:defi:react,1mo
+Floating Point Group,https://web3.career/business-development-executive-singapore-fpg/24293,"Singapore,
+Singapore",Business Development Executive - Singapore,$40k - $150k,sales:non tech:executive,1mo
+frens,https://web3.career/full-stack-engineer-for-blockchain-startup-nodejs-discord-blockchain-frens/24291,"Los Angeles,
+United States",Full Stack Engineer for Blockchain Startup (Nodejs + Discord + Blockchain),$40k - $80k,dev:full stack:javascript:node:blockchain,1mo
+Paradigm,https://web3.career/communications-paradigm-portfolio-paradigm-xyz/24290,Remote,Communications - Paradigm Portfolio,$40k - $100k,finance:remote,1mo
+Hydraswap,https://web3.career/crypto-researcher-cum-content-writer-hydraswap/24288,"Singapore,
+Singapore",Crypto Researcher cum Content Writer,$0k,copywriting:crypto:nft,1mo
+ModSquad,https://web3.career/engagement-moderation-content-moderation-discord-nft-company-modsquad/24287,United States,"Engagement Moderation, Content Moderation (Discord) - NFT Company",$55k - $150k,nft,1mo
+Parcl,https://web3.career/ui-ux-designer-parcl/24286,"New York,
+United States",UI/UX Designer,$45k - $135k,design:non tech:javascript,1mo
+Binance,https://web3.career/product-manager-nft-platform-ability-binance/24285,Europe,Product Manager (NFT) - Platform ability,$69k - $160k,product manager:non tech:nft,1mo
+Global Income Coin,https://web3.career/senior-compliance-analyst-globalincomecoin/24284,,Senior Compliance Analyst,,compliance:analyst:senior:react,1mo
+Parcl,https://web3.career/engineer-journalist-parcl/24282,Remote,Engineer Journalist,$60k - $180k,dev:remote:javascript,1mo
+Parcl,https://web3.career/data-scientist-senior-data-scientist-parcl/24281,"New York,
+United States",Data Scientist/Senior Data Scientist,,data science:senior:ethereum,1mo
+Gemini,https://web3.career/senior-end-user-support-engineer-gemini/24280,"Chicago,
+United States",Senior End User Support Engineer,,dev:senior:customer support,1mo
+PureStake,https://web3.career/blockchain-developer-relations-engineer-purestake/24279,"Boston,
+United States",Blockchain Developer Relations Engineer,$0k,customer support:dev:blockchain:solidity:ethereum,1mo
+Oasis Protocol Foundation,https://web3.career/webflow-developer-designer-oasisnetwork/24278,"London,
+United Kingdom",Webflow Developer / Designer,$80k - $150k,design:non tech:dev:javascript,1mo
+Paradigm,https://web3.career/product-paradigm-portfolio-paradigm-xyz/24277,Remote,Product - Paradigm Portfolio,$40k - $100k,finance:remote,1mo
+Crystal Blockchain Analytics,https://web3.career/product-marketing-manager-crystal-blockchain-crystal/24276,"Amsterdam,
+Netherlands",Product Marketing Manager (Crystal Blockchain),$13k - $100k,marketing:non tech:blockchain,1mo
+Webstacks,https://web3.career/sr-technical-project-manager-webstacks/24275,"San Diego,
+United States",Sr. Technical Project Manager,,project manager:non tech:senior:react,1mo
+CANDY,https://web3.career/engineering-internship-summer-2022-candy/24274,"New York,
+United States",Engineering Internship (Summer 2022),$18k - $28k,intern:entry level:react:nft,1mo
+Paradigm,https://web3.career/people-ops-paradigm-portfolio-paradigm-xyz/24273,Remote,People Ops - Paradigm Portfolio,$40k - $100k,finance:remote,1mo
+Roxe,https://web3.career/controller-roxe/24268,"New York,
+United States",Controller,$24k - $140k,legal,1mo
+nft now,https://web3.career/head-of-marketing-nft-now/24267,NY Brooklyn US,Head of Marketing,$70k - $158k,executive:marketing:non tech:nft,1mo

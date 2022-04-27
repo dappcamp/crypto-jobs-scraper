@@ -1,36 +1,54 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Gate.io,https://web3.career/event-activity-planning-gate-io/21517,Event & Activity Planning,,events manager:non tech:remote,2mo
-Gate.io,https://web3.career/global-seo-gate-io/21516,Global SEO,,seo:non tech:remote:php,2mo
-Sygnum Bank AG,https://web3.career/junior-relationship-manager-eam-mfo-suisse-romandie-market-sygnum/21515,"(Junior) Relationship Manager EAM & MFO, Suisse Romandie Market",$20k - $30k,junior:entry level:marketing:non tech:ethereum,2mo
-Ianuly Talent Accelerators,https://web3.career/substrate-engineer-ianulytalentaccelerators/21514,Substrate Engineer,$60k - $180k,dev,2mo
-Crypto.com,https://web3.career/complaints-officer-malta-crypto-com/21513,"Complaints Officer, Malta",$56k - $165k,nft:remote,2mo
-Cool Cats NFT,https://web3.career/senior-frontend-developer-scss-web3-cool-cats-nft/21512,Senior Frontend Developer (SCSS) | Web3,$75k - $110k,dev:front end:senior:react:nft,2mo
-Sizzle,https://web3.career/blockchain-developer-sizzle-3/21511,Blockchain Developer,$0k,dev:blockchain:react:solana:nft,2mo
-Crypto.com,https://web3.career/manager-compliance-risk-assessment-modeling-crypto-com/21510,"Manager, Compliance Risk Assessment & Modeling",,compliance:nft,2mo
-Flylance,https://web3.career/fullstack-software-engineer-solidity-node-flylance/21509,"Fullstack Software Engineer (Solidity, Node,",$65k - $180k,dev:full stack:javascript:node:solidity,2mo
-Cool Cats NFT,https://web3.career/senior-frontend-developer-scss-web3-cool-cats-nft/21508,Senior Frontend Developer (SCSS) | Web3,$75k - $110k,dev:front end:senior:react:nft,2mo
-Teller Finance,https://web3.career/community-manager-for-vc-backed-defi-startup-teller-protocol/21507,Community Manager for VC-Backed DeFi Startup,$40k - $75k,community manager:non tech:defi,2mo
-MB Miners,https://web3.career/dapp-blockchain-developer-mb-miners/21506,Dapp/Blockchain Developer,$0k,dev:blockchain:dapp:ethereum,2mo
-Nuri,https://web3.career/site-reliability-engineer-sre-nuri/21505,Site Reliability Engineer (SRE),$150k - $200k,dev:sys admin:senior:remote,2mo
-OKX,https://web3.career/accountant-credit-control-account-receivable-okx/21504,Accountant (Credit Control/ Account Receivable),$11k - $25k,accounting:remote,2mo
-peaq,https://web3.career/content-manager-editor-m-w-d-peaq/21503,Content Manager [Editor] (m/w/d),$25k - $96k,marketing:non tech:copywriting:remote,2mo
-Caiz Development GmbH,https://web3.career/security-analyst-caiz-development/21502,Security Analyst,,analyst:security:remote,2mo
-Nexo,https://web3.career/head-of-payment-methods-nexo/21501,Head of Payment Methods,$70k - $180k,executive,2mo
-HASHDEX,https://web3.career/software-development-engineer-intern-hashdexassetmanagementltd/21500,Software Development Engineer Intern,$12k - $33k,dev:intern:entry level:react:solidity,2mo
-Beyond Seek Technologies,https://web3.career/tech-lead-fintech-and-blockchain-nodejs-flutter-aws-beyond-seek/21499,"Tech Lead - Fintech and Blockchain (NodeJS, Flutter, AWS)",$18k - $23k,finance:flutter:lead:javascript:node,2mo
-Cool Cats NFT,https://web3.career/senior-nodejs-developer-web3-cool-cats-nft/21498,Senior NodeJS Developer | Web3,$140k - $200k,dev:javascript:node:senior:web3js,2mo
-IntelliBlock Technologies,https://web3.career/blockchain-engineer-daml-intelliblock-technologies-1/21497,Blockchain Engineer-DAML,$4k - $6k,dev:blockchain:scala:java,2mo
-Shardeum,https://web3.career/blockchain-developer-node-js-typescript-sql-shardeum/21496,"Blockchain Developer - Node.js, TypeScript, SQL",$120k - $200k,javascript:dev:node:blockchain:remote,2mo
-Mythical Games,https://web3.career/sr-front-end-engineer-mythicalgames/21494,Sr. Front End Engineer,$70k - $190k,dev:front end:senior:react:javascript,2mo
-"Palm NFT Studio, Inc.",https://web3.career/technical-recruiter-palmnftstudioinc/21493,Technical Recruiter,$51k - $70k,recruiter:non tech:nft,2mo
-Rho,https://web3.career/technical-lead-belgrade-rho/21491,Technical Lead (Belgrade),,lead:tech lead:golang,2mo
-jade Eli Tecnologies,https://web3.career/senior-account-executive-jade-eli/21490,Senior Account Executive,$46k - $110k,executive:senior,2mo
-Mythical Games,https://web3.career/senior-manager-business-development-mythicalgames/21489,"Senior Manager, Business Development",$50k - $150k,sales:non tech:senior,2mo
-BANXA 🚀,https://web3.career/sales-manager-banxa/21488,Sales Manager,$100k - $180k,sales:non tech:nft,2mo
-Concept Art House,https://web3.career/ui-ux-designer-conceptarthouse/21487,UI/UX Designer,$60k - $150k,design:non tech:nft:remote,2mo
-"Palm NFT Studio, Inc.",https://web3.career/3d-modeler-generalist-palmnftstudioinc/21486,3D Modeler / Generalist,$11k - $35k,vfx:nft,2mo
-"Palm NFT Studio, Inc.",https://web3.career/head-of-people-palmnftstudioinc/21485,Head of People,$63k - $180k,executive:nft,2mo
-Ripple,https://web3.career/senior-analytics-engineer-products-analytics-crypto-ripple/21484,"Senior Analytics Engineer, Products Analytics (Crypto)",$360k - $500k,stats:dev:senior:crypto,2mo
-Cool Cats NFT,https://web3.career/senior-nodejs-developer-nft-company-cool-cats-nft/21483,Senior NodeJS Developer | NFT Company,$140k - $200k,dev:javascript:node:senior:nft,2mo
-Securrency,https://web3.career/junior-solidity-engineer-securrency/21482,Junior Solidity Engineer,$45k - $180k,dev:junior:entry level:solidity:ethereum,2mo
-Okcoin,https://web3.career/content-design-manager-okcoin/21480,Content Design Manager,,executive:design:non tech,2mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+AlphaTurtle.xyz,https://web3.career/blockchain-nft-marketing-community-working-student-m-f-x-alphaturtle/22074,Remote,Blockchain & NFT Marketing/ Community Working Student (m/f/x),$45k - $150k,community manager:non tech:marketing:blockchain:nft,2mo
+Chainalysis,https://web3.career/cybercrimes-specialist-apac-chainalysis/22073,"Singapore,
+Singapore","Cybercrimes Specialist, APAC",,,2mo
+Pole To Win International,https://web3.career/3d-character-artist-mobile-games-and-nft-art-poletowininternational/22072,Poland,3D Character Artist | Mobile Games and NFT Art,,vfx:mobile:nft,2mo
+Casetify,https://web3.career/digital-products-director-casetify/22071,Remote,Digital Products Director,$79k - $200k,executive:remote,2mo
+Sygnum Bank AG,https://web3.career/credit-lending-lead-sygnum/22070,"Singapore,
+Singapore",Credit & Lending Lead,$96k - $220k,lead:ethereum,2mo
+Sygnum Bank AG,https://web3.career/intern-site-reliability-engineering-sygnum/22069,Switzerland,Intern - Site Reliability Engineering,,intern:entry level:sys admin:java,2mo
+Sygnum Bank AG,https://web3.career/senior-operations-specialist-sygnum/22068,Switzerland,Senior Operations Specialist,,operations:senior:ethereum,2mo
+Gnosis,https://web3.career/accountant-senior-accountant-w-m-d-gnosis/22067,Remote,Accountant/Senior Accountant (w/m/d),,accounting:senior:ethereum:remote,2mo
+Bitfury,https://web3.career/intelligence-trends-and-analysis-manager-crystal-remote-bitfury/22066,"London,
+United Kingdom",Intelligence Trends and Analysis Manager - Crystal (Remote),$56k - $160k,remote,2mo
+Bitfury,https://web3.career/intelligence-trends-and-analysis-manager-crystal-remote-bitfury/22065,"Amsterdam,
+Netherlands",Intelligence Trends and Analysis Manager - Crystal (Remote),$56k - $160k,remote,2mo
+Bitfury,https://web3.career/intelligence-trends-and-analysis-manager-crystal-remote-bitfury/22064,"Dubai,
+United Arab Emirates",Intelligence Trends and Analysis Manager - Crystal (Remote),$56k - $160k,remote,2mo
+Crypto.com,https://web3.career/junior-crm-product-manager-crypto-com/22063,"Hong Kong,
+Hong Kong",Junior CRM Product Manager,,crm:junior:entry level:product manager:non tech,2mo
+Sygnum Bank AG,https://web3.career/ui-ux-designer-sygnum/22061,Switzerland,UI/UX Designer,$50k - $150k,design:non tech,2mo
+WOO Network,https://web3.career/junior-legal-woonetwork/22060,"Warsaw,
+Poland",Junior Legal,,junior:entry level:legal,2mo
+ONCARE GmbH,https://web3.career/associate-to-the-ceo-oncare/22059,"Munich,
+Germany",Associate to the CEO,$79k - $200k,executive:remote,2mo
+Sygnum Bank AG,https://web3.career/product-manager-onboarding-and-client-lifecycle-sygnum/22057,Switzerland,Product Manager (Onboarding and Client Lifecycle),$80k - $150k,product manager:non tech:ethereum,2mo
+Taurus SA,https://web3.career/quantitative-finance-analyst-trading-engineer-taurusgroup/22056,"Geneva,
+Switzerland",Quantitative Finance Analyst / Trading Engineer,,analyst:dev:finance,2mo
+Crypto.com,https://web3.career/operations-manager-global-business-solutions-korea-crypto-com/22055,Remote,"Operations Manager, Global Business Solutions (Korea)",$80k - $110k,operations:remote,2mo
+Galaxy Digital Services,https://web3.career/2022-tech-intern-product-galaxydigitalservices/22054,Remote,"2022 Tech Intern, Product",$24k - $48k,intern:entry level:remote,2mo
+LATOKEN,https://web3.career/ir-partnerships-manager-latoken/22052,Remote,IR & Partnerships Manager,$29k - $108k,sales:non tech:remote,2mo
+OKX,https://web3.career/infrastructure-support-engineer-okx/22051,"Hong Kong,
+Hong Kong",Infrastructure Support Engineer,$90k - $140k,dev:customer support,2mo
+SettleMint,https://web3.career/sales-development-representative-s-d-r-settlemint/22050,Remote,Sales Development Representative (S.D.R),$29k - $108k,sales:non tech:remote,2mo
+Ankr Network,https://web3.career/product-designer-ux-ankrnetwork/22049,Remote,Product Designer - UX,$50k - $135k,design:non tech:remote,2mo
+Ankr Network,https://web3.career/product-marketing-associate-ankrnetwork/22048,"Amsterdam,
+Netherlands",Product Marketing Associate,$80k - $180k,marketing:non tech:solana:ethereum,2mo
+Galaxy Digital Services,https://web3.career/executive-assistant-to-vp-of-engineering-galaxydigitalservices/22047,Remote,Executive Assistant to VP of Engineering,$79k - $200k,executive:remote,2mo
+iVE.ONE,https://web3.career/working-student-intern-in-content-marketing-iveone/22046,"Frankfurt,
+Germany",Working Student/Intern in Content Marketing,$24k - $48k,intern:entry level:marketing:non tech:remote,2mo
+Trace3,https://web3.career/management-consulting-manager-data-strategy-trace3/22045,United States,"Management Consulting, Manager, Data Strategy",$80k - $200k,consulting,2mo
+Finoa GmbH,https://web3.career/summer-internship-m-f-d-finoa/22044,"Berlin,
+Germany",Summer Internship (m/f/d),$24k - $48k,intern:entry level:remote,2mo
+Ankr Network,https://web3.career/staff-engineer-institutional-platform-ankrnetwork/22043,"San Francisco,
+United States",Staff Engineer Institutional Platform,$60k - $180k,dev,2mo
+Dialect,https://web3.career/senior-frontend-software-engineer-web-react-dialect/22042,Remote,"Senior Frontend Software Engineer, Web (React)",$50k - $140k,dev:front end:javascript:react:senior,2mo
+Trace3,https://web3.career/management-consulting-manager-data-strategy-trace3/22041,"Denver,
+United States","Management Consulting, Manager, Data Strategy",$80k - $200k,consulting,2mo
+Sygnum Bank AG,https://web3.career/executive-director-uae-sygnum/22040,"Dubai,
+United Arab Emirates",Executive Director - UAE,$79k - $158k,executive:ethereum,2mo
+IOTA Foundation,https://web3.career/junior-software-developer-remote-iota/22039,Remote,(Junior) Software Developer (Remote),$39k - $56k,remote:dev:junior:entry level:react,2mo
+Crypto.com,https://web3.career/talent-acquisition-manager-call-centers-crypto-com/22038,"Miami,
+United States",Talent Acquisition Manager - Call Centers,$40k - $70k,recruiter:non tech,2mo
+FPT Deutschland GmbH,https://web3.career/business-development-manager-germany-netherlands-uk-denmark-fger/22037,"Essen,
+Germany",Business Development Manager (Germany / Netherlands / UK / Denmark),$29k - $108k,sales:non tech:remote,2mo

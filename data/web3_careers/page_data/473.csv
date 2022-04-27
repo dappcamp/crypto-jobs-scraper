@@ -1,36 +1,47 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Figure,https://web3.career/customer-success-associate-originations-figure/436,"Customer Success Associate, Originations",$40k - $80k,customer support,7mo
-Figure,https://web3.career/customer-success-associate-originations-figure/435,"Customer Success Associate, Originations",$40k - $80k,customer support,7mo
-Figure,https://web3.career/customer-success-associate-originations-figure/434,"Customer Success Associate, Originations",$40k - $80k,customer support,7mo
-Figment,https://web3.career/security-engineer-figment/433,Security Engineer,$95k - $250k,dev:security,7mo
-Figment,https://web3.career/devops-engineer-figment/432,DevOps Engineer,$70k - $180k,devops:dev,7mo
-Figment,https://web3.career/sales-associate-figment/431,Sales Associate,$26k - $140k,sales:non tech,7mo
-Figment,https://web3.career/account-executive-figment/430,Account Executive,$120k - $200k,executive:solana:ethereum,7mo
-Figment,https://web3.career/systems-developer-full-stack-figment/429,Systems Developer (Full Stack),$65k - $180k,dev:full stack:javascript:php,7mo
-Figment,https://web3.career/blockchain-research-analyst-figment/428,Blockchain Research Analyst,$150k - $185k,analyst:blockchain:solana:ethereum,7mo
-Figment,https://web3.career/ruby-rails-developer-figment/427,Ruby / Rails Developer,$32k - $87k,dev:ruby:react:ethereum:javascript,7mo
-Figment,https://web3.career/fullstack-software-engineer-figment/426,Fullstack Software Engineer,$60k - $250k,dev:full stack:ruby,7mo
-Figment,https://web3.career/backend-golang-software-engineer-figment/425,Backend Golang Software Engineer,$33k - $160k,backend:dev:golang,7mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/data-engineer-markets-coindesk/283,"Data Engineer, Markets",,data science:dev:javascript:node,7mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/data-engineer-blockchain-coindesk/282,"Data Engineer, Blockchain",,data science:dev:blockchain:ethereum:javascript,7mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/technical-project-manager-indexes-coindesk/281,"Technical Project Manager, Indexes",$50k - $150k,project manager:non tech,7mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/head-of-business-development-tradeblock-coindesk/280,"Head of Business Development, TradeBlock",$40k - $150k,executive:sales:non tech,7mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/site-reliability-engineer-tradeblock-coindesk/279,"Site Reliability Engineer, TradeBlock",,dev:sys admin:javascript:node,7mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/senior-product-manager-tradeblock-coindesk/278,"Senior Product Manager, TradeBlock",$80k - $150k,product manager:non tech:senior,7mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/security-engineer-coindesk/277,Security Engineer,$130k - $200k,dev:security:javascript:node,7mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/head-of-index-research-tradeblock-coindesk/276,"Head of Index Research, Tradeblock",$70k - $180k,executive,7mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/social-media-editor-coindesk/275,Social Media Editor,$33k - $85k,social media:non tech,7mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/product-manager-ii-coindesk/274,Product Manager II,$69k - $160k,product manager:non tech,7mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/product-manager-i-coindesk/273,Product Manager I,$69k - $160k,product manager:non tech,7mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/talent-guest-booker-coindesk/272,Talent/Guest Booker,$40k - $70k,recruiter:non tech,7mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/markets-reporter-asia-coindesk/271,Markets Reporter - Asia,,,7mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/managing-editor-learn-coindesk/270,"Managing Editor, Learn",,,7mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/managing-editor-business-coindesk/269,"Managing Editor, Business",$56k - $150k,react,7mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/freelance-financial-advisors-writer-coindesk/268,Freelance Financial Advisors Writer,$40k - $150k,finance,7mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/digital-assets-reporter-editor-asia-coindesk/267,Digital Assets Reporter/Editor - Asia,$15k - $150k,finance:ethereum,7mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/crypto-market-analyst-asia-coindesk/266,Crypto Market Analyst - Asia,$20k - $120k,analyst:crypto,7mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/coindesk-regulatory-reporter-india-coindesk/265,CoinDesk Regulatory Reporter – India,,legal:accounting,7mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/coindesk-regulatory-reporter-europe-coindesk/264,"CoinDesk Regulatory Reporter, Europe",,legal:accounting,7mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/head-of-indexes-marketing-coindesk-coindesk/263,"Head of Indexes Marketing, CoinDesk",$70k - $158k,executive:marketing:non tech,7mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/executive-editor-events-programming-coindesk/262,"Executive Editor, Events Programming",$70k - $180k,executive,7mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/future-internships-coindesk/261,Future Internships,,,7mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Celsius,https://web3.career/senior-blockchain-engineer-celsius/959,United States,Senior Blockchain Engineer,$80k - $200k,dev:senior:blockchain:solidity:golang,7mo
+Celsius,https://web3.career/senior-data-engineer-celsius/958,"Austin,
+United States",Senior Data Engineer,$130k - $160k,data science:dev:senior,7mo
+Celsius,https://web3.career/development-lead-celsius/957,Tampa,Development Lead,$60k - $120k,lead:react:react native,7mo
+GSR,https://web3.career/devops-infrastructure-engineer-gsrconsulting/956,"Singapore,
+Singapore",DevOps Infrastructure Engineer,$70k - $180k,devops:dev,7mo
+Web 3.0 Technologies Foundation,https://web3.career/technical-grants-evaluator-web3/955,"Zug,
+Switzerland",Technical Grants Evaluator,$60k - $147k,javascript:rust,7mo
+Uphold,https://web3.career/legal-admin-uphold/954,"New York,
+United States",Legal Admin,$24k - $140k,legal,7mo
+Web 3.0 Technologies Foundation,https://web3.career/security-operations-engineer-web3/953,"Zug,
+Switzerland",Security Operations Engineer,,dev:operations:security:rust,7mo
+Celsius,https://web3.career/senior-full-stack-engineer-celsius/952,United States,Senior Full-Stack Engineer,$70k - $180k,dev:full stack:senior:solidity:ethereum,7mo
+AIU,https://web3.career/faculty-business-administration-supply-chain-management-aiu/951,Kuwait,"Faculty, Business Administration – Supply Chain Management",$60k - $200k,operations,7mo
+Celsius,https://web3.career/staff-blockchain-engineer-celsius/950,United States,Staff Blockchain Engineer,$52k - $160k,dev:blockchain:solidity:golang:rust,7mo
+Celsius,https://web3.career/senior-transaction-monitoring-analyst-aml-celsius/949,"Atlanta,
+United States","Senior Transaction Monitoring Analyst, AML",$150k - $185k,analyst:senior,7mo
+Lukka,https://web3.career/engineer-solidity-lukka/948,Remote,Engineer (Solidity),$67k - $200k,dev:solidity:react:node:java,7mo
+Bitkub,https://web3.career/product-owner-bitkub/947,"Bangkok,
+Thailand",Product Owner,$80k - $150k,product manager:non tech:ethereum,7mo
+Celsius,https://web3.career/senior-defi-researcher-celsius/946,United States,Senior DeFi Researcher,$140k - $250k,senior:defi:solidity:ethereum,7mo
+Cinneamhain Ventures,https://web3.career/senior-rust-developer-solana-cehv/945,United States,Senior Rust Developer (Solana),$120k - $210k,dev:rust:senior:solana,7mo
+Uphold,https://web3.career/cryptocurrency-investigations-analyst-uphold/944,"New York,
+United States",Cryptocurrency Investigations Analyst,$20k - $120k,analyst:crypto,7mo
+zipmex,https://web3.career/associate-creative-art-director-zipmex/943,"Bangkok,
+Thailand",Associate Creative Art Director,$70k - $180k,executive,7mo
+Celsius,https://web3.career/staff-solidity-engineer-celsius/942,United States,Staff Solidity Engineer,$63k - $160k,dev:solidity:ethereum:javascript,7mo
+Bitkub,https://web3.career/project-manager-bitkub/941,"Bangkok,
+Thailand",Project Manager,$80k - $150k,project manager:non tech:ethereum:node:php,7mo
+FINNOMENA,https://web3.career/senior-content-developer-finnomena/940,Thailand,Senior Content Developer,$80k - $200k,dev:senior,7mo
+Bitkub,https://web3.career/head-of-people-growth-bitkub/939,"Bangkok,
+Thailand",Head of People Growth,$70k - $158k,executive:marketing:non tech,7mo
+Celsius,https://web3.career/senior-solidity-engineer-celsius/938,United States,Senior Solidity Engineer,$80k - $200k,dev:senior:solidity:ethereum:javascript,7mo
+cLabs,https://web3.career/ethereum-l1-blockchain-engineer-clabs/936,Remote,Ethereum L1 Blockchain Engineer,$33k - $120k,dev:blockchain:ethereum:remote,7mo
+Compound,https://web3.career/rust-engineer-compound-2/935,Remote,Rust Engineer,$80k - $200k,dev:rust:solidity:ethereum:remote,7mo
+OpenSea,https://web3.career/product-manager-opensea/934,Remote,Product Manager,$115k - $175k,product manager:non tech:remote,7mo
+OpenSea,https://web3.career/product-designer-opensea/933,Remote,Product Designer,$50k - $135k,design:non tech:remote,7mo
+OpenSea,https://web3.career/senior-recruiter-opensea/932,Remote,Senior Recruiter,$40k - $70k,recruiter:non tech:senior:remote,7mo
+OpenSea,https://web3.career/lead-sourcer-opensea/931,Remote,Lead Sourcer,$40k - $70k,recruiter:non tech:lead:remote,7mo
+OpenSea,https://web3.career/head-of-marketing-opensea/930,Remote,Head of Marketing,$70k - $158k,executive:marketing:non tech:remote,7mo
+OpenSea,https://web3.career/director-legal-opensea/929,Remote,"Director, Legal",,executive:legal:remote,7mo
+OpenSea,https://web3.career/head-of-finance-opensea/928,Remote,Head of Finance,$40k - $225k,executive:finance:remote,7mo
+OpenSea,https://web3.career/controller-opensea/927,Remote,Controller,,legal:remote,7mo
+OpenSea,https://web3.career/software-development-engineer-in-test-opensea/926,Remote,Software Development Engineer in Test,$65k - $110k,quality assurance:dev:nft:javascript:java,7mo
+OpenSea,https://web3.career/it-manager-opensea/925,Remote,IT Manager,$79k - $200k,executive:remote,7mo
+OpenSea,https://web3.career/infrastructure-engineer-opensea/924,Remote,Infrastructure Engineer,$65k - $180k,dev:remote,7mo

@@ -1,36 +1,47 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Optimism PBC,https://web3.career/integrations-engineer-optimism/8932,Integrations Engineer,$60k - $150k,dev:ethereum:remote,5mo
-Optimism PBC,https://web3.career/community-manager-optimism/8931,Community Manager,$15k - $30k,community manager:non tech:ethereum:remote,5mo
-Optimism PBC,https://web3.career/senior-software-engineer-protocol-solidity-optimism/8930,"Senior Software Engineer, Protocol (Solidity)",$80k - $200k,dev:senior:solidity:ethereum:remote,5mo
-Optimism PBC,https://web3.career/senior-software-engineer-distributed-systems-go-geth-optimism/8929,"Senior Software Engineer, Distributed Systems (Go/Geth)",$65k - $150k,dev:golang:senior:ethereum:remote,5mo
-Optimism PBC,https://web3.career/senior-infrastructure-engineer-devops-optimism/8928,"Senior Infrastructure Engineer, DevOps",$120k - $200k,devops:dev:senior:ethereum:remote,5mo
-Optimism PBC,https://web3.career/senior-front-end-engineer-optimism/8927,Senior Front End Engineer,$70k - $190k,dev:front end:senior:ethereum:remote,5mo
-Showtime,https://web3.career/senior-smart-contract-engineer-showtime/8926,Senior Smart Contract Engineer,$120k - $250k,dev:senior:smart contract:nft,5mo
-Showtime,https://web3.career/senior-mobile-engineer-react-native-showtime/8925,Senior Mobile Engineer (React Native),$65k - $200k,dev:mobile:react native:javascript:react,5mo
-Showtime,https://web3.career/senior-frontend-engineer-react-showtime/8924,Senior Frontend Engineer (React),$50k - $140k,dev:front end:javascript:react:senior,5mo
-Showtime,https://web3.career/senior-backend-engineer-showtime/8923,Senior Backend Engineer,$70k - $200k,backend:dev:senior:nft,5mo
-Coinsquare,https://web3.career/client-support-representative-coinsquare/8915,Client Support Representative,,customer support:ethereum:remote,5mo
-Binance,https://web3.career/trading-support-specialist-binance/8914,Trading Support Specialist,$40k - $80k,customer support,5mo
-Kraken Digital Asset Exchange,https://web3.career/business-onboarding-associate-kraken/8913,Business Onboarding Associate,$56k - $160k,remote,5mo
-Stripe,https://web3.career/product-finance-strategy-crypto-stripe/8910,"Product Finance & Strategy, Crypto",,finance:crypto:remote,5mo
-Stripe,https://web3.career/us-crypto-and-financial-regulatory-policy-lead-stripe/8909,US Crypto and Financial Regulatory Policy Lead,,legal:finance:lead:crypto:remote,5mo
-Stripe,https://web3.career/product-finance-strategy-crypto-stripe/8908,"Product Finance & Strategy, Crypto",,finance:crypto:remote,5mo
-Uphold,https://web3.career/senior-privacy-program-manager-uphold/8904,Senior Privacy Program Manager,$46k - $110k,executive:senior,5mo
-PowerTrade,https://web3.career/senior-growth-marketer-powertrade/8902,Senior Growth Marketer,$46k - $109k,marketing:non tech:senior:remote,5mo
-Galaxy Digital Services,https://web3.career/mifi-associate-galaxydigitalservices/8901,MiFi Associate,,,5mo
-PowerTrade,https://web3.career/influencer-marketing-manager-powertrade/8900,Influencer Marketing Manager,$25k - $120k,marketing:non tech:remote,5mo
-PowerTrade,https://web3.career/trading-content-creator-powertrade/8899,Trading Content Creator,$56k - $160k,remote,5mo
-PowerTrade,https://web3.career/product-marketing-powertrade/8898,Product Marketing,$25k - $120k,marketing:non tech:remote,5mo
-PowerTrade,https://web3.career/product-designer-web-powertrade/8897,Product Designer (web),$50k - $135k,design:non tech:remote,5mo
-Bolero Music,https://web3.career/lead-developer-js-web3-bolero-music/8895,Lead Developer (JS & Web3),,javascript:dev:lead:web3js:react,5mo
-Radix DLT,https://web3.career/systems-software-engineer-compiler-virtual-machines-radixdlt/2462,Systems Software Engineer Compiler Virtual Machines,$60k - $150k,dev:rust:remote,5mo
-AML Software,https://web3.career/full-stack-developer-amlsoftware/2461,Full Stack Developer,$50k,dev:full stack:react:vue:remote,5mo
-kollect.me,https://web3.career/cto-head-of-engineering-kollect-me/2460,CTO Head of Engineering,$45k,executive:react:nft:ruby:node,5mo
-AML Software,https://web3.career/full-stack-developer-aml-software/2459,Full Stack Developer,$100k - $150k,dev:full stack:react:vue,5mo
-kollect.me,https://web3.career/cto-head-of-engineering-kollect-me/2458,CTO Head of Engineering,$90k - $120k,executive:react:nft:ruby:node,5mo
-Coinbase,https://web3.career/content-strategist-coinbase/2457,Content Strategist,$56k - $160k,remote,5mo
-Coinbase,https://web3.career/community-operations-incidents-and-escalations-analyst-customer-support-coinbase/2456,"Community Operations Incidents and Escalations Analyst, Customer Support",,analyst:community manager:non tech:customer support:operations,5mo
-Kraken Digital Asset Exchange,https://web3.career/frontend-engineer-react-cryptowatch-kraken/2455,"Frontend Engineer - React, Cryptowatch",$50k - $140k,dev:front end:javascript:react:remote,5mo
-Chainalysis,https://web3.career/senior-solutions-architect-chainalysis/2454,Senior Solutions Architect,$80k,architecture:senior,5mo
-BitGo,https://web3.career/offensive-security-engineer-bitgo/2453,Offensive Security Engineer,,dev:security:ruby,5mo
-0x,https://web3.career/software-engineer-matcha-0x/2452,Software Engineer — Matcha,$57k - $140k,dev:react:ethereum:javascript:nextjs,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+CoinGecko,https://web3.career/internship-human-resources-coin-gecko/9441,"Selangor,
+Malaysia",Internship (Human Resources),,intern:entry level,6mo
+CoinGecko,https://web3.career/internship-digital-marketing-coin-gecko/9440,"Selangor,
+Malaysia",Internship (Digital Marketing),$24k - $48k,intern:entry level:marketing:non tech,6mo
+CoinGecko,https://web3.career/qa-engineer-coin-gecko/9439,Remote,QA Engineer,$50k - $150k,dev:quality assurance:react:javascript:ruby,6mo
+cLabs,https://web3.career/developer-relations-engineer-clabs/9438,Remote,Developer Relations Engineer,,customer support:dev:remote,6mo
+cLabs,https://web3.career/software-engineer-applications-clabs/9437,Remote,"Software Engineer, Applications",$65k - $180k,dev:remote,6mo
+cLabs,https://web3.career/smart-contracts-engineer-clabs/9436,Remote,Smart Contracts Engineer,$80k - $200k,dev:smart contract:remote,6mo
+cLabs,https://web3.career/senior-rust-engineer-clabs/9435,Remote,Senior Rust Engineer,$120k - $210k,dev:rust:senior:remote,6mo
+cLabs,https://web3.career/senior-distributed-systems-engineer-clabs/9434,Remote,Senior Distributed Systems Engineer,$150k - $200k,dev:senior:sys admin:ethereum:node,6mo
+cLabs,https://web3.career/full-stack-engineer-clabs/9433,Remote,Full-Stack Engineer,$70k - $200k,dev:full stack:remote,6mo
+cLabs,https://web3.career/data-engineer-clabs/9432,Remote,Data Engineer,,data science:dev:remote,6mo
+cLabs,https://web3.career/core-security-engineer-clabs/9431,Remote,Core Security Engineer,$95k - $250k,dev:security:remote,6mo
+cLabs,https://web3.career/people-operations-intern-working-student-clabs/9430,Remote,People Operations Intern / Working Student,,intern:entry level:operations:remote,6mo
+cLabs,https://web3.career/investment-analyst-partner-celo-foundation-clabs/9429,Remote,"Investment Analyst Partner, Celo Foundation",,analyst:finance:remote,6mo
+cLabs,https://web3.career/head-of-marketing-celo-foundation-clabs/9428,Remote,"Head of Marketing, Celo Foundation",$70k - $158k,executive:marketing:non tech:remote,6mo
+cLabs,https://web3.career/head-of-government-relations-clabs/9427,Remote,Head of Government Relations,$79k - $200k,executive:remote,6mo
+cLabs,https://web3.career/executive-assistant-clabs/9426,"San Francisco,
+United States",Executive Assistant,$70k - $180k,executive,6mo
+cLabs,https://web3.career/developer-communications-lead-celo-foundation-clabs/9425,"San Francisco,
+United States","Developer Communications Lead, Celo Foundation",$100k - $200k,dev:lead,6mo
+cLabs,https://web3.career/corporate-communications-lead-celo-foundation-clabs/9424,Remote,"Corporate Communications Lead, Celo Foundation",$95k - $200k,lead:remote,6mo
+cLabs,https://web3.career/communications-coordinator-celo-foundation-clabs/9423,Remote,"Communications Coordinator, Celo Foundation",$56k - $160k,remote,6mo
+cLabs,https://web3.career/asia-ecosystem-lead-clabs/9422,"Singapore,
+Singapore",Asia Ecosystem Lead,$60k - $200k,lead,6mo
+cLabs,https://web3.career/apac-communications-partner-celo-foundation-clabs/9421,"Singapore,
+Singapore","APAC Communications Partner, Celo Foundation",,,6mo
+cLabs,https://web3.career/africa-ecosystem-lead-clabs/9420,Remote,Africa Ecosystem Lead,$95k - $200k,lead:remote,6mo
+cLabs,https://web3.career/technical-recruiter-celo-foundation-clabs/9419,Remote,"Technical Recruiter, Celo Foundation",,recruiter:non tech:remote,6mo
+cLabs,https://web3.career/community-manager-clabs/9418,"San Francisco,
+United States",Community Manager,$40k - $100k,community manager:non tech,6mo
+cLabs,https://web3.career/partner-accounting-clabs/9417,"Berlin,
+Germany","Partner, Accounting",$25k - $150k,accounting,6mo
+Chronicled.com,https://web3.career/technical-recruiting-sourcer-chronicled-2/9416,Remote,Technical Recruiting Sourcer,,recruiter:non tech:remote,6mo
+Chronicled.com,https://web3.career/technical-recruiter-chronicled-2/9415,Remote,Technical Recruiter,,recruiter:non tech:remote,6mo
+Chronicled.com,https://web3.career/technical-recruiter-chronicled-2/9414,"San Francisco,
+United States",Technical Recruiter,$40k - $70k,recruiter:non tech,6mo
+Chronicled.com,https://web3.career/vice-president-product-chronicled-2/9413,"San Francisco,
+United States","Vice President, Product",,,6mo
+Chronicled.com,https://web3.career/software-engineer-fullstack-chronicled-2/9412,Remote,"Software Engineer, Fullstack",$70k - $200k,dev:full stack:remote,6mo
+Chronicled.com,https://web3.career/senior-software-engineer-fullstack-chronicled-2/9411,Remote,"Senior Software Engineer, Fullstack",$70k - $180k,dev:full stack:senior:remote,6mo
+Chronicled.com,https://web3.career/senior-software-engineer-fullstack-chronicled-2/9410,Remote,"Senior Software Engineer, Fullstack",$70k - $180k,dev:full stack:senior:remote,6mo
+Chronicled.com,https://web3.career/senior-software-engineer-fullstack-chronicled-2/9409,"Vancouver,
+Canada","Senior Software Engineer, Fullstack",$70k - $180k,dev:full stack:senior,6mo
+Chronicled.com,https://web3.career/senior-software-engineer-fullstack-chronicled-2/9408,Remote,"Senior Software Engineer, Fullstack",$70k - $180k,dev:full stack:senior:remote,6mo
+Chronicled.com,https://web3.career/senior-software-engineer-cryptography-chronicled-2/9407,Remote,"Senior Software Engineer, Cryptography",$85k - $200k,dev:senior:remote,6mo

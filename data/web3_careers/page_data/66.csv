@@ -1,36 +1,61 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Grayscale Investments,https://web3.career/analyst-multimedia-grayscaleinvestments/23920,"Analyst, Multimedia",$40k - $120k,analyst,29d
-Gemini,https://web3.career/senior-data-engineer-gemini/23919,Senior Data Engineer,$130k - $160k,data science:dev:senior:javascript,29d
-Gemini,https://web3.career/senior-cloud-engineer-for-gemini-prime-gemini/23918,Senior Cloud Engineer for Gemini Prime,,cloud:dev:senior:ethereum:java,29d
-Uniswap Labs,https://web3.career/community-uniswap/23917,Community,,community manager:non tech:ethereum,29d
-Uniswap Labs,https://web3.career/hr-specialist-people-operations-manager-uniswap/23916,HR Specialist (People Operations Manager),,hr:non tech:operations:ethereum,29d
-Uniswap Labs,https://web3.career/hr-business-partner-uniswap/23915,HR Business Partner,,hr:non tech:ethereum,29d
-Satoshis Games,https://web3.career/game-concept-artist-satoshis-games/23914,Game Concept Artist,$28k - $35k,game dev,29d
-micobo GmbH,https://web3.career/cloud-engineer-all-genders-remote-micobo/23913,Cloud Engineer (all genders) - remote,,remote:cloud:dev:node:golang,29d
-Reddit,https://web3.career/senior-backend-engineer-nft-platform-reddit/23912,"Senior Backend Engineer, NFT Platform",$70k - $200k,backend:dev:senior:nft,29d
-Papers AG,https://web3.career/mobile-developer-100-papers/23911,Mobile Developer 100%,$130k - $200k,dev:mobile:solidity:ethereum:javascript,29d
-Web3Auth,https://web3.career/devops-engineer-torus-2/23910,Devops Engineer,,devops:dev:ruby,29d
-Tatum,https://web3.career/devops-engineer-for-blockchain-platform-tatum-6/23909,DevOps Engineer for Blockchain Platform,$59k - $80k,devops:dev:blockchain:node,29d
-Ledger,https://web3.career/crm-manager-ledger/23906,CRM Manager,,crm,29d
-Point72,https://web3.career/head-of-digital-assets-strategic-implementation-point72/23905,Head of Digital Assets Strategic Implementation,$90k - $200k,executive:finance,29d
-Ledger,https://web3.career/front-end-software-engineer-ledger-live-ledger/23904,Front-End Software Engineer - Ledger Live,$50k - $144k,dev:front end:react:react native,29d
-SuperLayer,https://web3.career/head-of-integrated-marketing-rly-network-association-superlayer/23903,Head of Integrated Marketing - RLY Network Association,$70k - $158k,executive:marketing:non tech:remote,29d
-Ledger,https://web3.career/key-account-manager-nft-art-lifestyle-ledger/23902,"Key Account Manager NFT, Art & Lifestyle",,account manager:nft,29d
-Reddit,https://web3.career/senior-backend-engineer-nft-platform-reddit/23901,"Senior Backend Engineer, NFT Platform",$70k - $200k,backend:dev:senior:nft,30d
-district0x.io,https://web3.career/solidity-developer-district0x-io/23900,Solidity Developer,$110k - $130k,dev:solidity,30d
-Ripple,https://web3.career/director-joint-venture-partnership-ripple/23899,"Director, Joint Venture Partnership",$40k - $150k,sales:non tech:executive,30d
-RECUR,https://web3.career/associate-marketing-program-manager-sports-recur/23898,Associate Marketing Program Manager - Sports,$70k - $158k,marketing:non tech:executive:remote:ethereum,30d
-Binance,https://web3.career/bnb-chain-community-manager-france-binance/23896,BNB Chain Community Manager (France),$40k - $100k,community manager:non tech,30d
-CANDY,https://web3.career/controller-candy/23895,Controller,,legal:nft,30d
-LooksRare,https://web3.career/backend-engineer-indexer-looksrare/23894,Backend engineer (Indexer),,backend:dev:remote,30d
-LooksRare,https://web3.career/frontend-engineer-looksrare/23893,Frontend Engineer,,dev:front end:remote,30d
-Reveel,https://web3.career/senior-dev-web3-full-stack-reveelmusic/23892,Senior Dev Web3/Full Stack,$120k - $200k,dev:full stack:senior:nft,30d
-Bitfinex,https://web3.career/blockchain-integration-specialist-remote-bitfinex/23891,Blockchain Integration Specialist (Remote),$60k - $120k,remote:blockchain:solidity:ethereum:javascript,30d
-LooksRare,https://web3.career/backend-engineer-api-focus-looksrare/23890,Backend Engineer (API Focus),,api:backend:dev:remote,30d
-Binance,https://web3.career/strategy-operations-manager-binance/23889,Strategy & Operations Manager,$60k - $200k,operations,30d
-Binance,https://web3.career/manager-senior-manager-strategic-finance-binance/23888,"Manager/ Senior Manager, Strategic Finance",$50k - $150k,finance:senior,30d
-SuperLayer,https://web3.career/head-of-integrated-marketing-superlayer/23887,Head of Integrated Marketing,$70k - $158k,executive:marketing:non tech:remote,30d
-RECUR,https://web3.career/office-coordinator-recur/23886,Office Coordinator,$79k - $158k,remote:ethereum:nft,30d
-DFINITY,https://web3.career/software-engineer-financial-integrations-dfinity/23885,"Software Engineer, Financial Integrations",$15k - $26k,dev:finance:ethereum:rust,30d
-DFINITY,https://web3.career/software-engineer-financial-integrations-dfinity/23884,"Software Engineer, Financial Integrations",$15k - $26k,dev:finance:ethereum:rust,30d
-Binance,https://web3.career/leadership-executive-recruiter-latam-binance/23882,Leadership/Executive Recruiter (LatAm),,executive:recruiter:non tech,30d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+CR3 Labs,https://web3.career/software-engineer-blockchain-data-cr3labs/24524,United States,"Software Engineer, Blockchain Data",$110k - $160k,dev:blockchain:solana:nft:node,28d
+Mythical Games,https://web3.career/senior-software-development-engineer-in-test-platform-mythicalgames/24523,"Los Angeles,
+United States",Senior Software Development Engineer in Test - Platform,$30k - $50k,quality assurance:dev:senior,28d
+Ripple,https://web3.career/developer-advocate-ripplex-developer-platform-ripple/24522,"San Francisco,
+United States",Developer Advocate (RippleX Developer Platform),$60k - $180k,dev,28d
+Mythical Games,https://web3.career/development-director-core-mythicalgames/24521,"Los Angeles,
+United States",Development Director - Core,,executive:solidity:java,28d
+esolidar,https://web3.career/blockchain-lead-esolidar/24520,Portugal,Blockchain Lead,$0k,lead:blockchain:php,28d
+Voodoo,https://web3.career/treasury-assistant-voodoo/24518,"Paris,
+France",Treasury Assistant,,,28d
+RECUR,https://web3.career/senior-software-engineer-platform-engineering-recur/24517,"Boston,
+United States",Senior Software Engineer - Platform Engineering,$90k - $200k,dev:senior:nft:javascript:node,28d
+Chain,https://web3.career/web3-solutions-architect-chain/24516,Remote,Web3 Solutions Architect,$67k - $300k,architecture:remote,28d
+Wirex Limited,https://web3.career/senior-project-coordinator-wirexlimited/24515,"Lviv,
+Ukraine",Senior Project Coordinator,$78k - $200k,senior,28d
+Bento Box Entertainment,https://web3.career/art-director-nft-projects-bentoboxent/24514,"North Hollywood, CA",Art Director - NFT Projects,$63k - $180k,executive:nft,28d
+Binance,https://web3.career/senior-web-mobile-product-manager-binance/24511,Asia,Senior Web/Mobile Product Manager,,mobile:product manager:non tech:senior,28d
+"XMTP, Inc.",https://web3.career/developer-advocate-lead-xmtp/24510,Remote,Developer Advocate Lead,$100k - $200k,dev:lead:remote,28d
+RECUR,https://web3.career/community-operations-team-lead-apac-recur/24509,"Manila,
+Philippines",Community Operations Team Lead (APAC),$40k - $65k,community manager:non tech:lead:operations:ethereum,28d
+RECUR,https://web3.career/community-operations-team-lead-apac-recur/24508,"Manila,
+Philippines",Community Operations Team Lead (APAC),$40k - $65k,community manager:non tech:lead:operations:ethereum,28d
+RECUR,https://web3.career/community-operations-team-lead-apac-recur/24507,"Manila,
+Philippines",Community Operations Team Lead (APAC),$40k - $65k,community manager:non tech:lead:operations:ethereum,28d
+RECUR,https://web3.career/community-manager-engagement-apac-recur/24506,"Seoul,
+South Korea",Community Manager - Engagement (APAC),$15k - $30k,community manager:non tech:ethereum:nft,28d
+Foxit Software,https://web3.career/senior-devops-engineer-w-m-d-emea-foxitsoftware/24505,"Berlin,
+Germany",Senior DevOps Engineer (w/m/d) EMEA,$120k - $200k,devops:dev:senior,28d
+OKX,https://web3.career/senior-hr-business-partner-okx/24504,"Hong Kong,
+Hong Kong",Senior HR Business Partner,,hr:non tech:senior,28d
+"Palm NFT Studio, Inc.",https://web3.career/senior-brand-marketing-lead-palmnftstudioinc/24503,"New York,
+United States",Senior Brand Marketing Lead,$50k - $120k,marketing:non tech:lead:senior:ethereum,28d
+"Palm NFT Studio, Inc.",https://web3.career/qa-engineer-palmnftstudioinc/24502,"Barcelona,
+Spain",QA Engineer,$65k - $150k,dev:quality assurance:ethereum:nft:java,28d
+Legendary Play GmbH,https://web3.career/product-owner-f-m-d-on-site-hybrid-remote-legendary-play-gmbh/24501,"Berlin,
+Germany",Product Owner - (f/m/d) (on-site / hybrid remote),,product manager:non tech:remote:game dev:mobile,28d
+Aldrin,https://web3.career/qa-engineer-web3-remote-aldrin/24500,Remote,QA Engineer Web3 (Remote),,remote:dev:quality assurance:solana,28d
+Set Labs,https://web3.career/content-and-social-media-manager-setlabs/24499,"San Francisco,
+United States",Content and Social Media Manager,,social media:non tech:ethereum,28d
+Binance,https://web3.career/complaint-management-manager-binance/24498,Asia,Complaint Management Manager,,,28d
+Analog,https://web3.career/product-manager-web3-analog/24497,"San Francisco,
+United States",Product Manager - Web3,$69k - $160k,product manager:non tech,28d
+Chainalysis,https://web3.career/sales-development-representative-australia-chainalysis/24496,"Melbourne,
+Australia","Sales Development Representative, Australia",$26k - $140k,sales:non tech,28d
+Binance,https://web3.career/customer-service-representative-spanish-english-binance/24495,"Salvador,
+Brazil",Customer Service Representative (Spanish/English),$40k - $80k,customer support,28d
+Aspire,https://web3.career/business-development-executive-crypto-web3-aspire/24494,"Singapore,
+Singapore",Business Development Executive (Crypto/Web3),$40k - $150k,sales:non tech:executive:crypto,28d
+BlockFi,https://web3.career/director-of-content-marketing-blockfi/24492,"San Francisco,
+United States",Director of Content Marketing,$70k - $158k,executive:marketing:non tech,28d
+Daolens,https://web3.career/sales-development-representative-dao-lens/24491,"Bangalore,
+India",Sales Development Representative,$26k - $140k,sales:non tech,28d
+BlockFi,https://web3.career/associate-us-structuring-blockfi/24488,"New York,
+United States","Associate, US Structuring",,,28d
+RDX Works,https://web3.career/cyber-security-analyst-rdx-works/24487,Remote,Cyber Security Analyst,$60k - $130k,analyst:security,28d
+Okcoin,https://web3.career/team-lead-customer-service-okcoin/24485,"Dublin,
+Ireland","Team Lead, Customer Service",$25k - $35k,customer support:lead,28d
+Okcoin,https://web3.career/escalation-specialist-customer-service-okcoin/24484,"Dublin,
+Ireland",Escalation Specialist - Customer Service,$40k - $80k,customer support,28d
+Parallel Finance,https://web3.career/head-of-operations-parallel/24480,Remote,Head of Operations,,executive:operations:remote,28d

@@ -1,36 +1,56 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Change,https://web3.career/compliance-officer-changeinvest/9396,Compliance Officer,,compliance,5mo
-Change,https://web3.career/card-product-manager-changeinvest/9395,Card Product Manager,$69k - $160k,product manager:non tech,5mo
-Change,https://web3.career/assets-product-manager-changeinvest/9394,Assets Product Manager,$69k - $160k,product manager:non tech,5mo
-Change,https://web3.career/senior-technical-recruiter-changeinvest/9393,Senior Technical Recruiter,$40k - $70k,recruiter:non tech:senior,5mo
-Change,https://web3.career/recruiter-changeinvest/9392,Recruiter,$40k - $70k,recruiter:non tech,5mo
-Change,https://web3.career/people-and-culture-manager-changeinvest/9391,People and Culture Manager,,,5mo
-Change,https://web3.career/front-desk-and-office-admin-changeinvest/9390,Front Desk and Office Admin,,,5mo
-Change,https://web3.career/marketing-manager-spanish-market-changeinvest/9389,Marketing Manager (Spanish Market),$25k - $120k,marketing:non tech:remote,5mo
-Change,https://web3.career/communications-coordinator-changeinvest/9388,Communications Coordinator,,,5mo
-Change,https://web3.career/aso-manager-changeinvest/9387,ASO Manager,,,5mo
-Change,https://web3.career/senior-treasury-operations-specialist-changeinvest/9386,Senior Treasury Operations Specialist,,operations:senior,5mo
-Change,https://web3.career/junior-dealer-night-shift-only-changeinvest/9385,Junior Dealer (Night Shift Only),$12k - $120k,junior:entry level,5mo
-Change,https://web3.career/kyc-operations-specialist-changeinvest/9384,KYC/Operations Specialist,,kyc:operations,5mo
-Change,https://web3.career/customer-support-verification-specialist-evening-shift-changeinvest/9383,Customer Support/Verification Specialist - Evening shift,$40k - $80k,customer support,5mo
-Change,https://web3.career/customer-support-specialist-spanish-language-changeinvest/9382,Customer Support Specialist -Spanish Language,$40k - $80k,customer support,5mo
-Change,https://web3.career/customer-support-specialist-estonian-language-changeinvest/9381,Customer Support Specialist - Estonian Language,$40k - $80k,customer support,5mo
-Change,https://web3.career/customer-support-specialist-changeinvest/9380,Customer Support Specialist,$40k - $80k,customer support,5mo
-Chainlink Labs,https://web3.career/senior-product-manager-randomness-vrf-chainlink/9379,"Senior Product Manager, Randomness/VRF",$80k - $150k,product manager:non tech:senior:solidity:golang,5mo
-Chainlink Labs,https://web3.career/senior-product-manager-chainlink/9378,Senior Product Manager,$80k - $150k,product manager:non tech:senior:remote,5mo
-Chainlink Labs,https://web3.career/product-manager-keepers-dev-ops-chainlink/9377,Product Manager - Keepers/Dev-Ops,$135k - $175k,dev:product manager:non tech:remote,5mo
-Chainlink Labs,https://web3.career/principal-product-manager-market-data-chainlink/9376,"Principal Product Manager, Market Data",$135k - $170k,executive:product manager:non tech:remote,5mo
-Chainlink Labs,https://web3.career/no-vacancy-for-you-submit-your-cv-here-chainlink/9375,No vacancy for you? Submit your CV here,$56k - $160k,remote,5mo
-Chainlink Labs,https://web3.career/university-recruiter-chainlink/9374,University Recruiter,,recruiter:non tech:remote,5mo
-Chainlink Labs,https://web3.career/technical-recruiter-chainlink/9373,Technical Recruiter,,recruiter:non tech:remote,5mo
-Chainlink Labs,https://web3.career/senior-recruiter-chainlink/9372,Senior Recruiter,$40k - $70k,recruiter:non tech:senior:remote,5mo
-Chainlink Labs,https://web3.career/senior-people-business-partner-chainlink/9371,Senior People Business Partner,$80k - $200k,senior:remote,5mo
-Chainlink Labs,https://web3.career/senior-manager-business-operations-product-engineering-chainlink/9370,"Senior Manager, Business Operations - Product/Engineering",,operations:senior:remote,5mo
-Chainlink Labs,https://web3.career/senior-manager-business-operations-marketing-chainlink/9369,"Senior Manager, Business Operations - Marketing",,marketing:non tech:operations:senior:remote,5mo
-Chainlink Labs,https://web3.career/senior-manager-business-operations-go-to-market-chainlink/9368,"Senior Manager, Business Operations - Go to Market",,golang:operations:senior:remote,5mo
-Chainlink Labs,https://web3.career/senior-manager-business-operations-corporate-chainlink/9367,"Senior Manager, Business Operations - Corporate",,operations:senior:remote,5mo
-Chainlink Labs,https://web3.career/recruitment-coordinator-chainlink/9366,Recruitment Coordinator,,recruiter:non tech:remote,5mo
-Chainlink Labs,https://web3.career/people-specialist-chainlink/9365,People Specialist,$56k - $160k,remote,5mo
-Chainlink Labs,https://web3.career/people-operations-manager-chainlink/9364,People Operations Manager,$80k - $110k,operations:remote,5mo
-Chainlink Labs,https://web3.career/legal-counsel-chainlink/9363,Legal Counsel,,legal:remote,5mo
-Chainlink Labs,https://web3.career/hr-project-manager-chainlink/9362,HR Project Manager,,hr:non tech:project manager:remote,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Amun 21Shares,https://web3.career/index-methodologist-amun/9907,"New York,
+United States",Index Methodologist,,,6mo
+Amun 21Shares,https://web3.career/data-engineer-amun/9906,,Data Engineer,,data science:dev:react:node:scala,6mo
+0x,https://web3.career/engineering-manager-matcha-0x/9905,"San Francisco,
+United States",Engineering Manager — Matcha,$79k - $158k,executive:ethereum,6mo
+0x,https://web3.career/data-engineer-0x/9904,"San Francisco,
+United States",Data Engineer,,data science:dev:ethereum:node:rust,6mo
+Fuel Labs,https://web3.career/junior-software-engineer-rust-sdk-fuellabs/9902,Remote,Junior Software Engineer [Rust - SDK],$45k - $180k,dev:junior:entry level:rust:remote,6mo
+Gemini,https://web3.career/data-science-leader-gemini/9901,Remote,Data Science Leader,$50k - $120k,data science:lead:remote,6mo
+Fuel Labs,https://web3.career/compiler-language-engineer-rust-fuellabs/9900,Remote,Compiler/Language Engineer [Rust],$80k - $200k,dev:rust:solidity:golang:remote,6mo
+Reddit,https://web3.career/senior-android-engineer-nft-platform-reddit/9899,"San Francisco,
+United States","Senior Android Engineer, NFT Platform",,android:mobile:dev:senior:nft,6mo
+GSR,https://web3.career/information-security-risk-and-compliance-specialist-london-gsr/9898,"London,
+United Kingdom",Information Security Risk and Compliance Specialist - London,,compliance:security,6mo
+PowerTrade,https://web3.career/head-of-compliance-powertrade/9897,Remote,Head of Compliance,,compliance:executive:remote,6mo
+Immutable,https://web3.career/product-manager-monetisation-immutable/9896,Remote,Product Manager (Monetisation),$115k - $175k,product manager:non tech:remote,6mo
+Akash Network,https://web3.career/engineering-manager-akashnetwork/9895,Remote,Engineering Manager,$79k - $200k,executive:remote,6mo
+Zerion,https://web3.career/senior-android-engineer-zerion/9894,Remote,🤖 Senior Android Engineer,,android:mobile:dev:senior:remote,6mo
+Zerion,https://web3.career/senior-backend-engineer-zerion/9893,Remote,🐍 Senior Backend Engineer,$70k - $200k,backend:dev:senior:remote,6mo
+Wintermute,https://web3.career/senior-algo-trading-quant-wintermute-trading/9892,"London,
+United Kingdom",Senior Algo Trading Quant,$78k - $200k,senior,6mo
+Wintermute,https://web3.career/algorithmic-trader-graduate-2022-wintermute-trading/9891,"Singapore,
+Singapore",Algorithmic Trader Graduate 2022,,intern:entry level:trader,6mo
+Wintermute,https://web3.career/algorithmic-trader-graduate-2022-wintermute-trading/9890,"London,
+United Kingdom",Algorithmic Trader Graduate 2022,,intern:entry level:trader,6mo
+Wintermute,https://web3.career/algorithmic-trader-wintermute-trading/9889,"Singapore,
+Singapore",Algorithmic Trader,$31k - $37k,trader,6mo
+Wintermute,https://web3.career/algorithmic-trader-wintermute-trading/9888,"London,
+United Kingdom",Algorithmic Trader,$31k - $37k,trader,6mo
+Wintermute,https://web3.career/algo-trading-developer-intern-2022-wintermute-trading/9887,"London,
+United Kingdom",Algo trading / developer intern 2022,$12k - $33k,dev:intern:entry level,6mo
+Wintermute,https://web3.career/software-engineer-python-wintermute-trading/9886,"London,
+United Kingdom",Software Engineer (Python),$140k - $200k,dev:python,6mo
+Wintermute,https://web3.career/senior-full-stack-engineer-wintermute-trading/9885,"London,
+United Kingdom",Senior Full Stack Engineer,$70k - $180k,dev:full stack:senior,6mo
+Wintermute,https://web3.career/infrastructure-support-wintermute-trading/9884,"London,
+United Kingdom",Infrastructure Support,$40k - $80k,customer support,6mo
+Wintermute,https://web3.career/core-developer-python-wintermute-trading/9883,"London,
+United Kingdom",Core Developer (Python),$140k - $200k,dev:python,6mo
+Wintermute,https://web3.career/c-quant-developer-wintermute-trading/9882,"London,
+United Kingdom",C++ Quant Developer,$100k - $150k,c:c plus plus:dev,6mo
+Wintermute,https://web3.career/business-development-partnerships-director-asia-wintermute-trading/9881,"Singapore,
+Singapore",Business Development & Partnerships Director Asia,$40k - $150k,sales:non tech:executive,6mo
+Wintermute,https://web3.career/graduate-software-developer-defi-2022-wintermute-trading/9880,"London,
+United Kingdom",Graduate Software Developer - DeFi - 2022,$12k - $33k,dev:intern:entry level:defi,6mo
+Wintermute,https://web3.career/graduate-algorithmic-trader-defi-wintermute-trading/9879,"London,
+United Kingdom",Graduate Algorithmic Trader - DeFi,,intern:entry level:trader:defi,6mo
+The Block,https://web3.career/vp-revenue-operations-theblockcrypto/9878,Remote,"VP, Revenue Operations",,operations:executive:remote,6mo
+The Block,https://web3.career/senior-account-manager-theblockcrypto/9877,Remote,Senior Account Manager,,account manager:senior:remote,6mo
+The Block,https://web3.career/manager-business-development-theblockcrypto/9876,Remote,"Manager, Business Development",$29k - $108k,sales:non tech:remote,6mo
+The Block,https://web3.career/campaign-manager-sponsorships-theblockcrypto/9875,"New York,
+United States","Campaign Manager, Sponsorships",$45k - $130k,marketing:non tech,6mo
+The Block,https://web3.career/business-development-associate-theblockcrypto/9874,Remote,Business Development Associate,$29k - $108k,sales:non tech:remote,6mo
+The Block,https://web3.career/account-manager-memberships-theblockcrypto/9873,Remote,"Account Manager, Memberships",,account manager:remote,6mo
+The Block,https://web3.career/account-management-associate-memberships-theblockcrypto/9872,Remote,"Account Management Associate, Memberships",$56k - $160k,remote,6mo

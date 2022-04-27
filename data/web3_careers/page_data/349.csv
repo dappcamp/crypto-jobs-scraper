@@ -1,36 +1,58 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-PowerTrade,https://web3.career/social-media-manager-powertrade/11163,Social Media Manager,$35k - $110k,social media:non tech:remote,5mo
-Brave,https://web3.career/devops-engineer-brave/11161,DevOps Engineer,$150k - $200k,devops:dev:javascript:ruby:php,5mo
-SeedInvest,https://web3.career/new-grad-software-engineer-backend-seedinvest/11155,"New Grad Software Engineer, Backend",$65k - $125k,backend:dev:ethereum:java,5mo
-SeedInvest,https://web3.career/manager-software-engineering-seedinvest/11154,"Manager, Software Engineering",$54k - $140k,dev:ethereum:javascript:java,5mo
-Torus Labs,https://web3.career/native-mobile-developer-toruslabs/11153,Native Mobile Developer,$51k - $109k,dev:mobile:ethereum,5mo
-RociFi,https://web3.career/senior-solidity-engineer-rocifi/11152,Senior Solidity Engineer,,dev:senior:solidity:node:remote,5mo
-UpGuard,https://web3.career/sales-development-representative-sdr-upguard/11147,Sales Development Representative (SDR),$26k - $140k,sales:non tech,5mo
-Tuned Systems,https://web3.career/senior-software-engineer-platform-tuned/11146,"Senior Software Engineer, Platform",$80k - $200k,dev:senior,5mo
-Tuned Systems,https://web3.career/chief-compliance-officer-cco-tuned/11145,Chief Compliance Officer (CCO),,compliance:executive,5mo
-Okcoin,https://web3.career/senior-manager-risk-rules-okcoin/11144,"Senior Manager, Risk Rules",$78k - $200k,senior,5mo
-Okcoin,https://web3.career/manager-risk-rules-okcoin/11143,"Manager, Risk Rules",,,5mo
-Okcoin,https://web3.career/manager-fraud-risk-rules-okcoin/11142,"Manager, Fraud Risk Rules",$95k - $200k,security,5mo
-Web3 Labs,https://web3.career/java-blockchain-engineer-web3-labs/11141,Java Blockchain Engineer,$26k - $52k,dev:java:blockchain:solidity:ethereum,5mo
-Blockdaemon,https://web3.career/ux-researcher-blockdaemon/11140,UX Researcher,$50k - $135k,design:non tech:remote,5mo
-NEAR,https://web3.career/project-manager-funding-team-near/11139,Project Manager - Funding Team,$56k - $150k,project manager:non tech:remote,5mo
-NEAR,https://web3.career/business-development-consultant-near/11138,Business Development Consultant,,sales:non tech:consulting:remote,5mo
-Polygon,https://web3.career/fp-a-polygon/11137,FP&A,$60k - $150k,ethereum,5mo
-Ledn,https://web3.career/senior-financial-analyst-ledn/11131,Senior Financial Analyst,,analyst:finance:senior,5mo
-Parity Technologies,https://web3.career/director-of-ecosystem-growth-parity/11126,Director of Ecosystem Growth,$70k - $158k,executive:marketing:non tech:remote,5mo
-Immunefi,https://web3.career/ux-ui-designer-immunefi/11125,UX/UI Designer,$50k - $150k,design:non tech,5mo
-Kraken Digital Asset Exchange,https://web3.career/site-reliability-engineer-trading-technology-kraken/11124,Site Reliability Engineer - Trading Technology,$150k - $200k,dev:sys admin:remote,5mo
-Binance,https://web3.career/application-architect-binance/11123,Application Architect,$67k - $180k,architecture,5mo
-Binance,https://web3.career/senior-ios-developer-swift-binance/11122,Senior iOS Developer (Swift),$51k - $109k,dev:ios:mobile:senior:swift,5mo
-Binance,https://web3.career/backend-architect-risk-management-binance/11121,Backend Architect - Risk Management,$120k - $250k,architecture:backend,5mo
-Binance,https://web3.career/qa-manager-binance/11120,QA Manager,$62k - $150k,quality assurance,5mo
-Binance,https://web3.career/quality-assurance-qa-engineer-binance/11119,Quality Assurance (QA) Engineer,$50k - $150k,dev:quality assurance,5mo
-Binance,https://web3.career/senior-qa-engineer-binance/11118,Senior QA Engineer,$30k - $50k,dev:quality assurance:senior,5mo
-Binance,https://web3.career/java-backend-developer-binance/11117,Java Backend Developer,$60k - $160k,backend:dev:java,5mo
-Binance,https://web3.career/senior-back-end-java-developer-binance/11115,Senior Back-End / Java Developer,$60k - $160k,backend:dev:java:senior,5mo
-Binance,https://web3.career/institutional-sales-relationship-manager-vietnamese-speaking-binance/11114,Institutional Sales & Relationship Manager (Vietnamese Speaking),$100k - $200k,marketing:non tech:sales,5mo
-Kraken Digital Asset Exchange,https://web3.career/director-internal-communications-kraken/11113,"Director, Internal Communications",$79k - $200k,executive:remote,5mo
-Clearmatics,https://web3.career/validator-node-leader-proof-of-stake-bft-blockchain-clearmatics/11112,Validator Node Leader - Proof-of-Stake/ BFT Blockchain,$78k - $200k,lead:javascript:node:blockchain:ethereum,5mo
-Alchemy,https://web3.career/biz-ops-strategic-finance-associate-alchemy/11111,Biz Ops / Strategic Finance Associate,$40k - $150k,finance,5mo
-Ripple,https://web3.career/senior-product-manager-liquidity-hub-ripple/11110,"Senior Product Manager, Liquidity Hub",,sales:non tech:product manager:senior,5mo
-Figment,https://web3.career/senior-data-engineer-figment/11105,Senior Data Engineer,$130k - $160k,data science:dev:senior:ruby,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Bitcoin Depot,https://web3.career/product-ops-specialist-austin-bitcoindepot/12234,"Austin,
+United States",Product Ops Specialist - Austin,$60k - $150k,ethereum,5mo
+Wirex Limited,https://web3.career/sar-s-compliance-analyst-wirexlimited/12232,"London,
+United Kingdom",SAR's Compliance Analyst,,compliance:analyst,5mo
+Chainalysis,https://web3.career/account-executive-public-sector-aus-chainalysis/12231,Australia,"Account Executive, Public Sector (AUS)",$70k - $180k,executive,5mo
+GSR,https://web3.career/kyc-compliance-analyst-gsr/12230,"London,
+United Kingdom",KYC & Compliance Analyst,,compliance:kyc:analyst,5mo
+OpenSea,https://web3.career/support-engineer-opensea/12229,Remote,Support Engineer,,dev:customer support:solidity:rust:remote,5mo
+Illuvium,https://web3.career/qa-game-tester-illuvium/12228,"Sydney,
+Australia",QA Game Tester,,game dev:quality assurance,5mo
+Bitfury,https://web3.career/content-marketing-manager-crystal-blockchain-remote-bitfury/12227,"London,
+United Kingdom","Content Marketing Manager (Crystal Blockchain, Remote)",$25k - $120k,remote:marketing:non tech:blockchain,5mo
+Bitfury,https://web3.career/content-marketing-manager-crystal-blockchain-remote-bitfury/12226,"Kiev,
+Ukraine","Content Marketing Manager (Crystal Blockchain, Remote)",$25k - $120k,remote:marketing:non tech:blockchain,5mo
+Bitfury,https://web3.career/content-marketing-manager-crystal-blockchain-remote-bitfury/12225,"Amsterdam,
+Netherlands","Content Marketing Manager (Crystal Blockchain, Remote)",$25k - $120k,remote:marketing:non tech:blockchain,5mo
+Maple,https://web3.career/senior-product-manager-maple-finance/12220,Remote,Senior Product Manager,$80k - $150k,product manager:non tech:senior:ethereum:remote,5mo
+WOO Network,https://web3.career/senior-executive-assistant-woonetwork/12219,"Istanbul,
+Turkey",Senior Executive Assistant,$46k - $110k,executive:senior,5mo
+OnJuno,https://web3.career/creative-content-specialist-onjuno/12217,"Bengaluru,
+India",Creative Content Specialist,$25k - $96k,marketing:non tech:copywriting,5mo
+OKEx,https://web3.career/senior-legal-counsel-okex/12216,"Hong Kong,
+Hong Kong",Senior Legal Counsel,,legal:senior,5mo
+Polygon,https://web3.career/executive-assistant-polygon/12215,"Mumbai,
+India",Executive Assistant,$79k - $158k,executive:ethereum,5mo
+Shift Markets,https://web3.career/defi-product-manager-remote-shift-markets/12205,United States,DeFi Product Manager - remote,$150k,remote:product manager:non tech:defi,5mo
+wappier,https://web3.career/blockchain-smart-contract-engineer-remote-wappier/12204,Remote,Blockchain smart contract engineer (Remote),,remote:dev:blockchain:smart contract:react,5mo
+Amun 21Shares,https://web3.career/full-stack-developer-amun/12203,"New York,
+United States",Full Stack Developer,$65k - $180k,dev:full stack:react:solidity:solana,5mo
+Amun 21Shares,https://web3.career/front-end-developer-amun/12202,,Front End Developer,$50k - $144k,dev:front end:react:solidity:solana,5mo
+CoinDesk & TradeBlock Opportunities,https://web3.career/lead-site-reliability-engineer-coindesk-indices-coindesk/12199,United States,"Lead Site Reliability Engineer, CoinDesk Indices",,dev:lead:sys admin:javascript:node,5mo
+"Commutec- ""Next Gen Smart Mobility""",https://web3.career/business-development-junior-manager-pune-commutec/12195,"Pune,
+India",Business Development Junior Manager- Pune,$78k - $93k,sales:non tech:junior:entry level,5mo
+"Commutec- ""Next Gen Smart Mobility""",https://web3.career/inside-sales-associate-commutec/12191,"Pune,
+India",Inside Sales Associate,$46k,sales:non tech,5mo
+Brilliant Smart Home,https://web3.career/full-stack-engineering-intern-brilliant-smart-home/12190,United States,Full Stack Engineering Intern,$60k,full stack:intern:entry level,5mo
+"Commutec- ""Next Gen Smart Mobility""",https://web3.career/regional-sales-manager-mumbai-pune-commutec/12189,"Pune,
+India",Regional Sales Manager - Mumbai & Pune,$78k - $11k,sales:non tech,5mo
+DAZN Group,https://web3.career/software-engineer-smart-tv-apps-dazn/12187,United Kingdom,Software Engineer - Smart TV Apps,$56k - $160k,dev:react:javascript,5mo
+Exporteria,https://web3.career/smart-agent-food-and-beverage-exporteria/12183,United Kingdom,Smart Agent - Food and Beverage,$0k,,5mo
+Action Against Hunger Canada,https://web3.career/nutrition-software-development-for-smart-initiative-action-against-hunger-canada-1/12177,"Toronto,
+Canada",Nutrition Software Development for SMART Initiative,$0k,dev,5mo
+Digitible,https://web3.career/blockchain-developer-smart-contracts-digitible-2/12176,"Bengaluru,
+India",Blockchain Developer (Smart Contracts),$20k - $40k,dev:blockchain:smart contract:web3js:solidity,5mo
+MIRA,https://web3.career/lead-smart-contract-engineer-mira-23/12175,"New York,
+United States",Lead Smart Contract Engineer,$100k - $180k,dev:lead:smart contract:solidity:ethereum,5mo
+Lit Protocol,https://web3.career/software-engineer-smart-contract-full-stack-lit-protocol/12174,"San Francisco,
+United States","Software Engineer, Smart Contract + Full Stack",$85k - $150k,dev:full stack:smart contract:react:javascript,5mo
+MetaMask,https://web3.career/trustworthy-smart-contracts-applied-researcher-protocols-r-d-metamask/12173,"Brisbane,
+Australia",Trustworthy Smart Contracts Applied Researcher (Protocols R&D),,data science:smart contract:solidity:ethereum:java,5mo
+Mask Network,https://web3.career/smart-contract-and-back-end-developer-mask-2/12172,Remote,Smart Contract and Back-end Developer,$0k,backend:dev:smart contract:web3js:solidity,5mo
+Swing,https://web3.career/blockchain-smart-contracts-engineer-swingxyz/12171,United States,Blockchain Smart Contracts Engineer,$0k,dev:blockchain:smart contract:web3js:solidity,5mo
+Quant Finance,https://web3.career/senior-smart-contract-engineer-quant-finance/12170,"New York,
+United States",Senior Smart Contract Engineer,$120k - $200k,dev:senior:smart contract:solidity,5mo
+Snowball,https://web3.career/senior-smart-contract-developer-snowballdefi/12169,Antarctica,Senior Smart Contract Developer,$0k,dev:senior:smart contract:solidity,5mo
+Smart Money,https://web3.career/full-stack-software-engineer-smart_money/12168,"San Francisco,
+United States",Full Stack Software Engineer,$80k - $130k,dev:full stack:web3js:react:solidity,5mo

@@ -1,36 +1,53 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Anchorage Digital,https://web3.career/client-experience-manager-anchorage/8791,Client Experience Manager,,,6mo
-Bitcoin Depot,https://web3.career/regional-sales-executive-des-moines-bitcoindepot/8790,Regional Sales Executive - Des Moines,$40k - $150k,executive:sales:non tech:ethereum,6mo
-GSR,https://web3.career/business-development-gsr/8789,Business Development,$26k - $140k,sales:non tech,6mo
-Binance,https://web3.career/senior-product-manager-international-markets-binance/8787,Senior Product Manager - International Markets,$80k - $150k,product manager:non tech:senior,6mo
-Binance,https://web3.career/finance-project-manager-binance/8786,Finance Project Manager,,finance:project manager:non tech,6mo
-Chainalysis,https://web3.career/senior-solutions-architect-uk-chainalysis/8785,"Senior Solutions Architect, UK",$80k,architecture:senior,6mo
-Ripple,https://web3.career/senior-analyst-gtm-strategy-operations-ripple/8784,"Senior Analyst, GTM Strategy & Operations",,analyst:operations:senior:react,6mo
-Ripple,https://web3.career/senior-software-engineer-liquidity-ripple/8783,"Senior Software Engineer, Liquidity",,dev:sales:non tech:senior:java,6mo
-Binance,https://web3.career/bsc-operations-intern-binance/8782,BSC Operations Intern,,intern:entry level:operations,6mo
-Qredo,https://web3.career/senior-rust-engineer-qredo/8778,Senior Rust Engineer,$120k - $210k,dev:rust:senior:javascript:java,6mo
-Wodify,https://web3.career/engineering-manager-wodify/8777,Engineering Manager,$70k - $180k,executive,6mo
-LiveCA LLP,https://web3.career/training-specialist-liveca/8776,Training Specialist,,education:remote,6mo
-LiveCA LLP,https://web3.career/associate-remote-cpa-student-liveca/8775,Associate (Remote CPA Student),$56k - $160k,remote,6mo
-Vested,https://web3.career/account-executive-fullyvestedllc/8774,Account Executive,$70k - $180k,executive,6mo
-Altonomy,https://web3.career/finance-manager-altonomy/8773,Finance Manager,$40k - $150k,finance,6mo
-Coins.ph,https://web3.career/data-engineer-data-team-coinsph/8772,Data Engineer [Data team],$130k - $160k,data science:dev:scala:java,6mo
-Altonomy,https://web3.career/trading-system-support-engineer-altonomy/8771,Trading System Support Engineer,,dev:customer support:react:javascript,6mo
-Coins.ph,https://web3.career/senior-data-analyst-data-team-coinsph/8770,Senior Data Analyst [Data team],,analyst:data science:senior,6mo
-Altonomy,https://web3.career/quant-researcher-otc-trading-desk-altonomy/8769,Quant Researcher (OTC Trading Desk),,,6mo
-Altonomy,https://web3.career/quality-assurance-engineer-altonomy/8768,Quality Assurance Engineer,$54k - $150k,dev:solidity:javascript,6mo
-Altonomy,https://web3.career/tech-lead-altonomy/8767,Tech Lead,$100k - $220k,lead:tech lead:react:javascript,6mo
-Altonomy,https://web3.career/tech-intern-altonomy/8766,Tech Intern,$18k - $28k,intern:entry level:javascript,6mo
-Sphinix Solutions,https://web3.career/ethereum-developer-sphinixusa/8765,Ethereum Developer,$63k - $160k,dev:solidity:ethereum,6mo
-Altonomy,https://web3.career/blockchain-developer-altonomy/8764,Blockchain Developer,$52k - $160k,dev:blockchain:solidity:ethereum:javascript,6mo
-SwissBorg,https://web3.career/software-engineer-data-remote-swissborg/8758,"Software Engineer, Data (Remote)",$65k - $180k,remote:dev,6mo
-GSR,https://web3.career/site-reliability-engineer-associate-senior-associate-singapore-gsr/8757,"Site Reliability Engineer, Associate/Senior Associate - Singapore",$150k - $200k,dev:sys admin:senior,6mo
-Kraken Digital Asset Exchange,https://web3.career/low-code-no-code-engineer-kraken/8756,Low-Code/No-Code Engineer,$65k - $180k,dev:remote,6mo
-Ripple,https://web3.career/senior-software-engineer-liquidity-ripple/8755,"Senior Software Engineer, Liquidity",,dev:sales:non tech:senior:java,6mo
-BitGo,https://web3.career/project-coordinator-compliance-tech-bitgo/8753,Project Coordinator (Compliance Tech.),,compliance,6mo
-BitMEX,https://web3.career/trader-assistant-bitmex/8752,Trader Assistant,$31k - $37k,trader,6mo
-Kraken Digital Asset Exchange,https://web3.career/executive-assistant-kraken/8751,Executive Assistant,$70k - $180k,executive,6mo
-GSR,https://web3.career/senior-recruiter-associate-vice-president-gsr/8750,"Senior Recruiter, Associate / Vice President",$40k - $70k,recruiter:non tech:senior,6mo
-Chainalysis,https://web3.career/instructional-designer-producer-chainalysis/8749,Instructional Designer & Producer,$50k - $150k,design:non tech,6mo
-Boson Protocol,https://web3.career/community-manager-projects-bosonprotocol/8748,Community Manager - Projects,$35k - $101k,community manager:non tech:nft,6mo
-GSR,https://web3.career/blockchain-infrastructure-reliability-engineer-gsr/8747,Blockchain Infrastructure / Reliability Engineer,,dev:sys admin:blockchain:remote,6mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+11:FS,https://web3.career/director-consulting-11fs/9035,"London,
+United Kingdom","Director, Consulting",,consulting:executive,6mo
+11:FS,https://web3.career/customer-strategy-associate-11fs/9034,"London,
+United Kingdom",Customer Strategy Associate,,,6mo
+11:FS,https://web3.career/contract-frontend-engineer-11fs/9033,"London,
+United Kingdom",Contract - Frontend Engineer,$50k - $150k,dev:front end,6mo
+11:FS,https://web3.career/associate-delivery-manager-11fs/9032,"London,
+United Kingdom",Associate Delivery Manager,$70k - $300k,dev:executive,6mo
+Sifchain,https://web3.career/senior-engineer-8211-blockchain-market-maker-sifchain/9031,,Senior Engineer &#8211; Blockchain Market Maker,$80k - $200k,dev:senior:blockchain,6mo
+IOVLabs,https://web3.career/head-of-devops-iovlabs/9009,Remote,Head of DevOps,,executive:devops:java:remote,6mo
+Public,https://web3.career/senior-manager-of-machine-learning-public/9007,"New York,
+United States",Senior Manager of Machine Learning,,machine learning:senior,6mo
+Careers at Paxful,https://web3.career/technical-product-manager-paxoffice-paxful/9003,"Moscow,
+Russia",Technical Product Manager - PaxOffice,$69k - $160k,product manager:non tech,6mo
+Galaxy Digital Services,https://web3.career/people-business-partner-technology-galaxydigitalservices/9002,,"People Business Partner, Technology",,,6mo
+OKEx,https://web3.career/frontend-developer-exchange-platform-okex/9001,"Hong Kong,
+Hong Kong",Frontend Developer - Exchange Platform,$50k - $144k,dev:front end:react:javascript:vue,6mo
+BitGo,https://web3.career/recruiter-generalist-contract-bitgo/9000,"Austin,
+United States",Recruiter Generalist - Contract,$40k - $70k,recruiter:non tech,6mo
+BitMEX,https://web3.career/senior-kubernetes-engineer-global-derivatives-exchange-bitmex/8999,"Hong Kong,
+Hong Kong",Senior Kubernetes Engineer - Global Derivatives Exchange,$65k - $150k,dev:senior:golang,6mo
+Celo Foundation,https://web3.career/head-of-marketing-celo-foundation-celofoundation/8997,"San Francisco,
+United States","Head of Marketing, Celo Foundation",$70k - $158k,executive:marketing:non tech,6mo
+Binance,https://web3.career/financial-derivative-product-manager-binance/8996,Asia,Financial Derivative Product Manager,,finance:product manager:non tech,6mo
+Okcoin,https://web3.career/social-media-representative-team-lead-okcoin/8995,"Austin,
+United States",Social Media Representative - Team Lead,,lead:social media:non tech,6mo
+Kraken Digital Asset Exchange,https://web3.career/executive-assistant-corporate-development-kraken/8993,United States,Executive Assistant - Corporate Development,$70k - $180k,executive,6mo
+Blockchain.com,https://web3.career/fraud-risk-management-lead-americas-blockchain/8992,"Miami,
+United States","Fraud Risk Management Lead, Americas",,security:lead,6mo
+Mirror,https://web3.career/backend-engineer-product-mirror/8990,Remote,Backend Engineer (Product),,backend:dev:react:react native:ethereum,6mo
+Mirror,https://web3.career/frontend-engineer-mirror/8989,Remote,Frontend Engineer,,dev:front end:react:nextjs:remote,6mo
+Mirror,https://web3.career/backend-engineer-infrastructure-mirror/8988,Remote,Backend Engineer (Infrastructure),,backend:dev:ethereum:remote,6mo
+Mirror,https://web3.career/community-manager-mirror/8987,Remote,Community Manager,,community manager:non tech:remote,6mo
+Mirror,https://web3.career/technical-recruiter-mirror/8986,Remote,Technical Recruiter,,recruiter:non tech:remote,6mo
+Mirror,https://web3.career/designer-mirror/8985,Remote,Designer,,design:non tech:ethereum:remote,6mo
+Binance,https://web3.career/card-chargeback-manager-binance/8983,Asia,Card Chargeback Manager,,,6mo
+Binance,https://web3.career/site-manager-lead-binance/8982,Vietnam,Site Manager (Lead),$60k - $200k,lead,6mo
+Kraken Digital Asset Exchange,https://web3.career/brand-partnership-lead-organizations-kraken/8981,Remote,Brand Partnership Lead - Organizations,$100k - $200k,sales:non tech:marketing:lead:remote,6mo
+GSR,https://web3.career/client-ops-associate-gsr/8980,"London,
+United Kingdom",Client Ops - Associate,,,6mo
+Kraken Digital Asset Exchange,https://web3.career/engineering-manager-trading-technology-kraken/8979,Remote,Engineering Manager - Trading Technology,$79k - $200k,executive:remote,6mo
+Localcoin,https://web3.career/regional-sales-executive-jacksonville-fl-localcoin/8978,"Jacksonville,
+United States","Regional Sales Executive (Jacksonville, FL)",$40k - $150k,executive:sales:non tech,6mo
+Bitwise Asset Management,https://web3.career/investor-relations-associate-ny-or-sf-area-bitwiseinvestments/8977,"San Francisco,
+United States",Investor Relations Associate (NY or SF Area),$40k - $150k,finance,6mo
+Acala,https://web3.career/data-analytics-engineer-acala/8976,Remote,Data Analytics Engineer,$360k - $500k,stats:dev:react:solidity:node,6mo
+Enso,https://web3.career/solidity-engineer-enso/8975,Remote,Solidity Engineer,$80k - $170k,dev:solidity:remote,6mo
+Ackee Blockchain,https://web3.career/ethereum-solidity-developer-auditor-ackeeblockchain/8974,"Prague,
+Czech Republic",Ethereum (Solidity) Developer & Auditor,$80k - $200k,dev:solidity:rust,6mo
+BitMEX,https://web3.career/senior-kubernetes-engineer-global-derivatives-exchange-bitmex/8972,"Singapore,
+Singapore",Senior Kubernetes Engineer - Global Derivatives Exchange,$65k - $150k,dev:senior:golang,6mo
+Kraken Digital Asset Exchange,https://web3.career/executive-assistant-engineering-kraken/8971,United States,Executive Assistant - Engineering,$70k - $180k,executive,6mo

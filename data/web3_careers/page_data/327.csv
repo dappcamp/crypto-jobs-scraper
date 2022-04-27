@@ -1,36 +1,64 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-CoinFlip,https://web3.career/mobile-software-engineer-android-coinflip/12559,Mobile Software Engineer - Android,,android:mobile:dev,5mo
-Parity Technologies,https://web3.career/junior-operations-manager-m-f-d-parity/12526,Junior Operations Manager (m/f/d),,junior:entry level:operations:remote,5mo
-Consensys,https://web3.career/web3-qa-engineer-consensys/12524,Web3 QA Engineer,$65k - $150k,dev:quality assurance:ethereum:javascript:remote,5mo
-Consensys,https://web3.career/ux-researcher-consensys/12523,UX Researcher,$80k - $150k,design:non tech:ethereum:remote,5mo
-Consensys,https://web3.career/ux-engineer-consensys/12522,UX Engineer,$80k - $150k,dev:design:non tech:react:ethereum,5mo
-Consensys,https://web3.career/trustworthy-smart-contracts-applied-researcher-protocols-r-d-consensys/12521,Trustworthy Smart Contracts Applied Researcher (Protocols R&D),,data science:smart contract:solidity:ethereum:java,5mo
-Consensys,https://web3.career/technical-support-engineer-metamask-consensys/12520,Technical Support Engineer (MetaMask),,dev:customer support:ethereum:remote,5mo
-Consensys,https://web3.career/technical-support-engineer-consensys/12519,Technical Support Engineer,,dev:customer support:ethereum:javascript,5mo
-Consensys,https://web3.career/sr-software-engineer-consensys/12518,Sr Software Engineer,$63k - $160k,dev:solidity:ethereum:golang:remote,5mo
-Consensys,https://web3.career/sre-consensys/12517,SRE,$24k - $180k,senior:react:ethereum:remote,5mo
-Consensys,https://web3.career/sr-devops-engineer-consensys/12516,Sr. DevOps Engineer,$120k - $200k,devops:dev:senior:solidity:ethereum,5mo
-Consensys,https://web3.career/sr-blockchain-engineer-consensys/12515,Sr. Blockchain Engineer,$80k - $200k,dev:senior:blockchain:web3js:solidity,5mo
-Consensys,https://web3.career/sr-blockchain-engineer-smart-contract-dev-tools-consensys/12514,Sr. Blockchain Engineer (Smart Contract Dev Tools),$80k - $200k,dev:senior:blockchain:smart contract:web3js,5mo
-Consensys,https://web3.career/sr-blockchain-engineer-ganache-consensys/12513,Sr. Blockchain Engineer (Ganache),$80k - $200k,dev:senior:blockchain:solidity:ethereum,5mo
-Consensys,https://web3.career/sr-backend-engineer-consensys/12512,Sr. Backend Engineer,$70k - $200k,backend:dev:senior:ethereum:golang,5mo
-Consensys,https://web3.career/solution-architect-professional-services-usa-consensys/12511,"Solution Architect (Professional Services, USA)",$67k - $113k,architecture:solidity:ethereum,5mo
-Consensys,https://web3.career/solution-architect-professional-services-uk-ireland-europe-consensys/12510,"Solution Architect (Professional Services, UK/Ireland & Europe)",$67k - $113k,architecture:solidity:ethereum:remote,5mo
-Consensys,https://web3.career/solution-architect-professional-services-hong-kong-consensys/12509,"Solution Architect (Professional Services, Hong Kong)",$67k - $113k,architecture:solidity:ethereum,5mo
-Consensys,https://web3.career/smart-contract-security-engineer-consensys/12508,Smart Contract Security Engineer,,dev:security:smart contract:solidity:ethereum,5mo
-Consensys,https://web3.career/site-reliability-engineer-consensys/12507,Site Reliability Engineer,,dev:sys admin:ethereum:remote,5mo
-Consensys,https://web3.career/service-delivery-manager-professional-services-uk-ireland-europe-consensys/12506,"Service Delivery Manager (Professional Services, UK/Ireland & Europe)",,dev:executive:ethereum:remote,5mo
-Consensys,https://web3.career/senior-web3-javascript-engineer-metamask-snaps-consensys/12505,Senior Web3 JavaScript Engineer (MetaMask Snaps),$80k - $200k,dev:javascript:senior:ethereum:remote,5mo
-Consensys,https://web3.career/senior-technical-sourcer-consensys/12504,Senior Technical Sourcer,$40k - $70k,recruiter:non tech:senior:ethereum:remote,5mo
-Consensys,https://web3.career/senior-technical-recruiter-consensys/12503,Senior Technical Recruiter,$40k - $70k,recruiter:non tech:senior:ethereum:remote,5mo
-Consensys,https://web3.career/senior-systems-administrator-consensys/12502,Senior Systems Administrator,,senior:sys admin:ethereum,5mo
-Consensys,https://web3.career/senior-systems-administrator-consensys/12501,Senior Systems Administrator,,senior:sys admin:ethereum,5mo
-Consensys,https://web3.career/senior-security-engineer-consensys/12500,Senior Security Engineer,$95k - $250k,dev:security:senior:ethereum:remote,5mo
-Consensys,https://web3.career/senior-revenue-analyst-consensys/12499,Senior Revenue Analyst,$150k - $185k,analyst:senior:ethereum,5mo
-Consensys,https://web3.career/senior-qa-automation-engineer-professional-services-usa-consensys/12498,"Senior QA Automation Engineer (Professional Services, USA)",$30k - $50k,dev:quality assurance:senior:react:ethereum,5mo
-Consensys,https://web3.career/senior-qa-automation-engineer-professional-services-uk-ireland-europe-consensys/12497,"Senior QA Automation Engineer (Professional Services, UK/Ireland & Europe)",$30k - $50k,dev:quality assurance:senior:react:ethereum,5mo
-Consensys,https://web3.career/senior-qa-automation-engineer-professional-services-hong-kong-consensys/12496,"Senior QA Automation Engineer (Professional Services, Hong Kong)",$30k - $50k,dev:quality assurance:senior:react:ethereum,5mo
-Consensys,https://web3.career/senior-product-manager-metamask-snaps-consensys/12495,Senior Product Manager (MetaMask Snaps),$80k - $150k,product manager:non tech:senior:ethereum:remote,5mo
-Consensys,https://web3.career/senior-product-manager-defi-fintech-developer-experience-consensys/12494,Senior Product Manager - DeFi + Fintech Developer Experience,,dev:finance:product manager:non tech:senior,5mo
-Consensys,https://web3.career/senior-product-designer-consensys/12493,Senior Product Designer,$60k - $120k,design:non tech:senior:ethereum:remote,5mo
-Consensys,https://web3.career/senior-mobile-web3-engineer-consensys/12492,Senior Mobile/Web3 Engineer,$120k - $200k,dev:mobile:senior:react:react native,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Bitcoin.com,https://web3.career/crypto-news-journalist-bitcoin-com/13112,United Kingdom,Crypto News Journalist,$56k - $158k,crypto:ethereum,5mo
+Ethereum Push Notification Service,https://web3.career/rockstar-intern-ethereum-push-notification-service/13111,United States,Rockstar Intern,$0k,intern:entry level:ethereum,5mo
+Ethereum Push Notification Service,https://web3.career/business-development-specialist-ethereum-push-notification-service/13110,United States,Business Development Specialist,$0k,sales:non tech:ethereum,5mo
+Figment,https://web3.career/assistant-controller-figment/13109,"Toronto,
+Canada",Assistant Controller,,finance:legal,5mo
+OKEx,https://web3.career/social-media-marketing-manager-okex/13108,"San Francisco,
+United States",Social Media Marketing Manager,$28k - $100k,marketing:non tech:social media,5mo
+OKEx,https://web3.career/mobile-marketing-manager-okex/13107,"San Francisco,
+United States",Mobile Marketing Manager,,marketing:non tech:mobile,5mo
+Okcoin,https://web3.career/product-designer-okcoin/13106,"Sydney,
+Australia",Product Designer,$50k - $150k,design:non tech,5mo
+Okcoin,https://web3.career/product-designer-okcoin/13105,"San Francisco,
+United States",Product Designer,$50k - $150k,design:non tech,5mo
+Localcoin,https://web3.career/chief-financial-officer-cfo-localcoin/13104,"Toronto,
+Canada",Chief Financial Officer (CFO),$90k - $200k,finance:executive,5mo
+CoinList,https://web3.career/operations-analyst-token-sales-coinlist/13103,"San Francisco,
+United States","Operations Analyst, Token Sales",,analyst:operations:sales:non tech:solana,5mo
+CoinDesk & TradeBlock Opportunities,https://web3.career/headline-news-senior-editor-coindesk/13102,"London,
+United Kingdom",Headline News Senior Editor,$70k - $180k,senior:react,5mo
+Chainalysis,https://web3.career/account-executive-commercial-uk-i-chainalysis/13101,"London,
+United Kingdom","Account Executive, Commercial, UK/I",$70k - $180k,executive,5mo
+Bitcoin Depot,https://web3.career/graphic-designer-bitcoindepot/13100,"Atlanta,
+United States",Graphic Designer,$50k - $150k,design:non tech,5mo
+Bitcoin Depot,https://web3.career/content-writer-bitcoindepot/13099,"Atlanta,
+United States",Content Writer,$13k - $45k,copywriting,5mo
+Stacked,https://web3.career/product-owner-stacked-invest/13098,Remote,Product Owner,$115k - $175k,product manager:non tech:remote,5mo
+Stacked,https://web3.career/product-designer-stacked-invest/13097,Remote,Product Designer,$50k - $135k,design:non tech:remote,5mo
+Metal,https://web3.career/devops-engineer-remote-metalpay/13096,Remote,DevOps Engineer (Remote),$95k - $180k,remote:devops:dev,5mo
+OpenSea,https://web3.career/performance-marketing-lead-opensea/13095,Remote,Performance Marketing Lead,$50k - $120k,lead:marketing:non tech:nft:remote,5mo
+Parity Technologies,https://web3.career/seo-manager-m-f-d-parity/13094,"Berlin,
+Germany",SEO Manager (m/f/d),,seo:non tech:remote,5mo
+Parity Technologies,https://web3.career/paid-media-manager-m-f-d-parity/13093,"Berlin,
+Germany",Paid Media Manager (m/f/d),$56k - $160k,remote,5mo
+Parity Technologies,https://web3.career/marketing-data-analyst-m-f-d-parity/13092,"Berlin,
+Germany",Marketing Data Analyst (m/f/d),,analyst:data science:marketing:non tech:remote,5mo
+Parity Technologies,https://web3.career/email-marketing-manager-m-f-d-parity/13091,"Berlin,
+Germany",Email Marketing Manager (m/f/d),$25k - $120k,marketing:non tech:remote,5mo
+Parity Technologies,https://web3.career/ecosystem-success-intern-m-f-d-parity/13090,"Berlin,
+Germany",Ecosystem Success Intern (m/f/d),$24k - $48k,intern:entry level:remote,5mo
+Bitcoin Depot,https://web3.career/senior-integrated-communications-manager-bitcoindepot/13089,"Atlanta,
+United States",Senior Integrated Communications Manager,$46k - $109k,marketing:non tech:senior,5mo
+Bitcoin Depot,https://web3.career/senior-creative-manager-bitcoindepot/13088,"Atlanta,
+United States",Senior Creative Manager,$78k - $200k,senior,5mo
+Bitcoin Depot,https://web3.career/marketing-specialist-social-pr-influencers-bitcoindepot/13087,"Atlanta,
+United States","Marketing Specialist – Social, PR & Influencers",$45k - $130k,marketing:non tech,5mo
+Bitcoin Depot,https://web3.career/marketing-manager-paid-search-bitcoindepot/13086,"Atlanta,
+United States",Marketing Manager – Paid Search,$45k - $130k,marketing:non tech,5mo
+Bitcoin Depot,https://web3.career/marketing-manager-customer-insights-bitcoindepot/13085,"Atlanta,
+United States",Marketing Manager - Customer Insights,$45k - $130k,marketing:non tech,5mo
+SwissBorg,https://web3.career/fraud-data-analyst-remote-swissborg/13084,"Lisbon,
+Portugal",Fraud Data Analyst (Remote),$45k - $120k,remote:analyst:data science:security,5mo
+Chainalysis,https://web3.career/account-executive-public-sector-nordics-chainalysis/13083,"Copenhagen,
+Denmark","Account Executive, Public Sector, Nordics",$70k - $180k,executive,5mo
+Bitcoin Depot,https://web3.career/marketing-data-analyst-bitcoindepot/13082,"Atlanta,
+United States",Marketing Data Analyst,,analyst:data science:marketing:non tech,5mo
+CoinDesk & TradeBlock Opportunities,https://web3.career/director-business-development-coindesk/13080,"New York,
+United States","Director, Business Development",$40k - $150k,sales:non tech:executive,5mo
+Chainalysis,https://web3.career/account-executive-uk-i-chainalysis/13079,"London,
+United Kingdom","Account Executive, UK/I",$70k - $180k,executive,5mo
+Chainalysis,https://web3.career/account-executive-public-sector-benelux-chainalysis/13078,"Amsterdam,
+Netherlands","Account Executive, Public Sector, Benelux",$70k - $180k,executive,5mo
+OKEx,https://web3.career/manager-sr-manager-hr-business-partner-okex/13077,"Singapore,
+Singapore",Manager/Sr. Manager - HR Business Partner,,hr:non tech:senior,5mo

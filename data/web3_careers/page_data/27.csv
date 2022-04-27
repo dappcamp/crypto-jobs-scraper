@@ -1,36 +1,58 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Nodle,https://web3.career/copywriter-nodle/25500,Copywriter,$25k - $30k,copywriting:remote,13d
-Braintrust,https://web3.career/digital-project-manager-ecommerce-brand-remote-braintrust/25498,Digital Project Manager - Ecommerce Brand [Remote],$25k - $120k,remote:marketing:non tech:ecommerce:project manager,13d
-Stardust Cards Corporation,https://web3.career/recruiting-coordinator-stardust/25497,Recruiting Coordinator,,recruiter:non tech:remote:nft,13d
-Polygon,https://web3.career/director-business-development-emea-polygon/25496,Director - Business Development - EMEA,$40k - $150k,sales:non tech:executive:ethereum,13d
-BlockFi,https://web3.career/global-operations-analyst-apac-blockfi/25495,"Global Operations Analyst, APAC",,analyst:operations,13d
-InterSwap,https://web3.career/senior-solidity-engineer-interswap-1/25493,Senior Solidity Engineer,$83k - $120k,dev:senior:solidity:solana:ethereum,13d
-Foxit Software,https://web3.career/lead-cloud-solution-architect-m-w-d-emea-foxitsoftware/25492,Lead Cloud Solution Architect (m/w/d) EMEA,,architecture:cloud:lead,13d
-Cerebellum Network,https://web3.career/full-stack-front-end-engineer-cere-network/25491,Full-Stack/Front-End Engineer,$65k - $150k,dev:front end:full stack:remote:react,13d
-Polygon,https://web3.career/sr-business-development-manager-games-polygon-studios-remote-polygon/25490,Sr. Business Development Manager - Games - Polygon Studios (Remote),$29k - $108k,remote:sales:non tech:senior:ethereum,13d
-Crypto.com,https://web3.career/sales-operation-manager-apac-crypto-com/25489,Sales Operation Manager - APAC,$26k - $140k,sales:non tech,13d
-MetaFans Media LLC,https://web3.career/head-of-blockchain-metafansmediallc/25488,Head of Blockchain,$80k - $225k,executive:blockchain:nft,13d
-Crypto.com,https://web3.career/director-corporate-development-global-fintech-startup-crypto-com/25487,"Director, Corporate Development - Global Fintech Startup",$90k - $200k,executive:finance,13d
-Paro.io,https://web3.career/crypto-bookkeeper-remote-projects-paro-io/25486,Crypto Bookkeeper - Remote Projects,$11k - $25k,remote:accounting:crypto,13d
-Crypto.com,https://web3.career/data-security-architect-sg-crypto-com/25485,Data Security Architect (SG),,architecture:security:nft,13d
-Crypto.com,https://web3.career/junior-account-manager-latam-seeking-graduates-or-entry-level-applicant-crypto-com/25484,Junior Account Manager - LATAM - Seeking Graduates or Entry level Applicant,,account manager:junior:entry level,13d
-WalletConnect,https://web3.career/web3-technical-writer-walletconnect/25483,Web3 Technical Writer,$45k - $120k,analyst:remote,13d
-Windranger,https://web3.career/senior-solidity-engineer-windranger/25482,Senior Solidity Engineer,$80k - $200k,dev:senior:solidity:ethereum:javascript,13d
-Sismo,https://web3.career/smart-contract-engineer-solidity-circom-sismo/25481,"Smart Contract Engineer - Solidity, Circom",$72k - $200k,dev:smart contract:solidity:ethereum:nft,13d
-Consensys,https://web3.career/talent-operations-8-month-contract-consensys/25480,Talent Operations - 8 Month Contract,,operations:recruiter:non tech:ethereum,13d
-Consensys,https://web3.career/internal-event-manager-consensys/25479,Internal Event Manager,,events manager:non tech:remote:ethereum,13d
-Monday Capital,https://web3.career/frontend-engineer-with-web3-experience-monday-capital/25478,Frontend Engineer with Web3 experience,$90k - $120k,dev:front end:react:solidity:javascript,13d
-Joint NFT,https://web3.career/frontend-web3-intern-joint-nft/25477,Frontend Web3 Intern,$124k - $2k,front end:intern:entry level:react:solidity,13d
-reNFT,https://web3.career/head-of-developer-experience-renft/25476,Head of Developer Experience,$70k - $140k,executive:dev:solidity:nft:javascript,13d
-reNFT,https://web3.career/backend-developer-renft/25475,Backend Developer,$50k - $100k,backend:dev:nft:rust,13d
-MetaMask,https://web3.career/director-of-engineering-consensys-nft-business-metamask/25474,Director of Engineering (ConsenSys NFT Business),$50k - $158k,executive:nft:ethereum,13d
-MetaMask,https://web3.career/devops-lead-manager-codefi-metamask/25473,DevOps Lead/Manager (Codefi),,devops:lead:ethereum:javascript:golang,13d
-MetaMask,https://web3.career/devops-engineer-protocols-metamask/25472,DevOps Engineer - Protocols,$95k - $145k,devops:dev:ethereum,13d
-Nansen.ai,https://web3.career/graphic-designer-nansen/25471,Graphic Designer,$50k - $135k,design:non tech:remote,13d
-Nansen.ai,https://web3.career/communications-lead-nansen/25470,Communications Lead,$60k - $200k,lead,13d
-RECUR,https://web3.career/senior-designer-sports-recur/25469,Senior Designer - Sports,$60k - $120k,design:non tech:senior:ethereum,13d
-Nansen.ai,https://web3.career/brand-marketing-lead-nansen/25468,Brand Marketing Lead,$50k - $120k,marketing:non tech:lead,13d
-Decentral Games,https://web3.career/data-analyst-decentralgames/25467,Data Analyst,$36k - $120k,analyst:data science:nft:java,13d
-Decentral Games,https://web3.career/data-engineer-decentralgames/25466,Data Engineer,$70k - $150k,data science:dev:nft:java,13d
-Decentral Games,https://web3.career/qa-engineer-decentralgames/25465,QA Engineer,$65k - $150k,dev:quality assurance:ethereum:nft,13d
-Decentral Games,https://web3.career/qa-tester-decentralgames/25464,QA Tester,$65k - $110k,quality assurance:ethereum:nft,13d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+CANDY,https://web3.career/ecommerce-business-analyst-candy/26116,"New York,
+United States",eCommerce Business Analyst,,analyst:ecommerce:react:javascript,11d
+CANDY,https://web3.career/senior-marketing-copywriter-candy/26115,"New York,
+United States",Senior Marketing Copywriter,$25k - $105k,copywriting:non tech:marketing:senior,11d
+CANDY,https://web3.career/marketing-art-director-candy/26114,"New York,
+United States",Marketing Art Director,$70k - $158k,executive:marketing:non tech,11d
+CANDY,https://web3.career/senior-paralegal-candy/26113,"New York,
+United States",Senior Paralegal,$79k - $200k,senior,11d
+CANDY,https://web3.career/senior-legal-counsel-candy/26112,"New York,
+United States",Senior Legal Counsel,,legal:senior,11d
+CANDY,https://web3.career/controller-candy/26111,"New York,
+United States",Controller,,legal:nft,11d
+CANDY,https://web3.career/staff-ar-engineer-candy/26110,"New York,
+United States",Staff AR Engineer,$60k - $180k,dev,11d
+CANDY,https://web3.career/senior-user-experience-designer-candy/26109,"New York,
+United States",Senior User Experience Designer,$60k - $120k,design:non tech:senior:nft:javascript,11d
+CANDY,https://web3.career/backend-engineer-python-candy/26108,"New York,
+United States",Backend Engineer (Python),,backend:dev:python,11d
+CANDY,https://web3.career/fraud-analyst-candy/26107,"New York,
+United States",Fraud Analyst,$150k - $185k,analyst:security:nft,11d
+CANDY,https://web3.career/customer-experience-quality-assurance-specialist-candy/26106,"New York,
+United States",Customer Experience Quality Assurance Specialist,,customer support:quality assurance,11d
+CANDY,https://web3.career/customer-experience-associate-candy/26105,"New York,
+United States",Customer Experience Associate,$40k - $45k,customer support:nft,11d
+CANDY,https://web3.career/senior-motion-graphic-designer-candy/26104,"New York,
+United States",Senior Motion Graphic Designer,$60k - $120k,design:non tech:senior:nft,11d
+Merkle Science,https://web3.career/account-manager-merklescience/26103,"Bangalore,
+India",Account Manager,,account manager,11d
+OpenSea,https://web3.career/manager-data-analytics-and-business-intelligence-opensea/26102,Remote,"Manager, Data Analytics and Business Intelligence",,stats:remote,11d
+CANDY,https://web3.career/it-support-associate-candy/26101,"New York,
+United States",IT Support Associate,$40k - $80k,customer support,12d
+bloXroute Labs,https://web3.career/senior-site-reliability-engineer-blox-route/26100,"Tel Aviv,
+Israel",Senior Site Reliability Engineer,$150k - $200k,dev:sys admin:senior:ethereum,12d
+The Block,https://web3.career/senior-director-of-communications-theblockcrypto/26099,Remote,Senior Director of Communications,$95k - $250k,executive:senior:remote,12d
+CoinFlip,https://web3.career/legal-and-compliance-coordinator-coinflip/26098,"Chicago,
+United States",Legal and Compliance Coordinator,,compliance:legal,12d
+Brahma.fi,https://web3.career/backend-devops-engineer-defi-brahma-finance/26096,Brazil,Backend & Devops Engineer - DeFi,$50k - $100k,backend:devops:dev:defi:node,12d
+The Block,https://web3.career/senior-director-marketing-operations-theblockcrypto/26095,Remote,"Senior Director, Marketing Operations",$70k - $158k,executive:marketing:non tech:operations:senior,12d
+Curve Labs,https://web3.career/web3-project-manager-m-w-d-curve-labs/26094,"Berlin,
+Germany",Web3 Project Manager (m/w/d),$50k - $81k,project manager:non tech:remote,12d
+Chainlink Labs,https://web3.career/junior-product-marketing-manager-chainlink/26092,Remote,Junior Product Marketing Manager,$20k - $30k,junior:entry level:marketing:non tech:remote,12d
+QuickNode,https://web3.career/billing-support-engineer-quicknode/26091,Remote,Billing Support Engineer,,dev:customer support:remote,12d
+Figment,https://web3.career/revenue-accountant-figment/26090,"Toronto,
+Canada",Revenue Accountant,$25k - $150k,accounting,12d
+Brave,https://web3.career/senior-devops-engineer-brave/26089,"San Francisco,
+United States",Senior DevOps Engineer,$120k - $200k,devops:dev:senior:javascript:ruby,12d
+The Block,https://web3.career/vice-president-product-theblockcrypto/26088,Remote,"Vice President, Product",$56k - $160k,remote,12d
+Chainalysis,https://web3.career/geography-analyst-chainalysis/26087,"New York,
+United States",Geography Analyst,$40k - $120k,analyst,12d
+Ledger,https://web3.career/qa-engineer-vault-ledger/26086,"London,
+United Kingdom",QA Engineer - Vault,$50k - $150k,dev:quality assurance,12d
+Binance,https://web3.career/senior-qa-engineer-internal-system-binance/26085,Asia,Senior QA Engineer - Internal System,$30k - $50k,dev:quality assurance:senior,12d
+Binance,https://web3.career/senior-product-manager-kyc-binance/26084,Europe,Senior Product Manager - KYC,,kyc:product manager:non tech:senior,12d
+Binance,https://web3.career/api-product-expert-binance/26083,Remote,API Product Expert,$60k - $170k,api:remote,12d
+Binance,https://web3.career/business-data-analyst-latam-binance/26082,Latin America,Business Data Analyst - Latam,$36k - $85k,analyst:data science,12d
+Espeo Software,https://web3.career/senior-blockchain-developer-espeo/26081,30 Poznań PL,Senior Blockchain Developer,$80k - $200k,dev:senior:blockchain:solidity:node,12d
+Polygon,https://web3.career/pr-coordinator-enterprise-and-defi-polygon/26080,Any,PR Coordinator (Enterprise and DeFi),$60k - $140k,marketing:non tech:defi:remote:ethereum,12d

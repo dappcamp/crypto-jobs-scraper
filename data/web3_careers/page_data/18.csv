@@ -1,36 +1,55 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Blockdaemon,https://web3.career/senior-front-end-engineer-blockdaemon/25891,Senior Front End Engineer,$70k - $200k,dev:front end:senior:react:javascript,8d
-Blockdaemon,https://web3.career/front-end-engineer-blockdaemon/25890,Front End Engineer,$50k - $144k,dev:front end:react:javascript,8d
-Bitpanda,https://web3.career/engineering-manager-bitpanda/25859,Engineering Manager,,executive:php:java:golang,8d
-Kriptomat OU,https://web3.career/marketing-partnerships-assistant-kriptomat/25858,Marketing Partnerships Assistant,$40k - $150k,sales:non tech:marketing,8d
-Human Protocol,https://web3.career/solutions-architect-human-protocol-foundation/25857,Solutions Architect,$67k - $180k,architecture,8d
-Blockdaemon,https://web3.career/business-development-representative-blockdaemon/25856,Business Development Representative,$26k - $140k,sales:non tech,8d
-Sismo,https://web3.career/software-engineer-web3-remote-europe-sismo-1/25855,Software Engineer - Web3 (Remote - Europe),$79k - $146k,remote:dev:solidity:ethereum:nft,8d
-Conductive,https://web3.career/technical-product-manager-remote-conductive/25854,Technical Product Manager (Remote),,remote:product manager:non tech:agile,8d
-Gnosis,https://web3.career/event-manager-m-f-d-gnosis/25852,Event Manager (m/f/d),,events manager:non tech:ethereum,8d
-Ethereum Push Notification Service,https://web3.career/rockstar-intern-ethereum-push-notification-service/25851,Rockstar Intern,$0k,intern:entry level:ethereum,8d
-Ethereum Push Notification Service,https://web3.career/senior-front-end-engineer-ethereum-push-notification-service/25850,Senior Front-end Engineer,$0k,dev:front end:senior:react:react native,8d
-Ledger,https://web3.career/front-end-engineer-react-js-ledger-vault-ledger/25849,Front-End Engineer (React.JS)- Ledger Vault,$50k - $150k,javascript:dev:front end:react,8d
-Immutable,https://web3.career/director-of-product-operations-immutable/25848,Director of Product Operations,$135k - $170k,executive:product manager:non tech:operations,8d
-SwissBorg,https://web3.career/scala-engineer-remote-swissborg/25847,Scala Engineer (Remote),,remote:dev:scala,8d
-Ethereum Push Notification Service,https://web3.career/senior-backend-developer-ethereum-push-notification-service/25846,Senior Backend Developer,$0k,backend:dev:senior:solana:ethereum,8d
-Bitfury,https://web3.career/directory-researcher-crystal-remote-bitfury/25845,Directory Researcher - Crystal (Remote),$56k - $160k,remote,8d
-Bitfury,https://web3.career/directory-researcher-crystal-remote-bitfury/25844,Directory Researcher - Crystal (Remote),$56k - $160k,remote,8d
-Ethereum Push Notification Service,https://web3.career/distributed-system-backend-engineer-ethereum-push-notification-service/25843,Distributed System Backend Engineer,$0k,backend:dev:ethereum,8d
-Immutable,https://web3.career/chief-of-staff-immutable/25842,Chief of Staff,,executive:recruiter:non tech,8d
-Nansen.ai,https://web3.career/director-of-business-intelligence-data-analytics-nansen/25841,Director of Business Intelligence & Data Analytics,$50k - $130k,stats:executive,8d
-Immutable,https://web3.career/social-media-and-community-manager-immutable/25840,Social Media and Community Manager,$45k - $110k,community manager:non tech:social media:nft,8d
-Maple,https://web3.career/copywriters-maple-finance/25839,Copywriters,$56k - $160k,remote,8d
-Sismo,https://web3.career/smart-contract-engineer-solidity-circom-remote-europe-sismo-1/25838,"Smart Contract Engineer - Solidity, Circom (Remote - Europe)",$80k - $200k,remote:dev:smart contract:solidity:ethereum,8d
-Ledger,https://web3.career/data-engineer-ledger/25837,Data Engineer,$70k - $160k,data science:dev,8d
-Bitpanda,https://web3.career/internship-software-quality-assurance-f-m-d-bitpanda/25836,Internship - Software Quality Assurance (f/m/d),,intern:entry level:quality assurance:dev,8d
-Binance,https://web3.career/senior-designer-trust-wallet-binance/25835,Senior Designer (Trust Wallet),$60k - $120k,design:non tech:senior:remote,8d
-Bitpanda,https://web3.career/engineering-manager-blockchain-bitpanda/25834,Engineering Manager - Blockchain,,executive:blockchain:php:java:golang,8d
-IDEO,https://web3.career/senior-director-web3-decentralized-financial-services-ideo/25774,Senior Director - Web3 & Decentralized Financial Services,$150k - $175k,executive:finance:senior:remote:defi,8d
-Stardust Cards Corporation,https://web3.career/integration-engineer-stardust/25833,Integration Engineer,$95k - $190k,dev:remote:nft,8d
-Mome,https://web3.career/web-3-frontend-developer-mome/25832,Web 3 Frontend Developer,,dev:front end:remote:web3js:blockchain,8d
-Bitpanda,https://web3.career/service-manager-bitpanda/25830,Service Manager,,php:java:golang,8d
-Genies,https://web3.career/community-insights-analytics-genies/25829,Community Insights & Analytics,,stats:community manager:non tech:nft,8d
-Genies,https://web3.career/community-manager-user-engagement-genies/25828,"Community Manager, User Engagement",$35k - $101k,community manager:non tech:nft,8d
-Bitpanda,https://web3.career/engineering-manager-blockchain-bitpanda/25827,Engineering Manager - Blockchain,,executive:blockchain:php:java:golang,8d
-Zilliqa,https://web3.career/nft-studio-cto-zilliqa/25826,NFT Studio CTO,$50k - $158k,cto:executive:nft,8d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Ignite,https://web3.career/principal-product-designer-ignite/26468,"Berlin,
+Germany",Principal Product Designer,,design:non tech:executive,7d
+Vauld,https://web3.career/compliance-associate-vauld/26467,"Bengaluru,
+India",Compliance Associate,,compliance,7d
+Polygon,https://web3.career/partnership-development-music-talent-polygon/26466,India,Partnership Development - Music & Talent,,sales:non tech:music:recruiter:ethereum,7d
+Polygon,https://web3.career/partnership-development-film-animation-polygon/26465,India,Partnership Development - Film & Animation,,sales:non tech:video:ethereum:nft,7d
+Polygon,https://web3.career/partnership-development-arts-fashion-polygon/26464,India,Partnership Development - Arts & Fashion,$29k - $43k,sales:non tech:ethereum:nft,7d
+Polygon,https://web3.career/lead-edao-studios-polygon/26463,Any,Lead - eDAO Studios,$56k - $118k,lead:remote:ethereum:nft,7d
+Polygon,https://web3.career/community-manager-polygon/26462,India,Community Manager,$15k - $30k,community manager:non tech:ethereum:nft,7d
+Binance,https://web3.career/government-affairs-manager-south-africa-binance/26461,"Cape Town,
+South Africa",Government Affairs Manager - South Africa,$50k - $150k,,7d
+DEPT®,https://web3.career/internship-creative-tech-dept/26460,"Amsterdam,
+Netherlands",Internship Creative Tech,,intern:entry level:nft,7d
+Binance,https://web3.career/community-marketing-manager-armenia-binance/26459,"Yerevan,
+Armenia",Community & Marketing Manager - Armenia,$45k - $150k,community manager:non tech:marketing,7d
+Binance,https://web3.career/senior-business-development-manager-pay-binance/26458,"Lagos,
+Nigeria",Senior Business Development Manager - Pay,$50k - $150k,sales:non tech:senior,7d
+Binance,https://web3.career/manager-senior-associate-capital-markets-industry-research-binance/26457,"London,
+United Kingdom","Manager/Senior Associate, Capital Markets & Industry Research",$79k - $200k,senior,7d
+Phantom,https://web3.career/communications-lead-social-and-community-phantom45/26456,"San Francisco,
+United States","Communications Lead, Social and Community",$40k - $65k,community manager:non tech:lead:solana:ethereum,7d
+Wirex Limited,https://web3.career/administrative-specialist-wirexlimited/26455,Poland,Administrative Specialist,$50k - $150k,,7d
+Protocol Labs,https://web3.career/financial-analyst-protocollabs/26454,,Financial Analyst,,analyst:finance,7d
+Binance,https://web3.career/growth-and-community-manager-binance/26453,Remote,Growth and Community Manager,$45k - $150k,community manager:non tech:marketing:remote,7d
+Binance,https://web3.career/java-engineer-risk-binance/26452,"Dubai,
+United Arab Emirates",Java Engineer - Risk,$33k - $140k,dev:java,7d
+Binance,https://web3.career/hr-business-partner-latam-binance/26451,Latin America,HR Business Partner (LATAM),$60k - $150k,hr:non tech,7d
+Binance,https://web3.career/community-marketing-manager-uzbekistan-binance/26450,"Tashkent,
+Uzbekistan",Community & Marketing Manager - Uzbekistan,$45k - $150k,community manager:non tech:marketing,7d
+Oasis Protocol Foundation,https://web3.career/blockchain-community-manager-french-community-oasisnetwork/26449,"Paris,
+France",Blockchain Community Manager (French community),$15k - $80k,community manager:non tech:blockchain,7d
+Cake Pte Ltd,https://web3.career/software-engineer-c-cakedefi/26448,"Singapore,
+Singapore",Software Engineer (C++),$100k - $255k,c:c plus plus:dev:node:rust,7d
+Boson Protocol,https://web3.career/head-of-operations-bosonprotocol/26447,"London,
+United Kingdom",Head of Operations,$150k - $230k,executive:operations,7d
+MoonPay,https://web3.career/founding-engineer-solana-moonpay/26446,United Kingdom,Founding Engineer (Solana),$80k - $180k,dev:solana:nft:rust,7d
+Shift Markets,https://web3.career/enterprise-sales-crypto-defi-web3-remote-shift-markets/26445,United States,Enterprise Sales - Crypto/DeFi/Web3 - remote,$0k,remote:sales:non tech:crypto:defi,7d
+IOVLabs,https://web3.career/data-analyst-iovlabs/26444,Remote,Data Analyst,$45k - $120k,analyst:data science:remote,7d
+Polygon,https://web3.career/business-development-lead-polygon/26443,Any,Business Development Lead,,sales:non tech:lead:remote:ethereum,7d
+Binance,https://web3.career/investment-manager-legal-relations-binance/26442,"Singapore,
+Singapore",Investment Manager (Legal Relations),,finance:legal,7d
+Protocol Labs,https://web3.career/technical-program-manager-security-protocollabs/26441,,"Technical Program Manager, Security",$95k - $250k,executive:security,7d
+Consensys,https://web3.career/technical-product-marketing-lead-developer-tools-consensys/26440,Remote,"Technical Product Marketing Lead, Developer Tools",,dev:lead:marketing:non tech:remote,7d
+Consensys,https://web3.career/tech-lead-accounts-and-key-management-consensys/26439,Remote,Tech Lead (Accounts and Key Management),$96k - $118k,lead:tech lead:remote:react:react native,7d
+Binance,https://web3.career/community-marketing-manager-azerbaijan-binance/26437,"Baku,
+Azerbaijan",Community & Marketing Manager - Azerbaijan,$45k - $150k,community manager:non tech:marketing,7d
+Asset Living,https://web3.career/service-technician-solana-apartments-assetliving/26436,"Mesa,
+United States",Service Technician - Solana Apartments,$50k - $150k,,7d
+Blockstream,https://web3.career/freelance-video-editor-animator-motion-graphics-blockstream/26435,"Los Angeles,
+United States",Freelance Video Editor/Animator - Motion Graphics,,video:vfx:non tech,7d
+Sperax,https://web3.career/aws-engineer-sperax/26434,"New York,
+United States",AWS Engineer,$60k - $180k,dev,7d
+Sperax,https://web3.career/operations-manager-remote-sperax/26433,"Bengaluru,
+India",Operations Manager (Remote),$80k - $110k,remote:operations,7d

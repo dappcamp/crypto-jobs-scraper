@@ -1,36 +1,59 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Crypto.com,https://web3.career/senior-operation-director-gm-emi-global-fintech-startup-crypto-com/12952,Senior Operation Director / GM (EMI) - Global Fintech Startup,,executive:finance:senior,5mo
-Crypto.com,https://web3.career/application-support-engineer-derivatives-trading-platform-us-crypto-com/12951,"Application Support Engineer (Derivatives Trading Platform), US",,dev:customer support:nft,5mo
-Crypto.com,https://web3.career/vp-marketing-nft-marketplace-crypto-com/12950,"VP, Marketing - NFT Marketplace",$70k - $158k,marketing:non tech:executive:nft,5mo
-Crypto.com,https://web3.career/data-architect-global-fintech-startup-crypto-com/12949,Data Architect - Global Fintech Startup,$120k - $250k,architecture:finance,5mo
-IO Global,https://web3.career/head-of-product-defi-ioglobal/12948,"Head of Product, DeFi",$135k - $170k,executive:product manager:non tech:defi:remote,5mo
-Crypto.com,https://web3.career/trading-assistant-analyst-avp-quant-trading-team-crypto-com/12947,"Trading Assistant (Analyst - AVP), Quant Trading Team",,analyst:java:remote,5mo
-Crypto.com,https://web3.career/freelance-translator-remote-global-fintech-startup-crypto-com/12946,Freelance Translator (Remote) - Global Fintech Startup,,remote:finance:translator,5mo
-Crypto.com,https://web3.career/blockchain-engineer-fullstack-global-fintech-startup-crypto-com/12945,Blockchain Engineer (Fullstack) - Global Fintech Startup,,dev:finance:full stack:blockchain:react,5mo
-Crypto.com,https://web3.career/senior-java-developer-price-page-uk-crypto-com/12944,(Senior) Java Developer (Price Page) - UK,$50k - $200k,dev:java:senior,5mo
-Crypto.com,https://web3.career/investment-associate-venture-capital-global-fintech-startup-crypto-com/12943,Investment Associate (Venture capital) - Global Fintech Startup,$40k - $150k,finance,5mo
-Crypto.com,https://web3.career/frontend-developer-exchange-ca-crypto-com/12942,Frontend Developer (Exchange) - CA,$50k - $140k,dev:front end:javascript,5mo
-Crypto.com,https://web3.career/head-of-payment-products-and-development-south-korea-crypto-com/12941,"Head of Payment Products and Development, South Korea",$79k - $200k,executive:remote,5mo
-Crypto.com,https://web3.career/it-support-engineer-crypto-com/12940,IT Support Engineer,$90k - $140k,dev:customer support,5mo
-Crypto.com,https://web3.career/elixir-golang-main-app-back-crypto-com/12939,"Elixir Golang, Main App Back",$22k - $124k,golang:react:javascript:vue,5mo
-Crypto.com,https://web3.career/blockchain-developer-evangelist-crypto-com/12938,Blockchain Developer Evangelist,$50k - $170k,dev:blockchain,5mo
-Crypto.com,https://web3.career/application-security-engineer-devsecops-global-fintech-startup-crypto-com/12937,Application Security Engineer (DevSecOps)- Global Fintech Startup,,dev:finance:security,5mo
-Crypto.com,https://web3.career/blockchain-innovation-engineer-crypto-com/12936,Blockchain Innovation Engineer,$50k - $170k,dev:blockchain,5mo
-Crypto.com,https://web3.career/global-java-developer-exchange-trading-system-crypto-com/12935,"Global - Java Developer (Exchange,Trading system)",$33k - $140k,dev:java,5mo
-Crypto.com,https://web3.career/application-support-engineer-uk-ireland-global-fintech-startup-crypto-com/12934,Application Support Engineer (UK / Ireland) - Global Fintech Startup,,dev:finance:customer support,5mo
-Crypto.com,https://web3.career/software-engineer-java-developer-crypto-com/12933,Software Engineer - Java Developer,$11k - $130k,dev:java:javascript,5mo
-Crypto.com,https://web3.career/senior-motion-graphic-designer-crypto-com/12932,Senior Motion Graphic Designer,$60k - $120k,design:non tech:senior:nft,5mo
-Crypto.com,https://web3.career/legal-administrator-crypto-com/12931,Legal Administrator,$24k - $140k,legal,5mo
-Crypto.com,https://web3.career/senior-java-developer-main-app-uk-crypto-com/12930,(Senior) Java Developer (Main App) - UK,$50k - $200k,dev:java:senior,5mo
-Crypto.com,https://web3.career/financial-crimes-monitoring-director-americas-crypto-com/12929,Financial Crimes Monitoring Director - Americas,$120k - $225k,executive:finance:nft,5mo
-Paraswap,https://web3.career/blockchain-engineer-paraswap/12928,Blockchain Engineer,$50k - $130k,dev:blockchain:react:solidity:ethereum,5mo
-Everledger,https://web3.career/senior-blockchain-engineer-nft-specialist-ahmedabad-everledger/12927,Senior Blockchain Engineer (NFT specialist)- Ahmedabad,$80k - $200k,dev:senior:blockchain:nft:solidity,5mo
-Argent,https://web3.career/blockchain-engineer-remote-europe-only-argent/12926,"Blockchain Engineer (Remote, Europe only)",$70k - $190k,remote:dev:blockchain:solidity:ethereum,5mo
-Crypto.com,https://web3.career/strategy-new-ventures-manager-management-consulting-global-fintech-startup-crypto-com/12925,Strategy & New Ventures Manager (Management Consulting) - Global Fintech Startup,,consulting:finance,5mo
-Crypto.com,https://web3.career/crm-specialist-crypto-com/12924,CRM Specialist,,crm,5mo
-Crypto.com,https://web3.career/trading-business-analyst-global-fintech-startup-crypto-com/12923,Trading Business Analyst - Global Fintech Startup,,analyst:finance:remote,5mo
-Verisart,https://web3.career/blockchain-engineer-verisart/12922,Blockchain Engineer,$40k - $107k,dev:blockchain:web3js:react:solidity,5mo
-Virtually Human Studio,https://web3.career/full-stack-blockchain-engineer-remote-virtuallyhumanstudio/12921,Full-stack Blockchain Engineer (Remote),$70k - $200k,remote:dev:full stack:blockchain:web3js,5mo
-Crypto.com,https://web3.career/business-development-manager-nft-crypto-com/12920,Business Development Manager (NFT),$100k - $180k,sales:non tech:nft,5mo
-Argent,https://web3.career/experienced-blockchain-engineer-remote-europe-only-argent/12919,"Experienced Blockchain Engineer (Remote, Europe only)",$70k - $190k,remote:dev:blockchain:solidity:ethereum,5mo
-Sourcechain,https://web3.career/smart-contract-developer-sourcechain/12918,Smart Contract Developer,$72k - $200k,dev:smart contract:solidity:javascript,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+MoonPay,https://web3.career/solutions-engineer-moonpay/13519,"London,
+United Kingdom",Solutions Engineer,$60k - $180k,dev,5mo
+Crypto.com,https://web3.career/customer-experience-quality-assurance-analyst-with-italian-crypto-com/13518,"Sofia,
+Bulgaria",Customer Experience Quality Assurance Analyst with Italian,$15k - $95k,analyst:customer support,5mo
+Okcoin,https://web3.career/spanish-customer-service-representative-okcoin/13514,Remote,Spanish Customer Service Representative,$40k - $80k,customer support:remote,5mo
+Chainalysis,https://web3.career/associate-account-executive-emea-chainalysis/13513,"London,
+United Kingdom","Associate Account Executive, EMEA",$70k - $180k,executive,5mo
+Veracity Protocol,https://web3.career/head-of-product-cv-ml-bridge-to-physical-veracity-protocol/13512,Remote,Head of Product – CV/ML bridge to physical,$140k - $180k,executive:product manager:non tech:nft:remote,5mo
+GSR,https://web3.career/blockchain-infrastructure-reliability-engineer-new-york-gsr/13509,"New York,
+United States",Blockchain Infrastructure / Reliability Engineer - New York,,dev:sys admin:blockchain,5mo
+ElevenYellow,https://web3.career/product-marketing-manager-elevenyellow/13508,Remote,Product Marketing Manager,$50k - $100k,marketing:non tech:nft:remote,5mo
+Tangany,https://web3.career/junior-senior-sales-key-account-manager-m-f-d-munich-remote-3387454-junior-senior-sales-and-key-account-manager-m-f-d-munich-remote/13505,Remote,(Junior / Senior) Sales & Key Account Manager m/f/d Munich/Remote,,remote:account manager:junior:entry level:sales,5mo
+Rebellion Pay,https://web3.career/ux-ui-designer-full-remote-or-office-at-your-convenience-rebellionpay/13504,"Madrid,
+Spain",UX / UI Designer - Full Remote or Office (At your convenience),$50k - $135k,remote:design:non tech,5mo
+Binance,https://web3.career/fraud-risk-operation-binance/13503,"Toronto,
+Canada",Fraud & Risk Operation,$95k - $200k,security,5mo
+ModSquad,https://web3.career/content-and-engagement-moderation-blockchain-for-nfts-modsquad/13502,Remote,Content and Engagement Moderation - Blockchain for NFTs,$90k - $190k,blockchain:nft:remote,5mo
+OKEx,https://web3.career/localization-project-manager-okex/13501,"Hong Kong,
+Hong Kong",Localization Project Manager,$50k - $150k,project manager:non tech,5mo
+Next Big Thing AG,https://web3.career/sales-manager-f-m-x-for-zero-defects-our-saas-startup-in-the-field-of-industrial-quality-management-nextbigthing/13500,"Berlin,
+Germany","Sales Manager (f/m/x) for ZERO defects, our SaaS startup in the field of industrial quality management",$30k - $100k,saas:sales:non tech:remote,5mo
+Immutable,https://web3.career/game-lead-executive-producer-immutable/13499,"Sydney,
+Australia",Game Lead / Executive Producer,,executive:game dev:lead,5mo
+Crypto.com,https://web3.career/customer-experience-quality-assurance-analyst-with-polish-crypto-com/13498,"Sofia,
+Bulgaria",Customer Experience Quality Assurance Analyst with Polish,$15k - $95k,analyst:customer support,5mo
+Immutable,https://web3.career/customer-success-manager-immutable/13497,Remote,Customer Success Manager,,sales:non tech:customer support:ethereum:nft,5mo
+Immutable,https://web3.career/customer-success-manager-immutable/13496,"Sydney,
+Australia",Customer Success Manager,,sales:non tech:customer support:ethereum,5mo
+OpenSea,https://web3.career/partner-manager-opensea/13495,Remote,Partner Manager,$56k - $165k,nft:remote,5mo
+OpenSea,https://web3.career/brand-manager-opensea/13494,Remote,Brand Manager,$55k - $140k,marketing:non tech:nft:remote,5mo
+ARXUM GmbH,https://web3.career/software-developer-customer-projects-m-f-d-3399411-software-developer-customer-projects-m-f-d/13492,Remote,"Software Developer Customer Projects (m,f,d)",$60k - $180k,dev:javascript:remote,5mo
+Liquid,https://web3.career/head-of-information-security-liquid/13491,"Tokyo,
+Japan",Head of Information Security,$95k - $250k,executive:security,5mo
+Foundry,https://web3.career/paralegal-foundrydigital/13490,"New York,
+United States",Paralegal,,,5mo
+Foundry,https://web3.career/compliance-officer-foundrydigital/13489,"New York,
+United States",Compliance Officer,,compliance,5mo
+Foundry,https://web3.career/assistant-legal-counsel-foundrydigital/13488,"New York,
+United States",Assistant Legal Counsel,$24k - $140k,legal,5mo
+Foundry,https://web3.career/enterprise-risk-manager-foundrydigital/13487,"New York,
+United States",Enterprise Risk Manager,,,5mo
+Bitaccess,https://web3.career/software-engineer-bitcoin-crypto-blockchain-bitaccess/13486,"Toronto,
+Canada","Software Engineer - Bitcoin, Crypto & Blockchain",,dev:btc:blockchain:crypto:ethereum,5mo
+Crypto.com,https://web3.career/finance-operations-associate-weekend-shift-crypto-com/13485,"Hong Kong,
+Hong Kong",Finance Operations Associate - Weekend Shift,$55k - $200k,finance:operations,5mo
+Mysten Labs,https://web3.career/technical-program-manager-mystenlabs/13483,Remote,Technical Program Manager,$79k - $200k,executive:remote,5mo
+Shakepay,https://web3.career/fiat-fraud-specialist-remote-canada-shakepay/13482,"Montreal,
+Canada",Fiat Fraud Specialist (Remote - Canada),$95k - $250k,remote:security,5mo
+RECUR,https://web3.career/customer-experience-analyst-remote-recur/13481,Remote,Customer Experience Analyst (Remote),$40k - $95k,remote:analyst:customer support:ethereum:nft,5mo
+Figure,https://web3.career/head-of-investor-relations-figure/13480,"New York,
+United States",Head of Investor Relations,$90k - $200k,executive:finance,5mo
+Crypto.com,https://web3.career/software-testing-engineer-sg-crypto-com/13479,"Singapore,
+Singapore",Software Testing Engineer-SG,$33k - $140k,dev:java,5mo
+Crypto.com,https://web3.career/customer-experience-training-team-lead-crypto-com/13478,"Sofia,
+Bulgaria",Customer Experience Training Team Lead,,customer support:lead:education,5mo
+Ankr,https://web3.career/blockchain-engineer-ankr/13477,"San Francisco,
+United States",Blockchain Engineer,$52k - $160k,dev:blockchain:solidity:golang:rust,5mo
+Binance,https://web3.career/crawler-development-engineer-binance/13476,Remote,Crawler Development Engineer,$65k - $180k,dev:remote,5mo

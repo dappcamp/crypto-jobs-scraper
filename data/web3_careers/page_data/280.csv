@@ -1,36 +1,50 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Tron,https://web3.career/senior-frontend-webrtc-engineer-rainberry/14645,Senior Frontend & WebRTC Engineer,$70k - $190k,dev:front end:senior:react:javascript,4mo
-Tron,https://web3.career/blockchain-engineer-rainberry/14644,Blockchain Engineer,$52k - $160k,dev:blockchain:solidity:golang,4mo
-Binance,https://web3.career/transaction-monitoring-team-lead-binance/14643,Transaction Monitoring Team Lead,$60k - $200k,lead,4mo
-Binance,https://web3.career/strategy-data-analyst-binance/14642,Strategy Data Analyst,$45k - $120k,analyst:data science:remote,4mo
-Binance,https://web3.career/community-manager-francophone-africa-binance/14641,Community Manager (Francophone Africa),$40k - $101k,community manager:non tech:remote,4mo
-SORAMITSU,https://web3.career/head-of-ecosystem-growth-remote-soramitsu/14640,Head of Ecosystem Growth (Remote),$45k - $158k,executive:remote:marketing:non tech:rust,4mo
-Okcoin,https://web3.career/content-design-manager-okcoin/14639,Content Design Manager,,executive:design:non tech,4mo
-Stockbit,https://web3.career/product-manager-crypto-stockbit/14638,Product Manager - Crypto,$60k - $160k,product manager:non tech:crypto,4mo
-Crypto.com,https://web3.career/employment-counsel-us-crypto-com/14637,Employment Counsel (US),,legal:nft,4mo
-Crypto.com,https://web3.career/human-resources-generalist-global-fintech-startup-crypto-com/14636,Human Resources Generalist - Global Fintech Startup,$120k - $225k,finance:nft,4mo
-IOTA Foundation,https://web3.career/site-reliability-engineer-iota/14635,Site Reliability Engineer,$150k - $200k,dev:sys admin:golang:remote,4mo
-IOTA Foundation,https://web3.career/mobile-app-developer-android-and-or-ios-firefly-iota/14634,Mobile App Developer (Android and/or iOS) - Firefly,,android:mobile:dev:ios:react,4mo
-Immutable,https://web3.career/product-designer-immutable/14633,Product Designer,$80k - $150k,design:non tech:ethereum:nft,4mo
-Crypto.com,https://web3.career/golang-developer-defi-wallet-uk-crypto-com/14632,Golang Developer (DeFi Wallet) - UK,$90k - $150k,dev:golang:defi:nft,4mo
-FinTech Collective,https://web3.career/summer-venture-associate-fintech/14630,Summer Venture Associate,,,4mo
-Mojito,https://web3.career/technical-writer-mojito/14628,Technical Writer,$36k - $120k,analyst:nft,4mo
-BitGo,https://web3.career/technical-support-engineer-bitgo/14627,Technical Support Engineer,$90k - $140k,dev:customer support,4mo
-Ripple,https://web3.career/director-ripplenet-product-marketing-payments-ripple/14626,"Director, RippleNet Product Marketing, Payments",$70k - $158k,executive:marketing:non tech,4mo
-Nifty's Inc.,https://web3.career/head-of-customer-success-niftysinc/14625,Head of Customer Success,,executive:customer support,4mo
-Figure,https://web3.career/figure-pay-support-specialist-figure/14623,Figure Pay Support Specialist,$40k - $80k,customer support,4mo
-Sygnum Bank AG,https://web3.career/junior-client-services-specialist-sygnum/14622,Junior Client Services Specialist,$45k - $56k,junior:entry level:ethereum,4mo
-Shakepay,https://web3.career/aml-analyst-remote-canada-shakepay/14621,AML Analyst (Remote - Canada),$45k - $120k,remote:analyst,4mo
-Stellar Development Foundation,https://web3.career/data-engineer-stellar/14620,Data Engineer,,data science:dev:golang,4mo
-NEAR,https://web3.career/technical-recruiter-near/14619,Technical Recruiter,$40k - $70k,recruiter:non tech,4mo
-Caiz Holding AG,https://web3.career/media-pr-manager-3504590-media-and-pr-manager/14617,Media & PR Manager,$25k - $120k,marketing:non tech:remote,4mo
-GSR,https://web3.career/us-surveillance-analyst-compliance-gsr/14616,"US Surveillance Analyst, Compliance",,compliance:analyst,4mo
-Iron Fish,https://web3.career/cryptographer-ironfish/14615,Cryptographer,$56k - $130k,react:ethereum:javascript:node:rust,4mo
-Eco,https://web3.career/events-manager-econetwork/14614,Events Manager,,events manager:non tech:remote,4mo
-Chainalysis,https://web3.career/corporate-security-analyst-chainalysis/14613,Corporate Security Analyst,$60k - $185k,analyst:security,4mo
-RECUR,https://web3.career/director-of-marketing-apac-remote-recur/14610,Director of Marketing - APAC (Remote),$45k - $158k,remote:executive:marketing:non tech:ethereum,4mo
-RECUR,https://web3.career/director-of-marketing-apac-remote-recur/14609,Director of Marketing - APAC (Remote),$45k - $158k,remote:executive:marketing:non tech:ethereum,4mo
-RECUR,https://web3.career/manager-web-frontend-engineering-remote-recur/14608,"Manager, Web Frontend Engineering (Remote)",$22k - $120k,remote:front end:react:javascript,4mo
-Okcoin,https://web3.career/content-designer-okcoin/14607,Content Designer,$50k - $150k,design:non tech,4mo
-SALT,https://web3.career/senior-software-engineer-backend-saltlending/14604,Senior Software Engineer - Backend,$70k - $200k,backend:dev:senior:ethereum:node,4mo
-Chainalysis,https://web3.career/business-development-representative-latam-spanish-speaking-chainalysis/14603,"Business Development Representative, LATAM (Spanish Speaking)",$26k - $140k,sales:non tech,4mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+MetaMask,https://web3.career/applied-researcher-cryptography-metamask/15294,United States,Applied Researcher - Cryptography,,data science:ethereum:rust,4mo
+MetaMask,https://web3.career/applied-researcher-txrx-advanced-research-team-metamask/15293,"San Francisco,
+United States",Applied Researcher (TxRx Advanced Research Team),,data science:ethereum:java,4mo
+MetaMask,https://web3.career/product-analyst-nfts-metamask/15292,United States,Product Analyst - NFTs,$50k - $185k,analyst:nft:ethereum,4mo
+MetaMask,https://web3.career/technical-support-manager-usa-metamask/15291,"Hong Kong,
+Hong Kong",Technical Support Manager USA,,customer support:ethereum,4mo
+MetaMask,https://web3.career/technical-support-manager-emea-metamask/15290,Germany,Technical Support Manager EMEA,,customer support:remote:ethereum,4mo
+MetaMask,https://web3.career/sr-accounting-manager-metamask/15289,"New York,
+United States",Sr. Accounting Manager,,accounting:senior:ethereum,4mo
+MetaMask,https://web3.career/sales-enablement-manager-metamask/15288,United States,Sales Enablement Manager,$29k - $43k,sales:non tech:ethereum,4mo
+MetaMask,https://web3.career/sdr-us-metamask/15287,United States,SDR (US),$60k - $150k,ethereum,4mo
+MetaMask,https://web3.career/revenue-manager-metamask/15286,"New York,
+United States",Revenue Manager,$60k - $150k,ethereum,4mo
+MetaMask,https://web3.career/help-desk-team-lead-metamask/15285,Romania,Help Desk Team lead,,customer support:lead:ethereum,4mo
+MetaMask,https://web3.career/help-desk-agent-metamask/15284,Romania,Help Desk Agent,,customer support:ethereum,4mo
+MetaMask,https://web3.career/global-help-desk-vp-metamask/15283,United States,"Global Help-Desk, VP",$79k - $158k,executive:ethereum,4mo
+MetaMask,https://web3.career/developer-relations-evangelist-truffle-metamask/15282,United States,Developer Relations Evangelist (Truffle),,customer support:dev:react:solidity:ethereum,4mo
+MetaMask,https://web3.career/developer-relations-evangelist-metamask-metamask/15281,"San Francisco,
+United States",Developer Relations Evangelist (MetaMask),,customer support:dev:ethereum:javascript,4mo
+MetaMask,https://web3.career/customer-success-manager-americas-metamask/15280,United States,Customer Success Manager (Americas),,sales:non tech:customer support:ethereum,4mo
+MetaMask,https://web3.career/customer-success-lead-metamask/15279,"San Francisco,
+United States",Customer Success Lead,,customer support:lead:ethereum,4mo
+MetaMask,https://web3.career/corporate-development-associate-metamask/15278,United States,Corporate Development - Associate,$60k - $150k,ethereum,4mo
+MetaMask,https://web3.career/community-support-manager-metamask/15277,United States,Community Support Manager,,community manager:non tech:customer support:ethereum,4mo
+MetaMask,https://web3.career/community-moderator-metamask/15276,Australia,Community Moderator,$15k - $30k,community manager:non tech:ethereum,4mo
+MetaMask,https://web3.career/senior-product-manager-metamask-snaps-metamask/15275,"San Francisco,
+United States",Senior Product Manager (MetaMask Snaps),$80k - $150k,product manager:non tech:senior:ethereum,4mo
+MetaMask,https://web3.career/product-strategy-manager-metamask/15274,United States,Product Strategy Manager,$60k - $150k,ethereum,4mo
+MetaMask,https://web3.career/product-manager-fintech-and-decentralized-finance-codefi-b2c-metamask/15273,United States,"Product Manager - FinTech and Decentralized Finance (Codefi), B2C",,c:c plus plus:finance:product manager:non tech,4mo
+MetaMask,https://web3.career/product-manager-metamask/15272,"San Francisco,
+United States",Product Manager,$80k - $150k,product manager:non tech:ethereum,4mo
+MetaMask,https://web3.career/technical-product-marketing-manager-developer-tools-metamask/15271,United States,"Technical Product Marketing Manager, Developer Tools",$85k - $120k,dev:marketing:non tech:ethereum,4mo
+MetaMask,https://web3.career/technical-content-writer-infura-metamask/15270,"New York,
+United States",Technical Content Writer (Infura),,copywriting:ethereum,4mo
+MetaMask,https://web3.career/product-marketing-manager-metamask-metamask/15269,United States,Product Marketing Manager (MetaMask),$48k - $120k,marketing:non tech:ethereum,4mo
+MetaMask,https://web3.career/product-marketing-manager-codefi-metamask-metamask/15268,United States,Product Marketing Manager (Codefi/MetaMask),$48k - $120k,marketing:non tech:ethereum,4mo
+MetaMask,https://web3.career/product-marketing-manager-metamask/15267,"New York,
+United States",Product Marketing Manager,$48k - $120k,marketing:non tech:ethereum:node:java,4mo
+MetaMask,https://web3.career/internal-communications-manager-metamask/15266,"New York,
+United States",Internal Communications Manager,$48k - $120k,marketing:non tech:ethereum,4mo
+MetaMask,https://web3.career/event-marketing-lead-metamask/15265,Australia,Event Marketing Lead,,events manager:non tech:lead:marketing:ethereum,4mo
+MetaMask,https://web3.career/digital-marketing-specialist-metamask/15264,Germany,Digital Marketing Specialist,$25k - $120k,marketing:non tech:remote:ethereum,4mo
+MetaMask,https://web3.career/community-growth-lead-metamask/15263,"San Francisco,
+United States",Community Growth Lead,$45k - $150k,community manager:non tech:marketing:lead:ethereum,4mo
+MetaMask,https://web3.career/brand-experience-designer-metamask/15262,"San Francisco,
+United States",Brand Experience Designer,,marketing:non tech:design:ethereum,4mo
+MetaMask,https://web3.career/sr-blockchain-engineer-truffle-metamask/15261,"San Francisco,
+United States",Sr. Blockchain Engineer (Truffle),$80k - $200k,dev:senior:blockchain:web3js:solidity,4mo
+MetaMask,https://web3.career/sr-blockchain-engineer-ganache-metamask/15260,United States,Sr. Blockchain Engineer (Ganache),$80k - $200k,dev:senior:blockchain:solidity:ethereum,4mo

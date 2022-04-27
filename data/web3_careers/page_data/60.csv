@@ -1,36 +1,59 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Fractal,https://web3.career/mint-designer-fractal-is/24159,Mint Designer,$100k - $150k,design:non tech:solana:nft,27d
-Consensys,https://web3.career/product-manager-developer-experience-consensys/24157,"Product Manager, Developer Experience",$135k - $175k,dev:product manager:non tech:remote:ethereum,27d
-Consensys,https://web3.career/principal-technical-product-manager-platform-services-consensys/24156,"Principal Technical Product Manager, Platform Services",$135k - $170k,executive:product manager:non tech:remote:ethereum,27d
-Fractal,https://web3.career/frontend-engineer-react-fractal-is/24155,Frontend Engineer (React),$50k - $140k,dev:front end:javascript:react:solana,27d
-Analog,https://web3.career/senior-substrate-rust-engineer-analog/24154,Senior Substrate/Rust Engineer,$120k - $210k,dev:rust:senior,27d
-METALABS,https://web3.career/full-stack-developer-dubai-uae-metalabs/24153,"Full Stack Developer - Dubai, UAE",$65k - $95k,dev:metaverse:nft:javascript:php,27d
-Energi Core Limited,https://web3.career/blockchain-developer-energicorelimited/24152,Blockchain Developer,$52k - $160k,dev:blockchain:solidity:ethereum:node,27d
-METALABS,https://web3.career/chief-technology-officer-cto-dubai-uae-metalabs/24151,"Chief Technology Officer (CTO) - Dubai, UAE",$200k - $300k,cto:dev:executive:react:blockchain,27d
-Grayscale Investments,https://web3.career/commercial-counsel-grayscaleinvestments/24150,Commercial Counsel,$24k - $140k,legal,27d
-peaq,https://web3.career/product-designer-m-w-d-peaq/24149,Product Designer (m/w/d),$50k - $150k,design:non tech,27d
-Spring Labs,https://web3.career/cryptographic-engineer-springlabs/24148,Cryptographic Engineer,$60k - $180k,dev,27d
-Fluree,https://web3.career/full-stack-developer-fluree/24147,Full Stack Developer,$65k - $180k,dev:full stack:react:javascript:java,27d
-Kraken Digital Asset Exchange,https://web3.career/banking-and-payments-lead-apac-japanese-speaking-kraken/24146,Banking and Payments Lead - APAC (Japanese Speaking),,finance:lead:remote,27d
-Concept Art House,https://web3.career/economy-designer-conceptarthouse/24145,Economy Designer,$60k - $150k,design:non tech:nft,27d
-OKX,https://web3.career/product-manager-kyc-okx/24143,Product Manager - KYC,,kyc:product manager:non tech,27d
-Virtually Human Studio,https://web3.career/devops-security-architect-remote-vhslab/24142,DevOps Security Architect (Remote),,remote:architecture:devops:security:nft,27d
-Fractal,https://web3.career/scout-fractal-is/24141,Scout,$95k - $180k,solana:nft,27d
-Ethereum Foundation,https://web3.career/technical-coordinator-ethereum-foundation/24140,Technical Coordinator,$0k,remote:ethereum:nft,27d
-O(1) Labs,https://web3.career/technical-recruiter-o1labs/24139,Technical Recruiter,$40k - $70k,recruiter:non tech,27d
-Fractal,https://web3.career/customer-success-fractal-is/24138,Customer Success,,customer support:solana:nft,27d
-Fractal,https://web3.career/blockchain-engineer-solidity-fractal-is/24137,Blockchain Engineer (Solidity),$52k - $160k,dev:blockchain:solidity:solana:nft,27d
-micobo GmbH,https://web3.career/devops-engineer-remote-only-in-germany-all-genders-micobo/24135,DevOps-Engineer (remote only in Germany) - all genders,$95k - $180k,remote:devops:dev:node:golang,27d
-Tangany,https://web3.career/frontend-web-developer-tangany/24134,Frontend Web Developer,$50k - $144k,dev:front end:react:vue,27d
-Virtually Human Studio,https://web3.career/crm-manager-vhslab/24133,CRM Manager,,crm:nft,27d
-Immunefi,https://web3.career/head-of-account-management-immunefi/24132,Head of Account Management,$70k - $180k,executive,27d
-Figure,https://web3.career/office-coordinator-figure/24131,Office Coordinator,,,27d
-Nuri,https://web3.career/working-student-affiliate-marketing-nuri/24130,Working Student Affiliate Marketing,$25k - $120k,marketing:non tech:remote,27d
-Taurus SA,https://web3.career/compliance-officer-taurusgroup/24129,Compliance officer,,compliance,27d
-Ripple,https://web3.career/associate-growth-marketing-manager-ripple/24128,Associate Growth Marketing Manager,$45k - $130k,marketing:non tech,27d
-Ledger,https://web3.career/junior-mechanical-engineer-ledger/24127,Junior Mechanical Engineer,$45k - $180k,dev:junior:entry level,28d
-Ledger,https://web3.career/m-a-associate-ledger/24126,M&A Associate,,,28d
-Binance,https://web3.career/office-manager-bahrain-binance/24125,Office Manager (Bahrain),,,28d
-Binance,https://web3.career/customer-support-specialist-spanish-binance/24124,Customer Support Specialist - Spanish,$40k - $80k,customer support,28d
-Kraken Digital Asset Exchange,https://web3.career/content-writer-nft-kraken/24123,"Content Writer, NFT",,copywriting:nft:remote,28d
-Uniswap Labs,https://web3.career/software-engineer-uniswap/24122,Software Engineer,,full stack:front end:backend:dev:remote,28d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Okcoin,https://web3.career/mobile-marketing-manager-okcoin/24790,"San Francisco,
+United States",Mobile Marketing Manager,,marketing:non tech:mobile,26d
+Chainalysis,https://web3.career/customer-success-manager-singapore-chainalysis/24789,"Singapore,
+Singapore","Customer Success Manager, Singapore",,sales:non tech:customer support,26d
+Protocol Labs,https://web3.career/product-manager-pln-services-protocollabs/24786,,"Product Manager, PLN Services",$69k - $160k,product manager:non tech,26d
+Binance,https://web3.career/hrbp-operations-binance/24785,"Singapore,
+Singapore",HRBP - Operations,$60k - $200k,operations,26d
+Build A Rocket Boy,https://web3.career/smart-contract-developer-blockchain-buildarocketboy/24784,"Edinburgh,
+United Kingdom",Smart Contract Developer – Blockchain,$50k - $150k,dev:blockchain:smart contract:web3js:solidity,26d
+RocketPower,https://web3.career/opensea-be-fullstack-engineer-rocketpower/24783,Slovenia,[Opensea] BE/Fullstack Engineer,$65k - $180k,dev:full stack,26d
+Fair.xyz,https://web3.career/senior-product-designer-fairxyz/24782,"London,
+United Kingdom",Senior Product Designer,$60k - $120k,design:non tech:senior:nft,26d
+Callsign,https://web3.career/nft-tester-uae-callsign/24781,"Abu Dhabi,
+United Arab Emirates",NFT Tester - UAE,$65k - $107k,nft:javascript:java,26d
+Callsign,https://web3.career/nft-tester-uk-callsign/24780,"London,
+United Kingdom",NFT Tester - UK,$65k - $107k,nft:javascript:java,26d
+wappier,https://web3.career/product-marketing-manager-web3-nfts-remote-first-or-remote-option-wappier/24779,Greece,"Product Marketing Manager, web3 & NFTs (Remote-First or Remote Option)",$25k - $120k,remote:marketing:non tech:nft,26d
+Tesseract,https://web3.career/head-of-crypto-tesseract/24778,"London,
+United Kingdom",Head of Crypto,$50k - $158k,executive:crypto,26d
+Crypto.com,https://web3.career/business-analyst-data-product-global-fintech-startup-crypto-com/24777,"Hong Kong,
+Hong Kong","Business Analyst, Data Product - Global Fintech Startup",,analyst:finance,26d
+Crypto.com,https://web3.career/senior-officer-contract-administration-legal-operations-sg-crypto-com/24776,"Singapore,
+Singapore","Senior Officer, Contract Administration - Legal Operations (SG)",,legal:operations:senior:nft,26d
+Crypto.com,https://web3.career/senior-officer-contract-administration-legal-operations-hk-crypto-com/24775,"Hong Kong,
+Hong Kong","Senior Officer, Contract Administration - Legal Operations (HK)",,legal:operations:senior:nft,26d
+Crypto.com,https://web3.career/crypto-trading-product-controller-avp-quant-trading-team-crypto-com/24774,"Hong Kong,
+Hong Kong",Crypto Trading Product Controller (AVP) - Quant Trading Team,$24k - $140k,legal:crypto,26d
+Crypto.com,https://web3.career/assistant-manager-legal-operations-and-knowledge-retention-hk-crypto-com/24773,"Hong Kong,
+Hong Kong",Assistant Manager - Legal Operations and Knowledge Retention (HK),,marketing:non tech:product manager:legal:operations,26d
+Crypto.com,https://web3.career/global-talent-acquisition-manager-uae-fintech-start-up-crypto-com/24772,United Arab Emirates,Global Talent Acquisition Manager (UAE) - Fintech Start-up,,finance:recruiter:non tech,26d
+Crypto.com,https://web3.career/compliance-manager-director-malaysia-kl-crypto-com/24771,Malaysia,Compliance Manager / Director - Malaysia (KL),,compliance:executive,26d
+Crypto.com,https://web3.career/data-engineer-backend-team-crypto-com/24770,,Data Engineer - Backend Team,$70k - $150k,backend:data science:dev:scala:java,26d
+Crypto.com,https://web3.career/assistant-officer-company-secretary-sg-global-fintech-startup-crypto-com/24769,"Singapore,
+Singapore","Assistant Officer, Company Secretary (SG) - Global Fintech Startup",$40k - $150k,finance,26d
+Crypto.com,https://web3.career/compliance-officer-crypto-com/24768,Malta,Compliance Officer,,compliance,26d
+Crypto.com,https://web3.career/senior-business-analyst-data-product-global-fintech-startup-crypto-com/24767,United States,"Senior Business Analyst, Data Product - Global Fintech Startup",,analyst:finance:senior,26d
+Crypto.com,https://web3.career/data-scientist-growth-analytics-global-fintech-startup-crypto-com/24766,"Hong Kong,
+Hong Kong","Data Scientist, Growth Analytics - Global Fintech startup",,stats:data science:finance:marketing:non tech,26d
+Crypto.com,https://web3.career/strategy-director-operational-excellence-business-process-improvement-crypto-com/24765,"Hong Kong,
+Hong Kong",Strategy Director (Operational Excellence & Business Process Improvement),$150k - $230k,executive:operations,26d
+Crypto.com,https://web3.career/ux-researcher-global-fintech-startup-crypto-com/24764,"Singapore,
+Singapore",UX Researcher - Global Fintech Startup,,finance:design:non tech,26d
+Crypto.com,https://web3.career/information-security-compliance-manager-crypto-com/24763,Germany,Information Security Compliance Manager,,compliance:security:remote,26d
+Crypto.com,https://web3.career/assistant-manager-legal-operations-and-knowledge-retention-sg-crypto-com/24762,"Singapore,
+Singapore",Assistant Manager - Legal Operations and Knowledge Retention (SG),,marketing:non tech:product manager:legal:operations,26d
+Crypto.com,https://web3.career/global-markets-compliance-officer-singapore-uae-crypto-com/24761,"Singapore,
+Singapore",Global Markets Compliance Officer (Singapore/UAE),,compliance,26d
+Crypto Finance AG,https://web3.career/golang-quant-developer-cryptofinanceag/24760,"Zurich,
+Switzerland",Golang Quant Developer,$33k - $100k,dev:golang:java,26d
+Crypto.com,https://web3.career/fraud-operations-manager-crypto-com/24759,"Miami,
+United States",Fraud Operations Manager,,security:operations,26d
+Brinc,https://web3.career/associate-program-manager-decentralized-finance-defi-accelerator-brinc/24758,"Hong Kong,
+Hong Kong",Associate Program Manager - Decentralized Finance (DeFi) Accelerator,$40k - $140k,finance:executive:defi:nft,26d
+Crypto.com,https://web3.career/executive-recruiting-coordinator-crypto-com/24757,United States,Executive Recruiting Coordinator,,executive:recruiter:non tech,26d
+Crypto.com,https://web3.career/office-manager-turkey-crypto-com/24756,Turkey,Office Manager - Turkey,,,26d
+Crypto.com,https://web3.career/data-privacy-manager-united-arab-emirates-uae-crypto-com/24755,United Arab Emirates,"Data Privacy Manager, United Arab Emirates (UAE)",,,26d
+Crypto.com,https://web3.career/consumer-protection-officer-u-s-canada-crypto-com/24754,"Miami,
+United States","Consumer Protection Officer, U.S. & Canada",,,26d

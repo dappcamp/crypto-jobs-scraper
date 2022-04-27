@@ -1,36 +1,61 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-SuperRare Labs,https://web3.career/associate-editor-superrarelabs/10817,Associate Editor,$70k - $158k,ethereum:nft,5mo
-SuperRare Labs,https://web3.career/product-support-specialist-superrarelabs/10816,Product Support Specialist,,customer support:ethereum:nft,5mo
-SuperLayer,https://web3.career/founding-product-manager-superlayer/10815,Founding Product Manager,$69k - $160k,product manager:non tech,5mo
-SuperLayer,https://web3.career/chief-financial-officer-superlayer/10814,Chief Financial Officer,$90k - $200k,executive:finance,5mo
-Stellar Development Foundation,https://web3.career/investment-associate-stellar/10813,Investment Associate,$40k - $150k,finance,5mo
-Stellar Development Foundation,https://web3.career/investment-associate-stellar/10812,Investment Associate,$40k - $150k,finance,5mo
-Stellar Development Foundation,https://web3.career/accountant-stellar/10811,Accountant,$25k - $150k,accounting,5mo
-Stellar Development Foundation,https://web3.career/staff-software-engineer-stellar/10810,Staff Software Engineer,$11k - $130k,dev:javascript:java:rust,5mo
-Stellar Development Foundation,https://web3.career/staff-software-engineer-stellar/10809,Staff Software Engineer,$11k - $130k,dev:javascript:java:rust,5mo
-Stellar Development Foundation,https://web3.career/staff-software-engineer-stellar/10808,Staff Software Engineer,$11k - $130k,dev:javascript:java:rust,5mo
-Stellar Development Foundation,https://web3.career/protocol-architect-stellar/10807,Protocol Architect,$67k - $180k,architecture,5mo
-Stellar Development Foundation,https://web3.career/protocol-architect-stellar/10806,Protocol Architect,$67k - $180k,architecture,5mo
-Stellar Development Foundation,https://web3.career/protocol-architect-stellar/10805,Protocol Architect,$67k - $180k,architecture,5mo
-Stellar Development Foundation,https://web3.career/site-reliability-engineer-stellar/10804,Site Reliability Engineer,,dev:sys admin:ruby,5mo
-Stellar Development Foundation,https://web3.career/senior-application-security-engineer-stellar/10803,Senior Application Security Engineer,$95k - $250k,dev:security:senior:react:golang,5mo
-Stellar Development Foundation,https://web3.career/senior-application-security-engineer-stellar/10802,Senior Application Security Engineer,$95k - $250k,dev:security:senior:react:golang,5mo
-Stellar Development Foundation,https://web3.career/engineering-manager-horizon-stellar/10801,"Engineering Manager, Horizon",$70k - $180k,executive,5mo
-Stellar Development Foundation,https://web3.career/engineering-manager-horizon-stellar/10800,"Engineering Manager, Horizon",$70k - $180k,executive,5mo
-Stellar Development Foundation,https://web3.career/engineering-manager-horizon-stellar/10799,"Engineering Manager, Horizon",$70k - $180k,executive,5mo
-Stellar Development Foundation,https://web3.career/backend-engineer-stellar/10798,Backend Engineer,$60k - $160k,backend:dev:java:rust,5mo
-Stellar Development Foundation,https://web3.career/backend-engineer-stellar/10797,Backend Engineer,$60k - $160k,backend:dev:java:rust,5mo
-Stellar Development Foundation,https://web3.career/senior-c-engineer-stellar/10796,Senior C++ Engineer,$100k - $150k,c:c plus plus:dev:senior,5mo
-Stellar Development Foundation,https://web3.career/senior-c-engineer-stellar/10795,Senior C++ Engineer,$100k - $150k,c:c plus plus:dev:senior,5mo
-Stellar Development Foundation,https://web3.career/senior-c-engineer-stellar/10794,Senior C++ Engineer,$100k - $150k,c:c plus plus:dev:senior,5mo
-Stellar Development Foundation,https://web3.career/technical-content-specialist-stellar/10793,Technical Content Specialist,$25k - $96k,marketing:non tech:copywriting:react:javascript,5mo
-Stellar Development Foundation,https://web3.career/enterprise-account-manager-stellar/10792,Enterprise Account Manager,,account manager,5mo
-Stellar Development Foundation,https://web3.career/enterprise-account-manager-stellar/10791,Enterprise Account Manager,,account manager,5mo
-Set Labs,https://web3.career/technical-recruiter-setlabs/10790,Technical Recruiter,$40k - $70k,recruiter:non tech,5mo
-Set Labs,https://web3.career/software-engineer-setlabs/10789,Software Engineer,$67k - $200k,dev:react:solidity:javascript:ruby,5mo
-Ripple,https://web3.career/platform-engineer-ripple/10788,Platform Engineer,$33k - $140k,dev:java,5mo
-Ripple,https://web3.career/platform-engineer-ripple/10787,Platform Engineer,$33k - $140k,dev:java,5mo
-Ripple,https://web3.career/developer-advocate-ripplex-developer-platform-ripple/10786,Developer Advocate (RippleX Developer Platform),$11k - $130k,dev:javascript:java,5mo
-Ripple,https://web3.career/staff-software-engineer-liquidity-finance-trading-ripple/10785,"Staff Software Engineer, Liquidity (Finance/Trading)",,dev:finance:sales:non tech:java,5mo
-Ripple,https://web3.career/staff-software-engineer-liquidity-finance-trading-ripple/10784,"Staff Software Engineer, Liquidity (Finance/Trading)",,dev:finance:sales:non tech:java,5mo
-Ripple,https://web3.career/software-engineer-ripplenet-payments-ripple/10783,"Software Engineer, RippleNet Payments",$33k - $140k,dev:java,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Eco,https://web3.career/community-manager-econetwork/11448,,Community Manager,$40k - $100k,community manager:non tech,5mo
+MobileCoin,https://web3.career/senior-software-engineer-mobilecoin-unicorn-startup-cryptocurrency-platform-mobilecoin/11447,,Senior Software Engineer - MobileCoin (Unicorn Startup): Cryptocurrency Platform,$85k - $200k,remote:dev:senior:crypto:rust,5mo
+Centrifuge GmbH,https://web3.career/brand-lead-centrifuge/11446,Remote,Brand Lead,$50k - $120k,marketing:non tech:lead:remote,5mo
+Qubit9 GmbH,https://web3.career/legal-tax-admin-associate-m-w-d-qubit9/11445,"Hamburg,
+Germany","Legal, Tax & Admin Associate (m/w/d)",,legal:accounting,5mo
+Chainalysis,https://web3.career/full-stack-web-developer-chainalysis/11444,"New York,
+United States",Full Stack Web Developer,$65k - $180k,dev:full stack:react:javascript:node,5mo
+Change,https://web3.career/senior-recruiter-changeinvest/11443,"Tallinn,
+Estonia",Senior Recruiter,$40k - $70k,recruiter:non tech:senior,5mo
+Wirex Limited,https://web3.career/hr-brand-manager-wirexlimited/11441,"Kiev,
+Ukraine",HR Brand Manager,,marketing:non tech:hr,5mo
+Wirex Limited,https://web3.career/copywriter-wirexlimited/11440,"Kiev,
+Ukraine",Copywriter,$13k - $45k,copywriting,5mo
+RECUR,https://web3.career/principal-software-engineer-nft-blockchain-engineering-remote-recur/11439,"Toronto,
+Canada",Principal Software Engineer - NFT/Blockchain Engineering (Remote),$95k - $300k,remote:dev:executive:blockchain:nft,5mo
+RECUR,https://web3.career/principal-security-engineer-remote-recur/11438,"Toronto,
+Canada",Principal Security Engineer (Remote),$95k - $300k,remote:dev:executive:security:nft,5mo
+Chainalysis,https://web3.career/senior-investigator-investigator-chainalysis/11437,"Washington,
+United States",Senior Investigator/Investigator,$78k - $200k,senior,5mo
+Curve Labs,https://web3.career/web3-solutions-architect-ethereum-curve-labs/11436,Remote,Web3 Solutions Architect (Ethereum),$70k - $115k,architecture:solidity:ethereum:remote,5mo
+Web3 Labs,https://web3.career/web3j-developer-web3-labs/11435,Remote,Web3j Developer,$35k - $55k,dev:solidity:ethereum:java:remote,5mo
+MoonPay,https://web3.career/compliance-analyst-moonpay/11434,"New York,
+United States",Compliance Analyst,,compliance:analyst,5mo
+Chainalysis,https://web3.career/sales-development-representative-dutch-speaking-chainalysis/11433,"Amsterdam,
+Netherlands",Sales Development Representative (Dutch Speaking),$26k - $140k,sales:non tech,5mo
+Chainalysis,https://web3.career/sales-development-representative-chainalysis/11432,"London,
+United Kingdom",Sales Development Representative,$26k - $140k,sales:non tech,5mo
+MoonPay,https://web3.career/third-party-risk-analyst-moonpay/11430,"New York,
+United States",Third Party Risk Analyst,$40k - $120k,analyst,5mo
+MoonPay,https://web3.career/program-manager-policies-procedures-moonpay/11429,"New York,
+United States","Program Manager, Policies & Procedures",$70k - $180k,executive,5mo
+SwissBorg,https://web3.career/junior-kyc-analyst-swissborg/11427,"Tallinn,
+Estonia",Junior KYC analyst,,kyc:analyst:junior:entry level,5mo
+SwissBorg,https://web3.career/french-senior-kyc-analyst-swissborg/11426,"Tallinn,
+Estonia",French Senior KYC Analyst,,kyc:analyst:senior,5mo
+SwissBorg,https://web3.career/french-kyc-analyst-swissborg/11425,"Lisbon,
+Portugal",French KYC Analyst,,kyc:analyst,5mo
+WOO Network,https://web3.career/automated-qa-engineer-woonetwork/11424,"Taipei,
+Taiwan",Automated QA Engineer,$30k - $50k,dev:quality assurance:java,5mo
+The Block,https://web3.career/senior-director-enterprise-memberships-theblockcrypto/11423,Remote,"Senior Director, Enterprise Memberships",$95k - $250k,executive:senior:remote,5mo
+The Block,https://web3.career/senior-director-of-memberships-theblockcrypto/11422,Remote,Senior Director of Memberships,$95k - $250k,executive:senior:remote,5mo
+The Block,https://web3.career/director-of-sales-enablement-theblockcrypto/11421,Remote,Director of Sales Enablement,$40k - $150k,executive:sales:non tech:remote,5mo
+The Block,https://web3.career/director-of-business-development-memberships-theblockcrypto/11420,Remote,"Director of Business Development, Memberships",$40k - $150k,sales:non tech:executive:remote,5mo
+SwissBorg,https://web3.career/acquisition-manager-remote-swissborg/11419,"Paris,
+France",Acquisition Manager (Remote),$56k - $160k,remote,5mo
+SwissBorg,https://web3.career/acquisition-manager-remote-swissborg/11418,"Berlin,
+Germany",Acquisition Manager (Remote),$56k - $160k,remote,5mo
+SwissBorg,https://web3.career/junior-kyc-analyst-swissborg/11417,"Lisbon,
+Portugal",Junior KYC analyst,,kyc:analyst:junior:entry level,5mo
+NEAR,https://web3.career/funding-coordinator-near/11414,"Zug,
+Switzerland",Funding Coordinator,,,5mo
+Autograph,https://web3.career/business-operations-manager-autograph/11413,"Santa Monica,
+United States",Business Operations Manager,,operations:nft,5mo
+Autograph,https://web3.career/business-affairs-autograph/11412,"Los Angeles,
+United States",Business Affairs,$55k - $150k,nft,5mo
+Ledger,https://web3.career/senior-tech-talent-acquisition-manager-ledger/11400,"London,
+United Kingdom",Senior Tech Talent Acquisition Manager,$40k - $70k,senior:recruiter:non tech,5mo
+Binance,https://web3.career/performance-marketing-specialist-indonesia-binance/11399,"Jakarta,
+Indonesia",Performance Marketing Specialist - Indonesia,$45k - $130k,marketing:non tech,5mo
+Kraken Digital Asset Exchange,https://web3.career/futures-product-manager-kraken/11398,Remote,Futures Product Manager,$115k - $175k,product manager:non tech:remote,5mo

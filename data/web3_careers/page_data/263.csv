@@ -1,36 +1,61 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Mythical Games,https://web3.career/senior-technical-product-manager-analytics-mythicalgames/15381,"Senior Technical Product Manager, Analytics",,stats:product manager:non tech:senior,4mo
-Binance,https://web3.career/risk-agent-junior-fresh-binance/15380,Risk Agent (Junior/Fresh),$12k - $120k,junior:entry level,4mo
-Gemini,https://web3.career/sr-associate-accounts-payable-gemini/15379,"Sr. Associate, Accounts Payable",,finance:accounting:senior,4mo
-Gemini,https://web3.career/sourcing-lead-it-category-gemini/15378,"Sourcing Lead, IT Category",$60k - $200k,lead,4mo
-Gemini,https://web3.career/senior-technical-sourcer-gemini/15377,Senior Technical Sourcer,$40k - $70k,recruiter:non tech:senior,4mo
-Gemini,https://web3.career/senior-associate-talent-acquisition-technology-gemini/15376,"Senior Associate, Talent Acquisition (Technology)",$40k - $70k,senior:recruiter:non tech,4mo
-Gemini,https://web3.career/senior-associate-talent-acquisition-corporate-gemini/15375,"Senior Associate, Talent Acquisition (Corporate)",$40k - $70k,senior:recruiter:non tech,4mo
-Gemini,https://web3.career/senior-associate-recruiting-analytics-gemini/15374,"Senior Associate, Recruiting Analytics",,stats:recruiter:non tech:senior,4mo
-Gemini,https://web3.career/senior-accountant-digital-assets-gemini/15373,"Senior Accountant, Digital Assets",,accounting:finance:senior,4mo
-Gemini,https://web3.career/recruiting-coordinator-gemini/15372,Recruiting Coordinator,$40k - $70k,recruiter:non tech,4mo
-Gemini,https://web3.career/people-operations-business-partner-hrbp-gemini/15371,People Operations Business Partner (HRBP),$60k - $200k,operations,4mo
-Gemini,https://web3.career/people-operations-associate-systems-and-process-admin-gemini/15370,People Operations Associate (Systems and Process Admin),$60k - $200k,operations,4mo
-Gemini,https://web3.career/payroll-analyst-gemini/15369,Payroll Analyst,$50k - $70k,analyst:accounting,4mo
-Gemini,https://web3.career/office-manager-gemini/15368,Office Manager,,,4mo
-Gemini,https://web3.career/manager-customer-support-credit-card-gemini/15367,"Manager, Customer Support, Credit Card",$40k - $80k,customer support,4mo
-Gemini,https://web3.career/lead-r4r-recruiter-gemini/15366,"Lead, R4R Recruiter",$40k - $70k,lead:recruiter:non tech,4mo
-Gemini,https://web3.career/global-compensation-manager-gemini/15365,Global Compensation Manager,,,4mo
-Gemini,https://web3.career/executive-assistant-gemini/15364,Executive Assistant,$63k - $180k,executive:nft,4mo
-Gemini,https://web3.career/associate-customer-support-gemini/15363,"Associate, Customer Support",$40k - $80k,customer support,4mo
-Gemini,https://web3.career/associate-director-talent-acquisition-technology-gemini/15362,"Associate Director, Talent Acquisition (Technology)",,executive:recruiter:non tech,4mo
-Gemini,https://web3.career/associate-director-custody-operations-gemini/15361,"Associate Director, Custody Operations",$150k - $230k,executive:operations,4mo
-Gemini,https://web3.career/principal-technology-and-security-internal-auditor-gemini/15360,"Principal, Technology and Security Internal Auditor",$95k - $250k,executive:security,4mo
-Gemini,https://web3.career/principal-global-real-estate-and-office-services-gemini/15359,"Principal, Global Real Estate and Office Services",$70k - $180k,executive,4mo
-Gemini,https://web3.career/lead-programmatic-trader-gemini/15358,"Lead, Programmatic Trader",,lead:trader:solidity,4mo
-Gemini,https://web3.career/lead-program-manager-infrastructure-gemini/15357,"Lead Program Manager, Infrastructure",$140k - $200k,lead:executive,4mo
-Gemini,https://web3.career/kyc-advisory-lead-gemini/15356,KYC Advisory Lead,,kyc:lead,4mo
-Gemini,https://web3.career/head-of-asia-pacific-apac-gemini/15355,Head of Asia Pacific (APAC),$70k - $180k,executive,4mo
-Gemini,https://web3.career/critical-operations-analyst-gemini/15354,Critical Operations Analyst,,analyst:operations,4mo
-Gemini,https://web3.career/country-manager-canada-gemini/15353,"Country Manager, Canada",,,4mo
-Gemini,https://web3.career/country-manager-australia-gemini/15352,"Country Manager, Australia",,,4mo
-Gemini,https://web3.career/corporate-counsel-gemini/15351,Corporate Counsel,$24k - $140k,legal,4mo
-Gemini,https://web3.career/compliance-associate-institutional-onboarding-gemini/15350,"Compliance Associate, Institutional Onboarding",,compliance,4mo
-Gemini,https://web3.career/compliance-associate-account-review-gemini/15349,"Compliance Associate, Account Review",,compliance,4mo
-Gemini,https://web3.career/compliance-analyst-retail-onboarding-gemini/15348,"Compliance Analyst, Retail Onboarding",,compliance:analyst,4mo
-Gemini,https://web3.career/compliance-analyst-account-review-gemini/15347,"Compliance Analyst, Account Review",,compliance:analyst,4mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Newton,https://web3.career/fraud-investigator-canada-wide-remote-newton/16115,"Toronto,
+Canada",Fraud Investigator - Canada Wide - Remote,$95k - $250k,remote:security,4mo
+IOTA Foundation,https://web3.career/site-reliability-engineer-iota/16114,Remote,Site Reliability Engineer,$150k - $200k,dev:sys admin:golang:remote,4mo
+Binance,https://web3.career/marketing-business-development-manager-binance/16113,Remote,Marketing/Business Development Manager,$100k - $200k,sales:non tech:marketing:remote,4mo
+Binance,https://web3.career/business-development-manager-binance/16112,Remote,Business Development Manager,$29k - $108k,sales:non tech:remote,4mo
+Binance,https://web3.career/community-manager-benelux-binance/16111,"Brussels,
+Belgium","Community Manager, Benelux",$40k - $100k,community manager:non tech,4mo
+Crystal Blockchain Analytics,https://web3.career/product-lead-crystal/16108,"Kiev,
+Ukraine",Product Lead,$60k - $200k,lead,4mo
+NUTS Finance,https://web3.career/growth-marketing-manager-web3-defi-nutsfinance/16107,"Hong Kong,
+Hong Kong",Growth Marketing Manager (Web3 & DeFi),$70k - $100k,marketing:non tech:defi,4mo
+Spruce Systems,https://web3.career/software-engineer-full-stack-spruce-systems/16105,"New York,
+United States","Software Engineer, Full Stack",$65k - $180k,dev:full stack:react:react native,4mo
+Gauss Global Machines,https://web3.career/blockchain-developer-gauss-global-machines/16104,India,Blockchain Developer,$174k - $1k,dev:blockchain:solidity:ethereum:nft,4mo
+Zilliqa,https://web3.career/office-administrator-zilliqa/16103,"London,
+United Kingdom",Office Administrator,,,4mo
+IOTA Foundation,https://web3.career/head-of-developer-experience-iota/16102,Remote,Head of Developer Experience,$95k - $300k,executive:dev:remote,4mo
+Workstation Customer Care,https://web3.career/blockchain-security-expert-m-f-d-3493287-blockchain-security-expert-m-f-d-utm_source-google_jobs_apply-pid-bce1fbd2f366390046fc/16101,"Berlin,
+Germany",Blockchain Security Expert (m/f/d),,security:blockchain:remote,4mo
+Papers AG,https://web3.career/full-stack-engineer-100-3572015-full-stack-engineer-100/16100,"Zug,
+Switzerland",Full Stack Engineer 100%,$39k - $200k,dev:full stack:solidity:ethereum:javascript,4mo
+Crypto.com,https://web3.career/developer-community-manager-defi-usa-crypto-com/16099,"Los Angeles,
+United States","Developer Community Manager, DeFi (USA)",,community manager:non tech:dev:defi:nft,4mo
+Crystal Blockchain Analytics,https://web3.career/product-lead-crystal/16094,"London,
+United Kingdom",Product Lead,$60k - $200k,lead,4mo
+Next Big Thing AG,https://web3.career/entrepreneur-in-residence-f-m-x-developing-cross-industry-iot-solutions-nextbigthing/16092,"Berlin,
+Germany",Entrepreneur in Residence (f/m/x) - Developing Cross-Industry IoT Solutions,$56k - $160k,remote,4mo
+Crystal Blockchain Analytics,https://web3.career/sales-executive-apac-remote-crystal/16090,"Singapore,
+Singapore","Sales Executive, APAC (Remote)",$40k - $150k,remote:executive:sales:non tech,4mo
+W3BCLOUD,https://web3.career/finance-manager-blockchain-crypto-usa-remote-based-location-w3bcloud/16087,"Dallas,
+United States",Finance Manager - Blockchain/Crypto (USA/Remote Based Location),$50k - $225k,remote:finance:blockchain:crypto,4mo
+WonderBlocks Labs,https://web3.career/frontend-engineer-nft-rewards-marketplace-wonderblocks-labs/16086,"San Francisco,
+United States",Frontend Engineer - NFT Rewards Marketplace,$0k,dev:front end:nft:javascript,4mo
+Crystal Blockchain Analytics,https://web3.career/sales-executive-remote-crystal/16083,"London,
+United Kingdom",Sales Executive (Remote),$40k - $150k,remote:executive:sales:non tech,4mo
+Crystal Blockchain Analytics,https://web3.career/senior-backend-developer-go-solidity-crystal/16082,"London,
+United Kingdom","Senior Backend Developer (Go, Solidity)",$33k - $160k,backend:dev:golang:senior:solidity,4mo
+Rarible,https://web3.career/partner-manager-rarible/16081,Remote,Partner Manager,$56k - $165k,remote:nft,4mo
+NUTS Finance,https://web3.career/full-stack-engineer-web3-defi-nutsfinance/16080,"San Francisco,
+United States",Full-Stack Engineer (Web3 & DeFi),$140k - $180k,dev:full stack:defi:react,4mo
+Nuri,https://web3.career/application-security-engineer-nuri/16079,"Berlin,
+Germany",Application Security Engineer,$95k - $250k,dev:security:remote,4mo
+Crystal Blockchain Analytics,https://web3.career/chief-revenue-officer-cro-crystal/16076,"London,
+United Kingdom",Chief Revenue Officer (CRO),$70k - $180k,executive,4mo
+Crystal Blockchain Analytics,https://web3.career/sales-executive-nam-remote-crystal/16075,"Washington,
+United States",Sales Executive (NAM) - Remote,$40k - $150k,remote:executive:sales:non tech,4mo
+Crystal Blockchain Analytics,https://web3.career/content-research-lead-crystal/16074,"Amsterdam,
+Netherlands",Content Research Lead,$60k - $200k,lead,4mo
+Crystal Blockchain Analytics,https://web3.career/customer-success-representative-remote-crystal/16069,"London,
+United Kingdom",Customer Success Representative (Remote),$40k - $80k,remote:customer support,4mo
+peaq,https://web3.career/community-manager-m-f-d-remote-3582662-community-manager-m-f-d-remote/16065,Remote,"Community Manager (m/f/d), REMOTE",$40k - $101k,remote:community manager:non tech,4mo
+Crystal Blockchain Analytics,https://web3.career/senior-lead-python-developer-crystal/16064,"Kiev,
+Ukraine",Senior/Lead Python Developer,$140k - $180k,dev:lead:python:senior,4mo
+Crystal Blockchain Analytics,https://web3.career/senior-qa-automation-engineer-remote-crystal/16063,Ukraine,Senior QA Automation Engineer (remote),,remote:dev:quality assurance:senior:java,4mo
+Crystal Blockchain Analytics,https://web3.career/performance-marketing-manager-crystal/16062,"Kiev,
+Ukraine",Performance Marketing Manager,$45k - $130k,marketing:non tech,4mo
+Crystal Blockchain Analytics,https://web3.career/qa-manual-engineer-remote-crystal/16061,Ukraine,QA Manual Engineer (remote),,remote:dev:quality assurance,4mo
+Crystal Blockchain Analytics,https://web3.career/customer-success-representative-remote-crystal/16060,"Kiev,
+Ukraine",Customer Success Representative (Remote),$40k - $80k,remote:customer support,4mo
+Gemini,https://web3.career/ux-research-manager-gemini/16059,United States,UX Research Manager,$50k - $150k,design:non tech,4mo

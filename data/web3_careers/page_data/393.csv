@@ -1,36 +1,70 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-GSR,https://web3.career/software-engineering-manager-blockchain-us-gsr/9536,Software Engineering Manager - Blockchain (US),$50k - $300k,executive:dev:blockchain,5mo
-GSR,https://web3.career/software-engineering-manager-blockchain-eu-gsr/9535,Software Engineering Manager - Blockchain (EU),$50k - $300k,executive:dev:blockchain,5mo
-GSR,https://web3.career/software-engineer-senior-software-engineer-associate-vp-gsr/9534,"Software Engineer / Senior Software Engineer, Associate / VP",$60k - $250k,dev:senior:executive,5mo
-GSR,https://web3.career/software-engineer-senior-software-engineer-associate-vp-gsr/9533,"Software Engineer / Senior Software Engineer, Associate / VP",$60k - $250k,dev:senior:executive,5mo
-GSR,https://web3.career/software-engineer-senior-software-engineer-risk-new-york-gsr/9532,Software Engineer / Senior Software Engineer - Risk - New York,$80k - $200k,dev:senior,5mo
-GSR,https://web3.career/software-engineer-senior-associate-vp-singapore-gsr/9531,Software Engineer - Senior Associate/VP - Singapore,$60k - $250k,dev:senior:executive,5mo
-GSR,https://web3.career/software-engineer-senior-associate-vp-london-gsr/9530,Software Engineer - Senior Associate/VP - London,$60k - $250k,dev:senior:executive,5mo
-GSR,https://web3.career/smart-contract-engineer-solidity-new-york-gsr/9529,Smart Contract Engineer (Solidity) - New York,$72k - $200k,dev:smart contract:solidity,5mo
-GSR,https://web3.career/senior-software-engineer-connectivity-senior-associate-vp-singapore-gsr/9528,"Senior Software Engineer, Connectivity - Senior Associate/VP - Singapore",$60k - $250k,dev:senior:executive,5mo
-GSR,https://web3.career/senior-software-engineer-connectivity-senior-associate-vp-new-york-gsr/9527,"Senior Software Engineer, Connectivity - Senior Associate/VP - New York",$60k - $250k,dev:senior:executive,5mo
-GSR,https://web3.career/qa-test-engineer-associate-senior-associate-overwatch-gsr/9526,"QA Test Engineer, Associate/Senior Associate - Overwatch",$30k - $50k,dev:quality assurance:senior,5mo
-GSR,https://web3.career/defi-full-stack-engineer-gsr/9525,DeFi - Full Stack Engineer,$93k - $150k,dev:full stack:defi,5mo
-GSR,https://web3.career/defi-full-stack-engineer-gsr/9524,DeFi - Full Stack Engineer,$93k - $150k,dev:full stack:defi,5mo
-GSR,https://web3.career/blockchain-infrastructure-reliability-engineer-gsr/9523,Blockchain Infrastructure / Reliability Engineer,,dev:sys admin:blockchain,5mo
-GSR,https://web3.career/technical-project-manager-vice-president-gsr/9522,"Technical Project Manager, Vice President",$50k - $150k,project manager:non tech,5mo
-GSR,https://web3.career/project-manager-vice-president-associate-gsr/9521,"Project Manager, Vice President / Associate",$50k - $150k,project manager:non tech,5mo
-GSR,https://web3.career/project-manager-vice-president-associate-gsr/9520,"Project Manager, Vice President / Associate",$50k - $150k,project manager:non tech,5mo
-GSR,https://web3.career/application-support-site-reliability-engineer-risk-associate-senior-associate-singapore-gsr/9519,Application Support/Site Reliability Engineer - Risk - Associate/Senior Associate - Singapore,$150k - $200k,dev:sys admin:senior:customer support,5mo
-GSR,https://web3.career/application-support-site-reliability-engineer-risk-associate-senior-associate-new-york-gsr/9518,Application Support/Site Reliability Engineer - Risk - Associate/Senior Associate - New York,$150k - $200k,dev:sys admin:senior:customer support,5mo
-GSR,https://web3.career/application-support-site-reliability-engineer-risk-associate-senior-associate-london-gsr/9517,Application Support/Site Reliability Engineer - Risk - Associate/Senior Associate - London,$150k - $200k,dev:sys admin:senior:customer support,5mo
-GSR,https://web3.career/application-support-site-reliability-engineer-data-integrity-associate-senior-associate-singapore-gsr/9516,Application Support/Site Reliability Engineer - Data Integrity - Associate/Senior Associate - Singapore,$150k - $200k,dev:sys admin:senior:customer support,5mo
-GSR,https://web3.career/application-support-site-reliability-engineer-data-integrity-associate-senior-associate-london-gsr/9515,Application Support/Site Reliability Engineer - Data Integrity - Associate/Senior Associate - London,$150k - $200k,dev:sys admin:senior:customer support,5mo
-GSR,https://web3.career/senior-support-engineer-associate-senior-associate-gsr/9514,"Senior Support Engineer, Associate/Senior Associate",,dev:senior:customer support,5mo
-GSR,https://web3.career/jira-confluence-systems-architect-administrator-senior-associate-london-gsr/9513,Jira & Confluence Systems Architect/Administrator - Senior Associate - London,$80k,architecture:senior,5mo
-GSR,https://web3.career/chief-information-security-officer-cryptocurrency-blockchain-usa-gsr/9512,Chief Information Security Officer - Cryptocurrency - Blockchain - USA,,executive:security:blockchain:crypto,5mo
-GSR,https://web3.career/site-reliability-engineer-associate-senior-associate-new-york-gsr/9511,"Site Reliability Engineer, Associate/Senior Associate - New York",$150k - $200k,dev:sys admin:senior,5mo
-GSR,https://web3.career/senior-data-engineer-defi-blockchain-vice-president-director-gsr/9510,Senior Data Engineer - DeFi / Blockchain - Vice President / Director,,data science:executive:dev:senior:blockchain,5mo
-GSR,https://web3.career/senior-data-engineer-defi-blockchain-vice-president-director-gsr/9509,Senior Data Engineer - DeFi / Blockchain - Vice President / Director,,data science:executive:dev:senior:blockchain,5mo
-GSR,https://web3.career/head-of-data-vice-president-director-gsr/9508,"Head of Data, Vice President/Director",,executive:data science,5mo
-GSR,https://web3.career/risk-quantitative-analyst-market-and-credit-risk-gsr/9507,Risk Quantitative Analyst (Market and Credit Risk),$40k - $120k,analyst,5mo
-GSR,https://web3.career/risk-quantitative-analyst-hft-model-risk-gsr/9506,Risk Quantitative Analyst (HFT/Model Risk),$40k - $120k,analyst,5mo
-GSR,https://web3.career/graduate-senior-recruiter-associate-vice-president-gsr/9505,"Graduate Senior Recruiter, Associate / Vice President",,intern:entry level:recruiter:non tech:senior,5mo
-GSR,https://web3.career/office-manager-gsr/9504,Office Manager,,,5mo
-GSR,https://web3.career/business-development-associate-east-coast-or-west-coast-gsr/9503,Business Development Associate (East Coast or West Coast),$26k - $140k,sales:non tech,5mo
-GSR,https://web3.career/business-development-associate-gsr/9502,Business Development Associate,$26k - $140k,sales:non tech,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Bittrex,https://web3.career/senior-software-engineer-frontend-bittrex/10047,"Washington,
+United States",Senior Software Engineer - Frontend,$70k - $190k,dev:front end:senior:javascript,6mo
+Bittrex,https://web3.career/senior-frontend-sdet-bittrex/10046,"Washington,
+United States",Senior Frontend SDET,,front end:senior:java,6mo
+Bittrex,https://web3.career/data-scientist-bittrex/10045,"Washington,
+United States",Data Scientist,$50k - $150k,data science,6mo
+Bittrex,https://web3.career/ux-researcher-bittrex/10044,"Washington,
+United States",UX Researcher,$50k - $150k,design:non tech,6mo
+Bittrex,https://web3.career/sar-writer-analyst-bittrex/10043,"Washington,
+United States",SAR Writer-Analyst,$40k - $120k,analyst,6mo
+BitGo,https://web3.career/data-analyst-bitgo/10042,"Austin,
+United States",Data Analyst,,analyst:data science:javascript:scala:java,6mo
+BitGo,https://web3.career/recruiting-coordinator-contract-bitgo/10041,"Palo Alto,
+United States",Recruiting Coordinator (contract),$40k - $70k,recruiter:non tech,6mo
+BitGo,https://web3.career/recruiter-generalist-contract-bitgo/10040,"New York,
+United States",Recruiter Generalist - Contract,$40k - $70k,recruiter:non tech,6mo
+BitGo,https://web3.career/recruiter-generalist-contract-bitgo/10039,"Palo Alto,
+United States",Recruiter Generalist - Contract,$40k - $70k,recruiter:non tech,6mo
+BitGo,https://web3.career/aml-analyst-nyc-bitgo/10038,"New York,
+United States",AML Analyst (NYC),$40k - $120k,analyst,6mo
+BitGo,https://web3.career/financial-analyst-bitgo/10037,"Palo Alto,
+United States",Financial Analyst,,analyst:finance,6mo
+BitGo,https://web3.career/software-engineer-tools-bitgo/10036,Remote,"Software Engineer, Tools",$65k - $180k,dev:remote,6mo
+BitGo,https://web3.career/senior-software-engineer-tools-bitgo/10035,"Palo Alto,
+United States","Senior Software Engineer , Tools",$80k - $200k,dev:senior,6mo
+BitGo,https://web3.career/senior-software-engineer-data-billing-bitgo/10034,"Palo Alto,
+United States","Senior Software Engineer, Data & Billing",$70k - $180k,dev:senior:react:node:java,6mo
+BitGo,https://web3.career/product-designer-bitgo/10033,"Palo Alto,
+United States",Product Designer,$50k - $150k,design:non tech,6mo
+Bitfury,https://web3.career/supply-chain-coordinator-remote-bitfury/10032,"Austin,
+United States",Supply Chain Coordinator (Remote),$80k - $110k,remote:operations,6mo
+Bitfury,https://web3.career/supply-chain-coordinator-remote-bitfury/10031,"Toronto,
+Canada",Supply Chain Coordinator (Remote),$80k - $110k,remote:operations,6mo
+Bitfury,https://web3.career/visual-content-manager-crystal-blockchain-remote-bitfury/10030,"Amsterdam,
+Netherlands",Visual Content Manager - Crystal Blockchain (Remote),$25k - $120k,remote:marketing:non tech:copywriting:vfx,6mo
+Bitfury,https://web3.career/visual-content-manager-crystal-blockchain-remote-bitfury/10029,"London,
+United Kingdom",Visual Content Manager - Crystal Blockchain (Remote),$25k - $120k,remote:marketing:non tech:copywriting:vfx,6mo
+Bitfury,https://web3.career/visual-content-manager-crystal-blockchain-remote-bitfury/10028,"Kiev,
+Ukraine",Visual Content Manager - Crystal Blockchain (Remote),$25k - $120k,remote:marketing:non tech:copywriting:vfx,6mo
+Bitfury,https://web3.career/tech-development-lead-go-solidity-bitfury/10027,"London,
+United Kingdom","Tech / Development Lead (Go, Solidity)",$70k - $180k,golang:lead:solidity,6mo
+Bitfury,https://web3.career/tech-development-lead-go-solidity-bitfury/10026,"Amsterdam,
+Netherlands","Tech / Development Lead (Go, Solidity)",$70k - $180k,golang:lead:solidity,6mo
+Bitfury,https://web3.career/tech-development-lead-go-solidity-bitfury/10025,"Kiev,
+Ukraine","Tech / Development Lead (Go, Solidity)",$70k - $180k,golang:lead:solidity,6mo
+Bitfury,https://web3.career/senior-qa-automation-engineer-crystal-remote-bitfury/10024,"Kiev,
+Ukraine","Senior QA Automation Engineer, Crystal (remote)",,remote:dev:quality assurance:senior:java,6mo
+Bitfury,https://web3.career/senior-lead-python-developer-bitfury/10023,"Kiev,
+Ukraine",Senior/Lead Python Developer,$140k - $180k,dev:lead:python:senior,6mo
+Bitfury,https://web3.career/qa-manual-engineer-crystal-remote-bitfury/10022,"Kiev,
+Ukraine","QA Manual Engineer, Crystal (remote)",,remote:dev:quality assurance,6mo
+Bitfury,https://web3.career/product-lead-crystal-blockchain-bitfury/10021,"Amsterdam,
+Netherlands",Product Lead (Crystal Blockchain),$35k - $160k,lead:blockchain,6mo
+Bitfury,https://web3.career/product-lead-crystal-blockchain-bitfury/10020,"Kiev,
+Ukraine",Product Lead (Crystal Blockchain),$35k - $160k,lead:blockchain,6mo
+Bitfury,https://web3.career/product-analyst-crystal-blockchain-bitfury/10019,"Kiev,
+Ukraine",Product Analyst (Crystal Blockchain),$60k - $104k,analyst:blockchain,6mo
+Bitfury,https://web3.career/performance-marketing-manager-crystal-blockchain-bitfury/10018,"Kiev,
+Ukraine",Performance Marketing Manager (Crystal Blockchain),$13k - $100k,marketing:non tech:blockchain,6mo
+Bitfury,https://web3.career/frontend-developer-wordpress-bitfury/10017,"Kiev,
+Ukraine",Frontend Developer (WordPress),,dev:front end:wordpress,6mo
+Bitfury,https://web3.career/devops-linux-system-administrator-bitfury/10016,"Kiev,
+Ukraine",DevOps/Linux System Administrator,,devops:linux:sys admin:golang,6mo
+Bitfury,https://web3.career/content-research-lead-crystal-blockchain-bitfury/10015,"Amsterdam,
+Netherlands",Content Research Lead (Crystal Blockchain),$35k - $160k,lead:blockchain,6mo
+Bitfury,https://web3.career/community-manager-clarity-protocol-bitfury/10014,"Kiev,
+Ukraine",Community Manager (Clarity Protocol),$40k - $100k,community manager:non tech,6mo
+Bitfury,https://web3.career/community-manager-clarity-protocol-bitfury/10013,"London,
+United Kingdom",Community Manager (Clarity Protocol),$40k - $100k,community manager:non tech,6mo

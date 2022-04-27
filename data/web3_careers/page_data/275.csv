@@ -1,36 +1,53 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-CryptoGoGos,https://web3.career/blockchain-developer-3527134-blockchain-developer-at-crypto-start-up/14868,Blockchain Developer,$65k - $160k,dev:blockchain:crypto:remote:solidity,4mo
-Bittrex,https://web3.career/compliance-analyst-bittrex/14867,Compliance Analyst,,compliance:analyst,4mo
-Sygnum Bank AG,https://web3.career/associate-legal-regtech-sygnum/14866,"Associate, Legal & RegTech",$24k - $140k,legal,4mo
-IOTA Foundation,https://web3.career/head-of-developer-experience-iota/14865,Head of Developer Experience,$95k - $300k,executive:dev:remote,4mo
-Crypto.com,https://web3.career/kyc-team-lead-late-shifts-crypto-com/14863,KYC Team Lead (Late Shifts),,kyc:lead,4mo
-Nuri,https://web3.career/vp-growth-nuri/14862,VP Growth,$70k - $158k,marketing:non tech:executive:remote,4mo
-Web3 Foundation,https://web3.career/technical-grants-evaluator-web3foundation/14861,Technical Grants Evaluator,$60k - $147k,javascript:rust,4mo
-Mirana,https://web3.career/blockchain-defi-researcher-junior-defi-trading-dex-mirana/14860,"Blockchain/Defi Researcher - Junior (Defi, Trading, Dex)",$109k - $11k,junior:entry level:blockchain:defi:ethereum,4mo
-Next Big Thing,https://web3.career/working-student-design-m-f-x-nextbigthingag2/14859,Working Student Design (m/f/x),$50k - $150k,design:non tech,4mo
-Crypto.com,https://web3.career/blockchain-security-engineeer-backend-rust-eu-crypto-com/14858,Blockchain Security Engineeer - Backend (Rust) (EU),,backend:rust:security:blockchain:ethereum,4mo
-Ramp,https://web3.career/chief-compliance-officer-rampnetwork/14856,Chief Compliance Officer,,compliance:executive,4mo
-Burnt Finance,https://web3.career/web3-product-manager-burnt-finance-1/14855,Web3 Product Manager,$100k - $150k,product manager:non tech,4mo
-Merkle Science,https://web3.career/lead-data-engineer-remote-merklescience/14854,Lead Data Engineer (Remote),,remote:data science:dev:lead,4mo
-Sygnum Bank AG,https://web3.career/team-lead-blockchain-engineering-sygnum/14852,Team Lead - Blockchain Engineering,$96k - $200k,lead:blockchain:solidity:javascript,4mo
-Nuri,https://web3.career/customer-support-agent-nuri/14849,Customer Support Agent,$40k - $80k,customer support:remote,4mo
-Crypto.com,https://web3.career/customer-experience-team-leader-social-media-night-shifts-crypto-com/14848,Customer Experience Team Leader (Social Media) (Night shifts),,customer support:lead:social media:non tech,4mo
-5ire,https://web3.career/crypto-fundraiser-5ire/14847,Crypto Fundraiser,$180k - $200k,crypto,4mo
-Sygnum Bank AG,https://web3.career/assistant-relationship-manager-funds-hedge-funds-100-sygnum/14846,Assistant Relationship Manager – Funds / Hedge Funds (100%),$48k - $120k,marketing:non tech:ethereum,4mo
-Crypto.com,https://web3.career/blockchain-security-engineer-backend-javascript-hk-crypto-com/14844,Blockchain Security Engineer (Backend) - Javascript (HK),$65k - $150k,backend:dev:javascript:security:blockchain,4mo
-Voodoo,https://web3.career/blockchain-investment-manager-voodoo/14843,Blockchain Investment Manager,$35k - $225k,finance:blockchain,4mo
-Heroic Story,https://web3.career/founding-web-3-engineer-heroicstory/14842,Founding Web 3 Engineer,$67k - $200k,dev:react:solidity:solana:nft,4mo
-Bumble,https://web3.career/head-of-crypto-and-web3-bumble/14841,Head of Crypto and Web3,,executive:crypto,4mo
-Crypto.com,https://web3.career/customer-experience-associate-with-english-and-french-spanish-portuguese-crypto-com/14840,Customer Experience Associate with English and French/Spanish/Portuguese,$40k - $80k,customer support,4mo
-Crypto.com,https://web3.career/blockchain-security-engineer-backend-javascript-uk-crypto-com/14839,Blockchain Security Engineer (Backend) - Javascript (UK),$65k - $150k,backend:dev:javascript:security:blockchain,4mo
-Next Big Thing AG,https://web3.career/senior-full-stack-engineer-python-react-node-f-m-x-nextbigthing/14838,Senior Full Stack Engineer - python/react/node (f/m/x),$65k - $180k,dev:full stack:javascript:node:python,4mo
-UBIRCH,https://web3.career/scala-backend-developer-m-f-d-3522878-scala-backend-developer-m-f-d/14837,SCALA BACKEND DEVELOPER (M/F/D),,backend:dev:scala:remote,4mo
-Nuri,https://web3.career/customer-support-agent-nuri/14836,Customer Support Agent,$40k - $80k,customer support:remote,4mo
-jade Eli Tecnologies,https://web3.career/hub-manager-senior-outsystems-tech-lead-3524062-hub-manager-und-senior-outsystems-tech-lead/14835,Hub Manager & Senior OutSystems Tech Lead,$140k - $220k,lead:senior:tech lead:javascript:php,4mo
-Voodoo,https://web3.career/blockchain-publishing-manager-voodoo/14831,Blockchain Publishing Manager,$50k - $150k,blockchain,4mo
-Crypto.com,https://web3.career/blockchain-security-engineer-mobile-hk-crypto-com/14829,Blockchain Security Engineer - Mobile (HK),,dev:mobile:security:blockchain:react,4mo
-IANULY Talent Accelerators,https://web3.career/web3-community-manager-ianulytalentaccelerators/14828,Web3 Community Manager,$35k - $101k,community manager:non tech:nft,4mo
-Voodoo,https://web3.career/blockchain-engineering-voodoo/14827,Blockchain Engineering,$50k - $150k,blockchain,4mo
-Ledger,https://web3.career/product-owner-hardware-wallets-ledger/14825,Product Owner hardware wallets,,product manager:non tech:hardware,4mo
-Binance,https://web3.career/pmo-lead-fiat-binance/14824,PMO Lead (Fiat),$95k - $200k,lead:remote,4mo
-Ledger,https://web3.career/senior-product-manager-next-generation-web-3-hardware-ledger/14823,Senior Product Manager - Next Generation Web 3 Hardware,,hardware:product manager:non tech:senior,4mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+AcumenCog,https://web3.career/business-developer-it-sales-3511770-business-developer-it-sales/15526,Remote,Business developer / IT sales,,dev:sales:non tech:remote,4mo
+Hiro,https://web3.career/frontend-engineer-user-experience-hiro/15525,Remote,"Frontend Engineer, User Experience",,dev:front end:design:non tech:remote,4mo
+SwissBorg,https://web3.career/web-developer-remote-swissborg/15524,"Lisbon,
+Portugal",Web Developer (Remote),$65k - $180k,remote:dev,4mo
+SwissBorg,https://web3.career/content-marketing-specialist-remote-swissborg/15523,"Lisbon,
+Portugal",Content Marketing Specialist (Remote),$25k - $120k,remote:marketing:non tech,4mo
+Polygon,https://web3.career/business-strategy-analyst-polygon/15522,Remote,Business Strategy Analyst,$45k - $55k,analyst:remote:ethereum,4mo
+Ripple,https://web3.career/sr-product-marketing-manager-strategy-research-ripple/15521,"London,
+United Kingdom",Sr. Product Marketing Manager - Strategy + Research,$46k - $109k,marketing:non tech:senior,4mo
+Ripple,https://web3.career/sr-product-marketing-manager-strategy-research-ripple/15520,"New York,
+United States",Sr. Product Marketing Manager - Strategy + Research,$46k - $109k,marketing:non tech:senior,4mo
+Hivemapper,https://web3.career/senior-fullstack-engineer-hivemapper/15519,"Los Angeles,
+United States",Senior Fullstack Engineer,$140k - $180k,dev:full stack:senior:react:javascript,4mo
+Hivemapper,https://web3.career/senior-backend-engineer-hivemapper/15518,"Los Angeles,
+United States",Senior Backend Engineer,$145k - $200k,backend:dev:senior:node,4mo
+Hivemapper,https://web3.career/don-t-see-a-fit-apply-here-hivemapper/15517,United States,Don't see a fit? Apply here!,,,4mo
+Parity Technologies,https://web3.career/technical-writer-parity/15485,"Berlin,
+Germany",Technical Writer,$45k - $120k,analyst:remote,4mo
+Boson Protocol,https://web3.career/community-customer-support-manager-bosonprotocol/15484,"London,
+United Kingdom",Community & Customer Support Manager,,community manager:non tech:customer support:nft,4mo
+Ripple,https://web3.career/senior-policy-manager-emea-ripple/15483,"London,
+United Kingdom",Senior Policy Manager (EMEA),$78k - $200k,senior,4mo
+Parity Technologies,https://web3.career/technical-documentation-lead-m-f-d-parity/15482,"Berlin,
+Germany",Technical Documentation Lead (m/f/d),$96k - $118k,lead:remote:rust,4mo
+Consensys,https://web3.career/research-engineer-cryptography-and-zero-knowledge-protocols-consensys/15481,Remote,Research Engineer - Cryptography and Zero-Knowledge Protocols,$60k - $150k,dev:remote:ethereum:rust,4mo
+Chain,https://web3.career/chief-marketing-officer-chain/15480,Remote,Chief Marketing Officer,$70k - $158k,executive:marketing:non tech:remote,4mo
+Crypto.com,https://web3.career/blockchain-security-engineeer-backend-rust-kr-crypto-com/15479,"Seoul,
+South Korea",Blockchain Security Engineeer - Backend (Rust) (KR),,backend:rust:security:blockchain:ethereum,4mo
+Ankr,https://web3.career/defi-junior-analyst-ankr/15477,"Amsterdam,
+Netherlands",DeFi Junior Analyst,$10k - $13k,analyst:junior:entry level:defi,4mo
+Apna Samaaj Tech,https://web3.career/blockchain-developer-apnasamaaj/15473,India,Blockchain Developer,$93k - $23k,dev:blockchain:react,4mo
+Autograph,https://web3.career/junior-data-analyst-autograph/15470,"Santa Monica,
+United States",Junior Data Analyst,,analyst:data science:junior:entry level:nft,4mo
+Panther Protocol,https://web3.career/solidity-developer-pantherprotocol/15469,United States,Solidity Developer,$60k - $135k,dev:solidity:web3js:react:ethereum,4mo
+Chain,https://web3.career/chief-revenue-officer-chain/15467,Remote,Chief Revenue Officer,$79k - $200k,executive:remote,4mo
+Autograph,https://web3.career/it-support-specialist-autograph/15466,"Santa Monica,
+United States",IT Support Specialist,,customer support:nft,4mo
+Interchain,https://web3.career/community-advocate-interchain-gmbh/15464,"Berlin,
+Germany",Community Advocate,$40k - $100k,community manager:non tech,4mo
+Parcel,https://web3.career/lead-marketing-designer-parcel/15463,Remote,Lead Marketing Designer,,design:non tech:lead:marketing:remote,4mo
+Parcel,https://web3.career/content-manager-copywriter-parcel/15462,Remote,Content Manager & Copywriter,,marketing:non tech:copywriting:remote,4mo
+Parcel,https://web3.career/community-management-social-media-parcel/15461,Remote,Community Management & Social Media,,community manager:non tech:social media:remote,4mo
+Parcel,https://web3.career/data-scientist-parcel/15460,Remote,Data Scientist,,data science:remote,4mo
+Parcel,https://web3.career/solidity-engineer-parcel/15459,Remote,Solidity Engineer,,dev:solidity:remote,4mo
+Parcel,https://web3.career/frontend-engineer-parcel/15458,Remote,Frontend Engineer,,dev:front end:remote,4mo
+Parcel,https://web3.career/senior-full-stack-engineer-parcel/15457,Remote,Senior Full Stack Engineer,,dev:full stack:senior:remote,4mo
+Cake Pte Ltd,https://web3.career/risk-and-internal-controls-specialist-cakedefi/15456,"Singapore,
+Singapore",Risk and Internal Controls Specialist,,,4mo
+bloXmove,https://web3.career/lead-architect-3472475-lead-architect/15453,Remote,Lead Architect,,architecture:lead:remote,4mo
+Sygnum Bank AG,https://web3.career/blockchain-engineer-sygnum/15449,Switzerland,Blockchain Engineer,$52k - $160k,dev:blockchain:solidity:node,4mo
+Next Big Thing AG,https://web3.career/junior-social-media-manager-f-m-x-nextbigthing/15448,"Berlin,
+Germany",Junior Social Media Manager (f/m/x),,junior:entry level:social media:non tech:remote,4mo

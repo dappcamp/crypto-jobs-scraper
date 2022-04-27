@@ -1,36 +1,54 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-BitGo,https://web3.career/technical-support-manager-bitgo/120,Technical Support Manager,$40k - $80k,customer support,7mo
-BitGo,https://web3.career/technical-support-engineer-bitgo/119,Technical Support Engineer,,dev:customer support:remote,7mo
-BitGo,https://web3.career/technical-support-engineer-bitgo/118,Technical Support Engineer,$90k - $140k,dev:customer support,7mo
-BitGo,https://web3.career/senior-data-analyst-bitgo/117,Senior Data Analyst,,analyst:data science:senior:javascript:scala,7mo
-BitGo,https://web3.career/product-manager-bitgo/116,Product Manager,$69k - $160k,product manager:non tech,7mo
-BitGo,https://web3.career/product-manager-bitgo/115,Product Manager,$69k - $160k,product manager:non tech,7mo
-BitGo,https://web3.career/product-manager-bitgo/114,Product Manager,$69k - $160k,product manager:non tech,7mo
-BitGo,https://web3.career/designer-brand-design-bitgo/113,"Designer, Brand Design",,marketing:non tech:design,7mo
-BitGo,https://web3.career/university-recruiter-contract-bitgo/112,University Recruiter - Contract,$40k - $70k,recruiter:non tech,7mo
-BitGo,https://web3.career/vault-coordinator-ops-specialist-night-off-hour-shifts-bitgo/111,Vault Coordinator/Ops. Specialist (Night/Off Hour Shifts),,,7mo
-BitGo,https://web3.career/product-operations-analyst-bitgo/110,Product Operations Analyst,,analyst:operations,7mo
-BitGo,https://web3.career/prime-junior-client-service-analyst-bitgo/109,Prime Junior Client Service Analyst,$10k - $13k,analyst:junior:entry level:remote,7mo
-BitGo,https://web3.career/executive-assistant-to-the-ceo-bitgo/108,Executive Assistant to the CEO,$70k - $180k,executive,7mo
-BitGo,https://web3.career/executive-assistant-admin-bitgo/107,Executive Assistant/Admin.,$70k - $180k,executive,7mo
-BitGo,https://web3.career/third-party-risk-management-procurement-manager-sr-manager-bitgo/106,Third Party Risk Management & Procurement (Manager/Sr. Manager),$78k - $200k,senior,7mo
-BitGo,https://web3.career/sr-manager-director-of-security-operations-center-bitgo/105,Sr. Manager/Director of Security Operations Center,,executive:operations:security:senior,7mo
-BitGo,https://web3.career/compliance-specialist-bitgo/104,Compliance Specialist,,compliance,7mo
-BitGo,https://web3.career/chief-legal-counsel-bitgo/103,Chief Legal Counsel,,legal:executive,7mo
-BitGo,https://web3.career/business-continuity-manager-sr-manager-risk-bitgo/102,Business Continuity Manager/Sr. Manager (Risk),$78k - $200k,senior,7mo
-BitGo,https://web3.career/it-intern-bitgo/101,IT Intern,,intern:entry level,7mo
-BitGo,https://web3.career/it-intern-bitgo/100,IT Intern,,intern:entry level,7mo
-BitGo,https://web3.career/solutions-engineer-bitgo/99,Solutions Engineer,$60k - $180k,dev,7mo
-BitGo,https://web3.career/solutions-engineer-bitgo/98,Solutions Engineer,$60k - $180k,dev,7mo
-BitGo,https://web3.career/software-engineer-prime-services-bitgo/97,"Software Engineer, Prime Services",,accounting:dev:node:java:golang,7mo
-BitGo,https://web3.career/software-engineer-india-bitgo/96,"Software Engineer, India",$11k - $130k,dev:javascript:java,7mo
-BitGo,https://web3.career/software-engineer-i-blockchain-eth-defi-wbtc-bitgo/95,"Software Engineer I, Blockchain (ETH/DeFi/WBTC)",$70k - $200k,dev:blockchain:defi:react:solidity,7mo
-BitGo,https://web3.career/software-engineer-financial-services-bitgo/94,"Software Engineer, Financial Services",$40k - $120k,dev:finance:react:node:java,7mo
-BitGo,https://web3.career/software-engineer-blockchain-eth-defi-wbtc-bitgo/93,"Software Engineer, Blockchain (ETH / DeFi / WBTC)",$70k - $200k,dev:blockchain:defi:react:solidity,7mo
-BitGo,https://web3.career/software-engineer-backend-blockchain-bitgo/92,"Software Engineer (Backend), Blockchain",$60k - $180k,backend:dev:blockchain:java:golang,7mo
-BitGo,https://web3.career/software-engineer-applications-bitgo/91,"Software Engineer, Applications",$60k - $180k,dev:react:node:java:golang,7mo
-BitGo,https://web3.career/senior-software-engineer-india-bitgo/90,"Senior Software Engineer, India",$80k - $200k,dev:senior:javascript:node:java,7mo
-BitGo,https://web3.career/senior-software-engineer-financial-services-bitgo/89,"Senior Software Engineer, Financial Services",,dev:finance:senior:react:node,7mo
-BitGo,https://web3.career/senior-software-engineer-blockchain-eth-defi-wbtc-bitgo/88,"Senior Software Engineer, Blockchain (ETH/ DeFi / WBTC)",$80k - $200k,dev:senior:blockchain:defi:solidity,7mo
-BitGo,https://web3.career/senior-software-engineer-backend-blockchain-integration-team-bitgo/87,"Senior Software Engineer (Backend), Blockchain Integration Team",$70k - $200k,backend:dev:senior:blockchain:react,7mo
-BitGo,https://web3.career/senior-software-engineer-backend-blockchain-bitgo/86,"Senior Software Engineer (Backend), Blockchain",$70k - $200k,backend:dev:senior:blockchain:ethereum,7mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Sherbet,https://web3.career/full-stack-web3-developer-sherbet/725,Remote,Full Stack Web3 Developer,$60k - $90k,dev:full stack:javascript:remote,7mo
+Unit 410,https://web3.career/controller-u410/724,"Austin,
+United States",Controller,$24k - $140k,legal,7mo
+RECUR,https://web3.career/vp-of-product-remote-recur/723,Remote,VP of Product (Remote),$115k - $175k,remote:product manager:non tech:executive:ethereum,7mo
+RECUR,https://web3.career/product-marketing-manager-remote-recur/722,Remote,Product Marketing Manager (Remote),$25k - $120k,remote:marketing:non tech:ethereum:nft,7mo
+RECUR,https://web3.career/product-designer-remote-recur/721,Remote,Product Designer (Remote),$50k - $135k,remote:design:non tech:ethereum:nft,7mo
+RECUR,https://web3.career/senior-recruiter-remote-recur/720,Remote,Senior Recruiter (Remote),,remote:recruiter:non tech:senior:ethereum,7mo
+RECUR,https://web3.career/vp-of-marketing-remote-recur/719,Remote,VP of Marketing (Remote),$25k - $120k,remote:marketing:non tech:executive:ethereum,7mo
+RECUR,https://web3.career/senior-content-marketing-manager-remote-recur/718,Remote,Senior Content Marketing Manager (Remote),$25k - $120k,remote:marketing:non tech:senior:ethereum,7mo
+RECUR,https://web3.career/it-operations-and-systems-administrator-remote-recur/717,"Miami,
+United States",IT Operations and Systems Administrator (Remote),,remote:operations:sys admin:ethereum,7mo
+RECUR,https://web3.career/vp-of-gaming-remote-recur/716,Remote,VP of Gaming (Remote),,remote:game dev:executive:ethereum:nft,7mo
+RECUR,https://web3.career/ux-designer-gaming-remote-recur/715,"Los Angeles,
+United States","UX Designer, Gaming (Remote)",$50k - $135k,remote:design:non tech:game dev:ethereum,7mo
+RECUR,https://web3.career/producer-games-and-experiences-remote-recur/714,Remote,"Producer, Games and Experiences (Remote)",$79k - $158k,remote:ethereum:nft,7mo
+RECUR,https://web3.career/senior-software-engineer-platform-engineering-remote-recur/713,"Boston,
+United States",Senior Software Engineer - Platform Engineering (Remote),$85k - $200k,remote:dev:senior:ethereum:nft,7mo
+RECUR,https://web3.career/senior-software-engineer-nft-blockchain-engineering-remote-recur/712,"Boston,
+United States",Senior Software Engineer - NFT/Blockchain Engineering (Remote),$85k - $200k,remote:dev:senior:blockchain:nft,7mo
+RECUR,https://web3.career/senior-front-end-engineer-remote-recur/711,"Boston,
+United States",Senior Front End Engineer (Remote),$22k - $120k,remote:dev:front end:senior:react,7mo
+RECUR,https://web3.career/principal-software-engineer-remote-recur/710,"Boston,
+United States",Principal Software Engineer (Remote),$95k - $300k,remote:dev:executive:ethereum:nft,7mo
+RECUR,https://web3.career/principal-security-engineer-remote-recur/709,"Miami,
+United States",Principal Security Engineer (Remote),$95k - $300k,remote:dev:executive:security:nft,7mo
+RECUR,https://web3.career/senior-motion-designer-sports-remote-recur/708,Remote,Senior Motion Designer - Sports (Remote),$50k - $135k,remote:design:non tech:senior:ethereum,7mo
+RECUR,https://web3.career/senior-motion-designer-remote-recur/707,Remote,Senior Motion Designer (Remote),$50k - $135k,remote:design:non tech:senior:ethereum,7mo
+RECUR,https://web3.career/senior-digital-illustrator-motion-graphics-artist-remote-recur/706,Remote,Senior Digital Illustrator/Motion Graphics Artist (Remote),,remote:illustrator:vfx:senior:ethereum,7mo
+RECUR,https://web3.career/motion-graphics-artist-remote-recur/705,Remote,Motion Graphics Artist (Remote),,remote:vfx:ethereum,7mo
+RECUR,https://web3.career/motion-designer-sports-remote-recur/704,Remote,Motion Designer - Sports (Remote),$50k - $135k,remote:design:non tech:ethereum,7mo
+RECUR,https://web3.career/digital-illustrator-motion-graphics-artist-remote-recur/703,Remote,Digital Illustrator/Motion Graphics Artist (Remote),,remote:illustrator:vfx:ethereum:nft,7mo
+RECUR,https://web3.career/vp-of-community-remote-recur/702,Remote,VP of Community (Remote),$40k - $101k,remote:community manager:non tech:executive:ethereum,7mo
+RECUR,https://web3.career/senior-community-manager-remote-recur/701,Remote,Senior Community Manager (Remote),$40k - $101k,remote:community manager:non tech:senior:ethereum,7mo
+Tron,https://web3.career/head-of-data-analytics-bittorrent-rainberry/700,"San Francisco,
+United States","Head of Data Analytics, BitTorrent",,executive:stats:data science,7mo
+Tron,https://web3.career/director-of-advertising-technical-solutions-integrations-rainberry/699,"San Francisco,
+United States",Director of Advertising Technical Solutions & Integrations,,executive:javascript:php,7mo
+Tron,https://web3.career/devops-engineer-rainberry/698,"San Francisco,
+United States",DevOps Engineer,,devops:dev:ruby,7mo
+Tron,https://web3.career/data-analyst-rainberry/697,"San Francisco,
+United States",Data Analyst,$36k - $72k,analyst:data science,7mo
+Tron,https://web3.career/senior-advertising-demand-sales-manager-singapore-rainberry/696,"Singapore,
+Singapore","Senior Advertising Demand Sales Manager, Singapore",$50k - $150k,sales:non tech:senior,7mo
+Tron,https://web3.career/senior-product-manager-rainberry/695,"San Francisco,
+United States",Senior Product Manager,$80k - $150k,product manager:non tech:senior,7mo
+Tron,https://web3.career/product-marketing-manager-rainberry/694,"San Francisco,
+United States",Product Marketing Manager,$45k - $130k,marketing:non tech,7mo
+Tron,https://web3.career/marketing-intern-rainberry/693,"San Francisco,
+United States",Marketing Intern,$24k - $48k,intern:entry level:marketing:non tech,7mo
+Tron,https://web3.career/director-social-media-engagement-rainberry/692,"San Francisco,
+United States","Director, Social Media Engagement",$45k - $150k,executive:social media:non tech,7mo
+Tron,https://web3.career/business-development-manager-rainberry/691,"San Francisco,
+United States",Business Development Manager,$26k - $140k,sales:non tech,7mo

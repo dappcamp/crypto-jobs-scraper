@@ -1,36 +1,58 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Binance,https://web3.career/chief-information-security-officer-fiat-binance/24238,"Chief Information Security Officer, Fiat",$95k - $250k,executive:security,26d
-Konstellation Korea,https://web3.career/cosmos-smart-contract-engineer-konstellation-1/24237,Cosmos Smart Contract Engineer,$33k - $83k,dev:smart contract:web3js:ethereum:rust,26d
-Ledger,https://web3.career/sales-lead-asia-ledger/24236,Sales Lead Asia,,lead:sales:non tech,27d
-NFT.Kred,https://web3.career/sales-engineer-nft-kred/24235,Sales Engineer,,sales:marketing:non tech:nft,27d
-Ripple,https://web3.career/senior-staff-platform-engineer-ripple/24233,Senior Staff Platform Engineer,$50k - $200k,dev:senior:java,27d
-RECUR,https://web3.career/manager-payroll-recur/24231,"Manager, Payroll",$120k - $150k,accounting:nft,27d
-nft42,https://web3.career/ui-ux-designer-nft42/24230,UI/UX Designer,$60k - $150k,design:non tech:nft,27d
-Blockchain.com,https://web3.career/portfolio-development-lead-investments-blockchain/24229,"Portfolio Development Lead, Investments",$35k - $150k,finance:lead,27d
-Blockchain.com,https://web3.career/investment-analyst-intern-principal-investments-blockchain/24228,"Investment Analyst Intern, Principal Investments",$20k - $30k,analyst:intern:entry level:finance:executive,27d
-MELON,https://web3.career/design-lead-nft-crypto-daos-melon-ooo/24227,Design Lead (NFT / Crypto / DAOs),$30k - $40k,design:non tech:lead:crypto:nft,27d
-RDX Works,https://web3.career/sdet-rdx-works/24225,SDET,$80k - $110k,,27d
-Ripple,https://web3.career/observability-engineer-ripple/24224,Observability Engineer,$33k - $145k,dev:node:java,27d
-BlockFi,https://web3.career/director-of-client-relationship-management-retail-hnw-segment-blockfi/24221,Director of Client Relationship Management - - Retail HNW Segment,$70k - $180k,executive,27d
-Ledger,https://web3.career/team-lead-front-end-software-engineer-ledger-live-ledger/24220,Team Lead Front-End Software Engineer - Ledger Live,$56k - $79k,dev:front end:lead:react,27d
-Ledger,https://web3.career/developer-experience-js-software-engineer-dx-ledger-live-ledger/24219,Developer Experience - JS Software Engineer (DX) - Ledger Live,$56k - $160k,javascript:dev:react:react native,27d
-Chain,https://web3.career/systems-architect-chain/24218,Systems Architect,$67k - $300k,architecture:remote,27d
-Analog,https://web3.career/front-end-engineer-analog/24217,Front-end Engineer,$50k - $150k,dev:front end,27d
-RDX Works,https://web3.career/devops-engineer-rdx-works/24216,DevOps Engineer,$70k - $130k,devops:dev,27d
-Figure,https://web3.career/payments-and-blockchain-compliance-director-figure/24215,Payments and Blockchain Compliance Director,,compliance:executive:blockchain,27d
-Eco,https://web3.career/customer-operations-lead-econetwork/24214,Customer Operations Lead,,lead:operations,27d
-Energi Core,https://web3.career/blockchain-developer-energi-cryptocurrency-2/24211,Blockchain Developer,$52k - $160k,dev:blockchain:solidity:ethereum:node,27d
-Nixet,https://web3.career/solana-blockchain-engineer-nixet/24210,Solana Blockchain Engineer,$10k - $23k,dev:blockchain:solana:nft:rust,27d
-RDX Works,https://web3.career/senior-net-developer-rdx-works/24209,Senior .NET Developer,$70k - $150k,dot net:dev:senior,27d
-Ripple,https://web3.career/director-ripplenet-payments-ripple/24208,"Director, RippleNet Payments",$70k - $180k,executive,27d
-Gluwa,https://web3.career/senior-product-marketing-manager-gluwa/24207,Senior Product Marketing Manager,$46k - $109k,marketing:non tech:senior:ethereum,27d
-Bittrex,https://web3.career/support-chatbot-specialist-bittrex/24206,Support Chatbot Specialist,,chatbot:customer support,27d
-Terraform Labs,https://web3.career/r-d-engineer-terra/24205,R&D Engineer,$60k - $150k,dev:remote:ethereum,27d
-Virtually Human Studio,https://web3.career/senior-data-analyst-vhslab/24204,Senior Data Analyst,,analyst:data science:senior:nft,27d
-CoinDesk & TradeBlock Opportunities,https://web3.career/coindesk-senior-producer-weekly-shows-special-projects-coindesk/24203,"CoinDesk Senior Producer, Weekly Shows & Special Projects",$78k - $200k,senior,27d
-Brave,https://web3.career/account-manager-brave/24202,Account Manager,,account manager:javascript,27d
-Trapesys,https://web3.career/web3-integration-expert-polygon-edge-trapesys/24200,Web3 Integration Expert - Polygon Edge,$40k - $95k,customer support:analyst:remote,27d
-Secfi,https://web3.career/investment-manager-secfi/24199,Investment Manager,$40k - $150k,finance,27d
-Fractional,https://web3.career/senior-technical-recruiter-us-remote-et-ftc/24198,Senior Technical Recruiter - US Remote (ET),,remote:recruiter:non tech:senior,27d
-Genies,https://web3.career/lead-technical-recruiter-genies/24197,Lead Technical Recruiter,$40k - $70k,lead:recruiter:non tech:nft,27d
-Virtually Human Studio,https://web3.career/engineering-manager-remote-vhslab/24196,Engineering Manager (Remote),$79k - $180k,executive:remote:nft,27d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+CoinFlip,https://web3.career/sales-intern-coinflip/24872,"Chicago,
+United States",Sales Intern,$29k - $43k,intern:entry level:sales:non tech,25d
+CoinFlip,https://web3.career/talent-acquisition-coordinator-coinflip/24871,"Chicago,
+United States",Talent Acquisition Coordinator,$40k - $70k,recruiter:non tech,25d
+CoinFlip,https://web3.career/human-resources-intern-coinflip/24870,"Chicago,
+United States",Human Resources Intern,,intern:entry level,25d
+CoinFlip,https://web3.career/hr-generalist-coinflip/24869,"Tampa, FL",HR Generalist,$60k - $150k,hr:non tech,25d
+CoinFlip,https://web3.career/executive-and-personal-assistant-coinflip/24868,"Chicago,
+United States",Executive and Personal Assistant,$70k - $180k,executive,25d
+CoinFlip,https://web3.career/procurement-manager-coinflip/24867,"Chicago,
+United States",Procurement Manager,,,25d
+CoinFlip,https://web3.career/marketing-intern-coinflip/24866,"Chicago,
+United States",Marketing Intern,$24k - $48k,intern:entry level:marketing:non tech,25d
+CoinFlip,https://web3.career/marketing-coordinator-coinflip/24865,"Chicago,
+United States",Marketing Coordinator,$45k - $130k,marketing:non tech,25d
+CoinFlip,https://web3.career/director-treasury-coinflip/24864,"Chicago,
+United States","Director, Treasury",$70k - $180k,executive,25d
+CoinFlip,https://web3.career/technical-support-specialist-coinflip/24863,"Tampa, FL",Technical Support Specialist,$40k - $80k,customer support,25d
+CoinFlip,https://web3.career/experience-center-representative-coinflip/24862,"Tampa, FL",Experience Center Representative,,,25d
+CoinFlip,https://web3.career/anti-money-laundering-associate-coinflip/24861,"Chicago,
+United States",Anti Money Laundering Associate,,,25d
+CoinFlip,https://web3.career/senior-data-analyst-coinflip/24860,"Chicago,
+United States",Senior Data Analyst,,analyst:data science:senior,25d
+Async Art,https://web3.career/business-development-lead-asyncart/24859,Remote,Business Development Lead,,sales:non tech:lead:remote:nft,25d
+Foundation,https://web3.career/trust-safety-operations-analyst-with-foundation/24858,Remote,Trust & Safety Operations Analyst,,analyst:operations:remote,25d
+Foundation,https://web3.career/finance-lead-with-foundation/24857,Remote,Finance Lead,,finance:lead:remote,25d
+Aragon Association,https://web3.career/senior-devops-engineer-aragon/24856,Remote,Senior Devops Engineer,$120k - $200k,devops:dev:senior:remote:solidity,25d
+Binance,https://web3.career/office-manager-administrator-brazil-binance/24854,"Sao Paulo,
+Brazil",Office Manager/Administrator - Brazil,$56k - $150k,react,25d
+Xsolla,https://web3.career/product-owner-web3c-inventory-xsolla/24853,Удаленная работа,Product Owner (Web3c Inventory),,c:c plus plus:product manager:non tech:nft,25d
+Crypto.com,https://web3.career/latam-tax-senior-manager-global-fintech-startup-crypto-com/24850,Brazil,LATAM Tax Senior Manager - Global Fintech Startup,,finance:senior:accounting,25d
+Crypto.com,https://web3.career/information-security-compliance-manager-crypto-com/24849,"Sofia,
+Bulgaria",Information Security Compliance Manager,,compliance:security,25d
+Tatum,https://web3.career/senior-backend-developer-for-blockchain-platform-tatum/24848,Czechia,Senior Backend Developer for Blockchain platform,$70k - $200k,backend:dev:senior:blockchain:javascript,25d
+Crypto.com,https://web3.career/onboarding-coordinator-crypto-com/24847,"London,
+United Kingdom",Onboarding Coordinator,,,25d
+Crypto.com,https://web3.career/associate-security-technical-project-management-sec-risk-compliance-crypto-com/24846,"Sofia,
+Bulgaria","Associate, Security Technical Project Management (Sec Risk & Compliance)",,compliance:security,25d
+Crypto.com,https://web3.career/associate-security-technical-project-management-infrasec-it-crypto-com/24845,"Sofia,
+Bulgaria","Associate, Security Technical Project Management (InfraSec & IT)",$95k - $200k,security,25d
+Crypto.com,https://web3.career/security-operations-center-soc-analyst-tier-2-crypto-com/24844,"Sofia,
+Bulgaria",Security Operations Center (SOC) Analyst (Tier 2),,analyst:operations:security,25d
+DoinGud,https://web3.career/senior-full-stack-web3-engineer-doingud/24843,"New York,
+United States",Senior Full-stack Web3 Engineer,$70k - $180k,dev:full stack:senior:react:solidity,25d
+Crypto.com,https://web3.career/associate-creative-director-nft-creative-crypto-com/24842,"Los Angeles,
+United States","Associate Creative Director, NFT Creative",$45k - $120k,executive:nft:react,25d
+DoinGud,https://web3.career/senior-solidity-developer-doingud/24841,"New York,
+United States",Senior Solidity Developer,$80k - $200k,dev:senior:solidity:nft,25d
+Crypto.com,https://web3.career/regulation-specialist-derivatives-exchange-global-crypto-com/24840,United States,"Regulation Specialist (Derivatives Exchange), Global",$55k - $150k,nft,25d
+Crypto.com,https://web3.career/open-source-analyst-crypto-com/24839,"Miami,
+United States",Open Source Analyst,$36k - $120k,analyst:nft,25d
+bloXroute Labs,https://web3.career/senior-software-engineer-blox-route/24837,Remote,Senior Software Engineer,$85k - $200k,dev:senior:remote:ethereum,25d
+Ripple,https://web3.career/senior-blockchain-sdk-software-engineer-liquidity-ripplex-ripple/24836,"San Francisco,
+United States","Senior Blockchain SDK Software Engineer Liquidity, RippleX",,dev:sales:non tech:senior:blockchain,25d
+Upstream,https://web3.career/native-android-developer-upstream/24835,"Miami,
+United States",Native Android Developer,,android:mobile:dev:java,25d
+Binance,https://web3.career/legal-technology-manager-europe-binance/24834,Europe,Legal Technology Manager - Europe,$24k - $140k,legal,25d

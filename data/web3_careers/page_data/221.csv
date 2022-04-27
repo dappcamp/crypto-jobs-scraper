@@ -1,36 +1,55 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-SupraOracles,https://web3.career/technical-recruiter-supraoracles/17347,Technical Recruiter,$40k - $70k,recruiter:non tech,3mo
-OpenSea,https://web3.career/visual-designer-opensea/17346,Visual Designer,$50k - $135k,design:non tech:remote,3mo
-OpenSea,https://web3.career/animator-opensea/17345,Animator,,video:remote,3mo
-Bitgreen,https://web3.career/crypto-sustainability-bitgreen/17344,Crypto+Sustainability,$0k,crypto,3mo
-Centre,https://web3.career/risk-and-compliance-senior-manager-centre/17343,Risk and Compliance Senior Manager,,compliance:senior,3mo
-Next Big Thing AG,https://web3.career/cto-and-co-founder-f-m-x-for-zero-defects-our-saas-startup-in-the-field-of-industrial-quality-management-nextbigthing/17342,"CTO and co-founder (f/m/x) for ZERO defects, our SaaS startup in the field of industrial quality management",,executive:saas:remote:cto,3mo
-Sygnum Bank AG,https://web3.career/data-solutions-architect-sygnum/17341,Data Solutions Architect,$67k - $180k,architecture,3mo
-Polygon,https://web3.career/strategy-lead-polygon/17340,Strategy Lead,$56k - $118k,lead:remote:ethereum,3mo
-Polygon,https://web3.career/partner-success-specialist-polygon/17339,Partner Success Specialist,$60k - $145k,remote:ethereum,3mo
-Polygon,https://web3.career/community-lead-polygon/17338,Community Lead,$40k - $65k,community manager:non tech:lead:remote:ethereum,3mo
-Stealth Crypto NFT Environmental Startup,https://web3.career/game-developer-web-stealth-crypto-nft-environmental-startup/17336,Game Developer (Web),$0k,dev:game dev:nft,3mo
-Mirana,https://web3.career/quant-researcher-defi-mirana/17335,Quant Researcher (Defi),,defi:nft:java,3mo
-Crypto.com,https://web3.career/security-data-architect-crypto-com/17331,Security Data Architect,,architecture:security:nft:ruby,3mo
-Nuri,https://web3.career/senior-performance-marketing-manager-nuri/17330,(Senior) Performance Marketing Manager,$46k - $109k,marketing:non tech:senior:remote,3mo
-Kraken Digital Asset Exchange,https://web3.career/research-manager-kraken/17329,Research Manager,$56k - $160k,remote,3mo
-Kraken Digital Asset Exchange,https://web3.career/crypto-research-associate-kraken/17328,Crypto Research Associate,$35k - $150k,crypto:remote,3mo
-BSDEX GmbH,https://web3.career/en-head-of-product-w-m-d-remote-3619161-en-head-of-product-w-m-d-remote-at-bsdex-gmbh-utm_source-google_jobs_apply-pid-bce1fbd2f366390046fc/17325,[EN] Head of Product (w/m/d) Remote,$140k - $180k,executive:remote:product manager:non tech:ethereum,3mo
-Kraken Digital Asset Exchange,https://web3.career/head-of-asset-liability-management-kraken/17324,Head of Asset Liability Management,$70k - $180k,executive,3mo
-Kraken Digital Asset Exchange,https://web3.career/treasury-project-manager-kraken/17323,Treasury - Project Manager,$50k - $150k,project manager:non tech,3mo
-Kraken Digital Asset Exchange,https://web3.career/head-of-treasury-risk-management-kraken/17322,Head of Treasury Risk Management,$70k - $180k,executive,3mo
-Kraken Digital Asset Exchange,https://web3.career/head-of-treasury-investments-fx-kraken/17321,Head of Treasury Investments & FX,$70k - $180k,executive,3mo
-Libertex Group,https://web3.career/forex-crypto-affiliate-manager-russian-speaking-libertexgroup/17320,Forex/Crypto Affiliate Manager (Russian Speaking ),$46k - $140k,marketing:non tech:crypto,3mo
-Hale Crypto,https://web3.career/co-founder-cto-hale-crypto/17318,Co-founder/CTO,$0k,executive:cto,3mo
-Discovery DAO,https://web3.career/blockchain-full-stack-developer-substrate-discovery-dao-1/17317,Blockchain Full-Stack Developer (Substrate),$0k,dev:full stack:blockchain:remote:solidity,3mo
-ShortX,https://web3.career/crypto-og-and-tech-cofounder-for-a-climate-data-project-shortx/17316,Crypto OG and Tech Cofounder for a Climate Data Project,$0k,executive:crypto:remote,3mo
-Crypto.com,https://web3.career/senior-officer-assistant-manager-company-secretary-hk-crypto-com/17315,Senior Officer/ Assistant Manager - Company Secretary (HK),$78k - $200k,senior,3mo
-O(1) Labs,https://web3.career/cryptography-engineer-o1labs/17314,Cryptography Engineer,$75k - $190k,dev:rust,3mo
-Sygnum Bank AG,https://web3.career/venture-investment-associate-sygnum/17313,Venture Investment Associate,$40k - $150k,finance,3mo
-Drift Protocol,https://web3.career/head-of-community-community-manager-drift-protocol/17312,Head of Community / Community Manager,$45k - $150k,executive:community manager:non tech:remote:solana,3mo
-Foundry,https://web3.career/crypto-data-engineer-lead-foundry-12/17311,Crypto Data Engineer - Lead,,data science:dev:lead:crypto:scala,3mo
-Vertalo,https://web3.career/internal-recruiter-vertalo/17310,Internal Recruiter,$40k - $70k,recruiter:non tech,3mo
-Sygnum Bank AG,https://web3.career/senior-project-manager-sygnum/17309,Senior Project Manager,,project manager:non tech:senior:ethereum,3mo
-Chainlink Labs,https://web3.career/motion-graphics-designer-chainlink-labs/17308,Motion Graphics Designer,$11k - $80k,design:non tech:vfx,3mo
-Satoshis Games,https://web3.career/marketing-manager-junior-satoshis-games/17307,Marketing Manager - Junior,$20k - $30k,junior:entry level:marketing:non tech,3mo
-BitGo,https://web3.career/system-administrator-bitgo/17306,System Administrator,$150k - $200k,sys admin,3mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+BitGo,https://web3.career/software-engineer-settlement-bitgo/18050,"Palo Alto,
+United States","Software Engineer, Settlement",$60k - $180k,dev:react:node:java:golang,3mo
+"Data Wow Co., Ltd.",https://web3.career/blockchain-team-lead-datawowco-ltd/18049,"Bangkok,
+Thailand",Blockchain Team Lead,,lead:blockchain:golang,3mo
+IOTA Foundation,https://web3.career/project-manager-remote-iota/18048,Remote,Project Manager (Remote),$56k - $150k,remote:project manager:non tech,3mo
+IOVLabs,https://web3.career/product-marketing-manager-iovlabs/18047,Remote,Product Marketing Manager,$25k - $120k,marketing:non tech:remote,3mo
+Amun 21Shares,https://web3.career/research-analyst-amun/18046,"Zurich,
+Switzerland",Research Analyst,$150k - $185k,analyst:solidity:rust,3mo
+Chainlink Labs,https://web3.career/nyc-office-manager-global-physical-security-safety-chainlink/18045,Remote,NYC Office Manager; Global Physical Security & Safety,$95k - $250k,security:remote,3mo
+Sygnum Bank AG,https://web3.career/head-of-sales-and-client-services-sygnum/18044,"Singapore,
+Singapore",Head of Sales and Client Services,$40k - $150k,executive:sales:non tech:ethereum,3mo
+Chainlink Labs,https://web3.career/director-of-community-chainlink/18043,Remote,Director of Community,$45k - $150k,community manager:non tech:executive:remote,3mo
+Monax,https://web3.career/marketing-manager-nft-platform-monaxhq/18041,"New York,
+United States",Marketing Manager - NFT Platform,$80k - $120k,marketing:non tech:nft,3mo
+GSR,https://web3.career/ui-software-engineer-cryptocurrency-trading-singapore-gsr/18040,"Singapore,
+Singapore",UI Software Engineer - Cryptocurrency Trading - Singapore,$80k - $150k,dev:design:non tech:crypto,3mo
+WOO Network,https://web3.career/security-and-personel-data-protection-officer-turkey-woonetwork/18039,"Istanbul,
+Turkey",Security and Personel Data Protection Officer (TURKEY),$95k - $200k,security,3mo
+Polygon,https://web3.career/head-of-developer-relations-polygon/18037,Remote,Head of Developer Relations,,executive:customer support:dev:remote:ethereum,3mo
+WOO Network,https://web3.career/marketing-associate-turkey-woonetwork/18036,"Istanbul,
+Turkey",Marketing Associate (TURKEY),$45k - $130k,marketing:non tech,3mo
+Chainalysis,https://web3.career/associate-cybercrimes-investigator-chainalysis/18035,"London,
+United Kingdom",Associate Cybercrimes Investigator,,,3mo
+Cake Pte Ltd,https://web3.career/finance-reporting-specialist-cakedefi/18034,"Singapore,
+Singapore",Finance & Reporting Specialist,$40k - $150k,finance,3mo
+GSR,https://web3.career/software-engineer-exchange-connectivity-senior-associate-vp-london-gsr/18033,"London,
+United Kingdom",Software Engineer - Exchange Connectivity - Senior Associate/VP - London,$60k - $250k,dev:senior:executive,3mo
+Burnt Finance,https://web3.career/director-of-business-operations-strategy-corporate-burnt-finance-1/18032,"New York,
+United States","Director of Business Operations & Strategy, Corporate",$150k - $230k,executive:operations,3mo
+Cake Pte Ltd,https://web3.career/senior-graphic-designer-cakedefi/18031,"Singapore,
+Singapore",Senior Graphic Designer,$60k - $120k,design:non tech:senior,3mo
+Change,https://web3.career/lawyer-changeinvest/18030,"Tallinn,
+Estonia",Lawyer,$24k - $140k,legal,3mo
+Chainalysis,https://web3.career/client-director-banking-finance-uk-i-chainalysis/18029,"London,
+United Kingdom","Client Director, Banking/Finance, UK/I",$90k - $200k,finance:executive,3mo
+Polygon,https://web3.career/head-of-finance-polygon/18028,Remote,Head of Finance,$40k - $225k,executive:finance:remote:ethereum,3mo
+Metagoons,https://web3.career/data-scientist-metagoons/18027,Remote,Data Scientist,,data science:remote,3mo
+Immutable,https://web3.career/operations-lead-change-management-immutable/18026,"Sydney,
+Australia",Operations Lead (Change Management),,lead:operations,3mo
+Chainlink Labs,https://web3.career/user-success-manager-apac-chainlink/18025,Remote,"User Success Manager, APAC",$29k - $108k,sales:non tech:remote,3mo
+Chainlink Labs,https://web3.career/solutions-architect-apac-chainlink/18024,Remote,"Solutions Architect, APAC",$67k - $300k,architecture:remote,3mo
+Chainlink Labs,https://web3.career/chainlink-evangelist-apac-chainlink/18023,Remote,"Chainlink Evangelist, APAC",$56k - $160k,remote,3mo
+Ripple,https://web3.career/developer-advocate-ripplex-developer-platform-ripple/18019,"Singapore,
+Singapore",Developer Advocate (RippleX Developer Platform),$11k - $130k,dev:javascript:java,3mo
+OpenSea,https://web3.career/communications-lead-social-content-opensea/18018,Remote,"Communications Lead, Social & Content",$56k - $200k,lead:remote:nft,3mo
+OpenSea,https://web3.career/communications-lead-employee-communications-engagement-opensea/18017,Remote,"Communications Lead, Employee Communications & Engagement",$95k - $200k,lead:remote,3mo
+OpenSea,https://web3.career/communications-lead-corporate-crisis-communications-opensea/18016,Remote,"Communications Lead, Corporate & Crisis Communications",$56k - $200k,lead:remote:nft,3mo
+OpenSea,https://web3.career/communications-lead-consumer-product-communications-opensea/18015,Remote,"Communications Lead, Consumer & Product Communications",$56k - $200k,lead:remote:nft,3mo
+OpenSea,https://web3.career/communications-associate-opensea/18014,Remote,Communications Associate,$56k - $160k,remote,3mo
+Ex Populus,https://web3.career/developer-relations-manager-expopulus/18013,"San Francisco,
+United States",Developer Relations Manager,$90k - $140k,customer support:dev,3mo
+NEAR,https://web3.career/product-designer-applications-near/18012,"San Francisco,
+United States","Product Designer, Applications",$50k - $150k,design:non tech,3mo
+Green Eight Capital,https://web3.career/it-3774174-it-at-private-equity/18011,Remote,IT,$56k - $160k,remote,3mo

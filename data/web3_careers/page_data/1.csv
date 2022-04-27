@@ -1,36 +1,59 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Heretic,https://web3.career/partner-talent-and-recruiting-heretic-fund/26558,"Partner, Talent and Recruiting",$51k - $70k,recruiter:non tech,13m
-Binance,https://web3.career/secops-lead-binance/26557,SecOps Lead,$95k - $200k,lead:remote,13m
-Binance,https://web3.career/marketing-community-management-internship-binance/26556,Marketing & Community Management Internship,,community manager:non tech:intern:entry level:marketing,13m
-Polygon,https://web3.career/country-manager-growth-marketing-uk-polygon/26555,"Country Manager, Growth& Marketing : UK",$48k - $120k,marketing:non tech:ethereum,22m
-Polygon,https://web3.career/country-manager-growth-marketing-vietnam-polygon/26554,"Country Manager, Growth & Marketing: Vietnam",$48k - $120k,marketing:non tech:ethereum,22m
-Polygon,https://web3.career/country-manager-growth-marketing-turkey-polygon/26553,"Country Manager, Growth & Marketing : Turkey",$48k - $120k,marketing:non tech:ethereum,22m
-Polygon,https://web3.career/country-manager-growth-marketing-thailand-polygon/26552,"Country Manager, Growth & Marketing : Thailand",$48k - $120k,marketing:non tech:ethereum,22m
-Polygon,https://web3.career/country-manager-growth-marketing-spain-polygon/26551,"Country Manager, Growth & Marketing : Spain",$48k - $120k,marketing:non tech:ethereum,22m
-Polygon,https://web3.career/country-manager-growth-marketing-singapore-polygon/26550,"Country Manager, Growth & Marketing : Singapore",$48k - $120k,marketing:non tech:ethereum,22m
-Polygon,https://web3.career/country-manager-growth-marketing-netherland-polygon/26549,"Country Manager, Growth & Marketing : Netherland",$48k - $120k,marketing:non tech:ethereum,22m
-Polygon,https://web3.career/country-manager-growth-marketing-indonesia-polygon/26548,"Country Manager, Growth & Marketing : Indonesia",$48k - $120k,marketing:non tech:ethereum,22m
-Polygon,https://web3.career/country-manager-growth-marketing-germany-polygon/26547,"Country Manager, Growth & Marketing : Germany",$48k - $120k,marketing:non tech:ethereum,22m
-Raydium,https://web3.career/content-writer-raydium/26546,Content Writer,$25k - $105k,copywriting:non tech:remote:solana:ethereum,33m
-Boson Protocol,https://web3.career/partnerships-manager-bosonprotocol/26544,Partnerships Manager,$40k - $180k,sales:non tech:nft,1h
-Gate.io,https://web3.career/lending-margin-content-writer-gate-io/26543,lending & margin content writer,$25k - $105k,copywriting:non tech:remote,1h
-Polygon,https://web3.career/country-manager-south-korea-growth-marketing-polygon/26542,Country Manager South Korea :Growth & Marketing,$48k - $120k,marketing:non tech:ethereum,1h
-Polygon,https://web3.career/country-manager-france-polygon/26541,Country Manager : France,$60k - $150k,ethereum,1h
-Blockstream,https://web3.career/qt-engineer-blockstream/26540,Qt Engineer,$50k - $160k,dev:java:rust,2h
-Menyala,https://web3.career/legal-counsel-menyala/26539,Legal Counsel,$24k - $140k,legal,3h
-Rarify,https://web3.career/senior-solutions-engineer-rarify/26538,Senior Solutions Engineer,$65k - $150k,dev:senior:golang,3h
-TaxBit,https://web3.career/lead-product-manager-public-sector-taxbit/26537,"Lead Product Manager, Public Sector",,lead:product manager:non tech,5h
-Groma,https://web3.career/software-engineer-groma/26536,Software Engineer,$67k - $175k,dev:react:nextjs:node,5h
-OKX,https://web3.career/data-analyst-okx/26535,Data Analyst,$36k - $85k,analyst:data science,5h
-Stockbit,https://web3.career/backend-engineer-golang-blockchain-platform-stockbit/26534,Backend Engineer - Golang (Blockchain Platform),$33k - $160k,backend:dev:golang:blockchain,5h
-Crypto Finance AG,https://web3.career/risk-management-officer-cryptofinanceag/26533,Risk Management Officer,$56k - $160k,remote,5h
-Stockbit,https://web3.career/ui-ux-designer-crypto-stockbit/26532,UI/UX Designer - Crypto,$30k - $79k,design:non tech:crypto,5h
-Crypto.com,https://web3.career/director-hr-business-partner-global-fintech-start-up-crypto-com/26531,"Director, HR Business Partner - Global Fintech Start-up",,executive:finance:hr:non tech,5h
-HoneyBricks,https://web3.career/senior-frontend-engineer-react-crypto-fintech-real-estate-honeybricks/26530,Senior Frontend Engineer - React (Crypto/ FinTech/ Real Estate),,dev:finance:front end:javascript:react,5h
-Crypto.com,https://web3.career/legal-counsel-employment-bg-crypto-com/26529,Legal Counsel - Employment (BG),$24k - $140k,legal,5h
-Crypto.com,https://web3.career/crm-project-associate-global-fintech-startup-crypto-com/26528,CRM Project Associate - Global Fintech Startup,,crm:finance:nft,5h
-Fynd,https://web3.career/community-manager-gaming-and-nft-platform-fynd/26527,Community Manager - Gaming and NFT Platform,$65k - $80k,community manager:non tech:game dev:nft,6h
-"Palm NFT Studio, Inc.",https://web3.career/account-manager-studio-palmnftstudioinc/26526,Account Manager (Studio),,account manager:nft,6h
-Satoshis Games,https://web3.career/senior-rust-developer-satoshis-games/26525,Senior Rust Developer,$70k - $90k,dev:rust:senior:solana:node,6h
-Polygon,https://web3.career/web3-integration-expert-polygon-edge-polygon/26524,Web3 Integration Expert - Polygon Edge,$60k - $145k,remote:ethereum:node,7h
-Figure,https://web3.career/marketplace-registered-success-associates-figure/26518,Marketplace Registered Success Associates,$50k - $150k,,9h
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Kronos Research,https://web3.career/portfolio-risk-analyst-kronosresearch/27118,,Portfolio Risk Analyst,,finance:analyst,1h
+a16z,https://web3.career/a16z-crypto-intern-summer-2022-a16z/27117,Remote,a16z Crypto Intern (Summer 2022),,intern:entry level:crypto:remote,2h
+Crypto.com,https://web3.career/finance-system-analyst-crypto/27115,"London,
+United Kingdom",Finance System Analyst,,analyst:finance,2h
+TaxBit,https://web3.career/lead-enterprise-and-b2b-product-manager-taxbit/27114,United States,Lead Enterprise and B2B Product Manager,,lead:product manager:non tech,2h
+Amber,https://web3.career/investigations-analyst-compliance-americas-ambergroup/27113,United States,Investigations Analyst - Compliance - Americas,,compliance:analyst,2h
+Phantom,https://web3.career/product-manager-phantom45/27112,"San Francisco,
+United States",Product Manager,$67k - $160k,product manager:non tech:nft,2h
+Crypto.com,https://web3.career/user-community-manager-defi-dapp-ireland-uk-crypto/27111,"London,
+United Kingdom",User Community Manager - DeFi/DApp (Ireland/UK),,community manager:non tech:dapp:defi,2h
+Tron,https://web3.career/business-development-manager-rainberry/27110,"San Francisco,
+United States",Business Development Manager,$60k - $180k,sales:non tech:nft,4h
+Tron,https://web3.career/business-development-associate-rainberry/27109,"San Francisco,
+United States",Business Development Associate,$60k - $180k,sales:non tech:nft,4h
+MaRS Discovery District,https://web3.career/client-engagement-manager-series-a-program-marsdiscoverydistrict/27108,"Toronto,
+Canada","Client Engagement Manager, Series A Program",$50k - $150k,,4h
+Phi Labs,https://web3.career/product-manager-technical-philabs/27107,"New York,
+United States",Product Manager - Technical,$67k - $160k,product manager:non tech:nft:node,4h
+Crypto.com,https://web3.career/institutional-sales-manager-latam-crypto/27106,Brazil,Institutional Sales Manager – LATAM,$30k - $140k,sales:non tech,4h
+Cake Pte Ltd,https://web3.career/technical-writer-cakedefi/27104,"Singapore,
+Singapore",Technical Writer,$40k - $120k,analyst,5h
+MetaMask,https://web3.career/product-manager-role-customer-experiences-consensys-nft-metamask/27103,United States,Product Manager Role - Customer Experiences (ConsenSys NFT),$67k - $160k,product manager:non tech:nft:ethereum,5h
+Coinfirm,https://web3.career/head-of-law-enforcement-affairs-crypto-fraud-investigations-coinfirm/27102,United Kingdom,Head of Law Enforcement Affairs – Crypto Fraud Investigations,$100k - $147k,executive:security:crypto,5h
+Land3,https://web3.career/senior-full-stack-web3-engineer-land3/27101,"Boston,
+United States",Senior Full-Stack Web3 Engineer,$140k - $220k,dev:full stack:senior:react:solidity,6h
+Curve Labs,https://web3.career/recruiter-hr-coordinator-m-w-d-part-time-curve-labs/27100,"Berlin,
+Germany",Recruiter / HR Coordinator (m/w/d) [Part-time],$0k,hr:non tech:part time:recruiter:remote,6h
+BYTE/DEPT®,https://web3.career/account-supervisor-byte/27099,,Account Supervisor,$56k - $150k,react,7h
+GreenPark,https://web3.career/vp-community-growth-greenparksports/27098,"New York,
+United States","VP, Community & Growth",$45k - $150k,community manager:non tech:marketing:executive:nft,7h
+"Reach Platform, Inc.",https://web3.career/executive-assistant-reachplatforminc/27097,"Boston,
+United States",Executive Assistant,$70k - $180k,executive,7h
+Mythical Games,https://web3.career/director-of-business-development-blockchain-mythicalgames/27096,"Los Angeles,
+United States",Director of Business Development - Blockchain,$40k - $180k,sales:non tech:executive:blockchain,7h
+SupraOracles,https://web3.career/business-development-associate-crypto-blockchain-remote-in-north-america-supraoracles/27095,"Toronto,
+Canada",Business Development Associate - Crypto Blockchain - Remote in North America,$29k - $150k,remote:sales:non tech:blockchain:crypto,7h
+Compound,https://web3.career/company-assistant-compound-2/27094,"San Francisco,
+United States",Company Assistant,$60k - $150k,ethereum,7h
+Cool Cats NFT,https://web3.career/director-of-strategy-web3-cool-cats-nft/27093,"Austin,
+United States",Director of Strategy | Web3,$120k - $150k,executive:nft,8h
+"Union, linking realities",https://web3.career/web3-developer-identity-wallet-union-linking-realities/27092,"Barcelona,
+Spain",Web3 developer - Identity Wallet,$67k - $90k,dev,8h
+Trans-Fi,https://web3.career/senior-blockchain-engineer-trans-fi/27091,India,Senior Blockchain Engineer,$80k - $150k,dev:senior:blockchain:solidity:solana,8h
+Blockchain.com,https://web3.career/user-operations-kyc-specialist-americas-blockchain/27090,"San Francisco,
+United States","User Operations KYC Specialist, Americas",,kyc:operations,9h
+AlgoBlocks,https://web3.career/senior-blockchain-engineer-algoblocks/27089,"Hong Kong,
+Hong Kong",Senior Blockchain Engineer,$100k - $153k,dev:senior:blockchain:web3js:react,9h
+Togggle,https://web3.career/web3-blockchain-developer-specialized-on-data-decentralization-and-storage-togggle/27088,United Kingdom,Web3 / Blockchain Developer specialized on data decentralization and storage,$67k - $112k,dev:blockchain,9h
+Compound,https://web3.career/lead-recruiter-compound-2/27087,"San Francisco,
+United States",Lead Recruiter,$40k - $70k,lead:recruiter:non tech:ethereum,9h
+OpenSea,https://web3.career/sr-associate-partner-management-opensea/27086,Remote,"Sr. Associate, Partner Management",$90k - $200k,senior:remote:nft,9h
+Tron,https://web3.career/exchanges-relationship-manager-rainberry/27085,"San Francisco,
+United States",Exchanges Relationship Manager,$45k - $125k,marketing:non tech,10h
+Coinme,https://web3.career/head-of-enterprise-sales-coinme/27084,"Seattle,
+United States",Head of Enterprise Sales,$40k - $180k,executive:sales:non tech,11h
+Clovyr,https://web3.career/full-stack-platform-engineer-clovyr/27083,US,Full-stack / Platform Engineer,$80k - $200k,dev:full stack:rust,11h
+SADA Global Delivery Center (GDC),https://web3.career/senior-data-engineer-sre-sadagdc/27082,"Yerevan,
+Armenia",Senior Data Engineer (SRE),$130k - $160k,data science:dev:senior:scala:java,11h

@@ -1,36 +1,61 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Gemini,https://web3.career/people-operations-business-partner-hrbp-engineering-gemini/11034,People Operations Business Partner (HRBP-Engineering),$60k - $200k,operations,5mo
-Gemini,https://web3.career/people-operations-associate-systems-and-process-admin-gemini/11033,People Operations Associate (Systems and Process Admin),$60k - $200k,operations,5mo
-Gemini,https://web3.career/hris-manager-gemini/11032,HRIS Manager,,,5mo
-Gemini,https://web3.career/global-compensation-manager-gemini/11031,Global Compensation Manager,,,5mo
-Gemini,https://web3.career/associate-recruiting-operations-gemini/11030,"Associate, Recruiting Operations",,operations:recruiter:non tech,5mo
-Gemini,https://web3.career/associate-global-immigration-and-mobility-gemini/11029,"Associate, Global Immigration and Mobility",,,5mo
-Gemini,https://web3.career/senior-associate-community-and-events-gemini/11028,"Senior Associate, Community and Events",,community manager:non tech:senior,5mo
-Gemini,https://web3.career/office-manager-gemini/11027,Office Manager,,,5mo
-Gemini,https://web3.career/associate-workplace-experience-gemini/11026,"Associate, Workplace Experience",,,5mo
-Gemini,https://web3.career/ui-ux-designer-nifty-gateway-gemini/11025,"UI/UX Designer, Nifty Gateway",$80k - $150k,design:non tech:ethereum:nft,5mo
-Gemini,https://web3.career/software-engineer-nifty-gateway-smart-contracts-gemini/11024,"Software Engineer, Nifty Gateway - Smart Contracts",$72k - $200k,dev:smart contract:solidity:ethereum,5mo
-Gemini,https://web3.career/senior-software-engineer-nifty-gateway-python-django-gemini/11023,"Senior Software Engineer, Nifty Gateway (Python, Django)",$79k - $200k,python:dev:senior:solidity:ethereum,5mo
-Gemini,https://web3.career/senior-product-manager-nifty-gateway-gemini/11022,"Senior Product Manager, Nifty Gateway",$80k - $150k,product manager:non tech:senior:ethereum:nft,5mo
-Gemini,https://web3.career/senior-mobile-engineer-react-native-nifty-gateway-gemini/11021,"Senior Mobile Engineer (React Native), Nifty Gateway",$65k - $200k,dev:mobile:react native:javascript:react,5mo
-Gemini,https://web3.career/senior-frontend-engineer-nifty-gateway-gemini/11020,"Senior Frontend Engineer, Nifty Gateway",$70k - $190k,dev:front end:senior:react:ethereum,5mo
-Gemini,https://web3.career/onboarding-associate-nifty-gateway-gemini/11019,"Onboarding Associate, Nifty Gateway",$70k - $158k,solidity:nft,5mo
-Gemini,https://web3.career/manager-software-engineering-nifty-gateway-gemini/11018,"Manager, Software Engineering, Nifty Gateway",$63k - $160k,dev:solidity:ethereum:javascript,5mo
-Gemini,https://web3.career/manager-qa-engineering-gemini/11017,"Manager, QA Engineering",$80k - $150k,quality assurance:ethereum:javascript,5mo
-Gemini,https://web3.career/senior-associate-nft-lifecycle-marketing-gemini/11016,"Senior Associate, NFT Lifecycle Marketing",$46k - $109k,marketing:non tech:senior:nft,5mo
-Gemini,https://web3.career/lead-product-marketing-nft-s-gemini/11015,"Lead, Product Marketing - NFT's",$50k - $120k,lead:marketing:non tech:nft,5mo
-Gemini,https://web3.career/associate-marketing-operations-gemini/11014,"Associate, Marketing Operations",,marketing:non tech:operations,5mo
-Gemini,https://web3.career/senior-corporate-counsel-financial-transactions-gemini/11013,Senior Corporate Counsel (Financial Transactions),,legal:finance:senior,5mo
-Gemini,https://web3.career/senior-corporate-counsel-commercial-transactions-gemini/11012,Senior Corporate Counsel (Commercial Transactions),,legal:senior,5mo
-Gemini,https://web3.career/lead-regulatory-compliance-gemini/11011,"Lead, Regulatory Compliance",,compliance:legal:lead,5mo
-Gemini,https://web3.career/analyst-compliance-governance-gemini/11010,"Analyst, Compliance-Governance",,compliance:analyst,5mo
-Gemini,https://web3.career/principal-technology-and-security-internal-auditor-gemini/11009,"Principal, Technology and Security Internal Auditor",$95k - $250k,executive:security,5mo
-Gemini,https://web3.career/site-reliability-engineer-embedded-sre-gemini/11008,"Site Reliability Engineer, Embedded SRE",,embedded:dev:sys admin:senior:react,5mo
-Gemini,https://web3.career/senior-network-engineer-cloud-gemini/11007,"Senior Network Engineer, Cloud",,cloud:dev:senior,5mo
-Gemini,https://web3.career/senior-network-engineer-gemini/11006,Senior Network Engineer,$80k - $200k,dev:senior,5mo
-Gemini,https://web3.career/senior-cloud-infrastructure-engineer-storage-gemini/11005,"Senior Cloud Infrastructure Engineer, Storage",,cloud:dev:senior:java:golang,5mo
-Gemini,https://web3.career/director-cloud-infrastructure-engineering-gemini/11004,"Director, Cloud Infrastructure Engineering",,cloud:executive,5mo
-Gemini,https://web3.career/senior-software-engineer-gemini/11003,Senior Software Engineer,$80k - $200k,dev:senior:ethereum:scala:java,5mo
-Gemini,https://web3.career/senior-product-manager-retail-gemini/11002,"Senior Product Manager, Retail",$80k - $150k,product manager:non tech:senior:ethereum,5mo
-Gemini,https://web3.career/senior-associate-market-business-intelligence-gemini/11001,"Senior Associate, Market & Business Intelligence",$78k - $200k,senior,5mo
-Gemini,https://web3.career/regional-lead-trust-security-gemini/11000,"Regional Lead, Trust & Security",,lead:security,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Set Labs,https://web3.career/smart-contract-engineer-setprotocol/12095,"San Francisco,
+United States",Smart Contract Engineer,$125k - $170k,dev:smart contract:react:solidity:javascript,5mo
+SimpleFi,https://web3.career/smart-contract-engineer-simplefi-finance/12094,United Kingdom,Smart contract engineer,$70k - $110k,dev:smart contract:solidity:solana:ethereum,5mo
+Zapper,https://web3.career/smart-contract-engineer-zapperfi/12093,Canada,Smart Contract Engineer,$0k,dev:smart contract:react:ethereum,5mo
+Switcheo Labs,https://web3.career/blockchain-smart-contract-developer-switcheo-labs/12092,"Singapore,
+Singapore",Blockchain & Smart Contract Developer,$43k - $87k,dev:blockchain:smart contract:react:ruby,5mo
+Quadency,https://web3.career/smart-contract-engineer-quadency/12091,"New York,
+United States",Smart Contract Engineer,$115k - $150k,dev:smart contract:react:solidity:ethereum,5mo
+Volmex Labs,https://web3.career/senior-smart-contract-engineer-volmex-finance/12090,"New York,
+United States",Senior Smart Contract Engineer,$0k,dev:senior:smart contract:solidity:ethereum,5mo
+Opyn,https://web3.career/senior-smart-contract-security-engineer-opyn-4/12089,"San Francisco,
+United States",Senior Smart Contract Security Engineer,$95k - $250k,dev:security:senior:smart contract:solidity,5mo
+PieDAO,https://web3.career/smart-contract-engineer-piedao-defi/12088,Remote,Smart Contract Engineer,$80k - $120k,dev:smart contract:solidity:ethereum:remote,5mo
+Burnt Finance,https://web3.career/solana-smart-contract-developer-burnt-finance-1/12087,"New York,
+United States",Solana Smart Contract Developer,$70k - $150k,dev:smart contract:solana:nft:rust,5mo
+Linum Labs,https://web3.career/smart-contract-engineer-linum-labs/12086,South Africa,Smart Contract Engineer,$54k - $75k,dev:smart contract:react:solidity:ethereum,5mo
+Exponent,https://web3.career/smart-contract-engineer-defi-exponent-6/12085,"Singapore,
+Singapore",Smart Contract Engineer (DeFi),$60k - $90k,dev:defi:smart contract:web3js:solidity,5mo
+VegaX Holdings,https://web3.career/smart-contract-engineer-vegax/12084,"New York,
+United States",Smart Contract Engineer,$40k - $65k,dev:smart contract:solidity:ethereum,5mo
+Fei Labs,https://web3.career/smart-contract-engineer-fei-labs/12083,"San Francisco,
+United States",Smart Contract Engineer,$120k - $200k,dev:smart contract:solidity:ethereum,5mo
+Dapper Labs,https://web3.career/senior-backend-smart-contract-engineer-cadence-flow-blockchain-dapper-labs/12082,Remote,"Senior Backend → Smart Contract Engineer (Cadence, Flow Blockchain)",$70k - $200k,backend:dev:senior:blockchain:smart contract,5mo
+Kleros,https://web3.career/smart-contract-hacker-and-developer-internship-kleros/12081,"Lisbon,
+Portugal",Smart Contract Hacker and Developer Internship,$12k - $17k,dev:intern:entry level:smart contract:solidity,5mo
+Greenwood Labs,https://web3.career/smart-contract-engineer-greenwood-labs/12080,"New York,
+United States",Smart Contract Engineer,$100k - $120k,dev:smart contract:web3js:react:solidity,5mo
+UMA,https://web3.career/smart-contract-engineer-uma-project/12079,Remote,Smart Contract Engineer,$120k - $200k,dev:smart contract:react:solidity:ethereum,5mo
+Gelato Network,https://web3.career/smart-contract-developer-ethereum-gelato-network/12078,"Berlin,
+Germany",Smart Contract Developer (Ethereum)🍦,$60k - $85k,dev:smart contract:web3js:react:solidity,5mo
+YOLOrekt,https://web3.career/ethereum-smart-contract-developer-yolorekt/12077,"Los Angeles,
+United States",Ethereum Smart Contract Developer,$170k - $250k,dev:smart contract:react:solidity:solana,5mo
+Razor Network,https://web3.career/blockchain-developer-smart-contracts-razor-oracle-network/12076,"Bengaluru,
+India",Blockchain Developer (Smart Contracts),$15k - $20k,dev:blockchain:smart contract:solidity:ethereum,5mo
+StakeWith.Us,https://web3.career/smart-contract-developer-stakewith-us/12075,"Singapore,
+Singapore",Smart Contract Developer,$52k - $87k,dev:smart contract:solidity:ethereum:javascript,5mo
+Fractional.art,https://web3.career/smart-contract-developer-fractional-art/12074,"New York,
+United States",Smart Contract Developer,$100k - $125k,dev:smart contract:solidity:solana:ethereum,5mo
+Humanode,https://web3.career/smart-contract-developer-of-dao-where-people-are-equal-in-voting-power-humanode-2/12073,"Seattle,
+United States",Smart Contract Developer of DAO where people are equal in voting power,$80k - $150k,dev:smart contract:react:react native:solidity,5mo
+Ren,https://web3.career/smart-contract-developer-ren-4/12072,"Singapore,
+Singapore",Smart Contract Developer,$60k - $125k,dev:smart contract,5mo
+Chainflip,https://web3.career/smart-contract-nerd-chainflip/12071,"Berlin,
+Germany",Smart Contract Nerd,$90k - $135k,smart contract:solidity:solana:ethereum:rust,5mo
+Stacked,https://web3.career/smart-contract-engineer-rust-remote-us-stacked-3/12070,"Chicago,
+United States",Smart Contract Engineer - Rust (Remote US),$100k - $180k,remote:dev:rust:smart contract:solidity,5mo
+Dexible,https://web3.career/web-3-0-developer-dexible/12068,United States,Web 3.0 Developer,$120k - $155k,dev:solidity:ethereum:javascript:node,5mo
+Reach.Live,https://web3.career/web-3-crypto-product-manager-full-time-only-reachlive/12067,"Mountain View,
+United States",Web-3/Crypto Product manager 🎯(Full time only),$10k - $12k,full time:product manager:non tech:crypto,5mo
+Rad NFTv,https://web3.career/web-3-p2p-software-engineer-solidity-node-blockchain-radnftv/12066,United States,"Web 3 / P2P Software Engineer, (Solidity, Node, Blockchain)",$80k - $120k,dev:javascript:node:blockchain:solidity,5mo
+Burnt Finance,https://web3.career/front-end-web-3-react-developer-burnt-finance-1/12065,"New York,
+United States",Front-End Web 3 React Developer,$60k - $85k,dev:front end:javascript:react:ethereum,5mo
+Cyber,https://web3.career/partnerships-lead-web3-oncyber/12064,Remote,Partnerships Lead (Web3),$0k,sales:non tech:lead:nft:remote,5mo
+Stealth mode startup,https://web3.career/front-end-react-developer-for-web3-stealth-mode-startup-77/12063,"Bengaluru,
+India",Front end React developer for Web3,$7k - $10k,dev:front end:javascript:react,5mo
+Passage Protocol,https://web3.career/full-stack-engineer-web3-passage-protocol/12062,"Los Angeles,
+United States",Full Stack Engineer (Web3),$0k,dev:full stack:solidity,5mo
+Benchmark Protocol,https://web3.career/senior-web3-frontend-developer-benchmark-protocol/12061,United States,Senior Web3 Frontend Developer,$24k,dev:front end:senior:react:ethereum,5mo
+Bridgesplit,https://web3.career/founding-typescript-engineer-web3-bridgesplit/12060,"New York,
+United States",Founding Typescript Engineer (web3),$0k,dev:react:solana:javascript,5mo

@@ -1,36 +1,63 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Energi Core Limited,https://web3.career/mobile-developer-ios-android-energicorelimited/10432,Mobile Developer (ios/Android),,android:mobile:dev:ios:ethereum,5mo
-Energi Core Limited,https://web3.career/senior-recruiter-energicorelimited/10431,Senior Recruiter,$40k - $70k,recruiter:non tech:senior:ethereum,5mo
-Energi Core Limited,https://web3.career/quantitative-macroeconomic-analyst-part-time-energicorelimited/10430,Quantitative Macroeconomic Analyst (part-time),,analyst:part time:ethereum,5mo
-Energi Core Limited,https://web3.career/nft-artist-energicorelimited/10429,NFT Artist,$70k - $158k,nft:ethereum,5mo
-Energi Core Limited,https://web3.career/financial-statistician-part-time-energicorelimited/10428,Financial Statistician (part-time),,finance:part time:ethereum,5mo
-Energi Core Limited,https://web3.career/energi-proposal-analyst-part-time-energicorelimited/10427,Energi Proposal Analyst (part-time),,analyst:part time:ethereum,5mo
-Energi Core Limited,https://web3.career/blockchain-auditor-part-time-energicorelimited/10426,Blockchain Auditor (part-time),,part time:blockchain:ethereum,5mo
-Energi Core Limited,https://web3.career/marketing-generalist-part-time-energicorelimited/10425,Marketing Generalist (part-time),,marketing:non tech:part time:ethereum,5mo
-Energi Core Limited,https://web3.career/graphic-and-visual-designer-part-time-energicorelimited/10424,Graphic and Visual Designer (part-time),,design:non tech:part time:ethereum,5mo
-Energi Core Limited,https://web3.career/energi-impact-team-lead-part-time-energicorelimited/10423,Energi Impact Team Lead (part-time),,lead:part time:ethereum,5mo
-Energi Core Limited,https://web3.career/community-moderator-energicorelimited/10422,Community Moderator,$15k - $30k,community manager:non tech:ethereum,5mo
-Eco,https://web3.career/something-else-econetwork/10421,(Something Else),,,5mo
-Eco,https://web3.career/senior-administrative-assistant-econetwork/10420,Senior Administrative Assistant,$78k - $200k,senior,5mo
-Eco,https://web3.career/recruiting-lead-econetwork/10419,Recruiting Lead,$40k - $70k,lead:recruiter:non tech,5mo
-Eco,https://web3.career/payment-operations-associate-econetwork/10418,Payment Operations Associate,$60k - $200k,operations,5mo
-Eco,https://web3.career/head-of-people-econetwork/10417,Head of People,$70k - $180k,executive,5mo
-Eco,https://web3.career/customer-operations-specialist-econetwork/10416,Customer Operations Specialist,$60k - $200k,operations,5mo
-Eco,https://web3.career/compliance-manager-econetwork/10415,Compliance Manager,,compliance,5mo
-Eco,https://web3.career/chargeback-disputes-specialist-econetwork/10414,Chargeback & Disputes Specialist,,,5mo
-Eco,https://web3.career/senior-editor-econetwork/10413,Senior Editor,$78k - $200k,senior,5mo
-Eco,https://web3.career/onboarding-specialist-econetwork/10412,Onboarding Specialist,,,5mo
-Eco,https://web3.career/technical-product-manager-econetwork/10411,Technical Product Manager,$69k - $160k,product manager:non tech,5mo
-Eco,https://web3.career/staff-backend-engineer-econetwork/10410,Staff Backend Engineer,$65k - $150k,backend:dev:javascript,5mo
-Eco,https://web3.career/smart-contract-engineer-ethereum-econetwork/10409,Smart Contract Engineer (Ethereum),$65k - $180k,dev:smart contract:ethereum,5mo
-Eco,https://web3.career/senior-product-designer-econetwork/10408,Senior Product Designer,$60k - $120k,design:non tech:senior,5mo
-Eco,https://web3.career/senior-mobile-engineer-econetwork/10407,Senior Mobile Engineer,$120k - $200k,dev:mobile:senior:react:react native,5mo
-Eco,https://web3.career/senior-backend-engineer-econetwork/10406,Senior Backend Engineer,$70k - $200k,backend:dev:senior,5mo
-Eco,https://web3.career/qa-engineering-lead-econetwork/10405,QA Engineering Lead,$100k - $180k,lead:quality assurance,5mo
-Eco,https://web3.career/product-manager-econetwork/10404,Product Manager,$69k - $160k,product manager:non tech,5mo
-Eco,https://web3.career/engineering-manager-econetwork/10403,Engineering Manager,$115k - $150k,executive:react:react native,5mo
-DFINITY,https://web3.career/office-manager-dfinity/10402,Office Manager,,,5mo
-DFINITY,https://web3.career/senior-security-engineer-incident-response-dfinity/10401,"Senior Security Engineer, Incident Response",$95k - $250k,dev:security:senior:ruby,5mo
-DFINITY,https://web3.career/senior-security-engineer-incident-response-dfinity/10400,"Senior Security Engineer, Incident Response",$95k - $250k,dev:security:senior:ruby,5mo
-DFINITY,https://web3.career/senior-infrastructure-security-engineer-dfinity/10399,Senior Infrastructure Security Engineer,$95k - $250k,dev:security:senior:ruby,5mo
-DFINITY,https://web3.career/senior-infrastructure-security-engineer-dfinity/10398,Senior Infrastructure Security Engineer,$95k - $250k,dev:security:senior:ruby,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Gemini,https://web3.career/associate-customer-support-gemini/10976,"London,
+United Kingdom","Associate, Customer Support",$40k - $80k,customer support,6mo
+OnJuno,https://web3.career/growth-marketing-manager-onjuno/10973,"Bengaluru,
+India",Growth Marketing Manager,$45k - $130k,marketing:non tech,6mo
+Clearmatics,https://web3.career/validator-node-manager-blockchain-ethereum-clearmatics/10972,"London,
+United Kingdom","Validator Node Manager- Blockchain, Ethereum",$60k - $120k,javascript:node:blockchain:ethereum,6mo
+Blockchain.com,https://web3.career/counsel-employment-litigation-blockchain/10971,"San Francisco,
+United States","Counsel, Employment & Litigation",$24k - $140k,legal,6mo
+Parity Technologies,https://web3.career/rust-core-developer-runtime-m-f-d-parity/10970,"Berlin,
+Germany",Rust Core Developer - Runtime (m/f/d),$70k - $180k,dev:rust:react:javascript:remote,6mo
+Wirex Limited,https://web3.career/people-partner-wirexlimited/10969,"Kiev,
+Ukraine",People Partner,,,6mo
+MoonPay,https://web3.career/senior-data-scientist-moonpay/10968,"London,
+United Kingdom",Senior Data Scientist,$130k - $160k,data science:senior,6mo
+Okcoin,https://web3.career/team-lead-customer-service-okcoin/10967,"Gżira, Gżira, Malta","Team Lead, Customer Service",$25k - $35k,customer support:lead,6mo
+Vauld,https://web3.career/senior-engineering-recruiter-vauld/10966,"Bengaluru,
+India",Senior Engineering Recruiter,$40k - $70k,recruiter:non tech:senior,6mo
+Vauld,https://web3.career/engineering-recruiter-vauld/10965,"Bengaluru,
+India",Engineering Recruiter,$40k - $70k,recruiter:non tech,6mo
+ChainSafe Systems,https://web3.career/senior-accountant-chainsafesystems/10925,"Toronto,
+Canada",Senior Accountant,$80k - $110k,accounting:senior,6mo
+Zilliqa,https://web3.career/treasurer-zilliqa/10924,,Treasurer,,,6mo
+Binance,https://web3.career/android-engineering-lead-manager-binance/10922,"Paris,
+France",Android Engineering Lead/Manager,,android:mobile:lead,6mo
+Kraken Digital Asset Exchange,https://web3.career/marketing-specialist-employer-brand-team-kraken/10921,Remote,Marketing Specialist - Employer Brand Team,$25k - $120k,marketing:non tech:remote,6mo
+Binance,https://web3.career/business-development-manager-eu-fiat-binance/10920,"London,
+United Kingdom",Business Development Manager - EU Fiat,$26k - $140k,sales:non tech,6mo
+Zilliqa,https://web3.career/legal-counsel-zilliqa/10919,,Legal Counsel,$24k - $140k,legal,6mo
+Kraken Digital Asset Exchange,https://web3.career/product-marketing-manager-crypto-platform-kraken/10918,Remote,"Product Marketing Manager, Crypto Platform",$46k - $140k,marketing:non tech:crypto:remote,6mo
+BlockFi,https://web3.career/senior-data-warehouse-engineer-blockfi/10917,"New York,
+United States",Senior Data Warehouse Engineer,$80k - $200k,dev:senior,6mo
+Shakepay,https://web3.career/card-operations-manager-remote-canada-shakepay/10916,"Montreal,
+Canada",Card Operations Manager (Remote - Canada),$80k - $110k,remote:operations,6mo
+NEAR,https://web3.career/full-stack-engineer-explorer-near/10915,"San Francisco,
+United States","Full-Stack Engineer, Explorer",$80k - $130k,dev:full stack:web3js:react:ethereum,6mo
+Figment,https://web3.career/intermediate-accountant-figment/10914,"Toronto,
+Canada",Intermediate Accountant,$25k - $150k,accounting,6mo
+Eco,https://web3.career/partnerships-lead-econetwork/10913,,Partnerships Lead,,sales:non tech:lead,6mo
+Brave,https://web3.career/software-engineer-ruby-on-rails-brave/10911,"San Francisco,
+United States",Software Engineer (Ruby on Rails),$18k - $52k,dev:ruby:javascript,6mo
+Amun 21Shares,https://web3.career/web-engineering-manager-amun/10910,"New York,
+United States",Web Engineering Manager,$85k - $400k,executive:react:solidity:solana:ethereum,6mo
+Amun 21Shares,https://web3.career/engineering-security-manager-amun/10909,"New York,
+United States",Engineering Security Manager,,security:react:solidity:solana:ethereum,6mo
+Immutable,https://web3.career/project-manager-esports-immutable/10908,Remote,Project Manager ESports,$100k - $120k,esports:project manager:non tech:remote,6mo
+NEAR,https://web3.career/full-stack-engineer-developer-console-near/10907,"San Francisco,
+United States","Full-Stack Engineer, Developer Console",$80k - $130k,dev:full stack:web3js:react:ethereum,6mo
+CoinList,https://web3.career/lead-front-end-engineer-coinlist/10906,"San Francisco,
+United States",Lead Front-end Engineer,$56k - $79k,dev:front end:lead:react:solana,6mo
+Polygon,https://web3.career/legal-counsel-polygon/10905,India,Legal Counsel,,legal:ethereum,6mo
+NEAR,https://web3.career/technical-leader-explorer-near/10904,"San Francisco,
+United States","Technical Leader, Explorer",$100k - $220k,lead:tech lead:react:javascript:nextjs,6mo
+Figment,https://web3.career/content-creator-and-marketing-specialist-figment/10903,"Toronto,
+Canada",Content Creator and Marketing Specialist,$45k - $130k,marketing:non tech,6mo
+Figment,https://web3.career/communications-social-media-manager-figment/10902,"Toronto,
+Canada",Communications & Social Media Manager,$33k - $85k,social media:non tech,6mo
+Newton,https://web3.career/blockchain-engineer-newton/10901,"Vancouver,
+Canada",Blockchain Engineer,$43k - $160k,dev:blockchain:golang:rust,6mo
+Newton,https://web3.career/blockchain-engineer-newton/10900,"Toronto,
+Canada",Blockchain Engineer,$43k - $160k,dev:blockchain:golang:rust,6mo
+Newton,https://web3.career/blockchain-engineer-newton/10899,"Montreal,
+Canada",Blockchain Engineer,$43k - $160k,dev:blockchain:golang:rust,6mo

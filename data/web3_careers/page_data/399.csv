@@ -1,36 +1,64 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Chainlink Labs,https://web3.career/engineering-manager-chainlink/9326,Engineering Manager,$79k - $200k,executive:remote,5mo
-Chainlink Labs,https://web3.career/devops-engineer-chainlink/9325,DevOps Engineer,$95k - $180k,devops:dev:remote,5mo
-Chainlink Labs,https://web3.career/data-engineer-observability-chainlink/9324,"Data Engineer, Observability",,data science:dev:remote,5mo
-Chainlink Labs,https://web3.career/big-data-engineer-chainlink/9323,Big Data Engineer,,big data:data science:dev:remote,5mo
-Chainlink Labs,https://web3.career/ux-researcher-chainlink/9322,UX Researcher,$50k - $135k,design:non tech:remote,5mo
-Chainlink Labs,https://web3.career/senior-product-designer-design-systems-chainlink/9321,Senior Product Designer - Design Systems,$60k - $120k,design:non tech:senior:remote,5mo
-Chainlink Labs,https://web3.career/senior-product-designer-chainlink/9320,Senior Product Designer,$60k - $120k,design:non tech:senior:remote,5mo
-Chainlink Labs,https://web3.career/head-of-design-chainlink/9319,Head of Design,,executive:design:non tech:remote,5mo
-Chainlink Labs,https://web3.career/senior-software-engineer-data-analytics-chainlink/9318,"Senior Software Engineer, Data Analytics",$360k - $500k,stats:dev:senior:remote,5mo
-Chainlink Labs,https://web3.career/junior-data-analyst-chainlink/9317,Junior Data Analyst,,analyst:data science:junior:entry level:remote,5mo
-Chainlink Labs,https://web3.career/full-stack-developer-chainlink/9316,Full Stack Developer,$70k - $200k,dev:full stack:remote,5mo
-Chainlink Labs,https://web3.career/data-scientist-chainlink/9315,Data Scientist,,data science:solidity:golang:remote,5mo
-Chainlink Labs,https://web3.career/data-product-manager-chainlink/9314,Data Product Manager,$130k - $175k,product manager:non tech:solidity:golang:remote,5mo
-Chainlink Labs,https://web3.career/developer-advocate-chainlink-china-chainlink/9313,"Developer Advocate, Chainlink China",$50k - $160k,dev:solidity:golang:remote,5mo
-Centrifuge GmbH,https://web3.career/don-t-see-your-role-centrifuge/9312,Don't see your role?,$56k - $160k,remote,5mo
-Centrifuge GmbH,https://web3.career/senior-protocol-engineer-centrifuge-protocol-centrifuge/9311,Senior Protocol Engineer - Centrifuge Protocol,$80k - $200k,dev:senior:ethereum:rust:remote,5mo
-Centrifuge GmbH,https://web3.career/senior-fullstack-engineer-centrifuge/9310,Senior Fullstack Engineer,$70k - $180k,dev:full stack:senior:remote,5mo
-Centrifuge GmbH,https://web3.career/senior-dev-ops-engineer-centrifuge/9309,Senior Dev Ops Engineer,$120k - $200k,dev:devops:senior:remote,5mo
-Centrifuge GmbH,https://web3.career/product-manager-centrifuge/9308,Product Manager,$115k - $175k,product manager:non tech:remote,5mo
-Bitwise Asset Management,https://web3.career/sales-strategist-bitwiseinvestments/9307,Sales Strategist,$26k - $140k,sales:non tech,5mo
-Bitwise Asset Management,https://web3.career/national-accounts-business-development-officer-bitwiseinvestments/9306,National Accounts Business Development Officer,$26k - $140k,sales:non tech,5mo
-Bitwise Asset Management,https://web3.career/distribution-manager-bda-desk-manager-bitwiseinvestments/9305,"Distribution Manager, BDA Desk Manager",,,5mo
-Bitwise Asset Management,https://web3.career/business-development-associate-pacific-south-territory-bitwiseinvestments/9304,"Business Development Associate, ""Pacific South"" Territory",$26k - $140k,sales:non tech,5mo
-Bitwise Asset Management,https://web3.career/business-development-associate-roles-in-multiple-territories-bitwiseinvestments/9303,Business Development Associate (Roles in Multiple Territories),$26k - $140k,sales:non tech,5mo
-Bitwise Asset Management,https://web3.career/crypto-research-analyst-nft-specialist-bitwiseinvestments/9302,Crypto Research Analyst: NFT Specialist,$31k - $120k,analyst:crypto:nft:remote,5mo
-Bitwise Asset Management,https://web3.career/senior-fund-operations-associate-ct-ny-or-sf-area-bitwiseinvestments/9301,"Senior Fund Operations Associate (CT, NY or SF Area)",,operations:senior,5mo
-Bitwise Asset Management,https://web3.career/senior-fund-operations-associate-ct-ny-or-sf-area-bitwiseinvestments/9300,"Senior Fund Operations Associate (CT, NY or SF Area)",,operations:senior,5mo
-Bitwise Asset Management,https://web3.career/senior-fund-operations-associate-ct-ny-or-sf-area-bitwiseinvestments/9299,"Senior Fund Operations Associate (CT, NY or SF Area)",,operations:senior,5mo
-Bitwise Asset Management,https://web3.career/corporate-finance-planning-ny-or-sf-area-bitwiseinvestments/9298,Corporate Finance & Planning (NY or SF Area),$40k - $150k,finance,5mo
-Bitwise Asset Management,https://web3.career/head-of-field-marketing-bitwiseinvestments/9297,Head of Field Marketing,$70k - $158k,executive:marketing:non tech:remote,5mo
-Bitwise Asset Management,https://web3.career/head-of-field-marketing-bitwiseinvestments/9296,Head of Field Marketing,$70k - $158k,executive:marketing:non tech,5mo
-Bitwise Asset Management,https://web3.career/full-stack-software-engineer-bitwiseinvestments/9295,Full Stack Software Engineer,$65k - $180k,dev:full stack,5mo
-Axoni,https://web3.career/software-engineer-scala-axoni/9294,Software Engineer (Scala),,dev:scala:react:solidity,5mo
-Axoni,https://web3.career/senior-front-end-engineer-axoni/9293,Senior Front End Engineer,$70k - $190k,dev:front end:senior,5mo
-Axoni,https://web3.career/full-stack-engineer-axoni/9292,Full Stack Engineer,$65k - $180k,dev:full stack,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+SwissBorg,https://web3.career/people-operations-associate-onboarding-remote-swissborg/9836,"Lisbon,
+Portugal","People Operations Associate, Onboarding (Remote)",$80k - $110k,remote:operations,6mo
+SwissBorg,https://web3.career/payments-product-operations-specialist-swissborg/9835,"Tallinn,
+Estonia",Payments Product Operations Specialist,$60k - $200k,operations,6mo
+SwissBorg,https://web3.career/payments-officer-swissborg/9834,"Tallinn,
+Estonia",Payments Officer,,finance:legal,6mo
+SwissBorg,https://web3.career/senior-defi-investment-researcher-remote-swissborg/9833,Lausanne,Senior Defi Investment Researcher (Remote),,remote:finance:senior:defi,6mo
+SwissBorg,https://web3.career/operational-risk-manager-remote-swissborg/9832,Zürich,Operational Risk Manager (Remote),$80k - $110k,remote:operations,6mo
+SwissBorg,https://web3.career/fundamental-analyst-remote-swissborg/9831,"Amsterdam,
+Netherlands",Fundamental Analyst (Remote),$45k - $120k,remote:analyst,6mo
+SwissBorg,https://web3.career/defi-risk-analyst-remote-swissborg/9830,Lausanne,DeFi Risk Analyst (Remote),$45k - $120k,remote:analyst:defi,6mo
+SwissBorg,https://web3.career/web-designer-remote-swissborg/9829,"Milan,
+Italy",Web Designer (Remote),$50k - $135k,remote:design:non tech,6mo
+SwissBorg,https://web3.career/social-media-events-specialist-swissborg/9828,Remote,Social Media & Events Specialist,$35k - $110k,social media:non tech:remote,6mo
+SwissBorg,https://web3.career/social-media-events-specialist-swissborg/9827,Lausanne,Social Media & Events Specialist,$33k - $85k,social media:non tech,6mo
+SwissBorg,https://web3.career/senior-marketing-strategy-manager-remote-eu-swissborg/9826,"Amsterdam,
+Netherlands","Senior Marketing Strategy Manager (Remote, EU)",$25k - $120k,remote:marketing:non tech:senior,6mo
+SwissBorg,https://web3.career/marketing-automation-specialist-remote-swissborg/9825,"Lisbon,
+Portugal",Marketing Automation Specialist (Remote),$25k - $120k,remote:marketing:non tech,6mo
+SwissBorg,https://web3.career/marketing-automation-specialist-remote-swissborg/9824,"Barcelona,
+Spain",Marketing Automation Specialist (Remote),$25k - $120k,remote:marketing:non tech,6mo
+SwissBorg,https://web3.career/data-engineering-manager-swissborg/9823,"Amsterdam,
+Netherlands",Data Engineering Manager,$70k - $180k,executive,6mo
+SwissBorg,https://web3.career/acquisition-manager-remote-swissborg/9822,"Barcelona,
+Spain",Acquisition Manager (Remote),$56k - $160k,remote,6mo
+SwissBorg,https://web3.career/acquisition-manager-remote-swissborg/9821,"Lisbon,
+Portugal",Acquisition Manager (Remote),$56k - $160k,remote,6mo
+SwissBorg,https://web3.career/web-engineer-remote-swissborg/9820,"Warsaw,
+Poland",Web Engineer (Remote),$65k - $180k,remote:dev,6mo
+SwissBorg,https://web3.career/web-engineer-remote-swissborg/9819,"Lisbon,
+Portugal",Web Engineer (Remote),$65k - $180k,remote:dev,6mo
+SwissBorg,https://web3.career/software-engineer-data-remote-swissborg/9818,"Barcelona,
+Spain","Software Engineer, Data (Remote)",$65k - $180k,remote:dev,6mo
+SwissBorg,https://web3.career/software-engineer-data-remote-swissborg/9817,"Amsterdam,
+Netherlands","Software Engineer, Data (Remote)",$65k - $180k,remote:dev,6mo
+SwissBorg,https://web3.career/software-engineer-data-remote-swissborg/9816,"Warsaw,
+Poland","Software Engineer, Data (Remote)",$65k - $180k,remote:dev,6mo
+SwissBorg,https://web3.career/site-reliability-engineer-sre-remote-swissborg/9815,"Barcelona,
+Spain",Site Reliability Engineer (SRE) - Remote,$150k - $200k,remote:dev:sys admin:senior,6mo
+SwissBorg,https://web3.career/senior-scala-engineer-automation-remote-swissborg/9814,"Warsaw,
+Poland","Senior Scala Engineer, Automation (Remote)",,remote:dev:scala:senior,6mo
+SwissBorg,https://web3.career/scala-engineer-remote-swissborg/9813,"Warsaw,
+Poland",Scala Engineer (Remote),,remote:dev:scala,6mo
+SwissBorg,https://web3.career/scala-engineer-remote-swissborg/9812,Lausanne,Scala Engineer (Remote),,remote:dev:scala,6mo
+SwissBorg,https://web3.career/qa-engineer-remote-swissborg/9811,"Barcelona,
+Spain",QA Engineer (Remote),,remote:dev:quality assurance,6mo
+SwissBorg,https://web3.career/qa-engineer-remote-swissborg/9810,"Amsterdam,
+Netherlands",QA Engineer (Remote),,remote:dev:quality assurance,6mo
+SwissBorg,https://web3.career/financial-controller-remote-swissborg/9809,"Tallinn,
+Estonia",Financial Controller (Remote),,remote:legal:finance,6mo
+SwissBorg,https://web3.career/financial-controller-remote-swissborg/9808,"Amsterdam,
+Netherlands",Financial Controller (Remote),,remote:legal:finance,6mo
+SwissBorg,https://web3.career/accountant-remote-swissborg/9807,Lausanne,Accountant (Remote),$11k - $25k,remote:accounting,6mo
+SwissBorg,https://web3.career/accountant-remote-swissborg/9806,"Berlin,
+Germany",Accountant (Remote),$11k - $25k,remote:accounting,6mo
+SwissBorg,https://web3.career/accountant-remote-swissborg/9805,"Amsterdam,
+Netherlands",Accountant (Remote),$11k - $25k,remote:accounting,6mo
+SwissBorg,https://web3.career/accountant-remote-swissborg/9804,"Tallinn,
+Estonia",Accountant (Remote),$11k - $25k,remote:accounting,6mo
+SwissBorg,https://web3.career/senior-compliance-manager-swissborg/9803,"Tallinn,
+Estonia",Senior Compliance Manager,,compliance:senior,6mo
+SwissBorg,https://web3.career/french-senior-kyc-analyst-swissborg/9802,"Lisbon,
+Portugal",French Senior KYC Analyst,,kyc:analyst:senior,6mo

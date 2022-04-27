@@ -1,36 +1,55 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Ava Labs,https://web3.career/events-manager-avalabs/11734,Events Manager,,events manager:non tech,5mo
-CoinFlip,https://web3.career/it-service-desk-manager-coinflip/11570,IT Service Desk Manager,$40k - $80k,customer support,5mo
-cLabs,https://web3.career/community-programs-management-intern-celo-foundation-spring-summer-2022-clabs/11531,"Community Programs Management Intern, Celo Foundation (Spring/Summer 2022)",,community manager:non tech:intern:entry level:remote,5mo
-Coinme,https://web3.career/senior-security-engineer-remote-optional-coinme/11530,Senior Security Engineer (Remote Optional),$95k - $250k,remote:dev:security:senior,5mo
-Chainalysis,https://web3.career/software-engineer-backend-chainalysis/11529,"Software Engineer, Backend",$33k - $160k,backend:dev:golang,5mo
-NEAR,https://web3.career/regulatory-specialist-near/11517,Regulatory Specialist,$24k - $140k,legal,5mo
-11:FS,https://web3.career/marketing-campaigns-manager-11fs/11516,Marketing Campaigns Manager,$45k - $130k,marketing:non tech,5mo
-SuperRare Labs,https://web3.career/controller-superrarelabs/11515,Controller,,legal:ethereum:nft,5mo
-Public,https://web3.career/affiliate-coordinator-public/11514,Affiliate Coordinator,$45k - $130k,marketing:non tech,5mo
-Foundry,https://web3.career/cloud-engineer-crypto-staking-foundrydigital/11513,"Cloud Engineer, Crypto Staking",,cloud:dev:crypto:ruby,5mo
-The Block,https://web3.career/recruiting-associate-theblockcrypto/11512,Recruiting Associate,,recruiter:non tech:remote,5mo
-SwissBorg,https://web3.career/senior-product-designer-remote-swissborg/11511,Senior Product Designer (Remote),$50k - $135k,remote:design:non tech:senior,5mo
-Wirex Limited,https://web3.career/global-head-of-people-wirexlimited/11510,Global Head of People,$70k - $180k,executive,5mo
-The Block,https://web3.career/senior-recruiter-theblockcrypto/11509,Senior Recruiter,$40k - $70k,recruiter:non tech:senior:remote,5mo
-SwissBorg,https://web3.career/software-engineer-data-remote-swissborg/11508,"Software Engineer, Data (Remote)",$65k - $180k,remote:dev,5mo
-SwissBorg,https://web3.career/software-engineer-data-remote-swissborg/11507,"Software Engineer, Data (Remote)",$65k - $180k,remote:dev,5mo
-Wirex Limited,https://web3.career/system-product-owner-wirexlimited/11496,System Product Owner,$69k - $160k,product manager:non tech,5mo
-Energi Core Limited,https://web3.career/full-stack-web-developer-energicorelimited/11495,Full Stack Web Developer,$65k - $180k,dev:full stack:react:ethereum:javascript,5mo
-GSR,https://web3.career/security-engineer-senior-associate-europe-gsr/11494,Security Engineer - Senior Associate - Europe,$95k - $250k,dev:security:senior,5mo
-WOO Network,https://web3.career/marketing-intern-woonetwork/11493,Marketing Intern,$24k - $48k,intern:entry level:marketing:non tech,5mo
-Immutable,https://web3.career/engineering-lead-immutable/11492,Engineering Lead,$100k - $200k,lead:ethereum:nft,5mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/safe-scrum-master-tradeblock-coindesk/11488,"SAFe Scrum Master, TradeBlock",,scrum,5mo
-Binance,https://web3.career/junior-mobile-security-engineer-ios-android-binance/11485,Junior Mobile Security Engineer (iOS/Android),,android:mobile:dev:ios:junior,5mo
-Binance,https://web3.career/ui-ux-designer-binance-chain-binance/11484,UI/UX Designer (Binance Chain),$50k - $135k,design:non tech:remote,5mo
-Binance,https://web3.career/junior-soc-security-engineer-binance/11483,Junior SOC Security Engineer,$45k - $180k,dev:junior:entry level:security,5mo
-Binance,https://web3.career/product-manager-binance-chain-binance/11482,Product Manager (Binance Chain),$115k - $175k,product manager:non tech:remote,5mo
-FreshCut,https://web3.career/senior-frontend-engineer-freshcut/11481,Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:javascript,5mo
-Binance,https://web3.career/golang-developer-fresh-junior-binance/11480,Golang Developer - Fresh/Junior,,dev:golang:junior:entry level,5mo
-Binance,https://web3.career/security-engineer-developer-internship-binance/11479,Security Engineer Developer (Internship),$12k - $33k,dev:intern:entry level:security,5mo
-Binance,https://web3.career/junior-devops-engineer-binance/11478,Junior DevOps Engineer,,devops:dev:junior:entry level,5mo
-Galaxy Digital Services,https://web3.career/analyst-strategic-solutions-galaxydigitalservices/11477,"Analyst, Strategic Solutions",$40k - $120k,analyst,5mo
-Kraken Digital Asset Exchange,https://web3.career/hr-generalist-emea-visa-immigration-specialist-kraken/11476,HR Generalist EMEA- (Visa & Immigration Specialist),$60k - $120k,hr:non tech:remote,5mo
-Kraken Digital Asset Exchange,https://web3.career/program-coordinator-kraken/11475,Program Coordinator,,,5mo
-Binance,https://web3.career/junior-data-analyst-binance/11474,Junior Data Analyst,,analyst:data science:junior:entry level,5mo
-Binance,https://web3.career/marketing-manager-binance-earn-defi-knowledge-required-binance/11473,Marketing Manager - Binance Earn (DeFi knowledge required),$60k - $140k,marketing:non tech:defi,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Yieldside,https://web3.career/cryptocurrency-defi-analyst-yieldside/12577,"Columbus,
+United States",Cryptocurrency (DeFi) Analyst,$80k - $100k,analyst:crypto:defi:ethereum,5mo
+Covalent,https://web3.career/blockchain-engineer-covalenthq/12576,"Vancouver,
+Canada",Blockchain Engineer,$98k - $118k,dev:blockchain:solidity,5mo
+Pendle,https://web3.career/solidity-developer-pendle_finance/12575,"Singapore,
+Singapore",Solidity Developer,$50k - $120k,dev:solidity:ethereum:ruby,5mo
+Injective Labs,https://web3.career/senior-defi-blockchain-developer-injective-labs/12573,"New York,
+United States",Senior DeFi/Blockchain Developer,$0k,dev:senior:blockchain:defi:ethereum,5mo
+Set Labs,https://web3.career/defi-researcher-setprotocol/12572,"San Francisco,
+United States",DeFi Researcher,$90k - $160k,defi,5mo
+Sublime Finance,https://web3.career/solidity-developer-sublime-7/12571,"Mumbai,
+India",Solidity Developer,$30k - $110k,dev:solidity:react:javascript:node,5mo
+Parity Technologies,https://web3.career/office-manager-m-f-d-parity/12569,"Berlin,
+Germany",Office Manager (m/f/d),$56k - $160k,remote,5mo
+BitGo,https://web3.career/technical-security-program-manager-bitgo/12566,"Palo Alto,
+United States",Technical Security Program Manager,$95k - $250k,executive:security,5mo
+cLabs,https://web3.career/hr-business-partner-clabs/12565,Remote,HR Business Partner,$60k - $120k,hr:non tech:remote,5mo
+Parity Technologies,https://web3.career/internal-tools-developer-m-f-d-parity/12564,"Berlin,
+Germany",Internal Tools Developer (m/f/d),$69k - $160k,dev:javascript:rust:remote,5mo
+BlockFi,https://web3.career/director-of-market-risk-blockfi/12563,"New York,
+United States",Director of Market Risk,$70k - $180k,executive,5mo
+SwissBorg,https://web3.career/legal-counsel-regulatory-remote-swissborg/12562,"Amsterdam,
+Netherlands",Legal Counsel Regulatory (Remote),,legal:remote,5mo
+SwissBorg,https://web3.career/legal-counsel-regulatory-remote-swissborg/12561,"Paris,
+France",Legal Counsel Regulatory (Remote),,legal:remote,5mo
+SwissBorg,https://web3.career/legal-counsel-regulatory-remote-swissborg/12560,"Brussels,
+Belgium",Legal Counsel Regulatory (Remote),,legal:remote,5mo
+CoinFlip,https://web3.career/mobile-software-engineer-android-coinflip/12559,"Chicago,
+United States",Mobile Software Engineer - Android,,android:mobile:dev,5mo
+Parity Technologies,https://web3.career/junior-operations-manager-m-f-d-parity/12526,"Berlin,
+Germany",Junior Operations Manager (m/f/d),,junior:entry level:operations:remote,5mo
+Consensys,https://web3.career/web3-qa-engineer-consensys/12524,Remote,Web3 QA Engineer,$65k - $150k,dev:quality assurance:ethereum:javascript:remote,5mo
+Consensys,https://web3.career/ux-researcher-consensys/12523,Remote,UX Researcher,$80k - $150k,design:non tech:ethereum:remote,5mo
+Consensys,https://web3.career/ux-engineer-consensys/12522,United States,UX Engineer,$80k - $150k,dev:design:non tech:react:ethereum,5mo
+Consensys,https://web3.career/trustworthy-smart-contracts-applied-researcher-protocols-r-d-consensys/12521,Remote,Trustworthy Smart Contracts Applied Researcher (Protocols R&D),,data science:smart contract:solidity:ethereum:java,5mo
+Consensys,https://web3.career/technical-support-engineer-metamask-consensys/12520,Remote,Technical Support Engineer (MetaMask),,dev:customer support:ethereum:remote,5mo
+Consensys,https://web3.career/technical-support-engineer-consensys/12519,"Hong Kong,
+Hong Kong",Technical Support Engineer,,dev:customer support:ethereum:javascript,5mo
+Consensys,https://web3.career/sr-software-engineer-consensys/12518,Remote,Sr Software Engineer,$63k - $160k,dev:solidity:ethereum:golang:remote,5mo
+Consensys,https://web3.career/sre-consensys/12517,Remote,SRE,$24k - $180k,senior:react:ethereum:remote,5mo
+Consensys,https://web3.career/sr-devops-engineer-consensys/12516,Remote,Sr. DevOps Engineer,$120k - $200k,devops:dev:senior:solidity:ethereum,5mo
+Consensys,https://web3.career/sr-blockchain-engineer-consensys/12515,Remote,Sr. Blockchain Engineer,$80k - $200k,dev:senior:blockchain:web3js:solidity,5mo
+Consensys,https://web3.career/sr-blockchain-engineer-smart-contract-dev-tools-consensys/12514,Remote,Sr. Blockchain Engineer (Smart Contract Dev Tools),$80k - $200k,dev:senior:blockchain:smart contract:web3js,5mo
+Consensys,https://web3.career/sr-blockchain-engineer-ganache-consensys/12513,Remote,Sr. Blockchain Engineer (Ganache),$80k - $200k,dev:senior:blockchain:solidity:ethereum,5mo
+Consensys,https://web3.career/sr-backend-engineer-consensys/12512,Remote,Sr. Backend Engineer,$70k - $200k,backend:dev:senior:ethereum:golang,5mo
+Consensys,https://web3.career/solution-architect-professional-services-usa-consensys/12511,United States,"Solution Architect (Professional Services, USA)",$67k - $113k,architecture:solidity:ethereum,5mo
+Consensys,https://web3.career/solution-architect-professional-services-uk-ireland-europe-consensys/12510,"London,
+United Kingdom","Solution Architect (Professional Services, UK/Ireland & Europe)",$67k - $113k,architecture:solidity:ethereum:remote,5mo
+Consensys,https://web3.career/solution-architect-professional-services-hong-kong-consensys/12509,"Hong Kong,
+Hong Kong","Solution Architect (Professional Services, Hong Kong)",$67k - $113k,architecture:solidity:ethereum,5mo
+Consensys,https://web3.career/smart-contract-security-engineer-consensys/12508,Remote,Smart Contract Security Engineer,,dev:security:smart contract:solidity:ethereum,5mo
+Consensys,https://web3.career/site-reliability-engineer-consensys/12507,Remote,Site Reliability Engineer,,dev:sys admin:ethereum:remote,5mo
+Consensys,https://web3.career/service-delivery-manager-professional-services-uk-ireland-europe-consensys/12506,"London,
+United Kingdom","Service Delivery Manager (Professional Services, UK/Ireland & Europe)",,dev:executive:ethereum:remote,5mo

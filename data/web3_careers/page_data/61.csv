@@ -1,36 +1,48 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-CoinList,https://web3.career/principal-coinlist-seed-coinlist/24118,"Principal, CoinList Seed",$85k - $180k,executive:solana,28d
-Amun 21Shares,https://web3.career/sr-product-designer-amun/24117,Sr. Product Designer,$60k - $120k,design:non tech:senior,28d
-Uniswap Labs,https://web3.career/senior-frontend-engineer-uniswap/24116,Senior Frontend Engineer,,front end:web3js:react:javascript:senior,28d
-4022: Novatopia,https://web3.career/art-director-graphic-designer-game-designer-4022-novatopia/24115,Art Director / Graphic Designer - Game Designer,,design:non tech:executive:game dev,28d
-FPT Deutschland GmbH,https://web3.career/senior-mobile-developer-fger/24114,Senior Mobile Developer,$120k - $200k,dev:mobile:senior,28d
-Voodoo,https://web3.career/product-owner-manager-marketing-growth-voodoo/24113,Product Owner/Manager - Marketing & Growth,,product manager:non tech:marketing,28d
-Flippa,https://web3.career/data-engineer-marketplace-flippa/24112,Data Engineer - Marketplace,$70k - $160k,data science:dev,28d
-Immunefi,https://web3.career/community-manager-immunefi/24111,Community Manager,$40k - $100k,community manager:non tech,28d
-RECUR,https://web3.career/corporate-trainer-recur/24109,Corporate Trainer,,education,28d
-Tron,https://web3.career/hr-data-analyst-rainberry/24108,HR Data Analyst,,analyst:data science:hr:non tech,28d
-Brave,https://web3.career/it-support-engineer-brave/24107,IT Support Engineer,,dev:customer support:javascript,28d
-BitGo,https://web3.career/prime-client-service-manager-bitgo/24106,Prime Client Service Manager,,,28d
-Bitcoin Depot,https://web3.career/director-of-product-management-bitcoindepot/24105,Director of Product Management,$135k - $170k,executive:product manager:non tech:ethereum,28d
-Okcoin,https://web3.career/accounting-analyst-okcoin/24104,Accounting Analyst,$50k - $70k,accounting:analyst,28d
-CANDY,https://web3.career/hr-business-partner-learning-and-development-candy/24103,HR Business Partner (Learning and Development),$60k - $150k,hr:non tech,28d
-VSC,https://web3.career/remote-public-relations-associate-vsc/24102,Remote: Public Relations Associate,$25k - $120k,marketing:non tech:remote,28d
-peaq,https://web3.career/full-stack-developer-m-w-d-peaq/24101,Full Stack Developer (m/w/d),$65k - $180k,dev:full stack:react:rust,28d
-Voodoo,https://web3.career/lead-software-engineer-player-journey-optimization-team-voodoo/24100,Lead Software Engineer - Player Journey Optimization team,$100k - $200k,dev:lead,28d
-micobo GmbH,https://web3.career/cloud-engineer-remote-only-in-germany-all-genders-micobo/24099,Cloud Engineer (remote only in Germany) - all genders,,remote:cloud:dev:node:golang,28d
-Virtually Human Studio,https://web3.career/senior-game-economist-remote-vhslab/24098,Senior Game Economist (Remote),$70k - $150k,remote:game dev:senior:nft,28d
-Ianuly Talent Accelerators,https://web3.career/github-recruiter-summer-intern-ianulytalentaccelerators/24097,GitHub Recruiter Summer Intern,,intern:entry level:recruiter:non tech,28d
-CoinList,https://web3.career/business-operations-analyst-payments-coinlist/24096,"Business Operations Analyst, Payments",,analyst:operations:solana,28d
-Synapse International,https://web3.career/rust-engineer-synapseint/24095,Rust Engineer,$70k - $180k,dev:rust:remote:web3js:react,28d
-Wirex Limited,https://web3.career/product-manager-wirexlimited/24094,Product Manager,$69k - $160k,product manager:non tech,28d
-Salad Technologies,https://web3.career/senior-software-engineer-networking-saladtechnologies/24092,"Senior Software Engineer, Networking",$85k - $200k,dev:senior:remote:ethereum,28d
-Chain,https://web3.career/researcher-chain/24091,Researcher,$56k - $160k,remote,28d
-Fractal,https://web3.career/blockchain-engineer-rust-fractal-is/24090,Blockchain Engineer (Rust),$79k - $190k,dev:rust:blockchain:solana:nft,28d
-Ripple,https://web3.career/software-engineer-ripplenet-payments-ripple/24089,"Software Engineer, RippleNet Payments",$60k - $180k,dev,28d
-Okcoin,https://web3.career/staff-product-designer-retail-okcoin/24088,"Staff Product Designer, Retail",$50k - $150k,design:non tech,28d
-Okcoin,https://web3.career/staff-product-designer-okcoin/24087,Staff Product Designer,$50k - $150k,design:non tech,28d
-HQ Digital,https://web3.career/software-engineer-hqdigital/24086,Software Engineer,$60k - $180k,dev,28d
-Virtually Human Studio,https://web3.career/product-manager-remote-vhslab/24085,Product Manager (Remote),$115k - $175k,remote:product manager:non tech:nft,28d
-APY Vision,https://web3.career/ux-ui-designer-apy-vision/24084,UX UI Designer,$50k - $70k,design:non tech,28d
-NEAR,https://web3.career/engineering-manager-applications-near/24083,"Engineering Manager, Applications",$70k - $180k,executive,28d
-Coin Metrics,https://web3.career/senior-cryptoasset-index-analyst-coinmetrics/24082,SENIOR CRYPTOASSET INDEX ANALYST,$150k - $185k,analyst:senior,28d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Crypto.com,https://web3.career/assistant-manager-system-administrator-legal-operations-sg-crypto-com/24753,"Singapore,
+Singapore","Assistant Manager, System Administrator-Legal Operations (SG)",,legal:operations:sys admin:nft,26d
+Crypto.com,https://web3.career/regulatory-compliance-manager-australia-crypto-com/24752,Australia,"Regulatory Compliance Manager, Australia",,compliance:legal:nft,26d
+Crypto.com,https://web3.career/data-privacy-associate-apac-crypto-com/24751,"Hong Kong,
+Hong Kong","Data Privacy Associate, APAC",$55k - $150k,nft,26d
+"Data Wow Co., Ltd.",https://web3.career/blockchain-developer-datawowco-ltd/24750,Thailand,Blockchain Developer,$43k - $160k,dev:blockchain:golang,26d
+Crypto.com,https://web3.career/compliance-director-u-s-and-canadian-exchanges-crypto-com/24749,"Miami,
+United States",Compliance Director - U.S. and Canadian Exchanges,,compliance:executive,26d
+Crypto.com,https://web3.career/backend-developer-ror-golang-elixir-fresh-graduate-welcome-crypto-com/24748,"Taipei,
+Taiwan",Backend Developer (ROR/Golang/Elixir) - Fresh Graduate Welcome,,backend:dev:intern:entry level:golang,26d
+Crypto.com,https://web3.career/institutional-sales-manager-emea-crypto-com/24747,Germany,Institutional Sales Manager - EMEA,$29k - $108k,sales:non tech:remote,26d
+Brinc,https://web3.career/associate-program-manager-blockchain-nft-accelerator-brinc/24746,"Hong Kong,
+Hong Kong",Associate Program Manager (Blockchain & NFT Accelerator),$80k - $225k,executive:blockchain:nft,26d
+Crypto.com,https://web3.career/card-program-manager-crypto-com/24745,"Miami,
+United States",Card Program Manager,$70k - $180k,executive,26d
+Crypto.com,https://web3.career/business-development-manager-nft-japan-korea-crypto-com/24744,Japan,"Business Development Manager (NFT, Japan/ Korea)",$100k - $180k,sales:non tech:nft,26d
+Quant Network Ltd,https://web3.career/senior-ethereum-developer-quantnetworkltd/24743,"London,
+United Kingdom",Senior Ethereum Developer,$80k - $200k,dev:senior:solidity:ethereum,26d
+Crypto.com,https://web3.career/account-manager-emea-crypto-com/24742,Switzerland,Account Manager - EMEA,,account manager,26d
+Crypto.com,https://web3.career/growth-partnerships-director-north-america-crypto-com/24741,United States,"Growth Partnerships Director, North America",$40k - $150k,sales:non tech:executive:marketing,26d
+Crypto.com,https://web3.career/analyst-global-customer-monitoring-program-crypto-com/24740,"Miami,
+United States","Analyst, Global Customer Monitoring Program",$36k - $120k,analyst:nft,26d
+Crypto.com,https://web3.career/nft-pfp-loaded-lions-community-manager-apac-crypto-com/24739,Australia,"NFT- PFP Loaded Lions Community Manager, APAC",$35k - $101k,community manager:non tech:nft,26d
+Crypto.com,https://web3.career/growth-campaigns-director-north-america-crypto-com/24738,United States,"Growth Campaigns Director, North America",$70k - $158k,executive:marketing:non tech:nft,26d
+Crypto.com,https://web3.career/junior-account-manager-latam-seeking-graduates-or-entry-level-applicants-crypto-com/24737,Mexico,Junior Account Manager - LATAM - Seeking Graduates or Entry level Applicants,,account manager:junior:entry level,26d
+dcSpark,https://web3.career/solidity-developer-dcspark/24736,United States,Solidity Developer,$63k - $160k,dev:solidity:ethereum,26d
+Crypto.com,https://web3.career/security-engineer-sg-crypto-com/24735,"Singapore,
+Singapore",Security Engineer (SG),,dev:security:react:ethereum:nft,26d
+Crypto.com,https://web3.career/director-of-engineering-cronos-crypto-com/24734,"Hong Kong,
+Hong Kong",Director of Engineering - Cronos,$63k - $180k,executive:nft,26d
+Coinbase,https://web3.career/staff-sw-engineer-enterprise-apps-sales-marketing-support-coinbase/24733,Remote,"Staff SW Engineer, Enterprise Apps, Sales, Marketing & Support",$85k - $120k,dev:marketing:non tech:sales:customer support,26d
+Coinbase,https://web3.career/senior-director-treasury-growth-product-enablement-coinbase/24732,Remote,"Senior Director, Treasury Growth & Product Enablement",$70k - $158k,executive:marketing:non tech:senior:remote,26d
+Coinbase,https://web3.career/senior-software-engineer-react-native-coinbase/24731,Remote,Senior Software Engineer - React Native,$65k - $200k,dev:react native:mobile:javascript:react,26d
+Coinbase,https://web3.career/senior-it-service-desk-engineer-coinbase/24730,"Dublin,
+Ireland",Senior IT Service Desk Engineer,,customer support:dev:senior,26d
+Coinbase,https://web3.career/coinbase-analytics-blockchain-researcher-coinbase/24729,Remote,Coinbase Analytics Blockchain Researcher,,stats:blockchain:remote,26d
+Coinbase,https://web3.career/blockchain-security-engineering-manager-coinbase/24728,Remote,Blockchain Security Engineering Manager,,executive:security:blockchain:remote:nft,26d
+Coinbase,https://web3.career/software-engineer-market-data-analytics-coinbase/24727,Remote,Software Engineer - Market Data & Analytics,,stats:dev:remote,26d
+Coinbase,https://web3.career/staff-visual-designer-india-coinbase/24726,Remote,Staff Visual Designer (India),$50k - $135k,design:non tech:remote,26d
+Coinbase,https://web3.career/senior-product-marketing-manager-nft-growth-coinbase/24725,Remote,"Senior Product Marketing Manager, NFT Growth",$46k - $109k,marketing:non tech:senior:nft:remote,26d
+Coinbase,https://web3.career/software-engineer-enterprise-apps-coinbase/24724,Remote,"Software Engineer, Enterprise Apps",$50k - $150k,dev:remote:react:javascript:node,26d
+Coinbase,https://web3.career/program-management-associate-nft-marketplace-coinbase/24723,Remote,"Program Management Associate, NFT Marketplace",$56k - $165k,nft:remote,26d
+Coinbase,https://web3.career/manager-account-management-hedge-funds-crypto-native-coinbase/24722,Remote,"Manager, Account Management (Hedge Funds, Crypto-native)",$35k - $150k,crypto:remote,26d
+Coinbase,https://web3.career/communications-manager-nft-coinbase/24721,Remote,"Communications Manager, NFT",$55k - $140k,marketing:non tech:nft:remote,26d
+Coinbase,https://web3.career/senior-developer-relations-engineer-coinbase/24720,"San Francisco,
+United States",Senior Developer Relations Engineer,,customer support:dev:senior:react:react native,26d
+Coinbase,https://web3.career/product-manager-cryptoasset-keys-coinbase/24719,Remote,"Product Manager, Cryptoasset Keys",$115k - $175k,product manager:non tech:remote,26d

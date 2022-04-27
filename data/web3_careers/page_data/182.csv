@@ -1,36 +1,57 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Chainlink Labs,https://web3.career/l-d-coordinator-chainlink/19117,L&D Coordinator,$56k - $160k,remote,3mo
-Chainlink Labs,https://web3.career/treasury-associate-chainlink/19116,Treasury Associate,$56k - $160k,remote,3mo
-Figment,https://web3.career/developer-relations-americas-marketing-figment/19114,"Developer Relations - Americas, Marketing",,customer support:dev:marketing:non tech,3mo
-Huawei Technologies,https://web3.career/working-student-applied-crypto-technologies-in-data-security-m-f-d-huaweitechnologies/19113,Working Student Applied Crypto Technologies in Data Security (m/f/d),,security:crypto:remote:java,3mo
-CoinDesk,https://web3.career/seo-content-writer-crypto-coindesk/19112,"SEO Content Writer, Crypto",,copywriting:seo:non tech:crypto,3mo
-Genies,https://web3.career/technical-program-manager-nft-marketplace-genies/19108,Technical Program Manager (NFT Marketplace),$63k - $180k,executive:nft,3mo
-Otis,https://web3.career/smart-contract-engineer-solidity-otiswealth/19107,Smart Contract Engineer - Solidity,$72k - $200k,dev:smart contract:solidity:remote,3mo
-Voice,https://web3.career/creator-community-coordinator-voice/19106,Creator Community Coordinator,$35k - $101k,community manager:non tech:nft,3mo
-Public,https://web3.career/operations-specialist-onboarding-series-24-required-public/19105,"Operations Specialist, Onboarding (Series 24 required)",$60k - $200k,operations,3mo
-Figure,https://web3.career/senior-back-end-software-engineer-provenance-blockchain-banking-figure/19104,Senior Back End Software Engineer - Provenance Blockchain Banking,$170k - $250k,backend:finance:dev:senior:blockchain,3mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/seo-content-writer-crypto-coindesk/19103,"SEO Content Writer, Crypto",,copywriting:seo:non tech:crypto,3mo
-BlockFi,https://web3.career/corporate-counsel-blockfi/19102,Corporate Counsel,$24k - $140k,legal,3mo
-Coinsquare,https://web3.career/it-systems-administrator-coinsquare/19100,IT Systems Administrator,,sys admin:ethereum,3mo
-Neon Labs,https://web3.career/hr-talent-manager-neon-labs/19099,"HR, Talent Manager",$51k - $70k,hr:non tech:recruiter:remote:solana,3mo
-Neon Labs,https://web3.career/full-stack-team-lead-neon-labs/19098,Full Stack Team Lead,$100k - $150k,full stack:lead:remote:web3js:react,3mo
-Neon Labs,https://web3.career/senior-devops-engineer-neon-labs/19097,Senior DevOps Engineer,$120k - $200k,devops:dev:senior:remote:solana,3mo
-Neon Labs,https://web3.career/senior-research-engineer-neon-labs/19096,Senior Research Engineer,$85k - $200k,dev:senior:remote:solana:ethereum,3mo
-Neon Labs,https://web3.career/trying-product-manager-neon-labs/19095,Trying Product Manager,$115k - $175k,product manager:non tech:remote:solana,3mo
-Coinsquare,https://web3.career/legal-compliance-assistant-coinsquare/19094,Legal & Compliance Assistant,,compliance:legal:ethereum,3mo
-Chainlink Labs,https://web3.career/payroll-specialist-chainlink/19093,Payroll Specialist,$11k - $25k,accounting:remote,3mo
-Polygon,https://web3.career/visual-designer-polygon/19092,Visual Designer,$80k - $150k,design:non tech:ethereum,3mo
-Polygon,https://web3.career/technical-content-writer-polygon/19091,Technical Content Writer,,copywriting:ethereum,3mo
-Polygon,https://web3.career/social-media-manager-polygon/19090,Social Media Manager,,social media:non tech:ethereum:nft,3mo
-Polygon,https://web3.career/program-manager-polygon/19089,Program Manager,$50k - $158k,executive:ethereum:nft,3mo
-Polygon,https://web3.career/community-manager-polygon/19088,Community Manager,$15k - $30k,community manager:non tech:ethereum:nft,3mo
-Reality Cards,https://web3.career/director-of-marketing-for-nft-project-reality-cards/19087,Director of Marketing for NFT project,$80k - $100k,executive:marketing:non tech:nft,3mo
-Protocol Labs,https://web3.career/community-engineer-china-filecoin-protocollabs/19085,"Community Engineer (China), Filecoin",,community manager:non tech:dev:remote,3mo
-Ianuly Talent Accelerators,https://web3.career/senior-smart-contracts-developer-ianulytalentaccelerators/19084,Senior Smart Contracts Developer,$120k - $250k,dev:senior:smart contract,3mo
-IOVLabs,https://web3.career/sales-engineer-iovlabs/19083,Sales Engineer,,dev:sales:non tech:remote,3mo
-Amun 21Shares,https://web3.career/engineering-manager-blockchain-amun/19082,"Engineering Manager, Blockchain",$100k - $300k,executive:blockchain:remote,3mo
-ZAUBAR,https://web3.career/3d-web-entwickler-3d-web-developer-ar-xr-webgl-3852090-3d-web-entwickler-3d-web-developer-ar-xr-webgl/19081,"3D Web Entwickler // 3D Web Developer (AR, XR, WebGL)",,vfx:dev:javascript:remote,3mo
-SpotOn: Product,https://web3.career/backend-developer-spotonproduct/19079,Backend Developer,$60k - $180k,backend:dev,3mo
-Consensys,https://web3.career/technical-product-marketing-manager-truffle-infura-consensys/19078,"Technical Product Marketing Manager (Truffle, Infura)",$25k - $120k,marketing:non tech:remote:ethereum,3mo
-Parity Technologies,https://web3.career/frontend-ux-developer-parity/19077,Frontend UX Developer,,dev:front end:design:non tech:remote,3mo
-Okcoin,https://web3.career/russian-customer-service-representative-okcoin/19076,Russian Customer Service Representative,$40k - $80k,customer support:remote,3mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Gemini,https://web3.career/associate-brand-designer-gemini/19862,United States,Associate Brand Designer,,marketing:non tech:design,3mo
+Immutable,https://web3.career/product-manager-tokens-immutable/19861,"Sydney,
+Australia",Product Manager (Tokens),$69k - $160k,product manager:non tech:nft,3mo
+Prime Protocol,https://web3.career/solidity-engineer-prime-protocol/19860,Remote,Solidity Engineer,$100k - $150k,dev:solidity:remote:ethereum,3mo
+Daoism Systems,https://web3.career/web3-smart-contracts-engineer-daoism-systems/19859,"Berlin,
+Germany",Web3 / Smart Contracts Engineer,$65k - $120k,dev:smart contract:remote:solidity:ethereum,3mo
+Kraken Digital Asset Exchange,https://web3.career/marketing-operations-manager-product-marketing-kraken/19858,Remote,Marketing Operations Manager - Product Marketing,,marketing:non tech:operations:remote,3mo
+Sygnum Bank AG,https://web3.career/senior-associate-vp-sales-trader-sygnum/19856,"Singapore,
+Singapore","Senior Associate/VP, Sales Trader",$50k - $150k,sales:non tech:senior:trader:executive,3mo
+Anchorage Digital,https://web3.career/member-of-design-team-senior-product-designer-design-systems-portugal-anchorage/19855,Portugal,"Member of Design Team, Senior Product Designer, Design Systems - Portugal",$60k - $120k,design:non tech:senior,3mo
+SuperRare Labs,https://web3.career/senior-frontend-architect-superrarelabs/19854,"New York,
+United States",Senior Frontend Architect,,architecture:front end:senior:react:ethereum,3mo
+INBRO AG,https://web3.career/freelancer-3895254-freelancer/19853,Switzerland,Freelancer,,,3mo
+Trust Machines,https://web3.career/bitcoin-engineer-trustmachines/19850,Remote,Bitcoin Engineer,,dev:btc:rust:remote,3mo
+Binance,https://web3.career/finance-manager-binance/19849,"Manila,
+Philippines",Finance Manager,$40k - $150k,finance,3mo
+Binance,https://web3.career/pr-intern-cis-binance/19848,"Moscow,
+Russia",PR Intern (CIS),$24k - $48k,marketing:non tech:intern:entry level,3mo
+PolySign & Standard Custody,https://web3.career/blockchain-development-team-lead-polysign/19847,"San Francisco,
+United States",Blockchain Development Team Lead,$90k - $160k,lead:blockchain:rust,3mo
+Creatility,https://web3.career/cofounder-cto-for-a-nft-smart-contract-startup-creatility/19846,"San Francisco,
+United States","Cofounder, CTO for a NFT/smart contract startup",$0k,executive:nft:smart contract:cto,3mo
+DOT Indonesia,https://web3.career/blockchain-engineer-dot-indonesia/19845,Indonesia,Blockchain Engineer,$5000k - $6500k,dev:blockchain:solidity:ethereum,3mo
+VolumeFi,https://web3.career/senior-crytography-engineer-volume-finance/19843,Remote,Senior Crytography Engineer,$85k - $200k,dev:senior:remote:solidity:ethereum,3mo
+Trust Machines,https://web3.career/general-counsel-trustmachines/19842,Remote,General Counsel,,legal:remote,3mo
+Ripple,https://web3.career/product-manager-ripple/19841,"San Francisco,
+United States",Product Manager,$69k - $160k,product manager:non tech,3mo
+0x,https://web3.career/product-manager-data-0x/19840,"San Francisco,
+United States",Product Manager - Data,$80k - $150k,product manager:non tech:ethereum,3mo
+OneWorldNation.game,https://web3.career/solidity-developer-for-a-play-to-earn-gaming-metaverse-oneworldnation-game/19839,"Bengaluru,
+India",Solidity Developer for a Play to Earn Gaming Metaverse,$40k - $80k,dev:game dev:metaverse:solidity,3mo
+Anchorage Digital,https://web3.career/member-of-design-team-product-designer-portugal-anchorage/19836,Portugal,"Member of Design Team, Product Designer - Portugal",$50k - $150k,design:non tech,3mo
+Binance,https://web3.career/vip-corporate-broker-manager-binance/19835,"London,
+United Kingdom","VIP, Corporate & Broker Manager",,,3mo
+Binance,https://web3.career/senior-regulatory-advisor-futures-business-binance/19834,"London,
+United Kingdom",Senior Regulatory Advisor (Futures Business),,legal:senior,3mo
+Ledger,https://web3.career/marketplace-gm-ledger/19833,"Paris,
+France",Marketplace GM,$55k - $150k,nft,3mo
+Spring Labs,https://web3.career/sr-product-manager-defi-springlabs/19832,"Los Angeles,
+United States",Sr. Product Manager (DeFi),$80k - $150k,product manager:non tech:senior:defi,3mo
+Coinsquare,https://web3.career/fraud-investigator-coinsquare/19831,"Toronto,
+Canada",Fraud Investigator,$150k - $185k,security:ethereum,3mo
+Foundry,https://web3.career/manager-of-data-engineering-foundrydigital/19830,"New York,
+United States",Manager of Data Engineering,$130k - $160k,data science:scala,3mo
+Foundry,https://web3.career/end-user-computing-lead-foundrydigital/19829,"New York,
+United States",End User Computing - Lead,$60k - $200k,lead,3mo
+Chainalysis,https://web3.career/corporate-security-manager-chainalysis/19828,"New York,
+United States",Corporate Security Manager,$95k - $200k,security,3mo
+Horizon Blockchain Games,https://web3.career/legal-counsel-horizon-blockchain-games/19827,"Toronto,
+Canada",Legal Counsel,,legal:ethereum:nft,3mo
+Daoism Systems,https://web3.career/web3-smart-contracts-engineer-daoism-systems/19826,"Berlin,
+Germany",Web3 / Smart Contracts Engineer,$65k - $120k,dev:full time:smart contract:remote:solidity,3mo
+Anchorage Digital,https://web3.career/member-of-design-team-sr-ux-researcher-us-anchorage/19824,Remote,"Member of Design Team, Sr. UX Researcher - US",$60k - $120k,design:non tech:senior:remote,3mo
+Binance,https://web3.career/growth-and-community-manager-nft-binance/19823,Remote,Growth and Community Manager (NFT),$45k - $150k,community manager:non tech:marketing:nft:remote,3mo
+OpenSea,https://web3.career/staff-software-engineer-backend-opensea/19822,Remote,"Staff Software Engineer, Backend",$60k - $180k,backend:dev:remote,3mo
+Akash Network,https://web3.career/community-events-manager-akashnetwork/19821,Remote,Community Events Manager,,events manager:non tech:community manager:remote,3mo

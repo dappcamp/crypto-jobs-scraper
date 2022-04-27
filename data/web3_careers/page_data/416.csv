@@ -1,36 +1,46 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Coinbase,https://web3.career/engineering-manager-product-coinbase/2230,"Engineering Manager, Product",$79k - $200k,executive:remote,5mo
-Coinbase,https://web3.career/engineering-manager-coinbase/2229,Engineering Manager,$79k - $200k,executive:remote,5mo
-Coinbase,https://web3.career/senior-software-engineer-backend-coinbase/2228,"Senior Software Engineer, Backend",$70k - $200k,backend:dev:senior:ethereum:ruby,5mo
-Coinbase,https://web3.career/senior-software-engineer-frontend-coinbase/2227,"Senior Software Engineer, Frontend",$70k - $190k,dev:front end:senior:react:react native,5mo
-Coinbase,https://web3.career/software-engineer-backend-coinbase/2226,"Software Engineer, Backend",$65k - $125k,backend:dev:ethereum:ruby:java,5mo
-Coinbase,https://web3.career/senior-software-engineer-developer-productivity-coinbase/2225,"Senior Software Engineer, Developer Productivity",$32k - $113k,dev:senior:ruby:golang:remote,6mo
-Coinbase,https://web3.career/staff-software-engineer-developer-productivity-coinbase/2224,"Staff Software Engineer, Developer Productivity",$33k - $87k,dev:ruby:golang:remote,6mo
-Coinbase,https://web3.career/staff-software-engineer-developer-productivity-coinbase/2223,"Staff Software Engineer, Developer Productivity",$33k - $87k,dev:ruby:golang:remote,6mo
-Coinbase,https://web3.career/senior-user-researcher-coinbase/2222,Senior User Researcher,$80k - $200k,senior:remote,6mo
-Coinbase,https://web3.career/senior-user-researcher-coinbase/2221,Senior User Researcher,$80k - $200k,senior:remote,6mo
-Coinbase,https://web3.career/senior-user-researcher-coinbase/2220,Senior User Researcher,$80k - $200k,senior:remote,6mo
-Coinbase,https://web3.career/senior-software-engineer-for-blockchain-data-team-coinbase/2219,Senior Software Engineer for Blockchain Data Team,$80k - $200k,dev:senior:blockchain:scala:java,6mo
-Coinbase,https://web3.career/engineering-manager-coinbase/2218,Engineering Manager,$115k - $150k,executive:react:react native:javascript:ruby,6mo
-Coinbase,https://web3.career/engineering-manager-crypto-asset-addition-coinbase/2217,"Engineering Manager, Crypto Asset Addition",$79k - $158k,executive:crypto:remote,6mo
-Coinbase,https://web3.career/group-product-manager-coinbase/2216,Group Product Manager,$115k - $175k,product manager:non tech:remote,6mo
-Coinbase,https://web3.career/group-product-manager-coinbase/2215,Group Product Manager,$115k - $175k,product manager:non tech:remote,6mo
-Coinbase,https://web3.career/senior-staff-engineer-coinbase/2214,Senior Staff Engineer,$85k - $200k,dev:senior:remote,6mo
-Coinbase,https://web3.career/senior-software-engineer-developer-productivity-coinbase/2213,"Senior Software Engineer, Developer Productivity",$32k - $113k,dev:senior:ruby:golang:remote,6mo
-Coinbase,https://web3.career/staff-software-architect-enterprise-applications-marketing-systems-coinbase/2212,"Staff Software Architect, Enterprise Applications, Marketing Systems",,architecture:marketing:non tech:dev:remote,6mo
-Coinbase,https://web3.career/systems-engineer-atlassian-applications-coinbase/2211,"Systems Engineer, Atlassian Applications",$150k - $200k,dev:sys admin:remote,6mo
-Coinbase,https://web3.career/senior-engineering-manager-exchange-operations-coinbase/2210,"Senior Engineering Manager, Exchange Operations",,executive:operations:senior:remote,6mo
-Coinbase,https://web3.career/head-of-marketing-data-science-coinbase/2209,Head of Marketing Data Science,,executive:data science:marketing:non tech:remote,6mo
-Coinbase,https://web3.career/customer-support-analyst-payment-operations-coinbase/2208,"Customer Support Analyst, Payment Operations",,analyst:customer support:operations,6mo
-Coinbase,https://web3.career/manager-institutional-technology-project-management-coinbase/2207,"Manager, Institutional Technology Project Management",$56k - $160k,remote,6mo
-Coinbase,https://web3.career/engineering-manager-machine-learning-risk-coinbase/2206,"Engineering Manager, Machine Learning Risk",,executive:machine learning:remote,6mo
-Coinbase,https://web3.career/wfm-tool-admin-coinbase/2205,WFM Tool Admin,,,6mo
-Coinbase,https://web3.career/senior-technical-program-manager-enterprise-applications-coinbase/2204,"Senior Technical Program Manager, Enterprise Applications",$95k - $250k,executive:senior:remote,6mo
-Coinbase,https://web3.career/senior-software-engineer-enterprise-integrations-coinbase/2203,"Senior Software Engineer, Enterprise Integrations",$50k - $200k,dev:senior:java:golang:remote,6mo
-Coinbase,https://web3.career/engineering-manager-cx-enterprise-apps-coinbase/2202,"Engineering Manager, CX, Enterprise Apps",,executive:ruby:scala:java:golang,6mo
-Coinbase,https://web3.career/benefits-manager-americas-coinbase/2201,Benefits Manager - Americas,$56k - $160k,remote,6mo
-Coinbase,https://web3.career/hr-m-a-deal-lead-coinbase/2200,HR M&A Deal Lead,,hr:non tech:lead:remote,6mo
-Coinbase,https://web3.career/hr-m-a-compensation-manager-coinbase/2199,HR M&A Compensation Manager,$60k - $120k,hr:non tech:remote,6mo
-Coinbase,https://web3.career/international-benefits-senior-manager-coinbase/2198,International Benefits Senior Manager,$80k - $200k,senior:remote,6mo
-Coinbase,https://web3.career/managing-editor-internal-documentation-coinbase/2197,"Managing Editor, Internal Documentation",$56k - $160k,remote,6mo
-Coinbase,https://web3.career/senior-manager-university-recruiting-coinbase/2196,"Senior Manager, University Recruiting",$40k - $70k,recruiter:non tech:senior:remote,6mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Rarible,https://web3.career/senior-marketing-insights-data-analyst-rarible/9175,Remote,Senior Marketing Insights & Data Analyst,,analyst:data science:marketing:non tech:senior,6mo
+Rarible,https://web3.career/partner-marketing-manager-rarible/9174,Remote,Partner Marketing Manager,$55k - $140k,marketing:non tech:nft:remote,6mo
+Rarible,https://web3.career/marketing-program-manager-rarible/9173,Remote,Marketing Program Manager,$70k - $158k,marketing:non tech:executive:nft:remote,6mo
+Rarible,https://web3.career/integrated-marketing-manager-rarible/9172,Remote,Integrated Marketing Manager,$55k - $140k,marketing:non tech:nft:remote,6mo
+Rarible,https://web3.career/event-marketing-manager-rarible/9171,Remote,Event Marketing Manager,,events manager:non tech:marketing:nft:remote,6mo
+Rarible,https://web3.career/developer-marketing-manager-rarible/9170,Remote,Developer Marketing Manager,$85k - $120k,dev:marketing:non tech:nft:remote,6mo
+Rarible,https://web3.career/senior-machine-learning-engineer-rarible/9169,"Moscow,
+Russia",Senior Machine Learning Engineer,,dev:machine learning:senior:nft,6mo
+Rarible,https://web3.career/devops-rarible/9168,"Moscow,
+Russia",DevOps,$95k - $180k,devops:nft,6mo
+Rarible,https://web3.career/technical-lead-backend-java-kotlin-rarible/9167,Remote,Technical Lead Backend (Java/Kotlin),$140k - $180k,backend:java:lead:tech lead:nft,6mo
+Rarible,https://web3.career/senior-qa-engineer-marketplace-rarible/9166,Remote,Senior QA Engineer (Marketplace),$30k - $50k,dev:quality assurance:senior:nft:remote,6mo
+Rarible,https://web3.career/senior-mobile-engineer-android-rarible/9165,Remote,Senior Mobile Engineer (Android),,android:mobile:dev:senior:nft,6mo
+Rarible,https://web3.career/senior-frontend-engineer-react-rarible/9164,Remote,Senior Frontend Engineer (React),$50k - $140k,dev:front end:javascript:react:senior,6mo
+Rarible,https://web3.career/senior-backend-engineer-java-kotlin-rarible/9163,Remote,Senior Backend Engineer (Java/Kotlin),$60k - $160k,backend:dev:java:senior:nft,6mo
+Rarible,https://web3.career/qa-engineer-rarible/9162,Remote,QA Engineer,$65k - $110k,dev:quality assurance:nft:remote,6mo
+Rarible,https://web3.career/qa-automation-engineer-senior-rarible/9161,Remote,QA Automation Engineer (Senior),$30k - $50k,dev:quality assurance:senior:nft:remote,6mo
+Rarible,https://web3.career/brand-creative-designer-rarible/9160,Remote,Brand Creative Designer,,marketing:non tech:design:nft:remote,6mo
+Rarible,https://web3.career/protocol-partnerships-integrations-lead-rarible/9159,Remote,Protocol Partnerships & Integrations Lead,,sales:non tech:lead:nft:remote,6mo
+Rarible,https://web3.career/marketing-lead-rarible/9158,Remote,Marketing Lead,$50k - $120k,lead:marketing:non tech:nft:remote,6mo
+Rarible,https://web3.career/grants-program-lead-rarible/9157,Remote,Grants Program Lead,$56k - $200k,lead:nft:remote,6mo
+Rarible,https://web3.career/social-media-manager-rarible/9156,Remote,Social Media Manager,$35k - $75k,social media:non tech:nft:remote,6mo
+Rarible,https://web3.career/editorial-copywriter-rarible/9155,Remote,Editorial Copywriter,,copywriting:nft:remote,6mo
+RabbitHole,https://web3.career/senior-full-stack-engineer-rabbitholestudios/9154,Remote,Senior Full-stack Engineer,$70k - $180k,dev:full stack:senior:remote,6mo
+RabbitHole,https://web3.career/senior-frontend-engineer-rabbitholestudios/9153,Remote,Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:remote,6mo
+RabbitHole,https://web3.career/protocol-specialist-rabbitholestudios/9152,Remote,Protocol Specialist,$56k - $160k,remote,6mo
+Qubit9 GmbH,https://web3.career/cryptoasset-research-analyst-m-f-d-qubit9/9151,"Hamburg,
+Germany",Cryptoasset Research Analyst (m/f/d),$40k - $120k,analyst,6mo
+Qubit9 GmbH,https://web3.career/working-student-recruiting-active-sourcing-m-f-d-qubit9/9150,"Hamburg,
+Germany",Working Student - Recruiting / Active Sourcing (m/f/d),$40k - $70k,recruiter:non tech,6mo
+Qubit9 GmbH,https://web3.career/tech-recruiter-m-f-d-qubit9/9149,"Hamburg,
+Germany",Tech Recruiter (m/f/d),$40k - $70k,recruiter:non tech,6mo
+Qubit9 GmbH,https://web3.career/junior-recruiter-active-sourcing-m-f-d-qubit9/9148,"Hamburg,
+Germany",Junior-Recruiter - Active Sourcing (m/f/d),,junior:entry level:recruiter:non tech,6mo
+Qubit9 GmbH,https://web3.career/senior-backend-engineer-m-f-d-qubit9/9147,"Hamburg,
+Germany",Senior Backend Engineer (m/f/d),$70k - $200k,backend:dev:senior,6mo
+Qubit9 GmbH,https://web3.career/lead-developer-blockchain-m-f-d-qubit9/9146,"Hamburg,
+Germany",Lead Developer - Blockchain (m/f/d),$30k - $160k,dev:lead:blockchain,6mo
+Qubit9 GmbH,https://web3.career/full-stack-developer-m-f-d-qubit9/9145,"Hamburg,
+Germany",Full Stack Developer (m/f/d),$65k - $180k,dev:full stack,6mo
+Qubit9 GmbH,https://web3.career/devops-engineer-m-f-d-qubit9/9144,"Hamburg,
+Germany",DevOps Engineer (m/f/d),$70k - $180k,devops:dev,6mo
+Polygon,https://web3.career/program-manager-polygon/9143,India,Program Manager,$79k - $158k,executive:ethereum,6mo
+OpenSea,https://web3.career/total-rewards-specialist-opensea/9142,Remote,Total Rewards Specialist,$56k - $160k,remote,6mo
+OpenSea,https://web3.career/hr-onboarding-specialist-opensea/9141,Remote,HR Onboarding Specialist,$60k - $120k,hr:non tech:remote,6mo

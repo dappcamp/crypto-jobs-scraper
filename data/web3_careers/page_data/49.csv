@@ -1,36 +1,53 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Chain,https://web3.career/people-operations-manager-chain/24649,People Operations Manager,$80k - $110k,operations:remote,21d
-Stellar Development Foundation,https://web3.career/senior-protocol-engineer-stellar/24648,Senior Protocol Engineer,$120k - $210k,dev:senior:rust,21d
-Kosen Labs,https://web3.career/head-of-blockchain-engineering-kosenlabs/24646,Head of Blockchain Engineering,$0k,executive:blockchain:solidity,21d
-Kosen Labs,https://web3.career/blockchain-engineer-globally-remote-kosenlabs/24645,Blockchain Engineer (Globally remote),$0k,remote:dev:blockchain:web3js:solidity,21d
-Braintrust,https://web3.career/full-stack-developer-remote-braintrust/24643,Full Stack Developer [Remote],$70k - $200k,remote:dev:full stack:react:ethereum,21d
-Chainalysis,https://web3.career/director-global-channel-sales-chainalysis/24642,"Director, Global Channel Sales",$40k - $150k,executive:sales:non tech,21d
-BlockFi,https://web3.career/senior-software-engineer-ios-credit-card-blockfi/24641,"Senior Software Engineer (iOS), Credit Card",$51k - $109k,dev:ios:mobile:senior,21d
-BlockFi,https://web3.career/senior-software-engineer-ios-credit-card-blockfi/24640,"Senior Software Engineer (iOS), Credit Card",$51k - $109k,dev:ios:mobile:senior,21d
-Aldrin,https://web3.career/rust-developer-web3-remote-aldrin/24638,Rust Developer Web3 (Remote),$70k - $180k,remote:dev:rust:solana:golang,21d
-BlockFi,https://web3.career/staff-software-engineer-golang-blockfi/24637,"Staff Software Engineer, Golang",$40k - $160k,dev:golang:rust,21d
-BlockFi,https://web3.career/senior-staff-software-engineer-golang-blockfi/24636,"Senior Staff Software Engineer, Golang",$65k - $150k,dev:golang:senior:rust,21d
-BlockFi,https://web3.career/senior-staff-software-engineer-golang-blockfi/24635,"Senior Staff Software Engineer, Golang",$65k - $150k,dev:golang:senior:rust,21d
-Consensys,https://web3.career/executive-assistant-consensys/24634,Executive Assistant,$79k - $158k,executive:ethereum,21d
-Wirex Limited,https://web3.career/automation-engineer-wirexlimited/24633,Automation Engineer,$60k - $180k,dev,21d
-Okcoin,https://web3.career/sr-product-marketing-manager-okcoin/24632,Sr. Product Marketing Manager,$46k - $109k,marketing:non tech:senior,21d
-BitGo,https://web3.career/associate-counsel-bitgo/24631,Associate Counsel,$24k - $140k,legal,21d
-Samsung Research America Internship,https://web3.career/metaverse-ux-research-design-intern-2022-samsungresearchamericainternship/24630,Metaverse UX Research & Design Intern 2022,$18k - $28k,design:non tech:intern:entry level:metaverse,21d
-Kraken Digital Asset Exchange,https://web3.career/senior-devops-engineer-staked-kraken/24623,Senior DevOps Engineer - Staked,$120k - $200k,devops:dev:senior:remote:node,21d
-BitSight,https://web3.career/senior-front-end-engineer-bitsight/24622,Senior Front End Engineer,$70k - $190k,dev:front end:senior:react:solidity,21d
-Binance,https://web3.career/junior-marketing-analyst-latam-binance/24621,Junior Marketing Analyst - Latam,$10k - $13k,analyst:junior:entry level:marketing:non tech,21d
-Braintrust,https://web3.career/senior-web3-blockchain-developer-braintrust/24620,Senior Web3 / Blockchain Developer,$80k - $200k,dev:senior:blockchain:solidity:ethereum,21d
-Parity Technologies,https://web3.career/community-manager-north-america-parity/24618,Community Manager North America,$40k - $100k,community manager:non tech,21d
-Blockchain.com,https://web3.career/senior-counsel-institutional-markets-blockchain/24616,Senior Counsel (Institutional Markets),,legal:senior,21d
-Blockchain.com,https://web3.career/front-end-engineer-blockchain/24615,Front End Engineer,$50k - $144k,dev:front end:react:javascript:node,21d
-LATOKEN,https://web3.career/head-of-operations-latoken/24614,Head of Operations,$150k - $230k,executive:operations,21d
-Chainalysis,https://web3.career/solutions-architect-presales-chainalysis/24610,Solutions Architect - Presales,$67k - $180k,architecture,21d
-Neeva,https://web3.career/social-media-marketing-and-community-manager-web3-neeva/24608,"Social Media Marketing and Community Manager, web3",$45k - $150k,community manager:non tech:marketing:social media:nft,21d
-KoinBasket,https://web3.career/content-writer-crypto-koinbasket/24607,Content Writer (Crypto),$78k - $13k,copywriting:crypto,21d
-Stardust Cards Corporation,https://web3.career/partnerships-lead-stardust/24606,Partnerships Lead,,sales:non tech:lead:remote:nft,21d
-IOVLABS,https://web3.career/technical-lead-blockchain-iovlabs/24605,Technical Lead Blockchain,$96k - $118k,remote:lead:tech lead:blockchain,21d
-Exodus.io,https://web3.career/engineering-manager-application-security-exodus-io/24604,Engineering Manager (Application Security),$95k - $250k,executive:remote:security,21d
-IOVLABS,https://web3.career/blockchain-developer-iovlabs/24603,Blockchain Developer,$70k - $190k,remote:dev:blockchain,21d
-Braintrust,https://web3.career/senior-blockchain-engineer-rust-remote-braintrust/24600,Senior Blockchain Engineer (Rust) [Remote],$70k - $180k,remote:dev:rust:senior:blockchain,21d
-"Reach Platform, Inc.",https://web3.career/principal-product-manager-gaming-reachplatforminc/24589,Principal Product Manager - Gaming,$135k - $160k,game dev:executive:product manager:non tech:nft,21d
-CENNZnet,https://web3.career/backend-developer-cennznet/24548,Backend Developer,$90k - $170k,backend:dev:remote:blockchain:dapp,21d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Chain,https://web3.career/finance-manager-chain/25222,Remote,Finance Manager,$40k - $100k,finance:remote,23d
+Chain,https://web3.career/public-relations-director-chain/25221,Remote,Public Relations Director,$70k - $158k,marketing:non tech:executive:remote,23d
+Binance,https://web3.career/senior-community-manager-bnb-chain-europe-binance/25220,Europe,Senior/ Community Manager - BNB Chain (Europe),,community manager:non tech:senior,23d
+Terraform Labs,https://web3.career/core-engineer-terra/25219,,Core Engineer,$60k - $158k,dev:ethereum,23d
+Chain,https://web3.career/partnerships-director-chain/25218,Remote,Partnerships Director,$40k - $150k,sales:non tech:executive:remote,23d
+Virtually Human Studio,https://web3.career/unreal-engine-developer-remote-vhslab/25217,"Sydney,
+Australia",Unreal Engine Developer (Remote),$70k - $150k,remote:dev:game dev:nft,23d
+Motive Create,https://web3.career/digital-assets-consultant-jigsawxyz/25216,"London,
+United Kingdom",Digital Assets Consultant,,consulting:finance,23d
+Infinite Objects,https://web3.career/fullstack-engineer-intern-infinite-objects/25215,"New York,
+United States",Fullstack Engineer Intern,$60k,dev:full stack:intern:entry level:react,23d
+Chain,https://web3.career/defi-operations-specialist-chain/25213,Remote,Defi Operations Specialist,,operations:defi:remote,23d
+Bitfury,https://web3.career/ux-ui-designer-crystal-blockchain-bitfury/25212,"Amsterdam,
+Netherlands",UX/UI Designer (Crystal Blockchain),$100k - $200k,design:non tech:blockchain:javascript,23d
+Bitfury,https://web3.career/senior-lead-python-developer-crystal-blockchain-bitfury/25210,"Amsterdam,
+Netherlands",Senior/Lead Python Developer - Crystal Blockchain,$140k - $180k,dev:lead:python:senior:blockchain,23d
+Chainlink Labs,https://web3.career/executive-assistant-us-east-coast-chainlink/25209,Remote,Executive Assistant (US East Coast),$79k - $200k,executive:remote,23d
+NEAR,https://web3.career/senior-product-manager-applications-near/25208,"San Francisco,
+United States","Senior Product Manager, Applications",$80k - $150k,product manager:non tech:senior:ethereum,23d
+R3,https://web3.career/senior-product-manager-r3-com/25207,Remote,Senior Product Manager,$80k - $150k,product manager:non tech:senior:remote,23d
+Chain,https://web3.career/sequence-marketing-lead-chain/25206,Remote,Sequence Marketing Lead,$50k - $120k,lead:marketing:non tech:remote,23d
+Chain,https://web3.career/brand-director-chain/25205,Remote,Brand Director,$70k - $158k,marketing:non tech:executive:remote,23d
+Immutable,https://web3.career/senior-business-development-manager-gaming-immutable/25204,Japan,Senior Business Development Manager - Gaming,$135k - $150k,sales:non tech:game dev:senior:ethereum,23d
+Terraform Labs,https://web3.career/front-end-engineer-moonshots-terra/25203,Remote,Front End Engineer (Moonshots),$22k - $120k,dev:front end:remote:ethereum,23d
+Chronicled.com,https://web3.career/senior-marketing-manager-chronicled-2/25202,Remote,Senior Marketing Manager,$46k - $109k,marketing:non tech:senior:remote,23d
+Foundation,https://web3.career/senior-content-designer-with-foundation/25201,Remote,Senior Content Designer,$60k - $120k,design:non tech:senior:remote:nft,23d
+GSR,https://web3.career/senior-qa-test-engineer-cryptocurrency-trading-london-gsr/25199,"London,
+United Kingdom",Senior QA Test Engineer - Cryptocurrency Trading - London,$30k - $50k,dev:quality assurance:senior:crypto,23d
+NEAR,https://web3.career/senior-product-manager-astrodao-near/25198,"San Francisco,
+United States","Senior Product Manager, AstroDAO",$80k - $150k,product manager:non tech:senior:ethereum,23d
+Polygon,https://web3.career/senior-front-end-engineer-polygon/25197,India,Senior Front End Engineer,$70k - $190k,dev:front end:senior:ethereum:javascript,23d
+Terraform Labs,https://web3.career/visual-designer-terra/25196,Remote,Visual Designer,$50k - $135k,design:non tech:remote:ethereum,23d
+OnJuno,https://web3.career/general-counsel-crypto-onjuno/25195,"San Francisco,
+United States",General Counsel (Crypto),$24k - $140k,legal:crypto,23d
+Hedge Labs,https://web3.career/product-designer-hedge-labs/25194,"Miami,
+United States",Product Designer,$100k - $150k,design:non tech:solana,23d
+Hedge Labs,https://web3.career/social-media-manager-hedge-labs/25193,"Miami,
+United States",Social Media Manager,,social media:non tech:solana,23d
+Uniswap Labs,https://web3.career/community-lead-uniswaplabs/25191,"New York,
+United States",Community Lead,$40k - $65k,community manager:non tech:lead:ethereum,23d
+Harmony,https://web3.career/senior-system-engineer-harmony/25190,Remote,Senior System Engineer,$150k - $200k,dev:senior:sys admin:remote:ethereum,23d
+Vauld,https://web3.career/principal-engineering-recruiter-remote-india-vauld/25189,"Bengaluru,
+India",Principal Engineering Recruiter - Remote (India),,remote:executive:recruiter:non tech,23d
+Parity Technologies,https://web3.career/community-manager-apac-parity/25188,"Singapore,
+Singapore",Community Manager APAC,$40k - $100k,community manager:non tech,23d
+Cake Pte Ltd,https://web3.career/corporate-commercial-lawyer-2-4-years-pqe-cakedefi/25187,"Singapore,
+Singapore",Corporate/ Commercial Lawyer (2-4 years PQE),$24k - $140k,legal,23d
+Uniswap Labs,https://web3.career/technical-sourcer-uniswaplabs/25186,"New York,
+United States",Technical Sourcer,$40k - $70k,recruiter:non tech,23d
+SwissBorg,https://web3.career/regulatory-compliance-specialist-remote-swissborg/25185,Luxembourg,Regulatory Compliance Specialist (Remote),,compliance:legal:remote,23d
+SwissBorg,https://web3.career/regulatory-compliance-specialist-remote-swissborg/25184,"Amsterdam,
+Netherlands",Regulatory Compliance Specialist (Remote),,compliance:legal:remote,23d

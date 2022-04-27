@@ -1,36 +1,49 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Okcoin,https://web3.career/customer-service-manager-okcoin/14687,Customer Service Manager,$40k - $80k,customer support,4mo
-Okcoin,https://web3.career/manager-risk-operations-okcoin/14686,"Manager, Risk Operations",$60k - $200k,operations,4mo
-Okcoin,https://web3.career/identity-and-onboarding-iao-manager-okcoin/14685,Identity and Onboarding (IAO) Manager,,,4mo
-Blockchain.com,https://web3.career/ux-product-designer-sr-blockchain/14684,UX Product Designer -SR,$50k - $150k,design:non tech,4mo
-Nuri,https://web3.career/working-student-it-admin-nuri/14682,Working Student IT Admin,$56k - $160k,remote,4mo
-SwissBorg,https://web3.career/director-of-compliance-swissborg/14681,Director of Compliance,,compliance:executive,4mo
-GSR,https://web3.career/2022-graduate-program-trading-and-research-analyst-singapore-gsr/14680,"2022 Graduate Program - Trading and Research Analyst, Singapore",$20k - $30k,analyst:intern:entry level:react,4mo
-GSR,https://web3.career/2022-graduate-program-trading-and-research-new-york-gsr/14679,2022 Graduate Program - Trading and Research - New York,$18k - $28k,intern:entry level:react,4mo
-Amun 21Shares,https://web3.career/research-analyst-amun/14678,Research Analyst,$40k - $120k,analyst,4mo
-Sygnum Bank AG,https://web3.career/tech-lead-software-engineering-sygnum/14677,Tech Lead - Software Engineering,$140k - $220k,lead:dev:tech lead:react,4mo
-GSR,https://web3.career/2022-graduate-program-trading-and-research-analyst-zug-gsr/14676,2022 Graduate Program - Trading and Research Analyst - Zug,$20k - $30k,analyst:intern:entry level:react,4mo
-Sygnum Bank AG,https://web3.career/tech-lead-blockchain-protocol-staking-sygnum/14675,Tech Lead - Blockchain Protocol & Staking,$78k - $118k,lead:tech lead:blockchain:react:javascript,4mo
-GSR,https://web3.career/gsr-2022-graduate-program-trading-and-research-analyst-new-york-gsr/14674,"GSR 2022 Graduate Program - Trading and Research Analyst, New York",$20k - $30k,analyst:intern:entry level:react,4mo
-Tangany,https://web3.career/product-manager-m-f-d-munich-remote-3466601-product-manager-m-f-d-munich-remote/14673,Product Manager m/f/d Munich/Remote,$115k - $175k,remote:product manager:non tech,4mo
-GSR,https://web3.career/gsr-2022-graduate-program-trading-and-research-analyst-london-gsr/14672,"GSR 2022 Graduate Program - Trading and Research Analyst, London",$20k - $30k,analyst:intern:entry level:react,4mo
-Wirex Limited,https://web3.career/senior-solidity-engineer-wirexlimited/14671,Senior Solidity Engineer,$80k - $200k,dev:senior:solidity:ethereum,4mo
-Wirex Limited,https://web3.career/senior-rust-developer-wirexlimited/14670,Senior Rust Developer,$120k - $210k,dev:rust:senior:solana:javascript,4mo
-Gnosis,https://web3.career/office-manager-m-w-d-gnosis/14668,Office Manager (m/w/d),$60k - $145k,ethereum:remote,4mo
-Energi Core Limited,https://web3.career/business-development-specialist-energicorelimited/14667,Business Development Specialist,$29k - $43k,sales:non tech:ethereum,4mo
-Energi Core Limited,https://web3.career/business-development-generalist-energicorelimited/14666,Business Development Generalist,$29k - $43k,sales:non tech:ethereum:nft,4mo
-Kronos Research,https://web3.career/software-engineer-c-kronosresearch/14664,"Software Engineer, C++",$100k - $150k,c:c plus plus:dev,4mo
-Consensys,https://web3.career/technical-support-engineer-metamask-consensys/14663,Technical Support Engineer (MetaMask),,dev:customer support:ethereum:remote,4mo
-Consensys,https://web3.career/senior-mobile-engineer-web3-consensys/14662,Senior Mobile Engineer - Web3,$120k - $200k,dev:mobile:senior:react:react native,4mo
-Consensys,https://web3.career/product-marketing-manager-consensys/14661,Product Marketing Manager,$48k - $120k,marketing:non tech:ethereum:node:java,4mo
-Consensys,https://web3.career/help-desk-agent-consensys/14660,Help Desk Agent,,customer support:ethereum,4mo
-Consensys,https://web3.career/developer-community-manager-consensys/14659,Developer community manager,,community manager:non tech:dev:ethereum:remote,4mo
-Consensys,https://web3.career/data-analyst-consensys/14658,Data Analyst,,analyst:data science:ethereum:remote,4mo
-Consensys,https://web3.career/customer-success-manager-americas-consensys/14657,Customer Success Manager (Americas),,sales:non tech:customer support:ethereum:remote,4mo
-Consensys,https://web3.career/community-support-manager-consensys/14656,Community Support Manager,,community manager:non tech:customer support:ethereum:remote,4mo
-Consensys,https://web3.career/community-moderator-consensys/14655,Community Moderator,$15k - $30k,community manager:non tech:ethereum,4mo
-Consensys,https://web3.career/applied-researcher-cryptography-consensys/14654,Applied Researcher - Cryptography,,data science:ethereum:rust:remote,4mo
-Crypto.com,https://web3.career/senior-influencer-marketing-manager-north-america-crypto-com/14653,"Senior Influencer Marketing Manager, North America",$46k - $109k,marketing:non tech:senior:nft,4mo
-Immutable,https://web3.career/expression-of-interest-product-manager-immutable/14651,Expression of Interest - Product Manager,$80k - $150k,product manager:non tech:ethereum:remote,4mo
-Ripple,https://web3.career/staff-software-engineer-data-services-ripple/14650,"Staff Software Engineer, Data Services",$33k - $145k,dev:node:java,4mo
-Ripple,https://web3.career/senior-software-engineering-manager-data-services-ripple/14649,"Senior Software Engineering Manager, Data Services",$60k - $250k,executive:senior:dev,4mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Gemini,https://web3.career/product-manager-nifty-gateway-gemini/15329,United States,"Product Manager, Nifty Gateway",$80k - $150k,product manager:non tech:ethereum:nft,4mo
+Gemini,https://web3.career/product-manager-debit-card-gemini/15328,United States,"Product Manager, Debit Card",$80k - $150k,product manager:non tech:ethereum,4mo
+Gemini,https://web3.career/product-manager-eu-and-uk-gemini/15327,"Dublin,
+Ireland",Product Manager (EU and UK),$80k - $150k,product manager:non tech:ethereum,4mo
+Gemini,https://web3.career/lead-product-manager-signing-gemini/15326,United States,"Lead Product Manager, Signing",,lead:product manager:non tech,4mo
+Gemini,https://web3.career/lead-product-manager-earn-gemini/15325,United States,"Lead Product Manager, Earn",,lead:product manager:non tech,4mo
+Gemini,https://web3.career/director-head-of-apac-listed-derivatives-gemini/15324,"Singapore,
+Singapore","Director, Head of APAC Listed Derivatives",$70k - $180k,executive,4mo
+Gemini,https://web3.career/senior-product-manager-retail-eu-and-uk-gemini/15323,"Dublin,
+Ireland","Senior Product Manager, Retail (EU and UK)",$80k - $150k,product manager:non tech:senior:ethereum,4mo
+Gemini,https://web3.career/senior-associate-nft-lifecycle-marketing-gemini/15322,United States,"Senior Associate, NFT Lifecycle Marketing",$46k - $109k,marketing:non tech:senior:nft,4mo
+Gemini,https://web3.career/lead-product-marketing-nft-s-gemini/15321,United States,"Lead, Product Marketing - NFT's",$50k - $120k,lead:marketing:non tech:nft,4mo
+Gemini,https://web3.career/director-investor-relations-gemini/15320,United States,"Director, Investor Relations",$90k - $200k,executive:finance,4mo
+Gemini,https://web3.career/associate-director-ux-research-manager-gemini/15319,United States,"Associate Director, UX Research Manager",,executive:design:non tech,4mo
+Gemini,https://web3.career/trading-systems-engineer-early-career-gemini/15318,United States,Trading Systems Engineer (Early Career),$150k - $200k,dev:sys admin:java:rust,4mo
+MetaMask,https://web3.career/senior-revenue-analyst-metamask/15317,"New York,
+United States",Senior Revenue Analyst,$150k - $185k,analyst:senior:ethereum,4mo
+MetaMask,https://web3.career/senior-hr-business-partner-metamask-metamask/15316,United States,Senior HR Business Partner (MetaMask),,hr:non tech:senior:ethereum,4mo
+MetaMask,https://web3.career/senior-accountant-metamask/15315,"New York,
+United States",Senior Accountant,,accounting:senior:ethereum,4mo
+MetaMask,https://web3.career/learning-and-development-specialist-metamask/15314,United States,Learning and Development Specialist,,,4mo
+MetaMask,https://web3.career/equity-administrator-metamask/15313,"San Francisco,
+United States",Equity Administrator,$60k - $150k,ethereum,4mo
+MetaMask,https://web3.career/community-advocate-metamask/15312,"New York,
+United States",Community Advocate,$15k - $30k,community manager:non tech:ethereum,4mo
+MetaMask,https://web3.career/academy-operations-lead-metamask/15311,United States,Academy Operations Lead,,lead:operations:ethereum,4mo
+MetaMask,https://web3.career/senior-systems-administrator-metamask/15310,United Kingdom,Senior Systems Administrator,,senior:sys admin:ethereum,4mo
+MetaMask,https://web3.career/security-auditor-white-hat-hacker-metamask/15309,United States,Security Auditor / White Hat Hacker,$150k - $185k,security:solidity:ethereum:javascript:node,4mo
+MetaMask,https://web3.career/sre-infura-metamask/15308,"San Francisco,
+United States",SRE (Infura),$24k - $180k,senior:react:ethereum,4mo
+MetaMask,https://web3.career/protocol-debugging-engineer-truffle-metamask/15307,United States,Protocol & Debugging Engineer (Truffle),$63k - $160k,dev:solidity:ethereum:javascript:node,4mo
+MetaMask,https://web3.career/program-manager-consensys-nft-metamask/15306,"New York,
+United States",Program Manager (ConsenSys NFT),$50k - $158k,executive:nft:ethereum,4mo
+MetaMask,https://web3.career/mid-scrum-dev-project-manager-metamask/15305,United States,Mid Scrum / Dev Project Manager,,dev:project manager:non tech:scrum:ethereum,4mo
+MetaMask,https://web3.career/golang-engineer-infura-metamask/15304,"San Francisco,
+United States",Golang Engineer (Infura),$40k - $134k,dev:golang:ethereum,4mo
+MetaMask,https://web3.career/ecosystem-engagement-program-manager-metamask/15303,United States,Ecosystem Engagement Program Manager,$79k - $158k,executive:ethereum,4mo
+MetaMask,https://web3.career/distributed-systems-formal-verification-applied-researcher-protocol-metamask/15302,Australia,Distributed Systems/Formal Verification Applied Researcher (Protocol),,data science:ethereum:java:rust,4mo
+MetaMask,https://web3.career/design-systems-designer-metamask/15301,"San Francisco,
+United States",Design Systems Designer,$80k - $135k,design:non tech:react:ethereum,4mo
+MetaMask,https://web3.career/defi-and-dao-token-engineer-metamask/15300,United States,DeFi and DAO Token Engineer,$90k - $220k,dev:defi:ethereum,4mo
+MetaMask,https://web3.career/data-analyst-metamask/15299,United States,Data Analyst,,analyst:data science:ethereum,4mo
+MetaMask,https://web3.career/dao-strategist-metamask/15298,United States,DAO Strategist,$70k - $158k,ethereum:nft,4mo
+MetaMask,https://web3.career/dao-governance-strategist-metamask/15297,United States,DAO Governance Strategist,$70k - $158k,ethereum:nft,4mo
+MetaMask,https://web3.career/community-builder-consensys-nft-metamask/15296,"New York,
+United States",Community Builder (ConsenSys NFT),$35k - $101k,community manager:non tech:nft:ethereum,4mo
+MetaMask,https://web3.career/bootcamp-security-auditors-metamask/15295,"San Francisco,
+United States",Bootcamp Security Auditors,$150k - $185k,security:solidity:ethereum:javascript:node,4mo

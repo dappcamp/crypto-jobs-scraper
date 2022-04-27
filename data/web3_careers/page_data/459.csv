@@ -1,36 +1,40 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-"Arquimea Group, S.L",https://web3.career/lead-scientist-biotechnology-arquimea/991,Lead Scientist Biotechnology,$60k - $200k,lead,6mo
-Bitkub,https://web3.career/product-intern-bitkub/990,Product Intern,,intern:entry level,6mo
-Chilipay Limited,https://web3.career/product-owner-spain-malta-remote-chiliz/989,Product Owner (Spain / Malta / Remote),$115k - $175k,product manager:non tech:remote,6mo
-Lukka,https://web3.career/software-architect-lukka/988,Software Architect,$50k - $300k,architecture:dev:remote,6mo
-Syntropy,https://web3.career/blockchain-engineer-rust-substrate-syntropynet/987,Blockchain Engineer (Rust / Substrate),$79k - $190k,dev:rust:blockchain:remote,6mo
-Lukka,https://web3.career/backend-engineer-lukka/986,Backend Engineer,$60k - $160k,backend:dev:java:remote,6mo
-Bundle,https://web3.career/blockchain-engineer-bundleafrica/985,Blockchain Engineer,$52k - $160k,dev:blockchain:solidity:javascript:java,6mo
-BC Technology (Hong Kong) Limited,https://web3.career/manager-settlement-uk-mexico-bcgroup/984,"Manager, Settlement (UK/ Mexico)",,,6mo
-Centurion Group,https://web3.career/business-controller-centuriongroup/983,Business Controller,$24k - $140k,legal,6mo
-Lukka,https://web3.career/corporate-infrastructure-manager-lukka/982,Corporate Infrastructure Manager,$60k - $150k,javascript:remote,6mo
-IntellectEU,https://web3.career/test-automation-engineer-intellecteu/981,Test Automation Engineer,$33k - $140k,dev:java,6mo
-28stone,https://web3.career/mid-senior-level-python-application-developers-28stone/980,Mid-Senior level Python Application Developers,$130k - $200k,python:senior,6mo
-Uphold,https://web3.career/director-human-resources-uphold/979,"Director, Human Resources",$70k - $180k,executive,6mo
-Web 3.0 Technologies Foundation,https://web3.career/community-manager-web3/978,Community Manager,$40k - $100k,community manager:non tech,6mo
-Bitkub,https://web3.career/product-analyst-bitkub/977,Product Analyst,$40k - $120k,analyst,6mo
-Celsius,https://web3.career/data-analytics-developer-celsius/976,Data Analytics Developer,$360k - $500k,stats:dev,6mo
-Lukka,https://web3.career/customer-success-specialist-lukka/975,Customer Success Specialist,$40k - $80k,customer support:remote,6mo
-Ethereum,https://web3.career/c-software-engineer-solidity-ethereum/974,C++ Software Engineer Solidity,$100k - $150k,c:c plus plus:dev:solidity:ethereum,6mo
-Hypersphere Capital Management LP,https://web3.career/cryptocurrency-analyst-hypersphere/973,Cryptocurrency Analyst,$160k - $240k,analyst:crypto:solidity:nft:rust,6mo
-Syntropy,https://web3.career/blockchain-technology-analyst-syntropynet/972,Blockchain / Technology Analyst,$60k - $104k,analyst:blockchain:remote,6mo
-Syntropy,https://web3.career/director-of-alliances-and-partnerships-syntropynet/971,Director of Alliances and Partnerships,$40k - $150k,sales:non tech:executive:remote,6mo
-Web 3.0 Technologies Foundation,https://web3.career/formal-verification-research-engineer-web3/970,Formal Verification Research Engineer,$69k - $160k,dev:javascript:rust,6mo
-Celsius,https://web3.career/senior-credit-officer-celsius/969,Senior Credit Officer,$78k - $200k,senior,6mo
-Bitkub,https://web3.career/tax-specialist-bitkub/968,Tax Specialist,$25k - $150k,accounting,6mo
-Bitkub,https://web3.career/illustrator-graphic-designer-bitkub/967,Illustrator & Graphic Designer,$65k - $80k,design:non tech:illustrator,6mo
-Celsius,https://web3.career/data-engineer-celsius/966,Data Engineer,,data science:dev:java,6mo
-Uphold,https://web3.career/product-manager-core-crypto-defi-eth2-pos-uphold/965,"Product Manager (Core Crypto / DeFi, ETH2, PoS)",$60k - $160k,product manager:non tech:crypto:defi,6mo
-Securitize,https://web3.career/qa-testing-engineer-securitize/964,QA Testing Engineer,$30k - $50k,dev:quality assurance:java,6mo
-Uphold,https://web3.career/crypto-channel-director-uphold/963,Crypto Channel Director,$50k - $158k,executive:crypto,6mo
-Uphold,https://web3.career/senior-devops-engineer-uphold/962,Senior DevOps Engineer,$120k - $200k,devops:dev:senior,6mo
-Uphold,https://web3.career/blockchain-engineer-uphold/961,Blockchain Engineer,$52k - $160k,dev:blockchain:solidity:javascript:node,6mo
-"Arquimea Group, S.L",https://web3.career/bioinformatics-postdoctoral-researcher-arquimea/960,Bioinformatics Postdoctoral Researcher,,,6mo
-Celsius,https://web3.career/senior-blockchain-engineer-celsius/959,Senior Blockchain Engineer,$80k - $200k,dev:senior:blockchain:solidity:golang,6mo
-Celsius,https://web3.career/senior-data-engineer-celsius/958,Senior Data Engineer,$130k - $160k,data science:dev:senior,6mo
-Celsius,https://web3.career/development-lead-celsius/957,Development Lead,$60k - $120k,lead:react:react native,6mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Kraken Digital Asset Exchange,https://web3.career/software-engineer-sdet-python-banking-kraken/7645,Remote,Software Engineer (SDET) - Python - Banking,,finance:dev:python:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/software-engineer-trading-technology-rust-kraken/7644,Remote,Software Engineer - Trading Technology (Rust),$70k - $180k,dev:rust:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/software-engineer-java-cf-benchmarks-systems-team-kraken/7643,"London,
+United Kingdom",Software Engineer - Java - CF Benchmarks Systems Team,$33k - $140k,dev:java,6mo
+Kraken Digital Asset Exchange,https://web3.career/software-engineer-java-cf-benchmarks-index-team-kraken/7642,"London,
+United Kingdom",Software Engineer - Java - CF Benchmarks Index Team,$33k - $140k,dev:java,6mo
+Kraken Digital Asset Exchange,https://web3.career/site-reliability-engineer-rust-core-backend-kraken/7641,Remote,Site Reliability Engineer - Rust - Core Backend,,backend:dev:sys admin:rust:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/site-reliability-engineer-frontend-team-kraken/7640,Remote,Site Reliability Engineer - Frontend Team,,dev:front end:sys admin:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/senior-technical-project-manager-kraken/7639,Remote,Senior Technical Project Manager,,project manager:non tech:senior:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/senior-site-reliability-engineer-cryptowatch-kraken/7638,Remote,Senior Site Reliability Engineer - Cryptowatch,$150k - $200k,dev:sys admin:senior:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/senior-site-reliability-engineer-banking-kraken/7637,Remote,Senior Site Reliability Engineer - Banking,,finance:dev:sys admin:senior:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/senior-rust-engineer-banking-kraken/7636,Remote,Senior Rust Engineer - Banking,,finance:dev:rust:senior:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/senior-frontend-engineer-react-cryptowatch-kraken/7635,Remote,"Senior Frontend Engineer - React, Cryptowatch",$50k - $140k,dev:front end:javascript:react:senior,6mo
+Kraken Digital Asset Exchange,https://web3.career/senior-frontend-engineer-react-native-kraken/7634,Remote,Senior Frontend Engineer - React Native,$115k - $120k,dev:front end:react native:mobile:javascript,6mo
+Kraken Digital Asset Exchange,https://web3.career/senior-frontend-engineer-react-emea-kraken/7633,Remote,Senior Frontend Engineer - React (EMEA),$50k - $140k,dev:front end:javascript:react:senior,6mo
+Kraken Digital Asset Exchange,https://web3.career/senior-frontend-engineer-react-kraken/7632,Remote,Senior Frontend Engineer - React,$50k - $140k,dev:front end:javascript:react:senior,6mo
+Kraken Digital Asset Exchange,https://web3.career/senior-backend-engineer-rust-core-backend-kraken/7631,Remote,Senior Backend Engineer - Rust - Core Backend,$50k - $140k,backend:dev:rust:senior:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/senior-backend-engineer-go-cryptowatch-kraken/7630,Remote,"Senior Backend Engineer - Go, Cryptowatch",$33k - $160k,backend:dev:golang:senior:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/qa-analyst-cryptowatch-kraken/7629,Remote,QA Analyst - Cryptowatch,,analyst:quality assurance:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/operational-resiliency-incident-specialist-us-west-coast-kraken/7628,United States,Operational Resiliency Incident Specialist - US - West Coast,$60k - $200k,operations,6mo
+Kraken Digital Asset Exchange,https://web3.career/junior-full-stack-software-engineer-trading-technology-react-kraken/7627,Remote,Junior Full Stack Software Engineer - Trading Technology (React),$39k - $180k,dev:full stack:junior:entry level:javascript,6mo
+Kraken Digital Asset Exchange,https://web3.career/infrastructure-performance-and-security-kraken/7626,Remote,Infrastructure - Performance and Security,$95k - $250k,security:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/full-stack-software-engineer-kraken/7625,Remote,Full Stack Software Engineer,$70k - $200k,dev:full stack:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/frontend-engineer-internal-tools-kraken/7624,Remote,Frontend Engineer - Internal Tools,$50k - $144k,dev:front end:react:nextjs:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/engineering-manager-front-end-kraken/7623,Remote,Engineering Manager - Front End,,executive:front end:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/engineering-manager-banking-products-kraken/7622,Remote,Engineering Manager - Banking Products,$40k - $225k,executive:finance:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/engineer-inf-telemetry-kraken/7621,Remote,"Engineer, INF - Telemetry",$65k - $180k,dev:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/engineer-inf-orchestration-kraken/7620,Remote,Engineer - INF - Orchestration,$65k - $180k,dev:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/devops-engineer-inf-disaster-recovery-kraken/7619,Remote,"Devops Engineer, INF - Disaster Recovery",$95k - $180k,devops:dev:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/core-infrastructure-engineer-devops-kraken/7618,Remote,Core Infrastructure Engineer - DevOps,$95k - $180k,devops:dev:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/big-data-platform-engineer-kraken/7617,Remote,Big Data Platform Engineer,$140k - $180k,big data:dev:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/backend-engineer-kraken-futures-rust-remote-kraken/7616,"London,
+United Kingdom","Backend Engineer, Kraken Futures - Rust (Remote)",$60k - $180k,remote:backend:dev:rust,6mo
+Kraken Digital Asset Exchange,https://web3.career/backend-engineer-go-cryptowatch-kraken/7615,Remote,"Backend Engineer, Go Cryptowatch",$33k - $160k,backend:dev:golang:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/backend-engineer-rust-core-backend-kraken/7614,Remote,Backend Engineer - Rust - Core Backend,$50k - $140k,backend:dev:rust:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/backend-engineer-fiat-payments-kraken/7613,Remote,Backend Engineer - Fiat Payments,$60k - $180k,backend:dev:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/backend-quant-developer-remote-kraken/7612,Remote,Backend / Quant Developer (Remote),$60k - $180k,remote:backend:dev,6mo
+11:FS,https://web3.career/comms-designer-11fs/7609,"London,
+United Kingdom",Comms Designer,$50k - $150k,design:non tech,6mo

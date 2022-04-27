@@ -1,36 +1,71 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Protocol Labs,https://web3.career/engineering-manager-infra-protocol/9721,"Engineering Manager, Infra",$79k - $200k,executive:remote,5mo
-Protocol Labs,https://web3.career/data-scientist-cryptoeconlab-protocol/9720,"Data Scientist, CryptoEconLab",$50k - $135k,data science:remote,5mo
-Protocol Labs,https://web3.career/technical-support-engineer-lotus-protocol/9719,Technical Support Engineer (Lotus),,dev:customer support:remote,5mo
-Protocol Labs,https://web3.career/developer-advocate-ecosystems-protocol/9718,"Developer Advocate, Ecosystems",$65k - $180k,dev:remote,5mo
-Protocol Labs,https://web3.career/community-engineer-china-filecoin-protocol/9717,"Community Engineer (China), Filecoin",,community manager:non tech:dev:remote,5mo
-Protocol Labs,https://web3.career/technical-content-strategist-protocol/9716,Technical Content Strategist,$56k - $160k,remote,5mo
-Protocol Labs,https://web3.career/head-of-content-protocol/9715,Head of Content,$79k - $200k,executive:remote,5mo
-Protocol Labs,https://web3.career/crypto-ops-lead-product-strategy-ops-protocol/9714,"Crypto Ops Lead [Product, Strategy & Ops]",$25k - $79k,lead:crypto:remote,5mo
-PowerTrade,https://web3.career/product-designer-ios-powertrade/9713,Product Designer (iOS),,design:non tech:ios:mobile:remote,5mo
-PowerTrade,https://web3.career/make-your-own-role-powertrade/9712,Make your own role,$56k - $160k,remote,5mo
-PowerTrade,https://web3.career/senior-cyber-security-manager-ciso-powertrade/9711,Senior Cyber Security Manager / CISO,$95k - $250k,security:senior:remote,5mo
-PowerTrade,https://web3.career/video-producer-powertrade/9710,Video Producer,,video:remote,5mo
-PowerTrade,https://web3.career/marketing-graphic-designer-powertrade/9709,Marketing Graphic Designer,,design:non tech:marketing:remote,5mo
-PowerTrade,https://web3.career/content-writer-producer-manager-powertrade/9708,Content Writer (Producer/Manager),$25k - $30k,copywriting:remote,5mo
-PowerTrade,https://web3.career/content-producer-senior-manager-powertrade/9707,Content Producer / Senior Manager,$80k - $200k,senior:remote,5mo
-PowerTrade,https://web3.career/community-lead-powertrade/9706,Community Lead,$40k - $65k,community manager:non tech:lead:remote,5mo
-PowerTrade,https://web3.career/senior-web-developer-powertrade/9705,Senior Web Developer,$85k - $200k,dev:senior:remote,5mo
-Paradigm,https://web3.career/software-engineer-paradigm-portfolio-paradigm-xyz/9704,Software Engineer - Paradigm Portfolio,,finance:dev:remote,5mo
-Paradigm,https://web3.career/engineering-leadership-paradigm-portfolio-paradigm-xyz/9703,Engineering Leadership - Paradigm Portfolio,$40k - $100k,finance:remote,5mo
-Paradigm,https://web3.career/research-associate-paradigm-xyz/9702,Research Associate,,,5mo
-Paradigm,https://web3.career/software-engineer-front-end-paradigm-xyz/9701,Software Engineer - Front End,$50k - $150k,dev:front end,5mo
-Paradigm,https://web3.career/software-engineer-data-paradigm-xyz/9700,Software Engineer - Data,$60k - $180k,dev,5mo
-Paradigm,https://web3.career/software-engineer-crypto-infrastructure-paradigm-xyz/9699,Software Engineer - Crypto Infrastructure,$60k - $160k,dev:crypto,5mo
-Paradigm,https://web3.career/senior-recruiter-portfolio-paradigm-xyz/9698,Senior Recruiter - Portfolio,,finance:recruiter:non tech:senior,5mo
-Paradigm,https://web3.career/senior-recruiter-internal-paradigm-xyz/9697,Senior Recruiter - Internal,$40k - $70k,recruiter:non tech:senior,5mo
-Paradigm,https://web3.career/office-manager-paradigm-xyz/9696,Office Manager,,,5mo
-Paradigm,https://web3.career/managing-editor-paradigm-xyz/9695,Managing Editor,,,5mo
-Paradigm,https://web3.career/legal-associate-paradigm-xyz/9694,Legal Associate,$24k - $140k,legal,5mo
-Paradigm,https://web3.career/engineering-director-paradigm-xyz/9693,Engineering Director,$70k - $180k,executive,5mo
-Paradigm,https://web3.career/deputy-chief-compliance-officer-paradigm-xyz/9692,Deputy Chief Compliance Officer,,compliance:executive,5mo
-Paradigm,https://web3.career/communications-manager-paradigm-xyz/9691,Communications Manager,$45k - $130k,marketing:non tech,5mo
-Paradigm,https://web3.career/business-operations-associate-paradigm-xyz/9690,Business Operations Associate,$60k - $200k,operations,5mo
-Paradigm,https://web3.career/administrative-assistant-paradigm-xyz/9689,Administrative Assistant,,,5mo
-Paradigm,https://web3.career/investment-associate-paradigm-xyz/9688,Investment Associate,$40k - $150k,finance,5mo
-Offchain Labs,https://web3.career/executive-assistant-offchainlabs/9677,Executive Assistant,$79k - $158k,executive:ethereum:remote,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+CANDY,https://web3.career/senior-product-manager-candy/10222,"New York,
+United States",Senior Product Manager,$80k - $150k,product manager:non tech:senior,6mo
+CANDY,https://web3.career/vp-people-candy/10221,"New York,
+United States","VP, People",$70k - $180k,executive,6mo
+CANDY,https://web3.career/senior-technical-recruiter-candy/10220,"New York,
+United States",Senior Technical Recruiter,$40k - $70k,recruiter:non tech:senior,6mo
+CANDY,https://web3.career/business-operations-associate-candy/10219,"New York,
+United States",Business Operations Associate,$60k - $200k,operations,6mo
+CANDY,https://web3.career/associate-market-intelligence-motorsports-candy/10218,"New York,
+United States","Associate, Market Intelligence (Motorsports)",$55k - $150k,nft,6mo
+CANDY,https://web3.career/social-media-manager-marketing-forums-and-communities-candy/10217,"New York,
+United States","Social Media Manager, Marketing (Forums and Communities)",$28k - $100k,marketing:non tech:social media,6mo
+CANDY,https://web3.career/senior-marketing-manager-social-platforms-candy/10216,"New York,
+United States",Senior Marketing Manager (Social Platforms),$46k - $109k,marketing:non tech:senior,6mo
+CANDY,https://web3.career/content-marketing-associate-candy/10215,"New York,
+United States",Content Marketing Associate,$45k - $130k,marketing:non tech,6mo
+CANDY,https://web3.career/vp-legal-candy/10214,"New York,
+United States","VP, Legal",,legal:executive,6mo
+CANDY,https://web3.career/internship-summer-2022-candy/10213,"New York,
+United States",Internship (Summer 2022),,intern:entry level,6mo
+CANDY,https://web3.career/internship-part-time-candy/10212,"New York,
+United States",Internship (Part-Time),,intern:entry level:part time,6mo
+CANDY,https://web3.career/internship-full-time-candy/10211,"New York,
+United States",Internship (Full-Time),,full time:intern:entry level,6mo
+CANDY,https://web3.career/head-of-finance-candy/10210,"New York,
+United States",Head of Finance,$90k - $200k,executive:finance,6mo
+CANDY,https://web3.career/user-experience-designer-candy/10209,"New York,
+United States",User Experience Designer,$60k - $150k,design:non tech:nft:javascript,6mo
+CANDY,https://web3.career/senior-sound-designer-candy/10208,"New York,
+United States",Senior Sound Designer,$60k - $120k,design:non tech:senior,6mo
+CANDY,https://web3.career/senior-sound-designer-candy/10207,"Los Angeles,
+United States",Senior Sound Designer,$60k - $120k,design:non tech:senior,6mo
+CANDY,https://web3.career/senior-art-director-candy/10206,"New York,
+United States",Senior Art Director,$46k - $110k,executive:senior,6mo
+CANDY,https://web3.career/media-producer-candy/10205,"New York,
+United States",Media Producer,,,6mo
+CANDY,https://web3.career/design-director-candy/10204,"New York,
+United States",Design Director,,design:non tech:executive,6mo
+CANDY,https://web3.career/creative-studio-manager-candy/10203,"New York,
+United States",Creative Studio Manager,,,6mo
+CANDY,https://web3.career/3d-modeler-candy/10202,"New York,
+United States",3D Modeler,$13k - $50k,vfx,6mo
+CANDY,https://web3.career/3d-animator-candy/10201,"New York,
+United States",3D Animator,,vfx:video,6mo
+CANDY,https://web3.career/strategic-account-director-sports-candy/10200,"New York,
+United States",Strategic Account Director (Sports),$70k - $180k,executive,6mo
+Cake Pte Ltd,https://web3.career/technology-controls-specialist-cakedefi/10199,"Singapore,
+Singapore",Technology Controls Specialist,,,6mo
+Cake Pte Ltd,https://web3.career/head-of-digital-performance-and-marketing-cakedefi/10198,"Singapore,
+Singapore",Head of Digital Performance and Marketing,$70k - $158k,executive:marketing:non tech,6mo
+Cake Pte Ltd,https://web3.career/treasury-and-fp-a-manager-cakedefi/10197,"Singapore,
+Singapore",Treasury and FP&A Manager,,,6mo
+Cake Pte Ltd,https://web3.career/business-development-manager-cakedefi/10196,"Singapore,
+Singapore",Business Development Manager,$26k - $140k,sales:non tech,6mo
+Brave,https://web3.career/ph-d-intern-brave/10195,"San Francisco,
+United States",Ph.D. intern,,intern:entry level,6mo
+Brave,https://web3.career/machine-learning-researcher-brave/10194,"San Francisco,
+United States",Machine Learning Researcher,,machine learning:javascript:java,6mo
+Brave,https://web3.career/product-marketing-manager-brave/10193,"San Francisco,
+United States",Product Marketing Manager,$45k - $130k,marketing:non tech,6mo
+Brave,https://web3.career/sr-software-engineer-ruby-on-rails-brave/10192,"San Francisco,
+United States",Sr. Software Engineer - Ruby on Rails,$32k - $113k,dev:ruby:senior:react:ethereum,6mo
+Brave,https://web3.career/sr-software-engineer-full-stack-brave/10191,"San Francisco,
+United States",Sr. Software Engineer - Full Stack,$70k - $180k,dev:full stack:senior:ethereum:javascript,6mo
+Brave,https://web3.career/sr-software-engineer-android-ui-brave/10190,"San Francisco,
+United States","Sr. Software Engineer, Android UI",,android:mobile:dev:senior:design,6mo
+Brave,https://web3.career/sr-ios-engineer-wallets-brave/10189,"San Francisco,
+United States",Sr. iOS Engineer - Wallets,$51k - $109k,dev:ios:mobile:senior:javascript,6mo
+Brave,https://web3.career/senior-android-engineer-brave/10188,"San Francisco,
+United States",Senior Android Engineer,,android:mobile:dev:senior:java,6mo

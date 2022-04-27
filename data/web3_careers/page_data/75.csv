@@ -1,36 +1,54 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-BlockFi,https://web3.career/loan-servicing-analyst-blockfi/23568,Loan Servicing Analyst,$40k - $120k,analyst,1mo
-BlockFi,https://web3.career/loan-servicing-analyst-blockfi/23567,Loan Servicing Analyst,$40k - $120k,analyst,1mo
-FreshCut,https://web3.career/community-manager-web3-and-gaming-freshcutgg/23566,Community Manager (Web3 and Gaming),$65k - $80k,community manager:non tech:game dev:nft,1mo
-Terraform Labs,https://web3.career/technical-recruiter-terra/23565,Technical Recruiter,,recruiter:non tech:ethereum:remote,1mo
-Zero Hash,https://web3.career/business-development-representative-zero-hash/23564,Business Development Representative,$29k - $108k,sales:non tech:remote,1mo
-Optimism,https://web3.career/data-analyst-optimism/23563,Data Analyst,$45k - $120k,analyst:data science:remote,1mo
-Gnosis,https://web3.career/senior-ui-designer-gnosis/23560,Senior UI Designer,$60k - $120k,design:non tech:senior:react:ethereum,1mo
-Ankr Network,https://web3.career/business-development-associate-ankrnetwork/23559,Business Development Associate,$100k - $180k,sales:non tech:nft,1mo
-Consensys,https://web3.career/technical-content-writer-consensys/23558,Technical Content Writer,,copywriting:remote:solidity:ethereum,1mo
-Consensys,https://web3.career/technical-content-writer-consensys/23557,Technical Content Writer,,copywriting:remote:solidity:ethereum,1mo
-Consensys,https://web3.career/technical-content-writer-consensys/23556,Technical Content Writer,,copywriting:remote:solidity:ethereum,1mo
-Consensys,https://web3.career/technical-content-writer-consensys/23555,Technical Content Writer,,copywriting:remote:solidity:ethereum,1mo
-Consensys,https://web3.career/sr-pm-qbs-consensys/23554,Sr. PM - QBS,$80k - $160k,senior:remote:ethereum,1mo
-Consensys,https://web3.career/sr-executive-assistant-global-marketing-consensys/23553,Sr. Executive Assistant (Global Marketing),$70k - $158k,executive:marketing:non tech:senior:ethereum,1mo
-Consensys,https://web3.career/senior-software-engineer-dapp-api-consensys/23552,Senior Software Engineer (Dapp API),,api:dev:senior:dapp:react,1mo
-Consensys,https://web3.career/portfolio-marketing-lead-consensys/23551,Portfolio Marketing Lead,,finance:lead:marketing:non tech:remote,1mo
-Consensys,https://web3.career/multimedia-content-designer-consensys/23550,Multimedia Content Designer,$50k - $135k,design:non tech:remote:ethereum:javascript,1mo
-Consensys,https://web3.career/hr-program-manager-consensys/23549,HR Program Manager,,hr:non tech:executive:remote:ethereum,1mo
-Consensys,https://web3.career/director-of-operations-consensys/23548,Director of Operations,,executive:operations:ethereum,1mo
-Consensys,https://web3.career/digital-copywriter-consensys/23547,Digital Copywriter,,copywriting:remote:ethereum,1mo
-Chainalysis,https://web3.career/senior-partner-solutions-architect-chainalysis/23546,Senior Partner Solutions Architect,$80k,architecture:senior,1mo
-Idego Group,https://web3.career/regular-senior-python-blockchain-developer-idegogroup/23545,Regular/Senior Python / Blockchain Developer,$79k - $200k,dev:python:senior:blockchain:remote,1mo
-Terraform Labs,https://web3.career/ecosystem-growth-analyst-terra/23544,Ecosystem Growth Analyst,,analyst:marketing:non tech:remote:ethereum,1mo
-Kairos Art,https://web3.career/founding-engineer-for-mission-driven-nft-company-kairos-art/23522,Founding engineer for mission-driven NFT company,,dev:solana:javascript:node:backend,1mo
-Shakepay,https://web3.career/multimedia-graphic-designer-remote-canada-shakepay/23542,MultiMedia Graphic Designer (Remote - Canada),$50k - $135k,remote:design:non tech,1mo
-Binance,https://web3.career/senior-business-analyst-binance/23541,Senior Business Analyst,,analyst:senior:remote,1mo
-Terraform Labs,https://web3.career/ethereum-smart-contract-developer-terra/23540,Ethereum Smart Contract Developer,$80k - $200k,dev:smart contract:remote:ethereum,1mo
-Terraform Labs,https://web3.career/terra-smart-contract-developer-terra/23539,Terra Smart Contract Developer,$80k - $200k,dev:smart contract:remote:ethereum,1mo
-Binance,https://web3.career/operating-partner-early-stage-venture-binance/23538,"Operating Partner, Early Stage / Venture",$56k - $160k,remote,1mo
-Papers AG,https://web3.career/frontend-engineer-100-papers/23537,Frontend Engineer 100%,$68k - $150k,dev:front end:solidity:ethereum:javascript,1mo
-VolumeFi,https://web3.career/senior-security-engineer-volume-finance/23536,Senior Security Engineer,$95k - $250k,dev:security:senior:remote:ethereum,1mo
-BlockFi,https://web3.career/client-service-analyst-apac-blockfi/23534,Client Service Analyst - APAC,$40k - $120k,analyst,1mo
-BlockFi,https://web3.career/client-service-analyst-apac-blockfi/23533,Client Service Analyst - APAC,$40k - $120k,analyst,1mo
-Cake DeFi,https://web3.career/qa-automation-engineer-cake-defi-1/23532,QA Automation Engineer,$40k - $150k,dev:quality assurance:javascript,1mo
-Terraform Labs,https://web3.career/hr-office-manager-terra/23530,HR Office Manager,$60k - $120k,hr:non tech:remote:ethereum,1mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Kraken Digital Asset Exchange,https://web3.career/banking-and-payments-lead-apac-japanese-speaking-kraken/24146,Remote,Banking and Payments Lead - APAC (Japanese Speaking),,finance:lead:remote,1mo
+Concept Art House,https://web3.career/economy-designer-conceptarthouse/24145,,Economy Designer,$60k - $150k,design:non tech:nft,1mo
+OKX,https://web3.career/product-manager-kyc-okx/24143,"Hong Kong,
+Hong Kong",Product Manager - KYC,,kyc:product manager:non tech,1mo
+Virtually Human Studio,https://web3.career/devops-security-architect-remote-vhslab/24142,"San Francisco,
+United States",DevOps Security Architect (Remote),,remote:architecture:devops:security:nft,1mo
+Fractal,https://web3.career/scout-fractal-is/24141,WAGMI,Scout,$95k - $180k,solana:nft,1mo
+Ethereum Foundation,https://web3.career/technical-coordinator-ethereum-foundation/24140,Remote,Technical Coordinator,$0k,remote:ethereum:nft,1mo
+O(1) Labs,https://web3.career/technical-recruiter-o1labs/24139,,Technical Recruiter,$40k - $70k,recruiter:non tech,1mo
+Fractal,https://web3.career/customer-success-fractal-is/24138,WAGMI,Customer Success,,customer support:solana:nft,1mo
+Fractal,https://web3.career/blockchain-engineer-solidity-fractal-is/24137,WAGMI,Blockchain Engineer (Solidity),$52k - $160k,dev:blockchain:solidity:solana:nft,1mo
+micobo GmbH,https://web3.career/devops-engineer-remote-only-in-germany-all-genders-micobo/24135,,DevOps-Engineer (remote only in Germany) - all genders,$95k - $180k,remote:devops:dev:node:golang,1mo
+Tangany,https://web3.career/frontend-web-developer-tangany/24134,,Frontend Web Developer,$50k - $144k,dev:front end:react:vue,1mo
+Virtually Human Studio,https://web3.career/crm-manager-vhslab/24133,APAC,CRM Manager,,crm:nft,1mo
+Immunefi,https://web3.career/head-of-account-management-immunefi/24132,,Head of Account Management,$70k - $180k,executive,1mo
+Figure,https://web3.career/office-coordinator-figure/24131,"San Francisco,
+United States",Office Coordinator,,,1mo
+Nuri,https://web3.career/working-student-affiliate-marketing-nuri/24130,"Berlin,
+Germany",Working Student Affiliate Marketing,$25k - $120k,marketing:non tech:remote,1mo
+Taurus SA,https://web3.career/compliance-officer-taurusgroup/24129,"Geneva,
+Switzerland",Compliance officer,,compliance,1mo
+Ripple,https://web3.career/associate-growth-marketing-manager-ripple/24128,"San Francisco,
+United States",Associate Growth Marketing Manager,$45k - $130k,marketing:non tech,1mo
+Ledger,https://web3.career/junior-mechanical-engineer-ledger/24127,"Paris,
+France",Junior Mechanical Engineer,$45k - $180k,dev:junior:entry level,1mo
+Ledger,https://web3.career/m-a-associate-ledger/24126,"London,
+United Kingdom",M&A Associate,,,1mo
+Binance,https://web3.career/office-manager-bahrain-binance/24125,Middle East & North Africa,Office Manager (Bahrain),,,1mo
+Binance,https://web3.career/customer-support-specialist-spanish-binance/24124,"Barcelona,
+Spain",Customer Support Specialist - Spanish,$40k - $80k,customer support,1mo
+Kraken Digital Asset Exchange,https://web3.career/content-writer-nft-kraken/24123,Remote,"Content Writer, NFT",,copywriting:nft:remote,1mo
+Uniswap Labs,https://web3.career/software-engineer-uniswap/24122,Remote,Software Engineer,,full stack:front end:backend:dev:remote,1mo
+CoinList,https://web3.career/principal-coinlist-seed-coinlist/24118,"San Francisco,
+United States","Principal, CoinList Seed",$85k - $180k,executive:solana,1mo
+Amun 21Shares,https://web3.career/sr-product-designer-amun/24117,,Sr. Product Designer,$60k - $120k,design:non tech:senior,1mo
+Uniswap Labs,https://web3.career/senior-frontend-engineer-uniswap/24116,Remote,Senior Frontend Engineer,,front end:web3js:react:javascript:senior,1mo
+4022: Novatopia,https://web3.career/art-director-graphic-designer-game-designer-4022-novatopia/24115,"Los Angeles,
+United States",Art Director / Graphic Designer - Game Designer,,design:non tech:executive:game dev,1mo
+FPT Deutschland GmbH,https://web3.career/senior-mobile-developer-fger/24114,"Amsterdam,
+Netherlands",Senior Mobile Developer,$120k - $200k,dev:mobile:senior,1mo
+Voodoo,https://web3.career/product-owner-manager-marketing-growth-voodoo/24113,"Paris,
+France",Product Owner/Manager - Marketing & Growth,,product manager:non tech:marketing,1mo
+Flippa,https://web3.career/data-engineer-marketplace-flippa/24112,"Melbourne,
+Australia",Data Engineer - Marketplace,$70k - $160k,data science:dev,1mo
+Immunefi,https://web3.career/community-manager-immunefi/24111,,Community Manager,$40k - $100k,community manager:non tech,1mo
+RECUR,https://web3.career/corporate-trainer-recur/24109,"Miami,
+United States",Corporate Trainer,,education,1mo
+Tron,https://web3.career/hr-data-analyst-rainberry/24108,"San Francisco,
+United States",HR Data Analyst,,analyst:data science:hr:non tech,1mo
+Brave,https://web3.career/it-support-engineer-brave/24107,"London,
+United Kingdom",IT Support Engineer,,dev:customer support:javascript,1mo
+BitGo,https://web3.career/prime-client-service-manager-bitgo/24106,"New York,
+United States",Prime Client Service Manager,,,1mo

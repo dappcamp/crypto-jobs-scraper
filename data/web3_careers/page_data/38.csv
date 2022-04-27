@@ -1,36 +1,49 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Newton,https://web3.career/director-marketing-austin-tx-remote-newton/25070,"Director, Marketing - Austin,TX (Remote)",$45k - $158k,remote:executive:marketing:non tech,19d
-Newton,https://web3.career/controller-canada-wide-remote-newton/25069,Controller - Canada Wide - Remote,,remote:legal,19d
-Newton,https://web3.career/senior-backend-developer-austin-tx-newton/25068,"Senior Backend Developer - Austin, TX",$70k - $200k,backend:dev:senior,19d
-Newton,https://web3.career/project-manager-canada-wide-remote-newton/25067,Project Manager - Canada Wide - Remote,$56k - $150k,remote:project manager:non tech,19d
-Newton,https://web3.career/engineering-manager-canada-wide-remote-newton/25066,Engineering Manager - Canada Wide - Remote,$79k - $200k,executive:remote,19d
-Newton,https://web3.career/blockchain-engineer-austin-tx-newton/25065,"Blockchain Engineer - Austin,TX",$50k - $170k,dev:blockchain,19d
-Newton,https://web3.career/backend-developer-canada-wide-remote-newton/25064,Backend Developer - Canada Wide - Remote,$60k - $180k,remote:backend:dev:node:java,19d
-Newton,https://web3.career/webflow-developer-canada-wide-remote-newton/25063,Webflow Developer - Canada Wide - Remote,$65k - $180k,remote:dev,19d
-Newton,https://web3.career/digital-designer-canada-wide-remote-newton/25062,Digital Designer - Canada Wide - Remote,$50k - $135k,remote:design:non tech,19d
-MomentRanks,https://web3.career/social-content-designer-moment-ranks/25061,Social Content Designer,$50k - $135k,design:non tech:remote,19d
-Metal,https://web3.career/vendor-operations-manager-metalpay/25060,Vendor Operations Manager,$80k - $110k,operations:remote,19d
-Messari,https://web3.career/research-specialist-protocol-services-messari/25059,"Research Specialist, Protocol Services",$56k - $160k,remote,19d
-Messari,https://web3.career/research-specialist-asset-profiles-messari/25058,"Research Specialist, Asset Profiles",$56k - $160k,remote,19d
-Messari,https://web3.career/director-messari-asset-coverage-services-messari/25057,"Director, Messari Asset Coverage Services",$79k - $200k,executive:remote,19d
-Messari,https://web3.career/user-researcher-messari/25056,User Researcher,$56k - $160k,remote,19d
-Messari,https://web3.career/product-manager-messari-governor-messari/25055,Product Manager - Messari Governor,$115k - $175k,product manager:non tech:remote,19d
-Messari,https://web3.career/product-manager-market-intelligence-messari/25054,Product Manager - Market Intelligence,$115k - $175k,product manager:non tech:remote,19d
-Messari,https://web3.career/corporate-paralegal-messari/25053,Corporate Paralegal,$56k - $160k,remote,19d
-Messari,https://web3.career/digital-marketing-manager-messari/25052,Digital Marketing Manager,$25k - $120k,marketing:non tech:remote,19d
-Messari,https://web3.career/software-engineer-market-data-messari/25051,"Software Engineer, Market Data",$65k - $180k,dev:remote,19d
-Messari,https://web3.career/software-engineer-defi-metrics-messari/25050,"Software Engineer, DeFi Metrics",$95k - $250k,dev:defi:remote,19d
-Messari,https://web3.career/blockchain-engineer-daos-messari/25049,"Blockchain Engineer, DAOs",$70k - $190k,dev:blockchain:remote:ethereum,19d
-Messari,https://web3.career/strategic-account-executive-banking-and-fintech-vertical-messari/25048,Strategic Account Executive - Banking and Fintech Vertical,$40k - $225k,finance:executive:remote,19d
-Maple,https://web3.career/recruitment-coordinator-maple-finance/25047,Recruitment Coordinator,,recruiter:non tech:remote,19d
-IOVLabs,https://web3.career/account-manager-iovlabs/25046,Account Manager,,account manager:remote,19d
-IOVLabs,https://web3.career/asia-business-development-representative-iovlabs/25045,Asia Business Development Representative,$29k - $108k,sales:non tech:remote,19d
-Holaplex,https://web3.career/implementation-lead-solution-architect-holaplex/25044,Implementation Lead/ Solution Architect,,architecture:lead:remote,19d
-Harmony,https://web3.career/senior-cloud-engineer-dba-harmony/25043,Senior Cloud Engineer - DBA,,cloud:dba:dev:senior:remote,19d
-GSR,https://web3.career/regulatory-operations-vice-president-gsr/25042,Regulatory Operations - Vice President,,legal:operations,19d
-GSR,https://web3.career/senior-quantitative-researcher-vice-president-gsr/25041,Senior Quantitative Researcher - Vice President,$78k - $200k,senior,19d
-GSR,https://web3.career/senior-quantitative-researcher-director-vice-president-gsr/25040,Senior Quantitative Researcher - Director/Vice President,$46k - $110k,executive:senior,19d
-GSR,https://web3.career/senior-quantitative-researcher-director-gsr/25039,Senior Quantitative Researcher - Director,$46k - $110k,executive:senior,19d
-GSR,https://web3.career/weekend-quantitative-trader-options-systematic-volatility-trading-thurs-mon-gsr/25038,Weekend Quantitative Trader (Options) - Systematic Volatility Trading (Thurs - Mon),$31k - $37k,trader,19d
-GSR,https://web3.career/weekend-quantitative-trader-options-singapore-thurs-mon-gsr/25037,Weekend Quantitative Trader (Options) - Singapore (Thurs - Mon),$31k - $37k,trader,19d
-GSR,https://web3.career/weekend-quantitative-trader-options-nyc-thurs-mon-gsr/25036,Weekend Quantitative Trader (Options) - NYC (Thurs - Mon),$31k - $37k,trader,19d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Polygon,https://web3.career/senior-golang-engineer-polygon/25647,APAC,Senior Golang Engineer,$65k - $150k,dev:golang:senior:ethereum:node,16d
+Paro.io,https://web3.career/crypto-accounting-specialist-remote-project-paro-io/25646,"Austin,
+United States",Crypto Accounting Specialist - Remote Project,$11k - $25k,remote:accounting:crypto,16d
+Localcoin,https://web3.career/marketing-specialist-content-social-media-localcoin/25645,"Toronto,
+Canada","Marketing Specialist, Content & Social Media",$28k - $100k,marketing:non tech:social media,16d
+Binance,https://web3.career/qa-engineer-functional-testing-binance/25644,South East Asia,QA Engineer (Functional Testing),$50k - $150k,dev:quality assurance,16d
+Binance,https://web3.career/events-manager-bnb-chain-binance/25643,Remote,Events Manager (BNB Chain),,events manager:non tech:remote,16d
+Polysynth,https://web3.career/quant-trader-polysynth/25642,India,Quant Trader,$40k - $80k,trader,16d
+Messari,https://web3.career/software-engineer-defi-metrics-messari/25641,"New York,
+United States","Software Engineer, DeFi Metrics",$90k - $150k,dev:defi:golang,16d
+Metrika Inc.,https://web3.career/senior-product-designer-metrika/25640,MA Cambridge US,Senior Product Designer,$60k - $120k,design:non tech:senior,17d
+8VC,https://web3.career/founding-senior-software-engineer-web3-company-in-stealth-8vc/25639,Canada,Founding Senior Software Engineer - Web3 Company in Stealth,$0k,dev:senior:solana:ethereum:nft,17d
+Directive Games Limited,https://web3.career/video-producer-directivegameslimited/25638,"Reykjavik,
+Iceland",VIDEO PRODUCER,$32k - $50k,video,17d
+CoinDesk & TradeBlock Opportunities,https://web3.career/index-research-analyst-coindesk/25637,"New York,
+United States",Index Research Analyst,$40k - $120k,analyst,17d
+Directive Games Limited,https://web3.career/game-designer-directivegameslimited/25636,"Reykjavik,
+Iceland",GAME DESIGNER,$26k - $150k,design:non tech:game dev,17d
+Palmswap,https://web3.career/senior-frontend-developer-palmswap/22986,Remote,Senior Frontend Developer,$120k - $140k,web3js:vue:dev:front end:remote,2mo
+Messari,https://web3.career/research-analyst-protocol-services-messari/25634,"New York,
+United States","Research Analyst, Protocol Services",$40k - $120k,analyst,17d
+Virtually Human Studio,https://web3.career/scrum-master-remote-vhslab/25633,APAC,Scrum Master (Remote),,remote:scrum:nft,17d
+Bitfinex,https://web3.career/remote-aml-investigator-m-f-vn-bitfinex/25631,HN Hà Nội VN,Remote AML Investigator (m/f) (VN),$56k - $160k,remote,17d
+Polysynth,https://web3.career/defi-product-manager-polysynth/25630,India,DeFi Product Manager,$50k - $100k,product manager:non tech:defi,17d
+daopanel,https://web3.career/frontend-developer-react-typescript-daopanel/25628,Remote,"Frontend Developer (React, TypeScript)",$50k - $150k,dev:front end:javascript:react:remote,17d
+Pilot.com,https://web3.career/solution-architect-crypto-pilothq/25627,"Nashville,
+United States","Solution Architect, Crypto",,architecture:crypto,17d
+Origins Analytics,https://web3.career/business-development-lead-origins-analytics/25626,Remote,Business Development Lead,,sales:non tech:lead:remote:nft,17d
+Genies,https://web3.career/data-scientist-growth-monetization-genies/25625,"Los Angeles,
+United States","Data Scientist, Growth & Monetization",,data science:marketing:non tech:nft,17d
+ATTN,https://web3.career/test-engineering-lead-attn/25624,"Jakarta,
+Indonesia",Test Engineering Lead,$60k - $200k,lead,17d
+Binance,https://web3.career/affiliate-influencer-marketing-coordinator-binance/25623,Remote,Affiliate/ Influencer Marketing Coordinator,$25k - $120k,marketing:non tech:remote,17d
+Tatum,https://web3.career/senior-backend-developer-for-blockchain-platform-tatum/25622,United Kingdom,Senior Backend Developer for Blockchain platform,$70k - $200k,backend:dev:senior:blockchain:javascript,17d
+MetaFans Media LLC,https://web3.career/head-of-blockchain-metafansmediallc/25621,"Miami,
+United States",Head of Blockchain,$80k - $225k,executive:blockchain:nft,17d
+MetaFans Media LLC,https://web3.career/solidity-developer-metafansmediallc/25620,"Miami,
+United States",Solidity Developer,$80k - $160k,dev:solidity:nft,17d
+Satoshis Games,https://web3.career/3d-animator-satoshis-games/25619,Spain,3D Animator,$24k - $32k,vfx:video,17d
+Web3 Labs,https://web3.career/golang-developer-web3labs/25618,United Kingdom,Golang Developer,$65k - $100k,dev:golang:solidity:java:rust,17d
+Aave,https://web3.career/senior-react-native-developer-toronto-canada-aave/25617,"Toronto,
+Canada",Senior React Native Developer (Toronto Canada),$65k - $200k,dev:react native:mobile:javascript:react,17d
+Awesome Company Worldwide,https://web3.career/awesome-software-engineer-needed-blockchain-ar-web3-gaming-video-social-sharing-awesome-company-worldwide/25616,United States,AWESOME Software Engineer needed- Blockchain - AR - Web3 -Gaming- video social sharing,$0k,dev:game dev:video:blockchain,17d
+Herbal Way,https://web3.career/blockchain-developer-devops-herbal-way/25615,United States,Blockchain Developer/DevOps,$0k,dev:devops:blockchain,17d
+Zignaly,https://web3.career/customer-support-agent-zignaly/25614,Remote,Customer Support Agent,,customer support:remote:solana:ethereum,17d
+GetBit.Money,https://web3.career/software-engineer-web3-0-lightning-network-getbit-money/25613,India,Software Engineer - Web3.0 - Lightning Network,$26k - $52k,dev:react:react native:node,17d
+FluidNFT Labs,https://web3.career/web3-senior-full-stack-engineer-contract-fluidnft/25612,Remote,Web3 Senior Full-Stack Engineer (contract),$120k - $200k,dev:full stack:senior:remote:solidity,17d
+FluidNFT Labs,https://web3.career/web3-senior-front-end-engineer-contract-fluidnft/25611,Remote,Web3 Senior Front-End Engineer (contract),$120k - $200k,dev:front end:senior:remote:solidity,17d

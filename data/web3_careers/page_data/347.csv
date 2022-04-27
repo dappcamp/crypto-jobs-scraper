@@ -1,36 +1,64 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Bitski,https://web3.career/senior-accounting-manager-bitski/11261,Senior Accounting Manager,,accounting:senior:nft,5mo
-NEAR,https://web3.career/software-engineer-web-tools-near/11259,"Software Engineer, Web Tools",$60k - $120k,dev:web3js:ethereum:javascript:rust,5mo
-Bitcoin Depot,https://web3.career/senior-financial-analyst-bitcoindepot/11258,Senior Financial Analyst,,analyst:finance:senior:ethereum,5mo
-SwissBorg,https://web3.career/fraud-manager-remote-swissborg/11257,Fraud Manager (Remote),$95k - $250k,remote:security,5mo
-Ava Labs,https://web3.career/accountant-avalabs/11256,Accountant,$25k - $150k,accounting,5mo
-SwissBorg,https://web3.career/ux-researcher-remote-swissborg/11254,UX Researcher (Remote),$50k - $135k,remote:design:non tech,5mo
-SwissBorg,https://web3.career/legal-counsel-regulatory-remote-swissborg/11253,Legal Counsel Regulatory (Remote),,legal:remote,5mo
-Frontrunner,https://web3.career/senior-blockchain-engineer-frontrunner/11252,Senior Blockchain Engineer,$140k - $200k,dev:senior:blockchain:solidity:solana,5mo
-Frontrunner,https://web3.career/blockchain-engineer-frontrunner/11251,Blockchain Engineer,$110k - $140k,dev:blockchain:solidity:java,5mo
-Okcoin,https://web3.career/kyc-analyst-okcoin/11250,KYC Analyst,,kyc:analyst,5mo
-BlockFi,https://web3.career/partner-development-senior-associate-blockfi/11249,Partner Development Senior Associate,$78k - $200k,senior,5mo
-SwissBorg,https://web3.career/fraud-manager-swissborg/11232,Fraud Manager,$95k - $250k,security:remote,5mo
-Anatha.io,https://web3.career/front-end-developer-anatha-io/11231,Front End Developer,$120k - $180k,dev:front end:react:react native:javascript,5mo
-Blockchain.com,https://web3.career/regional-brand-consultant-blockchain/11230,Regional Brand Consultant,$40k - $60k,marketing:non tech:consulting,5mo
-Rolla,https://web3.career/senior-react-engineer-a-defi-rolla/11229,Senior React Engineer â¢ DeFi,$70k - $130k,dev:javascript:react:senior:defi,5mo
-SwissBorg,https://web3.career/community-management-intern-remote-swissborg/11228,Community Management Intern (Remote),$40k - $101k,remote:community manager:non tech:intern:entry level,5mo
-Cake Pte Ltd,https://web3.career/senior-backend-engineer-scaling-cakedefi/11227,Senior Backend Engineer (Scaling),$70k - $200k,backend:dev:senior:web3js:ethereum,5mo
-Binance,https://web3.career/senior-qa-engineer-binance/11220,Senior QA Engineer,$30k - $50k,dev:quality assurance:senior,5mo
-Binance,https://web3.career/junior-devops-engineer-binance/11219,Junior DevOps Engineer,,devops:dev:junior:entry level,5mo
-Bitcoin Depot,https://web3.career/atm-project-manager-bitcoindepot/11218,ATM Project Manager,$80k - $150k,project manager:non tech:ethereum,5mo
-Binance,https://web3.career/junior-technical-support-engineer-binance/11217,Junior Technical Support Engineer,$45k - $180k,dev:junior:entry level:customer support,5mo
-Binance,https://web3.career/junior-data-analyst-binance/11216,Junior Data Analyst,,analyst:data science:junior:entry level,5mo
-Binance,https://web3.career/junior-qa-test-engineer-payments-binance/11215,Junior QA & Test Engineer - Payments,$45k - $180k,dev:junior:entry level:quality assurance,5mo
-Blockchain.com,https://web3.career/growth-marketing-associate-blockchain/11214,Growth Marketing Associate,$45k - $130k,marketing:non tech,5mo
-Blockstream,https://web3.career/head-of-product-design-blockstream/11213,Head of Product Design,,executive:design:non tech:product manager,5mo
-Coin Metrics,https://web3.career/growth-associate-europe-coinmetrics/11212,GROWTH ASSOCIATE- EUROPE,$45k - $130k,marketing:non tech,5mo
-Coin Metrics,https://web3.career/growth-associate-asia-coinmetrics/11211,GROWTH ASSOCIATE- ASIA,$45k - $130k,marketing:non tech,5mo
-Coin Metrics,https://web3.career/enterprise-growth-europe-coinmetrics/11210,ENTERPRISE GROWTH- EUROPE,$45k - $130k,marketing:non tech,5mo
-Coin Metrics,https://web3.career/enterprise-growth-asia-coinmetrics/11209,ENTERPRISE GROWTH- ASIA,$45k - $130k,marketing:non tech,5mo
-OpenSea,https://web3.career/android-engineer-opensea/11208,Android Engineer,,android:mobile:dev:java:remote,5mo
-Ripple,https://web3.career/partner-success-director-ripplex-ripple/11207,"Partner Success Director, RippleX",$70k - $180k,executive,5mo
-CoinList,https://web3.career/product-manager-lending-coinlist/11206,Product Manager (Lending),,product manager:non tech:solana,5mo
-Spring Labs,https://web3.career/sr-data-scientist-springlabs/11205,Sr. Data Scientist,$130k - $160k,data science:senior,5mo
-Spring Labs,https://web3.career/frontend-engineer-blockchain-springlabs/11204,Frontend Engineer-Blockchain,$33k - $190k,dev:front end:blockchain,5mo
-Akash Network,https://web3.career/finance-associate-akashnetwork/11203,Finance Associate,$40k - $100k,finance:remote,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Wintermute,https://web3.career/defi-envoy-wintermute-trading/12316,Remote,DeFi Envoy,$72k - $200k,defi:remote,5mo
+Autonomy Network,https://web3.career/senior-solidity-blockchain-crypto-engineer-for-ethereum-evm-autonomy-network-1/12315,"Berlin,
+Germany",Senior Solidity Blockchain / Crypto Engineer for Ethereum / EVM,$90k - $160k,dev:senior:blockchain:crypto:solidity,5mo
+Cyberwear NFT,https://web3.career/chief-blockchain-officer-cyberwear-nft/12314,United Kingdom,Chief Blockchain Officer,$0k,executive:blockchain:ethereum:nft:java,5mo
+OKEx,https://web3.career/graduate-product-associate-account-asset-support-okex/12313,"Hong Kong,
+Hong Kong","Graduate Product Associate - Account, Asset & Support",,intern:entry level:customer support,5mo
+Autograph,https://web3.career/product-operations-analyst-autograph/12312,"Santa Monica,
+United States",Product Operations Analyst,,analyst:operations:nft,5mo
+NEAR,https://web3.career/payments-specialist-near/12311,"Zug,
+Switzerland",Payments Specialist,,,5mo
+NEAR,https://web3.career/engineering-manager-growth-labs-near/12310,"Zug,
+Switzerland","Engineering Manager, Growth Labs",$70k - $158k,executive:marketing:non tech:rust,5mo
+BitGo,https://web3.career/recruiting-coordinator-bitgo/12309,"Austin,
+United States",Recruiting Coordinator,$40k - $70k,recruiter:non tech,5mo
+BitGo,https://web3.career/recruiting-coordinator-bitgo/12308,"Palo Alto,
+United States",Recruiting Coordinator,$40k - $70k,recruiter:non tech,5mo
+BitGo,https://web3.career/qa-engineering-manager-bitgo/12307,"New York,
+United States",QA Engineering Manager,,executive:quality assurance,5mo
+BitGo,https://web3.career/qa-engineering-manager-bitgo/12306,"Austin,
+United States",QA Engineering Manager,,executive:quality assurance,5mo
+BitGo,https://web3.career/qa-engineering-manager-bitgo/12305,"San Francisco,
+United States",QA Engineering Manager,,executive:quality assurance,5mo
+BitGo,https://web3.career/engineering-manager-account-infrastructure-bitgo/12304,"Palo Alto,
+United States","Engineering Manager, Account Infrastructure",$56k - $150k,executive:react,5mo
+Figure,https://web3.career/investor-relations-analyst-figure/12303,"San Francisco,
+United States",Investor Relations Analyst,,analyst:finance,5mo
+Okcoin,https://web3.career/aml-fraud-investigator-night-shift-okcoin/12302,"Austin,
+United States",AML/Fraud Investigator (Night Shift),$95k - $200k,security,5mo
+Ripple,https://web3.career/sr-director-business-development-ripplex-ripple/12301,"San Francisco,
+United States","Sr. Director, Business Development, RippleX",$40k - $150k,sales:non tech:executive:senior,5mo
+Localcoin,https://web3.career/bilingual-customer-service-representative-part-time-localcoin/12297,"Toronto,
+Canada",Bilingual Customer Service Representative (Part-Time),,customer support:part time,5mo
+Kava Labs,https://web3.career/crypto-financial-analyst-kava/12296,"Los Angeles,
+United States",Crypto Financial Analyst,,analyst:finance:crypto,5mo
+Figure,https://web3.career/capital-markets-analyst-figure/12295,"San Francisco,
+United States",Capital Markets Analyst,$40k - $120k,analyst,5mo
+Ripple,https://web3.career/revenue-accounting-operations-manager-ripple/12293,"San Francisco,
+United States",Revenue Accounting Operations Manager,,accounting:operations,5mo
+Okcoin,https://web3.career/head-of-global-identity-and-onboarding-okcoin/12292,"San Francisco,
+United States",Head of Global Identity and Onboarding,$70k - $180k,executive,5mo
+Figure,https://web3.career/customer-success-supervisor-nc-figure/12291,"Charlotte,
+United States",Customer Success Supervisor NC,$40k - $80k,customer support,5mo
+Okcoin,https://web3.career/italian-customer-service-representative-okcoin/12290,"56 Sliema, Sliema, Malta",Italian Customer Service Representative,$40k - $80k,customer support,5mo
+Foundry,https://web3.career/systems-administrator-crypto-staking-foundrydigital/12289,"New York,
+United States","Systems Administrator, Crypto Staking",,sys admin:crypto,5mo
+Figure,https://web3.career/business-operations-analyst-marketplace-figure/12288,"San Francisco,
+United States","Business Operations Analyst, Marketplace",,analyst:operations,5mo
+SuperRare Labs,https://web3.career/social-media-marketing-manager-superrarelabs/12287,"New York,
+United States",Social Media & Marketing Manager,$28k - $100k,marketing:non tech:social media:ethereum:nft,5mo
+Okcoin,https://web3.career/us-compliance-analyst-okcoin/12286,"San Francisco,
+United States",US Compliance Analyst,,compliance:analyst,5mo
+Okcoin,https://web3.career/us-compliance-analyst-okcoin/12285,"San Francisco,
+United States",US Compliance Analyst,,compliance:analyst,5mo
+Okcoin,https://web3.career/compliance-administrator-okcoin/12284,"San Francisco,
+United States",Compliance Administrator,,compliance,5mo
+Chronicled.com,https://web3.career/senior-site-reliability-engineer-chronicled-2/12283,Remote,Senior Site Reliability Engineer,$150k - $200k,dev:sys admin:senior:remote,5mo
+Figment,https://web3.career/event-coordinator-figment/12281,"Toronto,
+Canada",Event Coordinator,,events manager:non tech,5mo
+CoinDesk & TradeBlock Opportunities,https://web3.career/vice-president-of-engineering-coindesk-indices-coindesk/12280,United States,"Vice President of Engineering, CoinDesk Indices",$60k - $146k,javascript:node,5mo
+CoinDesk & TradeBlock Opportunities,https://web3.career/site-reliability-engineer-coindesk-indices-coindesk/12279,United States,"Site Reliability Engineer, CoinDesk Indices",,dev:sys admin:javascript:node,5mo
+CoinDesk & TradeBlock Opportunities,https://web3.career/data-engineer-coindesk-indices-coindesk/12278,United States,"Data Engineer, CoinDesk Indices",,data science:dev:javascript:node,5mo
+Coinsquare,https://web3.career/compliance-analyst-coinsquare/12277,"Toronto,
+Canada",Compliance Analyst,,compliance:analyst:ethereum,5mo

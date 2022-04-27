@@ -1,36 +1,59 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Ledger,https://web3.career/senior-sre-system-engineer-ledger/26156,Senior SRE - System Engineer,$150k - $200k,dev:senior:sys admin,5d
-Ripple,https://web3.career/software-engineer-ripplenet-payments-ripple/26155,"Software Engineer, RippleNet Payments",$60k - $180k,dev,5d
-,https://web3.career/vp-of-sales-remote-ote-300k-year-ionicpartners/26154,VP of Sales (Remote) - OTE $300k/year,$29k - $108k,remote:sales:non tech:executive:nft,5d
-Virtually Human Studio,https://web3.career/senior-data-analyst-product-vhslab/26153,"Senior Data Analyst, Product",,analyst:data science:senior:nft,5d
-MetaMask,https://web3.career/fullstack-engineer-codefi-metamask/26152,Fullstack engineer (Codefi),$80k - $130k,dev:full stack:web3js:react:solidity,5d
-MetaMask,https://web3.career/full-stack-engineer-innovation-labs-metamask/26151,Full Stack Engineer (Innovation Labs),$80k - $130k,dev:full stack:web3js:react:solidity,5d
-MetaMask,https://web3.career/full-stack-engineer-metamask/26150,Full Stack Engineer,$80k - $130k,dev:full stack:web3js:react:solidity,5d
-MetaMask,https://web3.career/front-end-engineer-codefi-metamask/26149,Front-end Engineer (Codefi),$50k - $144k,dev:front end:react:react native:ethereum,5d
-MetaMask,https://web3.career/front-end-engineer-codefi-metamask/26148,Front-end Engineer (Codefi),$50k - $144k,dev:front end:react:react native:ethereum,5d
-Raspberry Dream Land,https://web3.career/nft-marketplace-frontend-developer-raspberry-dream-land/26147,NFT Marketplace Frontend Developer,$50k - $60k,dev:front end:nft:react:javascript,5d
-Binance,https://web3.career/data-lead-business-intelligence-and-analytics-europe-binance/26146,"Data Lead, Business Intelligence and Analytics - Europe",,stats:lead,5d
-Akash Network,https://web3.career/developer-relations-lead-akashnetwork/26145,Developer Relations Lead,,customer support:dev:lead:remote,5d
-BitGo,https://web3.career/compensation-manager-bitgo/26144,Compensation Manager,$50k - $155k,,5d
-X-Margin,https://web3.career/quantitative-c-developer-crypto-trading-apis-x-margin-1/26143,Quantitative C++ developer - crypto trading APIs,$175k - $255k,c:c plus plus:dev:crypto,5d
-OpenSea,https://web3.career/benefits-specialist-opensea/26142,Benefits Specialist,$56k - $160k,remote,5d
-OpenSea,https://web3.career/sr-partner-manager-opensea/26141,Sr. Partner Manager,$85k - $200k,senior:remote,5d
-CANDY,https://web3.career/manager-engineering-candy/26140,"Manager, Engineering",$67k - $175k,react:nextjs,5d
-CANDY,https://web3.career/infrastructure-security-engineer-candy/26139,Infrastructure Security Engineer,$95k - $250k,dev:security,5d
-CANDY,https://web3.career/application-security-engineer-candy/26138,Application Security Engineer,$95k - $250k,dev:security,5d
-CANDY,https://web3.career/senior-product-manager-candy/26137,Senior Product Manager,$80k - $150k,product manager:non tech:senior:nft,5d
-CANDY,https://web3.career/director-of-data-science-candy/26136,Director of Data Science,,data science:executive:nft,5d
-CANDY,https://web3.career/senior-unity-engineer-candy/26135,Senior Unity Engineer,$90k - $200k,dev:senior:nft,5d
-CANDY,https://web3.career/senior-producer-gaming-products-candy/26134,Senior Producer (Gaming Products),$80k - $150k,game dev:senior:nft,5d
-CANDY,https://web3.career/senior-design-operations-associate-candy/26133,Senior Design Operations Associate,,design:non tech:operations:senior,5d
-CANDY,https://web3.career/design-director-gaming-products-candy/26132,Design Director (Gaming Products),,design:non tech:executive:game dev:nft,5d
-BlockFi,https://web3.career/staff-software-engineer-mobile-design-systems-blockfi/26131,"Staff Software Engineer, Mobile Design Systems",$80k - $150k,design:non tech:dev:mobile,5d
-Polygon,https://web3.career/talent-acquisition-operations-manager-polygon/26130,Talent Acquisition Operations Manager,,operations:recruiter:non tech:ethereum,5d
-CANDY,https://web3.career/staff-software-engineer-devops-candy/26129,Staff Software Engineer - DevOps,$80k - $145k,devops:dev:node:java:rust,5d
-CANDY,https://web3.career/staff-experience-engineer-r-d-candy/26128,Staff Experience Engineer (R&D),$50k - $150k,dev:golang,5d
-CANDY,https://web3.career/senior-frontend-engineer-candy/26127,Senior Frontend Engineer,$70k - $200k,dev:front end:senior:react:javascript,5d
-CANDY,https://web3.career/senior-blockchain-engineer-smart-contracts-candy/26126,Senior Blockchain Engineer (Smart Contracts),$80k - $200k,dev:senior:blockchain:smart contract:solidity,5d
-CANDY,https://web3.career/senior-backend-engineer-candy/26125,Senior Backend Engineer,$70k - $200k,backend:dev:senior:java,5d
-CANDY,https://web3.career/data-scientist-candy/26124,Data Scientist,$50k - $150k,data science:nft,5d
-CANDY,https://web3.career/user-experience-researcher-candy/26123,User Experience Researcher,$60k - $150k,design:non tech:nft,5d
-CANDY,https://web3.career/recruitment-brand-marketing-manager-candy/26122,Recruitment Brand Marketing Manager,,marketing:non tech:recruiter,5d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Crypto.com,https://web3.career/senior-trading-business-analyst-quant-trading-team-global-fintech-startup-crypto/26734,"Hong Kong,
+Hong Kong","Senior Trading Business Analyst, Quant Trading Team- Global Fintech Startup",,analyst:finance:senior,5d
+Crypto.com,https://web3.career/product-manager-price-crypto/26733,"Hong Kong,
+Hong Kong",Product Manager - Price,$67k - $160k,product manager:non tech,5d
+Crypto.com,https://web3.career/research-analyst-investment-strategy-sellside-global-fintech-startup-crypto/26732,"London,
+United Kingdom",Research Analyst (Investment Strategy - Sellside) - Global Fintech Startup,,analyst:finance,5d
+Aptos,https://web3.career/data-scientist-aptoslabs/26731,"Palo Alto,
+United States",Data Scientist,,data science:ruby:scala:java,5d
+Aptos,https://web3.career/product-manager-media-entertainment-aptoslabs/26730,"New York,
+United States","Product Manager, Media/Entertainment",$67k - $160k,product manager:non tech,5d
+Crypto.com,https://web3.career/crypto-content-writer-eu-uk-crypto/26729,"London,
+United Kingdom",Crypto Content Writer (EU/UK),$62k - $96k,copywriting:non tech:crypto,5d
+Crypto.com,https://web3.career/social-content-coordinator-us-crypto/26728,United States,Social Content Coordinator (US),$55k - $150k,nft,5d
+Crypto.com,https://web3.career/concept-designer-visual-development-artist-nft-global-fintech-startup-crypto/26727,"Hong Kong,
+Hong Kong",Concept Designer / Visual Development Artist (NFT) - Global Fintech Startup,,design:non tech:finance:nft,5d
+Crypto.com,https://web3.career/business-development-manager-nft-korea-crypto/26726,"Seoul,
+South Korea","Business Development Manager (NFT, Korea)",$60k - $180k,sales:non tech:nft,5d
+Crypto.com,https://web3.career/blockchain-engineer-fullstack-global-fintech-startup-crypto/26725,"Hong Kong,
+Hong Kong",Blockchain Engineer (Fullstack) - Global Fintech Startup,,dev:finance:full stack:blockchain,5d
+Crypto.com,https://web3.career/blockchain-security-analyst-hk-global-fintech-startup-crypto/26724,"Hong Kong,
+Hong Kong",Blockchain Security Analyst (HK) - Global Fintech Startup,,analyst:finance:security:blockchain:javascript,5d
+Crypto.com,https://web3.career/blockchain-research-fellow-crypto/26723,"Hong Kong,
+Hong Kong",Blockchain Research Fellow,$48k - $150k,blockchain,5d
+Crypto.com,https://web3.career/content-writer-defi-crypto/26722,"Dublin,
+Ireland","Content writer, DeFi",,copywriting:non tech:defi,5d
+Crypto.com,https://web3.career/dapp-engineer-crypto/26721,United States,Dapp Engineer,$90k - $170k,dev:dapp,5d
+Crypto.com,https://web3.career/senior-product-manager-product-manager-web3-blockchain-defi-crypto/26720,"Singapore,
+Singapore",Senior Product Manager / Product Manager - Web3 / Blockchain / DeFi,$80k - $150k,product manager:non tech:senior:blockchain:defi,5d
+Chainlink Labs,https://web3.career/data-engineer-data-feeds-chainlink/26719,Remote,"Data Engineer, Data Feeds",,data science:dev:remote,5d
+Amun 21Shares,https://web3.career/associate-product-manager-amun/26718,"New York,
+United States",Associate Product Manager,$67k - $160k,product manager:non tech,5d
+Ripple,https://web3.career/principal-applied-scientist-liquidity-ripple/26717,"Toronto,
+Canada","Principal Applied Scientist, Liquidity",$40k - $150k,sales:non tech:executive:java,5d
+"PicoLink, LLC",https://web3.career/senior-full-stack-developer-picolink-llc/26716,Remote,Senior Full-stack Developer,$50k - $90k,dev:full stack:senior:remote:full time,5d
+Crypto.com,https://web3.career/financial-crimes-analyst-france-crypto/26714,France,Financial Crimes Analyst (France),,analyst:finance,5d
+Crypto.com,https://web3.career/senior-backend-developer-elixir-global-fintech-startup-crypto/26713,"Singapore,
+Singapore",Senior Backend Developer - Elixir - Global Fintech Startup,$170k - $250k,backend:dev:finance:senior,5d
+Crypto.com,https://web3.career/enterprise-risk-analyst-derivatives-exchange-team-us-crypto/26712,United States,"Enterprise Risk Analyst (Derivatives Exchange team), US",$40k - $120k,analyst,5d
+Crypto.com,https://web3.career/information-security-compliance-manager-us-m-a-crypto/26711,"Miami,
+United States",Information Security & Compliance Manager (US) - M&A,,compliance:security,5d
+Crypto.com,https://web3.career/senior-backend-developer-elixir-global-fintech-startup-crypto/26710,United States,Senior Backend Developer - Elixir - Global Fintech Startup,$170k - $250k,backend:dev:finance:senior,5d
+Crypto.com,https://web3.career/senior-backend-developer-new-venture-global-fintech-startup-crypto/26709,Taiwan,Senior Backend Developer (New Venture) - Global Fintech Startup,$170k - $250k,backend:dev:finance:senior,5d
+Crypto.com,https://web3.career/compliance-director-u-s-and-canadian-exchanges-crypto/26708,United States,Compliance Director - U.S. and Canadian Exchanges,,compliance:executive,5d
+Crypto.com,https://web3.career/software-engineer-business-automation-global-fintech-startup-crypto/26707,Taiwan,Software Engineer (Business Automation) - Global Fintech Startup,$40k - $250k,dev:finance,5d
+Binance,https://web3.career/head-of-finance-thailand-binance/26706,"Bangkok,
+Thailand",Head of Finance - Thailand,$90k - $180k,executive:finance,5d
+Binance,https://web3.career/product-analyst-binance/26705,"Paris,
+France",Product Analyst,$40k - $120k,analyst,5d
+Binance,https://web3.career/senior-cyber-security-architect-binance/26704,Remote,Senior Cyber Security Architect,,architecture:security:senior:remote,5d
+Crypto.com,https://web3.career/blockchain-security-engineer-backend-javascript-uk-crypto/26703,"Singapore,
+Singapore",Blockchain Security Engineer (Backend) - Javascript (UK),$60k - $140k,backend:dev:javascript:security:blockchain,5d
+WOO Network,https://web3.career/app-automation-qa-engineer-woonetwork/26702,"Istanbul,
+Turkey",App Automation QA Engineer,$30k - $50k,dev:quality assurance:java,5d
+Crypto.com,https://web3.career/junior-monitoring-investigation-analyst-crypto/26701,"Sofia,
+Bulgaria",Junior Monitoring & Investigation Analyst,$10k - $13k,analyst:junior:entry level,5d
+Crypto.com,https://web3.career/senior-frontend-developer-new-venture-global-fintech-startup-crypto/26700,Taiwan,Senior Frontend Developer (New Venture) - Global Fintech Startup,,dev:finance:front end:senior,5d
+Crypto.com,https://web3.career/strategy-new-ventures-associate-crypto/26699,"Hong Kong,
+Hong Kong",Strategy & New Ventures - Associate,$50k - $150k,,5d

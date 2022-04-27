@@ -1,36 +1,52 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-SwissBorg,https://web3.career/payments-officer-swissborg/25105,Payments Officer,,finance:legal,19d
-SwissBorg,https://web3.career/payments-officer-swissborg/25104,Payments Officer,,finance:legal,19d
-SwissBorg,https://web3.career/customer-support-manager-swissborg/25103,Customer Support Manager,$40k - $80k,customer support,19d
-SwissBorg,https://web3.career/junior-kyc-analyst-swissborg/25102,Junior KYC analyst,,kyc:analyst:junior:entry level,19d
-SwissBorg,https://web3.career/junior-kyc-analyst-swissborg/25101,Junior KYC analyst,,kyc:analyst:junior:entry level,19d
-SwissBorg,https://web3.career/junior-kyc-analyst-swissborg/25100,Junior KYC analyst,,kyc:analyst:junior:entry level,19d
-SwissBorg,https://web3.career/spanish-community-advisor-remote-swissborg/25099,Spanish Community Advisor (Remote),$40k - $101k,remote:community manager:non tech,19d
-SwissBorg,https://web3.career/german-relationship-manager-remote-swissborg/25098,German Relationship Manager (Remote),$25k - $120k,remote:marketing:non tech,19d
-SwissBorg,https://web3.career/german-community-advisor-remote-swissborg/25097,German Community Advisor (Remote),$40k - $101k,remote:community manager:non tech,19d
-SwissBorg,https://web3.career/french-community-advisor-remote-swissborg/25096,French Community Advisor (Remote),$40k - $101k,remote:community manager:non tech,19d
-SwissBorg,https://web3.career/influencer-marketing-specialist-remote-french-swissborg/25095,Influencer Marketing Specialist (Remote - French),$25k - $120k,remote:marketing:non tech,19d
-SwissBorg,https://web3.career/influencer-marketing-specialist-remote-english-swissborg/25094,Influencer Marketing Specialist (Remote - English),$25k - $120k,remote:marketing:non tech,19d
-SwissBorg,https://web3.career/head-of-influencer-marketing-remote-swissborg/25093,Head of Influencer Marketing (Remote),$45k - $158k,executive:remote:marketing:non tech,19d
-SwissBorg,https://web3.career/cryptonitestv-swissborg-ventures-video-editor-remote-swissborg/25092,CryptonitesTV & SwissBorg Ventures Video Editor (Remote),,remote:video,19d
-"SundaeSwap Labs, Inc.",https://web3.career/go-developer-sundaeswap/25091,Go Developer,$22k - $150k,dev:golang:remote,19d
-Spring Labs,https://web3.career/sr-devops-with-networking-springlabs/25090,Sr. DevOps with Networking,$120k - $200k,devops:senior,19d
-Sperax,https://web3.career/frontend-engineer-remote-sperax/25089,Frontend Engineer (Remote),$22k - $120k,remote:dev:front end,19d
-Sperax,https://web3.career/frontend-engineer-remote-sperax/25088,Frontend Engineer (Remote),$22k - $120k,remote:dev:front end,19d
-Sperax,https://web3.career/senior-product-manager-remote-sperax/25087,Senior Product Manager (Remote),$115k - $175k,remote:product manager:non tech:senior,19d
-Sperax,https://web3.career/business-development-manager-remote-sperax/25086,Business Development Manager (Remote),$29k - $108k,remote:sales:non tech,19d
-Shakepay,https://web3.career/user-acquisition-manager-remote-canada-shakepay/25085,User Acquisition Manager (Remote - Canada),$25k - $120k,remote:marketing:non tech,19d
-Shakepay,https://web3.career/customer-lifecycle-specialist-remote-canada-shakepay/25084,Customer Lifecycle Specialist (Remote - Canada),$56k - $160k,remote,19d
-Shakepay,https://web3.career/financial-operations-manager-remote-canada-shakepay/25083,Financial Operations Manager (Remote - Canada),,remote:finance:operations,19d
-Shakepay,https://web3.career/accounting-technician-remote-canada-shakepay/25082,Accounting Technician (Remote - Canada),$11k - $25k,remote:accounting,19d
-Shakepay,https://web3.career/staff-developer-remote-canada-shakepay/25081,Staff Developer (Remote - Canada),$65k - $180k,remote:dev,19d
-Shakepay,https://web3.career/senior-qa-engineer-remote-canada-shakepay/25080,Senior QA Engineer (Remote - Canada),,remote:dev:quality assurance:senior,19d
-Shakepay,https://web3.career/data-analyst-remote-canada-shakepay/25079,Data Analyst (Remote - Canada),$45k - $120k,remote:analyst:data science,19d
-PowerTrade,https://web3.career/senior-android-developer-powertrade/25078,Senior Android Developer,,android:mobile:dev:senior:remote,19d
-PowerTrade,https://web3.career/customer-support-specialist-powertrade/25077,Customer Support Specialist,$40k - $80k,customer support:remote,19d
-Paradigm,https://web3.career/recruiting-paradigm-portfolio-paradigm-xyz/25076,Recruiting - Paradigm Portfolio,,finance:recruiter:non tech:remote,19d
-Paradigm,https://web3.career/finance-paradigm-portfolio-paradigm-xyz/25075,Finance - Paradigm Portfolio,$40k - $100k,finance:remote,19d
-Offchain Labs,https://web3.career/technical-writer-offchainlabs/25074,Technical writer,$45k - $55k,analyst:remote:ethereum,19d
-Offchain Labs,https://web3.career/marketing-lead-offchainlabs/25073,Marketing Lead,$50k - $120k,lead:marketing:non tech:remote:ethereum,19d
-Newton,https://web3.career/associate-product-manager-canada-wide-remote-newton/25072,Associate Product Manager - Canada Wide - Remote,$115k - $175k,remote:product manager:non tech,19d
-Newton,https://web3.career/technical-recruiter-canada-wide-remote-newton/25071,Technical Recruiter - Canada Wide - Remote,,remote:recruiter:non tech,19d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Braintrust,https://web3.career/senior-data-modeler-engineer-blockchain-team-remote-braintrust/25687,"San Francisco,
+United States",Senior Data Modeler Engineer (Blockchain Team) [Remote],$89k - $200k,remote:dev:senior:blockchain:java,15d
+Eternal,https://web3.career/full-stack-web-developer-eternal/25686,Remote,Full-Stack Web Developer,$120k - $220k,dev:full stack:game dev:remote:solidity,15d
+Careers at Paxful,https://web3.career/ux-ui-designer-mobile-team-paxful/25685,Remote,"UX/UI Designer, Mobile Team",,design:non tech:mobile:remote,15d
+playline,https://web3.career/sales-representative-customer-service-discord-moderator-playline/25683,"Montreal,
+Canada",sales representative/ Customer service/ Discord moderator,$40k - $45k,customer support:sales:non tech:nft:crypto,15d
+Applied Blockchain,https://web3.career/qa-engineer-applied-blockchain/25681,United Kingdom,QA Engineer,$0k,dev:quality assurance:react:javascript,16d
+R3,https://web3.career/senior-devops-solutions-engineer-r3-com/25680,"London,
+United Kingdom",Senior DevOps Solutions Engineer,$120k - $200k,devops:dev:senior,16d
+Metrics Recruitment Inc,https://web3.career/full-stack-engineer-blockchain-metricsrecruitment/25679,Remote,Full Stack Engineer - Blockchain,$50k - $150k,dev:full stack:blockchain:remote:nft,16d
+OpenSea,https://web3.career/technical-accounting-reporting-manager-opensea/25678,Remote,Technical Accounting & Reporting Manager,$11k - $25k,accounting:remote,16d
+OpenSea,https://web3.career/sr-corporate-strategy-manager-opensea/25677,Remote,Sr. Corporate Strategy Manager,$85k - $200k,senior:remote,16d
+Polygon,https://web3.career/senior-protocol-engineer-polygon/25676,Remote,Senior Protocol Engineer,,dev:senior:remote:rust:backend,16d
+Propellyr,https://web3.career/backend-software-engineer-blockchain-and-big-data-propellyr/25674,"Delhi,
+India",Backend Software Engineer (Blockchain and Big Data),$20k - $40k,backend:big data:dev:blockchain:java,16d
+Thorwallet,https://web3.career/full-stack-engineer-blockchain-thorwallet/25673,Switzerland,Full Stack Engineer (Blockchain),$50k - $80k,dev:full stack:blockchain:react:react native,16d
+dApp Auditing & Consulting,https://web3.career/remote-freelance-solana-smart-contract-expert-s-for-nft-related-projects-dapp-auditing-consulting/25672,Remote,Remote & Freelance: SOLANA smart contract expert(s) for NFT related projects,$0k,remote:nft:smart contract:solana,16d
+Immutable,https://web3.career/game-analyst-immutable/25671,Remote,Game Analyst,$50k - $120k,analyst:game dev:remote:ethereum:nft,16d
+Immutable,https://web3.career/head-of-communications-studio-immutable/25670,Remote,Head of Communications (Studio),$79k - $158k,executive:remote:ethereum,16d
+Subspace Labs,https://web3.career/protocol-research-intern-subspacelabs/25669,Remote,Protocol Research Intern,$24k - $48k,intern:entry level:remote,16d
+dYdX,https://web3.career/product-manager-dydx/25668,"New York,
+United States",Product Manager,$67k - $160k,product manager:non tech,16d
+The Block,https://web3.career/senior-product-designer-theblockcrypto/25667,Remote,Senior Product Designer,$60k - $120k,design:non tech:senior:remote,16d
+Chainalysis,https://web3.career/investigator-chainalysis/25666,"Washington,
+United States",Investigator,$50k - $158k,,16d
+Binance,https://web3.career/global-affiliate-manager-binance/25665,Remote,Global Affiliate Manager,$25k - $120k,marketing:non tech:remote,16d
+GSR,https://web3.career/senior-software-engineer-c-cryptocurrency-trading-singapore-gsr/25664,"Singapore,
+Singapore",Senior Software Engineer (C++) - Cryptocurrency Trading - Singapore,$100k - $150k,c:c plus plus:dev:senior:crypto,16d
+Sperax,https://web3.career/associate-product-manager-remote-sperax/25663,"Bengaluru,
+India",Associate Product Manager (Remote),$115k - $175k,remote:product manager:non tech,16d
+Ripple,https://web3.career/senior-manager-aml-cft-sanctions-compliance-singapore-ripple/25662,"Singapore,
+Singapore",Senior Manager AML/CFT & Sanctions Compliance - Singapore,,compliance:senior,16d
+Pathrise,https://web3.career/blockchain-developer-mentor-part-time-pathrise/25661,Remote,Blockchain Developer Mentor (Part-time),$11k - $25k,dev:part time:blockchain:remote,16d
+Binance,https://web3.career/frontend-developer-risk-binance/25660,Asia,Frontend Developer - Risk,$50k - $150k,dev:front end,16d
+cLabs,https://web3.career/product-marketing-manager-clabs/25659,Remote,Product Marketing Manager,$25k - $120k,marketing:non tech:remote,16d
+COCO,https://web3.career/blockchain-developer-remote-coco-13/25658,India,Blockchain Developer (Remote),$31k - $39k,remote:dev:blockchain:solidity:solana,16d
+Bitfury,https://web3.career/legal-counsel-crystal-remote-bitfury/25657,"Amsterdam,
+Netherlands",Legal Counsel - Crystal (Remote),,legal:remote,16d
+Voodoo,https://web3.career/senior-game-artist-blitz-voodoo/25656,"Paris,
+France",Senior Game Artist - Blitz,$70k - $150k,game dev:senior,16d
+VolumeFi,https://web3.career/full-stack-engineer-volume-finance/25655,Remote,Full Stack Engineer,$70k - $200k,dev:full stack:remote:solana:ethereum,16d
+GSR,https://web3.career/trading-operations-associate-gsr/25654,"Singapore,
+Singapore",Trading Operations - Associate,$60k - $200k,operations,16d
+GSR,https://web3.career/trading-operations-associate-gsr/25651,"New York,
+United States",Trading Operations - Associate,$60k - $200k,operations,16d
+Bitfury,https://web3.career/group-financial-reporting-manager-remote-bitfury/25650,"Tbilisi,
+Georgia",Group Financial Reporting Manager (Remote),$40k - $100k,remote:finance,16d
+Bitfury,https://web3.career/group-financial-reporting-manager-remote-bitfury/25649,"London,
+United Kingdom",Group Financial Reporting Manager (Remote),$40k - $100k,remote:finance,16d
+Paradigm,https://web3.career/policy-associate-paradigm-xyz/25648,"San Francisco,
+United States",Policy Associate,$50k - $158k,,16d

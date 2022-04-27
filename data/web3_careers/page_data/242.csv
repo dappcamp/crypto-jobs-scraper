@@ -1,36 +1,60 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Next Big Thing AG,https://web3.career/full-stack-engineer-m-f-x-nextbigthing/16386,Full Stack Engineer (m/f/x),$70k - $200k,dev:full stack:remote,4mo
-Binance,https://web3.career/marketing-operations-manager-binance-gift-card-binance/16385,"Marketing Operations Manager, Binance Gift Card",,marketing:non tech:operations:remote,4mo
-Acronis,https://web3.career/senior-python-developer-cloud-integrations-3610350-senior-python-developer-cloud-integrations/16384,Senior Python Developer (Cloud Integrations),,cloud:dev:python:senior:php,4mo
-Binance,https://web3.career/marketing-business-development-manager-asia-binance/16383,Marketing/Business Development Manager -Asia,$100k - $200k,sales:non tech:marketing:remote,4mo
-IOVLabs,https://web3.career/events-coordinator-iovlabs/16382,Events Coordinator,$56k - $160k,remote,4mo
-Neon Labs,https://web3.career/senior-c-or-rust-developer-neon-labs/16381,Senior C++ or Rust Developer,$100k - $150k,c:c plus plus:dev:rust:senior,4mo
-Neon Labs,https://web3.career/senior-solidity-developer-neon-labs/16380,Senior Solidity Developer,$80k - $200k,dev:senior:solidity:remote:solana,4mo
-Neon Labs,https://web3.career/community-manager-neon-labs/16379,Community Manager,$40k - $101k,community manager:non tech:remote:solana:ethereum,4mo
-Neon Labs,https://web3.career/technical-writer-neon-labs/16378,Technical Writer,,analyst:remote:solana:ethereum,4mo
-Neon Labs,https://web3.career/talent-manager-neon-labs/16377,Talent Manager,,recruiter:non tech:remote:solana,4mo
-Parity Technologies,https://web3.career/translations-manager-spanish-latam-m-f-d-parity/16376,Translations Manager (Spanish LATAM) (m/f/d),$56k - $160k,remote,4mo
-Ledger,https://web3.career/senior-fp-a-analyst-corporate-functions-ledger/16374,Senior FP&A Analyst - Corporate Functions,$150k - $185k,analyst:senior,4mo
-CoinGecko,https://web3.career/mid-level-mobile-engineer-l2-coin-gecko/16373,Mid-Level Mobile Engineer (L2),$65k - $180k,dev:mobile:remote:react:react native,4mo
-CoinGecko,https://web3.career/junior-mobile-engineer-l1-coin-gecko/16372,Junior Mobile Engineer (L1),$45k - $180k,dev:junior:entry level:mobile:remote,4mo
-OKEx,https://web3.career/senior-product-manager-prime-service-okex/16371,(Senior) Product Manager - Prime service,$80k - $150k,product manager:non tech:senior,4mo
-Crypto.com,https://web3.career/automation-qa-engineer-blockchain-team-global-fintech-startup-crypto-com/16370,"Automation QA Engineer, Blockchain Team - Global Fintech Startup",,dev:finance:quality assurance:blockchain:solidity,4mo
-FPT Deutschland GmbH,https://web3.career/service-delivery-manager-3640434-service-delivery-manager-utm_source-google_jobs_apply-pid-bce1fbd2f366390046fc/16369,Service Delivery Manager,$70k - $300k,dev:executive,4mo
-Northern Data,https://web3.career/strategy-manager-m-f-d-3573933-strategy-manager-m-f-d/16368,Strategy Manager (m/f/d),$56k - $160k,remote,4mo
-Binance,https://web3.career/business-development-manager-latin-america-binance/16367,Business Development Manager -Latin America,$29k - $108k,sales:non tech:remote,4mo
-CoinGecko,https://web3.career/mid-level-software-engineer-l2-coin-gecko/16366,Mid-level Software Engineer (L2),$50k - $150k,dev:remote:react:solidity:javascript,4mo
-Nifty's Inc.,https://web3.career/editorial-marketing-manager-niftysinc/16365,Editorial Marketing Manager,$55k - $140k,marketing:non tech:nft,4mo
-Nifty's Inc.,https://web3.career/brand-manager-niftysinc/16364,Brand Manager,$55k - $140k,marketing:non tech:nft,4mo
-Alumni Ventures Group,https://web3.career/principal-blockchain-fund-alumni-ventures-group-1/16362,"Principal, Blockchain Fund",$46k - $200k,executive:blockchain,4mo
-Tribal Credit,https://web3.career/crypto-content-writer-tribalcredit/16361,Crypto Content Writer,$62k - $45k,copywriting:crypto,4mo
-Binance,https://web3.career/senior-front-end-engineer-binance/16360,Senior Front-end Engineer,$70k - $190k,dev:front end:senior,4mo
-Binance,https://web3.career/senior-pr-associate-apac-binance/16359,Senior PR Associate - APAC,$46k - $109k,marketing:non tech:senior,4mo
-Immutable,https://web3.career/senior-talent-acquisition-partner-executive-immutable/16358,Senior Talent Acquisition Partner (Executive),,executive:senior:recruiter:non tech:ethereum,4mo
-Immutable,https://web3.career/senior-talent-acquisition-partner-executive-immutable/16357,Senior Talent Acquisition Partner (Executive),,executive:senior:recruiter:non tech:ethereum,4mo
-Alumni Ventures Group,https://web3.career/principal-blockchain-fund-alumni-ventures-group-1/16356,"Principal, Blockchain Fund",$46k - $200k,executive:blockchain,4mo
-Binance,https://web3.career/senior-employment-legal-counsel-binance/16354,Senior Employment Legal Counsel,,legal:senior,4mo
-Consensys,https://web3.career/ux-researcher-consensys/16353,UX Researcher,$50k - $135k,design:non tech:remote:ethereum,4mo
-Consensys,https://web3.career/senior-product-manager-defi-fintech-developer-experience-consensys/16352,Senior Product Manager - DeFi + Fintech Developer Experience,,dev:finance:product manager:non tech:senior,4mo
-Consensys,https://web3.career/senior-mobile-web3-engineer-consensys/16351,Senior Mobile/Web3 Engineer,$120k - $200k,dev:mobile:senior:remote:react,4mo
-Consensys,https://web3.career/executive-assistant-international-team-consensys/16350,Executive Assistant (International Team),$79k - $158k,executive:ethereum,4mo
-Crypto.com,https://web3.career/blockchain-security-engineer-mobile-ireland-crypto-com/16349,Blockchain Security Engineer - Mobile (Ireland),,dev:mobile:security:blockchain:react,4mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Binance,https://web3.career/social-media-specialist-tiktok-binance/17066,Remote,Social Media Specialist (TikTok),$35k - $110k,social media:non tech:remote,3mo
+Binance,https://web3.career/content-creator-brazil-binance/17065,"Sao Paulo,
+Brazil",Content Creator - Brazil,,,3mo
+CoinFlip,https://web3.career/vp-international-development-coinflip/17063,"Chicago,
+United States","VP, International Development",$70k - $180k,executive,3mo
+Telcoin,https://web3.career/managing-consultant-telcoin/17062,"London,
+United Kingdom",Managing Consultant,$80k - $200k,consulting,3mo
+Chainalysis,https://web3.career/hr-generalist-chainalysis/17061,"London,
+United Kingdom",HR Generalist,$60k - $150k,hr:non tech,3mo
+CANDY,https://web3.career/quality-assurance-specialist-candy/17060,"New York,
+United States",Quality Assurance Specialist,,,3mo
+Finoa GmbH,https://web3.career/frontend-developer-m-f-div-germany-portugal-finoa/17059,"Berlin,
+Germany",Frontend Developer (m/f/div) Germany / Portugal,$22k - $120k,dev:front end:remote:react:javascript,3mo
+IOVLabs,https://web3.career/cloud-security-engineer-iovlabs/17058,Remote,Cloud Security Engineer,,cloud:dev:security:remote,3mo
+GSR,https://web3.career/risk-quant-analyst-hft-model-risk-associate-gsr/17057,"London,
+United Kingdom","Risk Quant Analyst (HFT/Model Risk), Associate",$40k - $120k,analyst,3mo
+GSR,https://web3.career/risk-quant-analyst-hft-model-risk-associate-gsr/17056,"Zug,
+Switzerland","Risk Quant Analyst (HFT/Model Risk), Associate",$40k - $120k,analyst,3mo
+GSR,https://web3.career/risk-quant-analyst-hft-model-risk-associate-gsr/17055,"New York,
+United States","Risk Quant Analyst (HFT/Model Risk), Associate",$40k - $120k,analyst,3mo
+GSR,https://web3.career/defi-risk-officer-vice-president-gsr/17054,"Zug,
+Switzerland","DeFi Risk Officer, Vice President",$70k - $160k,defi,3mo
+GSR,https://web3.career/defi-risk-officer-vice-president-gsr/17053,"London,
+United Kingdom","DeFi Risk Officer, Vice President",$70k - $160k,defi,3mo
+GSR,https://web3.career/defi-risk-officer-vice-president-gsr/17052,"New York,
+United States","DeFi Risk Officer, Vice President",$70k - $160k,defi,3mo
+Qubit9 GmbH,https://web3.career/vp-blockchain-qubit9/17051,"Hamburg,
+Germany",VP Blockchain,$46k - $200k,executive:blockchain,3mo
+HQ Digital,https://web3.career/program-manager-hqdigital/17049,"New York,
+United States",Program Manager,$70k - $180k,executive,3mo
+Brave,https://web3.career/social-media-manager-brave/17048,"San Francisco,
+United States",Social Media Manager,$33k - $85k,social media:non tech,3mo
+Mintable,https://web3.career/performance-marketer-crypto-blockchain-and-nfts-mintable/17047,"Singapore,
+Singapore","Performance Marketer (Crypto, Blockchain, and NFTs)",$52k - $70k,marketing:non tech:blockchain:crypto:nft,3mo
+peaq,https://web3.career/creative-director-m-w-d-3634322-creative-director-m-w-d-remote-utm_source-google_jobs_apply-pid-bce1fbd2f366390046fc/17046,Remote,Creative Director (m/w/d),$79k - $200k,executive:remote,3mo
+Caiz Holding AG,https://web3.career/unix-linux-system-administrator-3689080-unix-linux-system-administrator/17044,"Frankfurt,
+Germany",UNIX/LINUX System Administrator,,linux:sys admin:remote,3mo
+GSR,https://web3.career/senior-software-engineer-vice-president-risk-singapore-gsr/17043,"Singapore,
+Singapore",Senior Software Engineer - Vice President - Risk - Singapore,$80k - $200k,dev:senior,3mo
+Coinsquare,https://web3.career/detection-engineer-coinsquare/17042,"Toronto,
+Canada",Detection Engineer,$60k - $158k,dev:ethereum,3mo
+Parity Technologies,https://web3.career/release-automation-engineer-parity/17037,"Berlin,
+Germany",Release Automation Engineer,$70k - $180k,dev:remote:rust,3mo
+Nonceblox,https://web3.career/technical-lead-full-stack-and-blockchain-nonceblox-tech/17034,India,Technical Lead - Full Stack and Blockchain,$78k - $15k,full stack:lead:tech lead:blockchain:react,3mo
+Polygon,https://web3.career/sfhalfha-polygon/17032,Remote,sfhalfha,$60k - $145k,remote:ethereum,3mo
+Stripe,https://web3.career/backend-api-engineer-crypto-stripe/17031,Remote,Backend API Engineer Crypto,,api:backend:dev:crypto:remote,3mo
+Bitfinex,https://web3.career/project-manager-remote-ireland-bitfinex/17030,"Dublin,
+Ireland",Project Manager (Remote Ireland),$56k - $150k,remote:project manager:non tech,3mo
+Polygon,https://web3.career/program-manager-polygon/17029,Remote,Program Manager,$79k - $158k,executive:remote:ethereum,3mo
+Ripple,https://web3.career/institutional-markets-team-coordinator-ripple/17028,"London,
+United Kingdom",Institutional Markets Team Coordinator,,,3mo
+actus ag Steuerberatung,https://web3.career/software-engineer-3692840-software-engineer/17025,Remote,Software Engineer,$35k - $180k,dev:java:remote,3mo
+SwissBorg,https://web3.career/french-senior-kyc-analyst-remote-in-estonia-swissborg/17024,Remote,French Senior KYC Analyst (Remote in Estonia),,kyc:remote:analyst:senior,3mo
+Galaxy Digital Services,https://web3.career/director-vice-president-finance-galaxydigitalservices/17022,Remote,"Director / Vice President, Finance",$40k - $225k,executive:finance:remote,3mo
+SwissBorg,https://web3.career/french-senior-kyc-analyst-remote-in-portugal-swissborg/17021,"Porto,
+Portugal",French Senior KYC Analyst (Remote in Portugal),,kyc:remote:analyst:senior,3mo
+SORAMITSU,https://web3.career/substrate-runtime-developer-soramitsu/17020,Remote,Substrate runtime Developer,$65k - $180k,remote:dev,3mo
+Coinme,https://web3.career/business-development-analyst-coinme/17019,"Seattle,
+United States",Business Development Analyst,,analyst:sales:non tech,3mo

@@ -1,36 +1,69 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-3Box Labs,https://web3.career/finance-and-operations-lead-3box/9060,Finance and Operations Lead,,finance:lead:operations:remote,5mo
-3Box Labs,https://web3.career/partner-engineer-3box/9059,Partner Engineer,$65k - $180k,dev:remote,5mo
-3Box Labs,https://web3.career/marketing-lead-3box/9058,Marketing Lead,$50k - $120k,lead:marketing:non tech:remote,5mo
-3Box Labs,https://web3.career/community-lead-3box/9057,Community Lead,$40k - $65k,community manager:non tech:lead:remote,5mo
-3Box Labs,https://web3.career/general-application-3box/9056,General Application,$56k - $160k,remote,5mo
-3Box Labs,https://web3.career/cloud-engineer-3box/9055,Cloud Engineer,,cloud:dev:remote,5mo
-11:FS,https://web3.career/senior-sales-exec-pulse-11fs/9054,Senior Sales Exec - Pulse,$50k - $150k,sales:non tech:senior,5mo
-11:FS,https://web3.career/sales-manager-pulse-11fs/9053,Sales Manager - Pulse,$26k - $140k,sales:non tech,5mo
-11:FS,https://web3.career/lead-product-designer-pulse-11fs/9052,Lead Product Designer (Pulse),$40k - $190k,design:non tech:lead,5mo
-11:FS,https://web3.career/associate-ux-research-analyst-11fs/9051,Associate UX Research Analyst,,analyst:design:non tech,5mo
-11:FS,https://web3.career/senior-talent-partner-product-and-design-11fs/9050,Senior Talent Partner (Product and Design),$60k - $120k,design:non tech:senior:recruiter,5mo
-11:FS,https://web3.career/senior-talent-partner-consulting-and-fintech-11fs/9049,Senior Talent Partner - Consulting and FinTech,,consulting:finance:senior:recruiter:non tech,5mo
-11:FS,https://web3.career/product-manager-11fs/9048,Product Manager,$69k - $160k,product manager:non tech,5mo
-11:FS,https://web3.career/strategy-director-data-analytics-11fs/9047,"Strategy Director, Data & Analytics",$50k - $130k,stats:executive,5mo
-11:FS,https://web3.career/strategy-director-corporate-ventures-11fs/9046,"Strategy Director, Corporate Ventures",$70k - $180k,executive,5mo
-11:FS,https://web3.career/strategy-director-business-design-11fs/9045,"Strategy Director, Business Design",,design:non tech:executive,5mo
-11:FS,https://web3.career/strategy-director-integration-architecture-11fs/9044,Strategy Director - Integration Architecture,$70k - $180k,executive,5mo
-11:FS,https://web3.career/strategy-director-embedded-finance-and-baas-11fs/9043,Strategy Director - Embedded Finance and BaaS,,executive:embedded:finance,5mo
-11:FS,https://web3.career/senior-product-designer-11fs/9042,Senior Product Designer,$60k - $120k,design:non tech:senior,5mo
-11:FS,https://web3.career/senior-platform-engineer-11fs/9041,Senior Platform Engineer,$85k - $200k,dev:senior:remote,5mo
-11:FS,https://web3.career/senior-manager-consulting-11fs/9040,"Senior Manager, Consulting",,consulting:senior,5mo
-11:FS,https://web3.career/senior-competitor-strategist-11fs/9039,Senior Competitor Strategist,$78k - $200k,senior,5mo
-11:FS,https://web3.career/product-manager-11fs/9038,Product Manager,$69k - $160k,product manager:non tech,5mo
-11:FS,https://web3.career/product-director-11fs/9037,Product Director,$70k - $180k,executive,5mo
-11:FS,https://web3.career/frontend-engineer-react-react-native-11fs/9036,Frontend Engineer (React/React Native),$115k - $120k,dev:front end:react native:mobile:javascript,5mo
-11:FS,https://web3.career/director-consulting-11fs/9035,"Director, Consulting",,consulting:executive,5mo
-11:FS,https://web3.career/customer-strategy-associate-11fs/9034,Customer Strategy Associate,,,5mo
-11:FS,https://web3.career/contract-frontend-engineer-11fs/9033,Contract - Frontend Engineer,$50k - $150k,dev:front end,5mo
-11:FS,https://web3.career/associate-delivery-manager-11fs/9032,Associate Delivery Manager,$70k - $300k,dev:executive,5mo
-Sifchain,https://web3.career/senior-engineer-8211-blockchain-market-maker-sifchain/9031,Senior Engineer &#8211; Blockchain Market Maker,$80k - $200k,dev:senior:blockchain,5mo
-IOVLabs,https://web3.career/head-of-devops-iovlabs/9009,Head of DevOps,,executive:devops:java:remote,5mo
-Public,https://web3.career/senior-manager-of-machine-learning-public/9007,Senior Manager of Machine Learning,,machine learning:senior,5mo
-Careers at Paxful,https://web3.career/technical-product-manager-paxoffice-paxful/9003,Technical Product Manager - PaxOffice,$69k - $160k,product manager:non tech,5mo
-Galaxy Digital Services,https://web3.career/people-business-partner-technology-galaxydigitalservices/9002,"People Business Partner, Technology",,,5mo
-OKEx,https://web3.career/frontend-developer-exchange-platform-okex/9001,Frontend Developer - Exchange Platform,$50k - $144k,dev:front end:react:javascript:vue,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+GSR,https://web3.career/quantitative-trader-new-york-sgp-or-london-gsr/9546,"New York,
+United States",Quantitative Trader - New York/SGP or London,$31k - $37k,trader,6mo
+GSR,https://web3.career/quantitative-trader-london-thursday-to-sunday-gsr/9545,"London,
+United Kingdom",Quantitative Trader - London (Thursday to Sunday),$31k - $37k,trader,6mo
+GSR,https://web3.career/front-office-quantitative-analyst-derivatives-associate-gsr/9544,"London,
+United Kingdom","Front Office Quantitative Analyst (Derivatives), Associate",$40k - $120k,analyst,6mo
+GSR,https://web3.career/product-lead-defi-gsr/9543,"San Francisco,
+United States","Product Lead, DeFi",$80k - $160k,lead:defi,6mo
+GSR,https://web3.career/venture-capital-analyst-gsr/9542,Remote,Venture Capital Analyst,,analyst:finance:remote,6mo
+GSR,https://web3.career/venture-capital-analyst-gsr/9541,"Los Angeles,
+United States",Venture Capital Analyst,,analyst:finance,6mo
+GSR,https://web3.career/venture-capital-analyst-gsr/9540,"New York,
+United States",Venture Capital Analyst,,analyst:finance,6mo
+GSR,https://web3.career/m-a-and-investment-analyst-gsr/9539,"London,
+United Kingdom",M&A and Investment Analyst,,analyst:finance,6mo
+GSR,https://web3.career/software-engineering-manager-blockchain-us-gsr/9538,Remote,Software Engineering Manager - Blockchain (US),$50k - $300k,executive:dev:blockchain:remote,6mo
+GSR,https://web3.career/software-engineering-manager-blockchain-us-gsr/9537,"New York,
+United States",Software Engineering Manager - Blockchain (US),$50k - $300k,executive:dev:blockchain,6mo
+GSR,https://web3.career/software-engineering-manager-blockchain-us-gsr/9536,"Los Angeles,
+United States",Software Engineering Manager - Blockchain (US),$50k - $300k,executive:dev:blockchain,6mo
+GSR,https://web3.career/software-engineering-manager-blockchain-eu-gsr/9535,"London,
+United Kingdom",Software Engineering Manager - Blockchain (EU),$50k - $300k,executive:dev:blockchain,6mo
+GSR,https://web3.career/software-engineer-senior-software-engineer-associate-vp-gsr/9534,"Zug,
+Switzerland","Software Engineer / Senior Software Engineer, Associate / VP",$60k - $250k,dev:senior:executive,6mo
+GSR,https://web3.career/software-engineer-senior-software-engineer-associate-vp-gsr/9533,"Malaga,
+Spain","Software Engineer / Senior Software Engineer, Associate / VP",$60k - $250k,dev:senior:executive,6mo
+GSR,https://web3.career/software-engineer-senior-software-engineer-risk-new-york-gsr/9532,"New York,
+United States",Software Engineer / Senior Software Engineer - Risk - New York,$80k - $200k,dev:senior,6mo
+GSR,https://web3.career/software-engineer-senior-associate-vp-singapore-gsr/9531,"Singapore,
+Singapore",Software Engineer - Senior Associate/VP - Singapore,$60k - $250k,dev:senior:executive,6mo
+GSR,https://web3.career/software-engineer-senior-associate-vp-london-gsr/9530,"London,
+United Kingdom",Software Engineer - Senior Associate/VP - London,$60k - $250k,dev:senior:executive,6mo
+GSR,https://web3.career/smart-contract-engineer-solidity-new-york-gsr/9529,"New York,
+United States",Smart Contract Engineer (Solidity) - New York,$72k - $200k,dev:smart contract:solidity,6mo
+GSR,https://web3.career/senior-software-engineer-connectivity-senior-associate-vp-singapore-gsr/9528,"Singapore,
+Singapore","Senior Software Engineer, Connectivity - Senior Associate/VP - Singapore",$60k - $250k,dev:senior:executive,6mo
+GSR,https://web3.career/senior-software-engineer-connectivity-senior-associate-vp-new-york-gsr/9527,"New York,
+United States","Senior Software Engineer, Connectivity - Senior Associate/VP - New York",$60k - $250k,dev:senior:executive,6mo
+GSR,https://web3.career/qa-test-engineer-associate-senior-associate-overwatch-gsr/9526,"London,
+United Kingdom","QA Test Engineer, Associate/Senior Associate - Overwatch",$30k - $50k,dev:quality assurance:senior,6mo
+GSR,https://web3.career/defi-full-stack-engineer-gsr/9525,"New York,
+United States",DeFi - Full Stack Engineer,$93k - $150k,dev:full stack:defi,6mo
+GSR,https://web3.career/defi-full-stack-engineer-gsr/9524,"London,
+United Kingdom",DeFi - Full Stack Engineer,$93k - $150k,dev:full stack:defi,6mo
+GSR,https://web3.career/blockchain-infrastructure-reliability-engineer-gsr/9523,"London,
+United Kingdom",Blockchain Infrastructure / Reliability Engineer,,dev:sys admin:blockchain,6mo
+GSR,https://web3.career/technical-project-manager-vice-president-gsr/9522,"Singapore,
+Singapore","Technical Project Manager, Vice President",$50k - $150k,project manager:non tech,6mo
+GSR,https://web3.career/project-manager-vice-president-associate-gsr/9521,"London,
+United Kingdom","Project Manager, Vice President / Associate",$50k - $150k,project manager:non tech,6mo
+GSR,https://web3.career/project-manager-vice-president-associate-gsr/9520,"New York,
+United States","Project Manager, Vice President / Associate",$50k - $150k,project manager:non tech,6mo
+GSR,https://web3.career/application-support-site-reliability-engineer-risk-associate-senior-associate-singapore-gsr/9519,"Singapore,
+Singapore",Application Support/Site Reliability Engineer - Risk - Associate/Senior Associate - Singapore,$150k - $200k,dev:sys admin:senior:customer support,6mo
+GSR,https://web3.career/application-support-site-reliability-engineer-risk-associate-senior-associate-new-york-gsr/9518,"New York,
+United States",Application Support/Site Reliability Engineer - Risk - Associate/Senior Associate - New York,$150k - $200k,dev:sys admin:senior:customer support,6mo
+GSR,https://web3.career/application-support-site-reliability-engineer-risk-associate-senior-associate-london-gsr/9517,"London,
+United Kingdom",Application Support/Site Reliability Engineer - Risk - Associate/Senior Associate - London,$150k - $200k,dev:sys admin:senior:customer support,6mo
+GSR,https://web3.career/application-support-site-reliability-engineer-data-integrity-associate-senior-associate-singapore-gsr/9516,"Singapore,
+Singapore",Application Support/Site Reliability Engineer - Data Integrity - Associate/Senior Associate - Singapore,$150k - $200k,dev:sys admin:senior:customer support,6mo
+GSR,https://web3.career/application-support-site-reliability-engineer-data-integrity-associate-senior-associate-london-gsr/9515,"London,
+United Kingdom",Application Support/Site Reliability Engineer - Data Integrity - Associate/Senior Associate - London,$150k - $200k,dev:sys admin:senior:customer support,6mo
+GSR,https://web3.career/senior-support-engineer-associate-senior-associate-gsr/9514,"Singapore,
+Singapore","Senior Support Engineer, Associate/Senior Associate",,dev:senior:customer support,6mo
+GSR,https://web3.career/jira-confluence-systems-architect-administrator-senior-associate-london-gsr/9513,"London,
+United Kingdom",Jira & Confluence Systems Architect/Administrator - Senior Associate - London,$80k,architecture:senior,6mo
+GSR,https://web3.career/chief-information-security-officer-cryptocurrency-blockchain-usa-gsr/9512,"New York,
+United States",Chief Information Security Officer - Cryptocurrency - Blockchain - USA,,executive:security:blockchain:crypto,6mo

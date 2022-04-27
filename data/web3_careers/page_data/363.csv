@@ -1,36 +1,56 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Okcoin,https://web3.career/sr-manager-risk-portfolio-okcoin/10607,"Sr. Manager, Risk Portfolio",$50k - $150k,finance:senior,5mo
-Okcoin,https://web3.career/risk-generalist-okcoin/10606,Risk Generalist,,,5mo
-Okcoin,https://web3.career/data-analyst-finance-compliance-okcoin/10605,"Data Analyst, Finance & Compliance",,compliance:analyst:data science:finance,5mo
-Okcoin,https://web3.career/analyst-risk-strategy-okcoin/10604,Analyst - Risk Strategy,$40k - $120k,analyst,5mo
-Okcoin,https://web3.career/analyst-learning-development-and-quality-assurance-okcoin/10603,"Analyst, Learning Development and Quality Assurance",$40k - $120k,analyst,5mo
-Okcoin,https://web3.career/institutional-business-development-manager-london-okcoin/10602,Institutional Business Development Manager - London,$26k - $140k,sales:non tech,5mo
-Okcoin,https://web3.career/institutional-business-development-manager-okcoin/10601,Institutional Business Development Manager,$26k - $140k,sales:non tech,5mo
-Okcoin,https://web3.career/head-of-sales-australia-okcoin/10600,Head of Sales - Australia,$40k - $150k,executive:sales:non tech,5mo
-nft42,https://web3.career/senior-software-engineer-saas-nft42/10599,Senior Software Engineer (SaaS),,dev:saas:senior:ethereum:nft,5mo
-nft42,https://web3.career/devops-engineer-nft42/10598,DevOps Engineer,$95k - $145k,devops:dev:ethereum:nft:remote,5mo
-nft42,https://web3.career/customer-service-representative-nft42/10597,Customer Service Representative,,customer support:nft:remote,5mo
-NEAR,https://web3.career/product-manager-ecosystem-experience-near/10596,Product Manager: Ecosystem Experience,$115k - $175k,product manager:non tech:remote,5mo
-NEAR,https://web3.career/head-of-product-near/10595,Head of Product,$135k - $170k,executive:product manager:non tech:remote,5mo
-NEAR,https://web3.career/portfolio-operations-manager-near/10594,Portfolio Operations Manager,$55k - $200k,finance:operations,5mo
-NEAR,https://web3.career/grants-program-technical-reviewer-near/10593,Grants Program Technical Reviewer,,,5mo
-NEAR,https://web3.career/software-engineer-full-stack-dev-rel-near/10592,"Software Engineer, Full Stack / Dev Rel (全栈开发工程师)",$108k - $220k,dev:full stack:rust,5mo
-NEAR,https://web3.career/software-engineer-developer-platform-near/10591,"Software Engineer, Developer Platform",$60k - $120k,dev:web3js:ethereum:javascript:rust,5mo
-NEAR,https://web3.career/site-reliability-engineer-production-engineer-near/10590,Site Reliability Engineer / Production Engineer,$150k - $200k,dev:sys admin:rust,5mo
-NEAR,https://web3.career/senior-engineer-full-stack-nodejs-wallet-near/10589,"Senior Engineer, Full-stack - NodeJS / Wallet",$65k - $180k,dev:full stack:javascript:node:senior,5mo
-NEAR,https://web3.career/senior-engineer-full-stack-developer-relations-near/10588,"Senior Engineer, Full Stack / Developer Relations",,customer support:dev:full stack:senior:web3js,5mo
-NEAR,https://web3.career/infrastructure-engineering-manager-near/10587,Infrastructure Engineering Manager,,executive:rust,5mo
-NEAR,https://web3.career/front-end-engineer-developer-console-near/10586,"Front-End Engineer, Developer Console",$50k - $144k,dev:front end:react:javascript:nextjs,5mo
-NEAR,https://web3.career/engineering-manager-node-experience-near/10585,"Engineering Manager, Node Experience",$200k - $400k,executive:javascript:node,5mo
-NEAR,https://web3.career/engineering-manager-developer-console-near/10584,"Engineering Manager, Developer Console",$70k - $300k,executive:dev,5mo
-NEAR,https://web3.career/engineering-manager-core-tools-near/10583,"Engineering Manager, Core Tools",,executive:javascript:rust,5mo
-NEAR,https://web3.career/engineering-manager-contract-runtime-near/10582,"Engineering Manager, Contract Runtime",,executive:ethereum:rust,5mo
-NEAR,https://web3.career/engineer-contract-runtime-near/10581,"Engineer, Contract Runtime",$75k - $190k,dev:rust,5mo
-NEAR,https://web3.career/core-engineer-near/10580,Core Engineer,$70k - $180k,dev:rust:remote,5mo
-NEAR,https://web3.career/technical-writer-education-near/10579,Technical Writer - Education,,education:analyst,5mo
-NEAR,https://web3.career/software-engineer-education-near/10578,Software Engineer - Education,,education:dev:solana:ethereum:javascript,5mo
-NEAR,https://web3.career/project-manager-near/10577,Project Manager,$50k - $150k,project manager:non tech,5mo
-NEAR,https://web3.career/instructor-education-near/10576,"Instructor, Education",,education:teaching,5mo
-NEAR,https://web3.career/head-of-developer-relations-near/10575,Head of Developer Relations,,executive:customer support:dev,5mo
-NEAR,https://web3.career/director-of-investments-owc-near/10574,Director of Investments - OWC,$70k - $180k,executive,5mo
-NEAR,https://web3.career/director-of-finance-owc-near/10573,Director of Finance - OWC,$90k - $200k,executive:finance,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Symbiont,https://web3.career/security-engineer-symbiont/11178,,Security Engineer,$95k - $250k,dev:security,5mo
+Figment,https://web3.career/fp-a-analyst-figment/11177,"Toronto,
+Canada",FP&A Analyst,$40k - $120k,analyst,5mo
+Bitcoin Depot,https://web3.career/product-ops-specialist-bitcoindepot/11176,"Atlanta,
+United States",Product Ops Specialist,$60k - $150k,ethereum,5mo
+Bitcoin Depot,https://web3.career/project-manager-bitcoindepot/11175,"Atlanta,
+United States",Project Manager,$80k - $150k,project manager:non tech:ethereum,5mo
+DeFi Alliance,https://web3.career/cto-remote-defialliance/11174,"Chicago,
+United States",CTO (Remote),$79k - $158k,remote:executive:ethereum:cto,5mo
+DeFi Alliance,https://web3.career/open-application-remote-defialliance/11173,"Chicago,
+United States",Open Application (Remote),$60k - $145k,remote:ethereum,5mo
+Chainlink Labs,https://web3.career/event-manager-chainlink/11172,Remote,Event Manager,,events manager:non tech:remote,5mo
+OKEx,https://web3.career/regional-hr-manager-sr-manager-remote-okex/11170,"Singapore,
+Singapore",Regional HR Manager/Sr. Manager - Remote,$60k - $120k,remote:hr:non tech:senior,5mo
+OKEx,https://web3.career/affiliate-business-development-manager-arabic-eng-remote-okex/11169,"Dubai,
+United Arab Emirates",Affiliate Business Development Manager (Arabic/Eng) - Remote,$25k - $120k,remote:marketing:non tech:sales,5mo
+Okcoin,https://web3.career/ux-researcher-learn-okcoin/11166,"San Francisco,
+United States","UX Researcher, Learn",$50k - $150k,design:non tech,5mo
+Okcoin,https://web3.career/product-designer-design-systems-okcoin/11165,"Sydney,
+Australia","Product Designer, Design Systems",$80k - $135k,design:non tech:react:javascript,5mo
+Okcoin,https://web3.career/product-designer-design-systems-okcoin/11164,"Singapore,
+Singapore","Product Designer, Design Systems",$80k - $135k,design:non tech:react:javascript,5mo
+PowerTrade,https://web3.career/social-media-manager-powertrade/11163,Remote,Social Media Manager,$35k - $110k,social media:non tech:remote,5mo
+Brave,https://web3.career/devops-engineer-brave/11161,"San Francisco,
+United States",DevOps Engineer,$150k - $200k,devops:dev:javascript:ruby:php,5mo
+SeedInvest,https://web3.career/new-grad-software-engineer-backend-seedinvest/11155,"New York,
+United States","New Grad Software Engineer, Backend",$65k - $125k,backend:dev:ethereum:java,5mo
+SeedInvest,https://web3.career/manager-software-engineering-seedinvest/11154,"New York,
+United States","Manager, Software Engineering",$54k - $140k,dev:ethereum:javascript:java,5mo
+Torus Labs,https://web3.career/native-mobile-developer-toruslabs/11153,HQ,Native Mobile Developer,$51k - $109k,dev:mobile:ethereum,5mo
+RociFi,https://web3.career/senior-solidity-engineer-rocifi/11152,Remote,Senior Solidity Engineer,,dev:senior:solidity:node:remote,5mo
+UpGuard,https://web3.career/sales-development-representative-sdr-upguard/11147,Solana Beach,Sales Development Representative (SDR),$26k - $140k,sales:non tech,5mo
+Tuned Systems,https://web3.career/senior-software-engineer-platform-tuned/11146,"San Francisco,
+United States","Senior Software Engineer, Platform",$80k - $200k,dev:senior,5mo
+Tuned Systems,https://web3.career/chief-compliance-officer-cco-tuned/11145,"New York,
+United States",Chief Compliance Officer (CCO),,compliance:executive,5mo
+Okcoin,https://web3.career/senior-manager-risk-rules-okcoin/11144,"San Francisco,
+United States","Senior Manager, Risk Rules",$78k - $200k,senior,5mo
+Okcoin,https://web3.career/manager-risk-rules-okcoin/11143,"San Francisco,
+United States","Manager, Risk Rules",,,5mo
+Okcoin,https://web3.career/manager-fraud-risk-rules-okcoin/11142,"San Francisco,
+United States","Manager, Fraud Risk Rules",$95k - $200k,security,5mo
+Web3 Labs,https://web3.career/java-blockchain-engineer-web3-labs/11141,Remote,Java Blockchain Engineer,$26k - $52k,dev:java:blockchain:solidity:ethereum,5mo
+Blockdaemon,https://web3.career/ux-researcher-blockdaemon/11140,Remote,UX Researcher,$50k - $135k,design:non tech:remote,5mo
+NEAR,https://web3.career/project-manager-funding-team-near/11139,Remote,Project Manager - Funding Team,$56k - $150k,project manager:non tech:remote,5mo
+NEAR,https://web3.career/business-development-consultant-near/11138,Remote,Business Development Consultant,,sales:non tech:consulting:remote,5mo
+Polygon,https://web3.career/fp-a-polygon/11137,India,FP&A,$60k - $150k,ethereum,5mo
+Ledn,https://web3.career/senior-financial-analyst-ledn/11131,"Toronto,
+Canada",Senior Financial Analyst,,analyst:finance:senior,6mo
+Parity Technologies,https://web3.career/director-of-ecosystem-growth-parity/11126,"Berlin,
+Germany",Director of Ecosystem Growth,$70k - $158k,executive:marketing:non tech:remote,6mo
+Immunefi,https://web3.career/ux-ui-designer-immunefi/11125,,UX/UI Designer,$50k - $150k,design:non tech,6mo
+Kraken Digital Asset Exchange,https://web3.career/site-reliability-engineer-trading-technology-kraken/11124,Remote,Site Reliability Engineer - Trading Technology,$150k - $200k,dev:sys admin:remote,6mo
+Binance,https://web3.career/application-architect-binance/11123,South America or North America,Application Architect,$67k - $180k,architecture,6mo
+Binance,https://web3.career/senior-ios-developer-swift-binance/11122,Asia,Senior iOS Developer (Swift),$51k - $109k,dev:ios:mobile:senior:swift,6mo

@@ -1,36 +1,54 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Okcoin,https://web3.career/head-of-people-okcoin/612,Head of People,$70k - $180k,executive,7mo
-Okcoin,https://web3.career/office-and-admin-coordinator-okcoin/611,Office and Admin Coordinator,,,7mo
-Okcoin,https://web3.career/project-manager-okcoin/610,Project Manager,$50k - $150k,project manager:non tech,7mo
-Okcoin,https://web3.career/product-marketing-manager-okcoin/609,Product Marketing Manager,$45k - $130k,marketing:non tech,7mo
-Okcoin,https://web3.career/mobile-lifecycle-marketing-associate-okcoin/608,Mobile Lifecycle Marketing Associate,,marketing:non tech:mobile,7mo
-Okcoin,https://web3.career/lifecycle-marketing-coordinator-okcoin/607,Lifecycle Marketing Coordinator,$45k - $130k,marketing:non tech,7mo
-Okcoin,https://web3.career/growth-marketing-manager-okcoin/606,Growth Marketing Manager,$48k - $120k,marketing:non tech:ethereum,7mo
-Okcoin,https://web3.career/growth-analyst-okcoin/605,Growth Analyst,,analyst:marketing:non tech,7mo
-Okcoin,https://web3.career/events-marketing-manager-okcoin/604,Events Marketing Manager,$45k - $130k,marketing:non tech,7mo
-Okcoin,https://web3.career/email-marketing-associate-okcoin/603,Email Marketing Associate,$45k - $130k,marketing:non tech,7mo
-Okcoin,https://web3.career/copywriter-okcoin/602,Copywriter,$13k - $45k,copywriting,7mo
-Okcoin,https://web3.career/brand-designer-okcoin/601,Brand Designer,,marketing:non tech:design,7mo
-Okcoin,https://web3.career/affiliate-marketing-manager-okcoin/600,Affiliate Marketing Manager,$45k - $130k,marketing:non tech,7mo
-Okcoin,https://web3.career/listings-operations-okcoin/599,Listings Operations,$60k - $200k,operations,7mo
-Okcoin,https://web3.career/listings-data-analyst-okcoin/598,Listings Data Analyst,$36k - $72k,analyst:data science,7mo
-Okcoin,https://web3.career/senior-corporate-counsel-okcoin/597,Senior Corporate Counsel,,legal:senior,7mo
-Okcoin,https://web3.career/it-support-technician-okcoin/596,IT Support Technician,$40k - $80k,customer support,7mo
-Okcoin,https://web3.career/information-technology-manager-okcoin/595,Information Technology Manager,$40k - $80k,customer support,7mo
-Okcoin,https://web3.career/accounts-payable-analyst-okcoin/594,Accounts Payable Analyst,,analyst:finance:accounting,7mo
-Okcoin,https://web3.career/ux-research-operations-coordinator-6-month-contract-okcoin/593,UX Research Operations Coordinator (6 Month Contract),,operations:design:non tech,7mo
-Okcoin,https://web3.career/ux-researcher-learn-okcoin/592,"UX Researcher, Learn",$50k - $150k,design:non tech,7mo
-Okcoin,https://web3.career/ux-researcher-defi-earn-okcoin/591,"UX Researcher, DeFi/Earn",$30k - $135k,design:non tech:defi,7mo
-Okcoin,https://web3.career/quantitative-ux-researcher-customer-lifecycle-okcoin/590,"Quantitative UX Researcher, Customer Lifecycle",$50k - $150k,design:non tech,7mo
-Okcoin,https://web3.career/senior-product-designer-okcoin/589,Senior Product Designer,$60k - $120k,design:non tech:senior,7mo
-Okcoin,https://web3.career/senior-product-designer-okcoin/588,Senior Product Designer,$60k - $120k,design:non tech:senior,7mo
-Okcoin,https://web3.career/senior-product-designer-okcoin/587,Senior Product Designer,$60k - $120k,design:non tech:senior,7mo
-Okcoin,https://web3.career/product-design-manager-okcoin/586,Product Design Manager,,executive:design:non tech,7mo
-Okcoin,https://web3.career/product-design-manager-okcoin/585,Product Design Manager,,executive:design:non tech,7mo
-Okcoin,https://web3.career/product-design-manager-okcoin/584,Product Design Manager,,executive:design:non tech,7mo
-Okcoin,https://web3.career/product-designer-design-systems-okcoin/583,"Product Designer, Design Systems",$80k - $135k,design:non tech:react:javascript,7mo
-Okcoin,https://web3.career/product-designer-design-systems-okcoin/582,"Product Designer, Design Systems",$80k - $135k,design:non tech:react:javascript,7mo
-Okcoin,https://web3.career/product-designer-okcoin/581,Product Designer,$50k - $150k,design:non tech,7mo
-Okcoin,https://web3.career/product-designer-okcoin/580,Product Designer,$50k - $150k,design:non tech,7mo
-Okcoin,https://web3.career/product-designer-okcoin/579,Product Designer,$50k - $150k,design:non tech,7mo
-Okcoin,https://web3.career/design-technologist-product-okcoin/578,"Design Technologist, Product",$80k - $135k,design:non tech:react:javascript:ruby,7mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Gauntlet Networks,https://web3.career/smart-contract-engineer-gauntlet/1162,Remote,Smart Contract Engineer,$80k - $200k,dev:smart contract:remote,7mo
+Zerion,https://web3.career/founders-assistant-zerion/1161,Remote,🤹 Founders' assistant,$56k - $160k,remote,7mo
+"DeFi Technologies, Inc.",https://web3.career/junior-quant-trader-defi-tech/1160,"Zug,
+Switzerland",Junior Quant / Trader,,junior:entry level:trader,7mo
+GSR,https://web3.career/vice-president-of-blockchain-engineering-gsr/1159,"New York,
+United States",Vice President of Blockchain Engineering,$50k - $150k,blockchain,7mo
+GSR,https://web3.career/product-lead-defi-gsr/1158,"New York,
+United States","Product Lead, DeFi",$80k - $160k,lead:defi,7mo
+SwissBorg,https://web3.career/junior-defi-analyst-remote-eu-swissborg/1157,Remote,Junior DeFi analyst - Remote (EU),,remote:analyst:junior:entry level:defi,7mo
+DeFi Alliance,https://web3.career/senior-software-engineer-full-stack-defialliance/1156,"Chicago,
+United States","Senior Software Engineer, Full Stack",$70k - $180k,dev:full stack:senior:ethereum,7mo
+SwissBorg,https://web3.career/remote-software-engineer-ios-swift-swissborg/1151,"Lisbon,
+Portugal","Remote Software Engineer (iOS , Swift)",,remote:dev:ios:mobile:swift,7mo
+SwissBorg,https://web3.career/software-engineer-data-remote-swissborg/1150,"Berlin,
+Germany","Software Engineer, Data (Remote)",$65k - $180k,remote:dev,7mo
+SwissBorg,https://web3.career/financial-controller-swissborg/1149,Luxembourg,Financial Controller,,legal:finance,7mo
+Vauld,https://web3.career/lead-user-interface-designer-vauld/1147,"Bengaluru,
+India",Lead User Interface Designer,$40k - $190k,design:non tech:lead,7mo
+ExPopulus,https://web3.career/video-game-producer-expopulus/1145,"San Francisco,
+United States",Video Game Producer,,game dev:video,7mo
+CoinFlip,https://web3.career/manager-content-marketing-coinflip/1143,"Chicago,
+United States","Manager, Content Marketing",$45k - $130k,marketing:non tech,7mo
+Kraken Digital Asset Exchange,https://web3.career/lead-business-recruiter-kraken/1142,Remote,Lead Business Recruiter,$40k - $70k,lead:recruiter:non tech:remote,7mo
+Bitwise Asset Management,https://web3.career/executive-assistant-bitwiseinvestments/1141,"New York,
+United States",Executive Assistant,$70k - $180k,executive,7mo
+Kraken Digital Asset Exchange,https://web3.career/staff-software-engineer-crypto-custody-kraken/1140,Remote,"Staff Software Engineer, Crypto Custody",$90k - $250k,dev:crypto:remote,7mo
+BlockSwap,https://web3.career/ui-ux-designer-blockswap/1139,Remote,UI/UX Designer,$60k - $150k,design:non tech:nft:remote,7mo
+Torus Labs,https://web3.career/back-end-developer-blockchain-toruslabs/1136,HQ,Back-End Developer (BlockChain),$60k - $180k,backend:dev:blockchain:ethereum:java,7mo
+Figure,https://web3.career/operations-manager-originations-figure/1131,United States,"Operations Manager, Originations",$60k - $200k,operations,7mo
+BitMEX,https://web3.career/senior-compliance-officer-fcc-bitmex/1129,"Singapore,
+Singapore","Senior Compliance Officer, FCC",,compliance:senior,7mo
+BitMEX,https://web3.career/it-support-engineer-tier-2-bitmex/1128,"Hong Kong,
+Hong Kong",IT Support Engineer (Tier 2),$90k - $140k,dev:customer support,7mo
+BitMEX,https://web3.career/senior-software-engineer-digital-and-creative-bitmex/1127,"Hong Kong,
+Hong Kong",Senior Software Engineer - Digital and Creative,$70k - $180k,dev:senior:react,7mo
+BitMEX,https://web3.career/senior-communications-manager-bitmex/1125,"Vancouver,
+Canada",Senior Communications Manager,$46k - $109k,marketing:non tech:senior,7mo
+Coinme,https://web3.career/senior-java-software-engineer-payments-remote-coinme/1120,"Seattle,
+United States",Senior Java Software Engineer - Payments (Remote),$35k - $180k,remote:dev:java:senior:golang,7mo
+Amun 21Shares,https://web3.career/marketing-coordinator-tokens-amun/1118,"New York,
+United States","Marketing Coordinator, Tokens",$45k - $130k,marketing:non tech,7mo
+Ethereum,https://web3.career/people-operations-lead-ethereum/1111,Remote,People Operations Lead,,lead:operations:ethereum:remote,7mo
+Ethereum,https://web3.career/executive-assistant-ethereum/1110,Remote,Executive Assistant,$79k - $158k,executive:ethereum:remote,7mo
+Ethereum,https://web3.career/chief-of-staff-bizops-generalist-ethereum/1109,Remote,Chief of Staff / BizOps Generalist,,executive:recruiter:non tech:ethereum:remote,7mo
+Centurion Group,https://web3.career/representant-televente-service-a-la-clientele-centuriongroup/1108,Lebanon,Représentant télévente/service à la clientèle,,,7mo
+Chilipay Limited,https://web3.career/partnerships-executive-madrid-london-chiliz/1107,"Madrid,
+Spain",Partnerships Executive (Madrid/London),$40k - $150k,sales:non tech:executive,7mo
+Future Africa,https://web3.career/research-associate-futureafricanew/1106,Victoria Island,Research Associate,,,7mo
+Syntropy,https://web3.career/chief-of-staff-syntropynet/1105,Remote,Chief of Staff,,executive:recruiter:non tech:remote,7mo
+JaJa Finance Ltd,https://web3.career/engineering-squad-lead-jajafinance/1104,"London,
+United Kingdom",Engineering Squad Lead,$30k - $180k,lead:java,7mo
+TORA Trading Services Limited,https://web3.career/java-developer-tora/1103,Romania,Java Developer,$33k - $140k,dev:java,7mo
+Syntropy,https://web3.career/it-project-manager-syntropynet/1102,Remote,IT Project Manager,$56k - $150k,project manager:non tech:remote,7mo

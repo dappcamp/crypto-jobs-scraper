@@ -1,36 +1,56 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-CoinList,https://web3.career/onboarding-associate-individual-accounts-coinlist/11104,Onboarding Associate (Individual Accounts),$78k - $180k,solana,5mo
-CoinList,https://web3.career/onboarding-associate-business-accounts-coinlist/11103,Onboarding Associate (Business Accounts),$78k - $180k,solana,5mo
-Stardust Cards Corporation,https://web3.career/product-manager-services-stardust/11102,Product Manager (Services),$115k - $175k,product manager:non tech:remote,5mo
-Stardust Cards Corporation,https://web3.career/lead-data-scientist-stardust/11101,Lead Data Scientist,$50k - $120k,data science:lead:remote,5mo
-Stardust Cards Corporation,https://web3.career/executive-producer-stardust/11100,Executive Producer,$79k - $180k,executive:nft:remote,5mo
-Tron,https://web3.career/social-media-manager-rainberry/11099,Social Media Manager,$33k - $85k,social media:non tech,5mo
-Tron,https://web3.career/seo-specialist-rainberry/11098,SEO Specialist,$13k - $20k,seo:non tech,5mo
-Tron,https://web3.career/partnership-marketing-associate-rainberry/11097,Partnership Marketing Associate,$100k - $200k,sales:non tech:marketing,5mo
-Tron,https://web3.career/multimedia-video-designer-rainberry/11096,Multimedia/Video Designer,,design:non tech:video,5mo
-Tron,https://web3.career/influencer-relations-social-media-specialist-rainberry/11095,Influencer Relations & Social Media Specialist,$33k - $85k,social media:non tech,5mo
-Tron,https://web3.career/events-specialist-rainberry/11094,Events Specialist,,,5mo
-Tron,https://web3.career/director-of-blockchain-strategy-rainberry/11093,Director of Blockchain Strategy,$46k - $200k,executive:blockchain,5mo
-NEAR,https://web3.career/product-designer-near/11092,Product Designer,$50k - $150k,design:non tech,5mo
-CANDY,https://web3.career/senior-data-scientist-candy/11091,Senior Data Scientist,,data science:senior:nft,5mo
-Tron,https://web3.career/marketing-specialist-rainberry/11090,Marketing Specialist,$45k - $130k,marketing:non tech,5mo
-Tron,https://web3.career/content-marketing-associate-rainberry/11089,Content Marketing Associate,$45k - $130k,marketing:non tech,5mo
-Web3 Labs,https://web3.career/senior-blockchain-engineer-web3-labs/11088,Senior Blockchain Engineer,$60k - $70k,dev:senior:blockchain:solidity:java,5mo
-Web3 Labs,https://web3.career/blockchain-developer-web3-labs/11087,Blockchain Developer,$50k - $60k,dev:blockchain:solidity:java:golang,5mo
-Gauntlet Networks,https://web3.career/protocol-program-manager-gauntlet/11086,Protocol Program Manager,$79k - $200k,executive:remote,5mo
-Tron,https://web3.career/senior-full-stack-web-developer-rainberry/11085,Senior Full Stack Web Developer,$70k - $180k,dev:full stack:senior:react:javascript,5mo
-GSR,https://web3.career/site-reliability-engineer-associate-senior-associate-india-gsr/11084,"Site Reliability Engineer, Associate/Senior Associate - India",$150k - $200k,dev:sys admin:senior:remote,5mo
-GSR,https://web3.career/head-of-infrastructure-vp-director-london-gsr/11083,Head of Infrastructure - VP/Director - London,$70k - $180k,executive,5mo
-Async Art,https://web3.career/social-media-marketing-specialist-asyncart/11082,Social Media Marketing Specialist,$28k - $100k,marketing:non tech:social media:nft:remote,5mo
-OpenSea,https://web3.career/trust-and-safety-operations-specialist-opensea/11081,"Trust and Safety Operations, Specialist",$80k - $110k,operations:remote,5mo
-MoonPay,https://web3.career/customer-support-analyst-emea-moonpay/11080,Customer Support Analyst (EMEA),$15k - $95k,analyst:customer support,5mo
-MoonPay,https://web3.career/customer-operations-analyst-latam-moonpay/11079,Customer Operations Analyst (LATAM),,analyst:operations,5mo
-MoonPay,https://web3.career/customer-operations-analyst-apac-moonpay/11078,Customer Operations Analyst (APAC),,analyst:operations,5mo
-Blockdaemon,https://web3.career/project-manager-blockdaemon/11077,Project Manager,$50k - $150k,project manager:non tech,5mo
-11:FS,https://web3.career/graduate-financial-analyst-11fs/11076,Graduate Financial Analyst,$20k - $30k,analyst:intern:entry level:finance,5mo
-Public,https://web3.career/android-engineer-public/11075,Android Engineer,,android:mobile:dev,5mo
-Aave,https://web3.career/security-smart-contract-auditor-aave/11074,Security Smart Contract Auditor,,security:smart contract:solidity:remote,5mo
-Aave,https://web3.career/product-manager-aave/11073,Product Manager,,product manager:non tech:remote,5mo
-Aave,https://web3.career/senior-product-designer-aave/11072,Senior Product Designer,,design:non tech:senior:remote,5mo
-Gemini,https://web3.career/technical-project-manager-gemini/11071,Technical Project Manager,$50k - $150k,project manager:non tech,5mo
-Gemini,https://web3.career/program-manager-prime-services-gemini/11070,"Program Manager, Prime Services",$120k - $150k,accounting:executive,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+SupraOracles,https://web3.career/blockchain-engineer-smart-contract-development-supraoracles/12167,India,Blockchain Engineer (Smart Contract Development),$0k,dev:blockchain:smart contract:solidity:ethereum,5mo
+MetaMask,https://web3.career/sr-blockchain-engineer-smart-contract-dev-tools-metamask/12166,"San Francisco,
+United States",Sr. Blockchain Engineer (Smart Contract Dev Tools),$80k - $200k,dev:senior:blockchain:smart contract:web3js,5mo
+Captur.fi,https://web3.career/senior-smart-contract-engineer-captur-finance/12165,United Kingdom,Senior Smart Contract Engineer,$120k - $180k,dev:senior:smart contract:react:solidity,5mo
+Sismo,https://web3.career/smart-contract-solidity-protocol-engineer-sismo-1/12164,United States,Smart Contract / Solidity / Protocol Engineer,$112k - $180k,dev:smart contract:solidity:ethereum,5mo
+m.guide,https://web3.career/smart-contract-engineer-solana-rust-remote-m-guide/12163,"Austin,
+United States","Smart Contract Engineer (Solana + Rust, Remote)",$0k,remote:dev:rust:smart contract:solana,5mo
+MetaMask,https://web3.career/smart-contract-security-engineer-diligence-metamask/12162,"San Francisco,
+United States",Smart Contract Security Engineer (Diligence),,dev:security:smart contract:solidity:ethereum,5mo
+Fave,https://web3.career/backend-engineer-smart-contracts-fave-2/12161,Switzerland,"Backend Engineer, Smart Contracts",$85k - $135k,backend:dev:smart contract,5mo
+Bit Hotel,https://web3.career/senior-smart-contract-engineer-nft-play-to-earn-game-bit-hotel/12160,United States,Senior Smart Contract Engineer - NFT Play-to-Earn Game,$80k - $150k,dev:game dev:senior:nft:smart contract,5mo
+Synthematic',https://web3.career/smart-contract-developer-synth-ematic/12159,United Kingdom,Smart Contract Developer,$0k,dev:smart contract:solidity:ethereum,5mo
+Celer Network,https://web3.career/software-engineer-smart-contracts-and-dapps-celer-network-2/12158,"Singapore,
+Singapore",Software Engineer - Smart Contracts and dApps,$0k,dev:smart contract:solidity:javascript,5mo
+Junco Films,https://web3.career/smart-contracts-blockchain-developer-uk-only-junco-films-1/12157,United Kingdom,Smart Contracts / Blockchain Developer (UK only),$30k - $90k,dev:blockchain:smart contract:nft,5mo
+Credix,https://web3.career/smart-contract-developer-rust-credix/12156,Brazil,Smart contract developer [RUST],$75k - $150k,dev:rust:smart contract:solana,5mo
+Comity Labs,https://web3.career/software-engineer-protocol-smart-contracts-comity-labs/12155,"New York,
+United States",Software Engineer - Protocol/Smart Contracts,$130k - $200k,dev:smart contract:solidity:rust,5mo
+Ava Labs,https://web3.career/senior-smart-contracts-engineer-avalabs/12154,"San Francisco,
+United States",Senior Smart Contracts Engineer,$120k - $250k,dev:senior:smart contract:react:solidity,5mo
+Kudo Money,https://web3.career/blockchain-developer-smart-contracts-kudo-money/12153,"Singapore,
+Singapore",Blockchain Developer (Smart Contracts),$16k - $80k,dev:blockchain:smart contract:solidity:ethereum,5mo
+Yearn.finance,https://web3.career/smart-contract-engineer-yearn-finance-1/12152,Remote,Smart Contract Engineer,$0k,dev:smart contract:solidity:ethereum:javascript,5mo
+Polychain Monsters,https://web3.career/senior-smart-contract-developer-m-f-o-polychain-monsters/12151,"Hamburg,
+Germany",[Senior-]Smart Contract Developer (m/f/o),$0k,dev:senior:smart contract:solidity:nft,5mo
+Bond180,https://web3.career/ethereum-smart-contracts-developer-bond180/12150,India,Ethereum Smart Contracts Developer,$10k - $40k,dev:smart contract:ethereum,5mo
+Alongside Finance,https://web3.career/smart-contract-engineer-solidity-alongside-finance/12149,"New York,
+United States",Smart Contract Engineer (Solidity),$100k - $150k,dev:smart contract:solidity:react:react native,5mo
+Thesis,https://web3.career/smart-contracts-engineer-tally-thesis-co/12148,"Atlanta,
+United States",Smart Contracts Engineer - Tally,$72k - $200k,dev:smart contract:solidity:javascript,5mo
+Showtime,https://web3.career/senior-smart-contract-engineer-showtime-technologies/12147,United States,Senior Smart Contract Engineer,$120k - $250k,dev:senior:smart contract:solidity:nft,5mo
+Ava Labs,https://web3.career/smart-contracts-engineer-avalabs/12146,"San Francisco,
+United States",Smart Contracts Engineer,$80k - $180k,dev:smart contract:react:solidity:javascript,5mo
+Nayms,https://web3.career/smart-contract-developer-nayms-1/12145,United Kingdom,Smart Contract Developer,$0k,dev:smart contract:solidity,5mo
+HaloDAO,https://web3.career/smart-contract-developer-halodao/12144,"Singapore,
+Singapore",Smart Contract Developer,$0k,dev:smart contract:solidity:dao,5mo
+Brinc Finance,https://web3.career/smart-contract-developer-brinc-finance/12141,"Los Angeles,
+United States",Smart Contract Developer,$120k - $200k,dev:smart contract:solidity:ethereum,5mo
+Ava Labs,https://web3.career/smart-contracts-engineer-avalabs/12140,"New York,
+United States",Smart Contracts Engineer,$80k - $180k,dev:smart contract:react:solidity:javascript,5mo
+QuillHash Technologies,https://web3.career/blockchain-smart-contract-development-intern-quillhash/12139,India,Blockchain Smart Contract Development Intern,$31k - $46k,intern:entry level:blockchain:smart contract:solidity,5mo
+Rigor,https://web3.career/senior-smart-contract-engineer-rigor-4/12138,Remote,Senior Smart Contract Engineer,$250k - $300k,dev:senior:smart contract:solidity:remote,5mo
+Spring Labs,https://web3.career/smart-contract-engineer-spring-labs/12137,"Chicago,
+United States",Smart Contract Engineer,$65k - $180k,dev:smart contract:ethereum,5mo
+Tokn Music,https://web3.career/smart-contract-developer-toknmusic/12136,United States,Smart Contract Developer,$1k - $12k,dev:smart contract:solidity:nft,5mo
+BOLT Global,https://web3.career/smart-contract-developer-bolt-global-1/12135,"Singapore,
+Singapore",Smart Contract Developer,$72k - $200k,dev:smart contract:solidity:ethereum,5mo
+Otis,https://web3.career/senior-smart-contract-engineer-solidity-withotis/12134,"New York,
+United States",Senior Smart Contract Engineer - Solidity,$120k - $250k,dev:senior:smart contract:solidity:ethereum,5mo
+Ondo Finance,https://web3.career/smart-contract-engineer-ondo-finance/12133,"New York,
+United States",Smart Contract Engineer,$140k - $220k,dev:smart contract:react:solidity,5mo
+Chestr Labs,https://web3.career/smart-contract-engineer-solidity-chestr-labs/12132,"Toronto,
+Canada",Smart Contract Engineer (Solidity),$100k - $160k,dev:smart contract:solidity:ethereum:nft,5mo
+BlockSwap network,https://web3.career/smart-contract-engineer-blockswap/12131,"San Francisco,
+United States",Smart Contract Engineer,$140k - $180k,dev:smart contract:solidity:ethereum:nft,5mo

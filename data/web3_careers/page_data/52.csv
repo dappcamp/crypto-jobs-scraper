@@ -1,36 +1,59 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Binance,https://web3.career/complaint-management-manager-binance/24498,Complaint Management Manager,,,22d
-Analog,https://web3.career/product-manager-web3-analog/24497,Product Manager - Web3,$69k - $160k,product manager:non tech,22d
-Chainalysis,https://web3.career/sales-development-representative-australia-chainalysis/24496,"Sales Development Representative, Australia",$26k - $140k,sales:non tech,22d
-Binance,https://web3.career/customer-service-representative-spanish-english-binance/24495,Customer Service Representative (Spanish/English),$40k - $80k,customer support,22d
-Aspire,https://web3.career/business-development-executive-crypto-web3-aspire/24494,Business Development Executive (Crypto/Web3),$40k - $150k,sales:non tech:executive:crypto,22d
-BlockFi,https://web3.career/director-of-content-marketing-blockfi/24492,Director of Content Marketing,$70k - $158k,executive:marketing:non tech,22d
-Daolens,https://web3.career/sales-development-representative-dao-lens/24491,Sales Development Representative,$26k - $140k,sales:non tech,22d
-BlockFi,https://web3.career/associate-us-structuring-blockfi/24488,"Associate, US Structuring",,,22d
-RDX Works,https://web3.career/cyber-security-analyst-rdx-works/24487,Cyber Security Analyst,$60k - $130k,analyst:security,22d
-Okcoin,https://web3.career/team-lead-customer-service-okcoin/24485,"Team Lead, Customer Service",$25k - $35k,customer support:lead,22d
-Okcoin,https://web3.career/escalation-specialist-customer-service-okcoin/24484,Escalation Specialist - Customer Service,$40k - $80k,customer support,22d
-Parallel Finance,https://web3.career/head-of-operations-parallel/24480,Head of Operations,,executive:operations:remote,22d
-Okcoin,https://web3.career/spanish-customer-service-representative-okcoin/24478,Spanish Customer Service Representative,$40k - $80k,customer support,22d
-Okcoin,https://web3.career/portuguese-customer-service-representative-okcoin/24477,Portuguese Customer Service Representative,$40k - $80k,customer support,22d
-Okcoin,https://web3.career/kurdish-customer-service-representative-okcoin/24476,Kurdish Customer Service Representative,$40k - $80k,customer support,22d
-Okcoin,https://web3.career/german-customer-service-representative-okcoin/24475,German Customer Service Representative,$40k - $80k,customer support,22d
-NFT Grails,https://web3.career/nft-editor-head-of-content-creation-nft-grails/24474,NFT Editor / Head of Content Creation,$50k - $75k,executive:nft,22d
-Protocol Labs,https://web3.career/social-media-manager-network-goods-protocollabs/24473,Social Media Manager - Network Goods,$35k - $110k,social media:non tech:remote,22d
-Okcoin,https://web3.career/turkish-customer-service-representative-okcoin/24472,Turkish Customer Service Representative,$40k - $80k,customer support,22d
-Okcoin,https://web3.career/russian-customer-service-representative-okcoin/24471,Russian Customer Service Representative,$40k - $80k,customer support,22d
-Okcoin,https://web3.career/arabic-customer-service-representative-okcoin/24470,Arabic Customer Service Representative,$40k - $80k,customer support,22d
-Subspace Labs,https://web3.career/director-of-product-engineering-subspacelabs/24469,Director of Product Engineering,$135k - $170k,executive:product manager:non tech:remote,22d
-RECUR,https://web3.career/copy-of-copy-of-community-manager-policy-apac-recur/24468,Copy of Copy of Community Manager - Policy (APAC),$15k - $30k,community manager:non tech:ethereum:nft,22d
-RECUR,https://web3.career/copy-of-community-operations-team-lead-apac-recur/24467,Copy of Community Operations Team Lead (APAC),$40k - $65k,community manager:non tech:lead:operations:ethereum,22d
-RECUR,https://web3.career/copy-of-community-operations-team-lead-apac-recur/24466,Copy of Community Operations Team Lead (APAC),$40k - $65k,community manager:non tech:lead:operations:ethereum,22d
-RECUR,https://web3.career/copy-of-community-operations-team-lead-apac-recur/24465,Copy of Community Operations Team Lead (APAC),$40k - $65k,community manager:non tech:lead:operations:ethereum,22d
-RECUR,https://web3.career/copy-of-community-operations-team-lead-apac-recur/24464,Copy of Community Operations Team Lead (APAC),$40k - $65k,community manager:non tech:lead:operations:ethereum,22d
-RECUR,https://web3.career/copy-of-community-manager-policy-apac-recur/24463,Copy of Community Manager - Policy (APAC),$15k - $30k,community manager:non tech:ethereum:nft,22d
-RECUR,https://web3.career/copy-of-community-manager-policy-apac-recur/24462,Copy of Community Manager - Policy (APAC),$15k - $30k,community manager:non tech:ethereum:nft,22d
-RECUR,https://web3.career/copy-of-community-manager-policy-apac-recur/24461,Copy of Community Manager - Policy (APAC),$15k - $30k,community manager:non tech:ethereum:nft,22d
-Parity Technologies,https://web3.career/public-relations-manager-parity/24460,Public Relations Manager,$25k - $120k,marketing:non tech:remote,22d
-Parity Technologies,https://web3.career/director-of-public-relations-parity/24459,Director of Public Relations,$70k - $158k,marketing:non tech:executive:remote,22d
-Crossmint.io | Making NFT's Accessible to Everyone,https://web3.career/junior-full-stack-developer-crossmint/24458,Junior Full Stack Developer,$39k - $180k,dev:full stack:junior:entry level:web3js,22d
-Ripple,https://web3.career/senior-blockchain-researcher-ripple/24457,Senior Blockchain Researcher,$80k - $190k,senior:blockchain,22d
-GSR,https://web3.career/product-control-vice-president-cryptocurrency-trading-london-gsr/24456,Product Control - Vice President - Cryptocurrency Trading - London,$39k - $140k,crypto,22d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+SwissBorg,https://web3.career/head-of-influencer-marketing-remote-swissborg/25093,Europe,Head of Influencer Marketing (Remote),$45k - $158k,executive:remote:marketing:non tech,25d
+SwissBorg,https://web3.career/cryptonitestv-swissborg-ventures-video-editor-remote-swissborg/25092,Europe,CryptonitesTV & SwissBorg Ventures Video Editor (Remote),,remote:video,25d
+"SundaeSwap Labs, Inc.",https://web3.career/go-developer-sundaeswap/25091,Remote,Go Developer,$22k - $150k,dev:golang:remote,25d
+Spring Labs,https://web3.career/sr-devops-with-networking-springlabs/25090,"Los Angeles,
+United States",Sr. DevOps with Networking,$120k - $200k,devops:senior,25d
+Sperax,https://web3.career/frontend-engineer-remote-sperax/25089,"New York,
+United States",Frontend Engineer (Remote),$22k - $120k,remote:dev:front end,25d
+Sperax,https://web3.career/frontend-engineer-remote-sperax/25088,"Bengaluru,
+India",Frontend Engineer (Remote),$22k - $120k,remote:dev:front end,25d
+Sperax,https://web3.career/senior-product-manager-remote-sperax/25087,"Bengaluru,
+India",Senior Product Manager (Remote),$115k - $175k,remote:product manager:non tech:senior,25d
+Sperax,https://web3.career/business-development-manager-remote-sperax/25086,"New York,
+United States",Business Development Manager (Remote),$29k - $108k,remote:sales:non tech,25d
+Shakepay,https://web3.career/user-acquisition-manager-remote-canada-shakepay/25085,"Montreal,
+Canada",User Acquisition Manager (Remote - Canada),$25k - $120k,remote:marketing:non tech,25d
+Shakepay,https://web3.career/customer-lifecycle-specialist-remote-canada-shakepay/25084,"Montreal,
+Canada",Customer Lifecycle Specialist (Remote - Canada),$56k - $160k,remote,25d
+Shakepay,https://web3.career/financial-operations-manager-remote-canada-shakepay/25083,"Montreal,
+Canada",Financial Operations Manager (Remote - Canada),,remote:finance:operations,25d
+Shakepay,https://web3.career/accounting-technician-remote-canada-shakepay/25082,"Montreal,
+Canada",Accounting Technician (Remote - Canada),$11k - $25k,remote:accounting,25d
+Shakepay,https://web3.career/staff-developer-remote-canada-shakepay/25081,"Montreal,
+Canada",Staff Developer (Remote - Canada),$65k - $180k,remote:dev,25d
+Shakepay,https://web3.career/senior-qa-engineer-remote-canada-shakepay/25080,"Montreal,
+Canada",Senior QA Engineer (Remote - Canada),,remote:dev:quality assurance:senior,25d
+Shakepay,https://web3.career/data-analyst-remote-canada-shakepay/25079,"Montreal,
+Canada",Data Analyst (Remote - Canada),$45k - $120k,remote:analyst:data science,25d
+PowerTrade,https://web3.career/senior-android-developer-powertrade/25078,Remote,Senior Android Developer,,android:mobile:dev:senior:remote,25d
+PowerTrade,https://web3.career/customer-support-specialist-powertrade/25077,Remote,Customer Support Specialist,$40k - $80k,customer support:remote,25d
+Paradigm,https://web3.career/recruiting-paradigm-portfolio-paradigm-xyz/25076,Remote,Recruiting - Paradigm Portfolio,,finance:recruiter:non tech:remote,25d
+Paradigm,https://web3.career/finance-paradigm-portfolio-paradigm-xyz/25075,Remote,Finance - Paradigm Portfolio,$40k - $100k,finance:remote,25d
+Offchain Labs,https://web3.career/technical-writer-offchainlabs/25074,Remote,Technical writer,$45k - $55k,analyst:remote:ethereum,25d
+Offchain Labs,https://web3.career/marketing-lead-offchainlabs/25073,Remote,Marketing Lead,$50k - $120k,lead:marketing:non tech:remote:ethereum,25d
+Newton,https://web3.career/associate-product-manager-canada-wide-remote-newton/25072,"Toronto,
+Canada",Associate Product Manager - Canada Wide - Remote,$115k - $175k,remote:product manager:non tech,25d
+Newton,https://web3.career/technical-recruiter-canada-wide-remote-newton/25071,"Toronto,
+Canada",Technical Recruiter - Canada Wide - Remote,,remote:recruiter:non tech,25d
+Newton,https://web3.career/director-marketing-austin-tx-remote-newton/25070,"Austin,
+United States","Director, Marketing - Austin,TX (Remote)",$45k - $158k,remote:executive:marketing:non tech,25d
+Newton,https://web3.career/controller-canada-wide-remote-newton/25069,"Toronto,
+Canada",Controller - Canada Wide - Remote,,remote:legal,25d
+Newton,https://web3.career/senior-backend-developer-austin-tx-newton/25068,"Austin,
+United States","Senior Backend Developer - Austin, TX",$70k - $200k,backend:dev:senior,25d
+Newton,https://web3.career/project-manager-canada-wide-remote-newton/25067,"Toronto,
+Canada",Project Manager - Canada Wide - Remote,$56k - $150k,remote:project manager:non tech,25d
+Newton,https://web3.career/engineering-manager-canada-wide-remote-newton/25066,"Toronto,
+Canada",Engineering Manager - Canada Wide - Remote,$79k - $200k,executive:remote,25d
+Newton,https://web3.career/blockchain-engineer-austin-tx-newton/25065,"Austin,
+United States","Blockchain Engineer - Austin,TX",$50k - $170k,dev:blockchain,25d
+Newton,https://web3.career/backend-developer-canada-wide-remote-newton/25064,"Toronto,
+Canada",Backend Developer - Canada Wide - Remote,$60k - $180k,remote:backend:dev:node:java,25d
+Newton,https://web3.career/webflow-developer-canada-wide-remote-newton/25063,"Toronto,
+Canada",Webflow Developer - Canada Wide - Remote,$65k - $180k,remote:dev,25d
+Newton,https://web3.career/digital-designer-canada-wide-remote-newton/25062,"Toronto,
+Canada",Digital Designer - Canada Wide - Remote,$50k - $135k,remote:design:non tech,25d
+MomentRanks,https://web3.career/social-content-designer-moment-ranks/25061,Remote,Social Content Designer,$50k - $135k,design:non tech:remote,25d
+Metal,https://web3.career/vendor-operations-manager-metalpay/25060,Remote,Vendor Operations Manager,$80k - $110k,operations:remote,25d
+Messari,https://web3.career/research-specialist-protocol-services-messari/25059,Remote,"Research Specialist, Protocol Services",$56k - $160k,remote,25d

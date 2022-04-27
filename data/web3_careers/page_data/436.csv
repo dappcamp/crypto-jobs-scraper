@@ -1,36 +1,50 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Ripple,https://web3.career/institutional-markets-analyst-ripple/8100,Institutional Markets Analyst,$40k - $120k,analyst,6mo
-BitMEX,https://web3.career/senior-software-engineer-marketing-technology-bitmex/8099,Senior Software Engineer - Marketing Technology,$85k - $120k,dev:marketing:non tech:senior:react,6mo
-Coin Metrics,https://web3.career/infrastructure-engineer-coinmetrics/8098,INFRASTRUCTURE ENGINEER,$65k - $165k,dev:node,6mo
-Polychain Capital,https://web3.career/defi-systems-engineer-polychaincapital/8097,DeFI Systems Engineer,,dev:sys admin:defi:solana:ethereum,6mo
-Kraken Digital Asset Exchange,https://web3.career/multilingual-support-specialist-kraken/8096,Multilingual Support Specialist,$40k - $80k,customer support:remote,6mo
-CoinDesk & TradeBlock Opportunities,https://web3.career/it-associate-tradeblock-coindesk/8095,"IT Associate, TradeBlock",,,6mo
-0x,https://web3.career/director-of-engineering-0x/8093,Director of Engineering,$79k - $158k,executive:ethereum,6mo
-Binance,https://web3.career/binance-smart-chain-dev-community-intern-binance/8091,Binance Smart Chain Dev Community Intern,,community manager:non tech:dev:intern:entry level,6mo
-Polychain Capital,https://web3.career/senior-crypto-security-engineer-polychaincapital/8089,Senior Crypto Security Engineer,$95k - $250k,dev:security:senior:crypto:solana,6mo
-Figure,https://web3.career/staff-software-engineer-provenance-blockchain-figure/8088,"Staff Software Engineer, Provenance Blockchain",$50k - $130k,dev:blockchain:react:rust,6mo
-Blockdaemon,https://web3.career/senior-product-manager-blockchain-api-blockdaemon/8087,"Senior Product Manager, Blockchain API",,api:product manager:non tech:senior:blockchain,6mo
-Constellation Network,https://web3.career/crypto-product-specialist-constellationnetwork/8085,Crypto Product Specialist,$35k - $150k,crypto:remote,6mo
-Binance,https://web3.career/bd-manager-defi-financial-services-binance-smart-chain-binance/8083,"BD Manager, DeFi & Financial Services - Binance Smart Chain",$40k - $100k,finance:defi:remote,6mo
-GSR,https://web3.career/product-lead-defi-gsr/8082,"Product Lead, DeFi",$100k - $200k,lead:defi:remote,6mo
-Blockchain.com,https://web3.career/cryptocurrency-credit-analyst-blockchain/8081,Cryptocurrency Credit Analyst,$20k - $120k,analyst:crypto,6mo
-GameStop,https://web3.career/product-owner-head-of-web3-gaming-gamestop/8079,Product Owner Head Of Web3 Gaming,,executive:product manager:non tech:game dev:ethereum,6mo
-GameStop,https://web3.career/sr-software-engineer-nft-platform-gamestop/8078,Sr Software Engineer – NFT Platform,,dev:nft:react:ethereum:javascript,6mo
-GameStop,https://web3.career/director-of-product-marketing-nft-platform-gamestop/8077,Director Of Product Marketing – NFT Platform,,executive:marketing:non tech:product manager:nft,6mo
-1kx,https://web3.career/investment-analyst-1kx/8068,Investment Analyst,,analyst:finance:remote,6mo
-BlockFi,https://web3.career/growth-product-manager-blockfi/8055,Growth Product Manager,,marketing:non tech:product manager,6mo
-Figure,https://web3.career/staff-front-end-engineer-growth-tech-figure/8053,Staff Front-End Engineer - Growth Tech,,dev:front end:marketing:non tech:react,6mo
-Cake Pte Ltd,https://web3.career/vp-of-compliance-cakedefi/8052,VP of Compliance,,compliance:executive,6mo
-Harmony,https://web3.career/software-engineer-cloud-emea-apac-timezones-harmony/8049,Software Engineer - Cloud (EMEA & APAC Timezones),,cloud:dev:remote,6mo
-Figure,https://web3.career/business-development-associate-figure/8048,Business Development Associate,$26k - $140k,sales:non tech,6mo
-BitMEX,https://web3.career/senior-risk-management-engineer-bitmex/8046,Senior Risk Management Engineer,$50k - $200k,dev:senior:java,6mo
-Newton,https://web3.career/data-engineer-newton/8045,Data Engineer,$70k - $160k,data science:dev,6mo
-Galaxy Digital Services,https://web3.career/associate-analyst-product-analyst-galaxydigitalservices/8044,"Associate/Analyst, Product Analyst",$40k - $120k,analyst,6mo
-BitMEX,https://web3.career/communications-intern-bitmex/8043,Communications Intern,,intern:entry level,6mo
-Galaxy Digital Services,https://web3.career/vp-corporate-communications-galaxydigitalservices/8042,VP Corporate Communications,$70k - $180k,executive,6mo
-Chainalysis,https://web3.career/software-engineer-university-grad-chainalysis/8041,"Software Engineer, University Grad",$33k - $140k,dev:java,6mo
-BitMEX,https://web3.career/senior-software-engineer-marketing-technology-bitmex/8040,Senior Software Engineer - Marketing Technology,$85k - $120k,dev:marketing:non tech:senior:react,6mo
-SALT,https://web3.career/frontend-software-engineer-fullstack-a-plus-saltlending/8039,Frontend Software Engineer (Fullstack a plus),$65k - $150k,dev:front end:full stack:react:ethereum,6mo
-Kraken Digital Asset Exchange,https://web3.career/hr-director-mergers-and-acquisitions-kraken/8037,HR Director - Mergers and Acquisitions,,executive:hr:non tech:remote,6mo
-Binance,https://web3.career/global-ad-operations-marketing-specialist-manager-binance/8036,Global Ad Operations Marketing Specialist/ Manager,,marketing:non tech:operations:remote,6mo
-Binance,https://web3.career/growth-marketing-manager-taiwan-binance/8034,Growth Marketing Manager - Taiwan,$45k - $130k,marketing:non tech,6mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+XREX,https://web3.career/crypto-analyst-xrex/8672,"Taipei,
+Taiwan",Crypto Analyst,$20k - $120k,analyst:crypto,6mo
+Flipside Crypto,https://web3.career/operations-manager-bounty-programs-flipsidecrypto/8671,"Boston,
+United States","Operations Manager, Bounty Programs",$60k - $200k,operations,6mo
+Terraform Labs,https://web3.career/product-manager-terra/8670,Remote,Product Manager,$115k - $175k,product manager:non tech:remote,6mo
+Jambb,https://web3.career/platform-infrastructure-lead-jambb/8669,"Boston,
+United States",Platform Infrastructure Lead,$100k - $200k,lead:solidity:nft:node,6mo
+Symbridge,https://web3.career/institutional-sales-symbridge/8668,Greenwich US,Institutional Sales,$26k - $140k,sales:non tech,6mo
+Symbridge,https://web3.career/head-of-research-symbridge/8667,Greenwich US,Head of Research,$70k - $180k,executive,6mo
+Reesby IT,https://web3.career/blockchain-engineering-graduate-program-reesby/8666,"San Jose,
+Costa Rica",Blockchain Engineering Graduate Program,$18k - $46k,intern:entry level:blockchain:react:java,6mo
+Jambb,https://web3.career/lead-frontend-engineer-jambb/8665,"Boston,
+United States",Lead Frontend Engineer,$56k - $79k,dev:front end:lead:react:solidity,6mo
+Transak,https://web3.career/full-stack-developer-transak-inc/8664,"Bangalore,
+India",Full Stack Developer,$65k - $180k,dev:full stack:react:javascript:node,6mo
+Coin98 Finance,https://web3.career/news-editor-marginatm-coin98/8663,Ho Chi Minh VN,News Editor - MarginATM,,,6mo
+Flipside Crypto,https://web3.career/full-stack-engineer-flipsidecrypto/8662,"Boston,
+United States",Full Stack Engineer,$65k - $180k,dev:full stack:react:node,6mo
+Emurgo,https://web3.career/full-stack-developer-enterprise-emurgo/8661,Remote,Full Stack Developer - Enterprise,$65k - $180k,dev:full stack:react:javascript:node,6mo
+SRLabs,https://web3.career/security-engineer-blockchain-srlabs/8660,"Berlin,
+Germany",Security Engineer - Blockchain,,dev:security:blockchain,6mo
+Zero Hash,https://web3.career/senior-software-engineer-blockchain-zero-hash/8659,US,Senior Software Engineer (Blockchain),$80k - $200k,dev:senior:blockchain:golang,6mo
+LATOKEN,https://web3.career/blockchain-developer-latoken/8658,Remote,Blockchain Developer,$26k - $87k,dev:blockchain:java:remote,6mo
+Coin98 Finance,https://web3.career/illustrator-coin98/8657,Ho Chi Minh VN,Illustrator,$25k - $75k,illustrator,6mo
+Clain,https://web3.career/sales-manager-clain/8656,"Lima,
+Peru",Sales Manager,$26k - $140k,sales:non tech,6mo
+Anghami,https://web3.career/crypto-digital-assets-lead-anghami/8655,AE,Crypto & Digital Assets Lead,,finance:lead:crypto:solidity:ethereum,6mo
+Anghami,https://web3.career/crypto-digital-assets-lead-anghami/8654,AE,Crypto & Digital Assets Lead,,finance:lead:crypto:solidity:ethereum,6mo
+LATOKEN,https://web3.career/developer-backend-blockchain-integration-latoken/8653,"London,
+United Kingdom",Developer Backend (Blockchain integration),$60k - $180k,backend:dev:blockchain:solidity:node,6mo
+Coin98 Finance,https://web3.career/graphic-designer-middle-and-senior-level-coin98/8652,Ho Chi Minh VN,Graphic Designer (Middle and Senior level),$60k - $120k,design:non tech:senior,6mo
+Terraform Labs,https://web3.career/full-stack-engineer-terra/8651,Remote,Full-stack Engineer,$39k - $200k,dev:full stack:solidity:ethereum:remote,6mo
+Coin98 Finance,https://web3.career/analyst-editor-marginatm-coin98/8650,Ho Chi Minh VN,Analyst Editor - MarginATM,$40k - $120k,analyst,6mo
+LATOKEN,https://web3.career/it-recruiter-junior-latoken/8649,"London,
+United Kingdom",IT Recruiter Junior,,junior:entry level:recruiter:non tech,6mo
+Transak,https://web3.career/blockchain-developer-transak-inc/8648,"Bangalore,
+India",Blockchain Developer,$50k - $130k,dev:blockchain:react:solidity:ethereum,6mo
+Bitwave,https://web3.career/senior-smart-contract-developer-bitwave/8647,"San Francisco,
+United States",Senior Smart Contract Developer,$120k - $250k,dev:senior:smart contract:solidity:ethereum,6mo
+REposit,https://web3.career/senior-dapp-defi-developer-reposit/8646,US,Senior dApp/DeFi Developer,,dev:senior:dapp:defi:react,6mo
+LATOKEN,https://web3.career/investment-analyst-latoken/8645,"London,
+United Kingdom",Investment Analyst,,analyst:finance,6mo
+Coin98 Finance,https://web3.career/research-analyst-intern-coin98/8644,Remote,Research Analyst Intern,$20k - $30k,analyst:intern:entry level:remote,6mo
+Coin98 Finance,https://web3.career/research-analyst-coin98/8643,Remote,Research Analyst,$45k - $120k,analyst:remote,6mo
+Opera,https://web3.career/go-developer-opera/8642,Linköping SE,Go Developer,$40k - $134k,dev:golang:ethereum:node,6mo
+Coin98 Finance,https://web3.career/blockchain-developer-coin98/8641,Ho Chi Minh VN,Blockchain Developer,$50k - $120k,dev:blockchain:javascript:java,6mo
+Immunefi,https://web3.career/smart-contract-engineer-immunefi/8640,Remote,Smart Contract Engineer,$72k - $200k,dev:smart contract:solidity:ethereum:remote,6mo
+Opera,https://web3.career/android-developer-crypto-opera/8639,Linköping SE,Android Developer - Crypto,,android:mobile:dev:crypto:ethereum,6mo
+Foxbit,https://web3.career/backend-engineer-senior-foxbit/8638,BR,Backend Engineer - Senior,$70k - $200k,backend:dev:senior:react:ruby,6mo

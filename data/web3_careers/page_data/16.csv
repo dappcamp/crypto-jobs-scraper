@@ -1,36 +1,53 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Crypto.com,https://web3.career/compliance-law-enforcement-requests-ler-liaison-analyst-crypto-com/25970,Compliance Law Enforcement Requests (LER) Liaison Analyst,,compliance:analyst,7d
-Crypto.com,https://web3.career/apac-paid-strategy-lead-global-fintech-startup-crypto-com/25969,APAC Paid Strategy Lead - Global Fintech Startup,$35k - $150k,finance:lead,7d
-Crypto.com,https://web3.career/data-project-coordinator-global-fintech-startup-crypto-com/25968,Data Project Coordinator - Global Fintech Startup,$40k - $150k,finance,7d
-Coinbase,https://web3.career/global-trainer-crypto-coinbase/25967,"Global Trainer, Crypto",,education:crypto,7d
-Satoshis Games,https://web3.career/senior-backend-engineer-javascript-satoshis-games/25966,Senior Backend Engineer (Javascript),$40k - $60k,backend:dev:javascript:senior:react,7d
-Aave,https://web3.career/frontend-engineer-berlin-aave/25965,Frontend Engineer (Berlin),$30k - $140k,dev:front end:remote:web3js:react,7d
-Immunefi,https://web3.career/product-manager-immunefi/25964,Product Manager,,product manager:non tech:remote,7d
-Bitpanda,https://web3.career/senior-talent-acquisition-partner-product-bitpanda/25963,(Senior) Talent Acquisition Partner - Product,$40k - $70k,senior:recruiter:non tech,7d
-Bitpanda,https://web3.career/senior-talent-acquisition-partner-tech-bitpanda/25962,(Senior) Talent Acquisition Partner - Tech,$40k - $70k,senior:recruiter:non tech,7d
-01 Exchange,https://web3.career/growth-associate-community-01-exchange/25961,Growth Associate (Community),$45k - $150k,community manager:non tech:marketing:remote:solana,7d
-Bitpanda,https://web3.career/service-center-engineer-bitpanda/25960,Service Center Engineer,$65k - $160k,dev:php:java:golang,7d
-Voodoo,https://web3.career/senior-3d-game-artist-casual-games-voodoo/25959,Senior 3D Game Artist - Casual Games,,vfx:non tech:game dev:senior,7d
-,https://web3.career/performance-marketing-manager-travala/25958,Performance Marketing Manager,$45k - $125k,marketing:non tech,7d
-Roxe,https://web3.career/sr-integration-manager-roxe/25957,Sr. Integration Manager,$79k - $200k,senior,7d
-Genies,https://web3.career/software-engineer-new-grad-full-stack-genies/25956,Software Engineer (New Grad) - Full Stack,$12k - $33k,dev:intern:entry level:full stack:react,7d
-Bitpanda,https://web3.career/engineering-manager-blockchain-bitpanda/25955,Engineering Manager - Blockchain,,executive:blockchain:php:java:golang,7d
-Vezgo,https://web3.career/backend-developer-node-js-crypto-data-acquisition-vezgo/25954,"Backend Developer, Node.js (Crypto Data Acquisition)",$50k - $80k,javascript:backend:dev:node:crypto,7d
-SADA Global Delivery Center (GDC),https://web3.career/devops-engineer-sre-sadagdc/25953,DevOps Engineer (SRE),$120k - $200k,devops:dev:senior:java,7d
-Bitpanda,https://web3.career/internship-external-communications-bitpanda/25951,Internship – External Communications,,intern:entry level,7d
-Roxe,https://web3.career/senior-java-engineer-roxe/25950,Senior Java Engineer,$50k - $200k,dev:java:senior,7d
-Terraform Labs,https://web3.career/graphic-designer-terra/25949,Graphic Designer,$50k - $135k,design:non tech:remote:ethereum,7d
-Braintrust,https://web3.career/senior-front-end-developer-remote-braintrust/25948,Senior Front End Developer [REMOTE],$30k - $140k,remote:dev:front end:senior:react,7d
-Horizon Blockchain Games,https://web3.career/data-analyst-in-blockchain-sequence-remote-horizon/25947,Data Analyst in blockchain (Sequence) - Remote,$45k - $120k,remote:analyst:data science:blockchain:ethereum,7d
-Horizon Blockchain Games,https://web3.career/data-engineer-in-blockchain-remote-horizon/25946,Data Engineer in blockchain - Remote,,remote:data science:dev:blockchain:ethereum,7d
-Horizon Blockchain Games,https://web3.career/director-of-recruiting-na-timezone-horizon/25945,Director of Recruiting (NA timezone),,executive:recruiter:non tech:ethereum:nft,7d
-Horizon Blockchain Games,https://web3.career/game-data-analyst-skyweaver-horizon/25944,Game Data Analyst (Skyweaver),$50k - $120k,analyst:data science:game dev,7d
-Horizon Blockchain Games,https://web3.career/operations-engineer-remote-horizon/25943,Operations Engineer - Remote,,remote:dev:operations:ethereum:nft,7d
-Horizon Blockchain Games,https://web3.career/product-marketing-manager-sequence-horizon/25942,"Product Marketing Manager, Sequence",$48k - $120k,marketing:non tech:ethereum:nft,7d
-Horizon Blockchain Games,https://web3.career/product-marketing-manager-skyweaver-horizon/25941,"Product Marketing Manager, Skyweaver",$48k - $120k,marketing:non tech:ethereum:nft,7d
-Horizon Blockchain Games,https://web3.career/senior-backend-engineer-go-horizon/25940,Senior Backend Engineer (GO),$33k - $160k,backend:dev:golang:senior:ethereum,7d
-Horizon Blockchain Games,https://web3.career/senior-backend-engineer-go-remote-horizon/25939,Senior Backend Engineer (Go) - Remote,$60k - $180k,remote:backend:dev:golang:senior,7d
-Horizon Blockchain Games,https://web3.career/senior-game-producer-remote-horizon/25938,Senior Game Producer - Remote,$70k - $150k,remote:game dev:senior:nft,7d
-Horizon Blockchain Games,https://web3.career/senior-mobile-developer-react-native-remote-horizon/25937,Senior Mobile Developer (React Native) - Remote,$65k - $180k,remote:dev:mobile:react native:javascript,7d
-Horizon Blockchain Games,https://web3.career/senior-software-developer-react-remote-horizon/25936,Senior Software Developer (React) - Remote,$60k - $180k,remote:dev:javascript:react:senior,7d
-Horizon Blockchain Games,https://web3.career/senior-ux-designer-skyweaver-remote-horizon/25935,Senior UX Designer (Skyweaver) - Remote,$50k - $135k,remote:design:non tech:senior:nft,7d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Polygon,https://web3.career/country-manager-growth-marketing-turkey-polygon/26553,Europe,"Country Manager, Growth & Marketing : Turkey",$48k - $120k,marketing:non tech:ethereum,6d
+Polygon,https://web3.career/country-manager-growth-marketing-thailand-polygon/26552,APAC,"Country Manager, Growth & Marketing : Thailand",$48k - $120k,marketing:non tech:ethereum,6d
+Polygon,https://web3.career/country-manager-growth-marketing-spain-polygon/26551,Europe,"Country Manager, Growth & Marketing : Spain",$48k - $120k,marketing:non tech:ethereum,6d
+Polygon,https://web3.career/country-manager-growth-marketing-singapore-polygon/26550,APAC,"Country Manager, Growth & Marketing : Singapore",$48k - $120k,marketing:non tech:ethereum,6d
+Polygon,https://web3.career/country-manager-growth-marketing-netherland-polygon/26549,Europe,"Country Manager, Growth & Marketing : Netherland",$48k - $120k,marketing:non tech:ethereum,6d
+Polygon,https://web3.career/country-manager-growth-marketing-indonesia-polygon/26548,APAC,"Country Manager, Growth & Marketing : Indonesia",$48k - $120k,marketing:non tech:ethereum,6d
+Polygon,https://web3.career/country-manager-growth-marketing-germany-polygon/26547,Europe,"Country Manager, Growth & Marketing : Germany",$48k - $120k,marketing:non tech:ethereum,6d
+Raydium,https://web3.career/content-writer-raydium/26546,Remote,Content Writer,$25k - $105k,copywriting:non tech:remote:solana:ethereum,6d
+Boson Protocol,https://web3.career/partnerships-manager-bosonprotocol/26544,"London,
+United Kingdom",Partnerships Manager,$40k - $180k,sales:non tech:nft,6d
+Gate.io,https://web3.career/lending-margin-content-writer-gate-io/26543,Remote,lending & margin content writer,$25k - $105k,copywriting:non tech:remote,6d
+Polygon,https://web3.career/country-manager-south-korea-growth-marketing-polygon/26542,APAC,Country Manager South Korea :Growth & Marketing,$48k - $120k,marketing:non tech:ethereum,6d
+Polygon,https://web3.career/country-manager-france-polygon/26541,Europe,Country Manager : France,$60k - $150k,ethereum,6d
+Blockstream,https://web3.career/qt-engineer-blockstream/26540,"Milan,
+Italy",Qt Engineer,$50k - $160k,dev:java:rust,6d
+Menyala,https://web3.career/legal-counsel-menyala/26539,"Singapore,
+Singapore",Legal Counsel,$24k - $140k,legal,6d
+Rarify,https://web3.career/senior-solutions-engineer-rarify/26538,"Nyc,
+United States",Senior Solutions Engineer,$65k - $150k,dev:senior:golang,6d
+TaxBit,https://web3.career/lead-product-manager-public-sector-taxbit/26537,"New York,
+United States","Lead Product Manager, Public Sector",,lead:product manager:non tech,6d
+Groma,https://web3.career/software-engineer-groma/26536,,Software Engineer,$67k - $175k,dev:react:nextjs:node,6d
+OKX,https://web3.career/data-analyst-okx/26535,"Singapore,
+Singapore",Data Analyst,$36k - $85k,analyst:data science,6d
+Stockbit,https://web3.career/backend-engineer-golang-blockchain-platform-stockbit/26534,"Jakarta,
+Indonesia",Backend Engineer - Golang (Blockchain Platform),$33k - $160k,backend:dev:golang:blockchain,6d
+Crypto Finance AG,https://web3.career/risk-management-officer-cryptofinanceag/26533,"Frankfurt,
+Germany",Risk Management Officer,$56k - $160k,remote,6d
+Stockbit,https://web3.career/ui-ux-designer-crypto-stockbit/26532,"Jakarta,
+Indonesia",UI/UX Designer - Crypto,$30k - $79k,design:non tech:crypto,6d
+Crypto.com,https://web3.career/director-hr-business-partner-global-fintech-start-up-crypto-com/26531,"Hong Kong,
+Hong Kong","Director, HR Business Partner - Global Fintech Start-up",,executive:finance:hr:non tech,6d
+HoneyBricks,https://web3.career/senior-frontend-engineer-react-crypto-fintech-real-estate-honeybricks/26530,"Vancouver,
+Canada",Senior Frontend Engineer - React (Crypto/ FinTech/ Real Estate),,dev:finance:front end:javascript:react,6d
+Crypto.com,https://web3.career/legal-counsel-employment-bg-crypto-com/26529,"Sofia,
+Bulgaria",Legal Counsel - Employment (BG),$24k - $140k,legal,6d
+Crypto.com,https://web3.career/crm-project-associate-global-fintech-startup-crypto-com/26528,"Singapore,
+Singapore",CRM Project Associate - Global Fintech Startup,,crm:finance:nft,6d
+Fynd,https://web3.career/community-manager-gaming-and-nft-platform-fynd/26527,"Delhi,
+India",Community Manager - Gaming and NFT Platform,$65k - $80k,community manager:non tech:game dev:nft,6d
+"Palm NFT Studio, Inc.",https://web3.career/account-manager-studio-palmnftstudioinc/26526,"Van,
+Turkey",Account Manager (Studio),,account manager:nft,6d
+Satoshis Games,https://web3.career/senior-rust-developer-satoshis-games/26525,United States,Senior Rust Developer,$70k - $90k,dev:rust:senior:solana:node,6d
+Polygon,https://web3.career/web3-integration-expert-polygon-edge-polygon/26524,Any,Web3 Integration Expert - Polygon Edge,$60k - $145k,remote:ethereum:node,6d
+Figure,https://web3.career/marketplace-registered-success-associates-figure/26518,"Charlotte,
+United States",Marketplace Registered Success Associates,$50k - $150k,,6d
+Figure,https://web3.career/senior-cap-table-operations-analyst-figure/26517,United States,Senior Cap Table Operations Analyst,,analyst:operations:senior,6d
+Figure,https://web3.career/cap-table-operations-analyst-figure/26516,United States,Cap Table Operations Analyst,,analyst:operations,6d
+Protocol Labs,https://web3.career/virtual-events-manager-protocollabs/26515,,Virtual Events Manager,$100k - $125k,events manager:non tech,6d
+Binance,https://web3.career/product-manager-account-binance/26514,Asia,Product Manager (Account),$67k - $160k,product manager:non tech,6d
+NEAR,https://web3.career/smart-contract-engineer-startup-toolkit-near/26513,"San Francisco,
+United States","Smart Contract Engineer, Startup Toolkit",$80k - $200k,dev:smart contract:rust,6d

@@ -1,36 +1,49 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Pyth Network,https://web3.career/software-engineer-pythnetwork/8967,Software Engineer,$75k - $190k,dev:rust,5mo
-Pyth Network,https://web3.career/designer-pythnetwork/8966,Designer,$100k - $150k,design:non tech:solana,5mo
-Akash Network,https://web3.career/program-manager-akashnetwork/8965,Program Manager,$79k - $200k,executive:remote,5mo
-Polygon,https://web3.career/qa-engineer-polygon/8964,QA Engineer,$65k - $150k,dev:quality assurance:ethereum,5mo
-Polygon,https://web3.career/polygon-ecosystem-fund-vc-analyst-polygon/8963,Polygon Ecosystem Fund VC Analyst,$45k - $185k,analyst:ethereum,5mo
-Polygon,https://web3.career/solidity-developers-polygon/8962,Solidity Developers,$60k - $158k,solidity:ethereum,5mo
-Polygon,https://web3.career/support-specialist-role-polygon/8961,Support Specialist Role,,customer support:ethereum,5mo
-Polygon,https://web3.career/support-specialist-polygon/8960,Support Specialist,,customer support:ethereum,5mo
-Polygon,https://web3.career/qa-engineer-polygon/8959,QA Engineer,$65k - $150k,dev:quality assurance:ethereum,5mo
-Polygon,https://web3.career/nft-lead-polygon/8958,NFT Lead,$100k - $200k,lead:nft:ethereum,5mo
-Polygon,https://web3.career/developer-community-associate-polygon/8957,Developer Community Associate,,community manager:non tech:dev:ethereum,5mo
-Polygon,https://web3.career/site-reliability-engineer-polygon/8956,Site Reliability Engineer,,dev:sys admin:ethereum,5mo
-Polygon,https://web3.career/researcher-ii-polygon/8955,Researcher II,$60k - $150k,ethereum,5mo
-Polygon,https://web3.career/researcher-i-polygon/8954,Researcher I,$60k - $150k,ethereum,5mo
-Polygon,https://web3.career/integration-lead-polygon/8953,Integration lead,$100k - $200k,lead:ethereum:nft,5mo
-Polygon,https://web3.career/gaming-studio-team-lead-tech-integration-and-solutioning-polygon/8952,Gaming Studio Team Lead- Tech Integration and Solutioning,,game dev:lead:ethereum,5mo
-Polygon,https://web3.career/engineering-manager-polygon/8951,Engineering Manager,$79k - $158k,executive:ethereum,5mo
-Polygon,https://web3.career/devops-engineer-polygon/8950,DevOps Engineer,$95k - $145k,devops:dev:ethereum,5mo
-Polygon,https://web3.career/backend-engineer-polygon/8949,Backend Engineer,$65k - $125k,backend:dev:ethereum,5mo
-Polygon,https://web3.career/technical-community-manager-polygon/8948,Technical Community Manager,$15k - $30k,community manager:non tech:ethereum,5mo
-Polygon,https://web3.career/research-analyst-polygon/8947,Research Analyst,$45k - $185k,analyst:ethereum,5mo
-Polygon,https://web3.career/pr-coordinator-polygon/8946,PR Coordinator,,marketing:non tech:react:ethereum,5mo
-Polygon,https://web3.career/polygon-studios-marketing-polygon/8945,Polygon Studios Marketing,$48k - $120k,marketing:non tech:ethereum,5mo
-Polygon,https://web3.career/polygon-lead-ecosystem-evangelist-polygon/8944,Polygon Lead Ecosystem Evangelist,$96k - $220k,lead:ethereum,5mo
-Polygon,https://web3.career/partner-marketing-lead-polygon/8943,Partner Marketing Lead,$50k - $120k,lead:marketing:non tech:ethereum:nft,5mo
-Polygon,https://web3.career/japanese-community-manager-polygon/8942,Japanese Community Manager,$15k - $30k,community manager:non tech:ethereum,5mo
-Polygon,https://web3.career/influencer-management-lead-polygon/8941,Influencer Management Lead,$96k - $220k,lead:ethereum,5mo
-Polygon,https://web3.career/head-of-japan-polygon/8940,Head of Japan,$50k - $158k,executive:ethereum:nft,5mo
-Polygon,https://web3.career/events-manager-polygon/8939,Events Manager,,events manager:non tech:ethereum,5mo
-Polygon,https://web3.career/partnerships-business-development-polygon/8938,Partnerships & Business Development,$29k - $43k,sales:non tech:ethereum:nft,5mo
-Polygon,https://web3.career/head-of-enterprise-business-development-polygon/8937,Head of Enterprise Business Development,$40k - $150k,executive:sales:non tech:ethereum,5mo
-Solana Labs,https://web3.career/product-counsel-crypto-solana/8936,Product Counsel (Crypto),,legal:crypto:solana,5mo
-Solana Labs,https://web3.career/systems-engineer-solana/8935,Systems Engineer,,dev:sys admin:solana:ethereum,5mo
-Solana Labs,https://web3.career/investment-analyst-associate-solana/8934,Investment Analyst/Associate,,analyst:finance:solana,5mo
-Optimism PBC,https://web3.career/sr-technical-product-manager-optimism/8933,Sr. Technical Product Manager,$80k - $150k,product manager:non tech:senior:ethereum:remote,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Findora,https://web3.career/senior-systems-engineer-findora/9476,Remote,Senior Systems Engineer,$150k - $200k,dev:senior:sys admin:remote,6mo
+Findora,https://web3.career/senior-cryptography-engineer-findora/9475,Remote,Senior Cryptography Engineer,$120k - $210k,dev:senior:rust:remote,6mo
+Findora,https://web3.career/qa-automation-engineer-findora/9474,Remote,QA Automation Engineer,,dev:quality assurance:remote,6mo
+Findora,https://web3.career/partner-engineer-integrations-findora/9473,Remote,Partner Engineer - Integrations,$69k - $160k,dev:javascript:rust:remote,6mo
+Findora,https://web3.career/full-stack-engineer-findora/9472,Remote,Full Stack Engineer,$70k - $200k,dev:full stack:remote,6mo
+Findora,https://web3.career/front-end-engineer-china-findora/9471,Remote,"Front-End Engineer, China",$22k - $120k,dev:front end:remote,6mo
+Findora,https://web3.career/front-end-engineer-findora/9470,Remote,Front-End Engineer,$22k - $120k,dev:front end:remote,6mo
+Findora,https://web3.career/devops-engineer-china-findora/9469,Remote,"DevOps Engineer, China",,devops:dev:rust:remote,6mo
+Findora,https://web3.career/devops-engineer-findora/9468,Remote,DevOps Engineer,$95k - $180k,devops:dev:remote,6mo
+Findora,https://web3.career/cryptography-engineer-findora/9467,Remote,Cryptography Engineer,$65k - $180k,dev:remote,6mo
+DeSo Foundation,https://web3.career/executive-assistant-deso/9466,United States,Executive Assistant,$79k - $158k,executive:ethereum,6mo
+DeSo Foundation,https://web3.career/community-manager-deso/9465,United States,Community Manager,$15k - $30k,community manager:non tech:ethereum,6mo
+DeFi Alliance,https://web3.career/community-and-marketing-lead-remote-defialliance/9464,"Chicago,
+United States",Community and Marketing Lead (Remote),$40k - $101k,remote:community manager:non tech:lead:marketing,6mo
+DeFi Alliance,https://web3.career/business-development-lead-remote-defialliance/9463,"Chicago,
+United States",Business Development Lead (Remote),$29k - $108k,remote:sales:non tech:lead:ethereum,6mo
+DeFi Alliance,https://web3.career/batch-director-remote-defialliance/9462,"Chicago,
+United States",Batch Director (Remote),$79k - $158k,remote:executive:ethereum,6mo
+"DeFi Technologies, Inc.",https://web3.career/senior-c-trading-system-developer-defi-tech/9461,"Zug,
+Switzerland",Senior C++ Trading System Developer,$100k - $150k,c:c plus plus:dev:senior,6mo
+"DeFi Technologies, Inc.",https://web3.career/operations-associate-middle-office-defi-tech/9460,"London,
+United Kingdom",Operations Associate - Middle Office,$60k - $200k,operations,6mo
+Constellation Network,https://web3.career/full-stack-defi-developer-constellationnetwork/9459,Remote,Full Stack DeFi Developer,$93k - $150k,dev:full stack:defi:react:remote,6mo
+Connext,https://web3.career/executive-assistant-connext-network/9458,Remote,Executive Assistant,$79k - $158k,executive:ethereum:remote,6mo
+Connext,https://web3.career/don-t-see-what-you-re-looking-for-connext-network/9457,Remote,Don't See What You're Looking For?,$60k - $145k,ethereum:remote,6mo
+Connext,https://web3.career/ecosystem-developer-connext-network/9456,Remote,Ecosystem Developer,$60k - $150k,dev:ethereum:remote,6mo
+Connext,https://web3.career/senior-backend-engineer-platform-connext-network/9455,Remote,Senior Backend Engineer (Platform),$70k - $200k,backend:dev:senior:ethereum:node,6mo
+Connext,https://web3.career/researcher-connext-network/9454,Remote,Researcher,$60k - $145k,ethereum:remote,6mo
+Connext,https://web3.career/integrations-engineer-connext-network/9453,Remote,Integrations Engineer,$60k - $150k,dev:ethereum:remote,6mo
+Compound,https://web3.career/product-designer-compound-2/9452,Remote,Product Designer,$80k - $150k,design:non tech:ethereum:remote,6mo
+Compound,https://web3.career/senior-engineer-compound-2/9451,Remote,Senior Engineer,$80k - $200k,dev:senior:solidity:ethereum:rust,6mo
+Compound,https://web3.career/engineering-manager-compound-2/9450,Remote,Engineering Manager,$79k - $158k,executive:ethereum:remote,6mo
+Coinsquare,https://web3.career/account-manager-coinsquare/9449,"Calgary,
+Canada",Account Manager,,account manager:ethereum,6mo
+Coinsquare,https://web3.career/senior-qa-coinsquare/9448,"Toronto,
+Canada",Senior QA,,quality assurance:senior:ethereum,6mo
+Coinsquare,https://web3.career/director-product-coinsquare/9447,"Toronto,
+Canada","Director, Product",$79k - $158k,executive:ethereum,6mo
+Coinsquare,https://web3.career/marketing-developer-coinsquare/9446,"Toronto,
+Canada",Marketing Developer,$85k - $120k,dev:marketing:non tech:ethereum,6mo
+Coinsquare,https://web3.career/senior-manager-regulatory-compliance-coinsquare/9445,"Toronto,
+Canada","Senior Manager, Regulatory Compliance",,compliance:legal:senior:ethereum,6mo
+Coinsquare,https://web3.career/aml-analyst-compliance-coinsquare/9444,"Toronto,
+Canada","AML Analyst, Compliance",,compliance:analyst:ethereum,6mo
+CoinGecko,https://web3.career/product-manager-coin-gecko/9443,"Selangor,
+Malaysia",Product Manager,$69k - $160k,product manager:non tech,6mo
+CoinGecko,https://web3.career/associate-product-manager-coin-gecko/9442,"Selangor,
+Malaysia",Associate Product Manager,$69k - $160k,product manager:non tech,6mo

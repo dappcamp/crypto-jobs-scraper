@@ -1,36 +1,59 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Coinbase,https://web3.career/customer-support-analyst-coinbase/8257,Customer Support Analyst,$15k - $95k,analyst:customer support,6mo
-Coinbase,https://web3.career/customer-support-analyst-coinbase/8256,Customer Support Analyst,$15k - $95k,analyst:customer support,6mo
-Coinbase,https://web3.career/content-strategist-cloud-coinbase/8255,"Content Strategist, Cloud",$109k - $13k,cloud,6mo
-Coinbase,https://web3.career/content-strategist-coinbase/8254,Content Strategist,,,6mo
-Coinbase,https://web3.career/community-operations-incidents-and-escalations-analyst-customer-support-coinbase/8253,"Community Operations Incidents and Escalations Analyst, Customer Support",,analyst:community manager:non tech:customer support:operations,6mo
-Coinbase,https://web3.career/community-operations-incidents-and-escalations-analyst-customer-support-coinbase/8252,"Community Operations Incidents and Escalations Analyst, Customer Support",,analyst:community manager:non tech:customer support:operations,6mo
-Coinbase,https://web3.career/associate-manager-support-content-strategy-coinbase/8251,"Associate Manager, Support Content Strategy",$40k - $80k,customer support,6mo
-Coinbase,https://web3.career/associate-manager-complaints-coinbase/8250,"Associate Manager, Complaints",,,6mo
-Coinbase,https://web3.career/analyst-content-moderation-coinbase/8249,"Analyst, Content Moderation",$36k - $120k,analyst:nft,6mo
-Coinbase,https://web3.career/senior-product-manager-coinbase/8248,Senior Product Manager,$80k - $150k,product manager:non tech:senior,6mo
-Coinbase,https://web3.career/group-product-manager-coinbase/8247,Group Product Manager,$69k - $160k,product manager:non tech,6mo
-Coinbase,https://web3.career/director-product-coinbase/8246,"Director, Product",$70k - $180k,executive,6mo
-Coinbase,https://web3.career/senior-technical-recruiter-coinbase/8245,Senior Technical Recruiter,$40k - $70k,recruiter:non tech:senior,6mo
-Coinbase,https://web3.career/international-benefits-senior-manager-coinbase/8244,International Benefits Senior Manager,$78k - $200k,senior,6mo
-Coinbase,https://web3.career/engineering-recruiting-manager-coinbase/8243,Engineering Recruiting Manager,$40k - $70k,recruiter:non tech,6mo
-Coinbase,https://web3.career/sw-engineer-hr-workday-functional-enterprise-apps-coinbase/8242,"SW Engineer, HR (Workday Functional), Enterprise Apps",$100k - $150k,dev:hr:non tech,6mo
-Coinbase,https://web3.career/sr-system-analyst-anaplan-finance-platform-coinbase/8241,"Sr. System Analyst (Anaplan), Finance Platform",,analyst:finance:senior,6mo
-Coinbase,https://web3.career/sr-sw-engineer-cx-enterprise-apps-coinbase/8240,"Sr. SW Engineer, CX, Enterprise Apps",$80k - $200k,dev:senior:javascript:java,6mo
-Coinbase,https://web3.career/software-engineer-mulesoft-integrations-marketing-systems-enterprise-applications-architecture-coinbase/8239,"Software Engineer (Mulesoft) Integrations (Marketing Systems), Enterprise Applications & Architecture",$85k - $120k,dev:marketing:non tech:java:golang,6mo
-Coinbase,https://web3.career/senior-sw-engineer-integrations-enterprise-apps-coinbase/8238,"Senior SW Engineer, Integrations, Enterprise Apps",$50k - $200k,dev:senior:java:golang,6mo
-Coinbase,https://web3.career/engineering-manager-integrations-development-mulesoft-coinbase/8237,"Engineering Manager, Integrations & Development - Mulesoft",$70k - $180k,executive,6mo
-Coinbase,https://web3.career/senior-engineering-manager-crypto-asset-addition-coinbase/8236,"Senior Engineering Manager, Crypto Asset Addition",$46k - $109k,executive:senior:crypto,6mo
-Coinbase,https://web3.career/senior-engineering-manager-backend-coinbase/8235,"Senior Engineering Manager, Backend",,executive:backend:senior,6mo
-Coinbase,https://web3.career/engineering-manager-crypto-asset-addition-coinbase/8234,"Engineering Manager, Crypto Asset Addition",$50k - $158k,executive:crypto,6mo
-Coinbase,https://web3.career/engineering-manager-coinbase/8233,Engineering Manager,$115k - $150k,executive:react:react native:javascript:ruby,6mo
-Coinbase,https://web3.career/director-of-engineering-india-coinbase/8232,"Director of Engineering, India",$45k - $120k,executive:react:ruby,6mo
-Coinbase,https://web3.career/senior-site-reliability-engineer-coinbase/8231,Senior Site Reliability Engineer,$150k - $200k,dev:sys admin:senior:ruby,6mo
-Coinbase,https://web3.career/senior-site-reliability-engineer-coinbase/8230,Senior Site Reliability Engineer,$150k - $200k,dev:sys admin:senior:ruby,6mo
-Coinbase,https://web3.career/staff-frontend-engineer-coinbase/8229,Staff Frontend Engineer,$50k - $144k,dev:front end:react:react native:javascript,6mo
-Coinbase,https://web3.career/senior-frontend-engineer-coinbase/8228,Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:react native,6mo
-Coinbase,https://web3.career/senior-software-engineer-data-platform-coinbase/8227,"Senior Software Engineer, Data Platform",$130k - $160k,dev:senior:scala:java,6mo
-Coinbase,https://web3.career/senior-machine-learning-engineer-coinbase/8226,Senior Machine Learning Engineer,,dev:machine learning:senior,6mo
-Coinbase,https://web3.career/staff-software-engineer-coinbase/8225,Staff Software Engineer,$65k - $120k,dev:ethereum:ruby:golang,6mo
-Coinbase,https://web3.career/software-engineer-coinbase/8224,Software Engineer,$65k - $120k,dev:ethereum:ruby:golang,6mo
-Coinbase,https://web3.career/senior-backend-engineer-coinbase/8223,Senior Backend Engineer,$70k - $200k,backend:dev:senior:ethereum:ruby,6mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Gnosis,https://web3.career/junior-hr-manager-m-w-d-gnosis/8807,"Berlin,
+Germany",(Junior) HR Manager (m/w/d),,hr:non tech:junior:entry level:node,6mo
+Immutable,https://web3.career/community-manager-immutable/8803,Remote,Community Manager,$40k - $101k,community manager:non tech:remote,6mo
+Wirex Limited,https://web3.career/people-business-operations-manager-wirexlimited/8802,"London,
+United Kingdom",People & Business Operations Manager,$60k - $200k,operations,6mo
+Figure,https://web3.career/operations-training-specialist-ii-figure/8801,"Charlotte,
+United States",Operations Training Specialist II,,operations:education,6mo
+Binance,https://web3.career/binance-card-and-pay-operation-specialist-manager-binance/8799,Asia,Binance Card and Pay Operation Specialist/ Manager,,,6mo
+Chainalysis,https://web3.career/senior-engineer-frontend-chainalysis/8798,Denmark,"Senior Engineer, Frontend",$70k - $190k,dev:front end:senior:react:java,6mo
+OKEx,https://web3.career/senior-product-manager-trading-experience-okex/8797,"Hong Kong,
+Hong Kong",(Senior) Product Manager - Trading Experience,$80k - $150k,product manager:non tech:senior,6mo
+Kraken Digital Asset Exchange,https://web3.career/senior-compliance-associate-fiu-investigator-australia-kraken/8796,Australia,Senior Compliance Associate - FIU investigator Australia,,compliance:senior,6mo
+Bitcoin Depot,https://web3.career/sales-enablement-manager-charlotte-bitcoindepot/8795,"Charlotte,
+United States",Sales Enablement Manager - Charlotte,$29k - $43k,sales:non tech:ethereum,6mo
+Ledger,https://web3.career/crypto-specialist-ledger/8794,"Portland,
+United States",Crypto Specialist,$39k - $140k,crypto,6mo
+Anchorage Digital,https://web3.career/client-experience-manager-anchorage/8791,Portugal,Client Experience Manager,,,6mo
+Bitcoin Depot,https://web3.career/regional-sales-executive-des-moines-bitcoindepot/8790,United States,Regional Sales Executive - Des Moines,$40k - $150k,executive:sales:non tech:ethereum,6mo
+GSR,https://web3.career/business-development-gsr/8789,"New York,
+United States",Business Development,$26k - $140k,sales:non tech,6mo
+Binance,https://web3.career/senior-product-manager-international-markets-binance/8787,Asia,Senior Product Manager - International Markets,$80k - $150k,product manager:non tech:senior,6mo
+Binance,https://web3.career/finance-project-manager-binance/8786,"London,
+United Kingdom",Finance Project Manager,,finance:project manager:non tech,6mo
+Chainalysis,https://web3.career/senior-solutions-architect-uk-chainalysis/8785,"London,
+United Kingdom","Senior Solutions Architect, UK",$80k,architecture:senior,6mo
+Ripple,https://web3.career/senior-analyst-gtm-strategy-operations-ripple/8784,"San Francisco,
+United States","Senior Analyst, GTM Strategy & Operations",,analyst:operations:senior:react,6mo
+Ripple,https://web3.career/senior-software-engineer-liquidity-ripple/8783,"London,
+United Kingdom","Senior Software Engineer, Liquidity",,dev:sales:non tech:senior:java,6mo
+Binance,https://web3.career/bsc-operations-intern-binance/8782,Asia,BSC Operations Intern,,intern:entry level:operations,6mo
+Qredo,https://web3.career/senior-rust-engineer-qredo/8778,Remote,Senior Rust Engineer,$120k - $210k,dev:rust:senior:javascript:java,6mo
+Wodify,https://web3.career/engineering-manager-wodify/8777,,Engineering Manager,$70k - $180k,executive,6mo
+LiveCA LLP,https://web3.career/training-specialist-liveca/8776,Remote,Training Specialist,,education:remote,6mo
+LiveCA LLP,https://web3.career/associate-remote-cpa-student-liveca/8775,Remote,Associate (Remote CPA Student),$56k - $160k,remote,6mo
+Vested,https://web3.career/account-executive-fullyvestedllc/8774,"New York,
+United States",Account Executive,$70k - $180k,executive,6mo
+Altonomy,https://web3.career/finance-manager-altonomy/8773,"Singapore,
+Singapore",Finance Manager,$40k - $150k,finance,6mo
+Coins.ph,https://web3.career/data-engineer-data-team-coinsph/8772,"Manila,
+Philippines",Data Engineer [Data team],$130k - $160k,data science:dev:scala:java,6mo
+Altonomy,https://web3.career/trading-system-support-engineer-altonomy/8771,"Singapore,
+Singapore",Trading System Support Engineer,,dev:customer support:react:javascript,6mo
+Coins.ph,https://web3.career/senior-data-analyst-data-team-coinsph/8770,"Manila,
+Philippines",Senior Data Analyst [Data team],,analyst:data science:senior,6mo
+Altonomy,https://web3.career/quant-researcher-otc-trading-desk-altonomy/8769,"Singapore,
+Singapore",Quant Researcher (OTC Trading Desk),,,6mo
+Altonomy,https://web3.career/quality-assurance-engineer-altonomy/8768,"Singapore,
+Singapore",Quality Assurance Engineer,$54k - $150k,dev:solidity:javascript,6mo
+Altonomy,https://web3.career/tech-lead-altonomy/8767,"Singapore,
+Singapore",Tech Lead,$100k - $220k,lead:tech lead:react:javascript,6mo
+Altonomy,https://web3.career/tech-intern-altonomy/8766,"Singapore,
+Singapore",Tech Intern,$18k - $28k,intern:entry level:javascript,6mo
+Sphinix Solutions,https://web3.career/ethereum-developer-sphinixusa/8765,"New York,
+United States",Ethereum Developer,$63k - $160k,dev:solidity:ethereum,6mo
+Altonomy,https://web3.career/blockchain-developer-altonomy/8764,"Singapore,
+Singapore",Blockchain Developer,$52k - $160k,dev:blockchain:solidity:ethereum:javascript,6mo
+SwissBorg,https://web3.career/software-engineer-data-remote-swissborg/8758,"Lisbon,
+Portugal","Software Engineer, Data (Remote)",$65k - $180k,remote:dev,6mo

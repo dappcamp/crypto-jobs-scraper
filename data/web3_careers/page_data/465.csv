@@ -1,36 +1,58 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-RECUR,https://web3.career/product-marketing-manager-remote-recur/722,Product Marketing Manager (Remote),$25k - $120k,remote:marketing:non tech:ethereum:nft,7mo
-RECUR,https://web3.career/product-designer-remote-recur/721,Product Designer (Remote),$50k - $135k,remote:design:non tech:ethereum:nft,7mo
-RECUR,https://web3.career/senior-recruiter-remote-recur/720,Senior Recruiter (Remote),,remote:recruiter:non tech:senior:ethereum,7mo
-RECUR,https://web3.career/vp-of-marketing-remote-recur/719,VP of Marketing (Remote),$25k - $120k,remote:marketing:non tech:executive:ethereum,7mo
-RECUR,https://web3.career/senior-content-marketing-manager-remote-recur/718,Senior Content Marketing Manager (Remote),$25k - $120k,remote:marketing:non tech:senior:ethereum,7mo
-RECUR,https://web3.career/it-operations-and-systems-administrator-remote-recur/717,IT Operations and Systems Administrator (Remote),,remote:operations:sys admin:ethereum,7mo
-RECUR,https://web3.career/vp-of-gaming-remote-recur/716,VP of Gaming (Remote),,remote:game dev:executive:ethereum:nft,7mo
-RECUR,https://web3.career/ux-designer-gaming-remote-recur/715,"UX Designer, Gaming (Remote)",$50k - $135k,remote:design:non tech:game dev:ethereum,7mo
-RECUR,https://web3.career/producer-games-and-experiences-remote-recur/714,"Producer, Games and Experiences (Remote)",$79k - $158k,remote:ethereum:nft,7mo
-RECUR,https://web3.career/senior-software-engineer-platform-engineering-remote-recur/713,Senior Software Engineer - Platform Engineering (Remote),$85k - $200k,remote:dev:senior:ethereum:nft,7mo
-RECUR,https://web3.career/senior-software-engineer-nft-blockchain-engineering-remote-recur/712,Senior Software Engineer - NFT/Blockchain Engineering (Remote),$85k - $200k,remote:dev:senior:blockchain:nft,7mo
-RECUR,https://web3.career/senior-front-end-engineer-remote-recur/711,Senior Front End Engineer (Remote),$22k - $120k,remote:dev:front end:senior:react,7mo
-RECUR,https://web3.career/principal-software-engineer-remote-recur/710,Principal Software Engineer (Remote),$95k - $300k,remote:dev:executive:ethereum:nft,7mo
-RECUR,https://web3.career/principal-security-engineer-remote-recur/709,Principal Security Engineer (Remote),$95k - $300k,remote:dev:executive:security:nft,7mo
-RECUR,https://web3.career/senior-motion-designer-sports-remote-recur/708,Senior Motion Designer - Sports (Remote),$50k - $135k,remote:design:non tech:senior:ethereum,7mo
-RECUR,https://web3.career/senior-motion-designer-remote-recur/707,Senior Motion Designer (Remote),$50k - $135k,remote:design:non tech:senior:ethereum,7mo
-RECUR,https://web3.career/senior-digital-illustrator-motion-graphics-artist-remote-recur/706,Senior Digital Illustrator/Motion Graphics Artist (Remote),,remote:illustrator:vfx:senior:ethereum,7mo
-RECUR,https://web3.career/motion-graphics-artist-remote-recur/705,Motion Graphics Artist (Remote),,remote:vfx:ethereum,7mo
-RECUR,https://web3.career/motion-designer-sports-remote-recur/704,Motion Designer - Sports (Remote),$50k - $135k,remote:design:non tech:ethereum,7mo
-RECUR,https://web3.career/digital-illustrator-motion-graphics-artist-remote-recur/703,Digital Illustrator/Motion Graphics Artist (Remote),,remote:illustrator:vfx:ethereum:nft,7mo
-RECUR,https://web3.career/vp-of-community-remote-recur/702,VP of Community (Remote),$40k - $101k,remote:community manager:non tech:executive:ethereum,7mo
-RECUR,https://web3.career/senior-community-manager-remote-recur/701,Senior Community Manager (Remote),$40k - $101k,remote:community manager:non tech:senior:ethereum,7mo
-Tron,https://web3.career/head-of-data-analytics-bittorrent-rainberry/700,"Head of Data Analytics, BitTorrent",,executive:stats:data science,7mo
-Tron,https://web3.career/director-of-advertising-technical-solutions-integrations-rainberry/699,Director of Advertising Technical Solutions & Integrations,,executive:javascript:php,7mo
-Tron,https://web3.career/devops-engineer-rainberry/698,DevOps Engineer,,devops:dev:ruby,7mo
-Tron,https://web3.career/data-analyst-rainberry/697,Data Analyst,$36k - $72k,analyst:data science,7mo
-Tron,https://web3.career/senior-advertising-demand-sales-manager-singapore-rainberry/696,"Senior Advertising Demand Sales Manager, Singapore",$50k - $150k,sales:non tech:senior,7mo
-Tron,https://web3.career/senior-product-manager-rainberry/695,Senior Product Manager,$80k - $150k,product manager:non tech:senior,7mo
-Tron,https://web3.career/product-marketing-manager-rainberry/694,Product Marketing Manager,$45k - $130k,marketing:non tech,7mo
-Tron,https://web3.career/marketing-intern-rainberry/693,Marketing Intern,$24k - $48k,intern:entry level:marketing:non tech,7mo
-Tron,https://web3.career/director-social-media-engagement-rainberry/692,"Director, Social Media Engagement",$45k - $150k,executive:social media:non tech,7mo
-Tron,https://web3.career/business-development-manager-rainberry/691,Business Development Manager,$26k - $140k,sales:non tech,7mo
-Tron,https://web3.career/business-development-manager-rainberry/690,Business Development Manager,$26k - $140k,sales:non tech,7mo
-Tron,https://web3.career/business-development-manager-rainberry/689,Business Development Manager,$26k - $140k,sales:non tech,7mo
-Tron,https://web3.career/business-development-associate-rainberry/688,Business Development Associate,$26k - $140k,sales:non tech,7mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Paradigm,https://web3.career/software-engineer-smart-contracts-paradigm-xyz/1303,"San Francisco,
+United States",Software Engineer - Smart Contracts,$70k - $200k,dev:smart contract,7mo
+Kraken Digital Asset Exchange,https://web3.career/brand-designer-typographer-kraken/1302,Remote,Brand Designer - Typographer,,marketing:non tech:design:remote,7mo
+Binance,https://web3.career/project-manager-business-binance/1301,Asia,Project Manager (Business),$50k - $150k,project manager:non tech,7mo
+Voice,https://web3.career/social-media-lead-voice/1299,"New York,
+United States",Social Media Lead,,lead:social media:non tech:nft,7mo
+Illuvium,https://web3.career/senior-creative-recruiter-illuvium/1295,"Sydney,
+Australia",Senior Creative Recruiter,$40k - $70k,recruiter:non tech:senior,7mo
+Binance,https://web3.career/ui-ux-designer-binance/1293,Asia,UI/UX Designer,$50k - $150k,design:non tech,7mo
+Paradigm,https://web3.career/liquidity-management-associate-paradigm/1291,"New York,
+United States",Liquidity Management Associate -,$26k - $140k,sales:non tech,7mo
+Ledger,https://web3.career/sales-director-emea-ledger/1290,"Zurich,
+Switzerland",Sales Director EMEA,$40k - $150k,executive:sales:non tech,7mo
+Binance,https://web3.career/senior-recruiter-talent-acquisition-specialist-marketing-binance/1289,"London,
+United Kingdom",Senior Recruiter / Talent Acquisition Specialist (Marketing),,marketing:non tech:recruiter:senior,7mo
+Blockdaemon,https://web3.career/senior-developer-ethereum-specialist-blockdaemon/1288,"San Francisco,
+United States","Senior Developer, Ethereum Specialist",$80k - $200k,dev:senior,7mo
+OKEx,https://web3.career/head-of-office-administration-regional-okex/1286,"Hong Kong,
+Hong Kong",Head of Office Administration (Regional),$70k - $180k,executive,7mo
+Binance,https://web3.career/finance-manager-binance/1285,"Dubai,
+United Arab Emirates",Finance Manager,$40k - $150k,finance,7mo
+WOO Network,https://web3.career/product-manager-woonetwork/1284,"Warsaw,
+Poland",Product manager,,product manager:non tech:solana,7mo
+WOO Network,https://web3.career/visual-design-intern-woonetwork/1278,"Taipei,
+Taiwan",Visual Design Intern,$18k - $28k,design:non tech:intern:entry level,7mo
+MoonPay,https://web3.career/community-manager-moonpay/1277,"London,
+United Kingdom",Community Manager,$40k - $100k,community manager:non tech,7mo
+Bitwise Asset Management,https://web3.career/institutional-business-development-associate-bitwiseinvestments/1276,"New York,
+United States",Institutional Business Development Associate,$26k - $140k,sales:non tech,7mo
+Binance,https://web3.career/finance-manager-binance/1275,"Amsterdam,
+Netherlands",Finance Manager,$40k - $150k,finance,7mo
+Binance,https://web3.career/product-management-intern-binance/1273,Asia,Product Management Intern,,intern:entry level,7mo
+Binance,https://web3.career/customer-support-specialist-french-binance/1272,Remote,Customer Support Specialist - French,$40k - $80k,customer support:remote,7mo
+Stripe,https://web3.career/staff-engineer-crypto-stripe/1271,Remote,"Staff Engineer, Crypto",,dev:crypto:remote,7mo
+Binance,https://web3.career/senior-regulatory-advisor-futures-business-binance/1269,Europe,Senior Regulatory Advisor - Futures Business,,legal:senior,7mo
+RECUR,https://web3.career/customer-support-manager-remote-recur/1268,"Miami,
+United States",Customer Support Manager (Remote),,remote:customer support:ethereum:nft,7mo
+RECUR,https://web3.career/director-of-support-remote-recur/1267,"Miami,
+United States",Director of Support (Remote),,remote:executive:customer support:ethereum:nft,7mo
+SwissBorg,https://web3.career/remote-software-engineer-android-kotlin-swissborg/1262,"Lisbon,
+Portugal","Remote Software Engineer (Android, Kotlin)",,remote:android:mobile:dev,7mo
+The Block,https://web3.career/technical-operations-lead-theblockcrypto/1261,Remote,Technical Operations Lead,,lead:operations:remote,7mo
+BitGo,https://web3.career/product-designer-new-grad-bitgo/1260,"Singapore,
+Singapore","Product Designer, New Grad",$50k - $150k,design:non tech,7mo
+SwissBorg,https://web3.career/senior-kyc-aml-analyst-swissborg/1259,"Lisbon,
+Portugal",Senior KYC/AML analyst,,kyc:analyst:senior,7mo
+BitMEX,https://web3.career/site-reliability-engineer-bitmex/1257,"Vancouver,
+Canada",Site Reliability Engineer,$150k - $200k,dev:sys admin,7mo
+RECUR,https://web3.career/marketing-program-manager-remote-recur/1256,"Miami,
+United States",Marketing Program Manager (Remote),$25k - $120k,remote:marketing:non tech:executive:ethereum,7mo
+The Block,https://web3.career/director-of-memberships-new-business-theblockcrypto/1253,Remote,"Director of Memberships, New Business",$79k - $200k,executive:remote,7mo
+Kraken Digital Asset Exchange,https://web3.career/senior-business-recruiter-kraken/1252,Remote,Senior Business Recruiter,$40k - $70k,recruiter:non tech:senior:remote,7mo
+Wintermute,https://web3.career/trading-integration-specialist-wintermute-trading/1251,"London,
+United Kingdom",Trading Integration Specialist,$40k - $120k,analyst,7mo
+Kraken Digital Asset Exchange,https://web3.career/senior-talent-acquisition-manager-kraken/1250,Remote,Senior Talent Acquisition Manager,$40k - $70k,senior:recruiter:non tech:remote,7mo
+Hinata Foundation,https://web3.career/head-of-growth-hinata/1249,Remote,Head of Growth,$70k - $158k,executive:marketing:non tech:nft:remote,7mo
+Binance,https://web3.career/growth-campaign-retention-manager-fiat-binance/1246,Asia,Growth Campaign & Retention Manager - Fiat,,marketing:non tech:product manager,7mo

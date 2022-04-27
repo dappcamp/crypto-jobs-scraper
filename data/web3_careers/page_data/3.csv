@@ -1,36 +1,58 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-"Reach Platform, Inc.",https://web3.career/data-engineer-reachplatforminc/26470,Data Engineer,,data science:dev:java,20h
-OKX,https://web3.career/software-engineer-platform-services-okx/26469,Software Engineer - Platform Services,$33k - $140k,dev:java,20h
-Ignite,https://web3.career/principal-product-designer-ignite/26468,Principal Product Designer,,design:non tech:executive,20h
-Vauld,https://web3.career/compliance-associate-vauld/26467,Compliance Associate,,compliance,20h
-Polygon,https://web3.career/partnership-development-music-talent-polygon/26466,Partnership Development - Music & Talent,,sales:non tech:music:recruiter:ethereum,20h
-Polygon,https://web3.career/partnership-development-film-animation-polygon/26465,Partnership Development - Film & Animation,,sales:non tech:video:ethereum:nft,20h
-Polygon,https://web3.career/partnership-development-arts-fashion-polygon/26464,Partnership Development - Arts & Fashion,$29k - $43k,sales:non tech:ethereum:nft,20h
-Polygon,https://web3.career/lead-edao-studios-polygon/26463,Lead - eDAO Studios,$56k - $118k,lead:remote:ethereum:nft,20h
-Polygon,https://web3.career/community-manager-polygon/26462,Community Manager,$15k - $30k,community manager:non tech:ethereum:nft,20h
-Binance,https://web3.career/government-affairs-manager-south-africa-binance/26461,Government Affairs Manager - South Africa,$50k - $150k,,22h
-DEPT®,https://web3.career/internship-creative-tech-dept/26460,Internship Creative Tech,,intern:entry level:nft,22h
-Binance,https://web3.career/community-marketing-manager-armenia-binance/26459,Community & Marketing Manager - Armenia,$45k - $150k,community manager:non tech:marketing,22h
-Binance,https://web3.career/senior-business-development-manager-pay-binance/26458,Senior Business Development Manager - Pay,$50k - $150k,sales:non tech:senior,22h
-Binance,https://web3.career/manager-senior-associate-capital-markets-industry-research-binance/26457,"Manager/Senior Associate, Capital Markets & Industry Research",$79k - $200k,senior,22h
-Phantom,https://web3.career/communications-lead-social-and-community-phantom45/26456,"Communications Lead, Social and Community",$40k - $65k,community manager:non tech:lead:solana:ethereum,22h
-Wirex Limited,https://web3.career/administrative-specialist-wirexlimited/26455,Administrative Specialist,$50k - $150k,,23h
-Protocol Labs,https://web3.career/financial-analyst-protocollabs/26454,Financial Analyst,,analyst:finance,23h
-Binance,https://web3.career/growth-and-community-manager-binance/26453,Growth and Community Manager,$45k - $150k,community manager:non tech:marketing:remote,23h
-Binance,https://web3.career/java-engineer-risk-binance/26452,Java Engineer - Risk,$33k - $140k,dev:java,23h
-Binance,https://web3.career/hr-business-partner-latam-binance/26451,HR Business Partner (LATAM),$60k - $150k,hr:non tech,23h
-Binance,https://web3.career/community-marketing-manager-uzbekistan-binance/26450,Community & Marketing Manager - Uzbekistan,$45k - $150k,community manager:non tech:marketing,23h
-Oasis Protocol Foundation,https://web3.career/blockchain-community-manager-french-community-oasisnetwork/26449,Blockchain Community Manager (French community),$15k - $80k,community manager:non tech:blockchain,23h
-Cake Pte Ltd,https://web3.career/software-engineer-c-cakedefi/26448,Software Engineer (C++),$100k - $255k,c:c plus plus:dev:node:rust,24h
-Boson Protocol,https://web3.career/head-of-operations-bosonprotocol/26447,Head of Operations,$150k - $230k,executive:operations,24h
-MoonPay,https://web3.career/founding-engineer-solana-moonpay/26446,Founding Engineer (Solana),$80k - $180k,dev:solana:nft:rust,24h
-Shift Markets,https://web3.career/enterprise-sales-crypto-defi-web3-remote-shift-markets/26445,Enterprise Sales - Crypto/DeFi/Web3 - remote,$0k,remote:sales:non tech:crypto:defi,24h
-IOVLabs,https://web3.career/data-analyst-iovlabs/26444,Data Analyst,$45k - $120k,analyst:data science:remote,1d
-Polygon,https://web3.career/business-development-lead-polygon/26443,Business Development Lead,,sales:non tech:lead:remote:ethereum,1d
-Binance,https://web3.career/investment-manager-legal-relations-binance/26442,Investment Manager (Legal Relations),,finance:legal,1d
-Protocol Labs,https://web3.career/technical-program-manager-security-protocollabs/26441,"Technical Program Manager, Security",$95k - $250k,executive:security,1d
-Consensys,https://web3.career/technical-product-marketing-lead-developer-tools-consensys/26440,"Technical Product Marketing Lead, Developer Tools",,dev:lead:marketing:non tech:remote,1d
-Consensys,https://web3.career/tech-lead-accounts-and-key-management-consensys/26439,Tech Lead (Accounts and Key Management),$96k - $118k,lead:tech lead:remote:react:react native,1d
-Binance,https://web3.career/community-marketing-manager-azerbaijan-binance/26437,Community & Marketing Manager - Azerbaijan,$45k - $150k,community manager:non tech:marketing,1d
-Asset Living,https://web3.career/service-technician-solana-apartments-assetliving/26436,Service Technician - Solana Apartments,$50k - $150k,,1d
-Blockstream,https://web3.career/freelance-video-editor-animator-motion-graphics-blockstream/26435,Freelance Video Editor/Animator - Motion Graphics,,video:vfx:non tech,1d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+PolySign & Standard Custody,https://web3.career/principal-ux-designer-polysign/27040,"San Francisco,
+United States",Principal UX Designer,,design:non tech:executive,18h
+Floating Point Group,https://web3.career/hr-operations-fpg/27039,Remote,HR Operations,,hr:non tech:operations:remote,18h
+Crypto.com,https://web3.career/senior-backend-developer-elixir-global-fintech-startup-crypto/27038,"Hong Kong,
+Hong Kong",Senior Backend Developer - Elixir - Global Fintech Startup,$170k - $250k,backend:dev:finance:senior,18h
+Voodoo,https://web3.career/studio-director-hyper-casual-games-voodoo/27037,"Paris,
+France",Studio Director - Hyper Casual Games,$70k - $180k,executive,18h
+R3,https://web3.career/digital-assets-product-manager-r3-com/27036,"London,
+United Kingdom",Digital Assets Product Manager,,finance:product manager:non tech:java,18h
+Acumen's team,https://web3.career/summer-associate-insights-strategy-acumen/27035,"New York,
+United States","Summer Associate, Insights & Strategy",$50k - $150k,,18h
+Nansen.ai,https://web3.career/web-designer-marketing-nansen/27034,"London,
+United Kingdom",Web Designer (Marketing),$40k - $130k,design:non tech:marketing:javascript,18h
+Crypto.com,https://web3.career/backend-engineer-business-automation-global-fintech-startup-crypto/27033,"Singapore,
+Singapore",Backend Engineer (Business Automation) - Global Fintech Startup,$170k - $250k,backend:dev:finance,18h
+Binance,https://web3.career/general-manager-new-zealand-binance/27032,New Zealand,"General Manager, New Zealand",$70k - $180k,executive,18h
+Crypto.com,https://web3.career/data-scientist-exchange-global-crypto/27031,United States,"Data Scientist (Exchange), Global",$50k - $150k,data science,18h
+Gro,https://web3.career/head-of-talent-gro/27030,"London,
+United Kingdom",Head of Talent,$70k - $100k,executive:recruiter:non tech,18h
+Binance,https://web3.career/growth-marketing-intern-taiwan-binance/27029,"Taipei,
+Taiwan",Growth Marketing Intern - Taiwan,$24k - $48k,marketing:non tech:intern:entry level,18h
+Binance,https://web3.career/affiliate-marketing-intern-taiwan-binance/27028,"Taipei,
+Taiwan",Affiliate Marketing Intern - Taiwan,$24k - $48k,marketing:non tech:intern:entry level,18h
+Ankr Network,https://web3.career/software-engineer-gaming-sdk-ankrnetwork/27027,"San Francisco,
+United States",Software Engineer - Gaming SDK,,dev:game dev:ethereum:javascript:node,18h
+Binance,https://web3.career/social-media-marketing-intern-taiwan-binance/27026,"Taipei,
+Taiwan",Social Media Marketing Intern - Taiwan,$24k - $48k,intern:entry level:marketing:non tech:social media,18h
+Crypto.com,https://web3.career/partnerships-business-development-manager-usa-crypto/27025,United States,Partnerships & Business Development Manager (USA),$30k - $139k,sales:non tech,18h
+Collectors,https://web3.career/principal-software-engineer-nfts-collectorsuniverse/27024,"New York,
+United States","Principal Software Engineer, NFTs",$80k - $180k,dev:executive:nft:web3js:react,18h
+Dream Sports,https://web3.career/sde-2-3-blockchain-engineer-dreamsports/27023,"Mumbai,
+India",SDE 2/3 - Blockchain Engineer,$26k - $87k,dev:blockchain:java,18h
+Collectors,https://web3.career/senior-product-manager-nft-collectorsuniverse/27022,United States,"Senior Product Manager, NFT",$80k - $150k,product manager:non tech:senior:nft,18h
+Crypto.com,https://web3.career/blockchain-security-engineer-backend-rust-kr-crypto/27021,"Seoul,
+South Korea",Blockchain Security Engineer - Backend (Rust) (KR),$45k - $140k,backend:dev:rust:security:blockchain,18h
+Credix,https://web3.career/marketing-communications-manager-credix/27020,Brazil,Marketing & Communications Manager,$50k - $80k,marketing:non tech,19h
+Blockchain.com,https://web3.career/social-media-support-associate-blockchain/27019,"London,
+United Kingdom",Social Media Support Associate,,social media:non tech:customer support,19h
+Amun 21Shares,https://web3.career/full-stack-engineer-platforms-amun/27017,"New York,
+United States","Full-Stack Engineer, Platforms",$67k - $160k,dev:full stack:node,20h
+Amun 21Shares,https://web3.career/full-stack-engineer-platforms-amun/27016,"Zurich,
+Switzerland","Full-Stack Engineer, Platforms",$67k - $160k,dev:full stack:node,20h
+iiml.org,https://web3.career/blockchain-developer-iiml-org/27014,India,Blockchain Developer,$39k - $84k,dev:blockchain:react:solidity:node,21h
+Voodoo,https://web3.career/senior-product-designer-wizz-voodoo/27013,"Paris,
+France",Senior Product Designer - Wizz,$60k - $120k,design:non tech:senior,21h
+Aldrin Labs,https://web3.career/performance-marketing-manager-web3-remote-aldrin-labs/27012,Remote,Performance Marketing Manager Web3 (Remote),$60k - $70k,remote:marketing:non tech,21h
+Parity Technologies,https://web3.career/ecosystem-business-operations-manager-parity/27010,"Berlin,
+Germany","Ecosystem, Business Operations Manager",$80k - $110k,operations:remote,22h
+Consensys,https://web3.career/senior-application-security-engineer-consensys/27009,Remote,Senior Application Security Engineer,$95k - $250k,dev:security:senior:remote:react,24h
+Consensys,https://web3.career/corporate-development-associate-consensys/27008,Remote,Corporate Development Associate,$60k - $146k,remote:ethereum,24h
+Consensys,https://web3.career/application-security-engineer-consensys/27007,Remote,Application Security Engineer,$95k - $250k,dev:security:remote:react:react native,24h
+Blockchain.com,https://web3.career/senior-infrastructure-security-engneer-blockchain/27006,"London,
+United Kingdom",Senior Infrastructure Security Engneer,$95k - $250k,security:senior,24h
+Blockchain.com,https://web3.career/security-grc-senior-analyst-blockchain/27005,"London,
+United Kingdom",Security GRC Senior Analyst,$150k - $185k,analyst:security:senior,24h
+Linking Realities,https://web3.career/web3-developer-wallet-development-linking-realities/27004,Remote,Web3 developer - Wallet development,$65k - $90k,dev:remote:metaverse:nft:blockchain,1d
+Yogai Labs,https://web3.career/nft-social-media-rockstar-yogai-labs/27002,Remote,NFT Social Media Rockstar,,social media:non tech:nft:remote:metaverse,1d

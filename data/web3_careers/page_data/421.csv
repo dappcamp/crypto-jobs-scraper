@@ -1,36 +1,60 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Localcoin,https://web3.career/data-engineer-localcoin/8745,Data Engineer,$70k - $160k,data science:dev,6mo
-Binance,https://web3.career/finance-business-partner-binance/8744,Finance Business Partner,$40k - $150k,finance,6mo
-Ripple,https://web3.career/staff-software-engineer-liquidity-finance-trading-ripple/8743,"Staff Software Engineer, Liquidity (Finance/Trading)",,dev:finance:sales:non tech:java,6mo
-Ripple,https://web3.career/business-development-manager-ripplex-ripple/8742,"Business Development Manager, RippleX",$26k - $140k,sales:non tech,6mo
-Ripple,https://web3.career/senior-data-engineer-ripple/8728,Senior Data Engineer,$130k - $160k,data science:dev:senior:java,6mo
-Localcoin,https://web3.career/administrative-assistant-localcoin/8727,Administrative Assistant,,,6mo
-Newton,https://web3.career/senior-backend-developer-newton/8726,Senior Backend Developer,$70k - $200k,backend:dev:senior:node:java,6mo
-Localcoin,https://web3.career/cash-reconciliation-analyst-localcoin/8725,Cash Reconciliation Analyst,$40k - $120k,analyst,6mo
-Localcoin,https://web3.career/operations-manager-localcoin/8724,Operations Manager,$60k - $200k,operations,6mo
-Ripple,https://web3.career/staff-software-engineer-liquidity-finance-trading-ripple/8723,"Staff Software Engineer, Liquidity (Finance/Trading)",,dev:finance:sales:non tech:java,6mo
-Ripple,https://web3.career/business-development-manager-ripplex-ripple/8722,"Business Development Manager, RippleX",$26k - $140k,sales:non tech,6mo
-Clain,https://web3.career/qa-automation-engineer-clain/8721,QA Automation Engineer,$50k - $150k,dev:quality assurance,6mo
-LATOKEN,https://web3.career/developer-backend-payment-services-latoken/8720,Developer Backend (Payment services),$65k - $180k,backend:dev:nft:node:java,6mo
-Nexo,https://web3.career/risk-analyst-nexo/8719,Risk Analyst,$40k - $120k,analyst,6mo
-LATOKEN,https://web3.career/social-media-manager-and-designer-latoken/8718,Social Media Manager and Designer,,design:non tech:social media:remote,6mo
-Nexo,https://web3.career/java-developer-nexo/8717,Java Developer,$33k - $145k,dev:java:node:php,6mo
-DEX Labs,https://web3.career/rust-engineer-dex-labs/8716,Rust Engineer,$80k - $200k,dev:rust:solidity,6mo
-Interchain,https://web3.career/grants-engineer-interchain-gmbh/8715,Grants Engineer,$69k - $160k,dev:javascript:rust,6mo
-Symbridge,https://web3.career/full-stack-engineer-symbridge/8714,Full Stack Engineer,$65k - $180k,dev:full stack:javascript:node,6mo
-LATOKEN,https://web3.career/head-of-analytics-latoken/8713,Head of Analytics,$50k - $130k,executive:stats,6mo
-Makara,https://web3.career/principal-designer-makara/8712,Principal Designer,,design:non tech:executive,6mo
-LATOKEN,https://web3.career/frontend-team-lead-c-react-js-latoken/8711,"Frontend Team Lead (C#, React, JS)",,c:c sharp:c plus plus:javascript:front end,6mo
-Emurgo,https://web3.career/backend-engineer-rust-emurgo/8710,Backend Engineer (Rust),$50k - $140k,backend:dev:rust:node:remote,6mo
-Coinomi,https://web3.career/blockchain-software-engineer-coinomi/8709,Blockchain Software Engineer,$50k - $120k,dev:blockchain:javascript:java,6mo
-Infinite Capital,https://web3.career/cryptocurrency-technical-analyst-infinite-capital/8708,Cryptocurrency Technical Analyst,$160k - $240k,analyst:crypto:solidity:nft,6mo
-super studios,https://web3.career/director-of-programming-youtube-super-studios/8707,"Director of Programming, YouTube",$63k - $180k,executive:nft,6mo
-Zero Hash,https://web3.career/cryptocurrency-settlement-and-operations-remote-european-hours-zero-hash/8705,Cryptocurrency Settlement and Operations (Remote - European Hours),,remote:operations:crypto:node,6mo
-Zero Hash,https://web3.career/cryptocurrency-settlement-and-operations-remote-european-hours-zero-hash/8706,Cryptocurrency Settlement and Operations (Remote - European Hours),,remote:operations:crypto:node,6mo
-Emurgo,https://web3.career/product-designer-emurgo/8704,Product Designer,$50k - $135k,design:non tech:remote,6mo
-Nexo,https://web3.career/spontaneous-application-nexo/8702,Spontaneous Application,,,6mo
-Nexo,https://web3.career/spontaneous-application-nexo/8703,Spontaneous Application,,,6mo
-LATOKEN,https://web3.career/product-manager-of-content-production-and-distribution-latoken/8701,Product Manager of Content Production and Distribution,,product manager:non tech:react:remote,6mo
-LATOKEN,https://web3.career/liquidity-support-manager-market-making-latoken/8700,Liquidity Support Manager (Market Making),,sales:non tech:customer support,6mo
-LATOKEN,https://web3.career/forensic-analyst-latoken/8699,Forensic Analyst,$40k - $120k,analyst,6mo
-LATOKEN,https://web3.career/product-manager-investment-platform-latoken/8698,Product Manager Investment Platform,,finance:product manager:non tech,6mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Decent Labs,https://web3.career/web3-frontend-engineer-decent-labs/8970,"Miami,
+United States",Web3 Frontend Engineer,$22k - $120k,remote:dev:front end:react:ethereum,6mo
+ETHGlobal,https://web3.career/community-success-ethglobal/2477,Remote,Community Success,$40k - $101k,community manager:non tech:remote,6mo
+ETHGlobal,https://web3.career/full-stack-engineer-web3-ethglobal/2476,Remote,Full Stack Engineer (Web3),$70k - $200k,dev:full stack:remote,6mo
+ETHGlobal,https://web3.career/designer-who-codes-ethglobal/2475,Remote,Designer Who Codes,$50k - $135k,design:non tech:remote,6mo
+ETHGlobal,https://web3.career/business-development-ethglobal/2474,Remote,Business Development,$29k - $108k,sales:non tech:remote,6mo
+Binance,https://web3.career/quality-assurance-qa-engineer-binance/2473,"Bangkok,
+Thailand",Quality Assurance (QA) Engineer,$50k - $150k,dev:quality assurance,6mo
+Binance,https://web3.career/localization-project-manager-binance/2472,Asia,Localization Project Manager,$50k - $150k,project manager:non tech,6mo
+Binance,https://web3.career/nft-content-marketing-specialist-binance/2471,Asia,NFT - Content Marketing Specialist,$55k - $140k,marketing:non tech:nft,6mo
+cLabs,https://web3.career/research-innovation-intern-celo-foundation-spring-summer-2022-clabs/2470,Remote,"Research & Innovation Intern, Celo Foundation (Spring/Summer 2022)",$24k - $48k,intern:entry level:remote,6mo
+ETHGlobal,https://web3.career/developer-relations-ethglobal/2469,Remote,Developer Relations,,customer support:dev:remote,6mo
+Pyth Network,https://web3.career/software-engineer-pythnetwork/8967,,Software Engineer,$75k - $190k,dev:rust,6mo
+Pyth Network,https://web3.career/designer-pythnetwork/8966,,Designer,$100k - $150k,design:non tech:solana,6mo
+Akash Network,https://web3.career/program-manager-akashnetwork/8965,Remote,Program Manager,$79k - $200k,executive:remote,6mo
+Polygon,https://web3.career/qa-engineer-polygon/8964,"Mumbai,
+India",QA Engineer,$65k - $150k,dev:quality assurance:ethereum,6mo
+Polygon,https://web3.career/polygon-ecosystem-fund-vc-analyst-polygon/8963,"Mumbai,
+India",Polygon Ecosystem Fund VC Analyst,$45k - $185k,analyst:ethereum,6mo
+Polygon,https://web3.career/solidity-developers-polygon/8962,"Mumbai,
+India",Solidity Developers,$60k - $158k,solidity:ethereum,6mo
+Polygon,https://web3.career/support-specialist-role-polygon/8961,"Mumbai,
+India",Support Specialist Role,,customer support:ethereum,6mo
+Polygon,https://web3.career/support-specialist-polygon/8960,"Mumbai,
+India",Support Specialist,,customer support:ethereum,6mo
+Polygon,https://web3.career/qa-engineer-polygon/8959,"Singapore,
+Singapore",QA Engineer,$65k - $150k,dev:quality assurance:ethereum,6mo
+Polygon,https://web3.career/nft-lead-polygon/8958,"Singapore,
+Singapore",NFT Lead,$100k - $200k,lead:nft:ethereum,6mo
+Polygon,https://web3.career/developer-community-associate-polygon/8957,"Singapore,
+Singapore",Developer Community Associate,,community manager:non tech:dev:ethereum,6mo
+Polygon,https://web3.career/site-reliability-engineer-polygon/8956,"Mumbai,
+India",Site Reliability Engineer,,dev:sys admin:ethereum,6mo
+Polygon,https://web3.career/researcher-ii-polygon/8955,"Singapore,
+Singapore",Researcher II,$60k - $150k,ethereum,6mo
+Polygon,https://web3.career/researcher-i-polygon/8954,"Mumbai,
+India",Researcher I,$60k - $150k,ethereum,6mo
+Polygon,https://web3.career/integration-lead-polygon/8953,"Mumbai,
+India",Integration lead,$100k - $200k,lead:ethereum:nft,6mo
+Polygon,https://web3.career/gaming-studio-team-lead-tech-integration-and-solutioning-polygon/8952,"Mumbai,
+India",Gaming Studio Team Lead- Tech Integration and Solutioning,,game dev:lead:ethereum,6mo
+Polygon,https://web3.career/engineering-manager-polygon/8951,"Singapore,
+Singapore",Engineering Manager,$79k - $158k,executive:ethereum,6mo
+Polygon,https://web3.career/devops-engineer-polygon/8950,"Singapore,
+Singapore",DevOps Engineer,$95k - $145k,devops:dev:ethereum,6mo
+Polygon,https://web3.career/backend-engineer-polygon/8949,"Dubai,
+United Arab Emirates",Backend Engineer,$65k - $125k,backend:dev:ethereum,6mo
+Polygon,https://web3.career/technical-community-manager-polygon/8948,"Singapore,
+Singapore",Technical Community Manager,$15k - $30k,community manager:non tech:ethereum,6mo
+Polygon,https://web3.career/research-analyst-polygon/8947,"Mumbai,
+India",Research Analyst,$45k - $185k,analyst:ethereum,6mo
+Polygon,https://web3.career/pr-coordinator-polygon/8946,"Tokyo,
+Japan",PR Coordinator,,marketing:non tech:react:ethereum,6mo
+Polygon,https://web3.career/polygon-studios-marketing-polygon/8945,"Singapore,
+Singapore",Polygon Studios Marketing,$48k - $120k,marketing:non tech:ethereum,6mo
+Polygon,https://web3.career/polygon-lead-ecosystem-evangelist-polygon/8944,"Singapore,
+Singapore",Polygon Lead Ecosystem Evangelist,$96k - $220k,lead:ethereum,6mo
+Polygon,https://web3.career/partner-marketing-lead-polygon/8943,"Singapore,
+Singapore",Partner Marketing Lead,$50k - $120k,lead:marketing:non tech:ethereum:nft,6mo

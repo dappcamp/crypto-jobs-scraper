@@ -1,36 +1,59 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Foundation,https://web3.career/senior-product-designer-with-foundation/12657,Senior Product Designer,$60k - $120k,design:non tech:senior:nft:remote,5mo
-Foundation,https://web3.career/product-support-specialist-with-foundation/12656,Product Support Specialist,$40k - $80k,customer support:remote,5mo
-Foundation,https://web3.career/product-manager-with-foundation/12655,Product Manager,$69k - $160k,product manager:non tech:nft:remote,5mo
-Foundation,https://web3.career/lead-product-designer-with-foundation/12654,Lead Product Designer,$40k - $190k,design:non tech:lead:remote,5mo
-Foundation,https://web3.career/business-operations-associate-with-foundation/12653,Business Operations Associate,$80k - $110k,operations:remote,5mo
-Foundation,https://web3.career/senior-software-engineer-data-platform-with-foundation/12652,Senior Software Engineer — Data Platform,$85k - $200k,dev:senior:remote,5mo
-Foundation,https://web3.career/senior-software-engineer-backend-with-foundation/12651,Senior Software Engineer — Backend,$70k - $200k,backend:dev:senior:remote,5mo
-Foundation,https://web3.career/creative-associate-with-foundation/12650,Creative Associate,$56k - $160k,remote,5mo
-Foundation,https://web3.career/senior-motion-designer-with-foundation/12649,Senior Motion Designer,$60k - $120k,design:non tech:senior:remote,5mo
-Foundation,https://web3.career/senior-brand-designer-with-foundation/12648,Senior Brand Designer,,marketing:non tech:design:senior:remote,5mo
-Zerion,https://web3.career/social-media-community-manager-zerion/12647,Social Media & Community Manager,$45k - $100k,community manager:non tech:social media:remote,5mo
-GSR,https://web3.career/lead-infrastructure-engineer-vp-director-low-latency-trading-london-gsr/12646,Lead Infrastructure Engineer - VP/Director - Low Latency Trading - London,$140k - $200k,executive:dev:lead,5mo
-OKEx,https://web3.career/office-administration-manager-remote-okex/12645,Office Administration Manager (Remote),$56k - $160k,remote,5mo
-Qubit9 GmbH,https://web3.career/principal-software-cloud-engineer-m-f-d-qubit9/12644,Principal Software / Cloud Engineer (m/f/d),,cloud:dev:executive,5mo
-Parcl,https://web3.career/blockchain-engineer-parcl-6/12643,Blockchain Engineer,$130k - $210k,dev:blockchain:solana:rust,5mo
-Qubit9 GmbH,https://web3.career/senior-controller-m-w-d-qubit9/12642,Senior Controller (m/w/d),,legal:senior,5mo
-Qubit9 GmbH,https://web3.career/senior-accountant-m-w-d-qubit9/12641,Senior Accountant (m/w/d),$80k - $110k,accounting:senior,5mo
-Ethereum Foundation,https://web3.career/research-engineer-fully-remote-ethereum-foundation/12640,Research Engineer (Fully Remote),$0k,remote:dev:ethereum:php,5mo
-Ethereum Foundation,https://web3.career/product-designer-fully-remote-ethereum-foundation/12639,Product Designer (Fully Remote),$95k - $135k,remote:design:non tech:ethereum:node,5mo
-Ethereum Foundation,https://web3.career/devops-engineer-ethereum-foundation/12638,DevOps Engineer,$0k,devops:dev:ethereum:php:rust,5mo
-Swaap,https://web3.career/web3-front-end-developer-swaap-labs/12637,Web3 Front-end Developer,$67k - $101k,dev:front end:javascript,5mo
-Swaap,https://web3.career/solidity-engineer-swaap-labs/12636,Solidity Engineer,$90k - $158k,dev:solidity:ethereum,5mo
-Marlin Protocol,https://web3.career/senior-solidity-developer-marlin-protocol/12635,Senior Solidity Developer,$39k - $65k,dev:senior:solidity:react:javascript,5mo
-Figment,https://web3.career/fp-a-manager-figment/12634,FP&A Manager,,,5mo
-SideShift.ai,https://web3.career/backend-engineer-sideshift-ai/12632,Backend Engineer,$50k - $75k,backend:dev:remote,5mo
-Consensys,https://web3.career/senior-product-designer-consensys/12631,Senior Product Designer,$60k - $120k,design:non tech:senior:ethereum:remote,5mo
-Immutable,https://web3.career/senior-talent-acquisition-partner-engineering-immutable/12630,Senior Talent Acquisition Partner (Engineering),$40k - $70k,senior:recruiter:non tech:ethereum,5mo
-Parcel,https://web3.career/frontend-engineer-parcel/12629,Frontend Engineer,,dev:front end:react:solidity:nft,5mo
-Konfid.io GmbH,https://web3.career/ux-ui-designer-3361237-ux-ui-designer/12628,UX UI Designer,$50k - $150k,design:non tech,5mo
-With Wise,https://web3.career/lead-qa-engineer-withwise/12627,Lead QA Engineer,$100k - $180k,dev:lead:quality assurance:nft:javascript,5mo
-Flex Suisse AG,https://web3.career/crypto-junior-legal-counsel-flexsuisse/12621,Crypto | Junior Legal Counsel,$120k,legal:junior:entry level:crypto,5mo
-Lykke Business AG,https://web3.career/senior-react-native-developer-3362154-senior-react-native-developer/12615,Senior React Native developer,$65k - $200k,dev:react native:mobile:javascript:react,5mo
-Ledger,https://web3.career/engineering-manager-b2c-backend-services-ledger/12607,Engineering Manager B2C - Backend Services,$130k - $150k,c:c plus plus:executive:backend,5mo
-Binance,https://web3.career/java-developer-payment-binance/12605,Java Developer - Payment,$33k - $140k,dev:java,5mo
-VaynerMedia LLC,https://web3.career/vaynernft-strategy-manager-vaynermedia/12603,"VaynerNFT, Strategy Manager",$55k - $150k,nft,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Ondo Finance,https://web3.career/senior-smart-contract-engineer-solidity-ondo-finance/13191,"New York,
+United States",Senior Smart Contract Engineer (Solidity),$140k - $220k,dev:senior:smart contract:solidity:ethereum,5mo
+Ondo Finance,https://web3.career/senior-smart-contract-engineer-solana-rust-technical-lead-ondo-finance/13190,"New York,
+United States",Senior Smart Contract Engineer (Solana/Rust) — Technical Lead,$140k - $220k,dev:lead:rust:senior:tech lead,5mo
+Ondo Finance,https://web3.career/senior-smart-contract-engineer-evm-ecosystem-layer-2-technical-lead-ondo-finance/13189,"New York,
+United States",Senior Smart Contract Engineer (EVM Ecosystem/Layer 2) — Technical Lead,$140k - $220k,dev:lead:senior:tech lead:smart contract,5mo
+Ondo Finance,https://web3.career/senior-full-stack-engineer-web3-technical-lead-ondo-finance/13188,"New York,
+United States",Senior Full-Stack Engineer (Web3) — Technical Lead,$120k - $200k,dev:full stack:lead:senior:tech lead,5mo
+Ondo Finance,https://web3.career/senior-front-end-engineer-web3-ondo-finance/13187,"New York,
+United States",Senior Front-End Engineer (Web3),$120k - $200k,dev:front end:senior:web3js:react,5mo
+Ondo Finance,https://web3.career/qa-engineer-ui-ux-and-or-web3-ondo-finance/13186,"New York,
+United States",QA Engineer (UI/UX and/or Web3),$80k - $150k,dev:quality assurance:design:non tech:react,5mo
+Ondo Finance,https://web3.career/senior-back-end-engineer-web3-ondo-finance/13185,"New York,
+United States",Senior Back-End Engineer (Web3),$120k - $200k,backend:dev:senior:solidity:javascript,5mo
+Gemini,https://web3.career/software-engineer-marketing-tech-gemini/13183,"New York,
+United States",Software Engineer: Marketing Tech,$85k - $120k,dev:marketing:non tech:scala,5mo
+Gemini,https://web3.career/engineering-manager-client-foundations-gemini/13182,Remote,"Engineering Manager, Client Foundations",$115k - $150k,executive:react:react native:remote,5mo
+Gemini,https://web3.career/lead-business-development-platform-strategy-gemini/13181,"New York,
+United States","Lead, Business Development Platform Strategy",,sales:non tech:lead,5mo
+Gemini,https://web3.career/head-of-marketplace-gemini/13180,Remote,Head of Marketplace,$79k - $200k,executive:remote,5mo
+Gemini,https://web3.career/lead-product-manager-signing-gemini/13179,Remote,"Lead Product Manager, Signing",,lead:product manager:non tech:remote,5mo
+Gemini,https://web3.career/recruiting-coordinator-gemini/13178,"New York,
+United States",Recruiting Coordinator,$40k - $70k,recruiter:non tech,5mo
+Gemini,https://web3.career/associate-director-talent-acquisition-technology-gemini/13177,"New York,
+United States","Associate Director, Talent Acquisition (Technology)",,executive:recruiter:non tech,5mo
+Gemini,https://web3.career/senior-mobile-engineer-nifty-gateway-gemini/13176,Remote,"Senior Mobile Engineer, Nifty Gateway",$120k - $200k,dev:mobile:senior:react:react native,5mo
+Gemini,https://web3.career/product-manager-nifty-gateway-gemini/13175,Remote,"Product Manager, Nifty Gateway",$80k - $150k,product manager:non tech:ethereum:nft:remote,5mo
+Gemini,https://web3.career/product-designer-nifty-gateway-gemini/13174,"New York,
+United States","Product Designer, Nifty Gateway",$80k - $150k,design:non tech:ethereum:nft,5mo
+Gemini,https://web3.career/head-of-security-nifty-gateway-gemini/13173,"Austin,
+United States","Head of Security, Nifty Gateway",,executive:security:javascript,5mo
+Gemini,https://web3.career/associate-producer-marketplace-gemini/13172,"New York,
+United States","Associate, Producer - Marketplace",$70k - $158k,solidity:nft,5mo
+Gemini,https://web3.career/analyst-compliance-governance-gemini/13171,"New York,
+United States","Analyst, Compliance - Governance",,compliance:analyst,5mo
+Gemini,https://web3.career/critical-operations-analyst-gemini/13170,Remote,Critical Operations Analyst,,analyst:operations:remote,5mo
+Gemini,https://web3.career/cloud-infrastructure-engineer-storage-gemini/13169,Remote,"Cloud Infrastructure Engineer, Storage",,cloud:dev:java:golang:remote,5mo
+Gemini,https://web3.career/senior-product-manager-retail-eu-and-uk-gemini/13168,"London,
+United Kingdom","Senior Product Manager, Retail (EU and UK)",$80k - $150k,product manager:non tech:senior:ethereum,5mo
+Gemini,https://web3.career/head-of-asia-pacific-apac-gemini/13167,Remote,Head of Asia Pacific (APAC),$79k - $200k,executive:remote,5mo
+Gemini,https://web3.career/sourcing-lead-it-category-gemini/13166,Remote,"Sourcing Lead, IT Category",$95k - $200k,lead:remote,5mo
+Gemini,https://web3.career/director-investor-relations-gemini/13165,"New York,
+United States","Director, Investor Relations",$90k - $200k,executive:finance,5mo
+Gemini,https://web3.career/associate-treasury-operations-gemini/13164,"Singapore,
+Singapore","Associate, Treasury Operations",$60k - $200k,operations,5mo
+Gemini,https://web3.career/associate-financial-planning-analysis-gemini/13163,"New York,
+United States","Associate, Financial Planning & Analysis",$40k - $150k,finance,5mo
+Gemini,https://web3.career/lead-visual-designer-marketing-gemini/13162,Remote,"Lead Visual Designer, Marketing",$40k - $190k,design:non tech:lead:marketing:remote,5mo
+Gemini,https://web3.career/lead-ux-research-gemini/13161,"New York,
+United States","Lead, UX Research",$40k - $190k,lead:design:non tech,5mo
+Gemini,https://web3.career/senior-data-analytics-engineer-gemini/13160,Remote,Senior Data Analytics Engineer,$360k - $500k,stats:dev:senior:remote,5mo
+Bitfinex,https://web3.career/senior-backend-developer-node-remote-es-bitfinex/13159,"Madrid,
+Spain",Senior Backend Developer - Node (Remote) ES,$60k - $180k,remote:backend:dev:javascript:node,5mo
+Fuel Labs,https://web3.career/senior-designer-part-time-fuellabs/13158,Remote,Senior Designer [Part - Time],$60k - $120k,design:non tech:senior:remote,5mo
+CoinGecko,https://web3.career/senior-product-manager-l3-coin-gecko/13157,"Selangor,
+Malaysia",Senior Product Manager (L3),$80k - $150k,product manager:non tech:senior,5mo
+WOO Network,https://web3.career/business-development-woonetwork/13156,"Taipei,
+Taiwan",Business Development,$26k - $140k,sales:non tech,5mo

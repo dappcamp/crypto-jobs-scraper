@@ -1,36 +1,44 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Ava Labs,https://web3.career/deputy-general-counsel-avalabs/8567,Deputy General Counsel,$24k - $140k,legal,6mo
-Ava Labs,https://web3.career/head-of-finance-avalabs/8566,Head of Finance,$90k - $200k,executive:finance,6mo
-Ava Labs,https://web3.career/smart-contracts-engineer-avalabs/8565,Smart Contracts Engineer,$80k - $180k,dev:smart contract:react:solidity:javascript,6mo
-Ava Labs,https://web3.career/senior-software-engineer-bridge-avalabs/8564,Senior Software Engineer (Bridge),$80k - $200k,dev:senior:solidity:ethereum:golang,6mo
-Ava Labs,https://web3.career/senior-smart-contracts-engineer-avalabs/8563,Senior Smart Contracts Engineer,$120k - $250k,dev:senior:smart contract:react:solidity,6mo
-Ava Labs,https://web3.career/senior-react-native-engineer-avalabs/8562,Senior React Native Engineer,$65k - $200k,dev:react native:mobile:javascript:react,6mo
-Ava Labs,https://web3.career/senior-node-js-engineer-avalabs/8561,Senior Node.JS Engineer,$60k - $155k,javascript:dev:node:senior:react,6mo
-Ava Labs,https://web3.career/senior-fullstack-engineer-avalabs/8560,Senior Fullstack Engineer,$70k - $180k,dev:full stack:senior:react:javascript,6mo
-Ava Labs,https://web3.career/senior-front-end-engineer-avalabs/8559,Senior Front End Engineer,$70k - $190k,dev:front end:senior:react:javascript,6mo
-Ava Labs,https://web3.career/senior-c-engineer-bridge-avalabs/8558,Senior C++ Engineer (Bridge),$100k - $150k,c:c plus plus:dev:senior:ethereum,6mo
-Ava Labs,https://web3.career/senior-backend-engineer-core-blockchain-avalabs/8557,Senior Backend Engineer (Core Blockchain),$70k - $200k,backend:dev:senior:blockchain:java,6mo
-Ava Labs,https://web3.career/fullstack-engineer-avalabs/8556,Fullstack Engineer,$65k - $180k,dev:full stack:react:javascript:node,6mo
-Ava Labs,https://web3.career/front-end-engineer-avalabs/8555,Front End Engineer,$50k - $144k,dev:front end:react:javascript,6mo
-Ava Labs,https://web3.career/backend-engineer-avalabs/8554,Backend Engineer,$60k - $160k,backend:dev:java:golang:rust,6mo
-Ava Labs,https://web3.career/director-of-business-development-enterprise-institutional-avalabs/8553,"Director of Business Development, Enterprise & Institutional",$40k - $150k,sales:non tech:executive,6mo
-OnJuno,https://web3.career/program-manager-tech-onjuno/8547,Program Manager (Tech),$70k - $180k,executive,6mo
-OnJuno,https://web3.career/social-media-manager-onjuno/8546,Social Media Manager,$33k - $85k,social media:non tech,6mo
-Anchorage Digital,https://web3.career/member-of-technical-staff-backend-engineering-cryptoassets-anchorage/8545,"Member of Technical Staff, Backend Engineering (Cryptoassets)",$65k - $180k,backend,6mo
-Thesis*,https://web3.career/growth-marketer-keep-thesis/8544,Growth Marketer - Keep,$45k - $130k,marketing:non tech,6mo
-Ava Labs,https://web3.career/devops-engineer-avalabs/8543,DevOps Engineer,$70k - $180k,devops:dev,6mo
-BitMEX,https://web3.career/senior-devops-engineer-bitmex/8542,Senior DevOps Engineer,$120k - $200k,devops:dev:senior:java,6mo
-BitMEX,https://web3.career/senior-software-engineer-mobile-bitmex/8541,Senior Software Engineer - Mobile,$120k - $200k,dev:mobile:senior:react:react native,6mo
-BitMEX,https://web3.career/project-manager-bitmex/8539,Project Manager,$50k - $150k,project manager:non tech,6mo
-Kraken Digital Asset Exchange,https://web3.career/senior-treasury-analyst-north-america-kraken/8538,Senior Treasury Analyst - North America,$150k - $185k,analyst:senior,6mo
-BitMEX,https://web3.career/product-manager-trading-platform-web-mobile-bitmex/8537,Product Manager - Trading Platform (Web/Mobile),,mobile:product manager:non tech,6mo
-BitMEX,https://web3.career/operations-specialist-bitmex/8536,Operations Specialist,$60k - $200k,operations,6mo
-Binance,https://web3.career/institutional-sales-and-account-manager-binance/8535,Institutional Sales and Account Manager,,account manager:sales:non tech,6mo
-Binance,https://web3.career/growth-and-operations-manager-binance/8534,Growth and Operations Manager,,marketing:non tech:operations,6mo
-Binance,https://web3.career/marketing-intern-p2p-binance/8533,Marketing Intern - P2P,$24k - $48k,intern:entry level:marketing:non tech,6mo
-Binance,https://web3.career/marketing-and-community-lead-binance-smart-chain-binance/8532,Marketing and Community Lead - Binance Smart Chain,$40k - $65k,community manager:non tech:lead:marketing:remote,6mo
-Protocol Labs,https://web3.career/technical-program-manager-web3-core-protocols-protocol/8531,"Technical Program Manager, Web3 Core Protocols",$79k - $200k,executive:remote,6mo
-ChainSafe Systems,https://web3.career/rust-golang-typescript-solidity-devs-chainsafesystems/8529,Rust Golang Typescript Solidity Devs,$60k - $120k,golang:rust:solidity,6mo
-"SundaeSwap Labs, Inc.",https://web3.career/senior-smart-contract-engineer-sundaeswaplabs-inc/8527,Senior Smart Contract Engineer,$120k - $250k,dev:senior:smart contract:remote,6mo
-Rolla,https://web3.career/senior-react-native-engineer-defi-app-rolla/8526,Senior React Native Engineer • DeFi App,$65k - $200k,dev:react native:mobile:javascript:react,6mo
-Ackee Blockchain,https://web3.career/blockchain-developer-auditor-solidity-ackeeblockchain/8525,Blockchain Developer & Auditor Solidity,$52k - $160k,dev:blockchain:solidity:rust,6mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Notabene,https://web3.career/product-manager-notabene/2387,"New York,
+United States",Product Manager,$69k - $160k,product manager:non tech,6mo
+OpenSea,https://web3.career/associate-general-counsel-opensea/2386,Remote,Associate General Counsel,,legal:remote,6mo
+WOO Network,https://web3.career/java-application-security-engineer-woonetwork/2385,"Taipei,
+Taiwan",Java Application Security Engineer,,dev:java:security,6mo
+The Block,https://web3.career/senior-account-executive-new-business-theblockcrypto/2384,Remote,"Senior Account Executive, New Business",$95k - $250k,executive:senior:remote,6mo
+RECUR,https://web3.career/marketing-program-manager-tv-and-movies-remote-recur/2382,"Miami,
+United States","Marketing Program Manager, TV and Movies (Remote)",$25k - $120k,remote:marketing:non tech:executive:ethereum,6mo
+Torus Labs,https://web3.career/protocol-developer-golang-rust-62k-180k-toruslabs/2381,HQ,Protocol Developer – (Golang/Rust) - $62k - $180k,$40k - $160k,dev:golang:rust:ethereum:java,6mo
+RECUR,https://web3.career/director-of-customer-experience-remote-recur/2380,"Miami,
+United States",Director of Customer Experience (Remote),,remote:customer support:executive:ethereum:nft,6mo
+RECUR,https://web3.career/customer-experience-manager-remote-recur/2379,"Miami,
+United States",Customer Experience Manager (Remote),,remote:customer support:ethereum:nft,6mo
+Kraken Digital Asset Exchange,https://web3.career/senior-product-manager-communications-kraken/2378,Remote,"Senior Product Manager, Communications",$80k - $150k,product manager:non tech:senior:remote,6mo
+CANDY,https://web3.career/head-of-ecommerce-candy/2377,"New York,
+United States",Head of eCommerce,$56k - $400k,executive:ecommerce,6mo
+Coinbase,https://web3.career/senior-engineering-manager-backend-coinbase/2376,Remote,"Senior Engineering Manager, Backend",,executive:backend:senior:remote,6mo
+Coinbase,https://web3.career/staff-software-engineer-coinbase/2375,Remote,Staff Software Engineer,$65k - $120k,dev:ethereum:ruby:golang:remote,6mo
+Coinbase,https://web3.career/senior-frontend-engineer-coinbase/2374,Remote,Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:react native,6mo
+Coinbase,https://web3.career/support-analyst-onboarding-coinbase/2373,Remote,"Support Analyst, Onboarding",$40k - $95k,analyst:customer support:remote,6mo
+Coinbase,https://web3.career/product-designer-coinbase/2372,Remote,Product Designer,$50k - $135k,design:non tech:remote,6mo
+Coinbase,https://web3.career/product-designer-bison-trails-coinbase/2371,Remote,"Product Designer, Bison Trails",$50k - $135k,design:non tech:remote,6mo
+Coinbase,https://web3.career/senior-content-designer-institutional-coinbase/2370,Remote,"Senior Content Designer, Institutional",$60k - $120k,design:non tech:senior:remote,6mo
+Coinbase,https://web3.career/senior-content-designer-institutional-coinbase/2369,Remote,"Senior Content Designer, Institutional",$60k - $120k,design:non tech:senior:remote,6mo
+Coinbase,https://web3.career/senior-content-designer-platform-coinbase/2368,Remote,"Senior Content Designer, Platform",$60k - $120k,design:non tech:senior:remote,6mo
+Coinbase,https://web3.career/senior-product-designer-coinbase/2367,Remote,Senior Product Designer,$60k - $120k,design:non tech:senior:remote,6mo
+Coinbase,https://web3.career/senior-product-designer-coinbase/2366,Remote,Senior Product Designer,$60k - $120k,design:non tech:senior:remote,6mo
+Coinbase,https://web3.career/general-senior-staff-engineer-coinbase/2365,Remote,General - Senior Staff Engineer,$85k - $200k,dev:senior:remote,6mo
+Coinbase,https://web3.career/senior-backend-engineer-remote-usa-coinbase/2364,Remote,Senior Backend Engineer (Remote - USA),$60k - $180k,remote:backend:dev:senior:ethereum,6mo
+Coinbase,https://web3.career/site-reliability-engineer-coinbase-cloud-coinbase/2363,Remote,Site Reliability Engineer - Coinbase Cloud,,cloud:dev:sys admin:rust:remote,6mo
+Coinbase,https://web3.career/staff-applied-cryptographer-coinbase/2362,Remote,Staff Applied Cryptographer,$65k - $120k,ruby:remote,6mo
+Coinbase,https://web3.career/staff-software-engineer-coinbase/2361,"San Francisco,
+United States",Staff Software Engineer,$65k - $120k,dev:ethereum:ruby:golang,6mo
+Coinbase,https://web3.career/senior-recruiter-business-coinbase/2360,Remote,"Senior Recruiter, Business",$40k - $70k,recruiter:non tech:senior:remote,6mo
+Coinbase,https://web3.career/senior-technical-recruiter-coinbase/2359,Remote,Senior Technical Recruiter,$40k - $70k,recruiter:non tech:senior:remote,6mo
+Coinbase,https://web3.career/technical-recruiter-contract-coinbase/2358,Remote,Technical Recruiter (Contract),,recruiter:non tech:remote,6mo
+Coinbase,https://web3.career/group-product-manager-coinbase/2357,Remote,Group Product Manager,$115k - $175k,product manager:non tech:remote,6mo
+Coinbase,https://web3.career/senior-product-manager-coinbase/2356,Remote,Senior Product Manager,$80k - $150k,product manager:non tech:senior:remote,6mo
+Coinbase,https://web3.career/technical-program-manager-coinbase/2355,Remote,Technical Program Manager,$79k - $200k,executive:remote,6mo
+Coinbase,https://web3.career/technical-program-manager-infra-reliability-coinbase/2354,Remote,"Technical Program Manager, Infra & Reliability",,executive:sys admin:remote,6mo
+Coinbase,https://web3.career/senior-product-designer-coinbase/2353,Remote,Senior Product Designer,$60k - $120k,design:non tech:senior:remote,6mo
+Coinbase,https://web3.career/sr-sw-engineer-cx-enterprise-apps-coinbase/2352,"Hyderabad,
+India","Sr. SW Engineer, CX, Enterprise Apps",$80k - $200k,dev:senior:javascript:java,6mo

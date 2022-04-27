@@ -1,36 +1,57 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Binance,https://web3.career/community-marketing-manager-azerbaijan-binance/26437,Community & Marketing Manager - Azerbaijan,$45k - $150k,community manager:non tech:marketing,1d
-Asset Living,https://web3.career/service-technician-solana-apartments-assetliving/26436,Service Technician - Solana Apartments,$50k - $150k,,1d
-Blockstream,https://web3.career/freelance-video-editor-animator-motion-graphics-blockstream/26435,Freelance Video Editor/Animator - Motion Graphics,,video:vfx:non tech,1d
-Sperax,https://web3.career/aws-engineer-sperax/26434,AWS Engineer,$60k - $180k,dev,1d
-Sperax,https://web3.career/operations-manager-remote-sperax/26433,Operations Manager (Remote),$80k - $110k,remote:operations,1d
-Ledger,https://web3.career/people-business-partner-us-ledger/26432,People Business Partner (US),$50k - $150k,,1d
-Aurora,https://web3.career/technical-recruiter-aurora-dev/26431,Technical Recruiter,,recruiter:non tech:remote,1d
-Binance,https://web3.career/government-affairs-manager-canada-binance/26430,Government Affairs Manager - Canada,$50k - $150k,,1d
-Binance,https://web3.career/foreign-exchange-manager-binance/26429,Foreign Exchange Manager,$50k - $150k,,1d
-Aurora,https://web3.career/devrel-aurora-dev/26428,DevRel,$60k - $150k,remote:solidity:ethereum,1d
-Raydium,https://web3.career/uiux-designer-raydium/26427,UIUX Designer,$50k - $150k,design:non tech:remote:solana,1d
-Crypto.com,https://web3.career/research-analyst-editor-global-fintech-startup-crypto-com/26426,Research Analyst (Editor) - Global Fintech Startup,,analyst:finance,1d
-Crypto.com,https://web3.career/product-manager-global-fintech-startup-crypto-com/26425,Product Manager - Global Fintech Startup,,finance:product manager:non tech,1d
-W3BCLOUD,https://web3.career/finance-manager-blockchain-crypto-usa-remote-based-location-w3bcloud/26424,Finance Manager - Blockchain/Crypto (USA/Remote Based Location),$150k - $225k,remote:finance:blockchain:crypto,1d
-Applied Blockchain,https://web3.career/javascript-technical-lead-appliedblockchain/26423,Javascript Technical Lead,$78k - $200k,javascript:lead:tech lead:react:ruby,1d
-Paro.io,https://web3.career/crypto-bookkeeper-remote-projects-paro-io/26422,Crypto Bookkeeper - Remote Projects,$11k - $25k,remote:accounting:crypto,1d
-Energi Core Limited,https://web3.career/business-development-generalist-sports-energicorelimited/26420,Business Development Generalist - Sports,$29k - $43k,sales:non tech:ethereum:nft,1d
-Chainalysis,https://web3.career/senior-account-executive-public-sector-asean-chainalysis/26419,"Senior Account Executive, Public Sector (ASEAN)",$46k - $175k,executive:senior,1d
-Chainalysis,https://web3.career/customer-support-specialist-apac-chainalysis/26418,"Customer Support Specialist, APAC",$40k - $80k,customer support,1d
-Chainalysis,https://web3.career/associate-account-executive-south-korea-chainalysis/26417,"Associate Account Executive, South Korea",$70k - $180k,executive,1d
-Solarisbank,https://web3.career/operational-risk-manager-solarisbank/26416,Operational Risk Manager,,finance:operations:remote,1d
-Tokemak,https://web3.career/executive-assistant-web3-tokemak-3/26415,Executive Assistant (Web3),$70k - $100k,executive,1d
-MetaMask,https://web3.career/global-head-of-developer-and-community-experience-metamask/26414,Global Head of Developer and Community Experience,$45k - $150k,executive:community manager:non tech:dev:ethereum,1d
-CoinList,https://web3.career/data-engineer-coinlist/26413,Data Engineer,,data science:dev:remote:solana,1d
-Kraken Digital Asset Exchange,https://web3.career/engineering-manager-crypto-payments-kraken/26412,Engineering Manager - Crypto Payments,$79k - $175k,executive:crypto:remote,1d
-Nestcoin,https://web3.career/associate-ux-researcher-nestcoin/26410,Associate UX Researcher,$50k - $150k,design:non tech:remote,1d
-Forta Job Board,https://web3.career/security-researcher-forta/26409,Security Researcher,$150k - $185k,security:solidity:ethereum,1d
-Aurora,https://web3.career/blockchain-bridge-engineer-aurora-dev/26408,Blockchain/Bridge Engineer,$65k - $190k,dev:blockchain:remote:solidity:solana,1d
-Chainstack,https://web3.career/performance-marketing-manager-chainstack/26407,Performance marketing manager,$25k - $120k,marketing:non tech:remote,1d
-Tangible,https://web3.career/data-scientist-for-unique-blockchain-marketplace-tangible-8/26406,Data Scientist for Unique Blockchain Marketplace,$100k - $120k,data science:blockchain,1d
-Polygon,https://web3.career/director-talent-acquisition-polygon/26405,"Director, Talent Acquisition",,executive:recruiter:non tech:ethereum,1d
-Figment,https://web3.career/senior-product-manager-trading-experience-figment/26404,"Senior Product Manager, Trading Experience",$80k - $150k,product manager:non tech:senior,1d
-Figment,https://web3.career/senior-product-manager-figment/26403,Senior Product Manager,$80k - $150k,product manager:non tech:senior,1d
-Figment,https://web3.career/product-manager-figment/26402,Product Manager,$67k - $160k,product manager:non tech,1d
-Figment,https://web3.career/product-lead-growth-figment/26401,"Product Lead, Growth",$50k - $120k,marketing:non tech:lead,1d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Land3,https://web3.career/full-stack-web3-engineer-land3/27000,"Boston,
+United States",Full-Stack Web3 Engineer,$140k - $220k,dev:full stack:react:solidity:nft,1d
+Crypto.com,https://web3.career/head-of-partnership-ecosystem-development-south-korea-crypto/26999,"Seoul,
+South Korea","Head of Partnership & Ecosystem Development, South Korea",$40k - $150k,executive:sales:non tech,1d
+Braintrust,https://web3.career/saas-app-architect-remote-braintrust/26997,"San Francisco,
+United States",SaaS App Architect [REMOTE],,remote:architecture:saas:javascript:ruby,1d
+Crypto.com,https://web3.career/senior-engineer-business-automation-global-fintech-startup-crypto/26996,"Sydney,
+Australia",Senior Engineer (Business Automation) - Global Fintech Startup,,dev:finance:senior,1d
+Chain,https://web3.career/external-technical-writer-chain/26995,Remote,External Technical Writer,$45k - $104k,analyst:remote,1d
+Playco,https://web3.career/marketing-art-lead-web3-playco/26994,Remote,Marketing Art Lead (Web3),$50k - $120k,lead:marketing:non tech:remote,1d
+Crypto.com,https://web3.career/blockchain-security-engineer-mobile-au-crypto/26993,"Sydney,
+Australia",Blockchain Security Engineer - Mobile (AU),,dev:mobile:security:blockchain:react,1d
+Crypto.com,https://web3.career/junior-dapp-engineer-crypto/26992,"Hong Kong,
+Hong Kong",Junior Dapp Engineer,$45k - $180k,dev:junior:entry level:dapp,1d
+MetaMask,https://web3.career/application-security-engineer-metamask/26991,"Bhopal,
+India",Application Security Engineer,,dev:security:react:react native:ethereum,1d
+NodeReal,https://web3.career/senior-solution-engineer-nodereal/26990,Remote,Senior Solution Engineer,$89k - $200k,dev:senior:remote,1d
+Crypto.com,https://web3.career/java-developer-development-lead-architect-price-page-singapore-crypto/26989,"Singapore,
+Singapore",Java Developer / Development Lead / Architect (Price Page) - Singapore,,architecture:dev:java:lead,1d
+Crypto.com,https://web3.career/senior-ux-researcher-global-fintech-firm-crypto/26988,"Singapore,
+Singapore",Senior UX Researcher - Global Fintech Firm,,finance:senior:design:non tech,1d
+Crypto.com,https://web3.career/financial-crime-analyst-uk-crypto/26987,"London,
+United Kingdom","Financial Crime Analyst, UK",,analyst:finance,1d
+BYTE/DEPT®,https://web3.career/midweight-visual-designer-byte/26986,,Midweight Visual Designer,$50k - $150k,design:non tech,1d
+Crypto.com,https://web3.career/security-engineer-hk-crypto/26985,"Hong Kong,
+Hong Kong",Security Engineer (HK),,dev:security:react:javascript:java,1d
+500px,https://web3.career/ux-designer-6-month-contract-500px/26984,"Toronto,
+Canada",UX Designer (6-month contract),$60k - $150k,design:non tech:nft:javascript,1d
+Crypto.com,https://web3.career/legal-counsel-group-product-regulations-anz-crypto/26983,"Sydney,
+Australia",Legal Counsel - Group Product & Regulations (ANZ),$24k - $140k,legal,1d
+OKX,https://web3.career/senior-software-engineer-platform-services-okx/26982,"Singapore,
+Singapore",Senior Software Engineer - Platform Services,$50k - $200k,dev:senior:java,1d
+Parallel Studios,https://web3.career/sr-devops-engineer-technical-art-parallelstudios/26981,,Sr. DevOps Engineer (Technical Art),$120k - $200k,devops:dev:senior:nft:javascript,1d
+Ankr Network,https://web3.career/technical-writer-ankrnetwork/26980,"San Francisco,
+United States",Technical Writer,,analyst:ethereum:node,1d
+Crypto.com,https://web3.career/nft-program-manager-remote-metaverse-crypto/26979,United States,NFT Program Manager (Remote / Metaverse),,remote:metaverse:executive:nft,1d
+Crypto.com,https://web3.career/blockchain-architect-evangelist-crypto/26978,United States,Blockchain Architect & Evangelist,$50k - $250k,architecture:blockchain,1d
+Crypto.com,https://web3.career/senior-3d-artist-nft-crypto/26977,"Tokyo,
+Japan",Senior 3D Artist (NFT),,vfx:non tech:senior:nft,1d
+Fortress Blockchain Technologies,https://web3.career/solutions-engineer-fortress/26976,"Las Vegas,
+United States",Solutions Engineer,$67k - $180k,dev:solidity,1d
+Pyth Network,https://web3.career/front-end-engineer-pythnetwork/26975,Remote,Front-End Engineer,$30k - $140k,dev:front end:remote:react,1d
+Amber,https://web3.career/nft-bd-marketing-ambergroup/26974,United States,NFT BD / marketing,$50k - $135k,marketing:non tech:nft,1d
+Paradigm,https://web3.career/head-of-market-development-paradigm-xyz/26973,"San Francisco,
+United States",Head of Market Development,$70k - $180k,executive,1d
+Tron,https://web3.career/events-marketing-manager-rainberry/26972,"San Francisco,
+United States",Events Marketing Manager,$50k - $135k,marketing:non tech:nft,1d
+Crypto.com,https://web3.career/art-director-latam-crypto/26971,Mexico,"Art Director, LATAM",$70k - $180k,executive,1d
+Crypto.com,https://web3.career/backend-engineer-business-automation-crypto/26970,"Sofia,
+Bulgaria",Backend Engineer (Business Automation),$60k - $140k,backend:dev:javascript:node,1d
+Crypto.com,https://web3.career/front-end-developer-crypto/26969,United States,Front End Developer,$50k - $144k,dev:front end:react:nft:node,1d
+NaturalMotion / Zynga,https://web3.career/senior-product-marketing-manager-blockchain-nft-zynga/26968,United Kingdom,Senior Product Marketing Manager - Blockchain/NFT,$46k - $109k,marketing:non tech:senior:blockchain:nft,1d
+HEIR,https://web3.career/blockchain-engineer-backend-heir/26967,,"Blockchain Engineer, Backend",$55k - $180k,backend:dev:blockchain:solana:nft,1d
+HEIR,https://web3.career/community-manager-heir/26966,,Community Manager,$40k - $105k,community manager:non tech,1d
+HEIR,https://web3.career/product-designer-heir/26965,"Los Angeles,
+United States",Product Designer,$60k - $150k,design:non tech:nft,1d

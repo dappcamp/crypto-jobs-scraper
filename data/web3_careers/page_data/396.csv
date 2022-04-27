@@ -1,36 +1,64 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-cLabs,https://web3.career/core-security-engineer-clabs/9431,Core Security Engineer,$95k - $250k,dev:security:remote,5mo
-cLabs,https://web3.career/people-operations-intern-working-student-clabs/9430,People Operations Intern / Working Student,,intern:entry level:operations:remote,5mo
-cLabs,https://web3.career/investment-analyst-partner-celo-foundation-clabs/9429,"Investment Analyst Partner, Celo Foundation",,analyst:finance:remote,5mo
-cLabs,https://web3.career/head-of-marketing-celo-foundation-clabs/9428,"Head of Marketing, Celo Foundation",$70k - $158k,executive:marketing:non tech:remote,5mo
-cLabs,https://web3.career/head-of-government-relations-clabs/9427,Head of Government Relations,$79k - $200k,executive:remote,5mo
-cLabs,https://web3.career/executive-assistant-clabs/9426,Executive Assistant,$70k - $180k,executive,5mo
-cLabs,https://web3.career/developer-communications-lead-celo-foundation-clabs/9425,"Developer Communications Lead, Celo Foundation",$100k - $200k,dev:lead,5mo
-cLabs,https://web3.career/corporate-communications-lead-celo-foundation-clabs/9424,"Corporate Communications Lead, Celo Foundation",$95k - $200k,lead:remote,5mo
-cLabs,https://web3.career/communications-coordinator-celo-foundation-clabs/9423,"Communications Coordinator, Celo Foundation",$56k - $160k,remote,5mo
-cLabs,https://web3.career/asia-ecosystem-lead-clabs/9422,Asia Ecosystem Lead,$60k - $200k,lead,5mo
-cLabs,https://web3.career/apac-communications-partner-celo-foundation-clabs/9421,"APAC Communications Partner, Celo Foundation",,,5mo
-cLabs,https://web3.career/africa-ecosystem-lead-clabs/9420,Africa Ecosystem Lead,$95k - $200k,lead:remote,5mo
-cLabs,https://web3.career/technical-recruiter-celo-foundation-clabs/9419,"Technical Recruiter, Celo Foundation",,recruiter:non tech:remote,5mo
-cLabs,https://web3.career/community-manager-clabs/9418,Community Manager,$40k - $100k,community manager:non tech,5mo
-cLabs,https://web3.career/partner-accounting-clabs/9417,"Partner, Accounting",$25k - $150k,accounting,5mo
-Chronicled.com,https://web3.career/technical-recruiting-sourcer-chronicled-2/9416,Technical Recruiting Sourcer,,recruiter:non tech:remote,5mo
-Chronicled.com,https://web3.career/technical-recruiter-chronicled-2/9415,Technical Recruiter,,recruiter:non tech:remote,5mo
-Chronicled.com,https://web3.career/technical-recruiter-chronicled-2/9414,Technical Recruiter,$40k - $70k,recruiter:non tech,5mo
-Chronicled.com,https://web3.career/vice-president-product-chronicled-2/9413,"Vice President, Product",,,5mo
-Chronicled.com,https://web3.career/software-engineer-fullstack-chronicled-2/9412,"Software Engineer, Fullstack",$70k - $200k,dev:full stack:remote,5mo
-Chronicled.com,https://web3.career/senior-software-engineer-fullstack-chronicled-2/9411,"Senior Software Engineer, Fullstack",$70k - $180k,dev:full stack:senior:remote,5mo
-Chronicled.com,https://web3.career/senior-software-engineer-fullstack-chronicled-2/9410,"Senior Software Engineer, Fullstack",$70k - $180k,dev:full stack:senior:remote,5mo
-Chronicled.com,https://web3.career/senior-software-engineer-fullstack-chronicled-2/9409,"Senior Software Engineer, Fullstack",$70k - $180k,dev:full stack:senior,5mo
-Chronicled.com,https://web3.career/senior-software-engineer-fullstack-chronicled-2/9408,"Senior Software Engineer, Fullstack",$70k - $180k,dev:full stack:senior:remote,5mo
-Chronicled.com,https://web3.career/senior-software-engineer-cryptography-chronicled-2/9407,"Senior Software Engineer, Cryptography",$85k - $200k,dev:senior:remote,5mo
-Chronicled.com,https://web3.career/senior-software-engineer-backend-chronicled-2/9406,"Senior Software Engineer, Backend",$70k - $200k,backend:dev:senior:remote,5mo
-Chronicled.com,https://web3.career/senior-qa-automation-engineer-chronicled-2/9405,Senior QA Automation Engineer,$30k - $50k,dev:quality assurance:senior:remote,5mo
-Chronicled.com,https://web3.career/senior-qa-automation-engineer-chronicled-2/9404,Senior QA Automation Engineer,$30k - $50k,dev:quality assurance:senior:remote,5mo
-Chronicled.com,https://web3.career/senior-qa-automation-engineer-chronicled-2/9403,Senior QA Automation Engineer,$30k - $50k,dev:quality assurance:senior:remote,5mo
-Chronicled.com,https://web3.career/lead-software-engineer-fullstack-chronicled-2/9402,"Lead Software Engineer, Fullstack",$100k - $200k,dev:full stack:lead:remote,5mo
-Chronicled.com,https://web3.career/lead-software-engineer-fullstack-chronicled-2/9401,"Lead Software Engineer, Fullstack",$100k - $200k,dev:full stack:lead,5mo
-Chronicled.com,https://web3.career/lead-software-engineer-fullstack-chronicled-2/9400,"Lead Software Engineer, Fullstack",$100k - $200k,dev:full stack:lead:remote,5mo
-Change,https://web3.career/senior-backend-software-engineer-changeinvest/9399,Senior Backend Software Engineer,$70k - $200k,backend:dev:senior,5mo
-Change,https://web3.career/data-engineer-changeinvest/9398,Data Engineer,$70k - $160k,data science:dev,5mo
-Change,https://web3.career/head-of-information-security-changeinvest/9397,Head of Information Security,$95k - $250k,executive:security,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Bitcoin Depot,https://web3.career/senior-integrated-communications-manager-bitcoindepot/9942,"Atlanta,
+United States",Senior Integrated Communications Manager,$46k - $109k,marketing:non tech:senior,6mo
+Bitcoin Depot,https://web3.career/senior-creative-manager-chicago-bitcoindepot/9941,"Chicago,
+United States",Senior Creative Manager - Chicago,$78k - $200k,senior,6mo
+Bitcoin Depot,https://web3.career/senior-creative-manager-bitcoindepot/9940,"Atlanta,
+United States",Senior Creative Manager,$78k - $200k,senior,6mo
+Bitcoin Depot,https://web3.career/assistant-general-counsel-tampa-bitcoindepot/9939,United States,Assistant General Counsel - Tampa,,legal:ethereum,6mo
+Bitcoin Depot,https://web3.career/assistant-general-counsel-raleigh-bitcoindepot/9938,United States,Assistant General Counsel - Raleigh,,legal:ethereum,6mo
+Bitcoin Depot,https://web3.career/assistant-general-counsel-omaha-bitcoindepot/9937,United States,Assistant General Counsel - Omaha,,legal:ethereum,6mo
+Bitcoin Depot,https://web3.career/assistant-general-counsel-new-york-bitcoindepot/9936,"New York,
+United States",Assistant General Counsel - New York,,legal:ethereum,6mo
+Bitcoin Depot,https://web3.career/assistant-general-counsel-new-orleans-bitcoindepot/9935,United States,Assistant General Counsel - New Orleans,,legal:ethereum,6mo
+Bitcoin Depot,https://web3.career/assistant-general-counsel-dallas-bitcoindepot/9934,"Dallas,
+United States",Assistant General Counsel - Dallas,,legal:ethereum,6mo
+Bitcoin Depot,https://web3.career/assistant-general-counsel-chicago-bitcoindepot/9933,"Chicago,
+United States",Assistant General Counsel - Chicago,,legal:ethereum,6mo
+Bitcoin Depot,https://web3.career/assistant-general-counsel-boston-bitcoindepot/9932,"Boston,
+United States",Assistant General Counsel - Boston,,legal:ethereum,6mo
+Bitcoin Depot,https://web3.career/assistant-general-counsel-austin-bitcoindepot/9931,"Austin,
+United States",Assistant General Counsel - Austin,,legal:ethereum,6mo
+Bitcoin Depot,https://web3.career/assistant-general-counsel-bitcoindepot/9930,"Atlanta,
+United States",Assistant General Counsel,,legal:ethereum,6mo
+Bitcoin Depot,https://web3.career/otc-trading-analyst-bitcoindepot/9929,"Atlanta,
+United States",OTC Trading Analyst,$45k - $185k,analyst:ethereum,6mo
+Bitcoin Depot,https://web3.career/technical-project-manager-austin-bitcoindepot/9928,"Austin,
+United States",Technical Project Manager - Austin,$80k - $150k,project manager:non tech:ethereum,6mo
+Bitcoin Depot,https://web3.career/system-administrator-bitcoindepot/9927,"Atlanta,
+United States",System Administrator,,sys admin:ethereum,6mo
+Bitcoin Depot,https://web3.career/quality-assurance-automation-sdet-bitcoindepot/9926,"Atlanta,
+United States",Quality Assurance / Automation SDET,$60k - $125k,ethereum:javascript,6mo
+Bitcoin Depot,https://web3.career/network-engineer-bitcoindepot/9925,"Atlanta,
+United States",Network Engineer,$60k - $158k,dev:ethereum,6mo
+Bitcoin Depot,https://web3.career/it-systems-analyst-bitcoindepot/9924,"Atlanta,
+United States",IT Systems Analyst,$150k - $185k,analyst:ethereum:javascript,6mo
+Bitcoin Depot,https://web3.career/full-stack-engineer-bitcoindepot/9923,United States,Full Stack Engineer,$65k - $180k,dev:full stack:react:ethereum:node,6mo
+Bitcoin Depot,https://web3.career/regulatory-liaison-bitcoindepot/9922,"Washington,
+United States",Regulatory Liaison,,legal:ethereum,6mo
+Bitcoin Depot,https://web3.career/enterprise-risk-management-manager-bitcoindepot/9921,"Atlanta,
+United States",Enterprise Risk Management Manager,,,6mo
+Bitcoin Depot,https://web3.career/aml-team-lead-bitcoindepot/9920,"Atlanta,
+United States",AML Team Lead,$96k - $220k,lead:ethereum,6mo
+Autograph,https://web3.career/mobile-software-engineer-ios-autograph/9919,"Santa Monica,
+United States","Mobile Software Engineer, iOS",$51k - $109k,dev:ios:mobile:nft,6mo
+Autograph,https://web3.career/devops-engineer-autograph/9918,"Los Angeles,
+United States",DevOps Engineer,$95k - $145k,devops:dev:ethereum:nft,6mo
+Autograph,https://web3.career/blockchain-engineer-autograph/9917,"Santa Monica,
+United States",Blockchain Engineer,$52k - $160k,dev:blockchain:solidity:nft,6mo
+Autograph,https://web3.career/assistant-autograph/9916,,Assistant,,,6mo
+Autograph,https://web3.career/marketing-director-autograph/9915,,Marketing Director,$70k - $158k,executive:marketing:non tech:nft,6mo
+Autograph,https://web3.career/copywriter-autograph/9914,"Santa Monica,
+United States",Copywriter,,copywriting:nft,6mo
+Autograph,https://web3.career/community-moderator-discord-autograph/9913,"Santa Monica,
+United States",Community Moderator (Discord),$35k - $101k,community manager:non tech:nft,6mo
+Autograph,https://web3.career/counsel-autograph/9912,"Santa Monica,
+United States",Counsel,,legal:nft,6mo
+Autograph,https://web3.career/senior-recruiter-autograph/9911,"Santa Monica,
+United States",Senior Recruiter,$40k - $70k,recruiter:non tech:senior:nft,6mo
+Autograph,https://web3.career/controller-autograph/9910,"Santa Monica,
+United States",Controller,,legal:nft,6mo
+Autograph,https://web3.career/creative-director-autograph/9909,"Santa Monica,
+United States",Creative Director,$63k - $180k,executive:nft,6mo
+Autograph,https://web3.career/art-director-3d-autograph/9908,"Santa Monica,
+United States",Art Director (3D),,vfx:executive:nft,6mo

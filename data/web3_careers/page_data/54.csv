@@ -1,36 +1,53 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Figure,https://web3.career/lead-product-designer-figure-lending-figure/24413,"Lead Product Designer, Figure Lending",$40k - $190k,design:non tech:lead,23d
-Autograph,https://web3.career/strategy-lead-autograph/24412,Strategy Lead,$70k - $200k,lead:nft,23d
-Ledger,https://web3.career/tech-lead-back-end-python-vault-ledger/24410,Tech Lead Back-End (Python) - Vault,,backend:lead:python:tech lead,23d
-Binance,https://web3.career/senior-bd-manager-web3-infrastructure-bnb-chain-binance/24409,"Senior BD Manager, Web3 Infrastructure - BNB Chain",$80k - $200k,senior:remote,23d
-tbd,https://web3.career/cofounder-cto-to-build-a-new-omni-chain-defi-primitive-tba/24407,Cofounder/CTO to build a new omni-chain defi primitive,$100k - $300k,cto:executive:defi:remote:solidity,23d
-BlockFi,https://web3.career/senior-associate-security-projects-blockfi/24406,"Senior Associate, Security Projects",$95k - $250k,security:senior,23d
-Aspire,https://web3.career/business-development-executive-crypto-web3-indonesia-aspire/24403,Business Development Executive (Crypto/Web3) - Indonesia,$40k - $150k,sales:non tech:executive:crypto,23d
-Fun Country,https://web3.career/community-lead-funcountry/24402,Community Lead,$40k - $65k,community manager:non tech:lead:solana,23d
-Fun Country,https://web3.career/senior-frontend-engineer-funcountry/24401,Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:react native,23d
-Consensys,https://web3.career/business-analyst-professional-services-hong-kong-apac-consensys/24400,"Business Analyst (Professional Services, Hong Kong, APAC)",$45k - $55k,analyst:remote:ethereum,23d
-Okcoin,https://web3.career/customer-service-representative-okcoin/24398,Customer Service Representative,$40k - $80k,customer support,23d
-Ava Labs,https://web3.career/devsecops-engineer-avalabs/24396,DevSecOps Engineer,$60k - $180k,dev,23d
-Parity Technologies,https://web3.career/product-designer-parity/24395,Product Designer,$50k - $135k,design:non tech:remote,23d
-Trustana,https://web3.career/senior-full-stack-engineer-trustana/24394,(Senior) Full Stack Engineer,$70k - $180k,dev:full stack:senior:react:node,23d
-Consensys,https://web3.career/summer-2022-intern-consensys/24393,Summer 2022 Intern,,intern:dev:entry level:remote:ethereum,23d
-Consensys,https://web3.career/site-reliability-engineer-sre-consensys/24392,Site Reliability Engineer (SRE),$150k - $200k,dev:sys admin:senior:remote:react,23d
-Consensys,https://web3.career/senior-qa-engineer-consensys-nft-business-consensys/24391,Senior QA Engineer (Consensys NFT Business),$30k - $50k,dev:quality assurance:senior:nft:remote,23d
-Consensys,https://web3.career/director-of-engineering-consensys/24390,Director of Engineering,$79k - $158k,executive:remote:ethereum:nft,23d
-Consensys,https://web3.career/business-analyst-senior-associate-consensys/24389,Business Analyst / Senior Associate,,analyst:senior:remote:ethereum:nft,23d
-OKX,https://web3.career/seo-copywriter-okx/24386,SEO Copywriter,,copywriting:seo:non tech,23d
-Upside,https://web3.career/senior-devops-engineer-upside/24385,Senior DevOps Engineer,$120k - $140k,devops:dev:senior,23d
-Chainalysis,https://web3.career/marketing-operations-coordinator-chainalysis/24384,Marketing Operations Coordinator,,marketing:non tech:operations,23d
-Bitbase,https://web3.career/backend-developer-bitbase/24383,Backend developer,,backend:dev:crypto:php:api,23d
-Aldrin Labs,https://web3.career/senior-back-end-developer-web3-remote-aldrin-labs/24381,Senior Back-End Developer Web3 (Remote),,remote:backend:dev:senior:blockchain,23d
-SideShift.ai,https://web3.career/solidity-engineer-sideshift-ai/24380,Solidity Engineer,$70k - $100k,dev:solidity:smart contract:remote:blockchain,23d
-Aragon Association,https://web3.career/head-of-communications-aragon/24378,Head of Communications,$79k - $200k,executive:remote,23d
-Drift Protocol,https://web3.career/business-development-associate-community-drift-protocol/24377,Business Development Associate (Community),$100k - $200k,sales:non tech:community manager:remote:solana,23d
-Drift Protocol,https://web3.career/senior-quant-trader-drift-protocol/24376,Senior Quant Trader,,senior:trader:remote:react:solana,23d
-Blockchain.com,https://web3.career/general-manager-mexico-blockchain/24375,General Manager - Mexico,$70k - $180k,executive,23d
-Blockchain.com,https://web3.career/general-manager-brazil-blockchain/24374,General Manager - Brazil,$70k - $180k,executive,23d
-Ten10,https://web3.career/test-manager-ten10/24373,Test Manager,$55k - $150k,nft,23d
-Galaxy Digital Services,https://web3.career/associate-request-for-proposal-writer-galaxydigitalservices/24372,"Associate, Request for Proposal Writer",,,23d
-Worldcoin,https://web3.career/senior-project-manager-economics-worldcoinorg/24371,"Senior Project Manager, Economics",,project manager:non tech:senior,23d
-Blockchain.com,https://web3.career/finance-systems-intern-blockchain/24370,Finance Systems Intern,,finance:intern:entry level,23d
-Archimed,https://web3.career/back-end-developer-data-engineer-needed-for-nft-data-warehouse-archimed-ai/24368,Back End Developer / Data engineer needed for NFT Data Warehouse,$70k - $150k,backend:data science:dev:nft,23d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Fuel Labs,https://web3.career/senior-frontend-engineer-fuellabs/25015,Remote,Senior Frontend Engineer,$70k - $190k,dev:front end:senior:remote,25d
+Findora,https://web3.career/crypto-ecosystem-growth-manager-findora/25014,Remote,Crypto Ecosystem Growth Manager,$46k - $140k,marketing:non tech:crypto:remote,25d
+Findora,https://web3.career/crypto-chief-marketing-officer-findora/25013,Remote,Crypto Chief Marketing Officer,$70k - $158k,executive:marketing:non tech:crypto:remote,25d
+DeSo Foundation,https://web3.career/app-ecosystem-lead-deso/25012,Remote,App Ecosystem Lead,$56k - $118k,lead:remote:ethereum,25d
+DeSo Foundation,https://web3.career/business-development-lead-deso/25011,Remote,Business Development Lead,,sales:non tech:lead:remote:ethereum,25d
+"DeFi Technologies, Inc.",https://web3.career/exchange-traded-product-manager-defi-tech/25010,"Zug,
+Switzerland",Exchange Traded Product Manager,$69k - $160k,product manager:non tech,25d
+Constellation Network,https://web3.career/ui-ux-designer-constellationnetwork/25009,Remote,UI/UX Designer,$50k - $135k,design:non tech:remote,25d
+Coinsquare,https://web3.career/mobile-software-developer-iii-ios-coinsquare/25008,"Toronto,
+Canada",Mobile Software Developer III - iOS,$51k - $109k,dev:ios:mobile:node,25d
+Coinsquare,https://web3.career/mobile-software-developer-iii-android-coinsquare/25007,"Toronto,
+Canada",Mobile Software Developer III - Android,,android:mobile:dev:node:java,25d
+Coinsquare,https://web3.career/frontend-software-developer-iii-web-coinsquare/25006,"Toronto,
+Canada",Frontend Software Developer III - Web,$50k - $144k,dev:front end:react:javascript,25d
+Coinsquare,https://web3.career/backend-software-developer-iii-exchange-coinsquare/25005,"Toronto,
+Canada","Backend Software Developer III, Exchange",$70k - $200k,backend:dev:node:java,25d
+Coinsquare,https://web3.career/human-resources-business-partner-coinsquare/25004,"Toronto,
+Canada",Human Resources Business Partner,$60k - $150k,ethereum,25d
+Coinsquare,https://web3.career/legal-counsel-coinsquare/25003,"Toronto,
+Canada",Legal Counsel,,legal:ethereum,25d
+Coinsquare,https://web3.career/sr-manager-anti-money-laundering-hybrid-coinsquare/25002,"Toronto,
+Canada",Sr. Manager Anti Money Laundering (Hybrid),$80k - $200k,senior:ethereum,25d
+cLabs,https://web3.career/senior-financial-software-engineer-clabs/25001,"Berlin,
+Germany",Senior Financial Software Engineer,,dev:finance:senior,25d
+cLabs,https://web3.career/it-helpdesk-engineer-berlin-germany-clabs/25000,"Berlin,
+Germany","IT Helpdesk Engineer - Berlin, Germany",$60k - $180k,dev,25d
+cLabs,https://web3.career/tell-us-how-you-would-like-to-contribute-clabs/24999,Remote,Tell us how you would like to contribute!,$56k - $160k,remote,25d
+cLabs,https://web3.career/recruiting-coordinator-clabs/24998,Remote,Recruiting Coordinator,,recruiter:non tech:remote,25d
+cLabs,https://web3.career/commerce-business-development-lead-clabs/24997,Remote,Commerce Business Development Lead,,sales:non tech:lead:remote,25d
+cLabs,https://web3.career/working-student-recruiting-f-m-x-clabs/24996,"Berlin,
+Germany",Working student Recruiting (f/m/x),$40k - $70k,recruiter:non tech,25d
+Change,https://web3.career/chief-technology-officer-cto-changeinvest/24995,"Tallinn,
+Estonia",Chief Technology Officer (CTO),$56k - $200k,cto:executive,25d
+Change,https://web3.career/senior-product-designer-changeinvest/24994,"Tallinn,
+Estonia",Senior Product Designer,$60k - $120k,design:non tech:senior,25d
+Change,https://web3.career/lord-ess-of-the-memes-changeinvest/24993,"Tallinn,
+Estonia",LORD(ESS) OF THE MEMES,,,25d
+Change,https://web3.career/senior-accountant-changeinvest/24992,"Tallinn,
+Estonia",Senior Accountant,$80k - $110k,accounting:senior,25d
+Change,https://web3.career/customer-support-specialist-spanish-language-changeinvest/24991,"Tallinn,
+Estonia",Customer Support Specialist - Spanish Language,$40k - $80k,customer support,25d
+Change,https://web3.career/customer-support-specialist-italian-language-changeinvest/24990,"Tallinn,
+Estonia",Customer Support Specialist - Italian Language,$40k - $80k,customer support,25d
+Chainlink Labs,https://web3.career/senior-public-relations-manager-chainlink/24989,Remote,Senior Public Relations Manager,$46k - $109k,marketing:non tech:senior:remote,25d
+Chainlink Labs,https://web3.career/senior-events-marketing-manager-chainlink/24988,Remote,Senior Events Marketing Manager,$46k - $109k,marketing:non tech:senior:remote,25d
+Chainlink Labs,https://web3.career/community-manager-latin-america-chainlink/24987,Remote,"Community Manager, Latin America",$40k - $101k,community manager:non tech:remote,25d
+Chainlink Labs,https://web3.career/gtm-program-manager-chainlink/24986,Remote,GTM Program Manager,$79k - $200k,executive:remote,25d
+Chainlink Labs,https://web3.career/chainlink-evangelist-korea-chainlink/24985,Remote,Chainlink Evangelist (Korea),$56k - $160k,remote,25d
+Chainlink Labs,https://web3.career/procurement-associate-chainlink/24984,Remote,Procurement Associate,$56k - $160k,remote,25d
+Chainlink Labs,https://web3.career/technical-program-manager-incident-response-chainlink/24983,Remote,"Technical Program Manager, Incident Response",$79k - $200k,executive:remote,25d
+Chainlink Labs,https://web3.career/engineering-manager-incident-response-chainlink/24982,Remote,"Engineering Manager, Incident Response",$79k - $200k,executive:remote,25d
+Chainlink Labs,https://web3.career/blockchain-research-engineer-chainlink/24981,Remote,Blockchain Research Engineer,$70k - $190k,dev:blockchain:remote:solidity:golang,25d

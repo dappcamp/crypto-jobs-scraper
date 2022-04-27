@@ -1,36 +1,57 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Alchemy,https://web3.career/engineering-internship-summer-2022-alchemy/9256,"Engineering Internship, Summer 2022",,intern:entry level,5mo
-Alchemy,https://web3.career/test-automation-engineer-alchemy/9255,Test Automation Engineer,$65k - $180k,dev:remote,5mo
-Alchemy,https://web3.career/computer-systems-engineer-node-automation-alchemy/9254,Computer Systems Engineer (Node Automation),$60k - $155k,dev:javascript:node:sys admin:remote,5mo
-Alchemy,https://web3.career/security-engineer-cloud-alchemy/9253,Security Engineer (Cloud),,cloud:dev:security:remote,5mo
-Alchemy,https://web3.career/security-engineer-application-alchemy/9252,Security Engineer (Application),$95k - $250k,dev:security:remote,5mo
-Alchemy,https://web3.career/frontend-engineer-general-alchemy/9251,Frontend Engineer (General),$22k - $120k,dev:front end:remote,5mo
-Alchemy,https://web3.career/frontend-engineer-experiments-alchemy/9250,Frontend Engineer (Experiments),$22k - $120k,dev:front end:remote,5mo
-Alchemy,https://web3.career/frontend-engineer-alchemy-dashboard-alchemy/9249,Frontend Engineer (Alchemy Dashboard),$22k - $120k,dev:front end:remote,5mo
-Alchemy,https://web3.career/research-scientist-protocol-design-alchemy/9248,Research Scientist (Protocol Design),$80k - $150k,design:non tech:ethereum:remote,5mo
-Alchemy,https://web3.career/evm-engineer-alchemy/9247,EVM Engineer,$60k - $150k,dev:ethereum:remote,5mo
-Alchemy,https://web3.career/backend-engineer-supernode-alchemy/9246,Backend Engineer (Supernode),$60k - $180k,backend:dev:remote,5mo
-Alchemy,https://web3.career/backend-engineer-platform-alchemy/9245,Backend Engineer (Platform),$60k - $180k,backend:dev:remote,5mo
-Alchemy,https://web3.career/backend-engineer-multi-region-infrastructure-alchemy/9244,Backend Engineer (Multi-Region Infrastructure),$60k - $180k,backend:dev:remote,5mo
-Alchemy,https://web3.career/backend-engineer-multi-chain-alchemy/9243,Backend Engineer (Multi-Chain),$60k - $180k,backend:dev:remote,5mo
-Alchemy,https://web3.career/backend-engineer-java-alchemy/9242,Backend Engineer (Java),$60k - $160k,backend:dev:java:remote,5mo
-Alchemy,https://web3.career/backend-engineer-general-alchemy/9241,Backend Engineer (General),$60k - $180k,backend:dev:remote,5mo
-Alchemy,https://web3.career/backend-engineer-experiments-alchemy/9240,Backend Engineer (Experiments),$60k - $180k,backend:dev:remote,5mo
-Alchemy,https://web3.career/protocol-specialist-evm-alchemy/9239,Protocol Specialist (EVM),$60k - $145k,ethereum:remote,5mo
-Alchemy,https://web3.career/events-manager-alchemy/9238,Events Manager,,events manager:non tech:remote,5mo
-Alchemy,https://web3.career/developer-advocate-polygon-alchemy/9237,Developer Advocate (Polygon),$65k - $180k,dev:remote,5mo
-Alchemy,https://web3.career/developer-advocate-flow-alchemy/9236,Developer Advocate (Flow),$65k - $180k,dev:remote,5mo
-Alchemy,https://web3.career/developer-advocate-alchemy/9235,Developer Advocate,$65k - $180k,dev:remote,5mo
-Alchemy,https://web3.career/senior-visual-designer-alchemy/9234,Senior Visual Designer,$60k - $120k,design:non tech:senior:remote,5mo
-Alchemy,https://web3.career/data-scientist-alchemy/9233,Data Scientist,$50k - $135k,data science:remote,5mo
-Alchemy,https://web3.career/data-engineer-alchemy/9232,Data Engineer,,data science:dev:remote,5mo
-Alchemy,https://web3.career/customer-product-engineer-alchemy/9231,Customer Product Engineer,$65k - $180k,dev:remote,5mo
-Acala,https://web3.career/your-role-not-listed-here-acala/9230,Your role not listed here?,$70k - $180k,rust,5mo
-Acala,https://web3.career/office-administrator-acala/9229,Office Administrator,$70k - $180k,rust,5mo
-Acala,https://web3.career/rust-engineer-acala/9228,Rust Engineer,$70k - $180k,dev:rust:remote,5mo
-Acala,https://web3.career/qa-automation-engineer-acala/9227,QA Automation Engineer,$50k - $150k,dev:quality assurance:react:solidity:node,5mo
-Vauld,https://web3.career/product-manager-vauld/9226,Product Manager,$69k - $160k,product manager:non tech,5mo
-Vauld,https://web3.career/avp-marketing-vauld/9225,AVP Marketing,$45k - $130k,marketing:non tech,5mo
-Vauld,https://web3.career/technical-analysts-vauld/9224,Technical Analysts,$40k - $120k,analyst,5mo
-Vauld,https://web3.career/crypto-journalist-vauld/9223,Crypto Journalist,$39k - $140k,crypto,5mo
-Vauld,https://web3.career/legal-manager-vauld/9222,Legal Manager,$24k - $140k,legal,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Shakepay,https://web3.career/creative-director-remote-canada-shakepay/9766,"Montreal,
+Canada",Creative Director (Remote - Canada),$79k - $200k,remote:executive,6mo
+Shakepay,https://web3.career/representant-e-service-a-la-clientele-bilingue-fr-an-a-distance-canada-shakepay/9765,"Montreal,
+Canada",Représentant(e) Service à la clientèle bilingue FR/AN (À distance - Canada),,,6mo
+Shakepay,https://web3.career/gestionnaire-service-a-la-clientele-bilingue-fr-an-a-distance-canada-shakepay/9764,"Montreal,
+Canada",Gestionnaire service à la clientèle bilingue FR/AN (À distance - Canada),,,6mo
+Shakepay,https://web3.career/customer-support-manager-remote-canada-shakepay/9763,"Montreal,
+Canada",Customer Support Manager (Remote - Canada),$40k - $80k,remote:customer support,6mo
+Shakepay,https://web3.career/customer-support-remote-canada-shakepay/9762,"Montreal,
+Canada",Customer Support (Remote - Canada),$40k - $80k,remote:customer support,6mo
+Shakepay,https://web3.career/customer-support-evenings-remote-canada-shakepay/9761,"Montreal,
+Canada",Customer Support - Evenings (Remote - Canada),$40k - $80k,remote:customer support,6mo
+Shakepay,https://web3.career/copywriter-remote-canada-shakepay/9760,"Montreal,
+Canada",Copywriter (Remote - Canada),$25k - $30k,remote:copywriting,6mo
+River Financial,https://web3.career/mining-analyst-riverfinancial/9759,"Columbus,
+United States",Mining Analyst,$40k - $120k,analyst,6mo
+River Financial,https://web3.career/senior-accountant-riverfinancial/9758,"Columbus,
+United States",Senior Accountant,$80k - $110k,accounting:senior,6mo
+River Financial,https://web3.career/senior-accountant-riverfinancial/9757,"San Francisco,
+United States",Senior Accountant,$80k - $110k,accounting:senior,6mo
+River Financial,https://web3.career/senior-software-engineer-riverfinancial/9756,Remote,Senior Software Engineer,$80k - $200k,dev:senior:javascript:remote,6mo
+River Financial,https://web3.career/senior-software-engineer-riverfinancial/9755,"Columbus,
+United States",Senior Software Engineer,$80k - $200k,dev:senior:javascript,6mo
+River Financial,https://web3.career/senior-software-engineer-riverfinancial/9754,"San Francisco,
+United States",Senior Software Engineer,$80k - $200k,dev:senior:javascript,6mo
+River Financial,https://web3.career/software-engineer-infrastructure-riverfinancial/9753,Remote,Software Engineer - Infrastructure,$65k - $180k,dev:remote,6mo
+River Financial,https://web3.career/software-engineer-infrastructure-riverfinancial/9752,"San Francisco,
+United States",Software Engineer - Infrastructure,$60k - $180k,dev,6mo
+River Financial,https://web3.career/security-software-engineer-riverfinancial/9751,Remote,Security Software Engineer,$95k - $250k,dev:security:remote,6mo
+River Financial,https://web3.career/security-software-engineer-riverfinancial/9750,"San Francisco,
+United States",Security Software Engineer,$95k - $250k,dev:security,6mo
+River Financial,https://web3.career/associate-relationship-manager-riverfinancial/9749,"Columbus,
+United States",Associate Relationship Manager,$45k - $130k,marketing:non tech,6mo
+PowerTrade,https://web3.career/product-designer-ios-powertrade/9713,Remote,Product Designer (iOS),,design:non tech:ios:mobile:remote,6mo
+PowerTrade,https://web3.career/make-your-own-role-powertrade/9712,Remote,Make your own role,$56k - $160k,remote,6mo
+PowerTrade,https://web3.career/senior-cyber-security-manager-ciso-powertrade/9711,Remote,Senior Cyber Security Manager / CISO,$95k - $250k,security:senior:remote,6mo
+PowerTrade,https://web3.career/video-producer-powertrade/9710,Remote,Video Producer,,video:remote,6mo
+PowerTrade,https://web3.career/marketing-graphic-designer-powertrade/9709,Remote,Marketing Graphic Designer,,design:non tech:marketing:remote,6mo
+PowerTrade,https://web3.career/content-writer-producer-manager-powertrade/9708,Remote,Content Writer (Producer/Manager),$25k - $30k,copywriting:remote,6mo
+PowerTrade,https://web3.career/content-producer-senior-manager-powertrade/9707,Remote,Content Producer / Senior Manager,$80k - $200k,senior:remote,6mo
+PowerTrade,https://web3.career/community-lead-powertrade/9706,Remote,Community Lead,$40k - $65k,community manager:non tech:lead:remote,6mo
+PowerTrade,https://web3.career/senior-web-developer-powertrade/9705,Remote,Senior Web Developer,$85k - $200k,dev:senior:remote,6mo
+Paradigm,https://web3.career/software-engineer-paradigm-portfolio-paradigm-xyz/9704,Remote,Software Engineer - Paradigm Portfolio,,finance:dev:remote,6mo
+Paradigm,https://web3.career/engineering-leadership-paradigm-portfolio-paradigm-xyz/9703,Remote,Engineering Leadership - Paradigm Portfolio,$40k - $100k,finance:remote,6mo
+Paradigm,https://web3.career/research-associate-paradigm-xyz/9702,"San Francisco,
+United States",Research Associate,,,6mo
+Paradigm,https://web3.career/software-engineer-front-end-paradigm-xyz/9701,"San Francisco,
+United States",Software Engineer - Front End,$50k - $150k,dev:front end,6mo
+Paradigm,https://web3.career/software-engineer-data-paradigm-xyz/9700,"San Francisco,
+United States",Software Engineer - Data,$60k - $180k,dev,6mo
+Paradigm,https://web3.career/software-engineer-crypto-infrastructure-paradigm-xyz/9699,"San Francisco,
+United States",Software Engineer - Crypto Infrastructure,$60k - $160k,dev:crypto,6mo
+Paradigm,https://web3.career/senior-recruiter-portfolio-paradigm-xyz/9698,"San Francisco,
+United States",Senior Recruiter - Portfolio,,finance:recruiter:non tech:senior,6mo
+Paradigm,https://web3.career/senior-recruiter-internal-paradigm-xyz/9697,"San Francisco,
+United States",Senior Recruiter - Internal,$40k - $70k,recruiter:non tech:senior,6mo

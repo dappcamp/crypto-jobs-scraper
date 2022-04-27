@@ -1,36 +1,53 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Crystal Blockchain Analytics,https://web3.career/senior-lead-python-developer-crystal-remote-crystal/23802,Senior/Lead Python Developer - Crystal (Remote),$100k - $200k,remote:dev:lead:python:senior,1mo
-Reveel,https://web3.career/solidity-dev-reveelmusic/23801,Solidity Dev,$80k - $160k,dev:solidity,1mo
-Optimism,https://web3.career/growth-marketer-optimism/23800,Growth Marketer,$25k - $120k,marketing:non tech:remote,1mo
-Aptos,https://web3.career/senior-business-sourcer-aptoslabs/23799,Senior Business Sourcer,$40k - $70k,recruiter:non tech:senior:remote,1mo
-Aptos,https://web3.career/strategic-partnerships-lead-culture-nfts-aptoslabs/23798,"Strategic Partnerships Lead, Culture & NFTs",,sales:non tech:lead:nft,1mo
-Energi Core Limited,https://web3.career/sr-recruiter-energicorelimited/23797,Sr. Recruiter,$40k - $70k,recruiter:non tech:senior:ethereum,1mo
-O(1) Labs,https://web3.career/lead-designer-o1labs/23796,Lead Designer,$40k - $190k,design:non tech:lead:remote,1mo
-RECUR,https://web3.career/recruiter-recur/23795,Recruiter,,recruiter:non tech:ethereum,1mo
-Sygnum Bank AG,https://web3.career/blockchain-engineer-sygnum/23794,Blockchain Engineer,$52k - $160k,dev:blockchain:solidity:node,1mo
-Cake Pte Ltd,https://web3.career/information-technology-support-specialist-cakedefi/23793,Information Technology Support Specialist,$40k - $80k,customer support,1mo
-BitGo,https://web3.career/senior-infrastructure-engineer-bitgo/23792,Senior Infrastructure Engineer,$65k - $150k,dev:senior:golang,1mo
-SADA,https://web3.career/senior-staff-solutions-architect-sre-sada/23791,Senior Staff Solutions Architect (SRE),$80k,architecture:senior,1mo
-Kraken Digital Asset Exchange,https://web3.career/banking-and-payments-associate-kraken/23789,Banking and Payments Associate,$40k - $100k,finance:remote,1mo
-Taurus SA,https://web3.career/sre-devops-engineer-taurusgroup/23788,SRE / DevOps engineer,$120k - $200k,devops:dev:senior:java,1mo
-Protocol Labs,https://web3.career/resdev-protocollabs/23787,ResDev,$60k - $120k,javascript:rust:remote,1mo
-Pre-Launch Co,https://web3.career/cto-highalphaprelaunch/23786,CTO,$79k - $300k,cto:executive:solidity:nft,1mo
-Okcoin,https://web3.career/deputy-general-counsel-okcoin/23785,Deputy General Counsel,$24k - $140k,legal,1mo
-Figure,https://web3.career/senior-product-manager-marketplace-onboarding-experience-figure/23784,"Senior Product Manager, Marketplace Onboarding Experience",$80k - $150k,product manager:non tech:senior,1mo
-Ledger,https://web3.career/partner-integration-analyst-ledger/23783,Partner Integration Analyst,$40k - $120k,analyst,1mo
-GOGO Protocol,https://web3.career/head-of-software-development-vp-engineering-cryptogogos/23782,Head of Software Development / VP Engineering,$60k - $70k,executive:dev:crypto:remote:solidity,1mo
-Wintermute,https://web3.career/associate-general-counsel-wintermute-trading/23781,Associate General Counsel,$24k - $140k,legal,1mo
-Optimism,https://web3.career/growth-engineer-optimism/23778,Growth Engineer,$85k - $120k,dev:marketing:non tech:remote:solidity,1mo
-GOGO Protocol,https://web3.career/recruiter-cryptogogos/23777,Recruiter,$30k - $50k,recruiter:non tech:crypto:remote,1mo
-Mythical Games,https://web3.career/technical-product-manager-mythicalgames/23776,Technical Product Manager,$130k - $175k,product manager:non tech:solidity:java,1mo
-Okcoin,https://web3.career/learning-and-development-manager-okcoin/23775,Learning and Development Manager,,,1mo
-Immutable,https://web3.career/senior-business-development-manager-gaming-immutable/23774,Senior Business Development Manager - Gaming,$135k - $150k,sales:non tech:game dev:senior:remote,1mo
-DFINITY,https://web3.career/hr-and-recruiting-operations-specialist-asia-dfinity/23772,HR and Recruiting Operations Specialist - Asia,,hr:non tech:operations:recruiter,1mo
-BlockFi,https://web3.career/senior-product-marketing-manager-consumer-blockfi/23771,"Senior Product Marketing Manager, Consumer",$46k - $109k,marketing:non tech:senior,1mo
-Tatsu Works,https://web3.career/smart-contract-developer-tatsu-works/23770,Smart Contract Developer,$70k - $150k,dev:smart contract:golang:rust,1mo
-Of All Trades,https://web3.career/blockchain-developer-of-all-trades/23769,Blockchain developer,$0k,dev:blockchain:solidity,1mo
-Immutable,https://web3.career/senior-talent-acquisition-partner-engineering-immutable/23767,Senior Talent Acquisition Partner (Engineering),$40k - $70k,senior:recruiter:non tech:ethereum,1mo
-Immutable,https://web3.career/business-development-manager-web3-gaming-immutable/23766,Business Development Manager - Web3 Gaming,$135k - $150k,sales:non tech:game dev:remote:ethereum,1mo
-Upside,https://web3.career/senior-solidity-smart-contract-developer-upside/23765,Senior Solidity Smart Contract Developer,$120k - $250k,dev:senior:smart contract:solidity:web3js,1mo
-Ripple,https://web3.career/applied-scientist-liquidity-summer-2022-intern-ripple/23764,"Applied Scientist, Liquidity (Summer 2022 Intern)",$29k - $43k,intern:entry level:sales:non tech,1mo
-Foundry,https://web3.career/data-engineering-architect-foundrydigital/23763,Data Engineering Architect,,architecture:scala,1mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Parity Technologies,https://web3.career/product-designer-parity/24395,"Berlin,
+Germany",Product Designer,$50k - $135k,design:non tech:remote,29d
+Trustana,https://web3.career/senior-full-stack-engineer-trustana/24394,"Shanghai,
+China",(Senior) Full Stack Engineer,$70k - $180k,dev:full stack:senior:react:node,29d
+Consensys,https://web3.career/summer-2022-intern-consensys/24393,Remote,Summer 2022 Intern,,intern:dev:entry level:remote:ethereum,29d
+Consensys,https://web3.career/site-reliability-engineer-sre-consensys/24392,Remote,Site Reliability Engineer (SRE),$150k - $200k,dev:sys admin:senior:remote:react,29d
+Consensys,https://web3.career/senior-qa-engineer-consensys-nft-business-consensys/24391,Remote,Senior QA Engineer (Consensys NFT Business),$30k - $50k,dev:quality assurance:senior:nft:remote,29d
+Consensys,https://web3.career/director-of-engineering-consensys/24390,Remote,Director of Engineering,$79k - $158k,executive:remote:ethereum:nft,29d
+Consensys,https://web3.career/business-analyst-senior-associate-consensys/24389,Remote,Business Analyst / Senior Associate,,analyst:senior:remote:ethereum:nft,29d
+OKX,https://web3.career/seo-copywriter-okx/24386,"Hong Kong,
+Hong Kong",SEO Copywriter,,copywriting:seo:non tech,29d
+Upside,https://web3.career/senior-devops-engineer-upside/24385,United States,Senior DevOps Engineer,$120k - $140k,devops:dev:senior,29d
+Chainalysis,https://web3.career/marketing-operations-coordinator-chainalysis/24384,"London,
+United Kingdom",Marketing Operations Coordinator,,marketing:non tech:operations,29d
+Bitbase,https://web3.career/backend-developer-bitbase/24383,"Barcelona,
+Spain",Backend developer,,backend:dev:crypto:php:api,29d
+Aldrin Labs,https://web3.career/senior-back-end-developer-web3-remote-aldrin-labs/24381,Remote,Senior Back-End Developer Web3 (Remote),,remote:backend:dev:senior:blockchain,29d
+SideShift.ai,https://web3.career/solidity-engineer-sideshift-ai/24380,Remote,Solidity Engineer,$70k - $100k,dev:solidity:smart contract:remote:blockchain,29d
+Aragon Association,https://web3.career/head-of-communications-aragon/24378,Remote,Head of Communications,$79k - $200k,executive:remote,29d
+Drift Protocol,https://web3.career/business-development-associate-community-drift-protocol/24377,Remote,Business Development Associate (Community),$100k - $200k,sales:non tech:community manager:remote:solana,29d
+Drift Protocol,https://web3.career/senior-quant-trader-drift-protocol/24376,Remote,Senior Quant Trader,,senior:trader:remote:react:solana,29d
+Blockchain.com,https://web3.career/general-manager-mexico-blockchain/24375,"Mexico City,
+Mexico",General Manager - Mexico,$70k - $180k,executive,29d
+Blockchain.com,https://web3.career/general-manager-brazil-blockchain/24374,Brazil,General Manager - Brazil,$70k - $180k,executive,29d
+Ten10,https://web3.career/test-manager-ten10/24373,"London,
+United Kingdom",Test Manager,$55k - $150k,nft,29d
+Galaxy Digital Services,https://web3.career/associate-request-for-proposal-writer-galaxydigitalservices/24372,,"Associate, Request for Proposal Writer",,,29d
+Worldcoin,https://web3.career/senior-project-manager-economics-worldcoinorg/24371,,"Senior Project Manager, Economics",,project manager:non tech:senior,29d
+Blockchain.com,https://web3.career/finance-systems-intern-blockchain/24370,"Miami,
+United States",Finance Systems Intern,,finance:intern:entry level,29d
+Archimed,https://web3.career/back-end-developer-data-engineer-needed-for-nft-data-warehouse-archimed-ai/24368,United States,Back End Developer / Data engineer needed for NFT Data Warehouse,$70k - $150k,backend:data science:dev:nft,29d
+Secret,https://web3.career/smart-contract-engineer-rust-cosmwasm-secret-10/24366,"Las Vegas,
+United States",Smart Contract Engineer (Rust + CosmWasm),$120k - $175k,dev:rust:smart contract:nft:ruby,29d
+Ledger,https://web3.career/infrastructure-knowledge-management-officer-ledger/24365,"Paris,
+France",Infrastructure Knowledge Management Officer,,,29d
+Ledger,https://web3.career/tech-lead-back-end-python-ledger-vault-ledger/24364,"London,
+United Kingdom",Tech Lead Back-End (Python) - Ledger Vault,,backend:lead:python:tech lead,29d
+Ledger,https://web3.career/back-end-engineer-python-vault-ledger/24363,"London,
+United Kingdom",Back-End Engineer (Python) - Vault,,backend:dev:python,29d
+Web3Auth,https://web3.career/sdk-unity-unreal-developer-remote-torus-2/24362,"Singapore,
+Singapore",SDK (Unity/Unreal) Developer - Remote,$60k - $140k,remote:dev,29d
+Solana Labs,https://web3.career/sr-frontend-engineer-dao-s-solana/24361,"San Francisco,
+United States",Sr. Frontend Engineer - DAO’s,$70k - $190k,dev:front end:senior:react:solana,29d
+NFT Price Floor,https://web3.career/full-stack-engineer-nft-price-floor/24359,"Barcelona,
+Spain",Full Stack Engineer,$0k,dev:full stack:nft:javascript:node,29d
+Turnt Gaming,https://web3.career/taunt-battleworld-head-of-community-turnt-gaming/24358,Remote,Taunt Battleworld: Head of Community,,executive:community manager:non tech:remote:crypto,29d
+Binance,https://web3.career/marketing-specialist-binance/24357,Asia,Marketing Specialist,$45k - $130k,marketing:non tech,29d
+Binance,https://web3.career/business-operations-manager-russian-speaker-binance/24356,Europe,Business Operations Manager (Russian speaker),$60k - $200k,operations,29d
+Okcoin,https://web3.career/ux-researcher-retail-okcoin/24355,"San Francisco,
+United States","UX Researcher, Retail",$50k - $150k,design:non tech,29d
+BlockFi,https://web3.career/marketing-compliance-sr-associate-associate-blockfi/24354,"New York,
+United States",Marketing Compliance Sr Associate/Associate,,compliance:marketing:non tech,29d

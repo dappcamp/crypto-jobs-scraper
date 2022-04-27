@@ -1,36 +1,37 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Coinbase,https://web3.career/director-product-coinbase/2300,"Director, Product",$79k - $200k,executive:remote,5mo
-Coinbase,https://web3.career/director-product-coinbase/2299,"Director, Product",$79k - $200k,executive:remote,5mo
-Coinbase,https://web3.career/technical-sourcer-remote-coinbase/2298,Technical Sourcer (Remote),,remote:recruiter:non tech,5mo
-Coinbase,https://web3.career/technical-recruiter-coinbase/2297,Technical Recruiter,,recruiter:non tech:remote,5mo
-Coinbase,https://web3.career/technical-recruiter-coinbase/2296,Technical Recruiter,,recruiter:non tech:remote,5mo
-Coinbase,https://web3.career/senior-technical-sourcer-contract-coinbase/2295,Senior Technical Sourcer - Contract,$40k - $70k,recruiter:non tech:senior:remote,5mo
-Coinbase,https://web3.career/senior-technical-sourcer-coinbase/2294,Senior Technical Sourcer,$40k - $70k,recruiter:non tech:senior:remote,5mo
-Coinbase,https://web3.career/senior-technical-recruiter-coinbase/2293,Senior Technical Recruiter,$40k - $70k,recruiter:non tech:senior:remote,5mo
-Coinbase,https://web3.career/senior-recruiter-coinbase/2292,Senior Recruiter,$40k - $70k,recruiter:non tech:senior:remote,5mo
-Coinbase,https://web3.career/sw-engineer-hr-workday-functional-enterprise-apps-coinbase/2291,"SW Engineer, HR (Workday Functional), Enterprise Apps",$100k - $150k,dev:hr:non tech,5mo
-Coinbase,https://web3.career/staff-software-engineer-salesforce-platform-coinbase/2290,"Staff Software Engineer, Salesforce Platform",,dev:salesforce:remote,5mo
-Coinbase,https://web3.career/senior-engineering-manager-product-coinbase/2289,"Senior Engineering Manager, Product",$95k - $250k,executive:senior:remote,5mo
-Coinbase,https://web3.career/senior-engineering-manager-backend-coinbase/2288,"Senior Engineering Manager, Backend",,executive:backend:senior:remote,5mo
-Coinbase,https://web3.career/senior-engineering-manager-coinbase/2287,Senior Engineering Manager,$95k - $250k,executive:senior:remote,5mo
-Coinbase,https://web3.career/site-reliability-engineer-crypto-coinbase/2286,Site Reliability Engineer - Crypto,,dev:sys admin:crypto:ruby:node,5mo
-Coinbase,https://web3.career/infrastructure-solutions-architect-coinbase/2285,Infrastructure Solutions Architect,,architecture:ruby:remote,5mo
-Coinbase,https://web3.career/staff-frontend-engineer-coinbase/2284,Staff Frontend Engineer,$50k - $144k,dev:front end:react:react native:javascript,5mo
-Coinbase,https://web3.career/staff-frontend-engineer-coinbase/2283,Staff Frontend Engineer,$50k - $144k,dev:front end:react:react native:javascript,5mo
-Coinbase,https://web3.career/senior-frontend-engineer-coinbase/2282,Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:react native,5mo
-Coinbase,https://web3.career/senior-frontend-engineer-coinbase/2281,Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:react native,5mo
-Coinbase,https://web3.career/frontend-engineer-coinbase/2280,Frontend Engineer,$50k - $144k,dev:front end:react:react native:javascript,5mo
-Coinbase,https://web3.career/software-engineer-machine-learning-platform-coinbase/2279,"Software Engineer, Machine Learning Platform",,dev:machine learning:scala:java:remote,5mo
-Coinbase,https://web3.career/machine-learning-engineer-coinbase/2278,Machine Learning Engineer,$140k - $180k,dev:machine learning:remote,5mo
-Coinbase,https://web3.career/applied-machine-learning-engineer-coinbase/2277,Applied Machine Learning Engineer,$140k - $180k,dev:machine learning:remote,5mo
-Coinbase,https://web3.career/staff-software-engineer-remote-usa-coinbase/2276,Staff Software Engineer (Remote - USA),$60k - $150k,remote:dev:ethereum:ruby:golang,5mo
-Coinbase,https://web3.career/staff-blockchain-engineer-smart-contract-coinbase/2275,Staff Blockchain Engineer - Smart Contract,$50k - $150k,dev:blockchain:smart contract:solidity:ethereum,5mo
-Coinbase,https://web3.career/senior-backend-engineer-coinbase/2274,Senior Backend Engineer,$70k - $200k,backend:dev:senior:ethereum:ruby,5mo
-Coinbase,https://web3.career/protocol-engineer-bison-trails-coinbase/2273,Protocol Engineer-Bison Trails,$80k - $160k,dev:node:rust:remote,5mo
-Coinbase,https://web3.career/site-reliability-engineer-institutional-coinbase/2272,Site Reliability Engineer - Institutional,,dev:sys admin:ruby,5mo
-Coinbase,https://web3.career/senior-product-designer-coinbase/2271,Senior Product Designer,$60k - $120k,design:non tech:senior:remote,5mo
-Coinbase,https://web3.career/senior-content-designer-platform-coinbase/2270,"Senior Content Designer, Platform",$60k - $120k,design:non tech:senior:remote,5mo
-Coinbase,https://web3.career/product-designer-coinbase/2269,Product Designer,$50k - $135k,design:non tech:remote,5mo
-Coinbase,https://web3.career/product-designer-coinbase/2268,Product Designer,$50k - $135k,design:non tech:remote,5mo
-Coinbase,https://web3.career/manager-product-design-coinbase/2267,"Manager, Product Design",$50k - $135k,design:non tech:remote,5mo
-Coinbase,https://web3.career/technical-account-manager-apac-coinbase/2266,Technical Account Manager (APAC),,account manager:remote,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Alchemy,https://web3.career/product-manager-growth-alchemy/9266,Remote,"Product Manager, Growth",,marketing:non tech:product manager:remote,6mo
+Alchemy,https://web3.career/growth-marketer-alchemy/9265,Remote,Growth Marketer,$25k - $120k,marketing:non tech:remote,6mo
+Alchemy,https://web3.career/general-alchemy/9264,Remote,General,$56k - $160k,remote,6mo
+Alchemy,https://web3.career/finance-operations-alchemy/9263,Remote,Finance & Operations,,finance:operations:remote,6mo
+Alchemy,https://web3.career/engineering-manager-alchemy/9262,Remote,Engineering Manager,$79k - $200k,executive:remote,6mo
+Alchemy,https://web3.career/sdk-engineer-web-alchemy/9261,Remote,SDK Engineer (Web),$65k - $180k,dev:remote,6mo
+Alchemy,https://web3.career/sdk-engineer-server-alchemy/9260,Remote,SDK Engineer (Server),$65k - $180k,dev:remote,6mo
+Alchemy,https://web3.career/sdk-engineer-react-native-alchemy/9259,Remote,SDK Engineer (React Native),$65k - $200k,dev:react native:mobile:javascript:react,6mo
+Alchemy,https://web3.career/sdk-engineer-ios-alchemy/9258,Remote,SDK Engineer (iOS),$51k - $109k,dev:ios:mobile:remote,6mo
+Alchemy,https://web3.career/sdk-engineer-android-alchemy/9257,Remote,SDK Engineer (Android),,android:mobile:dev:remote,6mo
+Alchemy,https://web3.career/engineering-internship-summer-2022-alchemy/9256,"New York,
+United States","Engineering Internship, Summer 2022",,intern:entry level,6mo
+Alchemy,https://web3.career/test-automation-engineer-alchemy/9255,Remote,Test Automation Engineer,$65k - $180k,dev:remote,6mo
+Alchemy,https://web3.career/computer-systems-engineer-node-automation-alchemy/9254,Remote,Computer Systems Engineer (Node Automation),$60k - $155k,dev:javascript:node:sys admin:remote,6mo
+Alchemy,https://web3.career/security-engineer-cloud-alchemy/9253,Remote,Security Engineer (Cloud),,cloud:dev:security:remote,6mo
+Alchemy,https://web3.career/security-engineer-application-alchemy/9252,Remote,Security Engineer (Application),$95k - $250k,dev:security:remote,6mo
+Alchemy,https://web3.career/frontend-engineer-general-alchemy/9251,Remote,Frontend Engineer (General),$22k - $120k,dev:front end:remote,6mo
+Alchemy,https://web3.career/frontend-engineer-experiments-alchemy/9250,Remote,Frontend Engineer (Experiments),$22k - $120k,dev:front end:remote,6mo
+Alchemy,https://web3.career/frontend-engineer-alchemy-dashboard-alchemy/9249,Remote,Frontend Engineer (Alchemy Dashboard),$22k - $120k,dev:front end:remote,6mo
+Alchemy,https://web3.career/research-scientist-protocol-design-alchemy/9248,Remote,Research Scientist (Protocol Design),$80k - $150k,design:non tech:ethereum:remote,6mo
+Alchemy,https://web3.career/evm-engineer-alchemy/9247,Remote,EVM Engineer,$60k - $150k,dev:ethereum:remote,6mo
+Alchemy,https://web3.career/backend-engineer-supernode-alchemy/9246,Remote,Backend Engineer (Supernode),$60k - $180k,backend:dev:remote,6mo
+Alchemy,https://web3.career/backend-engineer-platform-alchemy/9245,Remote,Backend Engineer (Platform),$60k - $180k,backend:dev:remote,6mo
+Alchemy,https://web3.career/backend-engineer-multi-region-infrastructure-alchemy/9244,Remote,Backend Engineer (Multi-Region Infrastructure),$60k - $180k,backend:dev:remote,6mo
+Alchemy,https://web3.career/backend-engineer-multi-chain-alchemy/9243,Remote,Backend Engineer (Multi-Chain),$60k - $180k,backend:dev:remote,6mo
+Alchemy,https://web3.career/backend-engineer-java-alchemy/9242,Remote,Backend Engineer (Java),$60k - $160k,backend:dev:java:remote,6mo
+Alchemy,https://web3.career/backend-engineer-general-alchemy/9241,Remote,Backend Engineer (General),$60k - $180k,backend:dev:remote,6mo
+Alchemy,https://web3.career/backend-engineer-experiments-alchemy/9240,Remote,Backend Engineer (Experiments),$60k - $180k,backend:dev:remote,6mo
+Alchemy,https://web3.career/protocol-specialist-evm-alchemy/9239,Remote,Protocol Specialist (EVM),$60k - $145k,ethereum:remote,6mo
+Alchemy,https://web3.career/events-manager-alchemy/9238,Remote,Events Manager,,events manager:non tech:remote,6mo
+Alchemy,https://web3.career/developer-advocate-polygon-alchemy/9237,Remote,Developer Advocate (Polygon),$65k - $180k,dev:remote,6mo
+Alchemy,https://web3.career/developer-advocate-flow-alchemy/9236,Remote,Developer Advocate (Flow),$65k - $180k,dev:remote,6mo
+Alchemy,https://web3.career/developer-advocate-alchemy/9235,Remote,Developer Advocate,$65k - $180k,dev:remote,6mo
+Alchemy,https://web3.career/senior-visual-designer-alchemy/9234,Remote,Senior Visual Designer,$60k - $120k,design:non tech:senior:remote,6mo
+Alchemy,https://web3.career/data-scientist-alchemy/9233,Remote,Data Scientist,$50k - $135k,data science:remote,6mo
+Alchemy,https://web3.career/data-engineer-alchemy/9232,Remote,Data Engineer,,data science:dev:remote,6mo

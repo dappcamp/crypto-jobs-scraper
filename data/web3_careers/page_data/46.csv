@@ -1,36 +1,54 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Crypto.com,https://web3.career/strategy-director-operational-excellence-business-process-improvement-crypto-com/24765,Strategy Director (Operational Excellence & Business Process Improvement),$150k - $230k,executive:operations,20d
-Crypto.com,https://web3.career/ux-researcher-global-fintech-startup-crypto-com/24764,UX Researcher - Global Fintech Startup,,finance:design:non tech,20d
-Crypto.com,https://web3.career/information-security-compliance-manager-crypto-com/24763,Information Security Compliance Manager,,compliance:security:remote,20d
-Crypto.com,https://web3.career/assistant-manager-legal-operations-and-knowledge-retention-sg-crypto-com/24762,Assistant Manager - Legal Operations and Knowledge Retention (SG),,marketing:non tech:product manager:legal:operations,20d
-Crypto.com,https://web3.career/global-markets-compliance-officer-singapore-uae-crypto-com/24761,Global Markets Compliance Officer (Singapore/UAE),,compliance,20d
-Crypto Finance AG,https://web3.career/golang-quant-developer-cryptofinanceag/24760,Golang Quant Developer,$33k - $100k,dev:golang:java,20d
-Crypto.com,https://web3.career/fraud-operations-manager-crypto-com/24759,Fraud Operations Manager,,security:operations,20d
-Brinc,https://web3.career/associate-program-manager-decentralized-finance-defi-accelerator-brinc/24758,Associate Program Manager - Decentralized Finance (DeFi) Accelerator,$40k - $140k,finance:executive:defi:nft,20d
-Crypto.com,https://web3.career/executive-recruiting-coordinator-crypto-com/24757,Executive Recruiting Coordinator,,executive:recruiter:non tech,20d
-Crypto.com,https://web3.career/office-manager-turkey-crypto-com/24756,Office Manager - Turkey,,,20d
-Crypto.com,https://web3.career/data-privacy-manager-united-arab-emirates-uae-crypto-com/24755,"Data Privacy Manager, United Arab Emirates (UAE)",,,20d
-Crypto.com,https://web3.career/consumer-protection-officer-u-s-canada-crypto-com/24754,"Consumer Protection Officer, U.S. & Canada",,,20d
-Crypto.com,https://web3.career/assistant-manager-system-administrator-legal-operations-sg-crypto-com/24753,"Assistant Manager, System Administrator-Legal Operations (SG)",,legal:operations:sys admin:nft,20d
-Crypto.com,https://web3.career/regulatory-compliance-manager-australia-crypto-com/24752,"Regulatory Compliance Manager, Australia",,compliance:legal:nft,20d
-Crypto.com,https://web3.career/data-privacy-associate-apac-crypto-com/24751,"Data Privacy Associate, APAC",$55k - $150k,nft,20d
-"Data Wow Co., Ltd.",https://web3.career/blockchain-developer-datawowco-ltd/24750,Blockchain Developer,$43k - $160k,dev:blockchain:golang,20d
-Crypto.com,https://web3.career/compliance-director-u-s-and-canadian-exchanges-crypto-com/24749,Compliance Director - U.S. and Canadian Exchanges,,compliance:executive,20d
-Crypto.com,https://web3.career/backend-developer-ror-golang-elixir-fresh-graduate-welcome-crypto-com/24748,Backend Developer (ROR/Golang/Elixir) - Fresh Graduate Welcome,,backend:dev:intern:entry level:golang,20d
-Crypto.com,https://web3.career/institutional-sales-manager-emea-crypto-com/24747,Institutional Sales Manager - EMEA,$29k - $108k,sales:non tech:remote,20d
-Brinc,https://web3.career/associate-program-manager-blockchain-nft-accelerator-brinc/24746,Associate Program Manager (Blockchain & NFT Accelerator),$80k - $225k,executive:blockchain:nft,20d
-Crypto.com,https://web3.career/card-program-manager-crypto-com/24745,Card Program Manager,$70k - $180k,executive,20d
-Crypto.com,https://web3.career/business-development-manager-nft-japan-korea-crypto-com/24744,"Business Development Manager (NFT, Japan/ Korea)",$100k - $180k,sales:non tech:nft,20d
-Quant Network Ltd,https://web3.career/senior-ethereum-developer-quantnetworkltd/24743,Senior Ethereum Developer,$80k - $200k,dev:senior:solidity:ethereum,20d
-Crypto.com,https://web3.career/account-manager-emea-crypto-com/24742,Account Manager - EMEA,,account manager,20d
-Crypto.com,https://web3.career/growth-partnerships-director-north-america-crypto-com/24741,"Growth Partnerships Director, North America",$40k - $150k,sales:non tech:executive:marketing,20d
-Crypto.com,https://web3.career/analyst-global-customer-monitoring-program-crypto-com/24740,"Analyst, Global Customer Monitoring Program",$36k - $120k,analyst:nft,20d
-Crypto.com,https://web3.career/nft-pfp-loaded-lions-community-manager-apac-crypto-com/24739,"NFT- PFP Loaded Lions Community Manager, APAC",$35k - $101k,community manager:non tech:nft,20d
-Crypto.com,https://web3.career/growth-campaigns-director-north-america-crypto-com/24738,"Growth Campaigns Director, North America",$70k - $158k,executive:marketing:non tech:nft,20d
-Crypto.com,https://web3.career/junior-account-manager-latam-seeking-graduates-or-entry-level-applicants-crypto-com/24737,Junior Account Manager - LATAM - Seeking Graduates or Entry level Applicants,,account manager:junior:entry level,20d
-dcSpark,https://web3.career/solidity-developer-dcspark/24736,Solidity Developer,$63k - $160k,dev:solidity:ethereum,20d
-Crypto.com,https://web3.career/security-engineer-sg-crypto-com/24735,Security Engineer (SG),,dev:security:react:ethereum:nft,20d
-Crypto.com,https://web3.career/director-of-engineering-cronos-crypto-com/24734,Director of Engineering - Cronos,$63k - $180k,executive:nft,20d
-Coinbase,https://web3.career/staff-sw-engineer-enterprise-apps-sales-marketing-support-coinbase/24733,"Staff SW Engineer, Enterprise Apps, Sales, Marketing & Support",$85k - $120k,dev:marketing:non tech:sales:customer support,20d
-Coinbase,https://web3.career/senior-director-treasury-growth-product-enablement-coinbase/24732,"Senior Director, Treasury Growth & Product Enablement",$70k - $158k,executive:marketing:non tech:senior:remote,20d
-Coinbase,https://web3.career/senior-software-engineer-react-native-coinbase/24731,Senior Software Engineer - React Native,$65k - $200k,dev:react native:mobile:javascript:react,20d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+GSR,https://web3.career/legal-counsel-digital-assets-associate-gsr/25341,"New York,
+United States","Legal Counsel, Digital Assets, Associate",,legal:finance,21d
+GSR,https://web3.career/legal-counsel-associate-gsr/25340,"Singapore,
+Singapore","Legal Counsel, Associate",$24k - $140k,legal,21d
+SwissBorg,https://web3.career/engineering-manager-remote-swissborg/25339,Remote,Engineering Manager (Remote),$79k - $200k,executive:remote,21d
+Polygon,https://web3.career/country-manager-growth-marketing-europe-the-uk-remote-working-polygon/25338,Europe,"Country Manager : Growth & Marketing ( Europe & the UK), Remote Working",$25k - $120k,remote:marketing:non tech:ethereum,21d
+Parity Technologies,https://web3.career/rust-core-developer-staking-pos-engineer-parity/25337,"Berlin,
+Germany",Rust Core Developer - Staking/PoS Engineer,$70k - $180k,dev:rust:remote:react:solidity,21d
+Ripple,https://web3.career/software-engineer-liquidity-ripple/25336,"Toronto,
+Canada","Software Engineer, Liquidity",,dev:sales:non tech:java,21d
+GSR,https://web3.career/third-party-security-risk-and-awareness-analyst-cryptocurrency-trading-new-york-gsr/25335,"New York,
+United States",Third-Party Security Risk and Awareness Analyst - Cryptocurrency Trading - New York,,analyst:security:crypto,21d
+Waivlength,https://web3.career/lead-machine-learning-engineer-waivlength/25334,Remote,Lead Machine Learning Engineer,$140k - $180k,dev:lead:machine learning:remote:python,21d
+ConsenSys Inc,https://web3.career/peopleops-lead-consensysinc/25333,"New York,
+United States",PeopleOps Lead,$100k - $200k,lead:ethereum:nft,21d
+SwissBorg,https://web3.career/french-relationship-manager-remote-swissborg/25332,"Lisbon,
+Portugal",French Relationship Manager (Remote),$25k - $120k,remote:marketing:non tech,21d
+SwissBorg,https://web3.career/german-relationship-manager-remote-swissborg/25329,"Lisbon,
+Portugal",German Relationship Manager (Remote),$25k - $120k,remote:marketing:non tech,21d
+Heretic,https://web3.career/senior-director-of-talent-heretic-fund/25328,"San Francisco,
+United States",Senior Director of Talent,,executive:senior:recruiter:non tech,21d
+Polygon,https://web3.career/country-manager-_-growth-remote-south-korea-thailand-vietnam-indonesia-singapore-india-polygon/25327,APAC,Country Manager _ Growth (Remote) : South Korea/Thailand / Vietnam/ Indonesia/ Singapore /India,$25k - $120k,remote:marketing:non tech:ethereum,21d
+Binance,https://web3.career/global-strategy-operations-manager-binance/25326,Asia,Global Strategy & Operations Manager,$60k - $200k,operations,21d
+Kraken Digital Asset Exchange,https://web3.career/strategic-finance-associate-london-uk-kraken/25325,"London,
+United Kingdom",Strategic Finance Associate - London / UK,$40k - $150k,finance,21d
+Binance,https://web3.career/hr-operations-specialist-binance/25324,"Sao Paulo,
+Brazil",HR Operations Specialist,,hr:non tech:operations,21d
+Binance,https://web3.career/director-strategic-finance-binance/25323,Remote,"Director, Strategic Finance",$40k - $225k,executive:finance:remote,21d
+Binance,https://web3.career/global-product-communications-head-binance/25322,Remote,Global Product Communications Head,$79k - $200k,executive:remote,21d
+Binance,https://web3.career/global-product-communications-lead-web3-metaverse-nft-fan-tokens-binance/25321,Remote,"Global Product Communications Lead - Web3, Metaverse, NFT, Fan Tokens",,lead:metaverse:nft:remote,21d
+Paro.io,https://web3.career/crypto-accounting-specialist-remote-projects-paro-io/25320,"Columbus,
+United States",Crypto Accounting Specialist - Remote Projects,$11k - $25k,remote:accounting:crypto,21d
+Binance,https://web3.career/head-of-compliance-iberia-binance/25319,"Madrid,
+Spain",Head of Compliance - Iberia,,compliance:executive,21d
+Binance,https://web3.career/global-product-communications-lead-fintech-payments-binance/25318,Remote,"Global Product Communications Lead - FinTech, Payments",,finance:lead:remote,21d
+BattleFly,https://web3.career/senior-backend-developer-for-gamefi-studio-node-js-battlefly/25317,Remote,Senior Backend Developer for GameFi Studio (Node.js),$70k - $150k,javascript:backend:dev:node:senior,21d
+Binance,https://web3.career/quality-assurance-analyst-binance/25316,Europe,Quality Assurance Analyst,$40k - $120k,analyst,21d
+"Palm NFT Studio, Inc.",https://web3.career/junior-executive-assistant-palmnftstudioinc/25315,"Los Angeles,
+United States",Junior Executive Assistant,,executive:junior:entry level:nft,21d
+Human Protocol,https://web3.career/key-partnerships-manager-human-protocol-foundation/25314,"London,
+United Kingdom",Key Partnerships Manager,$26k - $140k,sales:non tech,21d
+Human Protocol,https://web3.career/social-media-specialist-human-protocol-foundation/25313,"London,
+United Kingdom",Social Media Specialist,$33k - $85k,social media:non tech,21d
+Voodoo,https://web3.career/lead-ua-manager-voodoo/25312,"Barcelona,
+Spain",Lead UA Manager,$60k - $200k,lead,21d
+Okcoin,https://web3.career/research-operations-manager-okcoin/25311,"San Francisco,
+United States",Research Operations Manager,$60k - $200k,operations,21d
+Kraken Digital Asset Exchange,https://web3.career/head-of-business-development-kraken/25310,Remote,Head of Business Development,$40k - $150k,executive:sales:non tech:remote,21d
+Async Art,https://web3.career/ui-ux-designer-asyncart/25309,Remote,UI/UX Designer,$50k - $135k,design:non tech:remote:ethereum:nft,21d
+Subspace Labs,https://web3.career/protocol-researcher-subspacelabs/25308,Remote,Protocol Researcher,$56k - $160k,remote,22d
+Subspace Labs,https://web3.career/director-of-research-subspacelabs/25307,Remote,Director of Research,$79k - $200k,executive:remote,22d
+Subspace Labs,https://web3.career/chainops-sre-engineer-subspacelabs/25306,Remote,ChainOps/SRE Engineer,$85k - $200k,dev:senior:remote,22d
+OpenSea,https://web3.career/accounts-payable-manager-opensea/25305,Remote,Accounts Payable Manager,,finance:accounting:remote,22d

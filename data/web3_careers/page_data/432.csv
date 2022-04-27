@@ -1,36 +1,59 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Coinbase,https://web3.career/social-support-analyst-coinbase/8292,Social Support Analyst,$15k - $95k,analyst:customer support,6mo
-Coinbase,https://web3.career/social-media-support-analyst-coinbase/8291,Social Media Support Analyst,$13k - $32k,analyst:social media:non tech:customer support,6mo
-Coinbase,https://web3.career/senior-technical-program-manager-coinbase/8290,Senior Technical Program Manager,$46k - $110k,executive:senior,6mo
-Coinbase,https://web3.career/senior-program-manager-asset-listings-coinbase/8289,"Senior Program Manager, Asset Listings",$46k - $110k,executive:senior,6mo
-Coinbase,https://web3.career/senior-manager-cx-nft-content-moderation-ops-coinbase/8288,"Senior Manager, CX NFT Content Moderation Ops",$90k - $200k,senior:nft,6mo
-Coinbase,https://web3.career/senior-manager-cx-nft-content-moderation-ops-coinbase/8287,"Senior Manager, CX NFT Content Moderation Ops",$90k - $200k,senior:nft,6mo
-Coinbase,https://web3.career/senior-manager-cx-nft-content-moderation-ops-coinbase/8286,"Senior Manager, CX NFT Content Moderation Ops",$90k - $200k,senior:nft,6mo
-Coinbase,https://web3.career/senior-manager-customer-experience-operations-coinbase/8285,"Senior Manager, Customer Experience Operations",,customer support:operations:senior,6mo
-Coinbase,https://web3.career/scheduler-coinbase/8284,Scheduler,,,6mo
-Coinbase,https://web3.career/regional-manager-emea-client-services-l-d-coinbase/8283,"Regional Manager, EMEA Client Services L&D",,,6mo
-Coinbase,https://web3.career/sr-program-manager-customer-support-coinbase/8282,Sr. Program Manager - Customer Support,,customer support:executive:senior,6mo
-Coinbase,https://web3.career/senior-manager-customer-experience-operations-coinbase/8281,"Senior Manager, Customer Experience Operations",,customer support:operations:senior,6mo
-Coinbase,https://web3.career/quality-analyst-customer-experience-operations-coinbase/8280,"Quality Analyst, Customer Experience Operations",,analyst:customer support:operations,6mo
-Coinbase,https://web3.career/quality-analyst-customer-experience-coinbase/8279,"Quality Analyst, Customer Experience",$15k - $95k,analyst:customer support,6mo
-Coinbase,https://web3.career/qa-analyst-cold-storage-custody-coinbase/8278,"QA Analyst, Cold Storage (Custody)",,analyst:quality assurance,6mo
-Coinbase,https://web3.career/prime-account-manager-apac-coinbase/8277,"Prime Account Manager, APAC",,account manager,6mo
-Coinbase,https://web3.career/onboarding-analyst-coinbase/8276,Onboarding Analyst,$40k - $120k,analyst,6mo
-Coinbase,https://web3.career/onboarding-analyst-coinbase/8275,Onboarding Analyst,$40k - $120k,analyst,6mo
-Coinbase,https://web3.career/nft-creator-success-manager-coinbase/8274,NFT Creator Success Manager,$100k - $180k,sales:non tech:nft,6mo
-Coinbase,https://web3.career/managing-editor-internal-documentation-coinbase/8273,"Managing Editor, Internal Documentation",,,6mo
-Coinbase,https://web3.career/manager-institutional-account-management-coinbase/8272,"Manager, Institutional Account Management",,,6mo
-Coinbase,https://web3.career/manager-account-management-emea-coinbase/8271,"Manager, Account Management (EMEA)",,,6mo
-Coinbase,https://web3.career/lead-ecosystem-nft-coinbase/8270,"Lead, Ecosystem, NFT",$70k - $200k,lead:nft,6mo
-Coinbase,https://web3.career/lead-ecosystem-nft-coinbase/8269,"Lead, Ecosystem, NFT",$70k - $200k,lead:nft,6mo
-Coinbase,https://web3.career/l-d-specialist-lead-retail-coinbase/8268,"L&D Specialist/Lead, Retail",$60k - $200k,lead,6mo
-Coinbase,https://web3.career/l-d-specialist-lead-retail-coinbase/8267,"L&D Specialist/Lead, Retail",$60k - $200k,lead,6mo
-Coinbase,https://web3.career/l-d-specialist-lead-retail-coinbase/8266,"L&D Specialist/Lead, Retail",$60k - $200k,lead,6mo
-Coinbase,https://web3.career/l-d-specialist-lead-institutional-remote-usa-coinbase/8265,"L&D Specialist/Lead, Institutional (Remote - USA)",$95k - $200k,remote:lead,6mo
-Coinbase,https://web3.career/institutional-support-analyst-coinbase/8264,Institutional Support Analyst,$15k - $95k,analyst:customer support,6mo
-Coinbase,https://web3.career/institutional-support-analyst-coinbase/8263,Institutional Support Analyst,$15k - $95k,analyst:customer support,6mo
-Coinbase,https://web3.career/incidents-and-escalations-manager-customer-support-coinbase/8262,"Incidents and Escalations Manager, Customer Support",$40k - $80k,customer support,6mo
-Coinbase,https://web3.career/incidents-and-escalations-manager-customer-support-coinbase/8261,"Incidents and Escalations Manager, Customer Support",$40k - $80k,customer support,6mo
-Coinbase,https://web3.career/customer-support-analyst-wallet-and-vault-coinbase/8260,"Customer Support Analyst, Wallet and Vault",$15k - $95k,analyst:customer support,6mo
-Coinbase,https://web3.career/customer-support-analyst-payment-operations-coinbase/8259,"Customer Support Analyst, Payment Operations",,analyst:customer support:operations,6mo
-Coinbase,https://web3.career/customer-support-analyst-account-operations-coinbase/8258,"Customer Support Analyst, Account Operations",,analyst:customer support:operations,6mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+SwissBorg,https://web3.career/treasury-manager-swissborg/8861,"Tallinn,
+Estonia",Treasury Manager,$40k - $150k,finance,6mo
+Amun 21Shares,https://web3.career/us-legal-associate-amun/8860,"New York,
+United States",US Legal Associate,$24k - $140k,legal,6mo
+Binance,https://web3.career/customer-service-specialist-french-english-binance/8859,Latin America,Customer Service Specialist - (French/English),$40k - $80k,customer support,6mo
+WOO Network,https://web3.career/frontend-engineer-vuejs-woonetwork/8858,"Warsaw,
+Poland",Frontend Engineer - Vuejs,$50k - $140k,dev:front end:javascript:vue:solana,6mo
+Immutable,https://web3.career/software-engineer-immutable/8857,"Sydney,
+Australia",Software Engineer,$70k - $150k,dev:ethereum:nft,6mo
+Kraken Digital Asset Exchange,https://web3.career/manager-internal-communications-kraken/8856,United States,"Manager, Internal Communications",,,6mo
+Binance,https://web3.career/data-scientist-nlu-binance/8855,Asia,Data Scientist - NLU,$50k - $150k,data science,6mo
+Kraken Digital Asset Exchange,https://web3.career/executive-assistant-business-operations-kraken/8854,United States,Executive Assistant - Business Operations,$150k - $230k,executive:operations,6mo
+Kraken Digital Asset Exchange,https://web3.career/live-chat-support-specialist-kraken/8853,Remote,Live Chat Support Specialist,$40k - $80k,customer support:remote,6mo
+Binance,https://web3.career/java-developer-binance/8852,"Singapore,
+Singapore",Java Developer,$33k - $140k,dev:java,6mo
+DFINITY,https://web3.career/software-engineer-sdk-dfinity/8841,"Zurich,
+Switzerland","Software Engineer, SDK",$69k - $160k,dev:javascript:rust,6mo
+Blockdaemon,https://web3.career/qa-automation-engineer-blockdaemon/8834,"San Francisco,
+United States",QA Automation Engineer,$50k - $150k,dev:quality assurance,6mo
+CANDY,https://web3.career/associate-market-intelligence-motorsports-candy/8833,"New York,
+United States","Associate, Market Intelligence (Motorsports)",,,6mo
+Liquid,https://web3.career/data-engineer-liquid/8832,"Tokyo,
+Japan",Data Engineer,$70k - $160k,data science:dev,6mo
+SwissBorg,https://web3.career/site-reliability-engineer-sre-remote-swissborg/8831,"Lisbon,
+Portugal",Site Reliability Engineer (SRE) - Remote,$150k - $200k,remote:dev:sys admin:senior,6mo
+Careers at Paxful,https://web3.career/account-manager-paxful/8829,"Lagos,
+Nigeria",Account Manager,,account manager,6mo
+Figure,https://web3.career/director-of-data-analytics-figure/8828,"San Francisco,
+United States",Director of Data Analytics,,stats:executive:data science,6mo
+Ripple,https://web3.career/vp-design-ripple/8827,"San Francisco,
+United States","VP, Design",,design:non tech:executive,6mo
+Stacked,https://web3.career/lead-devops-engineer-remote-us-stacked-invest/8826,Remote,Lead DevOps Engineer (Remote - US),$95k - $180k,remote:devops:dev:lead,6mo
+WOO Network,https://web3.career/jr-investment-analyst-full-time-internship-acceptable-woonetwork/8824,"Taipei,
+Taiwan",Jr. Investment Analyst (Full-time Internship acceptable),,analyst:full time:intern:entry level:finance,6mo
+Sperax,https://web3.career/software-development-engineer-in-test-remote-sperax/8823,"Singapore,
+Singapore",Software Development Engineer in Test (Remote),,quality assurance:remote:dev,6mo
+SwissBorg,https://web3.career/senior-product-manager-remote-swissborg/8822,"Barcelona,
+Spain",Senior Product Manager (Remote),$115k - $175k,remote:product manager:non tech:senior,6mo
+Sperax,https://web3.career/human-resource-manager-sperax/8821,"New York,
+United States",Human Resource Manager,$60k - $150k,hr:non tech,6mo
+Sperax,https://web3.career/software-engineer-remote-sperax/8820,"Singapore,
+Singapore",Software Engineer (Remote),$65k - $180k,remote:dev,6mo
+ConsenSys Inc,https://web3.career/corporate-counsel-consensysinc/8819,"New York,
+United States",Corporate Counsel,,legal:ethereum,6mo
+Bitcoin Depot,https://web3.career/assistant-general-counsel-charlotte-bitcoindepot/8818,"Charlotte,
+United States",Assistant General Counsel - Charlotte,,legal:ethereum,6mo
+Kraken Digital Asset Exchange,https://web3.career/international-senior-tax-accountant-kraken/8817,Remote,International Senior Tax Accountant,,accounting:senior:remote,6mo
+Binance,https://web3.career/content-and-marketing-specialist-binance/8816,Asia,Content and Marketing Specialist,$45k - $130k,marketing:non tech,6mo
+Kraken Digital Asset Exchange,https://web3.career/product-designer-creative-team-kraken/8815,Remote,Product Designer - Creative Team,$50k - $135k,design:non tech:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/ux-researcher-kraken/8813,Remote,UX Researcher,$50k - $135k,design:non tech:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/marketing-operations-coordinator-kraken/8812,United States,Marketing Operations Coordinator,,marketing:non tech:operations,6mo
+Ripple,https://web3.career/product-manager-applied-science-crypto-automation-ripple/8811,"San Francisco,
+United States","Product Manager, Applied Science & Crypto Automation",$60k - $160k,product manager:non tech:crypto,6mo
+Sperax,https://web3.career/smart-contracts-engineer-remote-sperax/8810,"New York,
+United States",Smart Contracts Engineer (Remote),$80k - $200k,remote:dev:smart contract,6mo
+Singapore Innovate Pte. Ltd,https://web3.career/principal-developer-singapore-innovate-pte-ltd/8809,"Singapore,
+Singapore",Principal Developer,$70k - $300k,dev:executive,6mo
+Chorus One,https://web3.career/software-engineer-rust-chorus-one/8808,,Software Engineer (Rust),$90k - $150k,remote:dev:rust:solidity:solana,6mo

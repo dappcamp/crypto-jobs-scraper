@@ -1,36 +1,60 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Sygnum Bank AG,https://web3.career/head-of-sales-and-client-services-sygnum/13588,Head of Sales and Client Services,$40k - $150k,executive:sales:non tech:ethereum,5mo
-TQ TEZOS,https://web3.career/frontend-engineer-tqtezos/13587,Frontend Engineer,$60k - $144k,dev:front end:nft:javascript,5mo
-Crypto.com,https://web3.career/product-data-analyst-crypto-com/13586,Product Data Analyst,$36k - $120k,analyst:data science:nft,5mo
-MagicCo.,https://web3.career/dao-developer-smart-contract-magic-co/13585,DAO Developer - Smart Contract,$60k - $120k,dev:smart contract:nft,5mo
-Cross River Bank,https://web3.career/data-scientist-crypto-research-crossriverbank/13584,"Data Scientist, Crypto Research",,data science:crypto:ruby:scala:java,5mo
-Crypto.com,https://web3.career/mobile-developer-android-sg-global-fintech-startup-crypto-com/13583,"Mobile Developer, Android (SG) - Global Fintech Startup",,android:mobile:dev:finance:java,5mo
-Sygnum Bank AG,https://web3.career/associate-legal-regtech-sygnum/13580,"Associate, Legal & RegTech",$24k - $140k,legal,5mo
-Crypto.com,https://web3.career/employment-counsel-crypto-com/13579,Employment Counsel,,legal:nft,5mo
-Crypto.com,https://web3.career/process-manager-crypto-com/13578,Process Manager,,,5mo
-Sygnum Bank AG,https://web3.career/credit-lending-analyst-sygnum/13577,Credit & Lending Analyst,$45k - $185k,analyst:ethereum,5mo
-Crypto.com,https://web3.career/team-lead-rta-day-or-night-shift-crypto-com/13576,"Team Lead, RTA (Day or Night shift)",$60k - $200k,lead,5mo
-BANXA 🚀,https://web3.career/customer-success-manager-banxa/13575,Customer Success Manager,,sales:non tech:customer support:remote,5mo
-Founders Factory,https://web3.career/founder-ceo-nft-vault-foundersfactory/13573,Founder/CEO - NFT Vault,$79k - $180k,executive:nft:remote,5mo
-Crypto.com,https://web3.career/technical-project-management-associate-crypto-com/13571,"Technical Project Management, Associate",,,5mo
-IOTA Foundation,https://web3.career/site-reliability-engineer-iota/13570,Site Reliability Engineer,$150k - $200k,dev:sys admin:golang:remote,5mo
-BANXA 🚀,https://web3.career/ux-designer-banxa/13568,UX Designer,$50k - $150k,design:non tech,5mo
-Cross River Bank,https://web3.career/crypto-cdd-senior-analyst-crossriverbank/13567,Crypto CDD Senior Analyst,,analyst:senior:crypto,5mo
-Ledger,https://web3.career/backend-engineer-vault-ledger/13564,Backend Engineer - Vault,$60k - $180k,backend:dev,5mo
-Founders Factory,https://web3.career/founder-ceo-nft-vault-foundersfactory/13563,Founder/CEO - NFT Vault,$63k - $180k,executive:nft,5mo
-VolumeFi,https://web3.career/crypto-events-marketing-manager-volumefi/13562,Crypto Events Marketing Manager,$46k - $140k,marketing:non tech:crypto:ethereum,5mo
-Hopin,https://web3.career/lead-full-stack-engineer-node-js-hopin/13561,Lead Full-Stack Engineer (Node.js),$65k - $180k,javascript:dev:full stack:lead:node,5mo
-Shakepay,https://web3.career/talent-sourcer-remote-canada-shakepay/13560,Talent Sourcer (Remote - Canada),,remote:recruiter:non tech,5mo
-Shakepay,https://web3.career/hr-generalist-remote-canada-shakepay/13559,HR Generalist (Remote - Canada),$60k - $120k,remote:hr:non tech,5mo
-Coinme,https://web3.career/data-engineer-remote-optional-coinme/13558,Data Engineer (Remote Optional),,remote:data science:dev:java,5mo
-Republic Realm,https://web3.career/blockchain-engineer-nfts-republicrealm/13557,"Blockchain Engineer, NFTs",$0k,dev:blockchain:nft:solidity:ethereum,5mo
-CryptoGoGos,https://web3.career/blockchain-developer-3424897-blockchain-developer-at-crypto-start-up/13556,Blockchain Developer,$65k - $160k,dev:blockchain:crypto:solidity:ethereum,5mo
-Bittrex,https://web3.career/senior-product-manager-fiat-payments-bittrex/13554,Senior Product Manager - Fiat Payments,$80k - $150k,product manager:non tech:senior:javascript,5mo
-Bittrex,https://web3.career/product-owner-mobile-trading-app-bittrex/13553,Product Owner – Mobile Trading App,,product manager:non tech:mobile:javascript,5mo
-Bittrex,https://web3.career/product-owner-fiat-payments-bittrex/13552,Product Owner - Fiat Payments,,product manager:non tech:javascript,5mo
-CoinFlip,https://web3.career/hr-director-coinflip/13551,HR Director,,executive:hr:non tech,5mo
-Sygnum Bank AG,https://web3.career/junior-relationship-manager-private-banking-100-sygnum/13550,Junior Relationship Manager – Private Banking (100%),$40k - $67k,finance:junior:entry level:marketing:non tech,5mo
-Constellation Network,https://web3.career/protocol-engineer-constellationnetwork/13549,Protocol Engineer,$65k - $180k,dev:remote,5mo
-Constellation Network,https://web3.career/machine-learning-engineer-constellationnetwork/13548,Machine Learning Engineer,$140k - $180k,dev:machine learning:remote,5mo
-Constellation Network,https://web3.career/data-engineer-constellationnetwork/13547,Data Engineer,,data science:dev:remote,5mo
-Figment,https://web3.career/proof-of-stake-revenue-analyst-figment/13546,Proof of Stake Revenue Analyst,$40k - $120k,analyst,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Stardust Cards Corporation,https://web3.career/unity-unreal-plugin-developer-stardust/14349,Remote,Unity & Unreal Plugin Developer,$65k - $180k,dev:remote,5mo
+Stardust Cards Corporation,https://web3.career/qa-manager-stardust/14348,Remote,QA Manager,,quality assurance:remote,5mo
+Gauntlet Networks,https://web3.career/senior-accountant-gauntlet/14347,Remote,Senior Accountant,,accounting:senior:remote,5mo
+Crypto.com,https://web3.career/risk-systems-analyst-night-shifts-crypto-com/14346,"Sofia,
+Bulgaria",Risk Systems Analyst (Night Shifts),$40k - $120k,analyst,5mo
+Binance,https://web3.career/product-manager-crypto-wallet-binance/14345,"Singapore,
+Singapore",Product Manager (Crypto Wallet),$60k - $160k,product manager:non tech:crypto,5mo
+Blockswap,https://web3.career/cryptography-engineer-blockswap/14344,Remote,Cryptography Engineer,$90k - $180k,dev:nft:remote,5mo
+WOO Network,https://web3.career/app-automation-qa-engineer-woonetwork/14343,"Warsaw,
+Poland",App Automation QA Engineer,$30k - $50k,dev:quality assurance:java,5mo
+Nuri,https://web3.career/people-operations-manager-nuri/14342,"Berlin,
+Germany",People Operations Manager,$80k - $110k,operations:remote,5mo
+Gauntlet Networks,https://web3.career/finance-associate-gauntlet/14341,Remote,Finance Associate,$40k - $100k,finance:remote,5mo
+CoinGecko,https://web3.career/internship-software-engineer-web-or-mobile-coin-gecko/14340,"Selangor,
+Malaysia",Internship (Software Engineer - Web or Mobile),$12k - $33k,dev:intern:entry level:mobile:solidity,5mo
+Crypto.com,https://web3.career/blockchain-security-engineeer-backend-rust-sg-crypto-com/14338,"Singapore,
+Singapore",Blockchain Security Engineeer - Backend (Rust) (SG),,backend:rust:security:blockchain:ethereum,5mo
+Nuri,https://web3.career/senior-software-engineer-platform-golang-nuri/14337,"Berlin,
+Germany",Senior Software Engineer - Platform (Golang),$65k - $150k,dev:golang:senior:remote,5mo
+Caiz Holding AG,https://web3.career/network-administrator-3485478-network-administrator/14336,"Frankfurt,
+Germany",Network Administrator,$56k - $160k,remote,5mo
+Crypto.com,https://web3.career/blockchain-security-engineeer-backend-rust-hk-crypto-com/14335,"Hong Kong,
+Hong Kong",Blockchain Security Engineeer - Backend (Rust) (HK),,backend:rust:security:blockchain:ethereum,5mo
+Queueco,https://web3.career/defi-algorithmic-trader-queueco/14334,"London,
+United Kingdom",DeFi Algorithmic Trader,,trader:defi:ethereum,5mo
+Honeywell,https://web3.career/pre-sales-engineer-building-management-systems-honeywell/14333,"Budapest,
+Hungary",Pre-Sales Engineer (Building Management Systems),,dev:sales:non tech:solidity,5mo
+Dapper,https://web3.career/senior-staff-software-engineer-dapper-wallet-ethereum-dapper/14332,Remote,Senior / Staff Software Engineer – Dapper Wallet (Ethereum),,dev:senior:ethereum:javascript:node,5mo
+Crypto.com,https://web3.career/blockchain-security-engineeer-backend-rust-sg-crypto-com/14331,"Singapore,
+Singapore",Blockchain Security Engineeer - Backend (Rust) (SG),,backend:rust:security:blockchain:ethereum,5mo
+WOO Network,https://web3.career/country-manager-latam-woonetwork/14329,Brazil,Country Manager - LATAM,,,5mo
+Finoa GmbH,https://web3.career/backend-engineer-m-f-d-finoa/14328,"Berlin,
+Germany",Backend Engineer (m/f/d),$60k - $180k,backend:dev:remote,5mo
+WOO Network,https://web3.career/country-manager-russia-woonetwork/14327,"Moscow,
+Russia",Country Manager - Russia,,,5mo
+WOO Network,https://web3.career/legal-counsel-woonetwork/14326,"Taipei,
+Taiwan",Legal Counsel,$24k - $140k,legal,5mo
+INBRO AG,https://web3.career/freelancer-3412029-freelancer/14318,Switzerland,Freelancer,,,5mo
+0xA Technologies,https://web3.career/defi-full-stack-engineer-0xa-technologies/14317,United Kingdom,DeFi Full Stack Engineer,$93k - $134k,dev:full stack:defi:react:ethereum,5mo
+Next Big Thing AG,https://web3.career/venture-developer-company-builder-f-m-x-nextbigthing/14316,"Berlin,
+Germany",Venture Developer / Company Builder (f/m/x),$65k - $180k,dev:remote,5mo
+Nuri,https://web3.career/team-lead-engineering-golang-nuri/14315,"Berlin,
+Germany",Team Lead Engineering (Golang),,golang:lead:react:javascript:node,5mo
+Ramp,https://web3.career/product-manager-rampnetwork/14314,"Warsaw,
+Poland",Product Manager,$69k - $160k,product manager:non tech,5mo
+Immutable,https://web3.career/solutions-engineer-immutable/14313,Remote,Solutions Engineer,$60k - $150k,dev:ethereum:remote,5mo
+Sygnum Bank AG,https://web3.career/head-portfolio-management-and-execution-sygnum/14312,Switzerland,Head Portfolio Management and Execution,$120k - $150k,executive:finance:ethereum,5mo
+Next Big Thing AG,https://web3.career/venture-developer-company-builder-f-m-x-nextbigthing/14311,"Berlin,
+Germany",Venture Developer / Company Builder (f/m/x),$65k - $180k,dev:remote,5mo
+Nuromedia GmbH,https://web3.career/intern-m-f-d-3481130-intern-m-f-d/14310,"Cologne,
+Germany",Intern (m/f/d),$24k - $48k,intern:entry level:remote,5mo
+Next Big Thing AG,https://web3.career/entrepreneur-in-residence-f-m-x-accelerating-the-sensor-revolution-nextbigthing/14309,"Berlin,
+Germany",Entrepreneur in Residence (f/m/x) - Accelerating the Sensor Revolution,$56k - $160k,remote,5mo
+Nuri,https://web3.career/senior-ux-designer-nuri/14307,"Berlin,
+Germany",Senior UX Designer,$60k - $120k,design:non tech:senior:remote,5mo
+Spacemesh,https://web3.career/product-manager-blockchain-apps-spacemesh/14306,"New York,
+United States",Product Manager - Blockchain Apps,$70k - $120k,product manager:non tech:blockchain,5mo
+Caiz Holding AG,https://web3.career/compliance-manager-3480371-compliance-manager/14305,"Frankfurt,
+Germany",Compliance Manager,$47k,compliance:remote,5mo

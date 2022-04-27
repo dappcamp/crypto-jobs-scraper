@@ -1,36 +1,45 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-CoinTracker,https://web3.career/product-support-specialist-cointracker/7875,Product Support Specialist,$60k - $80k,customer support:remote,6mo
-Vauld,https://web3.career/market-analysts-vauld/7872,Market Analysts,$40k - $120k,analyst,6mo
-Vauld,https://web3.career/devops-engineer-vauld/7871,Devops Engineer,$70k - $180k,devops:dev,6mo
-Polygon,https://web3.career/project-manager-polygon/7870,Project Manager,$80k - $150k,project manager:non tech:ethereum,6mo
-Binance,https://web3.career/backend-architect-risk-management-binance/7869,Backend Architect - Risk Management,$120k - $250k,architecture:backend,6mo
-Brave,https://web3.career/sr-software-engineer-blockchain-brave/7868,Sr. Software Engineer - Blockchain,$80k - $200k,dev:senior:blockchain:react:solana,6mo
-Bitwise Asset Management,https://web3.career/crypto-research-analyst-governance-specialist-bitwiseinvestments/7867,Crypto Research Analyst: Governance Specialist,,analyst:crypto:remote,6mo
-Ripple,https://web3.career/senior-manager-platform-engineering-ripple/7866,"Senior Manager, Platform Engineering",$78k - $200k,senior,6mo
-Ripple,https://web3.career/platform-engineer-new-grad-ripple/7865,Platform Engineer - New Grad,$33k - $140k,dev:java,6mo
-Ripple,https://web3.career/manager-cloud-ops-ripple/7864,"Manager, Cloud Ops",$109k - $13k,cloud,6mo
-Ripple,https://web3.career/senior-sales-director-new-york-ripple/7863,"Senior Sales Director, New York",$40k - $150k,executive:sales:non tech:senior,6mo
-Ripple,https://web3.career/staff-technical-writer-ripplenet-ripple/7862,"Staff Technical Writer, RippleNet",,analyst:node:java,6mo
-Ripple,https://web3.career/senior-manager-global-hr-systems-operations-ripple/7861,"Senior Manager, Global HR Systems & Operations",,hr:non tech:operations:senior,6mo
-Ripple,https://web3.career/employment-and-litigation-counsel-ripple/7860,Employment and Litigation Counsel,$24k - $140k,legal,6mo
-Ripple,https://web3.career/senior-manager-global-workplace-operations-ripple/7859,"Senior Manager, Global Workplace Operations",,operations:senior,6mo
-Ripple,https://web3.career/joint-venture-program-manager-ripple/7858,Joint Venture Program Manager,$70k - $180k,executive,6mo
-Ripple,https://web3.career/senior-tax-analyst-ripple/7857,Senior Tax Analyst,,analyst:senior:accounting,6mo
-Ripple,https://web3.career/staff-technical-program-manager-infosec-ripple/7856,"Staff Technical Program Manager, InfoSec",$95k - $250k,security:executive,6mo
-Ripple,https://web3.career/sr-software-engineer-devops-ripple/7855,"Sr Software Engineer, DevOps",$30k - $60k,devops:dev:java,6mo
-Ripple,https://web3.career/senior-software-engineer-multiple-positions-san-francisco-ca-united-states-ripple/7854,"Senior Software Engineer (Multiple Positions) (San Francisco, CA, United States)",$80k - $200k,dev:senior:javascript:java,6mo
-Ripple,https://web3.career/customer-success-senior-manager-ripple/7853,Customer Success Senior Manager,,customer support:senior,6mo
-MobileCoin,https://web3.career/head-of-social-partnerships-mobilecoin/7852,Head of Social Partnerships,$40k - $150k,executive:sales:non tech,6mo
-Ripple,https://web3.career/director-of-infrastructure-ripple/7850,Director of Infrastructure,$70k - $180k,executive,6mo
-Ripple,https://web3.career/database-engineer-new-grad-ripple/7849,Database Engineer (New Grad),$33k - $140k,dev:java,6mo
-Ripple,https://web3.career/senior-product-manager-interoperability-ripple/7848,"Senior Product Manager, Interoperability",$80k - $150k,product manager:non tech:senior,6mo
-Ripple,https://web3.career/senior-salesforce-administrator-ripple/7847,Senior Salesforce Administrator,,salesforce:senior,6mo
-Ripple,https://web3.career/revenue-enablement-manager-ripple/7846,Revenue Enablement Manager,,,6mo
-Ripple,https://web3.career/policy-manager-ripple/7845,Policy Manager,,,6mo
-Ripple,https://web3.career/sr-product-manager-ripplenet-user-interfaces-ripple/7844,"Sr. Product Manager, RippleNet User Interfaces",$80k - $150k,product manager:non tech:senior,6mo
-Ripple,https://web3.career/product-manager-payments-platform-ripple/7843,"Product Manager, Payments Platform",$69k - $160k,product manager:non tech,6mo
-Ripple,https://web3.career/director-hr-business-partner-ripple/7842,"Director, HR Business Partner",,executive:hr:non tech,6mo
-Ripple,https://web3.career/compensation-manager-ripple/7841,Compensation Manager,,,6mo
-Ripple,https://web3.career/senior-content-marketing-manager-ripple/7840,Senior Content Marketing Manager,$46k - $109k,marketing:non tech:senior,6mo
-Ripple,https://web3.career/senior-community-program-specialist-ripple/7839,Senior Community Program Specialist,,community manager:non tech:senior,6mo
-Ripple,https://web3.career/senior-corporate-counsel-ripple/7838,Senior Corporate Counsel,,legal:senior,6mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Immutable,https://web3.career/head-of-community-immutable/8476,"Sydney,
+Australia",Head of Community,$45k - $150k,executive:community manager:non tech,6mo
+MobileCoin,https://web3.career/vp-engineering-mobilecoin/8475,,"VP, Engineering",$200k - $400k,executive:react:javascript:java,6mo
+Anchorage Digital,https://web3.career/engineering-manager-anchorage/8474,Portugal,Engineering Manager,$70k - $180k,executive,6mo
+cLabs,https://web3.career/economics-product-intern-spring-summer-2022-clabs/8473,Remote,Economics Product Intern (Spring/Summer 2022),$24k - $48k,intern:entry level:remote,6mo
+Chainalysis,https://web3.career/account-executive-department-of-justice-chainalysis/8472,"Washington,
+United States","Account Executive, Department of Justice",$70k - $180k,executive,6mo
+Stardust Cards Corporation,https://web3.career/devops-engineer-security-focus-stardust/8471,Remote,DevOps engineer (Security Focus),$95k - $250k,devops:dev:security:remote,6mo
+Binance,https://web3.career/product-manager-risk-platform-binance/8470,Asia,Product Manager (Risk Platform),$69k - $160k,product manager:non tech,6mo
+Binance,https://web3.career/hris-specialist-binance/8469,Asia,HRIS Specialist,,,6mo
+ElevenYellow,https://web3.career/senior-front-end-developer-elevenyellow/8468,Remote,Senior Front End Developer,$40k - $60k,dev:front end:senior:react:nextjs,6mo
+Web3 Foundation,https://web3.career/technical-grants-evaluator-web3-foundation/8467,"Zug,
+Switzerland",Technical Grants Evaluator,$60k - $147k,javascript:rust,6mo
+Web3 Foundation,https://web3.career/security-operations-engineer-web3-foundation/8466,"Zug,
+Switzerland",Security Operations Engineer,,dev:operations:security:rust,6mo
+Web3 Foundation,https://web3.career/formal-verification-research-engineer-web3-foundation/8465,"Zug,
+Switzerland",Formal Verification Research Engineer,$69k - $160k,dev:javascript:rust,6mo
+Set Labs,https://web3.career/director-of-product-setlabs/8463,"San Francisco,
+United States",Director of Product,$135k - $170k,executive:product manager:non tech:ethereum,6mo
+Set Labs,https://web3.career/software-engineer-front-end-web3-setlabs/8462,"San Francisco,
+United States",Software Engineer - Front End / Web3,$50k - $144k,dev:front end:react:solidity:ethereum,6mo
+Set Labs,https://web3.career/smart-contract-engineer-setlabs/8461,"San Francisco,
+United States",Smart Contract Engineer,$80k - $180k,dev:smart contract:react:solidity:ethereum,6mo
+Set Labs,https://web3.career/defi-researcher-setlabs/8460,"San Francisco,
+United States",DeFi Researcher,$70k - $160k,defi,6mo
+Dapper,https://web3.career/senior-staff-blockchain-engineer-dapper/8459,Remote,Senior Staff Blockchain Engineer,,dev:senior:blockchain:remote,6mo
+Dapper,https://web3.career/senior-frontend-engineer-nba-top-shot-dapper/8458,Remote,Senior Frontend Engineer (NBA Top Shot),,dev:front end:senior:nextjs:remote,6mo
+Dapper,https://web3.career/senior-frontend-engineer-react-dapper-platform-dapper/8457,Remote,Senior Frontend Engineer React (Dapper Platform),,dev:front end:javascript:react:senior,6mo
+Dapper,https://web3.career/senior-backend-engineer-golang-dapper/8456,Remote,Senior Backend Engineer (Golang),,backend:dev:golang:senior:javascript,6mo
+Dapper,https://web3.career/senior-backend-smart-contract-engineer-cadence-flow-blockchain-dapper/8455,Remote,"Senior Backend → Smart Contract Engineer (Cadence, Flow Blockchain)",,backend:dev:senior:blockchain:smart contract,6mo
+Dapper,https://web3.career/engineering-development-manager-for-blockchain-platform-dapper/8454,Remote,Engineering / Development Manager for Blockchain Platform,,blockchain:remote,6mo
+Coinbase,https://web3.career/technical-program-manager-infra-reliability-coinbase/8453,,"Technical Program Manager, Infra & Reliability",,executive:sys admin,6mo
+Coinbase,https://web3.career/technical-program-manager-data-coinbase/8452,,"Technical Program Manager, Data",$70k - $180k,executive,6mo
+Coinbase,https://web3.career/technical-program-manager-coinbase/8451,,Technical Program Manager,$70k - $180k,executive,6mo
+Coinbase,https://web3.career/technical-program-manager-coinbase/8450,,Technical Program Manager,$70k - $180k,executive,6mo
+Coinbase,https://web3.career/senior-program-manager-strategic-programs-coinbase/8449,,"Senior Program Manager, Strategic Programs",$46k - $110k,executive:senior,6mo
+Coinbase,https://web3.career/senior-product-manager-coinbase/8448,,Senior Product Manager,$80k - $150k,product manager:non tech:senior,6mo
+Coinbase,https://web3.career/senior-product-manager-coinbase/8447,,Senior Product Manager,$80k - $150k,product manager:non tech:senior,6mo
+Coinbase,https://web3.career/senior-product-manager-coinbase/8446,,Senior Product Manager,$80k - $150k,product manager:non tech:senior,6mo
+Coinbase,https://web3.career/senior-product-manager-coinbase/8445,,Senior Product Manager,$80k - $150k,product manager:non tech:senior,6mo
+Coinbase,https://web3.career/senior-product-manager-coinbase/8444,,Senior Product Manager,$80k - $150k,product manager:non tech:senior,6mo
+Coinbase,https://web3.career/program-manager-strategic-programs-coinbase/8443,,"Program Manager, Strategic Programs",$70k - $180k,executive,6mo
+Coinbase,https://web3.career/product-manager-ii-coinbase/8442,,Product Manager II,$69k - $160k,product manager:non tech,6mo
+Coinbase,https://web3.career/product-manager-ii-coinbase/8441,,Product Manager II,$69k - $160k,product manager:non tech,6mo

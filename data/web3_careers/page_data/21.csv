@@ -1,36 +1,50 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-SwissBorg,https://web3.career/senior-product-manager-operations-remote-swissborg/25731,Senior Product Manager - Operations (Remote),,remote:operations:product manager:non tech:senior,9d
-Binance,https://web3.career/head-of-compliance-benelux-binance/25730,Head of Compliance - Benelux,,compliance:executive,9d
-Binance,https://web3.career/project-manager-custody-remote-binance/25729,Project Manager (Custody) - Remote,$56k - $150k,remote:project manager:non tech,9d
-Galaxy Digital Services,https://web3.career/digital-asset-investment-analyst-galaxydigitalservices/25728,Digital Asset Investment Analyst,,analyst:finance,9d
-Aragon Association,https://web3.career/senior-solidity-engineer-lead-aragon/25727,Senior Solidity Engineer/Lead,$140k - $220k,dev:lead:senior:solidity:remote,9d
-Binance,https://web3.career/institutional-product-marketing-executive-custody-remote-binance/25726,Institutional Product Marketing Executive (Custody) - Remote,$45k - $158k,remote:executive:marketing:non tech,9d
-Binance,https://web3.career/channel-operations-specialist-fiat-brazil-binance/25725,Channel Operations Specialist (FIAT) - Brazil,$60k - $200k,operations,9d
-Oasis Pro Markets,https://web3.career/solidity-developer-enterprise-technology-oasis-pro-markets/25724,Solidity Developer – Enterprise Technology,$0k,dev:solidity:ethereum,9d
-Braintrust,https://web3.career/sr-performance-engineer-remote-not-c2c-braintrust/25723,Sr. Performance Engineer - Remote - NOT C2C,,c:c plus plus:remote:dev:senior,9d
-Rarify,https://web3.career/senior-partner-engineer-rarify/25722,Senior Partner Engineer,$65k - $150k,dev:senior:golang,9d
-Genies,https://web3.career/legal-specialist-genies/25721,Legal Specialist,,legal:nft,9d
-Dream Sports,https://web3.career/product-strategy-economist-dreamsports/25720,Product Strategy - Economist,$50k - $158k,,9d
-Binance,https://web3.career/content-writer-binance/25719,Content Writer,$25k - $96k,copywriting:non tech,9d
-Stardust Cards Corporation,https://web3.career/engineering-manager-stardust/25718,Engineering Manager,$79k - $180k,executive:remote:nft,9d
-Mirana,https://web3.career/data-scientist-defi-quant-blockchain-mirana/25717,Data Scientist - Defi/Quant/Blockchain,,data science:blockchain:defi:java,9d
-Mirana,https://web3.career/full-stack-engineer-defi-mirana/25716,Full Stack Engineer (Defi),$93k - $150k,dev:full stack:defi:react:javascript,9d
-Pollen,https://web3.career/programme-manager-defi-pollen/25715,Programme Manager DeFi,$60k - $160k,defi:ethereum,9d
-Mirana,https://web3.career/talent-acquisition-specialist-blockchain-fintech-mirana/25714,"Talent Acquisition Specialist (Blockchain, FinTech)",,finance:recruiter:non tech:blockchain,9d
-Paro.io,https://web3.career/crypto-bookkeeper-remote-projects-paro-io/25713,Crypto Bookkeeper - Remote Projects,$11k - $25k,remote:accounting:crypto,9d
-ZKX,https://web3.career/senior-software-developer-solidity-cairo-zkx/25712,Senior Software Developer - Solidity / Cairo,$80k - $200k,dev:senior:solidity:ethereum:node,9d
-Mirana,https://web3.career/quant-researcher-defi-mirana/25711,Quant Researcher (Defi),,defi:nft:java,9d
-EOS Nation inc,https://web3.career/linux-blockchain-system-administrator-eosnationinc/25710,Linux Blockchain System Administrator,,linux:sys admin:blockchain:solana:ethereum,9d
-Crypto.com,https://web3.career/senior-backend-developer-global-fintech-startup-crypto-com/25709,Senior/ Backend Developer - Global Fintech Startup,$170k - $250k,backend:dev:finance:senior:nft,9d
-Pollen,https://web3.career/pr-and-communications-specialist-defi-pollen/25708,PR and Communications Specialist (DeFi),$60k - $140k,marketing:non tech:defi,9d
-Mirana,https://web3.career/data-engineer-blockchain-smart-contract-defi-mirana/25707,Data Engineer - Blockchain (Smart Contract/Defi),,data science:dev:blockchain:defi:smart contract,9d
-Sismo,https://web3.career/smart-contract-engineer-solidity-circom-remote-europe-sismo/25706,"Smart Contract Engineer - Solidity, Circom (Remote - Europe)",$80k - $200k,remote:dev:smart contract:solidity:ethereum,9d
-Mirana,https://web3.career/backend-engineer-smart-contract-defi-mirana/25705,Backend Engineer (Smart Contract/Defi),$30k - $100k,backend:dev:defi:smart contract:solidity,9d
-Braintrust,https://web3.career/sr-protocol-engineer-braintrust/25704,Sr Protocol Engineer,$48k - $150k,dev:golang,9d
-COMPETE Co,https://web3.career/blockchain-crypto-nft-s-and-web3-consultant-ican-compete-app/25703,"Blockchain, Crypto, NFT's and Web3 Consultant",$30k - $70k,consulting:blockchain:crypto:nft,9d
-Voodoo,https://web3.career/senior-hyper-casual-game-artist-voodoo/25702,Senior Hyper Casual Game Artist,$70k - $150k,game dev:senior,9d
-Binance,https://web3.career/compliance-officer-latam-swipe-binance/25701,Compliance Officer Latam (Swipe),,compliance,9d
-OpenSea,https://web3.career/head-of-international-accounting-operations-opensea/25700,Head of International Accounting Operations,,executive:accounting:operations,9d
-Braintrust,https://web3.career/solution-engineer-scrum-lead-remote-braintrust/25699,Solution Engineer – Scrum Lead [REMOTE],$100k - $200k,remote:dev:lead:scrum,9d
-Braintrust,https://web3.career/sr-frontend-enginee-remote-braintrust/25698,Sr. Frontend Enginee [Remote],$70k - $190k,remote:front end:senior:react:javascript,9d
-Braintrust,https://web3.career/back-end-java-engineer-remote-braintrust/25697,Back End Java Engineer [REMOTE],$60k - $180k,remote:backend:dev:java,9d
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Injective Labs,https://web3.career/hr-generalist-injectivelabs/26352,Remote,HR Generalist,$60k - $120k,hr:non tech:remote,8d
+SwissBorg,https://web3.career/gaming-guild-illustrator-graphic-designer-remote-swissborg/26351,"All locations,",Gaming Guild Illustrator/graphic designer (Remote),$50k - $150k,remote:design:non tech:game dev:illustrator,8d
+SwissBorg,https://web3.career/gaming-guild-business-developer-remote-swissborg/26350,"All locations,",Gaming Guild Business developer (Remote),$70k - $200k,remote:dev:game dev,8d
+SwissBorg,https://web3.career/gaming-guild-happiness-manager-remote-swissborg/26349,"All locations,",Gaming Guild Happiness Manager (Remote),,remote:game dev:customer support,8d
+Qubit9 GmbH,https://web3.career/senior-data-engineer-m-f-d-qubit9/26348,"Hamburg,
+Germany",Senior Data Engineer m/f/d,$130k - $160k,data science:dev:senior,8d
+Uniswap Labs,https://web3.career/financial-controller-uniswaplabs/26345,"New York,
+United States",Financial Controller,,legal:finance,8d
+SwissBorg,https://web3.career/gaming-guild-product-manager-remote-swissborg/26344,"All locations,",Gaming Guild Product manager (Remote),$110k - $160k,remote:game dev:product manager:non tech,8d
+SwissBorg,https://web3.career/gaming-guild-growth-hacker-remote-swissborg/26343,"All locations,",Gaming Guild Growth hacker (Remote),$40k - $65k,remote:game dev:marketing:non tech,8d
+Gate.io,https://web3.career/bd-manager-gamefi-gate-io/26342,ASIA,BD Manager（GameFi）,$55k - $150k,nft,8d
+Chainalysis,https://web3.career/public-sector-training-manager-emea-chainalysis/26341,"London,
+United Kingdom","Public Sector Training Manager, EMEA",,education,8d
+Groma,https://web3.career/leasing-agent-groma/26340,"Boston,
+United States",Leasing Agent,$50k - $150k,,8d
+Voodoo,https://web3.career/lead-influence-marketing-manager-voodoo/26339,"Paris,
+France",Lead Influence Marketing Manager,$50k - $120k,lead:marketing:non tech,8d
+Immutable,https://web3.career/marketing-lead-new-games-immutable/26338,Remote,Marketing Lead (New Games),$50k - $120k,lead:marketing:non tech:remote:ethereum,8d
+Binance,https://web3.career/content-writer-academy-binance/26337,Remote,Content Writer - Academy,$25k - $105k,copywriting:non tech:remote,8d
+Optimism,https://web3.career/partnerships-manager-exchanges-and-wallets-optimism/26336,,"Partnerships Manager, Exchanges and Wallets",$29k - $43k,sales:non tech:ethereum,8d
+SwissBorg,https://web3.career/junior-product-designer-swissborg/26335,"All locations,",Junior product designer,,design:non tech:junior:entry level,8d
+Chainalysis,https://web3.career/senior-data-scientist-chainalysis/26333,"New York,
+United States",Senior Data Scientist,$130k - $160k,data science:senior,8d
+Binance,https://web3.career/pr-director-public-affairs-brazil-binance/26332,"Sao Paulo,
+Brazil",PR Director - Public Affairs (Brazil),$70k - $158k,marketing:non tech:executive,8d
+SwissBorg,https://web3.career/business-developer-remote-swissborg/26331,"All locations,",Business developer (Remote),$70k - $180k,remote:dev,8d
+Binance,https://web3.career/bd-manager-defi-financial-services-bnb-chain-binance/26330,"Mexico City,
+Mexico","BD Manager, DeFi & Financial Services - BNB Chain",$60k - $175k,finance:defi,8d
+SwissBorg,https://web3.career/xborg-illustrator-graphic-designer-swissborg/26329,"All locations,",XBorg illustrator/graphic designer,$65k - $80k,design:non tech:illustrator:nft,8d
+Rarible,https://web3.career/head-of-events-rarible/26328,Remote,Head of Events,$79k - $180k,executive:remote:nft,8d
+Binance,https://web3.career/hr-operations-intern-binance/26327,"Taipei,
+Taiwan",HR Operations Intern,,hr:non tech:intern:entry level:operations,8d
+Immutable,https://web3.career/product-marketing-lead-guild-of-guardians-immutable/26326,Australia,Product Marketing Lead (Guild of Guardians),$50k - $120k,lead:marketing:non tech:ethereum,8d
+Crystal Blockchain Analytics,https://web3.career/directory-researcher-remote-crystal/26325,"Dubai,
+United Arab Emirates",Directory Researcher (Remote),$56k - $160k,remote,8d
+Wintermute,https://web3.career/trading-devops-engineer-wintermute-trading/26324,"Singapore,
+Singapore",Trading DevOps Engineer,$60k - $180k,devops:dev,8d
+Polygon,https://web3.career/email-marketer-remote-polygon/26323,Any,Email Marketer (REMOTE),$25k - $120k,remote:marketing:non tech:ethereum,8d
+Polygon,https://web3.career/developer-advocate-europe-remote-polygon/26322,Europe,"Developer Advocate, Europe (REMOTE)",$65k - $150k,remote:dev:ethereum,8d
+Polygon,https://web3.career/associate-institutional-marketing-polygon/26321,Any,"Associate, Institutional Marketing",$25k - $120k,marketing:non tech:remote:ethereum,8d
+Cake DeFi,https://web3.career/head-of-brand-communications-cake-defi-1/26320,"Singapore,
+Singapore",Head of Brand & Communications,$70k - $158k,executive:marketing:non tech,8d
+Binance,https://web3.career/government-affairs-associate-director-israel-binance/26319,"Tel Aviv,
+Israel","Government Affairs Associate / Director, Israel",$70k - $180k,executive,8d
+Origins Analytics,https://web3.career/senior-software-engineer-origins-analytics/26318,Remote,Senior Software Engineer,,dev:senior:remote:full time:python,8d
+Voodoo,https://web3.career/lead-influence-marketing-manager-voodoo/26316,"Amsterdam,
+Netherlands",Lead Influence Marketing Manager,$50k - $120k,lead:marketing:non tech,8d
+Binance,https://web3.career/institutional-sales-manager-mena-binance/26315,Middle East & North Africa,"Institutional Sales Manager, MENA",$26k - $140k,sales:non tech,8d
+Polygon,https://web3.career/svp-people-polygon/26314,United States,"SVP, People",$60k - $150k,ethereum,8d

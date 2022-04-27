@@ -1,36 +1,57 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-ChainSafe Systems,https://web3.career/senior-accountant-chainsafesystems/10925,Senior Accountant,$80k - $110k,accounting:senior,5mo
-Zilliqa,https://web3.career/treasurer-zilliqa/10924,Treasurer,,,5mo
-Binance,https://web3.career/android-engineering-lead-manager-binance/10922,Android Engineering Lead/Manager,,android:mobile:lead,5mo
-Kraken Digital Asset Exchange,https://web3.career/marketing-specialist-employer-brand-team-kraken/10921,Marketing Specialist - Employer Brand Team,$25k - $120k,marketing:non tech:remote,5mo
-Binance,https://web3.career/business-development-manager-eu-fiat-binance/10920,Business Development Manager - EU Fiat,$26k - $140k,sales:non tech,5mo
-Zilliqa,https://web3.career/legal-counsel-zilliqa/10919,Legal Counsel,$24k - $140k,legal,5mo
-Kraken Digital Asset Exchange,https://web3.career/product-marketing-manager-crypto-platform-kraken/10918,"Product Marketing Manager, Crypto Platform",$46k - $140k,marketing:non tech:crypto:remote,5mo
-BlockFi,https://web3.career/senior-data-warehouse-engineer-blockfi/10917,Senior Data Warehouse Engineer,$80k - $200k,dev:senior,5mo
-Shakepay,https://web3.career/card-operations-manager-remote-canada-shakepay/10916,Card Operations Manager (Remote - Canada),$80k - $110k,remote:operations,5mo
-NEAR,https://web3.career/full-stack-engineer-explorer-near/10915,"Full-Stack Engineer, Explorer",$80k - $130k,dev:full stack:web3js:react:ethereum,5mo
-Figment,https://web3.career/intermediate-accountant-figment/10914,Intermediate Accountant,$25k - $150k,accounting,5mo
-Eco,https://web3.career/partnerships-lead-econetwork/10913,Partnerships Lead,,sales:non tech:lead,5mo
-Brave,https://web3.career/software-engineer-ruby-on-rails-brave/10911,Software Engineer (Ruby on Rails),$18k - $52k,dev:ruby:javascript,5mo
-Amun 21Shares,https://web3.career/web-engineering-manager-amun/10910,Web Engineering Manager,$85k - $400k,executive:react:solidity:solana:ethereum,5mo
-Amun 21Shares,https://web3.career/engineering-security-manager-amun/10909,Engineering Security Manager,,security:react:solidity:solana:ethereum,5mo
-Immutable,https://web3.career/project-manager-esports-immutable/10908,Project Manager ESports,$100k - $120k,esports:project manager:non tech:remote,5mo
-NEAR,https://web3.career/full-stack-engineer-developer-console-near/10907,"Full-Stack Engineer, Developer Console",$80k - $130k,dev:full stack:web3js:react:ethereum,5mo
-CoinList,https://web3.career/lead-front-end-engineer-coinlist/10906,Lead Front-end Engineer,$56k - $79k,dev:front end:lead:react:solana,5mo
-Polygon,https://web3.career/legal-counsel-polygon/10905,Legal Counsel,,legal:ethereum,5mo
-NEAR,https://web3.career/technical-leader-explorer-near/10904,"Technical Leader, Explorer",$100k - $220k,lead:tech lead:react:javascript:nextjs,5mo
-Figment,https://web3.career/content-creator-and-marketing-specialist-figment/10903,Content Creator and Marketing Specialist,$45k - $130k,marketing:non tech,5mo
-Figment,https://web3.career/communications-social-media-manager-figment/10902,Communications & Social Media Manager,$33k - $85k,social media:non tech,5mo
-Newton,https://web3.career/blockchain-engineer-newton/10901,Blockchain Engineer,$43k - $160k,dev:blockchain:golang:rust,5mo
-Newton,https://web3.career/blockchain-engineer-newton/10900,Blockchain Engineer,$43k - $160k,dev:blockchain:golang:rust,5mo
-Newton,https://web3.career/blockchain-engineer-newton/10899,Blockchain Engineer,$43k - $160k,dev:blockchain:golang:rust,5mo
-Parity Technologies,https://web3.career/director-ecosystem-growth-parity/10898,"Director, Ecosystem Growth",$70k - $158k,executive:marketing:non tech:remote,5mo
-NEAR,https://web3.career/engineering-manager-technical-leader-data-platform-near/10897,"Engineering Manager/Technical Leader, Data Platform",,executive:lead:tech lead:web3js:ethereum,5mo
-"XMTP, Inc.",https://web3.career/senior-partnerships-manager-xmtp/10895,Senior Partnerships Manager,$50k - $150k,sales:non tech:senior,5mo
-"XMTP, Inc.",https://web3.career/software-engineer-protocol-xmtp/10894,"Software Engineer, Protocol",$80k - $200k,dev:solidity:rust,5mo
-"XMTP, Inc.",https://web3.career/software-engineer-full-stack-xmtp/10893,"Software Engineer, Full Stack",$65k - $180k,dev:full stack,5mo
-"XMTP, Inc.",https://web3.career/senior-ux-researcher-xmtp/10892,Senior UX Researcher,$60k - $120k,senior:design:non tech:remote,5mo
-Worldcoin.org,https://web3.career/head-of-communications-worldcoinorg/10891,Head of Communications,$79k - $200k,executive:remote,5mo
-Worldcoin.org,https://web3.career/rust-engineer-worldcoinorg/10890,Rust Engineer,$75k - $190k,dev:rust,5mo
-Worldcoin.org,https://web3.career/staff-accountant-worldcoinorg/10889,Staff Accountant,$11k - $25k,accounting:remote,5mo
-Worldcoin.org,https://web3.career/head-of-finance-worldcoinorg/10888,Head of Finance,$90k - $200k,executive:finance,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Web3 Labs,https://web3.career/java-blockchain-engineers-uk-and-remote-friendly-web3labs/12020,United Kingdom,Java Blockchain Engineers - UK and remote-friendly,$26k - $53k,remote:java:blockchain:solidity:ethereum,5mo
+Moralis Web3 Technology,https://web3.career/digital-marketer-moralis-web3-technology/12019,"Stockholm,
+Sweden",Digital Marketer,$0k,marketing:non tech:javascript,5mo
+Pollen,https://web3.career/ethereum-web3-developer-pollen-12/12018,"London,
+United Kingdom",Ethereum Web3 Developer,$70k - $110k,dev:solidity,5mo
+Paperchain,https://web3.career/finance-lead-defi-web3-paperchain/12017,"New York,
+United States","Finance Lead, DeFi/web3",$80k - $150k,finance:lead:defi,5mo
+The Arcadia Group,https://web3.career/web3-developer-the-arcadia-media-group/12016,"Dallas,
+United States",Web3 Developer,$60k - $96k,dev:solidity:ethereum,5mo
+Brahma Finance,https://web3.career/web3-frontend-engineer-brahma-finance/12015,India,Web3 Frontend Engineer,$13k - $19k,dev:front end:web3js:react:ethereum,5mo
+Fractional.art,https://web3.career/qa-engineer-web3-fractional-art/12014,"New York,
+United States",QA Engineer (Web3),$65k - $110k,dev:quality assurance:solidity:ethereum:nft,5mo
+Web3 Labs,https://web3.career/java-golang-software-engineer-web3labs/12013,United Kingdom,Java / Golang Software Engineer,$30k - $55k,dev:golang:java:solidity:ethereum,5mo
+Web3 Labs,https://web3.career/web3j-developer-web3labs/12012,United Kingdom,Web3j Developer,$36k - $54k,dev:solidity:ethereum:java,5mo
+Mycelium,https://web3.career/senior-frontend-web3-developer-myc-xyz/12011,"Melbourne,
+Australia",Senior Frontend Web3 Developer,$70k - $190k,dev:front end:senior:react:javascript,5mo
+INFLOW Music,https://web3.career/front-end-full-stack-web3-engineer-inflow-music/12010,"Los Angeles,
+United States",Front end/ full stack web3 engineer,$60k - $100k,dev:front end:full stack:react,5mo
+MetaMask,https://web3.career/senior-web3-javascript-engineer-metamask-snaps-metamask/12009,"San Francisco,
+United States",Senior Web3 JavaScript Engineer (MetaMask Snaps),$80k - $150k,dev:javascript:senior:ethereum,5mo
+DinoSwap,https://web3.career/senior-web3-react-frontend-developer-dinoswap/12008,British Virgin Islands,Senior Web3/React Frontend Developer,$120k - $125k,dev:front end:javascript:react:senior,5mo
+Saddle,https://web3.career/senior-ethereum-solidity-web3-engineer-saddle/12007,"San Francisco,
+United States",Senior Ethereum / Solidity / Web3 Engineer,$0k,dev:senior:solidity:nft,5mo
+Curve Labs,https://web3.career/web3-solutions-architect-ethereum-curve-labs/12006,"Berlin,
+Germany",Web3 Solutions Architect (Ethereum),$67k - $112k,architecture:solidity:ethereum:remote,5mo
+Web3 Labs,https://web3.career/java-blockchain-software-engineer-web3labs/12005,United Kingdom,Java / Blockchain Software Engineer,$26k - $53k,dev:java:blockchain:solidity:ethereum,5mo
+Blockzero Labs,https://web3.career/full-stack-web3-developer-blockzero-labs/12004,"Austin,
+United States",Full Stack Web3 Developer,$0k,dev:full stack:solidity:ethereum:javascript,5mo
+Stateless Ventures,https://web3.career/crypto-analyst-defi-web3-metaverse-nfts-social-tokens-daos-stateless-ventures/12003,United States,"Crypto Analyst (DeFi, Web3, Metaverse, NFTs, Social Tokens, DAOs)",$50k - $120k,analyst:metaverse:crypto:defi:nft,5mo
+Filebase,https://web3.career/developer-growth-advocate-object-storage-web3-filebase/12002,"Boston,
+United States",Developer Growth Advocate (Object Storage / Web3),$85k - $120k,dev:marketing:non tech,5mo
+Endaoment,https://web3.career/full-stack-blockchain-web3-engineer-endaoment-3/12001,"San Francisco,
+United States",Full-Stack Blockchain/Web3 Engineer,$180k - $200k,dev:full stack:blockchain:react:solidity,5mo
+zenexture,https://web3.career/node-js-web3-developer-zenexture/12000,India,"Node js, web3 developer",$117k - $10k,javascript:dev:node:web3js,5mo
+Balancer Labs,https://web3.career/web3-javascript-typescript-engineer-balancer-labs-1/11999,Remote,Web3 (JavaScript / TypeScript) Engineer,$120k - $180k,dev:javascript:solidity:vue:remote,5mo
+Curve Labs,https://web3.career/back-end-developer-web3-ethereum-blockchain-curve-labs/11998,"Berlin,
+Germany","Back-end Developer (Web3, Ethereum, Blockchain)",$60k - $120k,backend:dev:blockchain:web3js:react,5mo
+Curve Labs,https://web3.career/front-end-developer-web3-blockchain-ethereum-curve-labs/11997,"Berlin,
+Germany","Front End Developer (Web3, Blockchain, Ethereum)",$50k - $100k,dev:front end:blockchain:web3js:react,5mo
+Avenir,https://web3.career/full-stack-technical-lead-avenir-4/11996,"Austin,
+United States",Full Stack Technical Lead,$60k - $80k,full stack:lead:tech lead:react:react native,5mo
+Pythian,https://web3.career/oracle-database-consultant-europe-remote-pythian/11930,Remote,Oracle Database Consultant (Europe| Remote),,remote:consulting,5mo
+Binance,https://web3.career/ios-developer-fresh-junior-binance/11926,"Singapore,
+Singapore",iOS Developer - Fresh/Junior,$51k - $109k,dev:ios:mobile:junior:entry level,5mo
+Ledger,https://web3.career/firmware-applications-engineer-ledger/11918,"Grenoble,
+France",Firmware Applications Engineer,$60k - $180k,dev,5mo
+Galaxy Digital Services,https://web3.career/vp-client-onboarding-manager-galaxydigitalservices/11917,,"VP, Client Onboarding Manager",$70k - $180k,executive,5mo
+Binance,https://web3.career/senior-secops-engineer-gcp-binance/11916,Asia,Senior SecOps Engineer (GCP),$80k - $200k,dev:senior,5mo
+Binance,https://web3.career/senior-front-end-web-developer-c2c-binance/11915,"Dubai,
+United Arab Emirates",Senior Front-End Web Developer (C2C),$100k - $150k,c:c plus plus:dev:front end:senior,5mo
+Binance,https://web3.career/fiat-head-of-finance-binance/11913,Europe,Fiat Head of Finance,$90k - $200k,executive:finance,5mo
+Ledger,https://web3.career/legal-intern-business-law-ledger/11911,"Paris,
+France",Legal Intern - Business law,,intern:entry level:legal,5mo
+Chainlink Labs,https://web3.career/operations-manager-chainlink/11910,Remote,Operations Manager,$80k - $110k,operations:remote,5mo
+SuperRare Labs,https://web3.career/recruiting-coordinator-superrarelabs/11909,"New York,
+United States",Recruiting Coordinator,,recruiter:non tech:ethereum:nft,5mo

@@ -1,36 +1,71 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Stacked,https://web3.career/senior-software-engineer-frontend-remote-us-stacked-invest/9791,Senior Software Engineer - Frontend (Remote US),$22k - $120k,remote:dev:front end:senior,5mo
-Stacked,https://web3.career/senior-software-engineer-backend-remote-us-stacked-invest/9790,Senior Software Engineer - Backend (Remote - US),$60k - $180k,remote:backend:dev:senior,5mo
-Stacked,https://web3.career/midlevel-software-engineer-frontend-remote-us-stacked-invest/9789,Midlevel Software Engineer - Frontend (Remote US),$22k - $120k,remote:dev:front end,5mo
-Stacked,https://web3.career/midlevel-software-engineer-backend-remote-us-stacked-invest/9788,Midlevel Software Engineer - Backend (Remote - US),$60k - $180k,remote:backend:dev,5mo
-Stacked,https://web3.career/lead-react-native-engineer-remote-us-stacked-invest/9787,Lead React Native Engineer (Remote US),$100k - $200k,remote:dev:lead:react native:mobile,5mo
-Stacked,https://web3.career/front-end-tech-lead-remote-us-stacked-invest/9786,Front End Tech Lead (Remote US),$56k - $79k,remote:front end:lead:tech lead,5mo
-Spring Labs,https://web3.career/field-sales-executive-financial-services-springlabs/9785,Field Sales Executive (Financial Services),$40k - $140k,executive:finance:sales:non tech,5mo
-Spring Labs,https://web3.career/sr-machine-learning-engineer-springlabs/9784,Sr. Machine Learning Engineer,,dev:machine learning:senior,5mo
-Spring Labs,https://web3.career/sr-data-scientist-springlabs/9783,Sr. Data Scientist,$130k - $160k,data science:senior,5mo
-Spring Labs,https://web3.career/product-manager-defi-springlabs/9782,Product Manager (DeFi),$130k - $175k,product manager:non tech:defi:ethereum,5mo
-Spring Labs,https://web3.career/sr-software-engineer-full-stack-springlabs/9781,Sr. Software Engineer-Full Stack,$70k - $180k,dev:full stack:senior,5mo
-Spring Labs,https://web3.career/smart-contract-engineer-springlabs/9780,Smart Contract Engineer,$70k - $200k,dev:smart contract,5mo
-Spring Labs,https://web3.career/lead-software-engineer-springlabs/9779,Lead Software Engineer,$100k - $200k,dev:lead,5mo
-Spring Labs,https://web3.career/lead-devops-engineer-springlabs/9778,Lead DevOps Engineer,$60k - $100k,devops:dev:lead,5mo
-Shakepay,https://web3.career/risk-fraud-analyst-remote-canada-shakepay/9777,Risk & Fraud Analyst (Remote - Canada),,remote:analyst:security,5mo
-Shakepay,https://web3.career/client-onboarding-rep-kyc-remote-canada-shakepay/9776,Client Onboarding Rep - KYC (Remote - Canada),,kyc:remote,5mo
-Shakepay,https://web3.career/recruiter-remote-canada-shakepay/9775,Recruiter (Remote - Canada),,remote:recruiter:non tech,5mo
-Shakepay,https://web3.career/growth-lead-remote-canada-shakepay/9774,Growth Lead (Remote - Canada),$25k - $120k,remote:marketing:non tech:lead,5mo
-Shakepay,https://web3.career/accounting-manager-remote-canada-shakepay/9773,Accounting Manager (Remote - Canada),$11k - $25k,remote:accounting,5mo
-Shakepay,https://web3.career/junior-developer-remote-canada-shakepay/9772,Junior Developer (Remote - Canada),$39k - $56k,remote:dev:junior:entry level,5mo
-Shakepay,https://web3.career/full-stack-developer-remote-canada-shakepay/9771,Full-stack Developer (Remote - Canada),$70k - $200k,remote:dev:full stack,5mo
-Shakepay,https://web3.career/frontend-developer-remote-canada-shakepay/9770,Frontend Developer (Remote - Canada),$22k - $120k,remote:dev:front end,5mo
-Shakepay,https://web3.career/engineering-manager-remote-canada-shakepay/9769,Engineering Manager (Remote - Canada),$79k - $200k,executive:remote,5mo
-Shakepay,https://web3.career/devops-remote-canada-shakepay/9768,DevOps (Remote - Canada),$95k - $180k,remote:devops,5mo
-Shakepay,https://web3.career/design-lead-remote-canada-shakepay/9767,Design Lead (Remote - Canada),$50k - $135k,remote:design:non tech:lead,5mo
-Shakepay,https://web3.career/creative-director-remote-canada-shakepay/9766,Creative Director (Remote - Canada),$79k - $200k,remote:executive,5mo
-Shakepay,https://web3.career/representant-e-service-a-la-clientele-bilingue-fr-an-a-distance-canada-shakepay/9765,Représentant(e) Service à la clientèle bilingue FR/AN (À distance - Canada),,,5mo
-Shakepay,https://web3.career/gestionnaire-service-a-la-clientele-bilingue-fr-an-a-distance-canada-shakepay/9764,Gestionnaire service à la clientèle bilingue FR/AN (À distance - Canada),,,5mo
-Shakepay,https://web3.career/customer-support-manager-remote-canada-shakepay/9763,Customer Support Manager (Remote - Canada),$40k - $80k,remote:customer support,5mo
-Shakepay,https://web3.career/customer-support-remote-canada-shakepay/9762,Customer Support (Remote - Canada),$40k - $80k,remote:customer support,5mo
-Shakepay,https://web3.career/customer-support-evenings-remote-canada-shakepay/9761,Customer Support - Evenings (Remote - Canada),$40k - $80k,remote:customer support,5mo
-Shakepay,https://web3.career/copywriter-remote-canada-shakepay/9760,Copywriter (Remote - Canada),$25k - $30k,remote:copywriting,5mo
-River Financial,https://web3.career/mining-analyst-riverfinancial/9759,Mining Analyst,$40k - $120k,analyst,5mo
-River Financial,https://web3.career/senior-accountant-riverfinancial/9758,Senior Accountant,$80k - $110k,accounting:senior,5mo
-River Financial,https://web3.career/senior-accountant-riverfinancial/9757,Senior Accountant,$80k - $110k,accounting:senior,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Chainalysis,https://web3.career/sales-development-representative-chainalysis/10292,"London,
+United Kingdom",Sales Development Representative,$26k - $140k,sales:non tech,6mo
+Chainalysis,https://web3.career/regional-sales-director-chainalysis/10291,"London,
+United Kingdom",Regional Sales Director,$40k - $150k,executive:sales:non tech,6mo
+Chainalysis,https://web3.career/regional-channel-manager-apac-chainalysis/10290,"Singapore,
+Singapore","Regional Channel Manager, APAC",,,6mo
+Chainalysis,https://web3.career/inside-sales-representative-chainalysis/10289,"Tokyo,
+Japan",Inside Sales Representative,$26k - $140k,sales:non tech,6mo
+Chainalysis,https://web3.career/enterprise-account-executive-cryptocurrency-businesses-apac-chainalysis/10288,"Singapore,
+Singapore","Enterprise Account Executive, Cryptocurrency Businesses, APAC",$50k - $158k,executive:crypto,6mo
+Chainalysis,https://web3.career/director-revenue-enablement-chainalysis/10287,"New York,
+United States","Director, Revenue Enablement",$70k - $180k,executive,6mo
+Chainalysis,https://web3.career/business-development-representative-emea-chainalysis/10286,"London,
+United Kingdom","Business Development Representative, EMEA",$26k - $140k,sales:non tech,6mo
+Chainalysis,https://web3.career/business-development-representative-chainalysis/10285,"London,
+United Kingdom",Business Development Representative,$26k - $140k,sales:non tech,6mo
+Chainalysis,https://web3.career/business-development-representative-chainalysis/10284,"New York,
+United States",Business Development Representative,$26k - $140k,sales:non tech,6mo
+Chainalysis,https://web3.career/associate-account-executive-apac-chainalysis/10283,"Singapore,
+Singapore","Associate Account Executive, APAC",$70k - $180k,executive,6mo
+Chainalysis,https://web3.career/alliance-director-chainalysis/10282,"New York,
+United States",Alliance Director,$70k - $180k,executive,6mo
+Chainalysis,https://web3.career/account-executive-uk-public-sector-chainalysis/10281,"London,
+United Kingdom","Account Executive, UK Public Sector",$70k - $180k,executive,6mo
+Chainalysis,https://web3.career/account-executive-state-local-west-coast-chainalysis/10280,"Washington,
+United States","Account Executive, State & Local - West Coast",$70k - $180k,executive,6mo
+Chainalysis,https://web3.career/account-executive-national-security-chainalysis/10279,"Washington,
+United States","Account Executive, National Security",$95k - $250k,executive:security,6mo
+Chainalysis,https://web3.career/account-executive-israel-law-enforcement-central-government-chainalysis/10278,"Tel Aviv,
+Israel","Account Executive, Israel (Law Enforcement / Central Government)",$70k - $180k,executive,6mo
+Chainalysis,https://web3.career/account-executive-federal-law-enforcement-chainalysis/10277,"Washington,
+United States","Account Executive, Federal Law Enforcement",$70k - $180k,executive,6mo
+Chainalysis,https://web3.career/account-executive-commercial-dach-chainalysis/10276,"Munich,
+Germany","Account Executive, Commercial (DACH)",$79k - $200k,executive:remote,6mo
+Chainalysis,https://web3.career/account-executive-army-chainalysis/10275,"Washington,
+United States","Account Executive, Army",$70k - $180k,executive,6mo
+Chainalysis,https://web3.career/senior-product-manager-data-chainalysis/10274,"New York,
+United States","Senior Product Manager, Data",$80k - $150k,product manager:non tech:senior,6mo
+Chainalysis,https://web3.career/senior-product-designer-chainalysis/10273,"New York,
+United States",Senior Product Designer,$60k - $120k,design:non tech:senior,6mo
+Chainalysis,https://web3.career/research-analyst-cyber-threats-chainalysis/10272,"Washington,
+United States","Research Analyst, Cyber Threats",$40k - $120k,analyst,6mo
+Chainalysis,https://web3.career/product-manager-investigations-chainalysis/10271,"New York,
+United States","Product Manager, Investigations",$69k - $160k,product manager:non tech,6mo
+Chainalysis,https://web3.career/lead-ux-researcher-chainalysis/10270,"New York,
+United States",Lead UX Researcher,$40k - $190k,lead:design:non tech,6mo
+Chainalysis,https://web3.career/director-of-product-management-chainalysis/10269,"New York,
+United States",Director of Product Management,$135k - $170k,executive:product manager:non tech,6mo
+Chainalysis,https://web3.career/senior-commercial-counsel-chainalysis/10268,"New York,
+United States",Senior Commercial Counsel,,legal:senior,6mo
+Chainalysis,https://web3.career/senior-brand-designer-chainalysis/10267,"New York,
+United States",Senior Brand Designer,,marketing:non tech:design:senior,6mo
+Chainalysis,https://web3.career/internal-communications-global-employer-branding-lead-chainalysis/10266,"New York,
+United States",Internal Communications & Global Employer Branding Lead,$60k - $200k,lead,6mo
+Chainalysis,https://web3.career/global-product-marketing-lead-chainalysis/10265,"New York,
+United States",Global Product Marketing Lead,$50k - $120k,lead:marketing:non tech,6mo
+Chainalysis,https://web3.career/field-marketing-manager-japan-chainalysis/10264,"Tokyo,
+Japan","Field Marketing Manager, Japan",$45k - $130k,marketing:non tech,6mo
+Chainalysis,https://web3.career/director-technical-marketing-chainalysis/10263,"New York,
+United States","Director, Technical Marketing",$70k - $158k,executive:marketing:non tech:javascript:java,6mo
+Chainalysis,https://web3.career/associate-staff-engineer-detection-response-chainalysis/10262,"New York,
+United States","Associate Staff Engineer, Detection & Response",$60k - $180k,dev,6mo
+Chainalysis,https://web3.career/senior-cybercrimes-investigator-chainalysis/10261,"Washington,
+United States",Senior Cybercrimes Investigator,$78k - $200k,senior,6mo
+Chainalysis,https://web3.career/doj-operations-manager-chainalysis/10260,"Washington,
+United States",DOJ Operations Manager,$60k - $200k,operations,6mo
+Chainalysis,https://web3.career/associate-investigator-chainalysis/10259,"Singapore,
+Singapore",Associate Investigator,,,6mo
+Chainalysis,https://web3.career/staff-engineer-backend-chainalysis/10258,"New York,
+United States","Staff Engineer, Backend",$60k - $160k,backend:dev:java,6mo

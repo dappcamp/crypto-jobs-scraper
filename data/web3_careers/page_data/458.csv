@@ -1,36 +1,42 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Celsius,https://web3.career/legal-project-manager-celsius/1026,Legal Project Manager,,legal:project manager:non tech,6mo
-Uphold,https://web3.career/senior-backend-engineer-connectivity-team-uphold/1025,Senior Backend Engineer - Connectivity Team,$70k - $200k,backend:dev:senior:react:ruby,6mo
-Celsius,https://web3.career/sr-node-js-developer-celsius/1024,Sr. Node.JS Developer,$60k - $155k,javascript:dev:node:senior,6mo
-Monax,https://web3.career/vp-of-engineering-monax/1023,VP of Engineering,$85k - $400k,executive:react:solidity,6mo
-Keeper Solutions,https://web3.career/java-developer-keepertechnologysolutions/1022,Java Developer,$11k - $130k,dev:java:javascript:remote,6mo
-Kryha,https://web3.career/full-stack-developer-mid-level-blockchain-amsterdam-kryhaio/1021,Full Stack Developer (Mid-Level) - Blockchain - Amsterdam,$50k - $180k,dev:full stack:blockchain:react:javascript,6mo
-Uphold,https://web3.career/staff-accountant-uphold/1020,Staff Accountant,$25k - $150k,accounting,6mo
-Bitkub,https://web3.career/business-analyst-bitkub/1019,Business Analyst,$40k - $120k,analyst,6mo
-Celsius,https://web3.career/community-manager-celsius/1018,Community Manager,$40k - $100k,community manager:non tech,6mo
-IOTA Foundation,https://web3.career/senior-software-engineer-go-iota/1017,Senior Software Engineer - Go,$65k - $150k,dev:golang:senior:ethereum:node,6mo
-zipmex,https://web3.career/software-quality-engineer-zipmex/1016,Software Quality Engineer,$60k - $180k,dev,6mo
-Celsius,https://web3.career/junior-transaction-monitoring-analyst-aml-celsius/1015,"Junior Transaction Monitoring Analyst, AML",$10k - $13k,analyst:junior:entry level,6mo
-Uphold,https://web3.career/social-media-manager-uphold/1014,Social Media Manager,$33k - $85k,social media:non tech,6mo
-Celsius,https://web3.career/lending-data-analyst-celsius/1013,Lending Data Analyst,$36k - $72k,analyst:data science,6mo
-Uphold,https://web3.career/senior-trading-systems-engineer-uphold/1012,Senior Trading Systems Engineer,$150k - $200k,dev:senior:sys admin,6mo
-Incredulous Labs Ltd.,https://web3.career/solidity-developer-incredulous/1011,Solidity Developer,$63k - $160k,dev:solidity:ethereum:remote,6mo
-IOTA Foundation,https://web3.career/app-developer-firefly-iota/1010,App Developer - Firefly,$56k - $160k,dev:react:javascript:rust:remote,6mo
-Bitso,https://web3.career/it-security-admin-bitso/1009,IT & SECURITY ADMIN,$95k - $200k,security,6mo
-Uphold,https://web3.career/case-analyst-uphold/1008,Case Analyst,$40k - $120k,analyst,6mo
-Bitkub,https://web3.career/head-of-customer-protection-bitkub/1007,Head of Customer Protection,$70k - $180k,executive,6mo
-TheAppLabb,https://web3.career/sr-product-designer-theapplabb/1006,Sr. Product Designer,$60k - $120k,design:non tech:senior,6mo
-Lukka,https://web3.career/public-sector-sales-executive-lukka/1005,Public Sector Sales Executive,$40k - $150k,executive:sales:non tech:remote,6mo
-Lukka,https://web3.career/senior-frontend-engineer-lukka/1004,Senior Frontend Engineer,$70k - $190k,dev:front end:senior:react:remote,6mo
-Supply Chain Wizard,https://web3.career/business-development-specialist-supplychainwizard/1003,Business Development Specialist,$26k - $140k,sales:non tech,6mo
-Supply Chain Wizard,https://web3.career/supply-chain-project-manager-supplychainwizard/1002,Supply Chain Project Manager,,operations:project manager:non tech,6mo
-Ethereum,https://web3.career/team-lead-ecosystem-support-program-ethereum/1001,"Team Lead, Ecosystem Support Program",,lead:customer support:ethereum:remote,6mo
-Celsius,https://web3.career/full-stack-engineer-celsius/1000,Full-Stack Engineer,$65k - $180k,dev:full stack:react:react native:javascript,6mo
-Chilipay Limited,https://web3.career/backend-software-engineer-remote-madrid-lyon-malta-chiliz/999,Backend Software Engineer (Remote / Madrid / Lyon / Malta),$60k - $180k,remote:backend:dev:php,6mo
-Celsius,https://web3.career/crypto-derivative-trader-celsius/998,Crypto Derivative Trader,$31k - $37k,trader:crypto,6mo
-Bitso,https://web3.career/engineering-people-management-coach-bitso/997,Engineering People Management Coach,,,6mo
-Ethereum,https://web3.career/research-intern-ethereum/996,Research Intern,,intern:entry level:ethereum:remote,6mo
-"The Shattuck Group, LLC",https://web3.career/systems-integrator-shattuckgroup/995,Systems Integrator,,,6mo
-Supply Chain Wizard,https://web3.career/sales-development-representative-supplychainwizard/994,Sales Development Representative,$26k - $140k,sales:non tech,6mo
-Invictus Capital,https://web3.career/marketing-manager-invictuscapital/993,Marketing Manager,$80k - $180k,marketing:non tech:solana,6mo
-Unlimint,https://web3.career/product-manager-crypto-processing-unlimint/992,Product Manager (Crypto Processing),$60k - $160k,product manager:non tech:crypto,6mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Binance,https://web3.career/java-team-lead-binance/7681,"Taipei,
+Taiwan",Java Team Lead,$30k - $180k,java:lead,6mo
+Binance,https://web3.career/java-infra-architect-binance/7680,Asia,Java Infra Architect,$15k - $45k,architecture:java,6mo
+Binance,https://web3.career/java-developer-it-service-management-platform-binance/7679,Asia,Java Developer (IT Service Management Platform),$33k - $140k,dev:java,6mo
+Binance,https://web3.career/java-developer-internal-system-binance/7678,Asia,Java Developer (Internal System),$33k - $140k,dev:java,6mo
+Binance,https://web3.career/incident-manager-binance/7677,Asia,Incident Manager,,,6mo
+Binance,https://web3.career/backend-web-developer-node-js-binance/7676,Asia,Backend Web Developer (Node.JS),$65k - $150k,javascript:backend:dev:node,6mo
+Binance,https://web3.career/backend-service-developer-binance/7675,Asia,Backend Service Developer,$60k - $180k,backend:dev,6mo
+Binance,https://web3.career/back-end-developer-javascript-node-js-sre-binance/7674,Europe,"Back-end Developer (JavaScript, Node.JS) / SRE",$65k - $150k,javascript:backend:dev:node:senior,6mo
+Binance,https://web3.career/api-solution-engineer-python-node-js-developer-client-support-binance/7673,"Singapore,
+Singapore",API Solution Engineer (Python+Node.JS Developer; Client Support),,javascript:api:dev:node:python,6mo
+OKEx,https://web3.career/software-engineer-java-exchange-platform-trading-services-okex/7671,"Hong Kong,
+Hong Kong",Software Engineer - Java (Exchange Platform - Trading Services),$33k - $140k,dev:java,6mo
+Gate.io,https://web3.career/global-community-social-media-assistant-gate-io/7670,ASIA,Global community & social media assistant,$45k - $100k,community manager:non tech:social media,6mo
+Binance,https://web3.career/operations-analyst-intern-binance/7669,"Singapore,
+Singapore",Operations Analyst Intern,$20k - $30k,analyst:intern:entry level:operations,6mo
+Bitwise Asset Management,https://web3.career/product-management-development-lead-ny-or-sf-area-bitwiseinvestments/7668,"San Francisco,
+United States",Product Management & Development Lead (NY or SF Area),$60k - $200k,lead,6mo
+SuperRare Labs,https://web3.career/senior-mobile-engineer-android-superrarelabs/7667,"New York,
+United States",Senior Mobile Engineer (Android),,android:mobile:dev:senior:ethereum,6mo
+Binance,https://web3.career/affiliates-executive-kol-binance/7666,Africa,Affiliates Executive (KOL),$70k - $180k,executive,6mo
+Web3 Foundation,https://web3.career/community-manager-web3-foundation/7665,,Community Manager,$40k - $100k,community manager:non tech,6mo
+Kraken Digital Asset Exchange,https://web3.career/senior-product-marketing-manager-kraken/7664,Remote,Senior Product Marketing Manager,$46k - $109k,marketing:non tech:senior:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/media-relations-pr-manager-kraken/7663,United States,Media Relations/PR Manager,$45k - $130k,marketing:non tech,6mo
+Kraken Digital Asset Exchange,https://web3.career/growth-marketing-manager-paid-acquisition-japan-kraken/7662,Japan,"Growth Marketing Manager - Paid Acquisition, Japan",$45k - $130k,marketing:non tech,6mo
+Kraken Digital Asset Exchange,https://web3.career/growth-marketing-manager-paid-acquisition-apac-kraken/7661,Remote,Growth Marketing Manager - Paid Acquisition APAC,$25k - $120k,marketing:non tech:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/director-of-brand-partnerships-kraken/7660,Remote,Director of Brand Partnerships,$100k - $200k,sales:non tech:marketing:executive:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/cryptowatch-social-media-manager-kraken/7659,Remote,Cryptowatch Social Media Manager,$35k - $110k,social media:non tech:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/content-writer-financial-institutions-kraken/7658,Remote,Content Writer - Financial Institutions,,copywriting:finance:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/ux-researcher-kraken/7657,Remote,UX Researcher,$50k - $135k,design:non tech:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/ui-designer-kraken/7656,Remote,UI Designer,$50k - $135k,design:non tech:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/senior-ux-researcher-kraken/7655,Remote,Senior UX Researcher,$60k - $120k,senior:design:non tech:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/vice-president-of-data-kraken/7654,Remote,Vice President of Data,$50k - $135k,data science:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/senior-marketing-data-analyst-kraken/7653,Remote,Senior Marketing Data Analyst,,analyst:data science:marketing:non tech:senior,6mo
+Kraken Digital Asset Exchange,https://web3.career/data-scientist-growth-kraken/7652,Remote,Data Scientist - Growth,,data science:marketing:non tech:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/uat-frontend-qa-automation-developer-kraken/7651,Remote,UAT Frontend QA Automation Developer,,dev:front end:quality assurance:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/test-engineer-qa-rust-core-backend-kraken/7650,Remote,Test Engineer (QA) - Rust - Core Backend,,backend:dev:quality assurance:rust:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/sr-site-reliability-engineer-devops-kraken/7649,Remote,Sr. Site Reliability Engineer - DevOps,$150k - $180k,devops:dev:sys admin:senior:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/software-engineer-go-trading-technology-kraken/7648,Remote,"Software engineer, Go - Trading Technology",$22k - $150k,dev:golang:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/software-engineer-in-test-kraken/7647,Remote,Software Engineer in Test,,quality assurance:dev:remote,6mo
+Kraken Digital Asset Exchange,https://web3.career/software-engineer-c-trading-technology-kraken/7646,Remote,"Software engineer C++ , Trading technology",$100k - $150k,c:c plus plus:dev:remote,6mo

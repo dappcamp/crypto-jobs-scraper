@@ -1,36 +1,63 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Immutable,https://web3.career/product-manager-monetisation-immutable/9896,Product Manager (Monetisation),$115k - $175k,product manager:non tech:remote,5mo
-Akash Network,https://web3.career/engineering-manager-akashnetwork/9895,Engineering Manager,$79k - $200k,executive:remote,5mo
-Zerion,https://web3.career/senior-android-engineer-zerion/9894,🤖 Senior Android Engineer,,android:mobile:dev:senior:remote,5mo
-Zerion,https://web3.career/senior-backend-engineer-zerion/9893,🐍 Senior Backend Engineer,$70k - $200k,backend:dev:senior:remote,5mo
-Wintermute,https://web3.career/senior-algo-trading-quant-wintermute-trading/9892,Senior Algo Trading Quant,$78k - $200k,senior,5mo
-Wintermute,https://web3.career/algorithmic-trader-graduate-2022-wintermute-trading/9891,Algorithmic Trader Graduate 2022,,intern:entry level:trader,5mo
-Wintermute,https://web3.career/algorithmic-trader-graduate-2022-wintermute-trading/9890,Algorithmic Trader Graduate 2022,,intern:entry level:trader,5mo
-Wintermute,https://web3.career/algorithmic-trader-wintermute-trading/9889,Algorithmic Trader,$31k - $37k,trader,5mo
-Wintermute,https://web3.career/algorithmic-trader-wintermute-trading/9888,Algorithmic Trader,$31k - $37k,trader,5mo
-Wintermute,https://web3.career/algo-trading-developer-intern-2022-wintermute-trading/9887,Algo trading / developer intern 2022,$12k - $33k,dev:intern:entry level,5mo
-Wintermute,https://web3.career/software-engineer-python-wintermute-trading/9886,Software Engineer (Python),$140k - $200k,dev:python,5mo
-Wintermute,https://web3.career/senior-full-stack-engineer-wintermute-trading/9885,Senior Full Stack Engineer,$70k - $180k,dev:full stack:senior,5mo
-Wintermute,https://web3.career/infrastructure-support-wintermute-trading/9884,Infrastructure Support,$40k - $80k,customer support,5mo
-Wintermute,https://web3.career/core-developer-python-wintermute-trading/9883,Core Developer (Python),$140k - $200k,dev:python,5mo
-Wintermute,https://web3.career/c-quant-developer-wintermute-trading/9882,C++ Quant Developer,$100k - $150k,c:c plus plus:dev,5mo
-Wintermute,https://web3.career/business-development-partnerships-director-asia-wintermute-trading/9881,Business Development & Partnerships Director Asia,$40k - $150k,sales:non tech:executive,5mo
-Wintermute,https://web3.career/graduate-software-developer-defi-2022-wintermute-trading/9880,Graduate Software Developer - DeFi - 2022,$12k - $33k,dev:intern:entry level:defi,5mo
-Wintermute,https://web3.career/graduate-algorithmic-trader-defi-wintermute-trading/9879,Graduate Algorithmic Trader - DeFi,,intern:entry level:trader:defi,5mo
-The Block,https://web3.career/vp-revenue-operations-theblockcrypto/9878,"VP, Revenue Operations",,operations:executive:remote,5mo
-The Block,https://web3.career/senior-account-manager-theblockcrypto/9877,Senior Account Manager,,account manager:senior:remote,5mo
-The Block,https://web3.career/manager-business-development-theblockcrypto/9876,"Manager, Business Development",$29k - $108k,sales:non tech:remote,5mo
-The Block,https://web3.career/campaign-manager-sponsorships-theblockcrypto/9875,"Campaign Manager, Sponsorships",$45k - $130k,marketing:non tech,5mo
-The Block,https://web3.career/business-development-associate-theblockcrypto/9874,Business Development Associate,$29k - $108k,sales:non tech:remote,5mo
-The Block,https://web3.career/account-manager-memberships-theblockcrypto/9873,"Account Manager, Memberships",,account manager:remote,5mo
-The Block,https://web3.career/account-management-associate-memberships-theblockcrypto/9872,"Account Management Associate, Memberships",$56k - $160k,remote,5mo
-The Block,https://web3.career/account-executive-new-business-theblockcrypto/9871,"Account Executive, New Business",$79k - $200k,executive:remote,5mo
-The Block,https://web3.career/research-intern-theblockcrypto/9870,Research Intern,,intern:entry level,5mo
-The Block,https://web3.career/research-analyst-services-team-theblockcrypto/9869,Research Analyst - Services Team,$45k - $120k,analyst:remote,5mo
-The Block,https://web3.career/research-analyst-reports-team-theblockcrypto/9868,Research Analyst - Reports Team,$45k - $120k,analyst:remote,5mo
-The Block,https://web3.career/research-analyst-content-team-theblockcrypto/9867,Research Analyst - Content Team,$45k - $120k,analyst:remote,5mo
-The Block,https://web3.career/research-analyst-company-intelligence-team-theblockcrypto/9866,Research Analyst - Company Intelligence Team,$40k - $120k,analyst,5mo
-The Block,https://web3.career/research-analyst-asset-research-team-theblockcrypto/9865,Research Analyst - Asset Research Team,$45k - $120k,analyst:remote,5mo
-The Block,https://web3.career/sr-product-engineer-nodejs-theblockcrypto/9864,Sr. Product Engineer (Nodejs),$60k - $155k,dev:javascript:node:senior:remote,5mo
-The Block,https://web3.career/site-reliability-engineer-theblockcrypto/9863,Site Reliability Engineer,$150k - $200k,dev:sys admin:remote,5mo
-The Block,https://web3.career/senior-product-manager-theblockcrypto/9862,Senior Product Manager,$80k - $150k,product manager:non tech:senior:remote,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Eco,https://web3.career/senior-mobile-engineer-econetwork/10407,,Senior Mobile Engineer,$120k - $200k,dev:mobile:senior:react:react native,6mo
+Eco,https://web3.career/senior-backend-engineer-econetwork/10406,,Senior Backend Engineer,$70k - $200k,backend:dev:senior,6mo
+Eco,https://web3.career/qa-engineering-lead-econetwork/10405,,QA Engineering Lead,$100k - $180k,lead:quality assurance,6mo
+Eco,https://web3.career/product-manager-econetwork/10404,,Product Manager,$69k - $160k,product manager:non tech,6mo
+Eco,https://web3.career/engineering-manager-econetwork/10403,,Engineering Manager,$115k - $150k,executive:react:react native,6mo
+DFINITY,https://web3.career/office-manager-dfinity/10402,"Zurich,
+Switzerland",Office Manager,,,6mo
+DFINITY,https://web3.career/senior-security-engineer-incident-response-dfinity/10401,"Zurich,
+Switzerland","Senior Security Engineer, Incident Response",$95k - $250k,dev:security:senior:ruby,6mo
+DFINITY,https://web3.career/senior-security-engineer-incident-response-dfinity/10400,"Palo Alto,
+United States","Senior Security Engineer, Incident Response",$95k - $250k,dev:security:senior:ruby,6mo
+DFINITY,https://web3.career/senior-infrastructure-security-engineer-dfinity/10399,"Zurich,
+Switzerland",Senior Infrastructure Security Engineer,$95k - $250k,dev:security:senior:ruby,6mo
+DFINITY,https://web3.career/senior-infrastructure-security-engineer-dfinity/10398,"Palo Alto,
+United States",Senior Infrastructure Security Engineer,$95k - $250k,dev:security:senior:ruby,6mo
+DFINITY,https://web3.career/infrastructure-security-engineer-dfinity/10397,"Zurich,
+Switzerland",Infrastructure Security Engineer,,dev:security:ruby,6mo
+DFINITY,https://web3.career/infrastructure-security-engineer-dfinity/10396,"Palo Alto,
+United States",Infrastructure Security Engineer,,dev:security:ruby,6mo
+DFINITY,https://web3.career/application-security-engineer-dfinity/10395,"Zurich,
+Switzerland",Application Security Engineer,$130k - $200k,dev:security:javascript:rust,6mo
+DFINITY,https://web3.career/application-security-engineer-dfinity/10394,"Palo Alto,
+United States",Application Security Engineer,$130k - $200k,dev:security:javascript:rust,6mo
+DFINITY,https://web3.career/research-scientist-dfinity/10393,"Palo Alto,
+United States",Research Scientist,$70k - $180k,rust,6mo
+DFINITY,https://web3.career/research-scientist-dfinity/10392,"Zurich,
+Switzerland",Research Scientist,$70k - $180k,rust,6mo
+DFINITY,https://web3.career/hr-operations-specialist-dfinity/10391,"Zurich,
+Switzerland",HR Operations Specialist,,hr:non tech:operations,6mo
+DFINITY,https://web3.career/community-manager-dfinity/10390,"Palo Alto,
+United States",Community Manager,$40k - $100k,community manager:non tech,6mo
+DFINITY,https://web3.career/head-of-evangelism-dfinity/10389,"Palo Alto,
+United States",Head of Evangelism,$70k - $180k,executive,6mo
+DFINITY,https://web3.career/developer-relations-engineer-dfinity/10388,"Palo Alto,
+United States",Developer Relations Engineer,,customer support:dev:javascript:rust,6mo
+DFINITY,https://web3.career/developer-relations-engineer-dfinity/10387,"Zurich,
+Switzerland",Developer Relations Engineer,,customer support:dev:javascript:rust,6mo
+DFINITY,https://web3.career/software-engineer-systems-dfinity/10386,"Palo Alto,
+United States",Software Engineer - Systems,$75k - $190k,dev:rust,6mo
+DFINITY,https://web3.career/software-engineer-systems-dfinity/10385,Switzerland,Software Engineer - Systems,$75k - $190k,dev:rust,6mo
+DFINITY,https://web3.career/software-engineer-sdk-dfinity/10384,"Palo Alto,
+United States","Software Engineer, SDK",$69k - $160k,dev:javascript:rust,6mo
+DFINITY,https://web3.career/software-engineer-network-nervous-system-dfinity/10383,"Palo Alto,
+United States",Software Engineer - Network Nervous System,$75k - $190k,dev:rust,6mo
+DFINITY,https://web3.career/software-engineer-network-nervous-system-dfinity/10382,"Zurich,
+Switzerland",Software Engineer - Network Nervous System,$75k - $190k,dev:rust,6mo
+DFINITY,https://web3.career/software-engineer-networking-dfinity/10381,"Palo Alto,
+United States",Software Engineer - Networking,$75k - $190k,dev:rust,6mo
+DFINITY,https://web3.career/software-engineer-networking-dfinity/10380,Switzerland,Software Engineer - Networking,$75k - $190k,dev:rust,6mo
+DFINITY,https://web3.career/software-engineer-distributed-systems-dfinity/10379,"San Francisco,
+United States",Software Engineer - Distributed Systems,$69k - $160k,dev:javascript:rust,6mo
+DFINITY,https://web3.career/software-engineer-distributed-systems-dfinity/10378,Switzerland,Software Engineer - Distributed Systems,$75k - $190k,dev:rust,6mo
+DFINITY,https://web3.career/senior-software-engineer-cryptography-dfinity/10377,"Palo Alto,
+United States",Senior Software Engineer - Cryptography,$120k - $210k,dev:senior:rust,6mo
+DFINITY,https://web3.career/senior-software-engineer-cryptography-dfinity/10376,"Zurich,
+Switzerland",Senior Software Engineer - Cryptography,$120k - $210k,dev:senior:rust,6mo
+DFINITY,https://web3.career/senior-release-management-software-engineer-dfinity/10375,"Zurich,
+Switzerland",Senior Release Management Software Engineer,$120k - $210k,dev:senior:rust,6mo
+DFINITY,https://web3.career/senior-release-management-software-engineer-dfinity/10374,"Palo Alto,
+United States",Senior Release Management Software Engineer,$120k - $210k,dev:senior:rust,6mo
+DFINITY,https://web3.career/full-stack-software-engineer-dfinity/10373,"Palo Alto,
+United States",Full Stack Software Engineer,$65k - $180k,dev:full stack:react:rust,6mo

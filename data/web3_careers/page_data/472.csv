@@ -1,36 +1,60 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-Figure,https://web3.career/visual-designer-figure/471,Visual Designer,$50k - $150k,design:non tech,7mo
-Figure,https://web3.career/senior-product-designer-figure-pay-figure/470,"Senior Product Designer, Figure Pay",$60k - $120k,design:non tech:senior,7mo
-Figure,https://web3.career/senior-product-designer-figure/469,Senior Product Designer,$60k - $120k,design:non tech:senior,7mo
-Figure,https://web3.career/principal-servicing-product-manager-figure/468,Principal Servicing Product Manager,$135k - $170k,executive:product manager:non tech,7mo
-Figure,https://web3.career/pricing-analyst-mortgage-figure/467,"Pricing Analyst, Mortgage",$40k - $120k,analyst,7mo
-Figure,https://web3.career/figure-pay-support-specialist-figure/466,Figure Pay Support Specialist,$40k - $80k,customer support,7mo
-Figure,https://web3.career/technical-talent-partner-figure/465,Technical Talent Partner,$40k - $70k,recruiter:non tech,7mo
-Figure,https://web3.career/talent-acquisition-partner-figure/464,Talent Acquisition Partner,$40k - $70k,recruiter:non tech,7mo
-Figure,https://web3.career/senior-marketing-manager-figure-pay-figure/463,"Senior Marketing Manager, Figure Pay",$46k - $109k,marketing:non tech:senior,7mo
-Figure,https://web3.career/head-of-compliance-figure/462,Head of Compliance,,compliance:executive,7mo
-Figure,https://web3.career/figure-securities-bsa-aml-officer-figure/461,Figure Securities BSA/AML Officer,,,7mo
-Figure,https://web3.career/staff-accountant-figure/460,Staff Accountant,$25k - $150k,accounting,7mo
-Figure,https://web3.career/post-close-specialist-figure/459,Post-Close Specialist,,,7mo
-Figure,https://web3.career/bank-partnership-manager-figure/458,Bank Partnership Manager,$40k - $140k,sales:non tech:finance,7mo
-Figure,https://web3.career/staff-software-engineer-mortgage-figure/457,"Staff Software Engineer, Mortgage",$33k - $140k,dev:java,7mo
-Figure,https://web3.career/staff-software-engineer-digital-funds-figure/456,"Staff Software Engineer, Digital Funds",$43k - $140k,dev:react:java,7mo
-Figure,https://web3.career/staff-software-engineer-alternative-trading-system-figure/455,"Staff Software Engineer, Alternative Trading System",$43k - $140k,dev:react:java,7mo
-Figure,https://web3.career/software-engineer-servicing-figure/454,"Software Engineer, Servicing",$43k - $140k,dev:react:java,7mo
-Figure,https://web3.career/software-engineer-mortgage-figure/453,"Software Engineer, Mortgage",$43k - $140k,dev:react:java,7mo
-Figure,https://web3.career/software-engineer-lending-figure/452,"Software Engineer, Lending",$43k - $140k,dev:react:java,7mo
-Figure,https://web3.career/software-engineer-cash-management-engine-figure/451,"Software Engineer, Cash Management Engine",$43k - $140k,dev:react:java,7mo
-Figure,https://web3.career/software-engineer-alternative-trading-system-figure/450,"Software Engineer, Alternative Trading System",$43k - $140k,dev:react:java,7mo
-Figure,https://web3.career/software-development-engineer-in-test-figure/449,Software Development Engineer in Test,$50k - $150k,quality assurance:dev:react:java,7mo
-Figure,https://web3.career/senior-software-engineer-provenance-figure/448,"Senior Software Engineer, Provenance",$50k - $200k,dev:senior:java:golang:rust,7mo
-Figure,https://web3.career/senior-software-engineer-figure-pay-figure/447,"Senior Software Engineer, Figure Pay",$70k - $180k,dev:senior:react:java,7mo
-Figure,https://web3.career/senior-software-engineer-digital-funds-figure/446,"Senior Software Engineer, Digital Funds",$70k - $180k,dev:senior:react:java,7mo
-Figure,https://web3.career/senior-software-engineer-customer-success-portal-figure/445,"Senior Software Engineer, Customer Success Portal",,customer support:dev:senior:javascript,7mo
-Figure,https://web3.career/senior-software-development-engineer-in-test-figure/444,Senior Software Development Engineer in Test,$30k - $50k,quality assurance:dev:senior:react:java,7mo
-Figure,https://web3.career/principal-application-security-engineer-figure/443,Principal Application Security Engineer,$95k - $250k,dev:executive:security,7mo
-Figure,https://web3.career/devops-engineer-figure/442,DevOps Engineer,$60k - $100k,devops:dev:golang,7mo
-Figure,https://web3.career/business-operations-analyst-figure/441,Business Operations Analyst,,analyst:operations,7mo
-Figure,https://web3.career/principal-data-scientist-figure/440,Principal Data Scientist,,data science:executive,7mo
-Figure,https://web3.career/servicing-operations-supervisor-figure/439,Servicing Operations Supervisor,$60k - $200k,operations,7mo
-Figure,https://web3.career/servicing-operations-associate-figure/438,Servicing Operations Associate,$60k - $200k,operations,7mo
-Figure,https://web3.career/quality-assurance-analyst-figure/437,Quality Assurance Analyst,$40k - $120k,analyst,7mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+Supply Chain Wizard,https://web3.career/sales-development-representative-supplychainwizard/994,"Izmir,
+Turkey",Sales Development Representative,$26k - $140k,sales:non tech,7mo
+Invictus Capital,https://web3.career/marketing-manager-invictuscapital/993,"Cape Town,
+South Africa",Marketing Manager,$80k - $180k,marketing:non tech:solana,7mo
+Unlimint,https://web3.career/product-manager-crypto-processing-unlimint/992,"Saint Petersburg,
+Russia",Product Manager (Crypto Processing),$60k - $160k,product manager:non tech:crypto,7mo
+"Arquimea Group, S.L",https://web3.career/lead-scientist-biotechnology-arquimea/991,"La Laguna,
+Mexico",Lead Scientist Biotechnology,$60k - $200k,lead,7mo
+Bitkub,https://web3.career/product-intern-bitkub/990,"Bangkok,
+Thailand",Product Intern,,intern:entry level,7mo
+Chilipay Limited,https://web3.career/product-owner-spain-malta-remote-chiliz/989,Gzira,Product Owner (Spain / Malta / Remote),$115k - $175k,product manager:non tech:remote,7mo
+Lukka,https://web3.career/software-architect-lukka/988,Remote,Software Architect,$50k - $300k,architecture:dev:remote,7mo
+Syntropy,https://web3.career/blockchain-engineer-rust-substrate-syntropynet/987,Remote,Blockchain Engineer (Rust / Substrate),$79k - $190k,dev:rust:blockchain:remote,7mo
+Lukka,https://web3.career/backend-engineer-lukka/986,Remote,Backend Engineer,$60k - $160k,backend:dev:java:remote,7mo
+Bundle,https://web3.career/blockchain-engineer-bundleafrica/985,Remote,Blockchain Engineer,$52k - $160k,dev:blockchain:solidity:javascript:java,7mo
+BC Technology (Hong Kong) Limited,https://web3.career/manager-settlement-uk-mexico-bcgroup/984,"Hong Kong,
+Hong Kong","Manager, Settlement (UK/ Mexico)",,,7mo
+Centurion Group,https://web3.career/business-controller-centuriongroup/983,"Tunis,
+Tunisia",Business Controller,$24k - $140k,legal,7mo
+Lukka,https://web3.career/corporate-infrastructure-manager-lukka/982,Remote,Corporate Infrastructure Manager,$60k - $150k,javascript:remote,7mo
+IntellectEU,https://web3.career/test-automation-engineer-intellecteu/981,"Antwerp,
+Belgium",Test Automation Engineer,$33k - $140k,dev:java,7mo
+28stone,https://web3.career/mid-senior-level-python-application-developers-28stone/980,Latvia,Mid-Senior level Python Application Developers,$130k - $200k,python:senior,7mo
+Uphold,https://web3.career/director-human-resources-uphold/979,"Porto,
+Portugal","Director, Human Resources",$70k - $180k,executive,7mo
+Web 3.0 Technologies Foundation,https://web3.career/community-manager-web3/978,"Zug,
+Switzerland",Community Manager,$40k - $100k,community manager:non tech,7mo
+Bitkub,https://web3.career/product-analyst-bitkub/977,"Bangkok,
+Thailand",Product Analyst,$40k - $120k,analyst,7mo
+Celsius,https://web3.career/data-analytics-developer-celsius/976,"Austin,
+United States",Data Analytics Developer,$360k - $500k,stats:dev,7mo
+Lukka,https://web3.career/customer-success-specialist-lukka/975,Remote,Customer Success Specialist,$40k - $80k,customer support:remote,7mo
+Ethereum,https://web3.career/c-software-engineer-solidity-ethereum/974,"Berlin,
+Germany",C++ Software Engineer Solidity,$100k - $150k,c:c plus plus:dev:solidity:ethereum,7mo
+Hypersphere Capital Management LP,https://web3.career/cryptocurrency-analyst-hypersphere/973,"Miami,
+United States",Cryptocurrency Analyst,$160k - $240k,analyst:crypto:solidity:nft:rust,7mo
+Syntropy,https://web3.career/blockchain-technology-analyst-syntropynet/972,Remote,Blockchain / Technology Analyst,$60k - $104k,analyst:blockchain:remote,7mo
+Syntropy,https://web3.career/director-of-alliances-and-partnerships-syntropynet/971,Remote,Director of Alliances and Partnerships,$40k - $150k,sales:non tech:executive:remote,7mo
+Web 3.0 Technologies Foundation,https://web3.career/formal-verification-research-engineer-web3/970,"Zug,
+Switzerland",Formal Verification Research Engineer,$69k - $160k,dev:javascript:rust,7mo
+Celsius,https://web3.career/senior-credit-officer-celsius/969,United States,Senior Credit Officer,$78k - $200k,senior,7mo
+Bitkub,https://web3.career/tax-specialist-bitkub/968,"Bangkok,
+Thailand",Tax Specialist,$25k - $150k,accounting,7mo
+Bitkub,https://web3.career/illustrator-graphic-designer-bitkub/967,"Bangkok,
+Thailand",Illustrator & Graphic Designer,$65k - $80k,design:non tech:illustrator,7mo
+Celsius,https://web3.career/data-engineer-celsius/966,"Austin,
+United States",Data Engineer,,data science:dev:java,7mo
+Uphold,https://web3.career/product-manager-core-crypto-defi-eth2-pos-uphold/965,"London,
+United Kingdom","Product Manager (Core Crypto / DeFi, ETH2, PoS)",$60k - $160k,product manager:non tech:crypto:defi,7mo
+Securitize,https://web3.career/qa-testing-engineer-securitize/964,"Tel Aviv,
+Israel",QA Testing Engineer,$30k - $50k,dev:quality assurance:java,7mo
+Uphold,https://web3.career/crypto-channel-director-uphold/963,"London,
+United Kingdom",Crypto Channel Director,$50k - $158k,executive:crypto,7mo
+Uphold,https://web3.career/senior-devops-engineer-uphold/962,"London,
+United Kingdom",Senior DevOps Engineer,$120k - $200k,devops:dev:senior,7mo
+Uphold,https://web3.career/blockchain-engineer-uphold/961,"Dublin,
+Ireland",Blockchain Engineer,$52k - $160k,dev:blockchain:solidity:javascript:node,7mo
+"Arquimea Group, S.L",https://web3.career/bioinformatics-postdoctoral-researcher-arquimea/960,"La Laguna,
+Mexico",Bioinformatics Postdoctoral Researcher,,,7mo

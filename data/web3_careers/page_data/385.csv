@@ -1,36 +1,69 @@
-Company Name,Job Link,Job Title,Salary Range,Tags,Posted Before
-SwissBorg,https://web3.career/senior-marketing-strategy-manager-remote-eu-swissborg/9826,"Senior Marketing Strategy Manager (Remote, EU)",$25k - $120k,remote:marketing:non tech:senior,5mo
-SwissBorg,https://web3.career/marketing-automation-specialist-remote-swissborg/9825,Marketing Automation Specialist (Remote),$25k - $120k,remote:marketing:non tech,5mo
-SwissBorg,https://web3.career/marketing-automation-specialist-remote-swissborg/9824,Marketing Automation Specialist (Remote),$25k - $120k,remote:marketing:non tech,5mo
-SwissBorg,https://web3.career/data-engineering-manager-swissborg/9823,Data Engineering Manager,$70k - $180k,executive,5mo
-SwissBorg,https://web3.career/acquisition-manager-remote-swissborg/9822,Acquisition Manager (Remote),$56k - $160k,remote,5mo
-SwissBorg,https://web3.career/acquisition-manager-remote-swissborg/9821,Acquisition Manager (Remote),$56k - $160k,remote,5mo
-SwissBorg,https://web3.career/web-engineer-remote-swissborg/9820,Web Engineer (Remote),$65k - $180k,remote:dev,5mo
-SwissBorg,https://web3.career/web-engineer-remote-swissborg/9819,Web Engineer (Remote),$65k - $180k,remote:dev,5mo
-SwissBorg,https://web3.career/software-engineer-data-remote-swissborg/9818,"Software Engineer, Data (Remote)",$65k - $180k,remote:dev,5mo
-SwissBorg,https://web3.career/software-engineer-data-remote-swissborg/9817,"Software Engineer, Data (Remote)",$65k - $180k,remote:dev,5mo
-SwissBorg,https://web3.career/software-engineer-data-remote-swissborg/9816,"Software Engineer, Data (Remote)",$65k - $180k,remote:dev,5mo
-SwissBorg,https://web3.career/site-reliability-engineer-sre-remote-swissborg/9815,Site Reliability Engineer (SRE) - Remote,$150k - $200k,remote:dev:sys admin:senior,5mo
-SwissBorg,https://web3.career/senior-scala-engineer-automation-remote-swissborg/9814,"Senior Scala Engineer, Automation (Remote)",,remote:dev:scala:senior,5mo
-SwissBorg,https://web3.career/scala-engineer-remote-swissborg/9813,Scala Engineer (Remote),,remote:dev:scala,5mo
-SwissBorg,https://web3.career/scala-engineer-remote-swissborg/9812,Scala Engineer (Remote),,remote:dev:scala,5mo
-SwissBorg,https://web3.career/qa-engineer-remote-swissborg/9811,QA Engineer (Remote),,remote:dev:quality assurance,5mo
-SwissBorg,https://web3.career/qa-engineer-remote-swissborg/9810,QA Engineer (Remote),,remote:dev:quality assurance,5mo
-SwissBorg,https://web3.career/financial-controller-remote-swissborg/9809,Financial Controller (Remote),,remote:legal:finance,5mo
-SwissBorg,https://web3.career/financial-controller-remote-swissborg/9808,Financial Controller (Remote),,remote:legal:finance,5mo
-SwissBorg,https://web3.career/accountant-remote-swissborg/9807,Accountant (Remote),$11k - $25k,remote:accounting,5mo
-SwissBorg,https://web3.career/accountant-remote-swissborg/9806,Accountant (Remote),$11k - $25k,remote:accounting,5mo
-SwissBorg,https://web3.career/accountant-remote-swissborg/9805,Accountant (Remote),$11k - $25k,remote:accounting,5mo
-SwissBorg,https://web3.career/accountant-remote-swissborg/9804,Accountant (Remote),$11k - $25k,remote:accounting,5mo
-SwissBorg,https://web3.career/senior-compliance-manager-swissborg/9803,Senior Compliance Manager,,compliance:senior,5mo
-SwissBorg,https://web3.career/french-senior-kyc-analyst-swissborg/9802,French Senior KYC Analyst,,kyc:analyst:senior,5mo
-SwissBorg,https://web3.career/french-relationship-manager-remote-swissborg/9801,French Relationship Manager (Remote),$25k - $120k,remote:marketing:non tech,5mo
-SwissBorg,https://web3.career/french-customer-service-agent-swissborg/9800,French Customer Service Agent,$40k - $80k,customer support,5mo
-"SundaeSwap Labs, Inc.",https://web3.career/lead-frontend-engineer-sundaeswap/9799,Lead Frontend Engineer,$56k - $79k,dev:front end:lead:remote,5mo
-Subspace Labs,https://web3.career/p2p-network-engineer-subspacelabs/9798,P2P Network Engineer,$70k - $180k,dev:rust:remote,5mo
-Subspace Labs,https://web3.career/evm-execution-engineer-subspacelabs/9797,EVM Execution Engineer,$70k - $160k,dev:ethereum:rust:remote,5mo
-Subspace Labs,https://web3.career/core-protocol-engineer-subspacelabs/9796,Core Protocol Engineer,$70k - $180k,dev:rust:remote,5mo
-Stardust Cards Corporation,https://web3.career/full-stack-engineer-stardust/9795,Full Stack Engineer,$70k - $200k,dev:full stack:remote,5mo
-Stardust Cards Corporation,https://web3.career/developer-operations-engineer-stardust/9794,Developer Operations Engineer,,dev:operations:remote,5mo
-Stacked,https://web3.career/internal-recruiter-stacked-invest/9793,Internal Recruiter,,recruiter:non tech:remote,5mo
-Stacked,https://web3.career/awesome-rockstar-we-don-t-know-we-need-yet-stacked-invest/9792,Awesome Rockstar We Don't Know We Need Yet,$56k - $160k,remote,5mo
+Company Name,Job Link,Job Location,Job Title,Salary Range,Tags,Posted Before
+CoinList,https://web3.career/product-designer-coinlist/10327,"San Francisco,
+United States",Product Designer,$100k - $150k,design:non tech:solana,6mo
+CoinList,https://web3.career/head-of-lending-coinlist/10326,"San Francisco,
+United States",Head of Lending,$85k - $180k,executive:solana,6mo
+CoinList,https://web3.career/wallets-support-analyst-coinlist/10325,"San Francisco,
+United States",Wallets Support Analyst,,analyst:customer support:solana,6mo
+CoinList,https://web3.career/office-manager-and-executive-assistant-coinlist/10324,"San Francisco,
+United States",Office Manager and Executive Assistant,$70k - $180k,executive,6mo
+CoinList,https://web3.career/exchange-data-analyst-coinlist/10323,"San Francisco,
+United States",Exchange Data Analyst,$36k - $72k,analyst:data science,6mo
+CoinList,https://web3.career/performance-marketing-associate-coinlist/10322,"San Francisco,
+United States",Performance Marketing Associate,$45k - $130k,marketing:non tech,6mo
+CoinList,https://web3.career/product-counsel-coinlist/10321,"San Francisco,
+United States",Product Counsel,$24k - $140k,legal,6mo
+CoinList,https://web3.career/onboarding-verification-specialist-contract-role-coinlist/10320,"San Francisco,
+United States",Onboarding/Verification Specialist [Contract Role],,,6mo
+CoinList,https://web3.career/legal-and-compliance-operations-specialist-coinlist/10319,"San Francisco,
+United States",Legal and Compliance Operations Specialist,,compliance:legal:operations,6mo
+CoinList,https://web3.career/assistant-controller-coinlist/10318,"San Francisco,
+United States",Assistant Controller,,finance:legal,6mo
+CoinList,https://web3.career/customer-support-analyst-social-media-contract-coinlist/10317,"San Francisco,
+United States",Customer Support Analyst (Social Media) [Contract],,analyst:customer support:social media:non tech:solana,6mo
+CoinList,https://web3.career/customer-support-analyst-europe-contract-coinlist/10316,"San Francisco,
+United States","Customer Support Analyst, Europe [Contract]",,analyst:customer support:solana,6mo
+CoinList,https://web3.career/customer-support-analyst-asia-pacific-region-contract-coinlist/10315,"San Francisco,
+United States","Customer Support Analyst, Asia Pacific Region [Contract]",,analyst:customer support:solana,6mo
+CoinList,https://web3.career/customer-support-analyst-americas-contract-coinlist/10314,"San Francisco,
+United States","Customer Support Analyst, Americas [Contract]",,analyst:customer support:solana,6mo
+CoinDesk & TradeBlock Opportunities,https://web3.career/technical-recruitment-specialist-coindesk/10313,United States,Technical Recruitment Specialist,$40k - $70k,recruiter:non tech,6mo
+CoinDesk & TradeBlock Opportunities,https://web3.career/editor-podcasts-audio-coindesk/10312,"New York,
+United States","Editor, Podcasts & Audio",$60k - $150k,ethereum,6mo
+CoinDesk & TradeBlock Opportunities,https://web3.career/cdtv-video-production-associate-coindesk-coindesk/10311,"New York,
+United States","CDTV Video Production Associate, CoinDesk",,video,6mo
+CoinDesk & TradeBlock Opportunities,https://web3.career/news-editor-europe-coindesk/10310,Remote,News Editor - Europe,$50k - $150k,react:remote,6mo
+CoinDesk & TradeBlock Opportunities,https://web3.career/senior-content-marketing-manager-coindesk-indexes-coindesk/10309,"New York,
+United States","Senior Content Marketing Manager, CoinDesk Indexes",$46k - $109k,marketing:non tech:senior,6mo
+Clearmatics,https://web3.career/lead-software-engineer-blockchain-golang-clearmatics/10308,"London,
+United Kingdom","Lead Software Engineer - Blockchain, Golang",$70k - $180k,dev:golang:lead:blockchain:solidity,6mo
+Clearmatics,https://web3.career/cryptography-engineer-research-blockchain-clearmatics/10307,"London,
+United Kingdom","Cryptography Engineer - Research, Blockchain",$33k - $120k,dev:blockchain:ethereum:rust,6mo
+Clearmatics,https://web3.career/general-applications-clearmatics/10306,"London,
+United Kingdom",General Applications,$60k - $150k,ethereum,6mo
+Chainalysis,https://web3.career/training-specialist-us-chainalysis/10305,"Washington,
+United States","Training Specialist, US",,education,6mo
+Chainalysis,https://web3.career/training-specialist-apac-korean-speaking-chainalysis/10304,"Seoul,
+South Korea","Training Specialist, APAC (Korean-speaking)",,education,6mo
+Chainalysis,https://web3.career/training-specialist-apac-japanese-speaking-chainalysis/10303,"Tokyo,
+Japan","Training Specialist, APAC (Japanese-speaking)",,education,6mo
+Chainalysis,https://web3.career/senior-solutions-architect-netherlands-chainalysis/10302,"Amsterdam,
+Netherlands","Senior Solutions Architect, Netherlands",$80k,architecture:senior,6mo
+Chainalysis,https://web3.career/senior-solutions-architect-dach-chainalysis/10301,"Frankfurt,
+Germany","Senior Solutions Architect, DACH",,architecture:senior:remote,6mo
+Chainalysis,https://web3.career/strategic-alliance-manager-chainalysis/10300,"New York,
+United States",Strategic Alliance Manager,,,6mo
+Chainalysis,https://web3.career/senior-sales-development-representative-emea-chainalysis/10299,"London,
+United Kingdom",Senior Sales Development Representative - EMEA,$50k - $150k,sales:non tech:senior,6mo
+Chainalysis,https://web3.career/senior-enterprise-account-executive-financial-institutions-south-east-asia-chainalysis/10298,"Singapore,
+Singapore","Senior Enterprise Account Executive, Financial Institutions, South East Asia",,executive:finance:senior,6mo
+Chainalysis,https://web3.career/senior-enterprise-account-executive-financial-institutions-apac-chainalysis/10297,"Sydney,
+Australia","Senior Enterprise Account Executive, Financial Institutions, APAC",,executive:finance:senior,6mo
+Chainalysis,https://web3.career/senior-account-executive-india-chainalysis/10296,"Delhi,
+India","Senior Account Executive, India",$46k - $110k,executive:senior,6mo
+Chainalysis,https://web3.career/senior-account-executive-government-chainalysis/10295,"Paris,
+France","Senior Account Executive, Government",$46k - $110k,executive:senior,6mo
+Chainalysis,https://web3.career/senior-account-executive-dach-chainalysis/10294,"Frankfurt,
+Germany","Senior Account Executive, DACH",$95k - $250k,executive:senior:remote,6mo
+Chainalysis,https://web3.career/senior-account-executive-commercial-france-chainalysis/10293,"Paris,
+France","Senior Account Executive, Commercial - France",$46k - $110k,executive:senior,6mo
