@@ -75,5 +75,8 @@
   "c++",
   "nodejs",
   "compiler",
-  "cv"
+  "cv",
+  "simulation",
+  "full-stack",
+  "full"
 ]
