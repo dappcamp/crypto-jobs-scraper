@@ -1,0 +1,12 @@
+{
+  "name": "node-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "javascript-time-ago": "^2.3.13",
+    "jsdom": "^19.0.0",
+    "json2csv": "^5.0.7"
+  }
+}
